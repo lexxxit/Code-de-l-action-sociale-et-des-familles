@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2004-12-30
+Version Consolidée au 2004-12-31
 
 # Partie législative
 
@@ -19499,7 +19499,9 @@ décret.
 Le montant total annuel des dépenses des établissements et services mentionnés aux a des 5° et 8° du I de l'article L. 312-1,
 imputables aux prestations prises en charge par l'aide sociale de l'Etat, et, corrélativement, le montant total annuel des
 dépenses prises en compte pour le calcul des dotations globales de fonctionnement de ces établissements et services sont
-déterminés par le montant limitatif inscrit à ce titre dans la loi de finances initiale de l'exercice considéré.
+déterminés par le total du montant limitatif inscrit à ce titre dans la loi de finances de l'année de l'exercice considéré
+et, à titre complémentaire, s'agissant des établissements et services mentionnés au a du 5° du I de l'article L. 312-1, des
+crédits inscrits à ce titre dans le budget du même exercice de la Caisse nationale de solidarité pour l'autonomie.
 
 Ce montant total annuel est constitué en dotations régionales limitatives. Le montant de ces dotations régionales est fixé
 par le ministre chargé de l'action sociale, en fonction des besoins de la population, des priorités définies au niveau
@@ -19522,12 +19524,6 @@ services.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Modifié par**:
-
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 50 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 53 () JORF 3 janvier 2002
 
 	**Liens**:
 
@@ -19565,6 +19561,10 @@ services.
 	  - Code de l'action sociale et des familles - art. R314-40 (V)
 	  - Code de l'action sociale et des familles - art. R314-47 (M)
 	  - Code de la consommation - art. L511-7 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2004-1484 du 30 décembre 2004 - art. 131 () JORF 31 décembre 2004
 
 	**Cite**:
 
