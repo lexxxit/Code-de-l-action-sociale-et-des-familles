@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2004-12-21
+Version Consolidée au 2004-12-30
 
 # Partie législative
 
@@ -63798,6 +63798,195 @@ l'établissement.
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L315-12 (M)
+
+
+#### Chapitre VI : Autres catégories d'établissements et de services soumis à autorisation
+
+##### Section unique : Lieux de vie et d'accueil
+
+###### Article D316-1
+
+I. - Un lieu de vie et d'accueil, au sens du III de l'article L. 312-1 vise, par un accompagnement continu et quotidien, à
+favoriser l'insertion sociale des personnes accueillies. Il constitue le milieu de vie habituel et commun des personnes
+accueillies et des permanents mentionnés au III dont l'un au moins réside sur le site où il est implanté.
+
+A l'égard des mineurs qui lui sont confiés, le lieu de vie et d'accueil exerce également une mission d'éducation, de
+protection et de surveillance.
+
+II. - Le lieu de vie et d'accueil est géré par une personne physique ou morale autorisée à accueillir au moins trois et au
+plus sept personnes, majeures ou mineures relevant des catégories énumérées au I de l'article D. 316-2, afin notamment de
+favoriser leur insertion sociale.
+
+Par dérogation à l'alinéa précédent, l'autorisation mentionnée à l'article L. 313-1 peut porter à dix le nombre maximal de
+personnes accueillies, sous réserve que ces personnes soient réparties dans deux unités de vie individualisées et que ces
+unités respectent chacune le nombre maximal fixé à l'alinéa précédent, dans le respect de la capacité globale prévue à ce
+même alinéa.
+
+III. - La structure est animée par une ou plusieurs personnes, dénommées permanents de lieux de vie, qui organisent et
+garantissent la mise en oeuvre des missions mentionnées au I du présent article.
+
+Sans préjudice du recrutement d'autres personnes salariées, la permanence de l'accueil dans la structure est garantie par un
+taux d'encadrement minimal fixé à une personne accueillante, exprimée en équivalent temps plein, pour trois personnes
+accueillies, lorsque la structure accueille des personnes relevant des catégories mentionnées aux 1 à 4 du I de l'article D.
+316-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2004-1444 du 23 décembre 2004 - art. 1 () JORF 30 décembre 2004
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. D571-4 (V)
+	  - Code de l'action sociale et des familles - art. D316-2 (V)
+	  - Code de l'action sociale et des familles - art. D316-5 (V)
+	  - Code de l'action sociale et des familles - art. R316-5 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L312-1 (M)
+	  - Code de l'action sociale et des familles - art. L313-1 (M)
+
+
+###### Article D316-2
+
+I. - Peuvent être accueillies dans un lieu de vie et d'accueil les personnes relevant des catégories énumérées ci-après :
+
+1. Des mineurs et des majeurs de moins de vingt et un ans relevant de l'article L. 222-5 ;
+
+2. Des mineurs et des majeurs de moins de vingt et un ans placés directement par l'autorité judiciaire en application :
+
+a) Du 3° de l'article 10, du 2° de l'article 15, du 2° de l'article 16 de l'ordonnance n° 45-174 du 2 février 1945 relative à
+l'enfance délinquante ;
+
+b) Du 3° de l'article 375-3 du code civil ;
+
+c) Du 5° alinéa de l'article 1er du décret n° 75-96 du 18 février 1975 fixant les modalités de mise en oeuvre d'une action de
+protection judiciaire en faveur des jeunes majeurs ;
+
+3. Des mineurs ou majeurs présentant des troubles psychiques ;
+
+4. Des mineurs ou majeurs handicapés ou présentant des difficultés d'adaptation ;
+
+5. Des personnes en situation de précarité ou d'exclusion sociale.
+
+II. - Ne peuvent être accueillis simultanément dans un lieu de vie et d'accueil, sans que la structure se voie appliquer les
+articles D. 341-1 à D. 341-7, plus de trois enfants de moins de trois ans accomplis.
+
+III. - Les structures mentionnées à l'article D. 316-1 ne peuvent accueillir sur un même site des personnes relevant de
+plusieurs catégories mentionnées au I du présent article que si :
+
+1. La cohabitation en résultant ne présente pas de danger pour la santé, la sécurité, l'intégrité ou le bien-être physique et
+moral des intéressés ;
+
+2. L'autorisation mentionnée à l'article L. 313-1 l'a expressément prévu et a précisé les catégories concernées.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 16 (M)
+	  - Décret n°75-96 1975-02-18 art. 1
+	  - Code civil - art. 375-3 (M)
+	  - Code de l'action sociale et des familles - art. L222-5 (M)
+	  - Code de l'action sociale et des familles - art. L313-1 (M)
+	  - Code de l'action sociale et des familles L222-5, D341-1 à D341-7, D316-1, L313-1
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2004-1444 du 23 décembre 2004 - art. 1 () JORF 30 décembre 2004
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. D571-4 (V)
+	  - Code de l'action sociale et des familles - art. D316-1 (V)
+	  - Code de l'action sociale et des familles - art. D316-3 (V)
+	  - Code de l'action sociale et des familles - art. D316-5 (V)
+
+
+###### Article D316-3
+
+Selon les cas, les personnes énumérées au I de l'article D. 316-2 peuvent être adressées ou orientées :
+
+1. Par un président de conseil général, un préfet de département, une autorité judiciaire ;
+
+2. Par un établissement de santé, un établissement ou un service social ou médico-social ;
+
+3. Par la famille, le représentant légal ou l'entourage des intéressés ;
+
+4. Par les commissions mentionnées aux articles L. 242-2 et L. 243-1.
+
+Les autorités, les personnes physiques et morales et les commissions précitées peuvent être extérieures au département
+d'implantation du lieu de vie et d'accueil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2004-1444 du 23 décembre 2004 - art. 1 () JORF 30 décembre 2004
+
+	**Cité par**:
+
+	  - Décret n°2004-1444 du 23 décembre 2004 - art. 2 (V)
+	  - Code de l'action sociale et des familles - art. D316-4 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D316-2 (V)
+	  - Code de l'action sociale et des familles - art. L242-2 (Ab)
+	  - Code de l'action sociale et des familles - art. L243-1 (Ab)
+
+
+###### Article D316-4
+
+I. - Les dispositions relatives au contrôle, mentionnées à la section IV du chapitre III du titre Ier du livre III du code de
+l'action sociale et des familles sont applicables aux lieux de vie et d'accueil.
+
+II. - Dans le respect du principe de confidentialité mentionné au 4° de l'article L. 311-3, le responsable du lieu de vie et
+d'accueil retrace, dans un document, les indications relatives aux caractéristiques des personnes accueillies ainsi que la
+date de leur entrée et celle de leur sortie.
+
+Ce document est tenu en permanence à la disposition des autorités et personnes morales mentionnées aux 1 et 2 de l'article D.
+316-3. En cas de modification, il est transmis sans délai aux autorités ayant délivré l'autorisation mentionnée à l'article
+L. 313-1.
+
+III. - Le responsable du lieu de vie et d'accueil établit, au moins chaque année, un rapport sur l'évolution de la situation
+de chaque personne accueillie et sur l'organisation des conditions de son accueil.
+
+Ce rapport est adressé à l'autorité, la personne morale ou la commission mentionnées aux 1, 2 et 4 de l'article D. 316-3,
+responsable de l'adressage ou de l'orientation.
+
+Dans le cas où la personne a été adressée par l'une des personnes physiques mentionnées au 3 de l'article D. 316-3, ledit
+rapport est transmis au préfet de département d'implantation du lieu de vie et d'accueil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2004-1444 du 23 décembre 2004 - art. 1 () JORF 30 décembre 2004
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D316-3 (V)
+	  - Code de l'action sociale et des familles - art. L311-3 (M)
+	  - Code de l'action sociale et des familles - art. L313-1 (M)
 
 
 ### Titre II : Etablissements soumis à déclaration
