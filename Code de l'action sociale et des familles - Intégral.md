@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2004-02-24
+Version Consolidée au 2004-03-02
 
 # Partie législative
 
@@ -27698,6 +27698,98 @@ relations entre l'administration et le public et diverses dispositions d'ordre a
 
 
 ### Titre VI : Polynésie française
+
+#### Chapitre Ier A : Dispositions relatives à l'obligation alimentaire
+
+###### Article L560-1
+
+Les articles L. 132-6 à L. 132-10 sont applicables en Polynésie française sous réserve des adaptations prévues au présent
+chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2004-193 du 27 février 2004 - art. 26 () JORF 2 mars 2004
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L132-6 (V)
+
+
+###### Article L560-2
+
+Dans le deuxième alinéa de l'article L. 132-6, les mots : " la commission " sont remplacés par les mots : " l'organisme ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2004-193 du 27 février 2004 - art. 26 () JORF 2 mars 2004
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L132-6 (V)
+
+
+###### Article L560-3
+
+I. - Pour l'application de l'article L. 132-7, les mots : "le représentant de l'Etat ou le président du conseil général" sont
+remplacés par les mots : "l'autorité territorialement compétente" et les mots : "selon le cas, à l'Etat ou au département"
+sont remplacés par les mots : "à la collectivité compétente".
+
+II. - Pour l'application du premier alinéa de l'article L. 132-8, les mots : "selon le cas, par l'Etat ou le département"
+sont remplacés par les mots : "par la collectivité compétente".
+
+III. - Pour l'application de l'avant-dernier alinéa de l'article L. 132-8, les mots : "de soins de ville prévus par l'article
+L. 111-2 et la prise en charge du forfait journalier," sont supprimés.
+
+IV. - Pour l'application du dernier alinéa de l'article L. 132-8, les mots : "ou de la prise en charge du forfait journalier"
+sont supprimés.
+
+V. - Pour l'application du premier alinéa de l'article L. 132-9, les mots : "le représentant de l'Etat ou le président du
+conseil général" sont remplacés par les mots : "l'autorité territorialement compétente".
+
+VI. - Pour l'application du dernier alinéa de l'article L. 132-9, les mots : "et la prise en charge du forfait journalier"
+sont supprimés.
+
+VII. - Pour l'application de l'article L. 132-10, les mots :
+
+"L'Etat ou le département sont, dans la limite des prestations allouées, subrogés" sont remplacés par les mots : "La
+collectivité compétente est, dans la limite des prestations allouées, subrogée".
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2004-193 du 27 février 2004 - art. 26 () JORF 2 mars 2004
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L132-10 (V)
+	  - Code de l'action sociale et des familles - art. L132-7 (V)
+	  - Code de l'action sociale et des familles - art. L132-8 (M)
+	  - Code de l'action sociale et des familles - art. L132-9 (M)
+
 
 #### Chapitre Ier : Accès aux origines personnelles
 
