@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2002-12-24
+Version Consolidée au 2002-12-31
 
 # Partie législative
 
@@ -45,13 +45,7 @@ Les personnes de nationalité étrangère bénéficient dans les conditions prop
 
 2° De l'aide sociale en cas d'admission dans un centre d'hébergement et de réinsertion sociale ;
 
-3° De l'aide médicale de l'Etat :
-
-a) Pour les soins dispensés par un établissement de santé ou pour les prescriptions ordonnées à cette occasion, y compris en
-cas de consultation externe ;
-
-b) Pour les soins de ville, lorsque ces personnes justifient d'une résidence ininterrompue en France depuis au moins trois
-ans ;
+3° De l'aide médicale de l'Etat ;
 
 4° Des allocations aux personnes âgées prévues à l'article L. 231-1 à condition qu'elles justifient d'une résidence
 ininterrompue en France métropolitaine depuis au moins quinze ans avant soixante-dix ans.
@@ -59,8 +53,13 @@ ininterrompue en France métropolitaine depuis au moins quinze ans avant soixant
 Elles bénéficient des autres formes d'aide sociale, à condition qu'elles justifient d'un titre exigé des personnes de
 nationalité étrangère pour séjourner régulièrement en France.
 
-Pour tenir compte de situations exceptionnelles, il peut être dérogé aux conditions fixées au b du 3° et à l'alinéa ci-dessus
-par décision du ministre chargé de l'action sociale. Les dépenses en résultant sont à la charge de l'Etat.
+Pour tenir compte de situations exceptionnelles, il peut être dérogé aux conditions fixées à l'alinéa ci-dessus par décision
+du ministre chargé de l'action sociale. Les dépenses en résultant sont à la charge de l'Etat.
+
+**Nota:**
+
+Loi 2002-1576 2002-12-30 finances rectificative pour 2002 art. 57 IV : les dispositions du présent article sont applicables à
+compter de la date d'entrée en vigueur du décret d'application.
 
 **Liens relatifs à cet article**
 
@@ -81,14 +80,17 @@ par décision du ministre chargé de l'action sociale. Les dépenses en résulta
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de la famille et de l'aide sociale. - art. 186 (P)
-	  - Code de la famille et de l'aide sociale. - art. 186 (Ab)
+	  - Loi - art. 57 (V) JORF 31 décembre 2002
 
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L231-1 (V)
+
+	**Anciens textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 186 (Ab)
 
 
 ###### Article L111-3
@@ -11531,8 +11533,7 @@ Adaptée à l'état et à l'âge de la personne et eu égard aux moyens disponib
 
 Tout étranger résidant en France sans remplir les conditions fixées par l'article L. 380-1 du code de la sécurité sociale et
 dont les ressources ne dépassent pas le plafond mentionné à l'article L. 861-1 de ce code a droit, pour lui-même et les
-personnes à sa charge au sens des articles L. 161-14 et L. 313-3 de ce code, autres que celles visées à l'article L. 380-5 de
-ce code à l'aide médicale de l'Etat.
+personnes à sa charge au sens des articles L. 161-14 et L. 313-3 de ce code, à l'aide médicale de l'Etat.
 
 En outre, toute personne qui, ne résidant pas en France, est présente sur le territoire français, et dont l'état de santé le
 justifie, peut, par décision individuelle prise par le ministre chargé de l'action sociale, bénéficier de l'aide médicale de
@@ -11541,6 +11542,11 @@ l'article L. 251-2 peut être partielle.
 
 De même, toute personne gardée à vue sur le territoire français, qu'elle réside ou non en France, peut, si son état de santé
 le justifie, bénéficier de l'aide médicale de l'Etat, dans des conditions définies par décret.
+
+**Nota:**
+
+Loi 2002-1576 2002-12-30 finances rectificative pour 2002 art. 57 IV : les dispositions du présent article sont applicables à
+compter de la date d'entrée en vigueur du décret d'application.
 
 **Liens relatifs à cet article**
 
@@ -11595,14 +11601,13 @@ le justifie, bénéficier de l'aide médicale de l'Etat, dans des conditions dé
 
 	**Modifié par**:
 
-	  - Loi n°2002-73 du 17 janvier 2002 - art. 14 () JORF 18 janvier 2002
+	  - Loi - art. 57 (V) JORF 31 décembre 2002
 
 	**Cite**:
 
 	  - Code de la sécurité sociale. - art. L161-14 (M)
 	  - Code de la sécurité sociale. - art. L313-3 (V)
 	  - Code de la sécurité sociale. - art. L380-1 (V)
-	  - Code de la sécurité sociale. - art. L380-5 (Ab)
 	  - Code de la sécurité sociale. - art. L861-1 (M)
 
 	**Anciens textes**:
@@ -11612,12 +11617,27 @@ le justifie, bénéficier de l'aide médicale de l'Etat, dans des conditions dé
 
 ###### Article L251-2
 
-La prise en charge, assortie de la dispense d'avance des frais, concerne :
+La prise en charge, assortie de la dispense d'avance des frais pour la part ne relevant pas de la participation du
+bénéficiaire, concerne :
 
-1° Les frais définis aux 1° , 2° , 4° , 6° , 7° et 8° de l'article L. 321-1 et à l'article L. 331-2 du code de la sécurité
-sociale par application des tarifs servant de base au calcul des prestations de l'assurance maladie ;
+1° Les frais définis aux 1° , 2° , 4° , 6° , de l'article L. 321-1 et à l'article L. 331-2 du code de la sécurité sociale par
+application des tarifs servant de base au calcul des prestations de l'assurance maladie ;
 
-2° Le forfait journalier, institué par l'article L. 174-4 du même code.
+2° Le forfait journalier, institué par l'article L. 174-4 du même code pour les mineurs et, pour les autres bénéficiaires,
+dans les conditions fixées au dernier alinéa du présent article.
+
+Sauf lorsque les frais sont engagés au profit d'un mineur ou dans l'un des cas mentionnés aux 1° à 4°, 10°, 11°, 15° et 16°
+de l'article L. 322-3 du code de la sécurité sociale, une participation des bénéficiaires de l'aide médicale de l'Etat est
+fixée dans les conditions énoncées à l'article L. 322-2 et à la section 2 du chapitre II du titre II du livre III du même
+code.
+
+Les dépenses restant à la charge du bénéficiaire en application du présent article sont limitées dans des conditions fixées
+par décret.
+
+**Nota:**
+
+Loi 2002-1576 2002-12-30 finances rectificative pour 2002 art. 57 IV : les dispositions du présent article sont applicables à
+compter de la date d'entrée en vigueur du décret d'application.
 
 **Liens relatifs à cet article**
 
@@ -11640,16 +11660,21 @@ sociale par application des tarifs servant de base au calcul des prestations de 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de la famille et de l'aide sociale. - art. 187-2 (M)
-	  - Code de la famille et de l'aide sociale. - art. 187-2 (Ab)
+	  - Loi - art. 57 (V) JORF 31 décembre 2002
 
 	**Cite**:
 
 	  - Code de la sécurité sociale. - art. L174-4 (M)
-	  - Code de la sécurité sociale. - art. L321-1 (M)
+	  - Code de la sécurité sociale. - art. L322-3 (M)
 	  - Code de la sécurité sociale. - art. L331-2 (M)
+	  - Code de l'action sociale et des familles - art. L321-1 (M)
+	  - Code de l'action sociale et des familles - art. L322-2 (M)
+
+	**Anciens textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 187-2 (Ab)
 
 
 ###### Article L251-3
