@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2003-03-19
+Version Consolidée au 2003-04-01
 
 # Partie législative
 
@@ -8690,11 +8690,15 @@ Le bénéficiaire de l'allocation personnalisée d'autonomie peut employer un ou
 de son conjoint ou de son concubin ou de la personne avec laquelle il a conclu un pacte civil de solidarité. Le lien de
 parenté éventuel avec son salarié est mentionné dans sa déclaration.
 
+A la demande du président du conseil général, le bénéficiaire de l'allocation personnalisée d'autonomie est tenu de produire
+tous les justificatifs de dépenses correspondant au montant de l'allocation personnalisée d'autonomie qu'il a perçu et de sa
+participation financière.
+
 Le versement de l'allocation personnalisée d'autonomie peut être suspendu à défaut de la déclaration mentionnée au premier
-alinéa dans le délai d'un mois, si le bénéficiaire n'acquitte pas la participation mentionnée à l'article L. 232-4, ou, sur
-rapport de l'équipe médico-sociale mentionnée à l'article L. 232-3, soit en cas de non-respect des dispositions de l'article
-L. 232-6, soit si le service rendu présente un risque pour la santé, la sécurité ou le bien-être physique ou moral de son
-bénéficiaire.
+alinéa dans le délai d'un mois, si le bénéficiaire n'acquitte pas la participation mentionnée à l'article L. 232-4, si le
+bénéficiaire ne produit pas dans un délai d'un mois les justificatifs mentionnés à l'alinéa précédent ou, sur rapport de
+l'équipe médico-sociale mentionnée à l'article L. 232-3, soit en cas de non-respect des dispositions de l'article L. 232-6,
+soit si le service rendu présente un risque pour la santé, la sécurité ou le bien-être physique ou moral de son bénéficiaire.
 
 **Liens relatifs à cet article**
 
@@ -8721,7 +8725,7 @@ bénéficiaire.
 
 	**Modifié par**:
 
-	  - Loi n°2001-647 du 20 juillet 2001 - art. 1 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+	  - Loi n°2003-289 du 31 mars 2003 - art. 2 () JORF 1er avril 2003
 
 	**Cite**:
 
@@ -9068,11 +9072,19 @@ demandeur et, s'il y a lieu, l'élaboration d'un plan d'aide par l'équipe médi
 
 Lorsqu'il n'y a pas lieu d'élaborer un plan d'aide, un compte rendu de visite comportant des conseils est établi.
 
-Les droits à l'allocation personnalisée d'autonomie sont ouverts à compter de la date du dépôt d'un dossier de demande
-complet. Dans un délai de deux mois à compter de cette date, le président du conseil général notifie la décision relative à
-l'allocation personnalisée d'autonomie au bénéficiaire. A défaut d'une notification dans ce délai, l'allocation personnalisée
-d'autonomie est réputée accordée pour un montant forfaitaire fixé par décret à compter du dépôt du dossier complet, jusqu'à
-la notification d'une décision expresse.
+A domicile, les droits à l'allocation personnalisée d'autonomie sont ouverts à compter de la date de la notification de la
+décision du président du conseil général mentionnée au premier alinéa de l'article L. 232-12.
+
+Dans les établissements visés respectivement au I et au II de l'article L. 313-12 en tant qu'ils ne dérogent pas aux règles
+mentionnées au 1° de l'article L. 314-2, les droits à l'allocation personnalisée d'autonomie sont ouverts à compter de la
+date du dépôt d'un dossier de demande complet.
+
+Le président du conseil général dispose d'un délai de deux mois à compter de la date du dépôt du dossier de demande complet
+pour notifier au bénéficiaire sa décision relative à l'allocation personnalisée d'autonomie.
+
+Au terme de ce délai, à défaut d'une notification, l'allocation personnalisée d'autonomie est réputée accordée pour un
+montant forfaitaire fixé par décret, à compter de la date d'ouverture des droits mentionnés aux deux alinéas précédents,
+jusqu'à ce que la décision expresse le concernant soit notifiée à l'intéressé.
 
 L'allocation personnalisée d'autonomie fait l'objet d'une révision périodique. Elle peut être révisée à tout moment en cas de
 modification de la situation du bénéficiaire.
@@ -9080,6 +9092,10 @@ modification de la situation du bénéficiaire.
 L'allocation personnalisée d'autonomie est versée mensuellement à son bénéficiaire. Toutefois, une partie de son montant
 peut, compte tenu de la nature des dépenses, être versée selon une périodicité différente dans des conditions fixées par
 décret.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -9109,19 +9125,21 @@ décret.
 
 	**Modifié par**:
 
-	  - Loi n°2001-647 du 20 juillet 2001 - art. 1 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+	  - Loi n°2003-289 du 31 mars 2003 - art. 1 () JORF 1er avril 2003
 
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L232-3 (M)
+	  - Code de l'action sociale et des familles - art. L313-12 (M)
+	  - Code de l'action sociale et des familles - art. L314-2 (M)
 
 
 ###### Article L232-15
 
-L'allocation personnalisée d'autonomie est, le cas échéant, avec l'accord de son bénéficiaire, versée directement aux
-services prestataires d'aide à domicile visés à l'article L. 129-1 du code du travail ou aux établissements visés au 6° du I
-de l'article L. 312-1 du présent code et au 2° de l'article L. 6111-2 du code de la santé publique. Cet accord peut être
-repris à tout moment par le bénéficiaire.
+L'allocation personnalisée d'autonomie peut, sur délibération du conseil général, être versée directement aux salariés, aux
+services d'aide à domicile, notamment ceux visés à l'article L. 129-1 du code du travail, ou aux établissements visés au 6°
+du I de l'article L. 312-1 du présent code et au 2° de l'article L. 6111-2 du code de la santé publique utilisés par le
+bénéficiaire de l'allocation.
 
 **Liens relatifs à cet article**
 
@@ -9136,7 +9154,7 @@ repris à tout moment par le bénéficiaire.
 
 	**Modifié par**:
 
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 75 () JORF 3 janvier 2002
+	  - Loi n°2003-289 du 31 mars 2003 - art. 3 () JORF 1er avril 2003
 
 	**Cité par**:
 
@@ -9161,12 +9179,13 @@ repris à tout moment par le bénéficiaire.
 
 ###### Article L232-16
 
-Pour vérifier les déclarations des intéressés, les services chargés de l'évaluation des droits à l'allocation personnalisée
-d'autonomie peuvent demander toutes les informations nécessaires aux administrations publiques, notamment aux administrations
-fiscales, aux collectivités territoriales, aux organismes de sécurité sociale et de retraite complémentaire qui sont tenus de
-les leur communiquer. Lesdites informations doivent être limitées aux données nécessaires à l'identification de la situation
-du demandeur en vue de l'attribution de l'allocation personnalisée d'autonomie. Elles sont transmises et utilisées dans les
-conditions garantissant leur confidentialité.
+Pour vérifier les déclarations des intéressés et s'assurer de l'effectivité de l'aide qu'ils reçoivent, les services chargés
+de l'évaluation des droits à l'allocation personnalisée d'autonomie et du contrôle de son utilisation peuvent demander toutes
+les informations nécessaires aux administrations publiques, notamment aux administrations fiscales, aux collectivités
+territoriales, aux organismes de sécurité sociale et de retraite complémentaire qui sont tenus de les leur communiquer.
+Lesdites informations doivent être limitées aux données nécessaires à l'identification de la situation du demandeur en vue de
+l'attribution de l'allocation personnalisée d'autonomie et au contrôle de l'effectivité de l'aide, en adéquation avec le
+montant d'allocation versé. Elles sont transmises et utilisées dans des conditions garantissant leur confidentialité.
 
 **Liens relatifs à cet article**
 
@@ -9179,16 +9198,16 @@ conditions garantissant leur confidentialité.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Modifié par**:
-
-	  - Loi n°2001-647 du 20 juillet 2001 - art. 1 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
-
 	**Cité par**:
 
 	  - Décret n°2001-1085 du 20 novembre 2001 - art. 19 (Ab)
 	  - Code de l'action sociale et des familles - art. R232-15 (V)
 	  - Code de l'action sociale et des familles - art. R232-43 (V)
 	  - Livre des procédures fiscales - art. L162 B (V)
+
+	**Modifié par**:
+
+	  - Loi n°2003-289 du 31 mars 2003 - art. 4 () JORF 1er avril 2003
 
 	**Nouveaux textes**:
 
@@ -9385,10 +9404,10 @@ l'ensemble du territoire national.
 Cette majoration, égale à 80 % de la fraction de dépenses excédant le seuil de 30 %, est prise en charge par le fonds et
 minore, à due concurrence, les montants à répartir en fonction des trois critères visés ci-dessus.
 
-Des acomptes sont versés aux départements. Ils sont établis sur la base des trois critères visés ci-dessus, dans la limite de
-80 % des recettes disponibles du fonds après prise en compte des dépenses visées au 2° et au 3° . Ils sont régularisés au
-cours de l'exercice suivant par application de l'ensemble des critères ainsi définis, dans la limite des recettes de
-l'exercice au titre duquel est effectuée la régularisation.
+Des acomptes sont versés aux départements. Ils sont établis sur la base des trois critères visés ci-dessus et correspondent
+au minimum à 90 % des recettes disponibles du fonds après prise en compte des dépenses visées aux 2°, 3° et 4°. Ils sont
+régularisés au cours de l'exercice suivant par application de l'ensemble des critères ainsi définis, dans la limite des
+recettes de l'exercice au titre duquel est effectuée la régularisation.
 
 En aucun cas, les dépenses relatives à l'allocation personnalisée d'autonomie de chaque département ne peuvent excéder un
 montant moyen par bénéficiaire égal à 80 % du montant au 1er janvier 2001 de la majoration pour tierce personne mentionnée à
@@ -9412,7 +9431,20 @@ supérieure à 10 % des sommes en cause.
 Les projets de modernisation de l'aide à domicile sont agréés par le ministre chargé de l'action sociale et financés par le
 fonds dans la limite des crédits disponibles ;
 
-3° Le remboursement des frais de gestion du fonds.
+3° Le remboursement des frais de gestion du fonds ;
+
+4° Un concours spécifique versé à titre exceptionnel pour 2003 aux départements dont le rapport entre, d'une part, les
+dépenses au titre de l'allocation personnalisée d'autonomie en 2003 après déduction du concours prévu au 1° au titre de 2003
+et, d'autre part, le potentiel fiscal tel que défini au 1°, est supérieur à un taux fixé par décret. Ce concours peut faire
+l'objet d'acomptes.
+
+Ce concours est réparti entre les départements concernés en fonction du montant du rapport défini à l'alinéa précédent. Les
+modalités de la répartition sont fixées par décret.
+
+Ce concours est égal à une fraction du montant de l'emprunt visé au 3° du III. Cette fraction est fixée par décret dans la
+limite de 20 % de ce montant ;
+
+5° Les dépenses relatives au remboursement de l'emprunt mentionné au III.
 
 III. - Les recettes affectées au financement des dépenses prévues au II sont constituées par :
 
@@ -9422,7 +9454,17 @@ ménagère à domicile au bénéfice des personnes âgées dépendantes rempliss
 l'article L. 232-2 ; cette fraction ne peut être inférieure à la moitié ni supérieure aux trois quarts des sommes en cause ;
 
 2° Une fraction du produit des contributions sociales mentionnées aux articles L. 136-1, L. 136-6, L. 136-7 et L. 136-7-1 du
-code de la sécurité sociale.
+code de la sécurité sociale ;
+
+3° A titre exceptionnel en 2003, un emprunt souscrit par le fonds au cours de l'exercice 2003, dont le montant et la durée de
+remboursement sont fixés par décret, pour aider les départements à faire face à la montée en charge de l'allocation
+personnalisée d'autonomie.
+
+**Nota:**
+
+Loi 2003-289 2003-03-31 art. 5 II : La charge et le remboursement de l'emprunt mentionnés au 3° du III de l'article L. 232-21
+du code de l'action sociale et des familles seront assurés dans les conditions prévues par la loi de finances et dans le
+respect du concours financier de l'Etat aux départements tel qu'il est défini au 1° du II dudit article.
 
 **Liens relatifs à cet article**
 
@@ -9434,10 +9476,6 @@ code de la sécurité sociale.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Modifié par**:
-
-	  - Loi n°2001-647 du 20 juillet 2001 - art. 1 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -9474,6 +9512,14 @@ code de la sécurité sociale.
 	  - Code de la sécurité sociale. - art. L135-1 (M)
 	  - Code de la sécurité sociale. - art. L136-8 (M)
 	  - Code général des collectivités territoriales - art. L3332-2 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2003-289 du 31 mars 2003 - art. 5 () JORF 1er avril 2003
+
+	**Abrogé par**:
+
+	  - Loi n°2004-626 du 30 juin 2004 - art. 15 (V) JORF 1er juillet 2004
 
 	**Cite**:
 
