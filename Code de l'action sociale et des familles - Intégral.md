@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2004-01-03
+Version Consolidée au 2004-02-24
 
 # Partie législative
 
@@ -3755,24 +3755,18 @@ naissance.
 ###### Article L147-9
 
 Lorsque, pour l'exercice de sa mission, le conseil national demande la consultation de documents d'archives publiques, les
-délais prévus au troisième alinéa de l'article 6 et à l'article 7 de la loi n° 79-18 du 3 janvier 1979 sur les archives ne
-lui sont pas opposables.
+délais prévus aux articles L213-1 et L213-2 du code du patrimoine ne lui sont pas opposables.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-178 du 20 février 2004 - art. 3 (V)
+
 	**Cite**:
 
-	  - Loi n°79-18 du 3 janvier 1979 - art. 7 (Ab)
-	  - Code de l'action sociale et des familles 6
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Créé par**:
-
-	  - Loi n°2002-93 du 22 janvier 2002 - art. 1 () JORF 23 janvier 2002
+	  - Code du patrimoine - art. L213-1 (M)
+	  - Code du patrimoine - art. L213-2 (M)
 
 
 ###### Article L147-10
