@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2005-02-13
+Version Consolidée au 2005-03-01
 
 # Partie législative
 
@@ -73259,41 +73259,84 @@ compétence du tribunal d'instance du lieu de résidence de l'accueillant famili
 
 ###### Article R451-1
 
-Les établissements dispensant la formation préparatoire au certificat d'aptitude aux fonctions de directeur d'établissement
-ou de service d'intervention sociale sont agréés par arrêté du préfet de région, sur proposition du directeur régional des
-affaires sanitaires et sociales et après avis du directeur de l'Ecole nationale de la santé publique.
+Les diplômes délivrés par l'Etat garantissant la qualification des professionnels et des personnels mentionnés à l'article L.
+451-1 sont créés par décret et organisés par arrêté du ministre chargé des affaires sociales et, le cas échéant, des
+ministres intéressés, après avis de la commission professionnelle consultative du travail social et de l'intervention
+sociale. 
 
-Le directeur régional des affaires sanitaires et sociales peut refuser l'ouverture d'une promotion dans les conditions fixées
-par arrêté.
+Les représentants des départements au sein de la commission professionnelle consultative du travail social et de
+l'intervention sociale sont consultés sur la définition et le contenu des formations. 
+
+Les orientations définies par le ministre des affaires sociales mentionnées au deuxième alinéa de l'article L. 451-1
+s'appuient sur le diagnostic des besoins de qualification dans le champ du travail social et de l'intervention sociale
+réalisé notamment à partir des besoins recensés par chaque région en association avec les départements ainsi que des analyses
+et statistiques de source publique ou professionnelle. Ces orientations prennent également en compte les avis des
+départements émis, dans les conditions figurant à l'alinéa précédent, ainsi que les évolutions des professions et
+certifications sociales au plan européen.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
+	  - Décret n°2002-401 du 25 mars 2002 - art. 3, v. init.
 	  - Décret n°2002-401 du 25 mars 2002 - art. 3 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2005-198 du 22 février 2005 - art. 1 () JORF 1er mars 2005
+
 	**Cité par**:
 
 	  - Arrêté du 18 mai 2009 (V)
 	  - Code de l'action sociale et des familles - art. R544-5 (V)
 
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L451-1 (V)
+
 
 ###### Article R451-2
 
-Les établissements dispensant la formation préparant au certificat d'aptitude aux fonctions d'encadrement et de responsable
-d'unité d'intervention sociale sont agréés par le préfet de région.
+La personne physique ou morale juridiquement responsable d'un établissement de formation désirant préparer à un ou plusieurs
+diplômes de travail social mentionnés à l'article L. 451-1 établit un dossier de déclaration préalable précisant les diplômes
+de travail social dont la préparation est envisagée. 
 
-L'agrément est accordé sur la base des qualifications du personnel d'encadrement et de formation, du projet pédagogique et
-des moyens pédagogiques afférents, ainsi que des règlements prévus aux articles R. 451-21 et R. 451-23.
+Lorsque plusieurs établissements de formation relevant de personnes physiques ou morales distinctes sont associés par une
+convention de coopération relative à la préparation d'un même diplôme, la déclaration préalable est établie par la personne
+juridiquement responsable de l'établissement porteur du projet pédagogique désigné par la convention. 
+
+La déclaration préalable comprend les informations administratives relatives à la personne juridiquement responsable de
+l'établissement de formation et les pièces démontrant la capacité pédagogique de l'établissement à assurer la préparation des
+candidats à l'obtention du diplôme conformément aux principes des textes réglementant ce diplôme ainsi que la qualification
+des formateurs et des directeurs d'établissement. 
+
+Elle comporte en outre l'engagement de l'établissement : 
+
+1° A mettre à disposition des candidats, avant leur inscription aux épreuves d'admission, le règlement d'admission et le
+projet pédagogique de l'établissement ; 
+
+2° A présenter les candidats aux épreuves du diplôme à l'issue de la formation ; 
+
+3° A adresser chaque année au représentant de l'Etat dans la région son rapport d'activité et les résultats de l'insertion
+professionnelle des diplômés ; 
+
+4° A renseigner, dans les délais impartis, les enquêtes statistiques portant sur les établissements de formation en travail
+social réalisées sous l'égide du ministère chargé des affaires sociales. 
+
+La composition du dossier de déclaration préalable est fixée par arrêté du ministre chargé des affaires sociales. Cette
+déclaration comporte notamment le projet pédagogique de l'établissement qui détaille ses moyens, l'articulation et les
+partenariats prévus avec les sites de stage, les mesures destinées à assurer des parcours personnalisés de formation et, le
+cas échéant, les liens entre les diverses formations dispensées.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
+	  - Décret n°2004-289 du 25 mars 2004 - art. 10, v. init.
 	  - Décret n°2004-289 du 25 mars 2004 - art. 10 (Ab)
 
 	**Cité par**:
@@ -73323,6 +73366,8 @@ des moyens pédagogiques afférents, ainsi que des règlements prévus aux artic
 	  - Code de l'action sociale et des familles - art. D451-84 (V)
 	  - Code de l'action sociale et des familles - art. D451-91 (M)
 	  - Code de l'action sociale et des familles - art. D451-97 (Ab)
+	  - Code de l'action sociale et des familles - art. R451-21 (M)
+	  - Code de l'action sociale et des familles - art. R451-23 (M)
 	  - Code de l'action sociale et des familles - art. R451-3 (M)
 	  - Code de l'action sociale et des familles - art. R451-4 (M)
 	  - Code de l'action sociale et des familles - art. R451-4-2 (Ab)
@@ -73332,30 +73377,72 @@ des moyens pédagogiques afférents, ainsi que des règlements prévus aux artic
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2005-198 du 22 février 2005 - art. 1 () JORF 1er mars 2005
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. R451-21 (M)
-	  - Code de l'action sociale et des familles - art. R451-23 (M)
+	  - Code de l'action sociale et des familles - art. L451-1 (V)
 
 
 ###### Article R451-3
 
-Les établissements dispensant la formation préparant au diplôme d'Etat de médiateur familial sont agréés par le préfet de
-région dans des conditions précisées par l'arrêté mentionné à l'article R. 451-55.
+I. - Le directeur de l'établissement de formation doit justifier de cinq ans d'expérience professionnelle dans les domaines
+de la pédagogie ou de la gestion ou dans le champ social. Sous réserve de la libre circulation des travailleurs garantie par
+l'article 39 du traité instituant la Communauté européenne, il doit en outre être titulaire soit d'un diplôme ou d'un titre
+homologué ou enregistré au répertoire national des certifications professionnelles au moins au niveau II, soit d'un diplôme
+des formations sanitaires ou sociales inscrit au répertoire national des certifications professionnelles au moins au niveau
+III.
 
-L'agrément est donné sur la base des qualifications du personnel d'encadrement et de formation, du projet pédagogique et des
-moyens pédagogiques afférents, ainsi que du règlement de sélection des candidats à la formation.
+II. - Le responsable de la formation doit justifier de trois ans d'expérience professionnelle pédagogique. Sous réserve de la
+libre circulation des travailleurs garantie par l'article 39 du traité instituant la Communauté européenne, il doit en outre
+être titulaire d'un diplôme ou d'un titre homologué ou enregistré au répertoire national des certifications professionnelles
+au moins au niveau II.
+
+En fonction du diplôme mentionné à la section 3 du présent chapitre pour lequel la déclaration préalable est déposée, le
+responsable de formation doit également :
+
+1° Pour les formations supérieures et les diplômes d'encadrement, être titulaire d'un diplôme au moins de niveau III,
+mentionné à la section 3 du présent chapitre et justifier d'une expérience professionnelle d'au moins trois années dans un
+établissement ou service social ou médico-social ;
+
+2° Pour les formations et diplômes professionnels d'intervention sociale au moins de niveau III, être titulaire du diplôme
+pour la préparation duquel la déclaration préalable est établie et justifier d'au moins trois années d'exercice professionnel
+en rapport direct avec ce diplôme ;
+
+3° Pour les formations et diplômes professionnels d'intervention sociale de niveaux IV et V, être titulaire d'un diplôme au
+moins de niveau III mentionné à la section 3 du présent chapitre et justifier d'au moins trois années d'exercice
+professionnel en rapport direct avec ce diplôme.
+
+Il peut être dérogé soit à l'une des conditions de diplôme, soit à l'une des conditions d'expérience professionnelle sur
+décision du représentant de l'Etat dans la région.
+
+En cas de convention de coopération mentionnée à l'article R. 451-2, les conditions doivent être remplies par le responsable
+de la formation de l'établissement porteur du projet pédagogique. Lorsque la formation est organisée dans le cadre d'une
+convention de coopération entre une université ou un établissement public d'enseignement et un établissement de formation aux
+professions sociales, les conditions doivent être remplies par le responsable de la formation de l'un ou de l'autre des deux
+établissements.
+
+III. - Les formateurs dans le domaine des techniques et des modes de l'intervention sociale doivent justifier de leur
+qualification dans le domaine enseigné et de trois années d'expérience professionnelle dans ce domaine.
+
+IV. - Les formateurs dans les autres domaines doivent répondre soit à la condition de qualification, soit à la condition
+d'expérience mentionnées au III ci-dessus dans le domaine enseigné.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2003-1166 du 2 décembre 2003 - art. 8, v. init.
 	  - Décret n°2003-1166 du 2 décembre 2003 - art. 8 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-198 du 22 février 2005 - art. 1 () JORF 1er mars 2005
 
 	**Cité par**:
 
@@ -73365,31 +73452,162 @@ moyens pédagogiques afférents, ainsi que du règlement de sélection des candi
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. R451-55 (T)
+	  - Code de l'action sociale et des familles - art. R451-2 (M)
 
 
 ###### Article R451-4
 
-Les établissements dispensant la formation préparant au diplôme d'auxiliaire de vie sociale sont agréés par arrêté du préfet
-de région, sur proposition du directeur régional des affaires sanitaires et sociales.
+Le dossier de déclaration préalable est transmis au représentant de l'Etat de la région d'implantation du site principal de
+formation au plus tard quatre mois avant la date de début de la formation.
+
+Cette transmission fait l'objet d'un accusé de réception délivré dans les conditions fixées par le décret n° 2001-492 du 6
+juin 2001 pris pour l'application du chapitre II de la loi n° 2000-321 du 12 avril 2000 relatif à l'accusé de réception des
+demandes présentées aux autorités administratives.
+
+Le silence gardé par le représentant de l'Etat pendant un délai de deux mois à compter de la réception de la déclaration
+préalable complète vaut décision d'enregistrement.
+
+Dans ce même délai, lorsque les conditions fixées à l'article R. 451-2 ne sont pas remplies ou que les prescriptions des 2 et
+4 de l'article L. 920-4 du code du travail ne sont pas respectées, le représentant de l'Etat dans la région notifie, par
+décision motivée, à l'auteur de la déclaration préalable son refus d'enregistrement. Il en informe le président du conseil
+régional.
+
+Tout établissement dispensant une formation préparant à un diplôme de travail social sans avoir satisfait à l'obligation de
+déclaration préalable fait l'objet d'une mise en demeure du représentant de l'Etat dans la région. A défaut de régularisation
+dans le délai fixé par la mise en demeure, le représentant de l'Etat dans la région notifie à l'établissement son opposition
+à la poursuite de la formation et en informe le président du conseil régional.
+
+Le représentant de l'Etat dans la région tient à jour pour chacun des diplômes en travail social mentionnés à l'article L.
+451-1 la liste des établissements publics et privés faisant l'objet d'une décision d'enregistrement et la transmet, à chaque
+mise à jour, au président du conseil régional et au ministre chargé des affaires sociales.
+
+Les informations figurant sur cette liste et les conditions de sa mise à jour sont fixées par arrêté du ministre chargé des
+affaires sociales.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Loi n°2000-321 2000-04-12
+	  - Décret n°2001-492 2001-06-06
+	  - Code du travail - art. L920-4 (M)
+	  - Code de l'action sociale et des familles - art. L451-1 (M)
+	  - Code de l'action sociale et des familles - art. R451-2 (M)
+
 	**Anciens textes**:
 
-	  - Décret n°2002-410 2002-03-26 art. 3, première phrase
-	  - Décret n°2002-410 du 26 mars 2002 - art. 3, v. init.
 	  - Décret n°2002-410 du 26 mars 2002 - art. 3 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2005-198 du 22 février 2005 - art. 1 () JORF 1er mars 2005
+
 	**Cité par**:
 
 	  - Décret n°2005-198 du 22 février 2005 - art. 3 (V)
 	  - Code de l'action sociale et des familles - art. R451-4-3 (Ab)
 	  - Code de l'action sociale et des familles - art. R544-5 (V)
+
+
+###### Article R451-4-1
+
+Toute modification de l'un des éléments de la déclaration préalable, notamment celle rendue nécessaire par la réforme
+substantielle du diplôme, ainsi que la cessation d'activité de l'établissement de formation font l'objet, dans un délai de
+trente jours, d'une déclaration rectificative de la personne juridiquement responsable de l'établissement de formation auprès
+du représentant de l'Etat dans la région. Celui-ci en informe le président du conseil régional.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 du 21 octobre 2004
+
+	**Créé par**:
+
+	  - Décret n°2005-198 du 22 février 2005 - art. 1 () JORF 1er mars 2005
+
+	**Cité par**:
+
+	  - Arrêté du 25 août 2011 - art. 2 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2017-537 du 13 avril 2017 - art. 1
+
+
+###### Article R451-4-2
+
+Le représentant de l'Etat dans la région contrôle, sur pièces ou sur place, pendant la durée de la formation, le respect des
+conditions énoncées aux articles R. 451-2 et R. 451-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-198 du 22 février 2005 - art. 1 () JORF 1er mars 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2017-537 du 13 avril 2017 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D451-15 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. R451-2
+	  - Code de l'action sociale et des familles - art. R451-3
+
+
+###### Article R451-4-3
+
+La radiation de l'établissement de la liste mentionnée à l'article R. 451-4 est décidée par le représentant de l'Etat dans la
+région :
+
+1° En cas de cessation d'activité de l'établissement de formation ;
+
+2° Après mise en demeure et par décision motivée lorsque les conditions fixées aux articles R. 451-2 ou R. 451-3 ne sont plus
+remplies ou que les obligations et interdictions prévues aux 2 et 4 de l'article L. 920-4 du code du travail ne sont plus
+respectées.
+
+La radiation vaut opposition à la poursuite de la mise en oeuvre de la formation. Cette décision est notifiée à la personne
+juridiquement responsable de l'établissement de formation et au président du conseil régional.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 du 21 octobre 2004
+
+	**Créé par**:
+
+	  - Décret n°2005-198 du 22 février 2005 - art. 1 () JORF 1er mars 2005
+
+	**Cité par**:
+
+	  - Décret n°2005-198 du 22 février 2005 - art. 3 (V)
+	  - Décret n°2005-1772 du 30 décembre 2005 - art. 3 (V)
+	  - Code de l'action sociale et des familles - art. R544-5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2017-537 du 13 avril 2017 - art. 1
+
+	**Cite**:
+
+	  - Code du travail - art. L920-4
+	  - Code de l'action sociale et des familles - art. R451-2
+	  - Code de l'action sociale et des familles - art. R451-3
+	  - Code de l'action sociale et des familles - art. R451-4
 
 
 ##### Section 2 : Bourses d'études.
@@ -73547,68 +73765,6 @@ L'interruption des études entraîne la suspension du versement de la bourse.
 	  - Code de l'action sociale et des familles - art. D451-7 (M)
 	  - Code de l'action sociale et des familles - art. R451-8 (Ab)
 	  - Code de l'action sociale et des familles - art. R451-9 (Ab)
-
-
-###### Article R451-8
-
-Les demandes de bourse sont instruites par le directeur régional des affaires sanitaires et sociales de la région
-d'implantation de l'établissement de formation dans lequel est régulièrement inscrit l'étudiant. Le contenu et les conditions
-de dépôt du dossier de demande de bourse ainsi que les modalités d'instruction de la demande sont fixés par arrêté du
-ministre chargé de l'action sociale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-1342 du 12 novembre 2002 - art. 3, v. init.
-	  - Décret n°2002-1342 du 12 novembre 2002 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
-
-	  - Décret n°2005-198 du 22 février 2005 - art. 4 (V) JORF 1er mars 2005
-
-	**Cité par**:
-
-	  - Décret n°2005-198 du 22 février 2005 - art. 4 (V)
-	  - Code de l'action sociale et des familles - art. D451-10 (Ab)
-	  - Code de l'action sociale et des familles - art. R451-9 (Ab)
-
-
-###### Article R451-9
-
-Le préfet de région fixe la liste des étudiants admis au bénéfice d'une bourse, après avis d'une commission composée de
-membres de droit, de représentants des centres de formation et des étudiants de ces centres et de personnes qualifiées.
-
-L'arrêté prévu à l'article R. 451-8 détermine la composition de la commission et les conditions de désignation de ses membres
-qui sont nommés par le préfet de région.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-1342 du 12 novembre 2002 - art. 4, v. init.
-	  - Décret n°2002-1342 du 12 novembre 2002 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
-
-	  - Décret n°2005-198 du 22 février 2005 - art. 4 (V) JORF 1er mars 2005
-
-	**Cité par**:
-
-	  - Décret n°2005-198 du 22 février 2005 - art. 4 (V)
-	  - Code de l'action sociale et des familles - art. D451-10 (Ab)
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. R451-8 (Ab)
 
 
 ##### Section 3 : Formations et diplômes
@@ -73845,20 +74001,30 @@ projet et des missions de l'employeur.
 
 Les candidats à la formation préparant au certificat d'aptitude aux fonctions d'encadrement et de responsable d'unité
 d'intervention sociale doivent justifier de la possession d'un diplôme et, le cas échéant, compte tenu de leur diplôme, d'une
-expérience professionnelle dont la durée dépend du diplôme possédé.
+expérience professionnelle dont la durée dépend du diplôme possédé. 
 
 Ils font l'objet d'une sélection organisée par les établissements de formation conformément aux dispositions d'un règlement
-élaboré par l'établissement et agréé par le préfet de région dans le cadre de l'agrément prévu à l'article R. 451-2.
+élaboré par l'établissement et transmis au préfet de région dans le cadre de la déclaration préalable prévue à l'article L.
+451-1.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
+	  - Décret n°2004-289 du 25 mars 2004 - art. 2, v. init.
 	  - Décret n°2004-289 du 25 mars 2004 - art. 2 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-198 du 22 février 2005 - art. 2 () JORF 1er mars 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L451-1 (V)
 
 	**Cité par**:
 
@@ -73887,25 +74053,33 @@ Sa durée et son contenu peuvent varier en fonction de l'expérience professionn
 ###### Article R451-23
 
 Les épreuves pour l'obtention du certificat d'aptitude comprennent d'une part des épreuves organisées en cours de formation
-par les établissements de formation, d'autre part la soutenance d'un mémoire devant le jury prévu à l'article R. 451-24.
+par les établissements de formation, d'autre part la soutenance d'un mémoire devant le jury prévu à l'article R. 451-24. 
 
 Le préfet de région agrée le règlement des épreuves de certification organisées par les établissements de formation dans le
-cadre de l'agrément prévu à l'article R. 451-2.
+cadre de la déclaration préalable prévue à l'article L. 451-1.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
+	  - Décret n°2004-289 du 25 mars 2004 - art. 4, v. init.
 	  - Décret n°2004-289 du 25 mars 2004 - art. 4 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2005-198 du 22 février 2005 - art. 2 () JORF 1er mars 2005
+
 	**Cite**:
 
+	  - Code de l'action sociale et des familles - art. L451-1 (V)
+
+	**Cité par**:
+
 	  - Code de l'action sociale et des familles - art. R451-2 (M)
-	  - Code de l'action sociale et des familles - art. R451-24 (V)
 
 
 ###### Article R451-24
@@ -74938,7 +75112,7 @@ Le préfet de région nomme le jury du diplôme, qui, comprend :
 
 1° Le directeur régional des affaires sanitaires et sociales ou son représentant, président du jury ;
 
-2° Des formateurs issus des centres de formation agréés pour le diplôme de médiateur familial ;
+2° Des formateurs issus des centres de formation dispensant la formation au diplôme d'Etat de médiateur familial ;
 
 3° Pour un quart au moins de ses membres, des représentants qualifiés des professionnels de la médiation familiale.
 
@@ -74946,12 +75120,19 @@ Le préfet de région nomme le jury du diplôme, qui, comprend :
 
 	**Anciens textes**:
 
-	  - Décret n°2003-1166 du 2 décembre 2003 - art. 6, v. init.
 	  - Décret n°2003-1166 du 2 décembre 2003 - art. 6 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-198 du 22 février 2005 - art. 2 () JORF 1er mars 2005
+
+	**Transféré par**:
+
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
 
 	**Nouveaux textes**:
 
@@ -75493,8 +75674,7 @@ l'exclusion.
 ###### Article R451-77
 
 Pour être admis à suivre la formation préparant au diplôme d'Etat d'auxiliaire de vie sociale, les candidats doivent disposer
-d'un niveau pré-requis, dont la vérification est organisée par les établissements publics ou privés agréés pour dispenser la
-formation.
+d'un niveau pré-requis, dont la vérification est organisée par les établissements publics ou privés dispensant la formation.
 
 Les épreuves, les conditions de dispense ainsi que les modalités de vérification des pré-requis pour entrer en formation
 préparant au diplôme d'Etat d'auxiliaire de vie sociale sont définis par arrêté du ministre chargé des affaires sociales.
@@ -75505,12 +75685,19 @@ Les candidats doivent être âgés de dix-huit ans au moins à la date d'entrée
 
 	**Anciens textes**:
 
-	  - Décret n°2002-410 du 26 mars 2002 - art. 2, v. init.
 	  - Décret n°2002-410 du 26 mars 2002 - art. 2 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-198 du 22 février 2005 - art. 2 () JORF 1er mars 2005
+
+	**Transféré par**:
+
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
 
 	**Nouveaux textes**:
 
