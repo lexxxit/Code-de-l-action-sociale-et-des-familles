@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2005-01-01
+Version Consolidée au 2005-01-08
 
 # Partie législative
 
@@ -48606,7 +48606,7 @@ temporaire.
 
 ##### Sous-section 2 : Conditions techniques minimales d'organisation et de fonctionnement des établissements
 
-##### Paragraphe 1 : Etablissements accueillant des enfants ou adolescents présentant des déficiences intellectuelles ou inadaptés
+##### Paragraphe 1 : Etablissements accueillant des enfants ou adolescents présentant des déficiences intellectuelles
 
 ##### Sous-paragraphe 1 : Dispositions générales.
 
@@ -48621,17 +48621,23 @@ l'orthophonie, la kinésithérapie, la psychomotricité, et notamment :
 enfants ou adolescents présentant une déficience intellectuelle. Cette première catégorie d'établissements et de services
 accueille également ces enfants ou adolescents lorsque leur déficience intellectuelle s'accompagne de troubles, tels que des
 troubles de la personnalité, des troubles comitiaux, des troubles moteurs et sensoriels et des troubles graves de la
-communication de toutes origines, ainsi que des maladies chroniques compatibles avec une vie collective ;
-
-2° Aux établissements et services, distincts des précédents, prenant en charge des enfants ou adolescents dont les
-manifestations et les troubles du comportement rendent nécessaire, malgré des capacités intellectuelles normales ou
-approchant la normale, la mise en oeuvre de moyens médico-éducatifs pour le déroulement de leur scolarité.
+communication de toutes origines, ainsi que des maladies chroniques compatibles avec une vie collective.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 1, annexe XXIV
+	  - Décret n°89-798 du 27 octobre 1989 - art. 1 (V)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 3 () JORF 8 janvier 2005
 
 	**Cité par**:
 
@@ -48665,9 +48671,18 @@ assurer cette prise en charge.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 2, annexe XXIV
+	  - Décret n°89-798 du 27 octobre 1989 - art. 2 (V)
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 
 ###### Article D312-13
@@ -48680,9 +48695,17 @@ appelé en consultation.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 11 annexe XXIV al. 13 et 14
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 
 ###### Article D312-14
@@ -48700,9 +48723,18 @@ Les parents sont saisis de tout fait ou décision relevant de l'autorité parent
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 3, annexe XXIV
+	  - Décret n°89-798 du 27 octobre 1989 - art. 3 ()
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 
 ##### Sous-paragraphe 2 : Organisation de l'établissement ou du service.
@@ -48714,11 +48746,9 @@ L'établissement ou le service peut comporter les sections suivantes :
 1° Une section d'éducation et d'enseignement spécialisés assurant les apprentissages scolaires, le développement de la
 personnalité et la socialisation des enfants, dans laquelle la pratique éducative s'appuie sur les méthodes actives ;
 
-2° Une section d'initiation et de première formation professionnelle pour les adolescents déficients intellectuels ou pour
-les adolescents présentant des troubles du comportement ;
+2° Une section d'initiation et de première formation professionnelle pour les adolescents déficients intellectuels ;
 
-3° Une section pour les jeunes déficients intellectuels ou présentant des troubles du comportement avec handicaps moteurs ou
-sensoriels associés.
+3° Une section pour les jeunes déficients intellectuels avec handicaps moteurs ou sensoriels associés.
 
 Les objectifs, les contenus, les certifications de la section d'initiation et de première formation professionnelle sont
 communs à tous les élèves. Les enseignements adaptés aux adolescents qui en sont les bénéficiaires sont dispensés dans le
@@ -48733,19 +48763,25 @@ individuellement en fonction des besoins propres à chaque enfant ou adolescent 
 personnels répondant aux conditions requises par la prise en charge. Les locaux et les équipements sont aménagés en
 conséquence.
 
-Les sections destinées aux enfants ou adolescents présentant des déficiences intellectuelles avec ou sans handicaps associés
-ou aux enfants ou adolescents présentant principalement des troubles du comportement sont distinctes. Elles comportent une
-prise en charge particulière.
-
 Pour une part de leur action, ces différentes sections peuvent faire appel à la collaboration d'établissements scolaires ou
 d'autres organismes sanitaires ou sociaux en passant avec eux une convention portée à la connaissance des autorités
 académiques et du directeur départemental des affaires sanitaires et sociales.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 5, annexe XXIV
+	  - Décret n°89-798 du 27 octobre 1989 - art. 5 ()
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 4 () JORF 8 janvier 2005
 
 
 ###### Article D312-16
@@ -48759,9 +48795,18 @@ la limite du nombre total de lits autorisés, ou dans des centres d'accueil fami
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 6, annexe XXIV
+	  - Décret n°89-798 du 27 octobre 1989 - art. 6 (V)
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 	**Cité par**:
 
@@ -48778,9 +48823,17 @@ ces transferts sont organisés.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 7, annexe XXIV
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 	**Cité par**:
 
@@ -48802,9 +48855,17 @@ Cet accompagnement court est poursuivi sur une durée minimum de trois ans.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 8, annexe XXIV
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 
 ###### Article D312-19
@@ -48817,9 +48878,17 @@ intervenants extérieurs. Il organise et préside notamment les réunions de syn
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 9, annexe XXIV
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 	**Cite**:
 
@@ -48863,9 +48932,17 @@ de la possession de ces titres.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 10 annexe XXIV
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 	**Cité par**:
 
@@ -48898,9 +48975,19 @@ ou en rééducation et réadaptation fonctionnelle.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 11 annexe XXIV al. 1, 2, 3, 8 à 11
+	  - Décret n°89-798 du 27 octobre 1989 - art. 2 (V)
+	  - Décret n°89-798 du 27 octobre 1989 - art. 3 ()
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 	**Cité par**:
 
@@ -48924,9 +49011,17 @@ en ce qui concerne l'hygiène de vie des enfants ou adolescents, leur alimentati
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 11 annexe XXIV al. 4 à 7
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 	**Cite**:
 
@@ -48940,9 +49035,17 @@ leurs soins aux enfants accueillis dans l'établissement.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 11 annexe XXIV al. 12
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 
 ###### Article D312-24
@@ -48952,9 +49055,17 @@ temps complet, si l'établissement compte au moins cent places.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 12 annexe XXIV
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 	**Cité par**:
 
@@ -49006,9 +49117,17 @@ Cette équipe peut être complétée, selon les besoins, par le recours à des a
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 13 annexe XXIV
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 	**Cite**:
 
@@ -49026,9 +49145,17 @@ nécessaires à l'exercice de ses compétences.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 14 annexe XXIV
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 	**Cité par**:
 
@@ -49063,9 +49190,17 @@ Les locaux techniques, cuisine, buanderie, ateliers d'entretien notamment, sont 
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 15, 17, 18 annexe XXIV
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 	**Cité par**:
 
@@ -49089,9 +49224,17 @@ toilette.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 16 annexe XXIV
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 	**Cité par**:
 
@@ -49104,9 +49247,17 @@ Les locaux réservés au personnel, y compris les toilettes, sont séparés de c
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 19 annexe XXIV al. 1
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 
 ###### Article D312-30
@@ -49117,9 +49268,17 @@ cas de nécessité.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 22 annexe XXIV
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 
 ###### Article D312-31
@@ -49138,9 +49297,17 @@ L'établissement veille à la propreté du linge.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 23 annexe XXIV
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 
 ###### Article D312-32
@@ -49151,9 +49318,21 @@ livre III de la première partie du code de la santé publique.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 24 annexe XXIV
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R1321-1 (V)
 
 
 ###### Article D312-33
@@ -49177,9 +49356,17 @@ effectuées.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 25 annexe XXIV
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 
 ##### Sous-paragraphe 5 : Fonctionnement de l'établissement.
@@ -49198,9 +49385,17 @@ prescrire les investigations complémentaires qu'il juge nécessaires.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 26 annexe XXIV
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 	**Cité par**:
 
@@ -49226,9 +49421,17 @@ d'éducation spéciale.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 27 annexe XXIV
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 
 ###### Article D312-36
@@ -49238,9 +49441,17 @@ par la loi, complétées le cas échéant par les vaccinations contre la rubéol
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 28 annexe XXIV
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 
 ###### Article D312-37
@@ -49272,9 +49483,17 @@ définitive.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 29 annexe XXIV
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 
 ###### Article D312-38
@@ -49294,9 +49513,17 @@ conditions de visite des parents dans l'établissement.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 30 annexe XXIV
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 	**Cite**:
 
@@ -49316,9 +49543,17 @@ Les sanctions corporelles sont interdites.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 31 annexe XXIV
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 
 ###### Article D312-40
@@ -49336,9 +49571,17 @@ du code de la sécurité sociale.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 32 annexe XXIV
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 
 ##### Sous-paragraphe 6 : Centres d'accueil familial spécialisé.
@@ -49346,20 +49589,28 @@ du code de la sécurité sociale.
 ###### Article D312-41
 
 Les enfants ou adolescents peuvent être hébergés dans des centres d'accueil familial spécialisé, conformément aux
-dispositions de l'article D. 312-16.
+dispositions de l'article D. 312-16. 
 
 Le centre d'accueil familial spécialisé a pour but de mettre à la disposition des enfants ou adolescents un environnement
 psychologique, éducatif et affectif complémentaire de celui qu'ils peuvent trouver dans leur propre entourage.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 33 annexe XXIV
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. D312-16 (M)
+	  - Code de l'action sociale et des familles - art. D312-16 (V)
 
 	**Cité par**:
 
@@ -49382,9 +49633,17 @@ l'établissement ou du service de rattachement.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 34 annexe XXIV
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 
 ###### Article D312-43
@@ -49394,9 +49653,17 @@ d'accueil familial spécialisé.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 35 annexe XXIV
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 
 ###### Article D312-44
@@ -49408,23 +49675,39 @@ Ils évitent la dispersion géographique.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 36 annexe XXIV
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
+
 
 ###### Article D312-45
 
-Les familles d'accueil sont agréées conformément aux dispositions des articles R. 421-1 à R. 421-13.
+Les familles d'accueil sont agréées conformément aux dispositions des articles R. 421-1 à R. 421-13. 
 
 De plus, le centre d'accueil familial spécialisé communique à l'autorité de tutelle les noms et adresses des familles
 auxquelles il recourt ainsi que le nombre d'enfants ou d'adolescents qu'elles reçoivent.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 37 annexe XXIV
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 	**Cité par**:
 
@@ -49432,7 +49715,7 @@ auxquelles il recourt ainsi que le nombre d'enfants ou d'adolescents qu'elles re
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles R421-1 à R421-13
+	  - Code de l'action sociale et des familles - art. R421-1 (V)
 
 
 ###### Article D312-46
@@ -49442,9 +49725,17 @@ sont logés dans le même domicile que la famille d'accueil et dans des chambres
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 38 annexe XXIV
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 
 ###### Article D312-47
@@ -49459,9 +49750,17 @@ choix de la famille d'accueil.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 39 annexe XXIV
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 	**Cite**:
 
@@ -49478,9 +49777,17 @@ placement de l'enfant ou de l'adolescent dans une autre famille.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 40 annexe XXIV
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 
 ###### Article D312-49
@@ -49491,9 +49798,17 @@ durant le placement.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 41 annexe XXIV
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 
 ###### Article D312-50
@@ -49507,9 +49822,17 @@ lieu périodiquement et au moins une fois par trimestre.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 42 annexe XXIV
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 
 ###### Article D312-51
@@ -49521,9 +49844,17 @@ Des visites de la famille d'accueil sont prévues autant que de besoin et au min
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 43 annexe XXIV
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 
 ###### Article D312-52
@@ -49539,9 +49870,17 @@ Chaque famille d'accueil informe la direction du centre du nom du médecin auque
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 44 annexe XXIV
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 
 ###### Article D312-53
@@ -49554,9 +49893,17 @@ d'accueil.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 45, 47 annexe XXIV
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 
 ###### Article D312-54
@@ -49566,9 +49913,17 @@ provoqués par lui.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 46 annexe XXIV
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 
 ##### Sous-paragraphe 7 : Services d'éducation spéciale et de soins à domicile.
@@ -49599,9 +49954,17 @@ spécialisés proches du domicile des parents.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 48 annexe XXIV
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 	**Cité par**:
 
@@ -49611,22 +49974,30 @@ spécialisés proches du domicile des parents.
 ###### Article D312-56
 
 Le service d'éducation spéciale et de soins à domicile comprend une équipe médicale et paramédicale telle que définie à
-l'article D. 312-21.
+l'article D. 312-21. 
 
 Il comprend également des éducateurs assurant des actions orientées vers le développement de la personnalité et la
-socialisation des enfants ou adolescents.
+socialisation des enfants ou adolescents. 
 
 Il comprend en tant que de besoin un ou des enseignants spécialisés.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 49 annexe XXIV
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. D312-21 (M)
+	  - Code de l'action sociale et des familles - art. D312-21 (V)
 
 
 ###### Article D312-57
@@ -49641,9 +50012,17 @@ adolescents.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 50 annexe XXIV
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
 
 	**Cite**:
 
@@ -49664,17 +50043,25 @@ adolescents, avec leurs qualifications et statuts.
 
 **Liens relatifs à cet article**
 
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. R543-1 (V)
-
 	**Cite**:
 
 	  - Code de l'action sociale et des familles annexe
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 51 annexe XXIV
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R543-1 (V)
 
 
 ###### Article D312-59
@@ -49684,9 +50071,670 @@ livre.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°89-798 1989-10-27 art. 52 annexe XXIV
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 du 21 octobre 2004
+
+	**Modifié par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2017-982 du 9 mai 2017 - art. 1
+
+
+##### Paragraphe 1 bis : Les instituts thérapeutiques, éducatifs et pédagogiques
+
+##### Sous-paragraphe 1 : Dispositions générales
+
+###### Article D312-59-1
+
+Les instituts thérapeutiques, éducatifs et pédagogiques accueillent les enfants, adolescents ou jeunes adultes qui présentent
+des difficultés psychologiques dont l'expression, notamment l'intensité des troubles du comportement, perturbe gravement la
+socialisation et l'accès aux apprentissages. Ces enfants, adolescents et jeunes adultes se trouvent, malgré des potentialités
+intellectuelles et cognitives préservées, engagés dans un processus handicapant qui nécessite le recours à des actions
+conjugées et à un accompagnement personnalisé tels que définis au II de l'article D. 312-59-2.
+
+**Liens relatifs à cet article**
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 1 () JORF 8 janvier 2005
+
+	**Cité par**:
+
+	  - Décret n°2017-620 du 24 avril 2017 - art.
+	  - Code de l'action sociale et des familles - art. Annexe 2-12 (V)
+	  - Code de l'action sociale et des familles - art. D312-10-3 (V)
+	  - Code de l'action sociale et des familles - art. D312-59-18 (V)
+	  - Code de l'action sociale et des familles - art. D312-59-2 (V)
+	  - Code de l'action sociale et des familles - art. D312-59-5 (V)
+
+
+###### Article D312-59-2
+
+I. - Les instituts thérapeutiques, éducatifs et pédagogiques :
+
+1° Accompagnent le développement des personnes mentionnées à l'article D. 312-59-1, au moyen d'une intervention
+interdisciplinaire. Cet accompagnement amène ces personnes à prendre conscience de leurs ressources, de leurs difficultés et
+à se mobiliser pour aller vers leur autonomie ;
+
+2° Dispensent des soins et des rééducations ;
+
+3° Favorisent le maintien du lien des intéressés avec leur milieu familial et social ;
+
+4° Promeuvent leur intégration dans les différents domaines de la vie, notamment en matière de formation générale et
+professionnelle. A ce titre, ils favorisent le maintien ou préparent l'accueil des intéressés en écoles et établissements
+scolaires, dans des dispositifs ordinaires ou adaptés ;
+
+5° Assurent, à l'issue de l'accompagnement, un suivi de ces personnes pendant une période définie et renouvelable dans la
+limite de trois années ;
+
+6° Peuvent participer, en liaison avec les autres intervenants compétents, à des actions de prévention, de repérage des
+troubles du comportement et de recherche de solutions adaptées pour les personnes mentionnées à l'article D. 312-59-1.
+
+II. - Pour mettre en oeuvre les missions définies au I du présent article, les instituts thérapeutiques, éducatifs et
+pédagogiques disposent d'une équipe interdisciplinaire qui :
+
+1° Conjugue des actions thérapeutiques, éducatives et pédagogiques sous la forme d'une intervention interdisciplinaire
+réalisée en partenariat avec les équipes de psychiatrie de secteur, les services et établissements de l'éducation nationale
+et, le cas échéant, les services de l'aide sociale à l'enfance et ceux de la protection judiciaire de la jeunesse ;
+
+2° Réalise ces actions dans le cadre d'un projet personnalisé d'accompagnement, adapté à la situation et l'évolution de
+chaque personne accueillie.
+
+Les instituts thérapeutiques, éducatifs et pédagogiques se dotent, conformément à l'article L. 311-8, d'un projet
+d'établissement tel que défini à l'article D. 312-59-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 1 () JORF 8 janvier 2005
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D312-10-3 (V)
+	  - Code de l'action sociale et des familles - art. D312-59-1 (V)
+	  - Code de l'action sociale et des familles - art. D312-59-4 (V)
+	  - Code de l'action sociale et des familles - art. D312-59-5 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L311-8 (M)
+
+
+###### Article D312-59-3
+
+Les parents ou les détenteurs de l'autorité parentale sont des acteurs à part entière du processus de développement de leur
+enfant. Ils sont associés aussi étroitement que possible à l'élaboration du projet personnalisé d'accompagnement et à son
+évolution, jusqu'à la fin de la prise en charge, ainsi qu'à l'élaboration du projet de sortie. Leur participation doit être
+recherchée dès la phase d'admission et tout au long de la prise en charge. 
+
+Toutes les fois que cela est possible, les enfants, adolescents ou jeunes adultes résident dans leur famille. 
+
+Lors de l'admission, le livret d'accueil visé à l'article L. 311-4 est communiqué à la famille et, le cas échéant, au jeune
+concerné. Les parents ou les détenteurs de l'autorité parentale sont saisis de tout fait ou décision relevant de l'autorité
+parentale. 
+
+Ils sont destinataires chaque année d'un bilan complet de la situation de l'enfant, de l'adolescent ou, avec son accord, du
+jeune adulte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 1 () JORF 8 janvier 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L311-4 (V)
+
+
+##### Sous-paragraphe 2 : Organisation de l'établissement
+
+###### Article D312-59-4
+
+Le projet d'établissement prévu à l'article L. 311-8 garantit la cohérence, la continuité et la qualité des projets
+personnalisés d'accompagnement. Ce projet :
+
+1° Définit les modalités de mise en oeuvre des missions énumérées au I de l'article D. 312-59-2 et des composantes
+thérapeutique, éducative, pédagogique et sociale mentionnées aux articles D. 312-59-9 à D. 312-59-12 et précise les
+conditions d'intervention des membres de l'équipe interdisciplinaire, mentionnés à ces mêmes articles ;
+
+2° Détaille les caractéristiques générales des prises en charge, des accompagnements et des prestations mis en oeuvre par
+l'établissement qui constituent le cadre de référence des projets personnalisés d'accompagnement élaborés dans les conditions
+prévues à l'article D. 312-59-5 ;
+
+3° Précise le contenu de la collaboration de l'établissement avec d'autres partenaires afin de favoriser la qualité de la
+prise en charge de ces personnes ainsi que la préparation ou la poursuite de leur intégration en milieu de vie ordinaire.
+Cette collaboration peut donner lieu à la conclusion d'une convention ou s'inscrit dans l'une des autres formules de
+coopération mentionnées à l'article L. 312-7 ;
+
+4° Détermine la nature des dispositifs propres à garantir une bonne animation de l'équipe interdisciplinaire ainsi que la
+mise en oeuvre de programmes de formation et d'actions de soutien des personnels telles que définies à l'article D.
+312-59-16 ;
+
+5° Formalise les procédures relatives à l'amélioration de la qualité du fonctionnement de l'établissement et des prestations
+qui y sont délivrées. Cette formalisation vient soutenir la mise en oeuvre de l'évaluation interne telle que définie au
+premier alinéa de l'article L. 312-8 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 1 () JORF 8 janvier 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D312-59-16 (V)
+	  - Code de l'action sociale et des familles - art. D312-59-5 (V)
+	  - Code de l'action sociale et des familles - art. L311-8 (M)
+	  - Code de l'action sociale et des familles - art. L312-7 (M)
+	  - Code de l'action sociale et des familles - art. L312-8 (M)
+	  - Code de l'action sociale et des familles L311-8, D312-59-2, D312-59-9 à D312-59-12, D312-59-5, L312-7, D312-59-16, L312-8
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D312-59-2 (V)
+	  - Code de l'action sociale et des familles - art. D312-59-7 (V)
+
+
+###### Article D312-59-5
+
+I. - Chaque projet personnalisé d'accompagnement mentionné au 2° du II de l'article D. 312-59-2 :
+
+1° Tient compte de la situation singulière des personnes mentionnées à l'article D. 312-59-1 et de leurs parents ;
+
+2° Comporte une composante thérapeutique, éducative et pédagogique ;
+
+3° Propose des modalités d'accompagnement diversifiées, modulables et évolutives. Conformément au 1° du II de l'article D.
+312-59-2, quand d'autres partenaires sont associés au suivi de la personne, une cohérence doit être recherchée entre leurs
+actions et l'accompagnement proposé ;
+
+4° Détermine les étapes de la prise en charge, la périodicité des bilans et les modalités du suivi mis en place pour garantir
+une intervention évolutive et adaptable ;
+
+5° Est mis en oeuvre à temps complet ou à temps partiel, en internat, en semi-internat, en externat, en centre d'accueil
+familial spécialisé dans les conditions prévues aux articles D. 312-41 à D. 312-54, le cas échéant, dans le cadre d'un
+service d'éducation spéciale et de soins à domicile tel que prévu aux articles D. 312-55 à D. 312-59 ;
+
+6° Organise la mise en oeuvre des transferts de l'établissement dans les conditions prévues à l'article D. 312-17.
+
+II. - Les principales caractéristiques du projet personnalisé d'accompagnement sont retracées, selon les cas, dans le contrat
+de séjour ou dans le document individuel de prise en charge visés à l'article L. 311-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 1 () JORF 8 janvier 2005
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. Annexe 2-12 (V)
+	  - Code de l'action sociale et des familles - art. D312-59-3-1 (V)
+	  - Code de l'action sociale et des familles - art. D312-59-4 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D312-17 (M)
+	  - Code de l'action sociale et des familles - art. D312-59-1 (V)
+	  - Code de l'action sociale et des familles - art. D312-59-2 (V)
+	  - Code de l'action sociale et des familles - art. L311-4 (M)
+	  - Code de l'action sociale et des familles D312-59-2, D312-59-1, D312-41 à D312-54, D312-55 à D312-59, D312-17, L311-4
+
+
+###### Article D312-59-6
+
+Un dossier individuel renseigné et actualisé est ouvert pour chaque personne admise. Le dossier retrace l'évolution de la
+personne au cours de son accompagnement. Il comporte les divers volets correspondant aux composantes thérapeutique, éducative
+et pédagogique du projet personnalisé d'accompagnement, et notamment le dossier établi lors de l'admission, ainsi que tous
+les comptes rendus de réunions ou d'intervention concernant l'enfant, l'adolescent ou le jeune adulte. Il contient les
+autorisations écrites demandées aux parents ou aux détenteurs de l'autorité parentale. Il fait aussi mention des faits
+notables intervenus dans le cadre de l'accompagnement et des suites qui leur ont été données. A l'issue de l'accompagnement,
+le dossier est complété par les informations qui permettront son suivi tel que prévu au deuxième alinéa de l'article D.
+312-59-15.
+
+Les certificats médicaux, les résultats des examens cliniques et complémentaires pratiqués à l'intérieur ou à l'extérieur de
+l'établissement ou du service figurent dans le dossier médical de l'intéressé.
+
+Le contenu et l'usage des dossiers doivent être conformes à la législation en vigueur et notamment aux articles L. 1111-7 et
+L. 1111-8 du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 1 () JORF 8 janvier 2005
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L1111-7 (M)
+	  - Code de la santé publique - art. L1111-8 (M)
+	  - Code de l'action sociale et des familles - art. D312-59-15 (V)
+
+
+##### Sous-paragraphe 3 : Les personnels
+
+###### Article D312-59-7
+
+Dans le respect des prérogatives de l'organe délibérant de la personne morale gestionnaire de l'établissement, le directeur
+exerce la responsabilité générale du fonctionnement de l'établissement, notamment en matière administrative, financière et
+comptable. Il assure la coordination des interventions thérapeutiques, éducatives, pédagogiques et met en oeuvre les
+coopérations mentionnées au 3° de l'article D. 312-59-4. 
+
+A ce titre, le directeur : 
+
+1° Est responsable de la mise en oeuvre du projet d'établissement et de son évolution, en liaison avec l'équipe
+interdisciplinaire ; 
+
+2° S'assure du bon accueil des personnes et des familles et s'assure de la tenue du registre mentionné à l'article L.
+331-2 ; 
+
+3° Veille à l'évaluation régulière de la qualité des projets personnalisés d'accompagnement des enfants et des adolescents et
+préside les réunions de synthèse ; 
+
+4° Veille au respect d'une approche interdisciplinaire du travail en équipe et est, à ce titre, garant de la cohésion de
+l'équipe interdisciplinaire et de ses différentes composantes mentionnées aux articles D. 312-59-9 à D. 312-59-12 ; 
+
+5° Organise le développement des relations avec les institutions et intervenants extérieurs qui participent à
+l'accompagnement de la personne ; 
+
+6° Mobilise les moyens propres à assurer la formation continue et le soutien permanent des professionnels ; 
+
+7° Veille à la qualité de l'environnement, à la sécurité des enfants, des adolescents et des jeunes adultes, à leur
+développement dans le respect de leurs droits, de leur confort et de leur bien-être et s'assure que l'ensemble de
+l'organisation concourt à cet objectif ; 
+
+8° Doit répondre aux conditions prévues à l'article D. 312-20.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 1 () JORF 8 janvier 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D312-20 (V)
+	  - Code de l'action sociale et des familles - art. D312-59-4 (V)
+	  - Code de l'action sociale et des familles - art. L331-2 (V)
+
+
+###### Article D312-59-8
+
+L'équipe interdisciplinaire concourt à l'élaboration et à la réalisation des différentes dimensions du projet personnalisé
+d'accompagnement. Sa composition et son fonctionnement sont conformes au projet d'établissement et permettent sa mise en
+oeuvre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 1 () JORF 8 janvier 2005
+
+
+###### Article D312-59-9
+
+I. - L'équipe interdisciplinaire comporte une équipe médicale, paramédicale et psychologique qui :
+
+1° Dresse dès l'admission un bilan de santé puis veille à son actualisation pour chaque enfant, adolescent ou jeune adulte
+accueilli ;
+
+2° Assure une fonction générale de surveillance de la santé physique et psychique des enfants, adolescents et jeunes adultes
+accueillis ;
+
+3° Veille à la réalisation du projet d'établissement dans sa dimension thérapeutique ;
+
+4° En lien avec les autres membres de l'équipe interdisciplinaire et les partenaires extérieurs, notamment les médecins
+traitants, met en oeuvre, au sein de l'établissement, et veille à la délivrance, à l'extérieur de celui-ci, de toute forme de
+soins et de soutien psychologique.
+
+L'équipe médicale, paramédicale et psychologique est animée par un médecin psychiatre, qui en coordonne les actions. Aucun
+traitement n'est entrepris s'il n'a été prescrit par un médecin. Un registre de l'état sanitaire mentionne tous les accidents
+et incidents survenus ainsi que les hospitalisations effectuées.
+
+II. - L'équipe visée au I du présent article :
+
+1° Comprend :
+
+- un psychiatre possédant une formation dans le domaine de l'enfance et de l'adolescence, le cas échéant exerçant dans un
+secteur de psychiatrie infanto-juvénile ;
+
+- un pédiatre ou un médecin généraliste ;
+
+- un psychologue clinicien ;
+
+2° En fonction du projet d'établissement, comprend ou associe tout ou partie des professionnels suivants :
+
+- orthophonistes ;
+
+- psychomotriciens ;
+
+- les auxiliaires médicaux tels que mentionnés au livre III de la quatrième partie du code de la santé publique, requis ;
+
+3° Développe, dans le cadre du projet d'établissement, des liens fonctionnels avec les secteurs de psychiatrie concernés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 1 () JORF 8 janvier 2005
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D312-59-17 (V)
+	  - Code de l'action sociale et des familles - art. D312-59-4 (V)
+
+
+###### Article D312-59-10
+
+L'équipe interdisciplinaire comporte une équipe éducative qui veille au développement de la personnalité et à la
+socialisation des enfants, des adolescents et des jeunes adultes, les suit dans leur vie quotidienne et dans la réalisation
+de leur projet personnalisé d'accompagnement, à l'intérieur comme à l'extérieur de l'établissement.
+
+La fonction de référent est assurée au sein de l'équipe éducative. Elle favorise pour chaque enfant, adolescent ou jeune
+adulte accueilli et sa famille la continuité et la cohérence de l'accompagnement. Ses modalités de mise en oeuvre sont
+prévues par le projet d'établissement.
+
+La surveillance de nuit des enfants, des adolescents et des jeunes adultes participe à l'exercice de la fonction éducative.
+
+L'équipe éducative comprend notamment les professionnels ayant une qualification pour exercer les fonctions suivantes :
+
+- éducateurs spécialisés ou éducateurs de jeunes enfants et moniteurs-éducateurs ;
+
+- éducateurs techniques spécialisés ;
+
+- agents qui, au sein des unités de vie, sont appelés à prendre en charge certains aspects matériels de la vie quotidienne
+des enfants ou adolescents et assurent une fonction de maître ou maîtresse de maison.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 1 () JORF 8 janvier 2005
+
+
+###### Article D312-59-11
+
+Au sein de l'équipe interdisciplinaire et conformément au projet personnalisé d'accompagnement, l'équipe pédagogique
+accompagne la personne dans ses apprentissages et dans la poursuite de sa formation, sous la responsabilité du directeur.
+
+Sans préjudice de la possibilité de fréquenter une école ou un établissement scolaire, à temps partiel ou à temps plein, les
+instituts thérapeutiques, éducatifs et pédagogiques offrent un accueil en classe adapté aux besoins des personnes
+accueillies. Ils peuvent proposer des dispositifs de formation professionnelle initiale. Les enseignements sont dispensés
+dans le cadre des programmes publiés par le ministère chargé de l'éducation nationale. La formation professionnelle est
+réalisée en liaison étroite avec le milieu professionnel.
+
+L'établissement s'assure le concours d'une équipe pédagogique comprenant, selon l'âge et le besoin des personnes, des
+enseignants assurant la formation scolaire ou professionnelle des enfants, adolescents ou jeunes adultes par des actions
+pédagogiques adaptées.
+
+En application de l'article L. 351-1 du code de l'éducation, la rémunération de ces enseignants est prise en charge par
+l'Etat. Ils sont recrutés dans les catégories suivantes :
+
+- instituteurs ou professeurs des écoles spécialisés, titulaires du certificat d'aptitude professionnelle pour les aides
+spécialisées, les enseignements adaptés et la scolarisation des élèves en situation de handicap (CAPA-SH), option D ;
+
+- enseignants du second degré dispensant un enseignement général ou une première formation professionnelle titulaires du
+certificat complémentaire pour les enseignements adaptés et la scolarisation des élèves en situation de handicap (2CA-SH),
+option D.
+
+Il est fait appel à des professeurs d'éducation physique et sportive ou des éducateurs sportifs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 1 () JORF 8 janvier 2005
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L351-1 (M)
+
+
+###### Article D312-59-12
+
+L'établissement recourt aux compétences d'un service social.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 1 () JORF 8 janvier 2005
+
+
+###### Article D312-59-13
+
+Tous les personnels recrutés dans ces établissements et services sont soumis aux dispositions de l'article D. 312-34. 
+
+Chacun des membres de l'équipe interdisciplinaire possède les diplômes ou les équivalences reconnus nécessaires à l'exercice
+de ses compétences.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 1 () JORF 8 janvier 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D312-34 (V)
+
+
+##### Sous-paragraphe 4 : Fonctionnement de l'établissement
+
+###### Article D312-59-14
+
+L'admission est prononcée par le directeur après décision de la commission mentionnée à l'article L. 242-2.
+
+Lorsque, après avis de l'équipe interdisciplinaire, le directeur est amené à constater que l'orientation dans son
+établissement n'est pas conforme à l'intérêt de l'enfant, de l'adolescent ou du jeune adulte, il en informe la commission et
+peut proposer une autre solution à la commission, à la famille ou contribuer à l'élaboration d'une solution de remplacement
+plus adaptée.
+
+Les démarches mentionnées à l'alinéa précédent s'effectuent dans le respect des dispositions de l'article L. 351-2 du code de
+l'éducation et ne peuvent faire obstacle à la mise en oeuvre de la décision visée au second alinéa dudit article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 1 () JORF 8 janvier 2005
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L351-2 (M)
+	  - Code de l'action sociale et des familles - art. L242-2 (Ab)
+
+
+###### Article D312-59-15
+
+Quatre mois avant la date de révision de la décision d'orientation telle que prévue à l'article L. 242-6, l'établissement
+élabore un bilan circonstancié de l'évolution de la personne afin de proposer soit une prorogation de la prise en charge,
+soit la sortie de l'établissement.
+
+Ce bilan propose, le cas échéant, les mesures d'accompagnement prévues par l'établissement en cas de sortie pour permettre à
+la commission mentionnée à l'article L. 242-2 de statuer. Les modalités de suivi doivent faire l'objet d'une proposition
+écrite.
+
+La sortie des enfants, adolescents ou jeunes adultes est prononcée par le directeur après intervention de la décision de la
+commission précitée.
+
+Un projet de formation scolaire et professionnelle est élaboré. Il prévoit notamment les conditions dans lesquelles la
+personne peut fréquenter l'école ou l'établissement scolaire dont elle dépend, à temps partiel ou à temps plein.
+
+Avec l'accord des parents et l'avis de l'intéressé ou son accord s'il est majeur, l'école ou l'établissement scolaire
+d'origine est informé de son devenir.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 1 () JORF 8 janvier 2005
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D312-59-6 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L242-6 (Ab)
+
+
+###### Article D312-59-16
+
+L'établissement développe des modes de soutien aux professionnels. Ces soutiens peuvent prendre notamment la forme d'actions
+de supervisions et d'analyse des pratiques menées par des professionnels distincts de ceux appartenant à l'équipe
+thérapeutique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 1 () JORF 8 janvier 2005
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D312-59-4 (V)
+
+
+##### Sous-paragraphe 5 : Des installations
+
+###### Article D312-59-17
+
+L'implantation de l'établissement garantit son insertion dans la communauté sociale et l'accès aux infrastructures, notamment
+culturelles et sportives. 
+
+L'organisation et l'utilisation des locaux et des installations extérieures doivent permettre la surveillance adaptée des
+enfants, adolescents ou jeunes adultes. 
+
+Les locaux sont adaptés à la vocation de l'établissement et à l'âge des personnes accueillies. Des sections séparées doivent
+être prévues pour les enfants, les adolescents et, si nécessaire, les jeunes adultes. 
+
+Ils doivent permettre des prises en charge par petits groupes au sein d'unités de vie et créer un cadre favorisant le respect
+de chacun et de son intimité. 
+
+Les locaux et l'espace sont organisés de manière à distinguer les lieux pédagogiques, les lieux de soins, les lieux
+collectifs de socialisation et d'animation, les lieux de résidence et de vie quotidienne pour permettre un fonctionnement
+autonome de chacun des groupes en tant que de besoin. 
+
+L'équipe mentionnée à l'article D. 312-59-9 bénéficie de lieux de consultation afin notamment de réaliser les entretiens et
+thérapies individuels des personnes accueillies et de recevoir les familles. 
+
+Les installations sont conformes aux dispositions des articles D. 312-28 à D. 312-33.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 1 () JORF 8 janvier 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D312-28 (V)
+	  - Code de l'action sociale et des familles - art. D312-59-9 (V)
+
+
+##### Sous-paragraphe 6 : Dispositions transitoires
+
+###### Article D312-59-18
+
+Les instituts de rééducation et les établissements visés à l'article D. 312-11 qui accueillent le public visé à l'article D.
+312-59-1 doivent se mettre en conformité avec les dispositions du présent paragraphe avant le 1er septembre 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-11 du 6 janvier 2005 - art. 1 () JORF 8 janvier 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D312-11 (V)
+	  - Code de l'action sociale et des familles - art. D312-59-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R543-1 (V)
 
 
 ##### Paragraphe 2 : Etablissements et services prenant en charge des enfants ou adolescents présentant une déficience motrice
