@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2002-12-31
+Version Consolidée au 2003-03-19
 
 # Partie législative
 
@@ -21804,6 +21804,9 @@ ressources à leurs frais d'hébergement et d'entretien et, d'autre part, les co
 rémunération mentionnée à l'article L. 241-12 du code de la sécurité sociale lorsqu'elles prennent part aux activités
 d'insertion professionnelle prévues à l'alinéa précédent.
 
+Des places en centres d'hébergement et de réinsertion sociale sont ouvertes à l'accueil des victimes de la traite des êtres
+humains dans des conditions sécurisantes.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -21849,8 +21852,7 @@ d'insertion professionnelle prévues à l'alinéa précédent.
 
 	**Modifié par**:
 
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 75 () JORF 3 janvier 2002
+	  - Loi n°2003-239 du 18 mars 2003 - art. 43 () JORF 19 mars 2003
 
 	**Cite**:
 
