@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2005-01-08
+Version Consolidée au 2005-01-19
 
 # Partie législative
 
@@ -851,6 +851,40 @@ Il prend en compte, le cas échéant, la situation des personnes les plus vulné
 	  - Code de la sécurité intérieure - art. R741-48 (VD)
 
 
+#### Chapitre VII : Personnes immigrées ou issues de l'immigration
+
+###### Article L117-2
+
+Sous l'autorité du représentant de l'Etat, il est élaboré dans chaque région et dans la collectivité territoriale de Corse un
+programme régional d'intégration des populations immigrées. Ce programme détermine l'ensemble des actions concourant à
+l'accueil des nouveaux immigrants et à la promotion sociale, culturelle et professionnelle des personnes immigrées ou issues
+de l'immigration. A la demande du représentant de l'Etat dans la région et la collectivité territoriale de Corse, les
+collectivités territoriales lui font connaître les dispositions qu'elles envisagent de mettre en oeuvre, dans l'exercice des
+compétences que la loi leur attribue, pour concourir à l'établissement de ce programme. Un décret détermine les conditions
+dans lesquelles les organismes de droit privé à but non lucratif spécialisés dans l'aide aux migrants et les établissements
+publics visés aux articles L. 121-13 et L. 121-14 participent à l'élaboration du programme régional d'intégration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2005-32 du 18 janvier 2005 - art. 146 () JORF 19 janvier 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L121-13 (M)
+	  - Code de l'action sociale et des familles - art. L121-14 (M)
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 81 (M)
+
+
 ### Titre II : Compétences
 
 #### Chapitre Ier : Collectivités publiques et organismes responsables
@@ -1366,6 +1400,108 @@ individuel et collectif, dans le cadre de la politique fixée par le conseil. "
 	  - PILOTE_SUIVEUR: Code rural - art. L726-1 (V)
 
 
+##### Section 5 : Etablissements publics
+
+###### Article L121-13
+
+L'Agence nationale de l'accueil des étrangers et des migrations est un établissement public administratif de l'Etat qui
+exerce les missions définies à l'article L. 341-9 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2005-32 du 18 janvier 2005 - art. 148 () JORF 19 janvier 2005
+
+	**Cité par**:
+
+	  - Loi n°2015-925 du 29 juillet 2015 - art. 35 (V)
+	  - Décret n°2015-1166 du 21 septembre 2015 - art. 30 (VD)
+	  - Code de l'action sociale et des familles - art. L117-2 (V)
+	  - Code de l'action sociale et des familles - art. L541-2 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. L341-9 (M)
+
+
+###### Article L121-14
+
+Le Fonds d'action et de soutien pour l'intégration et la lutte contre les discriminations met en oeuvre des actions visant à
+l'intégration des populations immigrées et issues de l'immigration résidant en France et concourt à la lutte contre les
+discriminations dont elles pourraient être victimes.
+
+A ce titre, il participe au service public de l'accueil assuré par l'Agence nationale de l'accueil des étrangers et des
+migrations dans les conditions prévues à l'article L. 341-9 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2005-32 du 18 janvier 2005 - art. 148 () JORF 19 janvier 2005
+
+	**Cité par**:
+
+	  - Loi n°2006-396 du 31 mars 2006 - art. 39 (V)
+	  - Décret n°2007-181 du 9 février 2007 - art. 1 (Ab)
+	  - Loi n°2007-297 du 5 mars 2007 - art. 5 (VD)
+	  - Décret n°2007-1048 du 26 juin 2007 - art. 1 (V)
+	  - Décret n°2007-1048 du 26 juin 2007 - art. 3 (V)
+	  - Décret n°2007-1048 du 26 juin 2007 - art. 5-1 (V)
+	  - Loi n°2007-1824 du 25 décembre 2007 - art. 3 (V)
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 3 (V)
+	  - Code de l'action sociale et des familles - art. L117-2 (V)
+	  - Code de l'action sociale et des familles - art. R121-13 (V)
+	  - Code de l'action sociale et des familles - art. R121-17 (V)
+	  - Code de l'action sociale et des familles - art. R121-20 (V)
+	  - Code de l'action sociale et des familles - art. R121-21 (V)
+	  - Code de la sécurité intérieure - art. D132-7 (V)
+	  - Code général des collectivités territoriales - art. D2211-1 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L341-9 (M)
+
+
+###### Article L121-15
+
+Le Fonds d'action et de soutien pour l'intégration et la lutte contre les discriminations est un établissement public
+administratif de l'Etat. Pour l'exercice de ses missions, cet établissement peut recruter des agents non titulaires sur des
+contrats à durée indéterminée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2005-32 du 18 janvier 2005 - art. 148 () JORF 19 janvier 2005
+
+	**Cité par**:
+
+	  - Décret n°2012-509 du 18 avril 2012 - art. 1 (V)
+	  - Code de l'action sociale et des familles - art. L541-2 (VT)
+	  - Code de l'action sociale et des familles - art. L547-1 (Ab)
+	  - Code de l'action sociale et des familles - art. L553-1 (VT)
+	  - Code de l'action sociale et des familles - art. L563-1 (VT)
+	  - Code de l'action sociale et des familles - art. L573-1 (VT)
+	  - Code de l'action sociale et des familles - art. R121-20 (V)
+	  - Code de l'action sociale et des familles - art. R121-21 (V)
+
+
 #### Chapitre II : Domicile de secours.
 
 ###### Article L122-1
@@ -1678,8 +1814,19 @@ et médico-sociaux mentionnés à l'article L. 312-1.
 Le centre communal d'action sociale peut, le cas échéant, exercer les compétences que le département a confiées à la commune
 dans les conditions prévues par l'article L. 121-6.
 
-Plusieurs communes constituées en établissement public de coopération intercommunale peuvent créer un centre intercommunal
-d'action sociale qui exerce pour les communes concernées, les compétences mentionnées aux alinéas qui précédent.
+Un établissement public de coopération intercommunale peut créer un centre intercommunal d'action sociale pour exercer la
+compétence action sociale d'intérêt communautaire qui lui a été transférée.
+
+Les compétences exercées par les centres d'action sociale des communes membres de l'établissement public de coopération
+intercommunale qui relèvent de l'action sociale d'intérêt communautaire mentionnée au précédent alinéa sont transférées de
+plein droit au centre intercommunal d'action sociale, lorsqu'il a été créé.
+
+Tout ou partie des autres attributions qui sont exercées par les centres d'action sociale des communes membres de
+l'établissement public de coopération intercommunale peuvent également être transférées au centre intercommunal d'action
+sociale. Ce transfert est décidé par délibérations concordantes de l'organe délibérant de l'établissement public de
+coopération intercommunale et des conseils municipaux, se prononçant dans les conditions de majorité requises pour la
+création de l'établissement public de coopération intercommunale, et à l'unanimité des centres d'action sociale des communes
+concernées.
 
 **Liens relatifs à cet article**
 
@@ -1690,7 +1837,7 @@ d'action sociale qui exerce pour les communes concernées, les compétences ment
 
 	**Modifié par**:
 
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 78 () JORF 3 janvier 2002
+	  - Loi n°2005-32 du 18 janvier 2005 - art. 60 (V) JORF 19 janvier 2005
 
 	**Cité par**:
 
@@ -12573,13 +12720,9 @@ imputées sur le crédit résultant de l'obligation prévue à l'article L. 263-
 ###### Article L262-6-1
 
 Pendant la durée du contrat insertion-revenu minimum d'activité conclu en application des articles L. 322-4-15 et L.
-322-4-15-1 du code du travail, chacun des membres du foyer, y compris l'allocataire, et chacune des personnes à charge
-conserve les droits garantis au bénéficiaire du revenu minimum d'insertion.
-
-**Nota:**
-
-Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
-l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
+322-4-15-1 ou du contrat d'avenir conclu en application de l'article L. 322-4-10 du code du travail, chacun des membres du
+foyer, y compris l'allocataire, et chacune des personnes à charge conserve les droits garantis au bénéficiaire du revenu
+minimum d'insertion.
 
 **Liens relatifs à cet article**
 
@@ -12588,18 +12731,23 @@ l'entrée en vigueur à cette date des dispositions de la loi de finances mentio
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-1200 du 18 décembre 2003 - art. 45 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+	  - Loi n°2005-32 2005-01-18 art. 50 1° JORF 19 janvier 2005
 
 	**Cité par**:
 
 	  - Décret n°2007-1433 du 5 octobre 2007 - art. 15 (VT)
 
+	**Abrogé par**:
+
+	  - Loi n°2008-1249 du 1er décembre 2008 - art. 3
+
 	**Cite**:
 
-	  - Code du travail - art. L322-4-15 (M)
-	  - Code du travail - art. L322-4-15-1 (M)
+	  - Code du travail - art. L322-4-10
+	  - Code du travail - art. L322-4-15
+	  - Code du travail - art. L322-4-15-1
 
 
 ##### Section 2 : Conditions d'ouverture du droit à l'allocation.
@@ -12907,22 +13055,18 @@ réglementaire.
 ###### Article L262-12-1
 
 Pendant la durée du contrat insertion-revenu minimum d'activité conclu en application des articles L. 322-4-15 et L.
-322-4-15-1 du code du travail, le bénéficiaire de ce contrat continue de bénéficier de l'allocation de revenu minimum
-d'insertion. Son montant est alors égal à celui résultant de l'application des dispositions de la présente section, diminué
-du montant de l'aide à l'employeur définie à l'article L. 322-4-15-6 du même code.
+322-4-15-1 du code du travail ou du contrat d'avenir conclu en application de l'article L. 322-4-10 du même code, le
+bénéficiaire de ce contrat continue de bénéficier de l'allocation de revenu minimum d'insertion. Son montant est alors égal à
+celui résultant de l'application des dispositions de la présente section, diminué du montant de l'aide à l'employeur définie
+au premier alinéa du II de l'article L. 322-4-12 ou à l'article L. 322-4-15-6 du même code.
 
-En cas de rupture de ce contrat pour un motif autre que celui visé à l'article L. 322-4-15-5 du code du travail ou lorsque ce
-contrat n'est pas renouvelé et que son bénéficiaire n'exerce pas d'activité professionnelle rémunérée, celui-ci continue de
-percevoir l'allocation de revenu minimum d'insertion à hauteur du montant de l'aide du département versée à l'employeur
-jusqu'à son réexamen sur le fondement des dispositions de la présente section.
+En cas de rupture de ce contrat pour un motif autre que celui visé à l'article L. 322-4-15-5 ou au IV de l'article L.
+322-4-12 du code du travail ou lorsque ce contrat n'est pas renouvelé et que son bénéficiaire n'exerce pas d'activité
+professionnelle rémunérée, celui-ci continue de percevoir l'allocation de revenu minimum d'insertion à hauteur du montant de
+l'aide du département versée à l'employeur jusqu'à son réexamen sur le fondement des dispositions de la présente section.
 
 Les organismes chargés du service de l'allocation de revenu minimum d'insertion sont destinataires des informations relatives
 au contrat insertion-revenu minimum d'activité, dans des conditions fixées par décret.
-
-**Nota:**
-
-Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
-l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -12931,9 +13075,9 @@ l'entrée en vigueur à cette date des dispositions de la loi de finances mentio
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-1200 du 18 décembre 2003 - art. 45 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+	  - Loi n°2005-32 2005-01-18 art. 50 2° JORF 19 janvier 2005
 
 	**Cité par**:
 
@@ -12941,6 +13085,8 @@ l'entrée en vigueur à cette date des dispositions de la loi de finances mentio
 
 	**Cite**:
 
+	  - Code du travail - art. L322-4-10 (T)
+	  - Code du travail - art. L322-4-12 (T)
 	  - Code du travail - art. L322-4-15 (M)
 	  - Code du travail - art. L322-4-15-1 (M)
 	  - Code du travail - art. L322-4-15-5 (M)
@@ -14176,8 +14322,8 @@ l'emploi ;
 3° Des activités ou stages destinés à acquérir ou à améliorer leurs compétences professionnelles ou à favoriser leur
 insertion en milieu de travail ;
 
-4° Un emploi aidé, notamment un contrat insertion-revenu minimum d'activité, ou une mesure d'insertion par l'activité
-économique ;
+4° Un emploi aidé, notamment un contrat insertion-revenu minimum d'activité, un contrat d'avenir ou une mesure d'insertion
+par l'activité économique ;
 
 5° Une assistance à la réalisation d'un projet de création ou de reprise d'une activité non salariée.
 
@@ -14189,11 +14335,6 @@ b) Des actions visant à faciliter l'accès aux soins, les soins de santé envis
 l'objet du contrat d'insertion.
 
 Il fait l'objet d'une évaluation régulière donnant lieu éventuellement à un réajustement des actions précédemment définies.
-
-**Nota:**
-
-Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
-l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -14219,7 +14360,7 @@ l'entrée en vigueur à cette date des dispositions de la loi de finances mentio
 
 	**Modifié par**:
 
-	  - Loi n°2003-1200 du 18 décembre 2003 - art. 24 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+	  - Loi n°2005-32 2005-01-18 art. 50 4° JORF 19 janvier 2005
 
 	**Cite**:
 
@@ -14623,8 +14764,9 @@ sécurité sociale.
 ###### Article L262-48
 
 Le président du conseil général transmet au représentant de l'Etat dans le département, dans des conditions fixées par voie
-réglementaire, toute information relative au dispositif d'insertion lié à l'allocation de revenu minimum d'insertion et au
-contrat insertion-revenu minimum d'activité régi par les articles L. 322-4-15 et suivants du code du travail.
+réglementaire, toute information relative au dispositif d'insertion lié à l'allocation de revenu minimum d'insertion, au
+contrat insertion-revenu minimum d'activité régi par les articles L. 322-4-15 et suivants du code du travail et au contrat
+d'avenir régi par les articles L. 322-4-10 et suivants du même code.
 
 Ces informations comprennent notamment :
 
@@ -14633,11 +14775,6 @@ Ces informations comprennent notamment :
 - les données agrégées portant sur les caractéristiques des bénéficiaires et sur les prestations fournies ;
 
 - les informations sur la gestion de ces prestations dans le département et sur l'activité des organismes qui y concourent.
-
-**Nota:**
-
-Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
-l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -14651,12 +14788,13 @@ l'entrée en vigueur à cette date des dispositions de la loi de finances mentio
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-1200 du 18 décembre 2003 - art. 48 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+	  - Loi n°2005-32 2005-01-18 art. 50 5° JORF 19 janvier 2005
 
 	**Cite**:
 
+	  - Code du travail - art. L322-4-10 (T)
 	  - Code du travail - art. L322-4-15 (M)
 
 	**Nouveaux textes**:
@@ -14936,7 +15074,8 @@ l'entrée en vigueur à cette date des dispositions de la loi de finances mentio
 Un conseil départemental d'insertion, composé notamment de représentants des services de l'Etat, des collectivités
 territoriales, des organismes chargés de l'emploi et de la formation professionnelle et des autres personnes de droit public
 ou privé, notamment des associations, oeuvrant dans le domaine de l'insertion et de la lutte contre l'exclusion, est placé
-auprès du président du conseil général.
+auprès du président du conseil général. Il comprend également des représentants de la commission départementale compétente en
+matière d'emploi et d'insertion mentionnée à l'article L. 322-2-1 du code du travail.
 
 Le conseil départemental d'insertion émet un avis sur le programme départemental d'insertion. Il est informé de son
 exécution.
@@ -14948,11 +15087,6 @@ Le président de chaque commission locale d'insertion ou le représentant qu'il 
 départemental d'insertion.
 
 Le conseil est réuni au minimum deux fois par an.
-
-**Nota:**
-
-Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
-l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -14968,7 +15102,7 @@ l'entrée en vigueur à cette date des dispositions de la loi de finances mentio
 
 	**Modifié par**:
 
-	  - Loi n°2003-1200 du 18 décembre 2003 - art. 31 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+	  - Loi n°2005-32 du 18 janvier 2005 - art. 65 () JORF 19 janvier 2005
 
 	**Cité par**:
 
@@ -14983,6 +15117,10 @@ l'entrée en vigueur à cette date des dispositions de la loi de finances mentio
 	  - Code de l'action sociale et des familles - art. L549-2 (Ab)
 	  - Code de l'action sociale et des familles - art. R263-2 (Ab)
 	  - Code de l'action sociale et des familles - art. R263-4 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. L322-2-1 (AbD)
 
 
 ###### Article L263-3
@@ -25450,7 +25588,7 @@ maire ou le président du groupement, et par le directeur de l'agence d'insertio
 ###### Article L522-8
 
 L'agence d'insertion peut conclure avec les bénéficiaires du revenu minimum d'insertion des contrats d'insertion par
-l'activité. Ces contrats sont régis par les articles L. 322-4-7, L. 322-4-8 et L. 322-4-10 à L. 322-4-14 du code du travail.
+l'activité. Ces contrats sont régis par l'article L. 322-4-7 du code du travail.
 
 Les titulaires de contrats d'insertion par l'activité sont affectés à l'exécution des tâches d'utilité sociale prévues à
 l'article L. 522-1. Ces tâches sont assurées par l'agence elle-même ou par les personnes ou organismes mentionnés au premier
@@ -25472,8 +25610,6 @@ libertés.
 
 	  - Loi n°78-17 1978-01-06
 	  - Code du travail - art. L322-4-7 (M)
-	  - Code du travail - art. L322-4-8 (M)
-	  - Code du travail L322-4-7, L322-4-8, L322-4-10 à L322-4-14
 	  - Code de l'action sociale et des familles - art. L262-30 (M)
 
 	**Anciens textes**:
@@ -25509,7 +25645,7 @@ libertés.
 
 	**Modifié par**:
 
-	  - Loi n°2004-801 du 6 août 2004 - art. 17 () JORF 7 août 2004
+	  - Loi n°2005-32 du 18 janvier 2005 - art. 47 (V) JORF 19 janvier 2005
 
 
 ###### Article L522-9
@@ -25524,13 +25660,8 @@ contrat insertion-revenu minimum d'activité.
 
 Les ressources de chaque agence comprennent également la participation financière de l'Etat aux contrats d'insertion par
 l'activité, déterminée dans des conditions définies par voie réglementaire ainsi que celle des collectivités, personnes ou
-organismes mentionnés au premier alinéa de l'article L. 322-4-7 du code du travail, les revenus des immeubles, les dons et
-legs, les subventions et toutes les ressources autorisées par la loi et les règlements en vigueur.
-
-**Nota:**
-
-Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
-l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
+organismes mentionnés au premier alinéa du I de l'article L. 322-4-7 du code du travail, les revenus des immeubles, les dons
+et legs, les subventions et toutes les ressources autorisées par la loi et les règlements en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -25552,7 +25683,7 @@ l'entrée en vigueur à cette date des dispositions de la loi de finances mentio
 
 	**Modifié par**:
 
-	  - Loi n°2003-1200 du 18 décembre 2003 - art. 40 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+	  - Loi n°2005-32 du 18 janvier 2005 - art. 55 () JORF 19 janvier 2005
 
 
 ###### Article L522-10
@@ -25859,16 +25990,13 @@ l'entrée en vigueur à cette date des dispositions de la loi de finances mentio
 
 ###### Article L522-18
 
-Pour l'application des articles L. 322-4-15-1, L. 322-4-15-4, L. 322-4-15-5, L. 322-4-15-6, L. 322-4-15-8 et L. 322-4-15-9 du
-code du travail, les attributions du département sont exercées, dans les départements d'outre-mer, par l'agence d'insertion.
+Pour l'application des articles L. 322-4-10, L. 322-4-11, L. 322-4-12, L. 322-4-15-1, L. 322-4-15-4, L. 322-4-15-5, L.
+322-4-15-6, L. 322-4-15-8 et L. 322-4-15-9 du code du travail, les attributions du département sont exercées, dans les
+départements d'outre-mer, par l'agence d'insertion, pour les contrats conclus avec les bénéficiaires du revenu minimum
+d'insertion ou le cas échéant avec les autres bénéficiaires, si elle en est chargée par convention.
 
 L'agence d'insertion reçoit du département les crédits nécessaires à la mise en oeuvre de ces attributions, selon une
 convention qui détermine leur montant et les modalités de leur versement à l'établissement.
-
-**Nota:**
-
-Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
-l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -25884,12 +26012,15 @@ l'entrée en vigueur à cette date des dispositions de la loi de finances mentio
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-1200 du 18 décembre 2003 - art. 46 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+	  - Loi n°2005-32 du 18 janvier 2005 - art. 47 (V) JORF 19 janvier 2005
 
 	**Cite**:
 
+	  - Code du travail - art. L322-4-10 (T)
+	  - Code du travail - art. L322-4-11 (M)
+	  - Code du travail - art. L322-4-12 (T)
 	  - Code du travail - art. L322-4-15-1 (M)
 	  - Code du travail - art. L322-4-15-4 (M)
 	  - Code du travail - art. L322-4-15-5 (M)
