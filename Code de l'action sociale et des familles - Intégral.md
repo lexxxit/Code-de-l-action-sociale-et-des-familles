@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2005-02-12
+Version Consolidée au 2005-02-13
 
 # Partie législative
 
@@ -42218,7 +42218,7 @@ techniques, d'adaptation du logement et de toute autre dépense concourant à l'
 
 Pour la détermination du plan d'aide, la valorisation des heures d'aide ménagère est opérée en tenant compte des dispositions
 régissant, selon les cas, les statuts publics ou les conventions collectives et accords de travail applicables aux salariés
-de la branche de l'aide à domicile agréés au titre de l'article L. 313-12 ou encore de celles relatives à la convention
+de la branche de l'aide à domicile agréés au titre de l'article L. 314-6 ou encore de celles relatives à la convention
 collective nationale des salariés du particulier employeur.
 
 **Liens relatifs à cet article**
@@ -42231,6 +42231,10 @@ collective nationale des salariés du particulier employeur.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2005-118 du 10 février 2005 - art. 4 () JORF 13 février 2005
+
 	**Cité par**:
 
 	  - Arrêté du 23 décembre 2016 - art. 3 (V)
@@ -42238,7 +42242,7 @@ collective nationale des salariés du particulier employeur.
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L313-12 (M)
+	  - Code de l'action sociale et des familles - art. L314-6 (M)
 
 
 ##### Paragraphe 2 : Montant de l'allocation
@@ -42621,7 +42625,7 @@ conditions fixées aux articles R. 232-5 et R. 232-6, divisé par 2.
 
 ##### Paragraphe 2 : Dispositions particulières relatives à certains établissements
 
-###### Article R232-20
+###### Article D232-20
 
 Le plan d'aide destiné à la personne âgée dépendante qui réside dans un établissement relevant de l'article R. 313-16 est
 élaboré par l'équipe médico-sociale mentionnée à l'article L. 232-3.
@@ -42632,28 +42636,19 @@ et qui ne sont pas assurées par l'établissement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2001-1086 du 20 novembre 2001 - art. 5 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Décret n°2005-118 du 10 février 2005 - art. 1 () JORF 13 février 2005
 
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. D232-20 (M)
-	  - Code de l'action sociale et des familles - art. D232-20 (V)
-
 	**Cité par**:
 
-	  - Code de l'action sociale et des familles - art. D232-21 (M)
-	  - Code de l'action sociale et des familles - art. D232-22 (M)
-	  - Code de l'action sociale et des familles - art. R232-22 (T)
+	  - Code de l'action sociale et des familles - art. D232-22 (VD)
+	  - Code de l'action sociale et des familles - art. D313-17 (V)
+	  - Code de l'action sociale et des familles - art. D313-22 (V)
 
 	**Cite**:
 
@@ -42661,13 +42656,22 @@ et qui ne sont pas assurées par l'établissement.
 	  - Code de l'action sociale et des familles - art. R232-21 (T)
 	  - Code de l'action sociale et des familles - art. R313-16 (T)
 
+	**Anciens textes**:
 
-###### Article R232-21
+	  - Code de l'action sociale et des familles - art. R232-20 (T)
+
+
+###### Article D232-21
 
 I. - Les charges afférentes à la dépendance dans les établissements relevant de l'article R. 313-16 sont :
 
-1° Les rémunérations et les charges sociales et fiscales y afférentes des aides-soignants, des aides médico-psychologiques,
-des auxiliaires de vie et des auxiliaires de gériatrie, des psychologues ainsi que des maîtresses de maison ;
+1° a) La rémunération et les charges sociales et fiscales y afférentes des auxiliaires de vie et des auxiliaires de
+gériatrie, des psychologues, des maîtresses de maison ainsi que des aides-soignants et des aides médico-psychologiques ;
+
+b) Par dérogation au a ci-dessus, dans les structures mentionnées à l'article D. 313-20, la rémunération et les charges
+sociales et fiscales y afférentes des auxiliaires de vie et des auxiliaires de gériatrie, des psychologues, des maîtresses de
+maison ainsi que 30 % de la rémunération et des charges sociales et fiscales y afférentes des aides-soignants et des aides
+médico-psychologiques ;
 
 2° 30 P. 100 des rémunérations et les charges sociales et fiscales y afférentes des agents de service et des veilleurs de
 nuit ;
@@ -42676,8 +42680,7 @@ nuit ;
 
 Les tarifs afférents à la dépendance sont calculés, d'une part, en prenant en compte le niveau de dépendance de chaque
 résident de l'établissement, et, d'autre part, en appliquant aux charges définies aux 1° , 2° et 3° les formules de calcul
-précisées au b et au c de l'annexe II au décret n° 99-316 du 26 avril 1999 relatif aux modalités de tarification et de
-financement des établissements hébergeant des personnes âgées dépendantes.
+précisées au b et au c de l'annexe 3-1.
 
 Le tarif journalier afférent à la dépendance applicable au résident est pris en compte dans le cadre du plan d'aide défini au
 deuxième alinéa de l'article R. 232-20. Le résident s'en acquitte auprès de l'établissement.
@@ -42691,41 +42694,34 @@ Le tarif journalier afférent à l'hébergement peut être modulé en applicatio
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°99-316 1999-04-26 annexe II
-	  - Code de l'action sociale et des familles - art. R232-20 (T)
-	  - Code de l'action sociale et des familles - art. R313-16 (T)
-	  - Code de l'action sociale et des familles - art. R314-183 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°2001-1086 du 20 novembre 2001 - art. 6 (M)
-	  - Décret n°2001-1086 du 20 novembre 2001 - art. 6 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Décret n°2005-118 du 10 février 2005 - art. 1 () JORF 13 février 2005
+	  - Décret n°2005-118 du 10 février 2005 - art. 2 () JORF 13 février 2005
 
 	**Cité par**:
 
-	  - Code de l'action sociale et des familles - art. D232-20 (M)
-	  - Code de l'action sociale et des familles - art. D232-22 (M)
-	  - Code de l'action sociale et des familles - art. R232-22 (T)
-	  - Code de l'action sociale et des familles - art. R314-105 (VD)
-	  - Code de l'action sociale et des familles - art. R542-3 (M)
+	  - Code de l'action sociale et des familles - art. D232-20 (V)
+	  - Code de l'action sociale et des familles - art. D232-22 (V)
 
-	**Nouveaux textes**:
+	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. D232-21 (M)
-	  - Code de l'action sociale et des familles - art. D232-21 (V)
+	  - Code de l'action sociale et des familles - art. D313-20 (M)
+	  - Code de l'action sociale et des familles - art. R232-20 (T)
+	  - Code de l'action sociale et des familles - art. R313-16 (T)
+	  - Code de l'action sociale et des familles - art. R314-183 (M)
+	  - Code de l'action sociale et des familles R313-16, D313-20, annexe 3-1, R232-20, R314-183
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. R232-21 (T)
 
 
-###### Article R232-22
+###### Article D232-22
 
 Les dispositions des articles R. 232-20 et R. 232-21 sont applicables aux établissements dont la valeur correspondant à la
 dépendance moyenne des personnes accueillies en établissement dont le groupe " iso-ressources " (GIR moyen pondéré), tel que
@@ -42734,28 +42730,27 @@ doivent être précisées dans le règlement de fonctionnement mentionné à l'a
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2001-1086 du 20 novembre 2001 - art. 7 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Décret n°2005-118 du 10 février 2005 - art. 1 () JORF 13 février 2005
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. D232-22 (M)
-	  - Code de l'action sociale et des familles - art. D232-22 (V)
 
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L311-7 (V)
 	  - Code de l'action sociale et des familles - art. R232-20 (T)
 	  - Code de l'action sociale et des familles - art. R232-21 (T)
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. R232-22 (T)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R542-3 (M)
 
 
 ##### Section 2 : Gestion de l'allocation personnalisée d'autonomie
@@ -57662,7 +57657,9 @@ premier alinéa.
 
 ##### Section 3 : Contrats ou conventions pluriannuels
 
-###### Article R313-15
+##### Sous-section 1 : Modalités de tarification des établissements mentionnés au I de l'article L. 313-12.
+
+###### Article D313-15
 
 Les établissements assurant l'hébergement des personnes âgées mentionnés au I de l'article L. 313-12 qui ont un GIR moyen
 pondéré, tel que défini à l'article R. 314-171, supérieur à 300 sont tenus de passer une convention pluriannuelle avec le
@@ -57670,82 +57667,79 @@ président du conseil général et l'autorité compétente de l'Etat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2001-1086 du 20 novembre 2001 - art. 3 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Créé par**:
 
+	  - Décret n°2005-118 2005-02-10 art. 1 I, III JORF 13 février 2005
 	  - Décret n°2005-118 du 10 février 2005 - art. 1 () JORF 13 février 2005
 
-	**Nouveaux textes**:
+	**Cité par**:
 
-	  - Code de l'action sociale et des familles - art. D313-15 (V)
+	  - Arrêté du 14 avril 2008 - art. 1 (V)
+	  - Code de l'action sociale et des familles - art. D232-22 (V)
+	  - Code de l'action sociale et des familles - art. D312-155-0 (V)
+	  - Code de l'action sociale et des familles - art. D313-24-1 (V)
 
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L313-12 (M)
 	  - Code de l'action sociale et des familles - art. R314-171 (V)
 
+	**Anciens textes**:
 
-###### Article R313-16
+	  - Code de l'action sociale et des familles - art. R313-15 (T)
+
+
+##### Sous-section 2 : Modalités de tarification des établissements mentionnés au II de l'article L. 313-12.
+
+###### Article D313-16
 
 Les établissements assurant l'hébergement des personnes âgées mentionnés au II de l'article L. 313-12 dont la capacité est
 inférieure à vingt-cinq places autorisées ont la possibilité de déroger aux règles fixées par le 1° de l'article L. 314-2.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2001-1086 du 20 novembre 2001 - art. 4 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Créé par**:
 
+	  - Décret n°2005-118 2005-02-10 art. 1 I, III JORF 13 février 2005
 	  - Décret n°2005-118 du 10 février 2005 - art. 1 () JORF 13 février 2005
 
 	**Cité par**:
 
-	  - Code de l'action sociale et des familles - art. D232-20 (M)
-	  - Code de l'action sociale et des familles - art. D232-21 (M)
-	  - Code de l'action sociale et des familles - art. R232-20 (T)
-	  - Code de l'action sociale et des familles - art. R232-21 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. D313-16 (V)
+	  - Code de l'action sociale et des familles - art. D232-20 (V)
+	  - Code de l'action sociale et des familles - art. D232-21 (V)
+	  - Code de l'action sociale et des familles - art. D312-176-8 (V)
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L313-12 (M)
-	  - Code de l'action sociale et des familles - art. L314-2 (M)
+	  - Code de l'action sociale et des familles - art. L313-12 (V)
+	  - Code de l'action sociale et des familles - art. L314-2 (V)
 
+	**Anciens textes**:
 
-##### Section 4 : Dispositions financières relatives à la fermeture d'établissements ou de services sociaux et médico-sociaux.
+	  - Code de l'action sociale et des familles - art. R313-16 (T)
+
 
 ###### Article D313-17
 
-En cas de fermeture définitive d'un établissement ou d'un service social ou médico-social relevant du I de l'article L. 312-1
-en application du titre III et de la section 4 du chapitre III du titre Ier du livre III du code de l'action sociale et des
-familles ou des articles L. 621-24 et L. 621-40 du code de commerce, à la date de ladite fermeture de l'établissement, les
-subventions d'investissement mentionnées au 1° de l'article L. 313-19 et les excédents d'exploitation affectés à
-l'investissement mentionnés à son 3° sont revalorisés en fonction de l'indice du coût de la construction publié par
-l'Institut national de la statistique et des études économiques de la manière suivante :
+Les établissements relevant du II de l'article L. 313-12, lorsqu'ils n'ont pas passé la convention pluriannuelle prévue au I
+du même article, peuvent, en complément du tarif journalier afférent à l'hébergement et à l'accompagnement à la vie sociale
+et du plan d'aide défini à l'article D. 232-20 :
 
-- le montant notifié de chaque subvention d'investissement est multiplié par l'indice du coût de la construction du trimestre
-de fermeture de l'établissement lequel est divisé par l'indice du coût de la construction du trimestre de notification de la
-subvention ;
+1° Soit bénéficier d'un forfait journalier de soins pris en charge par l'assurance maladie sous réserve d'avoir obtenu
+l'autorisation de dispenser des soins aux assurés sociaux prévue à l'article L. 313-1 ;
 
-- les montants, pour chaque exercice considéré, des excédents d'exploitation affectés à l'investissement sont multipliés par
-l'indice du coût de la construction du trimestre de fermeture de l'établissement lequel est divisé par l'indice du coût de la
-construction du trimestre de la décision d'affectation de l'excédent.
+2° Soit avoir recours à l'intervention d'un service de soins infirmiers mentionné à l'article 1er du décret n° 2004-613 du 25
+juin 2004 relatif aux conditions techniques d'organisation et de fonctionnement des services de soins infirmiers à domicile,
+des services d'aide et d'accompagnement à domicile et des services polyvalents d'aide et de soins à domicile, s'ils
+n'emploient pas de personnels de soins salariés.
 
 **Liens relatifs à cet article**
 
@@ -57753,11 +57747,17 @@ construction du trimestre de la décision d'affectation de l'excédent.
 
 	  - Décret n°2004-125 du 9 février 2004 - art. 1 (Ab)
 
+	**Cite**:
+
+	  - Décret n°2004-613 2004-06-25 art. 1
+	  - Code de l'action sociale et des familles - art. L313-1 (M)
+	  - Code de l'action sociale et des familles - art. L313-12 (M)
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2005-118 du 10 février 2005 - art. 1 () JORF 13 février 2005
 
@@ -57777,13 +57777,6 @@ construction du trimestre de la décision d'affectation de l'excédent.
 	  - Code de l'action sociale et des familles - art. D313-29 (V)
 	  - Code de l'action sociale et des familles - art. D313-30 (V)
 
-	**Cite**:
-
-	  - Code de commerce. - art. L621-24 (M)
-	  - Code de commerce. - art. L621-40 (M)
-	  - Code de l'action sociale et des familles - art. L312-1 (M)
-	  - Code de l'action sociale et des familles - art. L313-19 (M)
-
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. D313-25 (T)
@@ -57791,28 +57784,32 @@ construction du trimestre de la décision d'affectation de l'excédent.
 
 ###### Article D313-18
 
-Pour les centres d'aide par le travail, les excédents d'exploitation du budget annexe de production et de commercialisation
-affectés à l'investissement en application du deuxième alinéa de l'article R. 314-129 sont reversés et revalorisés selon les
-modalités fixées au dernier alinéa de l'article D. 313-17.
+Les dépenses afférentes aux soins prises en compte dans le forfait journalier de soins mentionné au 1° de l'article D. 313-17
+sont celles relatives à la rémunération des infirmiers salariés et aux charges sociales et fiscales y afférentes ainsi qu'au
+paiement des prestations des infirmiers libéraux.
+
+Ce forfait est fixé par le préfet de département, après avis de la caisse régionale d'assurance maladie, dans la limite d'un
+montant fixé annuellement par décision des ministres chargés de l'action sociale et de la sécurité sociale.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
+	  - Décret n°2004-125 du 9 février 2004 - art. 2, v. init.
 	  - Décret n°2004-125 du 9 février 2004 - art. 2 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2005-118 du 10 février 2005 - art. 1 () JORF 13 février 2005
 
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. D313-17 (T)
-	  - Code de l'action sociale et des familles - art. R314-129 (M)
+	  - Code de l'action sociale et des familles - art. L313-12 (M)
 
 	**Cité par**:
 
@@ -57825,29 +57822,35 @@ modalités fixées au dernier alinéa de l'article D. 313-17.
 
 ###### Article D313-19
 
-Pour les centres d'hébergement et de réinsertion sociale, les excédents d'exploitation du budget annexe de production et de
-commercialisation liés aux actions d'adaptation à la vie active affectés à l'investissement en application de l'avant-dernier
-alinéa de l'article R. 314-153 sont reversés et revalorisés selon les modalités fixées au dernier alinéa de l'article D.
-313-17.
+Les dépenses relatives aux soins dispensés aux résidents prises en charge par l'assurance maladie sont couvertes par un
+forfait annuel global de soins, calculé en multipliant le montant du forfait journalier de soins par le nombre prévisionnel
+de journées. Ce nombre est au plus égal à 365 fois la capacité autorisée, sauf pour les établissements mentionnés à l'article
+D. 313-20, pour lesquels il est au plus égal à 300 fois la capacité autorisée. 
+
+Le montant des forfaits annuels globaux de soins doit être compatible avec l'objectif national de dépenses d'assurance
+maladie mentionné au 4° de l'article LO 111-3 du code de la sécurité sociale et avec les dispositions prévues aux articles L.
+314-3 et L. 314-5 du présent code.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
+	  - Décret n°2004-125 du 9 février 2004 - art. 3, v. init.
 	  - Décret n°2004-125 du 9 février 2004 - art. 3 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2005-118 du 10 février 2005 - art. 1 () JORF 13 février 2005
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. D313-17 (T)
-	  - Code de l'action sociale et des familles - art. R314-153 (M)
+	  - Code de la sécurité sociale. - art. LO111-3 (V)
+	  - Code de l'action sociale et des familles - art. L314-3 (V)
+	  - Code de l'action sociale et des familles - art. L314-5 (V)
 
 	**Cité par**:
 
@@ -57856,6 +57859,278 @@ alinéa de l'article R. 314-153 sont reversés et revalorisés selon les modalit
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. D313-27 (T)
+
+
+###### Article D313-20
+
+Par dérogation aux dispositions du premier alinéa de l'article D. 313-18, dans les structures assurant un accueil de jour qui
+ne sont pas rattachées à un établissement mentionné au 6° du I de l'article L. 312-1, les dépenses couvertes par le forfait
+de soins comprennent, outre celles relatives à la rémunération des infirmiers salariés et aux charges sociales et fiscales y
+afférentes ainsi qu'au paiement des prestations des infirmiers libéraux, 70 % de la rémunération des aides-soignants et des
+aides médico-psychologiques salariés de l'établissement et les charges sociales et fiscales y afférentes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-118 du 10 février 2005 - art. 1 () JORF 13 février 2005
+
+	**Cité par**:
+
+	  - Arrêté du 23 juillet 2010 - art. 1 (V)
+	  - Arrêté du 23 juillet 2010 - art. 2 (V)
+	  - Arrêté du 7 octobre 2013 - art. 1 (V)
+	  - Arrêté du 7 octobre 2013 - art. 2 (V)
+	  - Arrêté du 10 juillet 2014 - art. 1 (V)
+	  - Arrêté du 10 juillet 2014 - art. 2 (V)
+	  - Arrêté du 28 juillet 2015 - art. 1 (V)
+	  - Arrêté du 28 juillet 2015 - art. 2 (V)
+	  - Code de l'action sociale et des familles - art. D232-21 (V)
+	  - Code de l'action sociale et des familles - art. D312-8 (VD)
+	  - Code de l'action sociale et des familles - art. D312-9 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D313-18 (T)
+	  - Code de l'action sociale et des familles - art. L312-1 (M)
+	  - Code de l'action sociale et des familles - art. L313-12 (M)
+
+
+###### Article D313-21
+
+Le montant du forfait journalier alloué à un service de soins infirmiers à domicile mentionné au 2° de l'article D. 313-17,
+pour les prestations qu'il délivre auprès des résidents des établissements relevant du II de l'article L. 313-12, est arrêté
+par le préfet de département dans une limite, fixée par arrêté des ministres chargés de l'action sociale et de la sécurité
+sociale, qui ne peut être inférieure à 50 % du montant du plafond fixé par l'arrêté mentionné à l'article R. 314-139.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-118 du 10 février 2005 - art. 1 () JORF 13 février 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2006-181 du 17 février 2006 - art. 3 (V) JORF 19 février 2006
+
+	**Cité par**:
+
+	  - Décret n°2006-181 du 17 février 2006 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D313-17 (T)
+	  - Code de l'action sociale et des familles - art. L313-12 (M)
+	  - Code de l'action sociale et des familles - art. R314-139 (Ab)
+
+
+###### Article D313-22
+
+Pour les établissements qui relèvent des dispositions des 1° et 2° de l'article D. 313-17, à l'exception des établissements
+mentionnés à l'article L. 342-1, le tarif journalier afférent à l'hébergement et à l'accompagnement à la vie sociale est
+calculé : 
+
+1° En diminuant l'ensemble des charges brutes d'exploitation : 
+
+a) Du montant du forfait annuel global de soins prévu à l'article D. 313-19 ; 
+
+b) Du montant des remboursements des prestations d'aide à l'autonomie assurées par l'établissement dans le cadre du plan
+d'aide mentionné à l'article D. 232-20 ; 
+
+c) De tous les autres produits d'exploitation, à l'exception de ceux relatifs à l'hébergement et à l'accompagnement à la vie
+sociale ; 
+
+2° En incorporant, le cas échéant et en application de l'article R. 314-51, les résultats des exercices antérieurs de
+l'établissement arrêtés par le président du conseil général.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-118 du 10 février 2005 - art. 1 () JORF 13 février 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D232-20 (V)
+	  - Code de l'action sociale et des familles - art. L342-1 (V)
+	  - Code de l'action sociale et des familles - art. R314-51 (V)
+
+
+###### Article D313-23
+
+Les établissements bénéficiaires d'un forfait annuel global de soins remettent au préfet de département, avant le 30 avril de
+l'exercice suivant, un compte d'emploi et un rapport relatifs à l'utilisation des financements accordés pour les prestations
+de soins.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-118 du 10 février 2005 - art. 1 () JORF 13 février 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L313-12 (M)
+
+
+###### Article D313-24
+
+Dans les établissements mentionnés au II de l'article L. 313-12, si les financements alloués ont couvert des dépenses sans
+rapport avec celles pour lesquelles ils étaient prévus ou si l'établissement n'est pas en mesure de justifier de leur emploi,
+il est procédé à leur reversement.
+
+Toutefois, pour les établissements mentionnés à l'article L. 342-1, et avec l'accord de l'autorité de tarification, les
+sommes concernées peuvent être imputées sur les ressources destinées à financer, pour les exercices suivants, les dépenses
+afférentes aux soins.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-118 du 10 février 2005 - art. 1 () JORF 13 février 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L313-12 (M)
+	  - Code de l'action sociale et des familles - art. L342-1 (M)
+
+
+##### Section 4 : Dispositions financières relatives à la fermeture d'établissements ou de services sociaux et médico-sociaux.
+
+###### Article D313-25
+
+En cas de fermeture définitive d'un établissement ou d'un service social ou médico-social relevant du I de l'article L. 312-1
+en application du titre III et de la section 4 du chapitre III du titre Ier du livre III du code de l'action sociale et des
+familles ou des articles L. 621-24 et L. 621-40 du code de commerce, à la date de ladite fermeture de l'établissement, les
+subventions d'investissement mentionnées au 1° de l'article L. 313-19 et les excédents d'exploitation affectés à
+l'investissement mentionnés à son 3° sont revalorisés en fonction de l'indice du coût de la construction publié par
+l'Institut national de la statistique et des études économiques de la manière suivante :
+
+- le montant notifié de chaque subvention d'investissement est multiplié par l'indice du coût de la construction du trimestre
+de fermeture de l'établissement lequel est divisé par l'indice du coût de la construction du trimestre de notification de la
+subvention ;
+
+- les montants, pour chaque exercice considéré, des excédents d'exploitation affectés à l'investissement sont multipliés par
+l'indice du coût de la construction du trimestre de fermeture de l'établissement lequel est divisé par l'indice du coût de la
+construction du trimestre de la décision d'affectation de l'excédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-118 du 10 février 2005 - art. 1 () JORF 13 février 2005
+
+	**Transféré par**:
+
+	  - Décret n°2006-169 du 10 février 2006 - art. 1 () JORF 17 février 2006
+
+	**Cite**:
+
+	  - Code de commerce. - art. L621-24 (M)
+	  - Code de commerce. - art. L621-40 (M)
+	  - Code de l'action sociale et des familles - art. L312-1 (M)
+	  - Code de l'action sociale et des familles - art. L313-19 (M)
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. D313-17 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. D313-28 (V)
+
+
+###### Article D313-26
+
+Pour les centres d'aide par le travail, les excédents d'exploitation du budget annexe de production et de commercialisation
+affectés à l'investissement en application du deuxième alinéa de l'article R. 314-129 sont reversés et revalorisés selon les
+modalités fixées au dernier alinéa de l'article D. 313-17.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-118 du 10 février 2005 - art. 1 () JORF 13 février 2005
+
+	**Transféré par**:
+
+	  - Décret n°2006-169 du 10 février 2006 - art. 1 () JORF 17 février 2006
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D313-17 (T)
+	  - Code de l'action sociale et des familles - art. R314-129 (M)
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. D313-18 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. D313-29 (V)
+
+
+###### Article D313-27
+
+Pour les centres d'hébergement et de réinsertion sociale, les excédents d'exploitation du budget annexe de production et de
+commercialisation liés aux actions d'adaptation à la vie active affectés à l'investissement en application de l'avant-dernier
+alinéa de l'article R. 314-153 sont reversés et revalorisés selon les modalités fixées au dernier alinéa de l'article D.
+313-17.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-118 du 10 février 2005 - art. 1 () JORF 13 février 2005
+
+	**Transféré par**:
+
+	  - Décret n°2006-169 du 10 février 2006 - art. 1 () JORF 17 février 2006
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D313-17 (T)
+	  - Code de l'action sociale et des familles - art. R314-153 (M)
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. D313-19 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. D313-30 (V)
 
 
 #### Chapitre IV : Dispositions financières
