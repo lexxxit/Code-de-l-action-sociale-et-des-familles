@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2004-12-31
+Version Consolidée au 2005-01-01
 
 # Partie législative
 
@@ -302,12 +302,23 @@ travail par la commission d'admission complétée comme il est indiqué à l'art
 
 ###### Article L113-2
 
-Afin de favoriser la coordination des prestations servies aux personnes âgées dépendantes, d'accomplir les tâches
-d'instruction et de suivi de ces prestations et de préciser les modalités de gestion de cette coordination, le département
-conclut des conventions avec les organismes de sécurité sociale.
+Le département définit et met en oeuvre l'action sociale en faveur des personnes âgées. Il coordonne, dans le cadre du schéma
+départemental d'organisation sociale et médico-sociale mentionné à l'article L. 312-4, les actions menées par les différents
+intervenants, définit des secteurs géographiques d'intervention et détermine les modalités d'information du public.
 
-Ces conventions doivent être conformes à un cahier des charges arrêté par le ministre chargé des personnes âgées après avis
-des représentants des présidents de conseils généraux et des organismes nationaux de sécurité sociale.
+Le département met en oeuvre les compétences définies au premier alinéa en s'appuyant notamment sur les centres locaux
+d'information et de coordination qui sont autorisés au titre du a de l'article L. 313-3.
+
+Le département veille à la cohérence des actions respectives des centres locaux d'information et de coordination, des équipes
+médico-sociales mentionnées au premier alinéa de l'article L. 232-3 et des établissements et services mentionnés au 6° du I
+de l'article L. 312-1.
+
+Le département peut signer des conventions avec l'Etat, les organismes de sécurité sociale ou tout autre intervenant en
+faveur des personnes âgées pour assurer la coordination de l'action gérontologique.
+
+Les conventions relatives à la coordination des prestations servies aux personnes agées dépendantes conclues avec les
+organismes de sécurité sociale doivent être conformes à un cahier des charges arrêté par le ministre chargé des personnes
+âgées après avis des représentants des présidents de conseils généraux et des organismes nationaux de sécurité sociale.
 
 Un comité national de la coordination gérontologique est chargé du suivi de la mise en oeuvre de ces conventions et, le cas
 échéant, d'une fonction de médiation pour leur conclusion. Ce comité a également pour mission d'évaluer le développement
@@ -348,11 +359,14 @@ département, les organismes de protection sociale et toute commune souhaitant y
 
 	**Modifié par**:
 
-	  - Loi n°2001-647 du 20 juillet 2001 - art. 2 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+	  - Loi n°2004-809 du 13 août 2004 - art. 56 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L232-2 (M)
+	  - Code de l'action sociale et des familles - art. L232-3 (M)
+	  - Code de l'action sociale et des familles - art. L312-1 (M)
+	  - Code de l'action sociale et des familles - art. L312-4 (M)
+	  - Code de l'action sociale et des familles - art. L313-3 (M)
 
 
 ###### Article L113-3
@@ -633,11 +647,15 @@ acteurs de l'économie solidaire et de l'économie sociale concourent à la réa
 
 ###### Article L115-3
 
-Toute personne ou famille éprouvant des difficultés particulières du fait d'une situation de précarité a droit à une aide de
-la collectivité pour accéder ou pour préserver son accès à une fourniture d'eau, d'énergie et de services téléphoniques.
+Dans les conditions fixées par la loi n° 90-449 du 31 mai 1990 visant à la mise en oeuvre du droit au logement, toute
+personne ou famille éprouvant des difficultés particulières, au regard notamment de son patrimoine, de l'insuffisance de ses
+ressources ou de ses conditions d'existence, a droit à une aide de la collectivité pour disposer de la fourniture d'eau,
+d'énergie et de services téléphoniques dans son logement.
 
-Le maintien de la fourniture d'énergie et d'eau est garanti en cas de non-paiement des factures jusqu'à l'intervention du
-dispositif prévu à l'article L. 261-4.
+En cas de non-paiement des factures, la fourniture d'énergie, d'eau ainsi que d'un service téléphonique restreint est
+maintenue jusqu'à ce qu'il ait été statué sur la demande d'aide. Le service téléphonique restreint comporte la possibilité,
+depuis un poste fixe, de recevoir des appels ainsi que de passer des communications locales et vers les numéros gratuits, et
+d'urgence.
 
 **Liens relatifs à cet article**
 
@@ -645,6 +663,10 @@ dispositif prévu à l'article L. 261-4.
 
 	  - Loi n°88-1088 du 1 décembre 1988 - art. 43-5 (M)
 	  - Loi n°88-1088 du 1 décembre 1988 - art. 43-5 (Ab)
+
+	**Cite**:
+
+	  - Loi n°90-449 1990-05-31
 
 	**Cité par**:
 
@@ -660,6 +682,7 @@ dispositif prévu à l'article L. 261-4.
 	  - Ordonnance n°2012-785 du 31 mai 2012 - art. 10 (VD)
 	  - Décret n°2014-274 du 27 février 2014 (V)
 	  - Décret n°2016-555 du 6 mai 2016 - art. 1
+	  - Code de l'action sociale et des familles - art. L261-4 (V)
 	  - Code de l'action sociale et des familles - art. L541-1 (V)
 	  - Code de l'environnement - art. R213-48-21 (VD)
 	  - Code de l'environnement - art. R213-48-45 (VD)
@@ -679,9 +702,9 @@ dispositif prévu à l'article L. 261-4.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'action sociale et des familles - art. L261-4 (V)
+	  - Loi n°2004-809 du 13 août 2004 - art. 65 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article L115-4
@@ -836,6 +859,13 @@ Il prend en compte, le cas échéant, la situation des personnes les plus vulné
 
 ###### Article L121-1
 
+Le département définit et met en oeuvre la politique d'action sociale, en tenant compte des compétences confiées par la loi à
+l'Etat, aux autres collectivités territoriales ainsi qu'aux organismes de sécurité sociale. Il coordonne les actions menées
+sur son territoire qui y concourent. 
+
+Il organise la participation des personnes morales de droit public et privé mentionnées à l'article L. 116-1 à la définition
+des orientations en matière d'action sociale et à leur mise en oeuvre. 
+
 Les prestations légales d'aide sociale sont à la charge du département dans lequel les bénéficiaires ont leur domicile de
 secours, à l'exception des prestations énumérées à l'article L. 121-7.
 
@@ -845,6 +875,10 @@ secours, à l'exception des prestations énumérées à l'article L. 121-7.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 49 () JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -865,7 +899,8 @@ secours, à l'exception des prestations énumérées à l'article L. 121-7.
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L121-7 (M)
+	  - Code de l'action sociale et des familles - art. L116-1 (V)
+	  - Code de l'action sociale et des familles - art. L121-7 (V)
 
 
 ###### Article L121-2
@@ -3242,130 +3277,6 @@ Un décret en Conseil d'Etat détermine la composition, les missions et les moda
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. R144-1 (VD)
-
-
-#### Chapitre V : Coordination des interventions.
-
-###### Article L145-1
-
-Le représentant de l'Etat dans le département et le président du conseil général prévoient, par convention, la mise en place
-d'une commission de l'action sociale d'urgence chargée d'assurer la coordination des dispositifs susceptibles d'allouer des
-aides, notamment financières, aux personnes et aux familles rencontrant de graves difficultés.
-
-La commission comprend notamment des représentants des services de l'Etat, du conseil général, des communes et des caisses
-d'allocations familiales ainsi que de tout autre organisme intervenant au titre des dispositifs mentionnés à l'alinéa
-précédent.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°98-657 du 29 juillet 1998 - art. 154 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Abrogé par**:
-
-	  - Loi n°2004-809 du 13 août 2004 - art. 49 () JORF 17 août 2004 en vigueur le 1er janvier 2005
-
-
-###### Article L145-2
-
-Le comité départemental de coordination des politiques de prévention et de lutte contre les exclusions comprend le
-représentant de l'Etat dans le département, le président du conseil général, des représentants des collectivités
-territoriales, des représentants des administrations ainsi que des représentants des autres catégories de membres siégeant
-notamment dans chacune des instances suivantes :
-
-conseil départemental d'insertion, commission de l'action sociale d'urgence, comité départemental de la formation
-professionnelle, de la promotion sociale et de l'emploi, conseil départemental de l'insertion par l'activité économique,
-comité responsable du plan départemental d'action pour le logement des personnes défavorisées, conseil départemental de
-prévention de la délinquance, conseil départemental d'hygiène, commission de surendettement des particuliers.
-
-Ce comité est présidé par le représentant de l'Etat dans le département qui le réunit au moins deux fois par an.
-
-Les règles de composition, les missions et les modalités de fonctionnement du comité institué par le présent article sont
-fixées par décret.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°98-657 1998-07-29 art. 155 al. 1, al. 2, al. 3, al. 6
-	  - Loi n°98-657 du 29 juillet 1998 - art. 155 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Abrogé par**:
-
-	  - Loi n°2004-809 du 13 août 2004 - art. 49 () JORF 17 août 2004 en vigueur le 1er janvier 2005
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. D145-1 (Ab)
-
-
-###### Article L145-3
-
-La coordination des interventions de tous les acteurs engagés dans la prévention et la lutte contre les exclusions est
-assurée par la conclusion de conventions entre les collectivités territoriales et organismes dont ils relèvent. Ces
-conventions déterminent le niveau de territoire pertinent pour la coordination.
-
-Elles précisent les objectifs poursuivis et les moyens mis en oeuvre pour les atteindre. Elles portent sur la recherche de
-cohérence de l'accompagnement personnalisé, par la mise en réseau des différents intervenants permettant une orientation de
-la personne vers l'organisme le plus à même de traiter sa demande. Elles portent également sur la complémentarité des modes
-d'intervention collective et des initiatives de développement social local et sur la simplification de l'accès aux services
-concernés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°98-657 1998-07-29 art. 156 al. 1, al. 2
-	  - Loi n°98-657 du 29 juillet 1998 - art. 156 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Abrogé par**:
-
-	  - Loi n°2004-809 du 13 août 2004 - art. 49 () JORF 17 août 2004 en vigueur le 1er janvier 2005
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. L145-4 (V)
-
-
-###### Article L145-4
-
-Un décret en Conseil d'Etat précise les modalités de conclusion des conventions prévues à l'article L. 145-3.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°98-657 1998-07-29 art. 156 al. 3
-	  - Loi n°98-657 du 29 juillet 1998 - art. 156 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Abrogé par**:
-
-	  - Loi n°2004-809 du 13 août 2004 - art. 49 () JORF 17 août 2004 en vigueur le 1er janvier 2005
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L145-3 (V)
 
 
 #### Chapitre VI : Consultation des personnes handicapées
@@ -9242,13 +9153,6 @@ organismes régis par le code de la mutualité ou des services d'aide à domicil
 L. 129-1 du code du travail. Toutefois, dans ce dernier cas, les institutions et organismes précédemment mentionnés ne
 peuvent participer à la mise en oeuvre du plan d'aide qu'ils ont défini.
 
-Les départements assurent la coordination de l'action gérontologique dans le cadre d'un schéma arrêté conjointement par le
-président du conseil général et le représentant de l'Etat dans le département.
-
-Le schéma définit les territoires de coordination de l'action gérontologique de proximité et établit des modalités
-d'information du public et de coordination des prestataires s'appuyant notamment sur des centres locaux d'information et de
-coordination.
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -9285,7 +9189,7 @@ coordination.
 
 	**Modifié par**:
 
-	  - Loi n°2001-647 du 20 juillet 2001 - art. 1 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+	  - Loi n°2004-809 du 13 août 2004 - art. 56 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
@@ -12132,52 +12036,6 @@ sociale.
 	  - Code de la sécurité sociale. - art. L831-1 (V)
 
 
-##### Section 2 : Fourniture d'eau et d'énergie.
-
-###### Article L261-4
-
-Un dispositif national d'aide et de prévention aide les familles et les personnes mentionnées à l'article L. 115-3 à faire
-face à leurs dépenses d'eau, d'électricité et de gaz.
-
-Ce dispositif fait l'objet de conventions nationales passées entre l'Etat, Electricité de France, Gaz de France et les
-distributeurs d'eau, définissant notamment le montant et les modalités de leurs concours financiers respectifs.
-
-Dans chaque département, des conventions sont passées entre le représentant de l'Etat, les représentants d'Electricité de
-France, de Gaz de France, chaque distributeur d'énergie ou d'eau, chaque collectivité territoriale ou groupement de
-collectivités concerné qui le souhaite et, le cas échéant, avec chaque centre communal ou intercommunal d'action sociale, les
-organismes de protection sociale et les associations de solidarité. Elles déterminent notamment les conditions d'application
-des conventions nationales et les actions préventives et éducatives en matière de maîtrise d'énergie ou d'eau.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°88-1088 du 1 décembre 1988 - art. 43-6 (M)
-	  - Loi n°88-1088 du 1 décembre 1988 - art. 43-6 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Cité par**:
-
-	  - Décret n°2001-392 du 30 avril 2001 - art. 2 (Ab)
-	  - Décret n°2001-531 du 20 juin 2001 - art. 1 (Ab)
-	  - Décret n°2001-531 du 20 juin 2001 - art. 7 (Ab)
-	  - Loi n°2003-8 du 3 janvier 2003 - art. 17 (M)
-	  - Code de l'action sociale et des familles - art. R261-6 (Ab)
-	  - Code de l'action sociale et des familles - art. R261-7 (Ab)
-
-	**Abrogé par**:
-
-	  - Loi n°2004-809 du 13 août 2004 - art. 65 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L115-3 (M)
-
-
 ##### Section 3 : Aide aux organismes logeant à titre temporaire des personnes défavorisées.
 
 ###### Article L261-5
@@ -14115,10 +13973,10 @@ Le versement de l'allocation est subordonné à la condition que l'intéressé f
 légales, réglementaires et conventionnelles, à l'exception des allocations mensuelles mentionnées à l'article L. 222-3.
 
 En outre, il est subordonné à la condition que l'intéressé fasse valoir ses droits aux créances d'aliments qui lui sont dues
-au titre des obligations instituées par les articles 203, 212, 214, 255, 282, 334 et 342 du code civil ainsi qu'à la
-prestation compensatoire due au titre de l'article 270 dudit code et aux pensions alimentaires accordées par le tribunal à
-l'époux ayant obtenu le divorce dont la requête initiale a été présentée avant l'entrée en vigueur de la loi n° 75-617 du 11
-juillet 1975 portant réforme du divorce.
+au titre des obligations instituées par les articles 203, 212, 214, 255 et 342 du code civil ainsi qu'à la prestation
+compensatoire due au titre de l'article 270 dudit code et aux pensions alimentaires accordées par le tribunal à l'époux ayant
+obtenu le divorce dont la requête initiale a été présentée avant l'entrée en vigueur de la loi n° 75-617 du 11 juillet 1975
+portant réforme du divorce.
 
 Les organismes payeurs mentionnés à l'article L. 262-30 veillent à la mise en oeuvre des obligations instituées par le
 deuxième alinéa. Si l'intéressé ne fait pas valoir ses droits, les organismes payeurs saisissent le président du conseil
@@ -14139,26 +13997,25 @@ alimentaire lorsqu'elle est fixée ou à celui de l'allocation de soutien famili
 
 **Nota:**
 
-Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
-l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
+La loi 2004-439 du 26 mai 2004 entre en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33 II.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°75-617 1975-07-11
+	  - Loi n°2003-1200 2003-12-18
 	  - Code civil - art. 203 (V)
 	  - Code civil - art. 212 (M)
 	  - Code civil - art. 214 (V)
 	  - Code civil - art. 255 (M)
 	  - Code civil - art. 270 (M)
-	  - Code civil - art. 282 (Ab)
-	  - Code civil - art. 334 (M)
 	  - Code civil - art. 342 (M)
 	  - Code de l'action sociale et des familles - art. L222-3 (M)
 	  - Code de l'action sociale et des familles - art. L262-14 (M)
 	  - Code de l'action sociale et des familles - art. L262-15 (M)
 	  - Code de l'action sociale et des familles - art. L262-30 (M)
+	  - Code de l'action sociale et des familles L222-3, L262-30, L262-14, L262-15, 4
 
 	**Anciens textes**:
 
@@ -14183,10 +14040,13 @@ l'entrée en vigueur à cette date des dispositions de la loi de finances mentio
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
 	**Modifié par**:
 
-	  - Loi n°2003-1200 du 18 décembre 2003 - art. 22 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
-	  - Loi n°2003-1200 du 18 décembre 2003 - art. 6 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+	  - Loi n°2004-439 du 26 mai 2004 - art. 24 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article L262-36
@@ -14486,8 +14346,7 @@ sociale dans les conditions définies à l'article L. 262-39.
 
 Les retenues ne peuvent dépasser un pourcentage déterminé par voie réglementaire.
 
-En cas de précarité de la situation du débiteur, la créance peut être remise ou réduite sur décision prise selon des
-modalités fixées par voie réglementaire.
+En cas de précarité de la situation du débiteur, la créance peut être remise ou réduite par le président du conseil général.
 
 **Liens relatifs à cet article**
 
@@ -14500,6 +14359,10 @@ modalités fixées par voie réglementaire.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 58 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -15437,15 +15300,27 @@ l'entrée en vigueur à cette date des dispositions de la loi de finances mentio
 
 ###### Article L263-15
 
-Un fonds d'aide aux jeunes, destiné à favoriser l'insertion sociale et professionnelle des jeunes en difficulté âgés de dix-
-huit à vingt-cinq ans, est institué dans chaque département.
+I. - Le département est compétent pour attribuer aux jeunes en difficulté, âgés de dix-huit à vingt-cinq ans, des aides
+destinées à favoriser leur insertion sociale et professionnelle et, le cas échéant, leur apporter des secours temporaires de
+nature à faire face à des besoins urgents.
 
-Le fonds départemental prend en charge, après avis d'un comité local et en supplément des autres dispositifs mis en oeuvre
-pour l'insertion des jeunes, des aides financières directes accordées aux jeunes, pour une durée limitée et à titre
-subsidiaire, ainsi que les mesures d'accompagnement nécessaires.
+A cette fin, il est créé dans chaque département un fonds d'aide aux jeunes, placé sous l'autorité du président du conseil
+général. Ce fonds se substitue à celui ayant le même objet institué dans le département avant l'entrée en vigueur de la loi
+n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales.
 
-Les conditions d'attribution des aides et les modalités de fonctionnement des comités locaux sont déterminées par voie
-réglementaire.
+Le financement du fonds d'aide aux jeunes est assuré par le département. Les autres collectivités territoriales, leurs
+groupements et les organismes de protection sociale peuvent y participer.
+
+II. - Le règlement intérieur du fonds est adopté par le conseil général après avis du conseil départemental d'insertion. Il
+détermine les conditions et les modalités d'attribution des aides, notamment en cas d'urgence, et les conditions de mise en
+oeuvre des mesures d'accompagnement.
+
+Aucune durée minimale de résidence dans le département n'est exigée pour l'attribution d'une aide du fonds.
+
+Tout jeune bénéficiaire d'une aide du fonds fait l'objet d'un suivi dans sa démarche d'insertion.
+
+III. - Les aides du fonds d'aide aux jeunes sont attribuées sans qu'il soit tenu compte de la participation pouvant être
+demandée aux personnes tenues à l'obligation alimentaire à l'égard de l'intéressé.
 
 **Liens relatifs à cet article**
 
@@ -15458,19 +15333,41 @@ réglementaire.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 51 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2008-1249 du 1er décembre 2008 - art. 15
+
+	**Abrogé par**:
+
+	  - Loi n°2008-1249 du 1er décembre 2008 - art. 15
+
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. L263-16 (VT)
 	  - Code de l'action sociale et des familles - art. R263-2 (Ab)
 
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L263-3 (VT)
+
 
 ###### Article L263-16
 
-Il peut être créé, dans le ressort du département, par convention entre l'Etat, le département, une ou plusieurs communes,
-des fonds locaux d'aide aux jeunes répondant à l'objectif défini au premier alinéa de l'article L. 263-15, et permettant
-d'attribuer les aides et de mettre en oeuvre les mesures d'accompagnement prévues au deuxième alinéa du même article.
+Le président du conseil général peut, par convention, confier tout ou partie de la gestion du fonds prévu à l'article L.
+263-15 à une ou plusieurs communes ou à un ou plusieurs établissements publics de coopération intercommunale. 
+
+Il peut confier, par convention, la gestion financière et comptable du fonds départemental, sous sa responsabilité et son
+contrôle, à un organisme de sécurité sociale, une association ou un groupement d'intérêt public.
 
 **Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L263-4 (VT)
 
 	**Anciens textes**:
 
@@ -15481,14 +15378,60 @@ d'attribuer les aides et de mettre en oeuvre les mesures d'accompagnement prévu
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 51 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2008-1249 du 1er décembre 2008 - art. 15
+
+	**Abrogé par**:
+
+	  - Loi n°2008-1249 du 1er décembre 2008 - art. 15
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L263-15 (M)
+	  - Code de l'action sociale et des familles - art. L263-15 (VT)
 
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. L263-17 (VT)
 	  - Code de l'action sociale et des familles - art. R263-9 (Ab)
+
+
+###### Article L263-17
+
+Le financement du fonds départemental est assuré par l'Etat et le département. La participation du département est au moins
+égale à celle de l'Etat.
+
+La région, les communes et les organismes de protection sociale peuvent également participer au financement du fonds.
+
+La participation des communes peut être affectée à des fonds locaux créés en application de l'article L. 263-16.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°88-1088 du 1 décembre 1988 - art. 43-4 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Abrogé par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 51 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2008-1249 du 1er décembre 2008 - art. 15
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L263-16
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R263-8 (Ab)
 
 
 ##### Section 5 : Personnes bénéficiaires de l'allocation de parent isolé.
@@ -17078,8 +17021,7 @@ fixées par décret en Conseil d'Etat.
 ###### Article L312-4
 
 Les schémas d'organisation sociale et médico-sociale, établis pour une période maximum de cinq ans en cohérence avec les
-schémas mentionnés aux articles L. 6121-1 et L. 6121-3 du code de la santé publique et avec les dispositifs de coordination
-prévus au chapitre V du titre IV du livre Ier :
+schémas mentionnés aux articles L. 6121-1 et L. 6121-3 du code de la santé publique :
 
 1° Apprécient la nature, le niveau et l'évolution des besoins sociaux et médico-sociaux de la population ;
 
@@ -17100,7 +17042,7 @@ Un document annexé aux schémas définis au présent article peut préciser, po
 pluriannuelle des établissements et services sociaux et médico-sociaux qu'il serait nécessaire de créer, de transformer ou de
 supprimer afin de satisfaire les perspectives et objectifs définis au 3°.
 
-Les schémas peuvent être révisés à tout moment à la demande de l'une des autorités compétentes.
+Les schémas peuvent être révisés à tout moment à l'initiative de l'autorité compétente pour l'adopter.
 
 **Liens relatifs à cet article**
 
@@ -17139,10 +17081,7 @@ Les schémas peuvent être révisés à tout moment à la demande de l'une des a
 
 	**Modifié par**:
 
-	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 14 I, IV, art. 18 JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 14 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 18 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2004-809 du 13 août 2004 - art. 50 () JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
@@ -17167,24 +17106,19 @@ du I de l'article L. 312-1, autres que ceux devant figurer dans les schémas nat
 Les schémas élaborés au niveau national sont arrêtés par le ministre chargé des affaires sociales, après avis du Comité
 national de l'organisation sanitaire et sociale.
 
-Les schémas départementaux sont arrêtés après avis du comité régional de l'organisation sociale et médico-sociale.
+Le schéma départemental est adopté par le conseil général après concertation avec le représentant de l'Etat dans le
+département et avis du comité régional de l'organisation sociale et médico-sociale.
 
-Le schéma départemental est arrêté conjointement par le représentant de l'Etat dans le département et par le président du
-conseil général. A défaut d'accord entre le représentant de l'Etat dans le département et le président du conseil général,
-les éléments du schéma départemental sont arrêtés :
+Le représentant de l'Etat fait connaître, au plus tard six mois avant l'expiration du précédent schéma, au président du
+conseil général les orientations que le schéma doit prendre en compte pour les établissements et services mentionnés aux 2°,
+4°, a du 5°, 8° et 10° du I de l'article L. 312-1 ainsi que pour ceux mentionnés à l'article L. 162-24-1 du code de la
+sécurité sociale pour les prestations prises en charge par l'assurance maladie.
 
-a) Par le représentant de l'Etat dans le département pour les établissements et services mentionnés aux 2°, 4°, a du 5°, 8°
-et 10° du I de l'article L. 312-1 ainsi que pour ceux mentionnés à l'article L. 162-24-1 du code de la sécurité sociale pour
-les prestations prises en charge par l'assurance maladie ;
+Si le schéma n'a pas été adopté dans un délai de douze mois à compter de la transmission des orientations de l'Etat, il est
+adopté par le représentant de l'Etat.
 
-b) Par le président du conseil général, après délibération de celui-ci, pour les établissements et services mentionnés au 1°
-du I de l'article L. 312-1 ainsi que pour ceux mentionnés aux 3°, 6° et 7° du I du même article pour les prestations prises
-en charge par l'aide sociale départementale.
-
-Si les éléments du schéma n'ont pas été arrêtés dans les conditions définies ci-dessus soit dans un délai de deux ans après
-la publication de la loi n° 2002-2 du 2 janvier 2002 rénovant l'action sociale et médico-sociale, soit dans un délai d'un an
-après la date d'expiration du schéma précédent, le représentant de l'Etat dans le département dispose de trois mois pour
-arrêter ledit schéma.
+Les dispositions de l'alinéa précédent sont applicables aux schémas ultérieurs, si le nouveau schéma n'a pas été arrêté dans
+le délai d'un an suivant la date d'expiration du schéma précédent.
 
 Les éléments des schémas départementaux d'une même région, afférents aux établissements et services relevant de la compétence
 de l'Etat, sont regroupés dans un schéma régional fixé par le représentant de l'Etat dans la région, après avis du comité
@@ -17218,12 +17152,6 @@ sanitaire et au comité régional de l'organisation sociale et médico-sociale.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Cite**:
-
-	  - Loi n°2002-2 2002-01-02
-	  - Code de la sécurité sociale. - art. L162-24-1 (M)
-	  - Code de l'action sociale et des familles - art. L312-1 (M)
 
 	**Cité par**:
 
@@ -17268,7 +17196,12 @@ sanitaire et au comité régional de l'organisation sociale et médico-sociale.
 
 	**Modifié par**:
 
-	  - Loi n°2004-806 du 9 août 2004 - art. 4 () JORF 11 août 2004
+	  - Loi n°2004-809 du 13 août 2004 - art. 50 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L162-24-1 (M)
+	  - Code de l'action sociale et des familles - art. L312-1 (M)
 
 
 ##### Section 4 : Coordination des interventions
@@ -17801,11 +17734,12 @@ A défaut de notification des motifs justifiant le rejet de la demande, l'autori
 L'autorisation est délivrée :
 
 a) Par le président du conseil général, pour les établissements et services mentionnés au 1° du I de l'article L. 312-1 ainsi
-que pour ceux mentionnés aux 6°, 7°, 8° et 12° du I et au III du même article lorsque les prestations qu'ils dispensent sont
-susceptibles d'être prises en charge par l'aide sociale départementale ;
+que pour ceux mentionnés aux 6°, 7°, 8°, 11° et 12° du I et au III du même article lorsque les prestations qu'ils dispensent
+sont susceptibles d'être prises en charge par l'aide sociale départementale ou lorsque leurs interventions relèvent d'une
+compétence dévolue par la loi au département ;
 
 b) Par l'autorité compétente de l'Etat, pour les établissements et services mentionnés aux 2°, 5°, 9° et 10° du I de
-l'article 312-1 ainsi que pour ceux mentionnés aux 4°, 6°, 7°, 8°, 11° et 12° du I et au III du même article lorsque les
+l'article L. 312-1 ainsi que pour ceux mentionnés aux 4°, 6°, 7°, 8°, 11° et 12° du I et au III du même article lorsque les
 prestations qu'ils dispensent sont susceptibles d'être prises en charge par l'Etat ou l'assurance maladie au titre de
 l'article L. 162-24-1 du code de la sécurité sociale ;
 
@@ -17884,10 +17818,7 @@ département.
 
 	**Modifié par**:
 
-	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, II, art. 27 JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 27 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2004-809 du 13 août 2004 - art. 56 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
@@ -24714,27 +24645,26 @@ contrat de travail distinct du contrat d'accueil.
 
 ###### Article L451-1
 
-Les établissements publics ou privés dispensant des formations sociales, initiales, permanentes et supérieures contribuent à
-la qualification et à la promotion des professionnels et des personnels salariés et non salariés engagés dans la lutte contre
-l'exclusion, la prévention et la réparation des handicaps ou inadaptations, la promotion du développement social. Ils
-participent au service public de la formation.
+Les formations sociales contribuent à la qualification et à la promotion des professionnels et des personnels salariés et non
+salariés engagés dans la lutte contre les exclusions et contre la maltraitance, dans la prévention et la compensation de la
+perte d'autonomie, des handicaps ou des inadaptations et dans la promotion de la cohésion sociale et du développement social.
 
-A cet effet, ces établissements sont agréés par le ou les représentants des ministres compétents dans la région et, le cas
-échéant, dans l'académie, dans des conditions définies par décret. Ils s'engagent notamment à recruter des personnels
-directeurs et formateurs inscrits sur une liste d'aptitude nationale, dans des conditions fixées par voie réglementaire, et à
-exercer leurs missions suivant les orientations du schéma national des formations sociales arrêté par le ministre chargé des
-affaires sociales après avis du Conseil supérieur du travail social.
+Les diplômes et titres de travail social sont délivrés par l'Etat conformément aux dispositions du I de l'article L. 335-6 du
+code de l'éducation, dans le respect des orientations définies par le ministre chargé des affaires sociales après avis du
+Conseil supérieur du travail social.
 
-Les formations sociales définies par le schéma national susmentionné assurent à la fois une approche globale et transversale
-et une connaissance concrète des situations d'exclusion et de leurs causes. Elles préparent les travailleurs sociaux à la
-pratique du partenariat avec les personnes et les familles mentionnées par l'action sociale. Ce schéma s'attache également à
-coordonner les différentes filières de formation des travailleurs sociaux, notamment avec l'enseignement supérieur, et
-favorise le développement de la recherche en travail social.
+Les établissements publics ou privés dispensant des formations sociales initiales et continues participent au service public
+de la formation. Ils sont soumis à une obligation de déclaration préalable auprès du représentant de l'Etat dans la région
+ainsi qu'aux obligations et interdictions prévues aux 2 et 4 de l'article L. 920-4 du code du travail.
 
-Les formations initiales sont sanctionnées par des diplômes et des certificats d'Etat définis par voie réglementaire.
+L'Etat contrôle, en outre, dans des conditions fixées par voie réglementaire, le respect des programmes, la qualification des
+formateurs et directeurs d'établissement et la qualité des enseignements délivrés par ces établissements pendant la durée des
+formations, préparant aux diplômes et titres de travail social.
 
-L'Etat garantit aux établissements le financement des dépenses de fonctionnement afférentes à ces formations dans les
-conditions définies à l'article L. 451-2.
+Les départements sont consultés sur la définition et le contenu des formations.
+
+Un décret fixe les modalités d'application du présent article et, notamment, les sanctions encourues en cas de non-respect
+des prescriptions du présent article.
 
 **Liens relatifs à cet article**
 
@@ -24791,6 +24721,7 @@ conditions définies à l'article L. 451-2.
 	  - Code de l'action sociale et des familles - art. D451-87 (M)
 	  - Code de l'action sociale et des familles - art. D451-90 (V)
 	  - Code de l'action sociale et des familles - art. D451-96 (Ab)
+	  - Code de l'action sociale et des familles - art. L451-2 (M)
 	  - Code de l'action sociale et des familles - art. L451-3 (M)
 	  - Code de l'action sociale et des familles - art. L451-4 (V)
 	  - Code de l'action sociale et des familles - art. L461-1 (V)
@@ -24803,26 +24734,27 @@ conditions définies à l'article L. 451-2.
 	  - Code de l'action sociale et des familles - art. R451-4 (V)
 	  - Code de l'éducation - art. L676-1 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 52 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L451-2 (M)
+	  - Code de l'éducation - art. L335-6 (M)
+	  - Code du travail - art. L920-4 (M)
 
 
 ###### Article L451-2
 
-Les organismes responsables d'établissements de formation mentionnés à l'article L. 451-1 sous contrat bénéficient d'une aide
-financière de l'Etat adaptée aux objectifs de formation définis dans un cadre pluriannuel par le contrat.
+La région définit et met en oeuvre la politique de formation des travailleurs sociaux. Dans le cadre de l'élaboration du
+schéma régional des formations sociales, elle recense, en association avec les départements, les besoins de formation à
+prendre en compte pour la conduite de l'action sociale et médico-sociale et indique comment elle compte y répondre. 
 
-L'aide financière de l'Etat est constituée par une subvention couvrant, d'une part, les dépenses liées à l'emploi des
-formateurs nécessaires à la mise en oeuvre quantitative et qualitative des formations définies par le contrat, d'autre part,
-les dépenses d'ordre administratif et pédagogique sur la base d'un forfait national par étudiant.
+Elle agrée les établissements dispensant des formations initiales et assure leur financement dans les conditions prévues à
+l'article L. 451-2-1. Un décret fixe les conditions minimales d'agrément de ces établissements. 
 
-Le contrat type est déterminé et les modes de calcul de la subvention fixés par voie réglementaire.
-
-Les établissements sous contrat perçoivent de la part des étudiants des droits d'inscription dont le montant maximum est fixé
-chaque année par le ministre chargé des affaires sociales. En supplément des droits d'inscription, ils peuvent prélever des
-frais de scolarité dont le montant maximum est fixé chaque année par le ministre chargé des affaires sociales. Ils peuvent
-également bénéficier des rémunérations de services, participations des employeurs ou subventions des collectivités publiques.
+La région peut déléguer aux départements qui en font la demande, par voie de convention, sa compétence d'agrément des
+établissements dispensant des formations sociales.
 
 **Liens relatifs à cet article**
 
@@ -24835,6 +24767,10 @@ frais de scolarité dont le montant maximum est fixé chaque année par le minis
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 53 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
 	**Cité par**:
 
 	  - Décret n°2005-426 du 4 mai 2005 - art. 5 (V)
@@ -24846,17 +24782,61 @@ frais de scolarité dont le montant maximum est fixé chaque année par le minis
 	  - Code de l'action sociale et des familles - art. L544-5 (V)
 	  - Code de l'action sociale et des familles - art. R451-2 (V)
 
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L451-2-1 (V)
+
+
+###### Article L451-2-1
+
+Les établissements agréés par la région pour dispenser des formations sociales initiales souscrivent avec elle une convention
+pour bénéficier des financements nécessaires à la mise en oeuvre desdites formations.
+
+L'aide financière de la région à ces établissements est constituée par une subvention annuelle couvrant les dépenses
+administratives et celles liées à leur activité pédagogique. La région participe également, dans des conditions définies par
+une délibération du conseil régional, à leurs dépenses d'investissement, d'entretien et de fonctionnement des locaux.
+
+Aucune condition de résidence n'est opposable aux étudiants.
+
+La gratuité des études dans les établissements de formation dispensant des formations sociales initiales est assurée pour
+lesdites formations.
+
+Les établissements agréés perçoivent toutefois de la part des étudiants des droits d'inscription dont le montant maximum est
+fixé chaque année par référence au niveau arrêté pour les droits de scolarité dans les instituts universitaires
+professionnalisés. En supplément des droits d'inscription, ils peuvent prélever des frais de scolarité correspondant à la
+rémunération de services aux étudiants. Ils peuvent également bénéficier des rémunérations de services, participations des
+employeurs ou subventions des collectivités publiques.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°75-535 du 30 juin 1975 - art. 29-1 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 54 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Décret n°2016-380 du 29 mars 2016 - art. 2 (V)
+	  - Décret n°2017-537 du 13 avril 2017 - art. 3 (V)
+	  - Code de l'action sociale et des familles - art. L451-2 (VD)
+	  - Code de l'action sociale et des familles - art. L451-3 (V)
+	  - Code de l'action sociale et des familles - art. L544-5 (V)
+
 
 ###### Article L451-3
 
-Les étudiants inscrits dans les établissements mentionnés à l'article L. 451-1 peuvent, pour l'accomplissement de leur
-scolarité, prétendre à l'attribution d'aides financières de l'Etat, dont la nature, le taux et les conditions d'attribution
-sont fixés par décret.
+La région est compétente pour attribuer des aides aux étudiants inscrits dans les établissements mentionnés à l'article L.
+451-1. La nature, le montant et les conditions d'attribution de ces aides sont fixés par délibération du conseil régional.
 
-Les étudiants inscrits dans les établissements mentionnés à l'article L. 451-1 disposent de la liberté d'information et
-d'expression à l'égard des problèmes politiques, économiques, sociaux et culturels. Ils l'exercent, à titre individuel ou
-collectif, dans des conditions qui ne portent pas atteinte aux activités d'enseignement et de recherche et ne troublent pas
-l'ordre public.
+Un décret fixe les règles minimales de taux et de barème de ces aides.
 
 **Liens relatifs à cet article**
 
@@ -24877,6 +24857,10 @@ l'ordre public.
 	  - Code de l'action sociale et des familles - art. D451-5 (M)
 	  - Code de l'action sociale et des familles - art. D451-7 (V)
 	  - Code de l'action sociale et des familles - art. L544-5 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 55 () JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
@@ -43218,6 +43202,40 @@ bonifications et des cotisations sociales y afférentes.
 	  - Code de l'action sociale et des familles - art. D243-14 (Ab)
 
 
+##### Section 3 : Participation de l'Etat au paiement des accessoires de salaire.
+
+###### Article R243-17
+
+Comme il est dit à l'article R. 323-63-1-1 du code du travail ci-après reproduit :
+
+Art. R. 323-63-1-1. - La charge des accessoires de salaire mentionnés au deuxième alinéa de l'article L. 323-32 du même code
+est répartie entre l'atelier protégé ou le centre de distribution de travail à domicile et l'Etat, à proportion du salaire
+direct versé par l'employeur et du complément de rémunération pris en charge par l'Etat.
+
+La participation de l'Etat au titre de ces accessoires de salaire ne peut excéder 4,5 % d'un salaire égal au produit du
+salaire minimum de croissance par le nombre d'heures correspondant à la durée collective du travail applicable dans l'atelier
+protégé ou le centre de distribution de travail à domicile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2004-1417 du 23 décembre 2004 - art. 2 () JORF 29 décembre 2004 en vigueur le 1er janvier 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2006-150 du 13 février 2006 - art. 3 () JORF 14 février 2006 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail - art. L323-32 (M)
+	  - Code du travail - art. R323-63-1-1 (Ab)
+
+
 #### Chapitre IV : Allocation aux adultes handicapés
 
 ###### Article R244-1
@@ -46668,7 +46686,7 @@ informations suivantes :
 
 1° Le numéro d'inscription à ce répertoire des personnes mentionnées à l'article R. 262-84 ;
 
-2° Leur nom patronymique ;
+2° Leur nom de famille ;
 
 3° Leurs prénoms ;
 
@@ -46685,11 +46703,16 @@ Ces données sont transmises au moins une fois par an aux organismes mentionnés
 
 	**Anciens textes**:
 
+	  - Décret n°2002-240 du 20 février 2002 - art. 3, v. init.
 	  - Décret n°2002-240 du 20 février 2002 - art. 3 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2004-1159 du 29 octobre 2004 - art. 19 (V) JORF 31 octobre 2004 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
@@ -46746,17 +46769,22 @@ pôle emploi est effective depuis le 1er janvier 2009.
 Les informations mentionnées à l'article R. 262-86 sont transmises au moins une fois par an par les organismes mentionnés à
 l'article R. 262-86 au ministre chargé de l'action sociale en vue de constituer l'échantillon national interrégimes
 d'allocataires de minima sociaux, à l'exception de celles relatives au numéro d'inscription au répertoire national
-d'identification des personnes physiques et au nom patronymique, prénoms et jour de naissance des personnes qui y figurent.
+d'identification des personnes physiques et au nom de famille, prénoms et jour de naissance des personnes qui y figurent.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
+	  - Décret n°2002-240 du 20 février 2002 - art. 5, v. init.
 	  - Décret n°2002-240 du 20 février 2002 - art. 5 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2004-1159 du 29 octobre 2004 - art. 19 (V) JORF 31 octobre 2004 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
@@ -68728,66 +68756,52 @@ fixées par arrêté des ministres chargés de la santé et de la sécurité soc
 
 ### Titre IV : Particuliers accueillant des personnes âgées ou handicapées
 
-#### Chapitre unique : Accueillants familiaux et modalités d'agrément
+#### Chapitre Ier : Accueillants familiaux et modalités d'agrément
 
-##### Section 1 : Procédures d'agrément.
-
-###### Article D441-6
-
-Pour l'application de l'article L. 443-10 :
-
-1° La rémunération journalière des services rendus est supérieure ou égale à deux fois le minimum garanti mentionné à
-l'article L. 141-8 du code du travail, et inférieure ou égale à un plafond fixé par le président du conseil général du
-département où a lieu l'hébergement ;
-
-2° L'indemnité représentative des frais d'entretien courant de la personne accueillie est supérieure ou égale à deux fois le
-minimum garanti, et inférieure ou égale à cinq fois ce même minimum.
-
-La majoration pour sujétions particulières dont peut faire l'objet la rémunération journalière des services rendus doit être
-justifiée par la disponibilité supplémentaire dont doit faire preuve la personne agréée pour assurer la continuité de
-l'accueil, tenir compte de l'état de la personne accueillie ou aider celle-ci à accomplir certains actes de la vie courante.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-503 1990-06-22 art. 1
-	  - Décret n°90-503 du 22 juin 1990 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Transféré par**:
-
-	  - Décret n°2004-1538 du 30 décembre 2004 - art. 2 () JORF 1er janvier 2005
-
-	**Cite**:
-
-	  - Code du travail - art. L141-8 (AbD)
-	  - Code de l'action sociale et des familles - art. L443-10 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. D442-2 (MMN)
-	  - Code de l'action sociale et des familles - art. D442-2 (V)
-
+##### Section 1 : Modalités et délai d'instruction de la demande d'agrément.
 
 ###### Article R441-1
 
-La personne qui accueille habituellement à son domicile, à titre onéreux, des personnes âgées ou handicapées adultes
-n'appartenant pas à sa famille jusqu'au quatrième degré inclus est agréée à cet effet par le président du conseil général du
-département où est prévu l'hébergement.
+Pour obtenir l'agrément mentionné à l'article L. 441-1 du présent code, la personne ou le couple proposant un accueil à son
+domicile, à titre habituel et onéreux, de personnes âgées ou handicapées adultes doit : 
+
+1° Justifier de conditions d'accueil permettant d'assurer la santé, la sécurité, le bien-être physique et moral des personnes
+accueillies ; 
+
+2° S'engager à ce que l'accueil soit assuré de façon continue, en proposant notamment, dans le contrat mentionné à l'article
+L. 442-1, des solutions de remplacement satisfaisantes pour les périodes durant lesquelles l'accueil viendrait à être
+interrompu ; 
+
+3° Disposer d'un logement dont l'état, les dimensions et l'environnement répondent aux normes fixées par l'article R. 831-13
+et par le premier alinéa de l'article R. 831-13-1 du code de la sécurité sociale et soient compatibles avec les contraintes
+liées à l'âge ou au handicap de ces personnes ; 
+
+4° S'engager à suivre une formation initiale et continue ; 
+
+5° Accepter qu'un suivi social et médico-social des personnes accueillies puisse être assuré, notamment au moyen de visites
+sur place.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
+	  - Décret n°90-504 1990-06-22 art. 1
 	  - Décret n°90-504 du 22 juin 1990 - art. 1 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2004-1538 du 30 décembre 2004 - art. 1 () JORF 1er janvier 2005
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. R831-13 (V)
+	  - Code de la sécurité sociale. - art. R831-13-1 (V)
+	  - Code de l'action sociale et des familles - art. L441-1 (V)
+	  - Code de l'action sociale et des familles - art. L442-1 (V)
 
 	**Cité par**:
 
@@ -68800,33 +68814,32 @@ département où est prévu l'hébergement.
 
 ###### Article R441-2
 
-Le président du conseil général adresse à toute personne sollicitant l'agrément prévu à l'article R. 441-1 un dossier qui
-comporte :
+La demande d'agrément, établie sur un formulaire dont le contenu est fixé par le président du conseil général, doit préciser
+en particulier :
 
-1° Le rappel des prescriptions législatives et réglementaires relatives aux conditions d'agrément, aux cas et modalités de
-retrait de cet agrément, aux sanctions applicables en cas d'hébergement irrégulier, aux avantages sociaux et fiscaux pouvant
-être consentis aux personnes accueillantes et accueillies ;
+1° Le nombre maximum de personnes âgées ou handicapées que le demandeur souhaite accueillir, ainsi que, le cas échéant, la
+répartition entre ces deux catégories de personnes ;
 
-2° Les dispositions arrêtées par lui pour l'instruction de l'agrément, la formation et le contrôle des personnes
-accueillantes, le suivi social et médico-social des personnes accueillies ;
+2° Si l'accueil projeté est à temps partiel ou à temps complet.
 
-3° Les contrats types établis conformément aux dispositions des articles L. 441-2 et L. 442-2.
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
+	  - Décret n°90-504 1990-06-22 art. 2
 	  - Décret n°90-504 du 22 juin 1990 - art. 2 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'action sociale et des familles - art. L441-2 (M)
-	  - Code de l'action sociale et des familles - art. L442-2 (Ab)
-	  - Code de l'action sociale et des familles - art. R441-1 (M)
+	  - Décret n°2004-1538 du 30 décembre 2004 - art. 1 () JORF 1er janvier 2005
 
 	**Cité par**:
 
@@ -68836,26 +68849,16 @@ accueillantes, le suivi social et médico-social des personnes accueillies ;
 
 ###### Article R441-3
 
-La décision d'agrément ou de refus d'agrément est notifiée au demandeur. La décision d'agrément précise :
+La demande est adressée au président du conseil général du département de résidence du demandeur par lettre recommandée avec
+demande d'avis de réception. 
 
-1° Si l'agrément est accordé pour des personnes âgées ou pour des personnes handicapées ;
+Cette autorité dispose d'un délai de dix jours pour en accuser réception ou, si la demande est incomplète, pour indiquer,
+dans les conditions prévues par le décret du 6 juin 2001, les pièces manquantes dont la production est indispensable à
+l'instruction de la demande et fixer un délai pour la production de ces pièces.
 
-2° Le nombre de personnes pouvant être accueillies ;
+**Nota:**
 
-3° Si l'accueil est permanent ou temporaire, à temps partiel ou à temps complet ;
 
-4° Les cas et les modalités de retrait de l'agrément.
-
-Le retrait d'agrément ainsi que toute modification des éléments mentionnés aux 1° , 2° et 3° ci-dessus est notifié à la
-personne agréée, à toute personne déjà accueillie par elle ou à son représentant légal, ainsi que, le cas échéant, à
-l'institution, l'organisme ou l'association assurant le suivi social et médico-social des personnes accueillies.
-
-Toute décision de refus ou de retrait d'agrément ainsi que toute décision restreignant la portée d'un agrément déjà délivré
-doit comporter l'énoncé des considérations de droit et de fait qui constituent son fondement.
-
-Le silence gardé pendant plus de quatre mois par le président du conseil général sur la demande d'agrément pour l'accueil par
-un particulier à son domicile, à titre onéreux, de personnes âgées ou de personnes handicapées adultes vaut décision de
-rejet.
 
 **Liens relatifs à cet article**
 
@@ -68863,9 +68866,17 @@ rejet.
 
 	  - Décret n°90-504 du 22 juin 1990 - art. 4 (Ab)
 
+	**Cite**:
+
+	  - Décret n°2001-492 du 6 juin 2001 (V)
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2004-1538 du 30 décembre 2004 - art. 1 () JORF 1er janvier 2005
 
 	**Cité par**:
 
@@ -68874,26 +68885,23 @@ rejet.
 
 ###### Article R441-4
 
-Outre les cas de retrait énoncés par l'article L. 441-2, le président du conseil général peut à tout moment retirer
-l'agrément lorsque les conditions auxquelles son octroi est subordonné ne sont plus réunies et notamment lorsque le contrôle
-et le suivi social et médico-social ne peuvent être exercés.
-
-Le retrait n'est prononcé qu'après que la personne agréée a été invitée par lettre recommandée avec demande d'avis de
-réception à régulariser sa situation dans un délai déterminé et que cette invitation est restée sans effet.
+Le silence gardé pendant plus de 4 mois à compter de la date d'accusé de réception du dossier complet par le président du
+conseil général sur la demande d'agrément vaut décision de rejet de celle-ci.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
+	  - Décret n°90-504 1990-06-22 art. 5
 	  - Décret n°90-504 du 22 juin 1990 - art. 5 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'action sociale et des familles - art. L441-2 (M)
+	  - Décret n°2004-1538 du 30 décembre 2004 - art. 1 () JORF 1er janvier 2005
 
 	**Cité par**:
 
@@ -68902,27 +68910,367 @@ réception à régulariser sa situation dans un délai déterminé et que cette 
 
 ###### Article R441-5
 
-Les personnes agréées sont tenues de fournir aux services de contrôle ainsi qu'aux institutions, associations ou organismes
-chargés du suivi social et médico-social tous les renseignements qui leur sont demandés en relation avec ces missions.
+L'agrément est accordé pour une période de 5 ans.
 
-Avec l'accord de la personne agréée, les représentants des services, institutions, associations et organismes mentionnés ci-
-dessus peuvent pénétrer dans le logement et rencontrer les personnes accueillies.
+La décision d'agrément mentionne le nombre, dans la limite de 3, de personnes pouvant être accueillies au domicile de la
+personne ou du couple, les modalités d'accueil prévues, ainsi que, le cas échéant, la répartition entre personnes âgées et
+handicapées.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
+	  - Décret n°90-504 1990-06-22 art. 6
 	  - Décret n°90-504 du 22 juin 1990 - art. 6 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2004-1538 du 30 décembre 2004 - art. 1 () JORF 1er janvier 2005
+
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. D442-4 (V)
 	  - Code de l'action sociale et des familles - art. D443-3 (VD)
 	  - Code de l'action sociale et des familles - art. R441-10 (VD)
+
+
+###### Article R441-6
+
+Un délai minimum d'un an doit précéder toute nouvelle demande consécutive à une décision de refus ou de retrait d'agrément.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2004-1538 du 30 décembre 2004 - art. 1 () JORF 1er janvier 2005
+
+
+###### Article R441-7
+
+Dans l'année qui précède la date d'échéance de la décision d'agrément ou de renouvellement d'agrément, le président du
+conseil général indique, par lettre recommandée avec avis de réception, à l'accueillant familial qu'il doit présenter une
+demande de renouvellement d'agrément quatre mois au moins avant ladite échéance s'il entend continuer à en bénéficier. 
+
+La demande de renouvellement de l'agrément est déposée et instruite dans les mêmes conditions que la demande initiale. 
+
+Le dossier est complété, lorsqu'il s'agit du premier renouvellement sollicité, par un document attestant que le demandeur a
+suivi la formation mentionnée à l'article L. 441-1.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2004-1538 du 30 décembre 2004 - art. 1 () JORF 1er janvier 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L441-1 (VT)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R544-4 (VD)
+
+
+###### Article R441-8
+
+Pour réunir les éléments d'appréciation nécessaires à l'instruction des demandes d'agrément ou de renouvellement, le
+président du conseil général peut faire appel au concours de personnes morales de droit public ou de droit privé relevant des
+6° et 7° du I de l'article L. 312-1 du présent code ayant conclu à cet effet une convention avec le département. 
+
+Les accueillants familiaux sont tenus de fournir aux services départementaux ainsi qu'aux institutions ou organismes qu'ils
+désignent à cet effet tous les renseignements qui leur sont demandés et sont en relation directe avec l'accomplissement de
+leurs missions.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2004-1538 du 30 décembre 2004 - art. 1 () JORF 1er janvier 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L312-1 (V)
+
+
+###### Article R441-9
+
+Le délai mentionné au deuxième alinéa de l'article L. 441-2 est de trois mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2004-1538 du 30 décembre 2004 - art. 1 () JORF 1er janvier 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L441-2 (V)
+
+
+###### Article R441-10
+
+En cas de changement de résidence à l'intérieur du département, l'accueillant familial doit notifier sa nouvelle adresse au
+président du conseil général par lettre recommandée avec demande d'avis de réception, un mois au moins avant son
+emménagement. 
+
+Lorsque l'accueillant familial change de département de résidence, il notifie, dans les mêmes formes et délais, son adresse
+au président du conseil général de son nouveau département de résidence, en joignant un copie de la décision mentionnée à
+l'article R. 441-5. 
+
+Le président du conseil général du département d'origine transmet, à la demande du président du conseil général du nouveau
+département de résidence de l'accueillant familial, le dossier visé à l'article R. 441-2.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2004-1538 du 30 décembre 2004 - art. 1 () JORF 1er janvier 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. R441-2 (VT)
+	  - Code de l'action sociale et des familles - art. R441-5 (V)
+
+
+##### Section 2 : Commission consultative de retrait.
+
+###### Article R441-11
+
+Lorsque le président du conseil général envisage dans les conditions prévues à l'article L. 441-2 de retirer un agrément ou
+d'y apporter une restriction, il saisit pour avis la commission consultative de retrait en lui indiquant le contenu de
+l'injonction préalable et les motifs de la décision envisagée.
+
+L'accueillant familial concerné est informé un mois au moins avant la date de la réunion de la commission, par lettre
+recommandée avec demande d'avis de réception, des motifs de la décision envisagée à son encontre. Il est invité à présenter à
+la commission ses observations par écrit ou à en faire part lors de la réunion de la commission. Il peut se faire assister
+par un conseil de son choix.
+
+La commission délibère hors de la présence de l'intéressé ou de la personne qui l'assiste.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2004-1538 du 30 décembre 2004 - art. 1 () JORF 1er janvier 2005 et rectificatif JORF 5 février 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L441-2 (M)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R544-4 (VD)
+
+
+###### Article R441-12
+
+La commission consultative de retrait instituée par l'article L. 441-2 du code de l'action sociale et des familles comprend,
+en nombre égal, des membres représentant :
+
+1° Le département.
+
+2° Les accueillants familiaux agréés dans le département.
+
+3° Des associations des personnes âgées et de personnes handicapées.
+
+Le président du conseil général fixe par arrêté le nombre des membres de la commission dans la limite de neuf personnes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2004-1538 du 30 décembre 2004 - art. 1 () JORF 1er janvier 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L441-2 (M)
+
+
+###### Article R441-13
+
+Le président du conseil général ou son représentant assure la présidence de la commission consultative de retrait.
+
+Il en désigne les membres.
+
+Les représentants des accueillants familiaux sont choisis par le président du conseil général parmi les personnes proposées
+par les associations de familles d'accueil déclarées dans le département et, en l'absence d'association, parmi les
+accueillants familiaux agréés dans le département dont il aura sollicité la candidature.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2004-1538 du 30 décembre 2004 - art. 1 () JORF 1er janvier 2005
+
+
+###### Article R441-14
+
+Le mandat des membres de la commission consultative est fixé à trois ans renouvelables.
+
+Chaque titulaire a, pour la durée de son mandat, un suppléant, désigné dans les mêmes conditions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2004-1538 du 30 décembre 2004 - art. 1 () JORF 1er janvier 2005
+
+
+###### Article R441-15
+
+Les membres de la commission consultative sont tenus au secret professionnel dans le cadre des règles instituées par le code
+pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2004-1538 du 30 décembre 2004 - art. 1 () JORF 1er janvier 2005
+
+
+#### Chapitre II : Contrat entre la personne accueillie et l'accueillant familial
+
+###### Article D442-2
+
+1° Le montant minimum de la rémunération journalière des services rendus, visée au 1° de l'article L. 442-1, est égal à 2,5
+fois la valeur horaire du salaire minimum de croissance, déterminé dans les conditions prévues aux articles L. 141-2 à L.
+141-7 du code du travail, pour un accueil à temps complet.
+
+La rémunération journalière pour services rendus donne lieu au paiement d'une indemnité de congés payés conformément aux
+dispositions de l'article L. 223-11 du code du travail.
+
+2° Les montants minimum et maximum de l'indemnité journalière pour sujétions particulières, mentionnée au 2° de l'article L.
+442-1, sont respectivement égaux à 1 fois et 4 fois le minimum garanti, déterminé dans les conditions prévues à l'article L.
+141-8 du code du travail.
+
+3° Les montants minimum et maximum de l'indemnité journalière représentative des frais d'entretien courant de la personne
+accueillie, mentionnée au 3° de l'article L. 442-1, sont respectivement égaux à 2 et 5 fois le minimum garanti, déterminé
+dans les conditions prévues à l'article L. 141-8 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2004-1541 du 30 décembre 2004 - art. 1 () JORF 1er janvier 2005
+
+	**Cite**:
+
+	  - Code du travail - art. L141-8 (AbD)
+	  - Code du travail - art. L223-11 (M)
+	  - Code du travail L141-2 à L141-7, L223-11, L141-8
+	  - Code de l'action sociale et des familles - art. L442-1 (M)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. Annexe 3-8-1 (V)
+	  - Code de l'action sociale et des familles - art. Annexe 3-8-2 (V)
+	  - Code de l'action sociale et des familles - art. R544-4 (VD)
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. D441-6 (T)
+
+
+###### Article D442-3
+
+Le contrat passé entre la personne accueillie à titre onéreux au domicile d'un particulier et l'accueillant familial est
+conforme au modèle de contrat type mentionné à l'article L. 442-1 du présent code et publié à l'annexe n° 3-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2004-1542 du 30 décembre 2004 - art. 1 () JORF 1er janvier 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L442-1 (M)
+	  - Code de l'action sociale et des familles L442-1, annexe
+
+
+###### Article R442-1
+
+Les litiges relatifs au contrat mentionné à l'article L. 442-1 du code de l'action sociale et des familles relèvent de la
+compétence du tribunal d'instance du lieu de résidence de l'accueillant familial.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2004-1538 2004-12-30 art. 2 I, II JORF 1er janvier 2005
+	  - Décret n°2004-1538 du 30 décembre 2004 - art. 2 () JORF 1er janvier 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L442-1 (V)
 
 
 ### Titre V : Formation des travailleurs sociaux
