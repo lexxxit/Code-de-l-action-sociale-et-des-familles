@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2004-10-27
+Version Consolidée au 2004-11-04
 
 # Partie législative
 
@@ -34569,8 +34569,8 @@ proposition des organisations professionnelles ;
 11° un représentant désigné par chacune des organisations syndicales de salariés interprofessionnelles représentatives sur le
 plan national ;
 
-12° un représentant des entreprises désigné conjointement par la ou les chambres de commerce et d'industrie, la chambre des
-métiers et la chambre d'agriculture ;
+12° un représentant des entreprises désigné conjointement par la ou les chambres de commerce et d'industrie, la chambre de
+métiers et de l'artisanat et la chambre d'agriculture ;
 
 13° trois personnes qualifiées dans le domaine de l'accueil des jeunes enfants et de la conciliation de la vie familiale et
 de la vie professionnelle, sur proposition du préfet.
@@ -34594,6 +34594,10 @@ La liste des membres de la commission est arrêtée par le président du conseil
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2004-1164 du 2 novembre 2004 - art. 1 () JORF 4 novembre 2004
 
 	**Cité par**:
 
