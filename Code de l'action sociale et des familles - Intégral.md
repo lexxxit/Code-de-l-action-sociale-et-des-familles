@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2004-03-02
+Version Consolidée au 2004-07-01
 
 # Partie législative
 
@@ -790,6 +790,44 @@ territoire.
 	  - Code de la santé publique - art. L1431-1 (VD)
 
 
+###### Article L116-3
+
+Il est institué dans chaque département un plan d'alerte et d'urgence au profit des personnes âgées et des personnes
+handicapées en cas de risques exceptionnels.
+
+Ce plan est arrêté conjointement par le représentant de l'Etat dans le département et, à Paris, le préfet de police, et par
+le président du conseil général. Il est mis en oeuvre sous l'autorité du représentant de l'Etat dans le département et, à
+Paris, du préfet de police.
+
+Il prend en compte, le cas échéant, la situation des personnes les plus vulnérables du fait de leur isolement.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2004-626 du 30 juin 2004 - art. 1 () JORF 1er juillet 2004
+
+	**Cité par**:
+
+	  - Décret n°2004-926 du 1 septembre 2004 - art. 1 (Ab)
+	  - Décret n°2004-926 du 1 septembre 2004 - art. 7 (Ab)
+	  - Décret n°2004-926 du 1 septembre 2004 - art. 8 (Ab)
+	  - Code de l'action sociale et des familles - art. L121-6-1 (V)
+	  - Code de l'action sociale et des familles - art. R121-2 (V)
+	  - Code de l'action sociale et des familles - art. R121-8 (V)
+	  - Code de l'action sociale et des familles - art. R121-9 (V)
+	  - Code de la sécurité intérieure - art. R741-48 (VD)
+
+
 ### Titre II : Compétences
 
 #### Chapitre Ier : Collectivités publiques et organismes responsables
@@ -1002,6 +1040,50 @@ financières du transfert.
 	  - Code de l'action sociale et des familles - art. L123-5 (V)
 	  - Code de l'action sociale et des familles - art. L522-1 (VD)
 	  - Code général des collectivités territoriales - art. Rubrique 6 (V)
+
+
+###### Article L121-6-1
+
+Afin de favoriser l'intervention des services sociaux et sanitaires, les maires recueillent les éléments relatifs à
+l'identité, à l'âge et au domicile des personnes âgées et des personnes handicapées qui en ont fait la demande. Ces données
+sont notamment utilisées par les services susmentionnés pour organiser un contact périodique avec les personnes répertoriées
+lorsque le plan d'alerte et d'urgence prévu à l'article L. 116-3 est mis en oeuvre. Les maires peuvent également procéder à
+ce recueil à la demande d'un tiers à la condition que la personne concernée, ou son représentant légal, ne s'y soit pas
+opposée. 
+
+Les registres nominatifs créés au titre du recueil d'informations visé à l'alinéa précédent sont tenus dans le respect des
+dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés. Le droit d'accès
+et de correction des données nominatives est assuré conformément aux dispositions de la loi précitée. Ces données nominatives
+ne peuvent être consultées que par les agents chargés de la mise en oeuvre de ce recueil et de celle du plan d'alerte et
+d'urgence visé à l'article L. 116-3. La diffusion de ces données à des personnes non autorisées à y accéder ou leur
+détournement sont passibles des peines prévues aux articles 226-16 à 226-24 du code pénal. 
+
+Ces informations sont recueillies, transmises et utilisées dans des conditions garantissant leur confidentialité et selon des
+modalités fixées par décret en Conseil d'Etat pris après avis de la Commission nationale de l'informatique et des libertés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 (V)
+	  - Code pénal - art. 226-16 (V)
+	  - Code de l'action sociale et des familles - art. L116-3 (VT)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2004-626 du 30 juin 2004 - art. 1 () JORF 1er juillet 2004
+
+	**Cité par**:
+
+	  - Décret n°2004-926 du 1 septembre 2004 - art. 1 (Ab)
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 6 (V)
+	  - Code de l'action sociale et des familles - art. R121-2 (V)
+	  - Code de la sécurité intérieure - art. R741-48 (VD)
 
 
 ##### Section 3 : Etat.
@@ -2798,6 +2880,17 @@ du Conseil d'Etat, le premier président de la Cour des comptes ou le garde des 
 des fonctionnaires ou personnes particulièrement qualifiées en matière d'aide ou d'action sociale désignées par le ministre
 chargé de l'action sociale.
 
+Les membres de la commission centrale sont nommés pour une durée de quatre ans renouvelable.
+
+Les rapporteurs qui ont pour fonction d'instruire les dossiers sont nommés par le ministre chargé de l'aide sociale soit
+parmi les membres du Conseil d'Etat et les magistrats de la Cour des comptes, soit parmi les fonctionnaires des
+administrations centrales des ministères, soit parmi les personnes particulièrement compétentes en matière d'aide ou d'action
+sociale. Ils ont voix délibérative dans les affaires où ils sont rapporteurs.
+
+Des commissaires du Gouvernement, chargés de prononcer leurs conclusions sur les affaires que le président de la commission
+centrale, d'une section ou d'une sous-section leur confie, sont nommés par le ministre chargé de l'aide sociale parmi les
+membres du Conseil d'Etat, les magistrats de la Cour des comptes et les fonctionnaires du ministère chargé de l'aide sociale.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -2818,8 +2911,7 @@ chargé de l'action sociale.
 
 	**Modifié par**:
 
-	  - Loi n°2002-2 2002-01-02 art. 85 1° JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 85
+	  - Loi n°2004-626 du 30 juin 2004 - art. 18 () JORF 1er juillet 2004
 
 	**Anciens textes**:
 
@@ -2929,6 +3021,17 @@ désigné par lui pour le remplacer. Elle comprend, en outre :
 
 En cas d'égal partage des voix, le président a voix prépondérante.
 
+Un commissaire du Gouvernement désigné par le préfet prononce ses conclusions sur les affaires que lui confie le président.
+Il n'a pas voix délibérative.
+
+Les fonctions de rapporteur sont assurées par le secrétaire de la commission. Il peut lui être adjoint un ou plusieurs
+rapporteurs. Le secrétaire et les rapporteurs sont nommés par le président de la commission parmi les personnes figurant sur
+une liste établie conjointement par le président du conseil général et le préfet. Ils ont voix délibérative sur les affaires
+qu'ils rapportent.
+
+Le secrétaire, les rapporteurs et les commissaires du Gouvernement sont choisis parmi les fonctionnaires ou magistrats en
+activité ou à la retraite.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -2946,6 +3049,10 @@ En cas d'égal partage des voix, le président a voix prépondérante.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2004-626 du 30 juin 2004 - art. 18 () JORF 1er juillet 2004
 
 	**Anciens textes**:
 
@@ -9385,179 +9492,6 @@ médecins.
 
 	  - Code de l'action sociale et des familles - art. L134-1 (V)
 	  - Code de l'action sociale et des familles - art. L134-6 (V)
-
-
-##### Section 3 : Financement de l'allocation personnalisée d'autonomie
-
-###### Article L232-21
-
-I. - Il est créé un fonds dont la mission est de contribuer au financement de l'allocation personnalisée d'autonomie. Ce
-fonds, dénommé "Fonds de financement de l'allocation personnalisée d'autonomie", est un établissement public national à
-caractère administratif.
-
-Les conditions de fonctionnement et de gestion du fonds, la composition de son conseil d'administration, constitué de
-représentants de l'Etat, et la composition de son conseil de surveillance, comprenant notamment des membres du Parlement et
-des représentants des départements, des régimes obligatoires de base d'assurance vieillesse et des personnes âgées, sont
-déterminées par voie réglementaire.
-
-Le conseil d'administration du fonds transmet chaque année au Parlement et au Gouvernement, au plus tard le 15 octobre, un
-rapport présentant ses comptes prévisionnels pour l'année en cours et l'année suivante. Un rapport du conseil de
-surveillance, transmis selon les mêmes modalités, rend compte de la mise en oeuvre du dispositif d'allocation personnalisée
-d'autonomie à partir des données statistiques mentionnées à l'article L. 232-17.
-
-II. - Les dépenses du fonds sont constituées par :
-
-1° Un concours versé aux départements, destiné à prendre en charge une partie du coût de l'allocation.
-
-Le montant de ce concours est réparti annuellement entre les départements, en fonction de la part des dépenses réalisées par
-chaque département au titre de l'allocation personnalisée d'autonomie dans le montant total des dépenses au titre de
-l'allocation personnalisée d'autonomie constaté l'année précédente pour l'ensemble des départements ; il est modulé en
-fonction du potentiel fiscal déterminé selon les modalités définies à l'article L. 3334-6 du code général des collectivités
-territoriales et du nombre de bénéficiaires du revenu minimum d'insertion de chaque département.
-
-Toutefois, au titre des deux premières années de fonctionnement du fonds, ce concours est réparti entre les départements en
-fonction du nombre de personnes âgées de plus de soixante-quinze ans, du potentiel fiscal déterminé selon les mêmes modalités
-et du nombre de bénéficiaires du revenu minimum d'insertion de chaque département.
-
-Le montant ainsi réparti :
-
-- ne peut excéder par département la moitié des dépenses d'allocation personnalisée d'autonomie dudit département. Le cas
-échéant, l'excédent constaté fait l'objet d'une régularisation au cours de l'exercice suivant ;
-
-- est majoré pour les départements dont les dépenses d'allocation personnalisée d'autonomie rapportées au nombre de personnes
-âgées du département de plus de soixante-quinze ans excèdent d'au moins 30 % les dépenses d'allocation personnalisée
-d'autonomie de l'ensemble des départements rapportées au nombre total de personnes âgées de plus de soixante-quinze ans sur
-l'ensemble du territoire national.
-
-Cette majoration, égale à 80 % de la fraction de dépenses excédant le seuil de 30 %, est prise en charge par le fonds et
-minore, à due concurrence, les montants à répartir en fonction des trois critères visés ci-dessus.
-
-Des acomptes sont versés aux départements. Ils sont établis sur la base des trois critères visés ci-dessus et correspondent
-au minimum à 90 % des recettes disponibles du fonds après prise en compte des dépenses visées aux 2°, 3° et 4°. Ils sont
-régularisés au cours de l'exercice suivant par application de l'ensemble des critères ainsi définis, dans la limite des
-recettes de l'exercice au titre duquel est effectuée la régularisation.
-
-En aucun cas, les dépenses relatives à l'allocation personnalisée d'autonomie de chaque département ne peuvent excéder un
-montant moyen par bénéficiaire égal à 80 % du montant au 1er janvier 2001 de la majoration pour tierce personne mentionnée à
-l'article L. 335-1 du code de la sécurité sociale revalorisée, chaque année, comme les prix à la consommation hors tabac aux
-termes du rapport économique et financier annexé au projet de loi de finances pour l'année civile à venir. Les dépenses
-effectuées en dépassement de ce seuil sont prises en charge en totalité par le fonds et minorent, à due concurrence, les
-montants à répartir.
-
-L'ensemble de ces dispositions sera réexaminé avant la fin de l'exercice 2003, en fonction du bilan mentionné à l'article 15
-de la loi n° 2001-647 du 20 juillet 2001 précitée ;
-
-2° Les dépenses de modernisation des services qui apportent au domicile des personnes âgées dépendantes une assistance dans
-les actes quotidiens de la vie, afin notamment de promouvoir des actions innovantes, de renforcer la professionnalisation et
-de développer la qualité de ces services.
-
-Ces dépenses sont retracées dans une section spécifique du Fonds de financement de l'allocation personnalisée d'autonomie,
-dénommée "Fonds de modernisation de l'aide à domicile", abondée par une fraction de la recette mentionnée au 2° du III ;
-cette fraction, fixée par arrêté des ministres chargés de la sécurité sociale et du budget, ne peut être inférieure à 3 % ni
-supérieure à 10 % des sommes en cause.
-
-Les projets de modernisation de l'aide à domicile sont agréés par le ministre chargé de l'action sociale et financés par le
-fonds dans la limite des crédits disponibles ;
-
-3° Le remboursement des frais de gestion du fonds ;
-
-4° Un concours spécifique versé à titre exceptionnel pour 2003 aux départements dont le rapport entre, d'une part, les
-dépenses au titre de l'allocation personnalisée d'autonomie en 2003 après déduction du concours prévu au 1° au titre de 2003
-et, d'autre part, le potentiel fiscal tel que défini au 1°, est supérieur à un taux fixé par décret. Ce concours peut faire
-l'objet d'acomptes.
-
-Ce concours est réparti entre les départements concernés en fonction du montant du rapport défini à l'alinéa précédent. Les
-modalités de la répartition sont fixées par décret.
-
-Ce concours est égal à une fraction du montant de l'emprunt visé au 3° du III. Cette fraction est fixée par décret dans la
-limite de 20 % de ce montant ;
-
-5° Les dépenses relatives au remboursement de l'emprunt mentionné au III.
-
-III. - Les recettes affectées au financement des dépenses prévues au II sont constituées par :
-
-1° Une participation des régimes obligatoires de base d'assurance vieillesse, représentative d'une fraction identique pour
-tous les régimes, déterminée par voie réglementaire, des sommes consacrées par chacun de ceux-ci en 2000 aux dépenses d'aide
-ménagère à domicile au bénéfice des personnes âgées dépendantes remplissant la condition de perte d'autonomie mentionnée à
-l'article L. 232-2 ; cette fraction ne peut être inférieure à la moitié ni supérieure aux trois quarts des sommes en cause ;
-
-2° Une fraction du produit des contributions sociales mentionnées aux articles L. 136-1, L. 136-6, L. 136-7 et L. 136-7-1 du
-code de la sécurité sociale ;
-
-3° A titre exceptionnel en 2003, un emprunt souscrit par le fonds au cours de l'exercice 2003, dont le montant et la durée de
-remboursement sont fixés par décret, pour aider les départements à faire face à la montée en charge de l'allocation
-personnalisée d'autonomie.
-
-**Nota:**
-
-Loi 2003-289 2003-03-31 art. 5 II : La charge et le remboursement de l'emprunt mentionnés au 3° du III de l'article L. 232-21
-du code de l'action sociale et des familles seront assurés dans les conditions prévues par la loi de finances et dans le
-respect du concours financier de l'Etat aux départements tel qu'il est défini au 1° du II dudit article.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°97-60 du 24 janvier 1997 - art. 20 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Cité par**:
-
-	  - Loi n°2001-647 du 20 juillet 2001 - art. 15 (Ab)
-	  - Loi n°2001-647 du 20 juillet 2001 - art. 19-1 (Ab)
-	  - Loi n°2001-647 du 20 juillet 2001 - art. 19-2 (Ab)
-	  - Loi n°2001-647 du 20 juillet 2001 - art. 9 (V)
-	  - Décret n°2001-1084 du 20 novembre 2001 - art. 11 (Ab)
-	  - Décret n°2001-1084 du 20 novembre 2001 - art. 12 (Ab)
-	  - Décret n°2001-1084 du 20 novembre 2001 - art. 13 (Ab)
-	  - Décret n°2001-1084 du 20 novembre 2001 - art. 14 (Ab)
-	  - Décret n°2001-1084 du 20 novembre 2001 - art. 15 (Ab)
-	  - Décret n°2001-1084 du 20 novembre 2001 - art. 16 (Ab)
-	  - Décret n°2001-1084 du 20 novembre 2001 - art. 17 (Ab)
-	  - Décret n°2001-1084 du 20 novembre 2001 - art. 18 (Ab)
-	  - Décret n°2001-1084 du 20 novembre 2001 - art. 20 (Ab)
-	  - Décret n°2003-900 du 19 septembre 2003 - art. 1 (V)
-	  - Décret n°2003-900 du 19 septembre 2003 - art. 2 (V)
-	  - Loi n°2004-626 du 30 juin 2004 - art. 15 (VD)
-	  - Décret n°2017-344 du 16 mars 2017 (V)
-	  - Code de l'action sociale et des familles - art. L14-10-3 (VD)
-	  - Code de l'action sociale et des familles - art. L232-17 (M)
-	  - Code de l'action sociale et des familles - art. R232-40 (Ab)
-	  - Code de l'action sociale et des familles - art. R232-43 (Ab)
-	  - Code de l'action sociale et des familles - art. R232-47 (Ab)
-	  - Code de l'action sociale et des familles - art. R232-50 (Ab)
-	  - Code de l'action sociale et des familles - art. R232-51 (Ab)
-	  - Code de l'action sociale et des familles - art. R232-52 (Ab)
-	  - Code de l'action sociale et des familles - art. R232-53 (Ab)
-	  - Code de l'action sociale et des familles - art. R232-54 (Ab)
-	  - Code de l'action sociale et des familles - art. R232-55 (Ab)
-	  - Code de l'action sociale et des familles - art. R232-56 (Ab)
-	  - Code de l'action sociale et des familles - art. R232-60 (Ab)
-	  - Code de la sécurité sociale. - art. L135-1 (M)
-	  - Code de la sécurité sociale. - art. L136-8 (M)
-	  - Code général des collectivités territoriales - art. L3332-2 (M)
-
-	**Modifié par**:
-
-	  - Loi n°2003-289 du 31 mars 2003 - art. 5 () JORF 1er avril 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2004-626 du 30 juin 2004 - art. 15 (V) JORF 1er juillet 2004
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L3334-6 (M)
-	  - Code de la sécurité sociale L335-1, L136-1, L136-6, L136-7, L136-7-1
-	  - Code de la sécurité sociale. - art. L136-1 (M)
-	  - Code de la sécurité sociale. - art. L136-6 (M)
-	  - Code de la sécurité sociale. - art. L136-7 (M)
-	  - Code de la sécurité sociale. - art. L136-7-1 (M)
-	  - Code de l'action sociale et des familles - art. L232-2 (M)
 
 
 ##### Section 4 : Dispositions communes.
@@ -26374,6 +26308,17 @@ La commission territoriale, présidée par le président du tribunal de premièr
 le remplacer, comprend trois conseillers généraux désignés par le conseil général et trois fonctionnaires de l'Etat en
 activité ou à la retraite désignés par le représentant du Gouvernement.
 
+Le secrétaire de la commission territoriale de l'aide sociale assure les fonctions de rapporteur. Il a voix délibérative sur
+les affaires qu'il rapporte. Il peut être remplacé par un rapporteur adjoint.
+
+Un commissaire du Gouvernement, désigné par le représentant du Gouvernement, donne ses conclusions sur les affaires que le
+président lui confie. Il ne prend pas part au vote.
+
+En cas de partage égal des voix, celle du président est prépondérante.
+
+Le secrétaire et le rapporteur adjoint sont désignés par le président de la commission, sur proposition du représentant du
+Gouvernement.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -26383,8 +26328,7 @@ activité ou à la retraite désignés par le représentant du Gouvernement.
 
 	**Modifié par**:
 
-	  - Loi n°2002-93 2002-01-22 art. 8 A I, II JORF 23 janvier 2002
-	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
+	  - Loi n°2004-626 du 30 juin 2004 - art. 18 () JORF 1er juillet 2004
 
 	**Cité par**:
 
