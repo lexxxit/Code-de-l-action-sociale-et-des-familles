@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2002-02-28
+Version Consolidée au 2002-03-05
 
 # Partie législative
 
@@ -15270,7 +15270,7 @@ participation.
 ###### Article L311-9
 
 En vue d'assurer le respect du droit à une vie familiale des membres des familles accueillies dans les établissements ou
-services mentionnés aux 1° et 7° de l'article L. 312-1, ces établissements ou services doivent rechercher une solution
+services mentionnés aux 1° et 8° de l'article L. 312-1, ces établissements ou services doivent rechercher une solution
 évitant la séparation de ces personnes ou, si une telle solution ne peut être trouvée, établir, de concert avec les personnes
 accueillies, un projet propre à permettre leur réunion dans les plus brefs délais, et assurer le suivi de ce projet jusqu'à
 ce qu'il aboutisse.
@@ -15285,9 +15285,9 @@ familial du département et prévoit les moyens pour y répondre.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 13 () JORF 3 janvier 2002
+	  - Loi n°2002-303 du 4 mars 2002 - art. 40 () JORF 5 mars 2002
 
 	**Cité par**:
 
@@ -15363,7 +15363,7 @@ II. - Les conditions techniques minimales d'organisation et de fonctionnement de
 catégories mentionnées au présent article, à l'exception du 12° du I, sont définies par décret après avis du Conseil
 supérieur des établissements et services sociaux et médico-sociaux visé à l'article L. 312-2.
 
-Les établissements mentionnés aux 1°, 2°, 6° et 8° du I s'organisent en unités de vie favorisant le confort et la qualité de
+Les établissements mentionnés aux 1°, 2°, 6° et 7° du I s'organisent en unités de vie favorisant le confort et la qualité de
 séjour des personnes accueillies, dans des conditions et des délais fixés par décret.
 
 Les prestations délivrées par les établissements et services mentionnés aux 1° à 12° du I sont réalisées par des équipes
@@ -16041,10 +16041,7 @@ ces structures peuvent accueillir.
 
 	**Modifié par**:
 
-	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 14 I, II, art. 15 JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 14 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 15 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-303 du 4 mars 2002 - art. 40 () JORF 5 mars 2002
 
 	**Liens**:
 
@@ -17153,9 +17150,8 @@ L'autorisation initiale est accordée si le projet :
 sociale et médico-sociale dont il relève et, pour les établissements visés au b du 5° du I de l'article L. 312-1, aux besoins
 et débouchés recensés en matière de formation professionnelle ;
 
-2° Satisfait aux règles d'organisation et de fonctionnement prévues par la loi n° 2002-2 du 2 janvier 2002 précitée ou pour
-son application et prévoit les démarches d'évaluation et les systèmes d'information respectivement prévus aux articles L.
-312-8 et L. 312-9 ;
+2° Satisfait aux règles d'organisation et de fonctionnement prévues par le présent code et prévoit les démarches d'évaluation
+et les systèmes d'information respectivement prévus aux articles L. 312-8 et L. 312-9 ;
 
 3° Présente un coût de fonctionnement qui n'est pas hors de proportion avec le service rendu ou les coûts des établissements
 et services fournissant des prestations comparables ;
@@ -17209,22 +17205,18 @@ conditions déterminées par décret en Conseil d'Etat.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-303 du 4 mars 2002 - art. 40 () JORF 5 mars 2002
+
 	**Cite**:
 
-	  - Loi n°2002-2 2002-01-02
 	  - Code de l'action sociale et des familles - art. L312-8 (M)
 	  - Code de l'action sociale et des familles - art. L312-9 (M)
 	  - Code de l'action sociale et des familles - art. L313-1 (M)
 	  - Code de l'action sociale et des familles - art. L313-8 (M)
 	  - Code de l'action sociale et des familles - art. L314-3 (M)
 	  - Code de l'action sociale et des familles - art. L314-4 (M)
-
-	**Modifié par**:
-
-	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, II, art. 28 JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 28 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 
 ###### Article L313-5
@@ -18357,8 +18349,6 @@ Les personnes physiques coupables des infractions au présent article encourent 
 d'interdiction, suivant les modalités de l'article L. 131-27 du code pénal, d'exploiter ou de diriger tout établissement ou
 service soumis aux dispositions du présent titre.
 
-En cas de licenciement, le juge peut prononcer la réintégration du salarié concerné si celui-ci le demande.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -18366,12 +18356,9 @@ En cas de licenciement, le juge peut prononcer la réintégration du salarié co
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, VI, art. 47 JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 47 () JORF 3 janvier 2002
+	  - Loi n°2002-303 du 4 mars 2002 - art. 40 () JORF 5 mars 2002
 
 	**Cite**:
 
@@ -19082,6 +19069,12 @@ L'accueil temporaire est défini par voie réglementaire.
 Les dépenses de fonctionnement des appartements de coordination thérapeutique mentionnés au 9° du I de l'article L. 312-1
 sont prises en charge par les régimes d'assurance maladie, sans préjudice d'une participation des collectivités locales.
 
+Dans les établissements et services visés au 6° du I de l'article L. 312-1 qui ne disposent pas de pharmacie à usage
+intérieur, les prestations de soins mentionnées au 1° de l'article L. 314-2 ne comprennent pas l'achat, la fourniture, la
+prise en charge et l'utilisation des médicaments inscrits sur la liste des spécialités pharmaceutiques remboursables
+mentionnée à l'article L. 162-17 du code de la sécurité sociale, ni ceux des produits et prestations mentionnés à l'article
+L. 165-1 du même code.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -19120,11 +19113,14 @@ sont prises en charge par les régimes d'assurance maladie, sans préjudice d'un
 
 	**Modifié par**:
 
-	  - Loi n°2002-73 du 17 janvier 2002 - art. 88 (V) JORF 18 janvier 2002
+	  - Loi n°2002-303 du 4 mars 2002 - art. 96 () JORF 5 mars 2002
 
 	**Cite**:
 
+	  - Code de la sécurité sociale. - art. L162-17 (M)
+	  - Code de la sécurité sociale. - art. L165-1 (MMN)
 	  - Code de l'action sociale et des familles - art. L312-1 (M)
+	  - Code de l'action sociale et des familles - art. L314-2 (M)
 
 
 ###### Article L314-9
@@ -21639,7 +21635,9 @@ selon qu'il travaille ou non. Ce minimum est majoré, le cas échéant, du monta
 2° Et, pour le surplus éventuel, de l'aide sociale sans qu'il soit tenu compte de la participation pouvant être demandée aux
 personnes tenues à l'obligation alimentaire à l'égard de l'intéressé, et sans qu'il y ait lieu à l'application des
 dispositions relatives au recours en récupération des prestations d'aide sociale lorsque les héritiers du bénéficiaire décédé
-sont son conjoint, ses enfants ou la personne qui a assumé, de façon effective et constante, la charge du handicapé.
+sont son conjoint, ses enfants ou la personne qui a assumé, de façon effective et constante, la charge du handicapé. Les
+sommes versées, au titre de l'aide sociale dans ce cadre, ne font pas l'objet d'un recouvrement à l'encontre du bénéficiaire
+lorsque celui-ci est revenu à meilleure fortune.
 
 **Liens relatifs à cet article**
 
@@ -21654,7 +21652,7 @@ sont son conjoint, ses enfants ou la personne qui a assumé, de façon effective
 
 	**Modifié par**:
 
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-303 du 4 mars 2002 - art. 2 () JORF 5 mars 2002
 
 	**Cité par**:
 
@@ -25106,13 +25104,13 @@ par voie réglementaire, aux départements d'outre-mer.
 ###### Article L531-1
 
 Ne sont pas applicables à la collectivité territoriale de Saint-Pierre-et-Miquelon les dispositions suivantes du présent
-code :
+code : 
 
-1° L'article L. 241-2 ;
+1° L'article L. 241-2 ; 
 
-2° L'article L. 243-3 ;
+2° (Abrogé) 
 
-3° L'article L. 245-10 ;
+3° (Abrogé) 
 
 4° Le titre V du livre III.
 
@@ -25120,7 +25118,6 @@ code :
 
 	**Anciens textes**:
 
-	  - Ordonnance 77-1102 1977-09-26 art. 1
 	  - Ordonnance n°77-1102 du 26 septembre 1977 - art. 1 (Ab)
 
 	**Codifié par**:
@@ -25128,11 +25125,13 @@ code :
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-303 du 4 mars 2002 - art. 117 () JORF 5 mars 2002
+
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L241-2 (V)
-	  - Code de l'action sociale et des familles - art. L243-3 (Ab)
-	  - Code de l'action sociale et des familles - art. L245-10 (M)
 
 
 ###### Article L531-2
@@ -25245,7 +25244,8 @@ dispositions ayant le même objet applicable localement.
 ###### Article L531-6
 
 Des décrets en Conseil d'Etat fixent en tant que de besoin les conditions particulières d'adaptation des dispositions
-législatives applicables à la collectivité de Saint-Pierre-et-Miquelon.
+législatives applicables à la collectivité de Saint-Pierre-et-Miquelon et notamment celles relatives au comité régional de
+l'organisation sociale et médico-sociale.
 
 **Liens relatifs à cet article**
 
@@ -25253,6 +25253,10 @@ législatives applicables à la collectivité de Saint-Pierre-et-Miquelon.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-303 du 4 mars 2002 - art. 118 () JORF 5 mars 2002
 
 
 ### Titre IV : Mayotte
