@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2002-03-05
+Version Consolidée au 2002-09-05
 
 # Partie législative
 
@@ -16211,6 +16211,8 @@ ces structures peuvent accueillir.
 	  - TXT_SOURCE: Décret n°2003-1010 du 22 octobre 2003 - art. 99 (Ab)
 
 
+##### Section 2 : Organismes consultatifs
+
 ###### Article L312-2
 
 Il est créé un Conseil supérieur des établissements et services sociaux et médico-sociaux, compétent pour donner un avis sur
@@ -16236,38 +16238,64 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 	**Modifié par**:
 
-	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 14 I, II, art. 16 JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 14 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 16 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-303 du 4 mars 2002 - art. 39 () JORF 5 mars 2002 en vigueur le 5 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2003-850 du 4 septembre 2003 - art. 26 () JORF 6 septembre 2003
 
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. L312-1 (M)
 
 
-##### Section 2 : Evaluation et analyse des besoins et programmation des actions
-
 ###### Article L312-3
 
-Les sections sociales du Comité national et des comités régionaux de l'organisation sanitaire et sociale mentionnés à
-l'article L. 6121-9 du code de la santé publique se réunissent au moins une fois par an en formation élargie en vue :
+I. - La section sociale du Comité national de l'organisation sanitaire et sociale mentionnée à l'article L. 6121-9 du code de
+la santé publique et les comités régionaux de l'organisation sociale et médico-sociale se réunissent au moins une fois par an
+en formation élargie en vue :
 
 1° D'évaluer les besoins sociaux et médico-sociaux et d'analyser leur évolution ;
 
 2° De proposer des priorités pour l'action sociale et médico-sociale.
 
-Tous les cinq ans, ces sections élaborent un rapport qui est transmis, selon le cas, aux ministres et aux autorités locales
+Tous les cinq ans, ces organismes élaborent un rapport qui est transmis, selon le cas, aux ministres et aux autorités locales
 concernées.
 
 Chaque année, le ministre chargé des affaires sociales présente un rapport à la section sociale du Comité national de
 l'organisation sanitaire et sociale sur la mise en oeuvre des mesures prévues par les lois de finances et les lois de
 financement de la sécurité sociale concernant l'action sociale ou médico-sociale.
 
-Lorsque le comité régional de l'organisation sanitaire et sociale rend un avis sur un schéma départemental d'organisation
-sociale et médico-sociale dans les conditions prévues à l'article L. 312-5 ou sur une autorisation de fonctionnement délivrée
-par le président du conseil général dans les conditions prévues à l'article L. 313-3, le ou les départements concernés par le
-schéma ou l'implantation de l'établissement ou du service sont représentés lors de la délibération avec voix consultative.
+II. - Les comités régionaux de l'organisation sociale et médico-sociale comprennent :
+
+1° Des représentants de l'Etat, des collectivités territoriales et des organismes de sécurité sociale ;
+
+2° Des représentants des personnes morales gestionnaires d'établissements et de services sociaux et médico-sociaux, notamment
+des établissements spécialisés ;
+
+3° Des représentants des personnels de ces établissements et services ;
+
+4° Des représentants des usagers de ces établissements et services ;
+
+5° Des représentants des travailleurs sociaux et des professions de santé ;
+
+6° Des personnes qualifiées ;
+
+7° Des représentants du conseil régional de santé.
+
+Lorsque le comité régional rend un avis sur un schéma départemental d'organisation sociale et médico-sociale dans les
+conditions prévues à l'article L. 312-5 ou sur une autorisation de fonctionnement délivrée par le président du conseil
+général dans les conditions prévues à l'article L. 313-3, le ou les départements concernés par le schéma ou l'implantation de
+l'établissement ou du service sont représentés lors de la délibération avec voix consultative.
+
+Les comités régionaux sont présidés par un magistrat du corps des conseillers des cours administratives d'appel et des
+tribunaux administratifs ou du corps des conseillers de chambres régionales des comptes.
+
+Les comités régionaux de l'organisation sociale et médico-sociale peuvent siéger conjointement avec les sections de
+l'organisation sanitaire des conseils régionaux de santé.
+
+La composition et les modalités de fonctionnement des comités régionaux de l'organisation sociale et médico-sociale sont
+fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -16282,10 +16310,8 @@ schéma ou l'implantation de l'établissement ou du service sont représentés l
 
 	**Modifié par**:
 
-	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 14 I, III, art. 17 JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 14 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 17 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-303 2002-03-04 art. 39 I, III JORF 5 mars 2002 en vigueur le 5 septembre 2002
+	  - Loi n°2002-303 du 4 mars 2002 - art. 39 () JORF 5 mars 2002 en vigueur le 5 septembre 2002
 
 	**Cite**:
 
@@ -16406,7 +16432,7 @@ du I de l'article L. 312-1, autres que ceux devant figurer dans les schémas nat
 Les schémas élaborés au niveau national sont arrêtés par le ministre chargé des affaires sociales, après avis du Comité
 national de l'organisation sanitaire et sociale.
 
-Les schémas départementaux sont arrêtés après avis du comité régional de l'organisation sanitaire et sociale et d'une
+Les schémas départementaux sont arrêtés après avis du comité régional de l'organisation sociale et médico-sociale et d'une
 commission départementale consultative comprenant notamment des représentants des collectivités territoriales, des
 professions sanitaires et sociales, des institutions sociales et médico-sociales et des personnes accueillies par ces
 institutions ou susceptibles de l'être. Un décret fixe la composition et les modalités de fonctionnement de cette commission.
@@ -16430,24 +16456,25 @@ arrêter ledit schéma.
 
 Les éléments des schémas départementaux d'une même région, afférents aux établissements et services relevant de la compétence
 de l'Etat, sont regroupés dans un schéma régional fixé par le représentant de l'Etat dans la région, après avis du comité
-régional de l'organisation sanitaire et sociale et transmis pour information aux présidents des conseils généraux concernés.
+régional de l'organisation sociale et médico-sociale et transmis pour information aux présidents des conseils généraux
+concernés.
 
 Le représentant de l'Etat dans la région arrête les schémas régionaux relatifs :
 
 a) Aux centres de soins, d'accompagnement et de prévention en addictologie mentionnés au 9° du I de l'article L. 312-1 après
-avis du comité régional de l'organisation sanitaire et sociale ;
+avis du comité régional de l'organisation sociale et médico-sociale ;
 
 b) Aux centres de rééducation professionnelle mentionnés au b du 5° du I de l'article L. 312-1 après avis du comité régional
-de l'organisation sanitaire et sociale, du comité de coordination régional de l'emploi et de la formation professionnelle et
-du conseil régional.
+de l'organisation sociale et médico-sociale, du comité de coordination régional de l'emploi et de la formation
+professionnelle et du conseil régional.
 
 Ces schémas sont intégrés au schéma régional précité.
 
-Les schémas à caractère national sont transmis pour information aux comités régionaux de l'organisation sanitaire et sociale
-et aux conférences régionales de santé.
+Les schémas à caractère national sont transmis pour information aux comités régionaux de l'organisation sociale et médico-
+sociale et aux conseils régionaux de santé.
 
-Les schémas départementaux et les schémas régionaux sont transmis pour information à la conférence régionale de santé et au
-comité régional de l'organisation sanitaire et sociale.
+Les schémas départementaux et les schémas régionaux sont transmis pour information au conseil régional de santé et au comité
+régional de l'organisation sociale et médico-sociale.
 
 **Liens relatifs à cet article**
 
@@ -16465,13 +16492,6 @@ comité régional de l'organisation sanitaire et sociale.
 	  - Loi n°2002-2 2002-01-02
 	  - Code de la sécurité sociale. - art. L162-24-1 (M)
 	  - Code de l'action sociale et des familles - art. L312-1 (M)
-
-	**Modifié par**:
-
-	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 14 I, IV, art. 19 JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 14 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 19 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -16513,6 +16533,11 @@ comité régional de l'organisation sanitaire et sociale.
 	  - Code de la santé publique - art. L1434-12 (V)
 	  - Code de la santé publique - art. L1434-3 (V)
 	  - Code de la santé publique - art. R1423-10 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2002-303 2002-03-04 art. 39 II 1°, 2° JORF 5 mars 2002 en vigueur le 5 septembre 2002
+	  - Loi n°2002-303 du 4 mars 2002 - art. 39 () JORF 5 mars 2002 en vigueur le 5 septembre 2002
 
 
 ##### Section 4 : Coordination des interventions
@@ -16837,9 +16862,10 @@ Les modalités d'application du présent article sont fixées par décret en Con
 La création, la transformation ou l'extension des établissements et services mentionnés à l'article L. 312-1 sont soumises à
 autorisation.
 
-Le comité de l'organisation sanitaire et sociale compétent émet un avis sur tous les projets de création ainsi que sur les
-projets de transformation et d'extension portant sur une capacité supérieure à un seuil fixé par décret en Conseil d'Etat
-d'établissements ou de services de droit public ou privé. Cet avis peut être rendu selon une procédure simplifiée.
+La section sociale du Comité national de l'organisation sanitaire et sociale ou le comité régional de l'organisation sociale
+et médico-sociale compétent émet un avis sur tous les projets de création ainsi que sur les projets de transformation et
+d'extension portant sur une capacité supérieure à un seuil fixé par décret en Conseil d'Etat d'établissements ou de services
+de droit public ou privé. Cet avis peut être rendu selon une procédure simplifiée.
 
 En outre, le comité de coordination régional de l'emploi et de la formation professionnelle et le conseil régional émettent
 un avis sur tous les projets de création, d'extension ou de transformation des établissements visés au b du 5° du I de
@@ -16977,7 +17003,7 @@ handicapées adultes.
 
 	**Modifié par**:
 
-	  - Loi n°2002-73 du 17 janvier 2002 - art. 51 () JORF 18 janvier 2002
+	  - Loi n°2002-303 du 4 mars 2002 - art. 39 () JORF 5 mars 2002 en vigueur le 5 septembre 2002
 
 	**Cite**:
 
@@ -16994,9 +17020,9 @@ gestion.
 Les demandes d'autorisation portant sur des établissements ou des services de même nature sont reçues au cours de périodes
 déterminées par décret en Conseil d'Etat, afin d'être examinées sans qu'il soit tenu compte de leur ordre de dépôt.
 
-Le calendrier d'examen de ces demandes par la section sociale du comité régional de l'organisation sanitaire et sociale est
-fixé par le représentant de l'Etat dans la région, après avis des présidents des conseils généraux concernés. Ce calendrier
-doit être compatible avec celui des périodes mentionnées à l'alinéa précédent.
+Le calendrier d'examen de ces demandes par le comité régional de l'organisation sociale et médico-sociale est fixé par le
+représentant de l'Etat dans la région, après avis des présidents des conseils généraux concernés. Ce calendrier doit être
+compatible avec celui des périodes mentionnées à l'alinéa précédent.
 
 Lorsque les dotations mentionnées au 4° de l'article L. 313-4 ne permettent pas de financer la totalité des dépenses
 susceptibles d'être engendrées par les projets faisant l'objet des demandes d'autorisation, l'autorité compétente procède au
@@ -17037,10 +17063,7 @@ A défaut de notification des motifs justifiant le rejet de la demande, l'autori
 
 	**Modifié par**:
 
-	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, II, art. 26 JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 26 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-303 du 4 mars 2002 - art. 39 () JORF 5 mars 2002 en vigueur le 5 septembre 2002
 
 
 ###### Article L313-3
@@ -17325,7 +17348,7 @@ sociale, les établissements et services à caractère expérimental mentionnés
 sont autorisés soit, après avis du Comité national de l'organisation sanitaire et sociale institué par l'article L. 6121-9 du
 code de la santé publique, par le ministre chargé de l'action sociale, soit par le représentant de l'Etat dans le
 département, soit par le président du conseil général ou conjointement par ces deux dernières autorités, après avis du comité
-régional de l'organisation sanitaire et sociale.
+régional de l'organisation sociale et médico-sociale.
 
 Ces autorisations sont accordées pour une durée déterminée, qui ne peut être supérieure à cinq ans. Elles sont renouvelables
 une fois au vu des résultats positifs d'une évaluation. Au terme de la période ouverte par le renouvellement et au vu d'une
@@ -17345,10 +17368,7 @@ quatrième alinéa de l'article L. 313-1.
 
 	**Modifié par**:
 
-	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, II, art. 31 JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 31 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-303 du 4 mars 2002 - art. 39 () JORF 5 mars 2002 en vigueur le 5 septembre 2002
 
 	**Cité par**:
 
@@ -17713,8 +17733,9 @@ pour une partie de leur capacité sont autorisés à dispenser des soins aux ass
 dès conclusion de la convention prévue au I.
 
 Pour les autres établissements mentionnés au I, régulièrement autorisés avant le 1er janvier 2001, un arrêté du ministre
-chargé des personnes âgées fixe les conditions dans lesquelles sera recueilli l'avis du comité régional de l'organisation
-sanitaire et sociale nécessaire à la délivrance de l'autorisation de dispenser des soins.
+chargé des personnes âgées fixe les conditions dans lesquelles sera recueilli selon les cas, l'avis du conseil régional de
+santé ou celui du comité régional de l'organisation sociale et médico-sociale nécessaire à la délivrance de l'autorisation de
+dispenser des soins.
 
 V. - Le personnel des établissements publics mentionnés au I peut comprendre des médecins, des biologistes, des
 odontologistes et des pharmaciens visés par l'article L. 6152-1 du code de la santé publique. Les établissements privés
@@ -17929,10 +17950,7 @@ mentionnés au I peuvent faire appel à ces praticiens dans les conditions prév
 
 	**Modifié par**:
 
-	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, IV, art. 37 JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 37 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-303 du 4 mars 2002 - art. 39 () JORF 5 mars 2002 en vigueur le 5 septembre 2002
 
 	**Cite**:
 
@@ -18170,7 +18188,7 @@ La fermeture définitive du service ou de l'établissement vaut retrait de l'aut
 
 Cette autorisation peut être transférée par le représentant de l'Etat dans le département à une collectivité publique ou un
 établissement privé poursuivant un but similaire, lorsque la fermeture définitive a été prononcée sur l'un des motifs
-énumérés à l'article L. 313-16. Le comité régional de l'organisation sanitaire et sociale compétent est informé de ce
+énumérés à l'article L. 313-16. Le comité régional de l'organisation sociale et médico-sociale compétent est informé de ce
 transfert.
 
 **Liens relatifs à cet article**
@@ -18180,12 +18198,9 @@ transfert.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, V, art. 43 JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 43 () JORF 3 janvier 2002
+	  - Loi n°2002-303 du 4 mars 2002 - art. 39 () JORF 5 mars 2002 en vigueur le 5 septembre 2002
 
 	**Cité par**:
 
