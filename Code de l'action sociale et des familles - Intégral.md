@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2002-01-23
+Version Consolidée au 2002-02-28
 
 # Partie législative
 
@@ -11034,13 +11034,12 @@ Une allocation compensatrice est accordée à tout handicapé dont l'âge est in
 bénéficie pas d'un avantage analogue au titre d'un régime de sécurité sociale lorsque son incapacité permanente est au moins
 égale au pourcentage fixé par le décret prévu à l'article L. 821-1 du code de la sécurité sociale, soit que son état
 nécessite l'aide effective d'une tierce personne pour les actes essentiels de l'existence, soit que l'exercice d'une activité
-professionnelle lui impose des frais supplémentaires.
+professionnelle ou d'une fonction élective lui impose des frais supplémentaires.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°75-534 1975-06-30 art. 39 par. 1 al. 1
 	  - Loi n°75-534 du 30 juin 1975 - art. 39 (Ab)
 
 	**Cité par**:
@@ -11121,6 +11120,10 @@ professionnelle lui impose des frais supplémentaires.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 88 () JORF 28 février 2002
 
 	**Cite**:
 
@@ -25333,84 +25336,6 @@ mots : "à l'organe exécutif de la collectivité départementale".
 	  - Code de la famille et de l'aide sociale. - art. 243 (Ab)
 
 
-#### Chapitre Ier : Aide sociale.
-
-###### Article L541-3
-
-La commission d'admission comprend, outre le représentant du Gouvernement ou son suppléant choisi par lui parmi les
-fonctionnaires de l'Etat, président, le conseiller général du canton dont fait partie la commune où la demande a été déposée
-ou un conseiller général suppléant désigné par le conseil général, le maire de la commune concernée ou un conseiller
-municipal de cette commune, suppléant désigné par le conseil municipal.
-
-En cas de partage égal des voix, celle du président est prépondérante.
-
-Peuvent être appelées à siéger avec voix consultative des personnes compétentes en matière d'aide sociale, désignées par le
-représentant du Gouvernement sur avis conforme du conseil général.
-
-Le demandeur, accompagné, le cas échéant, d'une personne de son choix, est entendu à sa demande par la commission.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Transféré par**:
-
-	  - Loi n°2002-93 2002-01-22 art. 8 A I, II JORF 23 janvier 2002
-	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
-
-	**Anciens textes**:
-
-	  - Code de la famille et de l'aide sociale. - art. 244 (Ab)
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. L541-1 (T)
-	  - Code de l'action sociale et des familles - art. L541-8 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L542-3 (M)
-	  - Code de l'action sociale et des familles - art. L542-3 (V)
-
-
-###### Article L541-4
-
-Un recours peut être formé devant une commission territoriale de l'aide sociale contre les décisions de la commission
-d'admission.
-
-La commission territoriale, présidée par le président du tribunal de première instance ou le magistrat désigné par lui pour
-le remplacer, comprend trois conseillers généraux désignés par le conseil général et trois fonctionnaires de l'Etat en
-activité ou à la retraite désignés par le représentant du Gouvernement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Transféré par**:
-
-	  - Loi n°2002-93 2002-01-22 art. 8 A I, II JORF 23 janvier 2002
-	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
-
-	**Anciens textes**:
-
-	  - Code de la famille et de l'aide sociale 245 al. 1, 2
-	  - Code de la famille et de l'aide sociale. - art. 2 (Ab)
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. L541-6 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L542-4 (V)
-
-
 #### Chapitre II : Aide sociale.
 
 ###### Article L542-1
@@ -26350,46 +26275,6 @@ Pour l'application à Mayotte de l'article L. 224-7, la référence :
 	**Anciens textes**:
 
 	  - Code de la famille et de l'aide sociale. - art. 254 (Ab)
-
-
-#### Chapitre IV : Dispositions communes.
-
-###### Article L544-5
-
-Pour l'application des dispositions des autres livres du présent code, les mots énumérés ci-dessous sont respectivement
-remplacés par les mots suivants :
-
-- " département " par " collectivité territoriale " ;
-
-- " président du conseil général " par " représentant du Gouvernement " ;
-
-- " représentant de l'Etat dans le département " par " représentant du Gouvernement ".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Transféré par**:
-
-	  - Loi n°2002-93 2002-01-22 art. 8 A I, VI 1° JORF 23 janvier 2002
-	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
-
-	**Cité par**:
-
-	  - Loi n°2011-1977 du 28 décembre 2011 - art. 39 (V)
-	  - Ordonnance n°2012-785 du 31 mai 2012 - art. 9 (V)
-
-	**Anciens textes**:
-
-	  - Code de la famille et de l'aide sociale. - art. 255 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L545-5 (Ab)
-	  - Code de l'action sociale et des familles - art. L545-5 (V)
 
 
 #### Chapitre V : Dispositions communes.
