@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2003-08-02
+Version Consolidée au 2003-09-06
 
 # Partie législative
 
@@ -2990,57 +2990,6 @@ sociale.
 
 
 ### Titre IV : Institutions
-
-#### Chapitre II : Conseil supérieur de l'aide sociale.
-
-###### Article L142-1
-
-Le Conseil supérieur de l'aide sociale est chargé de l'étude et de l'examen de toutes les questions qui lui sont soumises par
-le ministre chargé de l'action sociale et qui intéressent l'organisation, le fonctionnement et le développement de l'aide
-sociale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2003-850 du 4 septembre 2003 - art. 27 () JORF 6 septembre 2003
-
-	**Cité par**:
-
-	  - Décret n°2016-853 du 28 juin 2016 - art. 1 (V)
-	  - Code de l'action sociale et des familles - art. D148-3 (V)
-	  - Code de l'action sociale et des familles - art. L149-1 (V)
-
-	**Anciens textes**:
-
-	  - Code de la famille et de l'aide sociale. - art. 199 (Ab)
-
-
-###### Article L142-2
-
-La composition et le mode de désignation du Conseil supérieur de l'aide sociale et de ses sections, les attributions de ces
-dernières sont déterminés par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2003-850 du 4 septembre 2003 - art. 27 () JORF 6 septembre 2003
-
-	**Anciens textes**:
-
-	  - Code de la famille et de l'aide sociale. - art. 200 (Ab)
-
 
 #### Chapitre III : Conseil national des politiques de lutte contre la pauvreté et l'exclusion sociale.
 
@@ -15142,10 +15091,9 @@ les catégories d'établissements et de personnes accueillies.
 
 Toute personne prise en charge par un établissement ou un service social ou médico-social ou son représentant légal peut
 faire appel, en vue de l'aider à faire valoir ses droits, à une personne qualifiée qu'elle choisit sur une liste établie
-conjointement par le représentant de l'Etat dans le département et le président du conseil général après avis de la
-commission départementale consultative mentionnée à l'article L. 312-5. La personne qualifiée rend compte de ses
-interventions aux autorités chargées du contrôle des établissements ou services concernés, à l'intéressé ou à son
-représentant légal dans des conditions fixées par décret en Conseil d'Etat.
+conjointement par le représentant de l'Etat dans le département et le président du conseil général. La personne qualifiée
+rend compte de ses interventions aux autorités chargées du contrôle des établissements ou services concernés, à l'intéressé
+ou à son représentant légal dans des conditions fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -15160,9 +15108,7 @@ représentant légal dans des conditions fixées par décret en Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2002-2 2002-01-02 art. 4 I, II, art. 9 JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 9 () JORF 3 janvier 2002
+	  - Ordonnance n°2003-850 du 4 septembre 2003 - art. 29 () JORF 6 septembre 2003
 
 	**Cité par**:
 
@@ -15431,8 +15377,8 @@ accueil familial ou dans une structure de prise en charge. Ils assurent l'accuei
 mode séquentiel, à temps complet ou partiel, avec ou sans hébergement, en internat, semi-internat ou externat.
 
 II. - Les conditions techniques minimales d'organisation et de fonctionnement des établissements et services relevant des
-catégories mentionnées au présent article, à l'exception du 12° du I, sont définies par décret après avis du Conseil
-supérieur des établissements et services sociaux et médico-sociaux visé à l'article L. 312-2.
+catégories mentionnées au présent article, à l'exception du 12° du I, sont définies par décret après avis de la section
+sociale du Comité national de l'organisation sanitaire et sociale.
 
 Les établissements mentionnés aux 1°, 2°, 6° et 7° du I s'organisent en unités de vie favorisant le confort et la qualité de
 séjour des personnes accueillies, dans des conditions et des délais fixés par décret.
@@ -16112,7 +16058,7 @@ ces structures peuvent accueillir.
 
 	**Modifié par**:
 
-	  - Loi n°2002-303 du 4 mars 2002 - art. 40 () JORF 5 mars 2002
+	  - Ordonnance n°2003-850 du 4 septembre 2003 - art. 26 () JORF 6 septembre 2003
 
 	**Liens**:
 
@@ -16284,42 +16230,6 @@ ces structures peuvent accueillir.
 
 ##### Section 2 : Organismes consultatifs
 
-###### Article L312-2
-
-Il est créé un Conseil supérieur des établissements et services sociaux et médico-sociaux, compétent pour donner un avis sur
-les problèmes généraux relatifs à l'organisation de ce secteur, notamment sur les questions concernant le fonctionnement
-administratif, financier et médical des établissements et services sociaux et médico-sociaux.
-
-Il est composé de parlementaires, de représentants de l'Etat, des organismes de sécurité sociale et des collectivités
-territoriales intéressées, des personnes morales gestionnaires d'établissements et de services sociaux et médico-sociaux, des
-personnels, des usagers et de personnalités qualifiées. Il est présidé par un parlementaire.
-
-Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°75-535 du 30 juin 1975 - art. 7 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Modifié par**:
-
-	  - Loi n°2002-303 du 4 mars 2002 - art. 39 () JORF 5 mars 2002 en vigueur le 5 septembre 2002
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2003-850 du 4 septembre 2003 - art. 26 () JORF 6 septembre 2003
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. L312-1 (M)
-
-
 ###### Article L312-3
 
 I. - La section sociale du Comité national de l'organisation sanitaire et sociale mentionnée à l'article L. 6121-9 du code de
@@ -16336,6 +16246,10 @@ concernées.
 Chaque année, le ministre chargé des affaires sociales présente un rapport à la section sociale du Comité national de
 l'organisation sanitaire et sociale sur la mise en oeuvre des mesures prévues par les lois de finances et les lois de
 financement de la sécurité sociale concernant l'action sociale ou médico-sociale.
+
+La section sociale du Comité national de l'organisation sanitaire et sociale est consultée par le ministre chargé des
+affaires sociales sur les problèmes généraux relatifs à l'organisation des établissements et services mentionnés à l'article
+L. 312-1, notamment sur les questions concernant leur fonctionnement administratif et financier.
 
 II. - Les comités régionaux de l'organisation sociale et médico-sociale comprennent :
 
@@ -16381,12 +16295,12 @@ fixées par décret en Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2002-303 2002-03-04 art. 39 I, III JORF 5 mars 2002 en vigueur le 5 septembre 2002
-	  - Loi n°2002-303 du 4 mars 2002 - art. 39 () JORF 5 mars 2002 en vigueur le 5 septembre 2002
+	  - Ordonnance n°2003-850 du 4 septembre 2003 - art. 26 () JORF 6 septembre 2003
 
 	**Cite**:
 
 	  - Code de la santé publique - art. L6121-9 (M)
+	  - Code de l'action sociale et des familles - art. L312-1 (M)
 	  - Code de l'action sociale et des familles - art. L312-5 (M)
 
 	**Cité par**:
@@ -16503,10 +16417,7 @@ du I de l'article L. 312-1, autres que ceux devant figurer dans les schémas nat
 Les schémas élaborés au niveau national sont arrêtés par le ministre chargé des affaires sociales, après avis du Comité
 national de l'organisation sanitaire et sociale.
 
-Les schémas départementaux sont arrêtés après avis du comité régional de l'organisation sociale et médico-sociale et d'une
-commission départementale consultative comprenant notamment des représentants des collectivités territoriales, des
-professions sanitaires et sociales, des institutions sociales et médico-sociales et des personnes accueillies par ces
-institutions ou susceptibles de l'être. Un décret fixe la composition et les modalités de fonctionnement de cette commission.
+Les schémas départementaux sont arrêtés après avis du comité régional de l'organisation sociale et médico-sociale.
 
 Le schéma départemental est arrêté conjointement par le représentant de l'Etat dans le département et par le président du
 conseil général. A défaut d'accord entre le représentant de l'Etat dans le département et le président du conseil général,
@@ -16607,8 +16518,7 @@ régional de l'organisation sociale et médico-sociale.
 
 	**Modifié par**:
 
-	  - Loi n°2002-303 2002-03-04 art. 39 II 1°, 2° JORF 5 mars 2002 en vigueur le 5 septembre 2002
-	  - Loi n°2002-303 du 4 mars 2002 - art. 39 () JORF 5 mars 2002 en vigueur le 5 septembre 2002
+	  - Ordonnance n°2003-850 du 4 septembre 2003 - art. 29 () JORF 6 septembre 2003
 
 
 ##### Section 4 : Coordination des interventions
@@ -17098,10 +17008,6 @@ Le calendrier d'examen de ces demandes par le comité régional de l'organisatio
 représentant de l'Etat dans la région, après avis des présidents des conseils généraux concernés. Ce calendrier doit être
 compatible avec celui des périodes mentionnées à l'alinéa précédent.
 
-Lorsque les dotations mentionnées au 4° de l'article L. 313-4 ne permettent pas de financer la totalité des dépenses
-susceptibles d'être engendrées par les projets faisant l'objet des demandes d'autorisation, l'autorité compétente procède au
-classement desdites demandes selon des critères fixés par décret en Conseil d'Etat.
-
 L'absence de notification d'une réponse dans le délai de six mois suivant la date d'expiration de l'une des périodes de
 réception mentionnées à l'alinéa précédent vaut rejet de la demande d'autorisation.
 
@@ -17137,7 +17043,7 @@ A défaut de notification des motifs justifiant le rejet de la demande, l'autori
 
 	**Modifié par**:
 
-	  - Loi n°2002-303 du 4 mars 2002 - art. 39 () JORF 5 mars 2002 en vigueur le 5 septembre 2002
+	  - Ordonnance n°2003-850 du 4 septembre 2003 - art. 28 () JORF 6 septembre 2003
 
 
 ###### Article L313-3
