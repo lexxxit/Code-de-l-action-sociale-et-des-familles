@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2004-01-01 00:00:01 +0100
+Version Consolidée au 2004-01-03
 
 # Partie législative
 
@@ -2224,12 +2224,18 @@ Les personnes tenues à l'obligation alimentaire instituée par les articles 205
 de toute demande d'aide sociale, invitées à indiquer l'aide qu'elles peuvent allouer aux postulants et à apporter, le cas
 échéant, la preuve de leur impossibilité de couvrir la totalité des frais.
 
-La commission d'admission fixe, en tenant compte du montant de leur participation éventuelle, la proportion de l'aide
-consentie par les collectivités publiques. La décision de la commission peut être révisée sur production par le bénéficiaire
-de l'aide sociale d'une décision judiciaire rejetant sa demande d'aliments ou limitant l'obligation alimentaire à une somme
-inférieure à celle qui avait été envisagée par l'organisme d'admission. La décision de la commission fait également l'objet
-d'une révision lorsque les débiteurs d'aliments ont été condamnés à verser des arrérages supérieurs à ceux qu'elle avait
-prévus.
+Sous réserve d'une décision contraire du juge aux affaires familiales, sont de droit dispensés de fournir cette aide les
+enfants qui, après signalement de l'aide sociale à l'enfance, ont fait l'objet d'un retrait judiciaire de leur milieu
+familial durant une période de trente-six mois cumulés au cours des douze premières années de leur vie.
+
+Cette dispense s'étend aux descendants des enfants susvisés.
+
+La commission d'admission fixe, en tenant compte du montant de la participation éventuelle des personnes restant tenues à
+l'obligation alimentaire, la proportion de l'aide consentie par les collectivités publiques. La décision de la commission
+peut être révisée sur production par le bénéficiaire de l'aide sociale d'une décision judiciaire rejetant sa demande
+d'aliments ou limitant l'obligation alimentaire à une somme inférieure à celle qui avait été envisagée par l'organisme
+d'admission. La décision de la commission fait également l'objet d'une révision lorsque les débiteurs d'aliments ont été
+condamnés à verser des arrérages supérieurs à ceux qu'elle avait prévus.
 
 **Liens relatifs à cet article**
 
@@ -2247,6 +2253,10 @@ prévus.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2004-1 du 2 janvier 2004 - art. 18 () JORF 3 janvier 2004
 
 	**Cite**:
 
@@ -7072,16 +7082,26 @@ En cas de saisine de l'autorité judiciaire, il en informe par écrit les parent
 
 ###### Article L226-6
 
-Un service d'accueil téléphonique gratuit concourt, à l'échelon national, à la mission de prévention des mauvais traitements
-et de protection des mineurs maltraités prévue au présent chapitre. L'Etat, les départements et des personnes morales de
-droit public ou privé, constituent à cette fin un groupement d'intérêt public.
+L'Etat, les départements et des personnes morales de droit public ou privé constituent un groupement d'intérêt public pour
+gérer un service d'accueil téléphonique gratuit ainsi qu'un Observatoire de l'enfance en danger afin d'exercer, à l'échelon
+national, les missions d'observation, d'analyse et de prévention des mauvais traitements et de protection des mineurs
+maltraités prévues au présent chapitre.
 
-Ce service répond, à tout moment, aux demandes d'information ou de conseil concernant les situations de mineurs maltraités ou
-présumés l'être. Il transmet immédiatement au président du conseil général, selon le dispositif mis en place en application
-de l'article L. 226-3, les informations qu'il recueille et les appréciations qu'il formule à propos de ces mineurs. A cette
-fin, le président du conseil général informe le groupement des modalités de fonctionnement permanent du dispositif
-départemental. Ce service établit une étude épidémiologique annuelle au vu des informations qu'il a recueillies et de celles
-qui lui ont été transmises dans les conditions prévues à l'article L. 226-7.
+Le service d'accueil téléphonique répond, à tout moment, aux demandes d'information ou de conseil concernant les situations
+de mineurs maltraités ou présumés l'être. Il transmet immédiatement au président du conseil général, selon le dispositif mis
+en place en application de l'article L. 226-3, les informations qu'il recueille et les appréciations qu'il formule à propos
+de ces mineurs. A cette fin, le président du conseil général informe le groupement des modalités de fonctionnement permanent
+du dispositif départemental. Ce service établit une étude épidémiologique annuelle au vu des informations qu'il a recueillies
+et de celles qui lui ont été transmises dans les conditions prévues à l'article L. 226-7.
+
+L'Observatoire de l'enfance en danger contribue au recueil et à l'analyse des données et des études concernant la
+maltraitance envers les mineurs, en provenance de l'Etat, des collectivités territoriales, des établissements publics, des
+fondations et des associations oeuvrant en ce domaine. Il contribue à la mise en cohérence des différentes données et
+informations, à l'amélioration de la connaissance des phénomènes de maltraitance et recense les pratiques de prévention, de
+dépistage et de prise en charge médico-sociale et judiciaire de la maltraitance, dont les résultats évalués ont été jugés
+concluants, afin d'en assurer la promotion auprès de l'Etat, des collectivités territoriales, des établissements publics, des
+fondations et des associations oeuvrant dans ce domaine. Il présente au Gouvernement et au Parlement un rapport annuel rendu
+public.
 
 **Liens relatifs à cet article**
 
@@ -7089,6 +7109,10 @@ qui lui ont été transmises dans les conditions prévues à l'article L. 226-7.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2004-1 du 2 janvier 2004 - art. 9 () JORF 3 janvier 2004
 
 	**Cité par**:
 
@@ -7156,9 +7180,9 @@ recevant de façon habituelle des mineurs.
 
 ###### Article L226-9
 
-Le secret professionnel est applicable aux agents du service d'accueil téléphonique dans les conditions prévues aux articles
-226-13 et 226-14 du code pénal. Le troisième alinéa de l'article L. 226-3 est également applicable aux informations
-recueillies par le service d'accueil téléphonique.
+Le secret professionnel est applicable aux agents du service d'accueil téléphonique et de l'Observatoire de l'enfance en
+danger dans les conditions prévues aux articles 226-13 et 226-14 du code pénal. Le troisième alinéa de l'article L. 226-3 est
+également applicable aux informations recueillies par le service d'accueil téléphonique.
 
 **Liens relatifs à cet article**
 
@@ -7166,6 +7190,10 @@ recueillies par le service d'accueil téléphonique.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2004-1 du 2 janvier 2004 - art. 10 () JORF 3 janvier 2004
 
 	**Cite**:
 
@@ -7181,9 +7209,10 @@ recueillies par le service d'accueil téléphonique.
 
 ###### Article L226-10
 
-Outre les moyens mis à la disposition du service par les autres membres constituant le groupement, sa prise en charge
-financière est assurée à parts égales par l'Etat et les départements. La participation financière de chaque département est
-fixée par voie réglementaire en fonction de l'importance de la population.
+Outre les moyens mis à la disposition du service d'accueil téléphonique et de l'Observatoire de l'enfance en danger par les
+autres membres constituant le groupement, sa prise en charge financière est assurée à parts égales par l'Etat et les
+départements. La participation financière de chaque département est fixée par voie réglementaire en fonction de l'importance
+de la population.
 
 **Liens relatifs à cet article**
 
@@ -7191,6 +7220,10 @@ fixée par voie réglementaire en fonction de l'importance de la population.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2004-1 du 2 janvier 2004 - art. 10 () JORF 3 janvier 2004
 
 	**Cité par**:
 
@@ -23266,8 +23299,9 @@ comme assistant maternel par le président du conseil général du département 
 L'agrément est accordé pour une durée fixée par voie réglementaire si les conditions d'accueil garantissent la santé, la
 sécurité et l'épanouissement des mineurs accueillis ; il précise le caractère permanent ou non de l'accueil, le nombre et
 l'âge des mineurs susceptibles d'être accueillis par l'assistant maternel ainsi que, le cas échéant, les horaires de
-l'accueil. Le nombre de mineurs accueillis ne peut être supérieur à trois, sauf dérogation accordée par le président du
-conseil général.
+l'accueil. Lorsque l'accueil a un caractère permanent, le nombre de mineurs accueillis ne peut être supérieur à trois, sauf
+dérogation accordée par le président du conseil général. Lorsqu'il n'a pas un caractère permanent, le nombre de mineurs
+accueillis simultanément ne peut être supérieur à trois, sauf dérogation accordée par le président du conseil général.
 
 Dans le cas d'un agrément concernant l'accueil de mineurs à titre permanent, une préparation à l'accueil est réalisée
 préalablement, dans des conditions définies par décret.
@@ -23318,6 +23352,10 @@ santé publique ou à l'article L. 773-17 du code du travail.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2004-1 du 2 janvier 2004 - art. 1 () JORF 3 janvier 2004
 
 	**Cite**:
 
