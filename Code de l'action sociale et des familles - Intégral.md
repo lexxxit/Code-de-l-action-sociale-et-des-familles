@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2003-12-19
+Version Consolidée au 2003-12-31
 
 # Partie législative
 
@@ -1146,6 +1146,31 @@ Les modalités d'application de l'article L. 121-9 sont déterminées par décre
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L121-9 (M)
+
+
+###### Article L121-10-1
+
+Les actions menées à l'égard des Français de l'étranger en difficulté, en particulier les personnes âgées ou handicapées,
+relèvent de la compétence de l'Etat.
+
+Ces personnes peuvent bénéficier, sous conditions, de secours et aides prélevés sur les crédits d'assistance aux Français de
+l'étranger du ministère des affaires étrangères, et d'autres mesures appropriées tenant compte de la situation économique et
+sociale du pays de résidence.
+
+Le Conseil supérieur des Français de l'étranger, la commission permanente pour la protection sociale des Français de
+l'étranger et, dans chaque pays considéré, le comité consulaire compétent sont consultés sur la politique d'aide sociale aux
+Français de l'étranger.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi - art. 119 () JORF 31 décembre 2003
 
 
 ##### Section 4 : Organismes de sécurité sociale.
@@ -11526,9 +11551,10 @@ Adaptée à l'état et à l'âge de la personne et eu égard aux moyens disponib
 
 ###### Article L251-1
 
-Tout étranger résidant en France sans remplir les conditions fixées par l'article L. 380-1 du code de la sécurité sociale et
-dont les ressources ne dépassent pas le plafond mentionné à l'article L. 861-1 de ce code a droit, pour lui-même et les
-personnes à sa charge au sens des articles L. 161-14 et L. 313-3 de ce code, à l'aide médicale de l'Etat.
+Tout étranger résidant en France de manière ininterrompue depuis plus de trois mois, sans remplir la condition de régularité
+mentionnée à l'article L. 380-1 du code de la sécurité sociale et dont les ressources ne dépassent pas le plafond mentionné à
+l'article L. 861-1 de ce code a droit, pour lui-même et les personnes à sa charge au sens des articles L. 161-14 et L. 313-3
+de ce code, à l'aide médicale de l'Etat.
 
 En outre, toute personne qui, ne résidant pas en France, est présente sur le territoire français, et dont l'état de santé le
 justifie, peut, par décision individuelle prise par le ministre chargé de l'action sociale, bénéficier de l'aide médicale de
@@ -11537,11 +11563,6 @@ l'article L. 251-2 peut être partielle.
 
 De même, toute personne gardée à vue sur le territoire français, qu'elle réside ou non en France, peut, si son état de santé
 le justifie, bénéficier de l'aide médicale de l'Etat, dans des conditions définies par décret.
-
-**Nota:**
-
-Loi 2002-1576 2002-12-30 finances rectificative pour 2002 art. 57 IV : les dispositions du présent article sont applicables à
-compter de la date d'entrée en vigueur du décret d'application.
 
 **Liens relatifs à cet article**
 
@@ -11596,7 +11617,7 @@ compter de la date d'entrée en vigueur du décret d'application.
 
 	**Modifié par**:
 
-	  - Loi - art. 57 (V) JORF 31 décembre 2002
+	  - Loi n°2003-1312 du 30 décembre 2003 - art. 97
 
 	**Cite**:
 
@@ -11765,8 +11786,6 @@ directeur de la caisse primaire d'assurance maladie des travailleurs salariés.
 
 Cette admission est accordée pour une période d'un an.
 
-Les demandeurs dont la situation l'exige sont admis immédiatement au bénéfice de l'aide médicale de l'Etat.
-
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -11783,6 +11802,10 @@ Les demandeurs dont la situation l'exige sont admis immédiatement au bénéfice
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2003-1312 du 30 décembre 2003 - art. 97
 
 	**Anciens textes**:
 
@@ -11860,6 +11883,10 @@ Les dépenses d'aide médicale sont prises en charge par l'Etat.
 Lorsque les prestations d'aide médicale ont pour objet la réparation d'un dommage ou d'une lésion imputable à un tiers,
 l'Etat peut poursuivre contre le tiers responsable le remboursement des prestations mises à sa charge.
 
+Lorsqu'une provision a été versée à un établissement de santé pour couvrir des frais de soins et de séjour ou qu'un
+engagement de versement a été souscrit, la partie des frais correspondant à la provision ou à l'engagement reste à la charge
+des bénéficiaires.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -11871,6 +11898,10 @@ l'Etat peut poursuivre contre le tiers responsable le remboursement des prestati
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2003-1312 2003-12-30 art. 97 3° finances rectificative pour 2003 JORF 31 décembre 2003
 
 	**Anciens textes**:
 
@@ -11910,6 +11941,58 @@ Sauf disposition contraire, les conditions d'application du présent chapitre so
 
 	  - Code de la famille et de l'aide sociale 202 al. 1
 	  - Code de la famille et de l'aide sociale. - art. 202 (Ab)
+
+
+#### Chapitre IV : Prise en charge des soins urgents
+
+###### Article L254-1
+
+Les soins urgents dont l'absence mettrait en jeu le pronostic vital ou pourrait conduire à une altération grave et durable de
+l'état de santé de la personne ou d'un enfant à naître et qui sont dispensés par les établissements de santé à ceux des
+étrangers résidant en France sans remplir la condition de régularité mentionnée à l'article L. 380-1 du code de la sécurité
+sociale et qui ne sont pas bénéficiaires de l'aide médicale de l'Etat en application de l'article L. 251-1 sont pris en
+charge dans les conditions prévues à l'article L. 251-2. Une dotation forfaitaire est versée à ce titre par l'Etat à la
+Caisse nationale de l'assurance maladie des travailleurs salariés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Cité par**:
+
+	  - Loi n°2003-1199 du 18 décembre 2003 - art. 33 (VT)
+	  - Arrêté du 23 janvier 2008 - art. 3 (V)
+	  - Arrêté du 23 janvier 2008 - art. 4 (V)
+	  - Arrêté du 14 décembre 2011 - art. 1 (V)
+	  - Arrêté du 14 décembre 2011 - art. 4 (V)
+	  - Arrêté du 25 mars 2016 - art. 2
+	  - Arrêté du 23 juin 2016 - art. 4 (V)
+	  - Arrêté du 5 mai 2017 - art. 10 (V)
+	  - Arrêté du 5 mai 2017 - art. 2
+	  - Arrêté du 5 mai 2017 - art. 3
+	  - Arrêté du 5 mai 2017 - art. 4
+	  - Arrêté du 5 mai 2017 - art. 8 (V)
+	  - Code de l'action sociale et des familles - art. L254-2 (V)
+	  - Code de la santé publique - art. R1112-18 (V)
+	  - Code de la sécurité sociale. - art. L162-22-11 (V)
+	  - Code de la sécurité sociale. - art. L162-22-11-1 (V)
+	  - Code de la sécurité sociale. - art. L174-20 (V)
+	  - Code de la sécurité sociale. - art. L315-1 (V)
+	  - Code de la sécurité sociale. - art. L315-2 (VD)
+	  - Code de la sécurité sociale. - art. L315-2-1 (V)
+
+	**Créé par**:
+
+	  - Loi n°2003-1312 du 30 décembre 2003 - art. 97
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L380-1 (V)
+	  - Code de l'action sociale et des familles - art. L251-1 (M)
+	  - Code de l'action sociale et des familles - art. L251-2 (M)
 
 
 ### Titre VI : Lutte contre la pauvreté et les exclusions
@@ -20088,9 +20171,6 @@ En cas de réquisition, le comptable est déchargé de sa responsabilité.
 Le comptable assiste, avec voix consultative, au conseil d'administration de l'établissement lorsque celui-ci délibère sur
 des affaires de sa compétence.
 
-Les conditions de placement et de rémunération des fonds des établissements publics sociaux et médico-sociaux sont
-déterminées par décret.
-
 A la demande de l'ordonnateur, le comptable informe ce dernier de la situation de paiement des mandats et du recouvrement des
 titres de recettes, de la situation de trésorerie et de tout élément utile à la bonne gestion de l'établissement. Il paie les
 mandats dans l'ordre de priorité indiqué par l'ordonnateur.
@@ -20102,11 +20182,9 @@ mandats dans l'ordre de priorité indiqué par l'ordonnateur.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 60 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 72 () JORF 3 janvier 2002
+	  - Loi n°2003-1311 2003-12-30 art. 116 III 2° finances pour 2004 JORF 31 décembre 2003
 
 	**Cité par**:
 
@@ -20177,6 +20255,32 @@ de la nature particulière de leur mission.
 	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 	  - Loi n°2002-2 du 2 janvier 2002 - art. 60 () JORF 3 janvier 2002
 	  - Loi n°2002-2 du 2 janvier 2002 - art. 74 () JORF 3 janvier 2002
+
+
+###### Article L315-19
+
+Les dispositions de l'article L. 1618-2 du code général des collectivités territoriales relatives aux dérogations à
+l'obligation de dépôt auprès de l'Etat des fonds des collectivités territoriales et de leurs établissements publics sont
+applicables aux établissements publics sociaux et médico-sociaux sous réserve des dispositions suivantes : 
+
+Les décisions mentionnées au III de l'article L. 1618-2 du même code relèvent de la compétence du directeur de
+l'établissement public social et médico-social qui informe chaque année le conseil d'administration des résultats des
+opérations réalisées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2003-1311 2003-12-30 art. 116 III 1° finances pour 2004 JORF 31 décembre 2003
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1618-2 (V)
 
 
 ### Titre II : Etablissements soumis à déclaration
