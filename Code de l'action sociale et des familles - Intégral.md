@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2002-01-03
+Version Consolidée au 2002-01-18
 
 # Partie législative
 
@@ -386,21 +386,30 @@ Sauf disposition contraire, les modalités d'application du présent chapitre so
 
 ###### Article L114-1
 
-La prévention et le dépistage des handicaps, les soins, l'éducation, la formation et l'orientation professionnelle, l'emploi,
-la garantie d'un minimum de ressources, l'intégration sociale et l'accès aux sports et aux loisirs du mineur et de l'adulte
-handicapés physiques, sensoriels ou mentaux constituent une obligation nationale.
+La prévention et le dépistage du handicap et l'accès du mineur ou de l'adulte handicapé physique, sensoriel ou mental aux
+droits fondamentaux reconnus à tous les citoyens, notamment aux soins, à l'éducation, à la formation et à l'orientation
+professionnelle, à l'emploi, à la garantie d'un minimum de ressources adapté, à l'intégration sociale, à la liberté de
+déplacement et de circulation, à une protection juridique, aux sports, aux loisirs, au tourisme et à la culture constituent
+une obligation nationale.
+
+La personne handicapée a droit à la compensation des conséquences de son handicap quels que soient l'origine et la nature de
+sa déficience, son âge ou son mode de vie, et à la garantie d'un minimum de ressources lui permettant de couvrir la totalité
+des besoins essentiels de la vie courante.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°75-534 1975-06-30 art. 1 al. 1
 	  - Loi n°75-534 du 30 juin 1975 - art. 1 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 53 () JORF 18 janvier 2002
 
 	**Cité par**:
 
@@ -3230,6 +3239,157 @@ Un décret en Conseil d'Etat précise les modalités de conclusion des conventio
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L145-3 (V)
+
+
+#### Chapitre VI : Consultation des personnes handicapées
+
+###### Article L146-1
+
+Le Conseil national consultatif des personnes handicapées assure la participation des personnes handicapées à l'élaboration
+et à la mise en oeuvre des politiques les concernant. Il veille aux bonnes conditions nécessaires à l'exercice de la fonction
+de coordination dévolue par l'article L. 146-2 aux conseils départementaux consultatifs.
+
+Il peut être consulté par les ministres compétents sur tout projet, programme ou étude intéressant les personnes handicapées.
+
+Il peut se saisir de toute question relative à la politique concernant les personnes handicapées.
+
+Le conseil comprend notamment des représentants des assemblées parlementaires, des départements, des associations ou
+organismes regroupant des personnes handicapées, développant des actions de recherche dans le domaine du handicap ou
+finançant leur protection sociale, ainsi que des organisations syndicales et patronales représentatives.
+
+La composition, les modalités de désignation des membres du conseil et ses modalités de fonctionnement sont fixées par
+décret.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 81 (V)
+	  - Décret n°2002-1387 du 27 novembre 2002 - art. 1 (Ab)
+	  - Décret n°2007-573 du 18 avril 2007 - art. 3 (V)
+	  - Arrêté du 27 avril 2017 - art. 1 (V)
+	  - Décret n°2017-875 du 9 mai 2017 - art. 4 (V)
+	  - Code de l'action sociale et des familles - art. D146-1 (V)
+	  - Code de l'action sociale et des familles - art. L114-3 (V)
+	  - Code de l'action sociale et des familles - art. L142-1 (V)
+	  - Code de l'action sociale et des familles - art. L149-1 (V)
+	  - Code de l'action sociale et des familles - art. L242-4 (V)
+	  - Code de l'action sociale et des familles - art. L247-5 (V)
+	  - Code de l'action sociale et des familles - art. L540-1 (VD)
+	  - Code de l'action sociale et des familles - art. L581-1 (V)
+	  - Code de l'action sociale et des familles - art. L591-1 (V)
+	  - Code de l'action sociale et des familles - art. R114-1 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 55 () JORF 18 janvier 2002
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°2002-1387 du 27 novembre 2002
+	  - TXT_SOURCE: Décret n°2002-1387 du 27 novembre 2002 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°2002-1387 du 27 novembre 2002 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°2002-1387 du 27 novembre 2002 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°2002-1387 du 27 novembre 2002 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°2002-1387 du 27 novembre 2002 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°2002-1387 du 27 novembre 2002 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°2002-1387 du 27 novembre 2002 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°2002-1387 du 27 novembre 2002 - art. 7 (Ab)
+	  - TXT_SOURCE: Décret n°2002-1387 du 27 novembre 2002 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°2002-1387 du 27 novembre 2002 - art. 9 (Ab)
+	  - TXT_SOURCE: Décret n°2002-1388 du 27 novembre 2002
+	  - TXT_SOURCE: Décret n°2002-1388 du 27 novembre 2002 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°2002-1388 du 27 novembre 2002 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°2002-1388 du 27 novembre 2002 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°2002-1388 du 27 novembre 2002 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°2002-1388 du 27 novembre 2002 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°2002-1388 du 27 novembre 2002 - art. 6 (Ab)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L146-2 (M)
+
+
+###### Article L146-2
+
+Le conseil départemental consultatif des personnes handicapées donne un avis et formule des propositions sur les orientations
+de la politique du handicap dans tous les domaines de la vie sociale et sur les mesures à mettre en oeuvre au plan local pour
+assurer la coordination des interventions de tous les partenaires institutionnels ou associatifs, notamment en matière de
+scolarisation, d'intégration sociale et professionnelle, d'accessibilité, de logement, de transport, d'accès aux aides
+humaines ou techniques et d'accès au sport, aux loisirs, au tourisme et à la culture.
+
+Il est informé de l'activité de la commission départementale de l'éducation spéciale et de la commission technique
+d'orientation et de reclassement professionnel.
+
+Il est également informé du contenu et de l'application du programme départemental d'insertion professionnelle des
+travailleurs handicapés et des schémas d'équipement et d'accompagnement des personnes handicapées dans le département.
+
+La composition, les conditions de nomination des membres du conseil ainsi que ses modalités de fonctionnement sont fixées par
+décret.
+
+Chaque conseil départemental consultatif des personnes handicapées est chargé de réaliser, dans un délai de deux ans à
+compter de la date d'entrée en vigueur de la loi n° 2002-73 du 17 janvier 2002 de modernisation sociale, un recensement du
+nombre de personnes handicapées résidant dans le département et de la nature de leur handicap.
+
+Il bénéficie pour cela d'un accès aux documents et données des commissions techniques d'orientation et de reclassement
+professionnel, des commissions départementales de l'éducation spéciale, des hôpitaux, des centres d'accueil et d'hébergement
+des personnes handicapées et de tout autre institution susceptible de lui fournir des indications précises à ce sujet.
+
+Le conseil départemental consultatif des personnes handicapées est tenu de respecter les dispositions législatives et
+réglementaires en vigueur en visant à protéger le droit au respect de la vie privée et à la confidentialité des informations
+médicales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Cite**:
+
+	  - Loi n°2002-73 2002-01-17
+
+	**Créé par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 55 () JORF 18 janvier 2002
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°2002-1388 du 27 novembre 2002
+	  - TXT_SOURCE: Décret n°2002-1388 du 27 novembre 2002 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°2002-1388 du 27 novembre 2002 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°2002-1388 du 27 novembre 2002 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°2002-1388 du 27 novembre 2002 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°2002-1388 du 27 novembre 2002 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°2002-1388 du 27 novembre 2002 - art. 6 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°2002-1388 du 27 novembre 2002 - art. 1 (Ab)
+	  - Décret n°2002-1388 du 27 novembre 2002 - art. 5 (Ab)
+	  - Décret n°2002-1388 du 27 novembre 2002 - art. 6 (Ab)
+	  - Loi n°2015-1776 du 28 décembre 2015 - art. 88 (V)
+	  - Décret n°2016-1206 du 7 septembre 2016 - art. 2
+	  - Code de l'action sociale et des familles - art. D146-10 (Ab)
+	  - Code de l'action sociale et des familles - art. D146-14 (Ab)
+	  - Code de l'action sociale et des familles - art. D146-15 (Ab)
+	  - Code de l'action sociale et des familles - art. D312-193-6 (M)
+	  - Code de l'action sociale et des familles - art. L114-3 (M)
+	  - Code de l'action sociale et des familles - art. L114-3-1 (M)
+	  - Code de l'action sociale et des familles - art. L146-1 (M)
+	  - Code de l'action sociale et des familles - art. L146-2-1 (Ab)
+	  - Code de l'action sociale et des familles - art. L531-7 (VD)
+	  - Code de l'action sociale et des familles - art. L541-4 (V)
+	  - Code de l'action sociale et des familles - art. L581-1 (M)
+	  - Code de la santé publique - art. D1432-28 (M)
+	  - Code de la santé publique - art. D1434-2 (T)
+	  - Code de la santé publique - art. D1443-20 (M)
 
 
 ## Livre II : Différentes formes d'aide et d'action sociales
@@ -9121,6 +9281,101 @@ Les dispositions du présent article sont applicables aux Français résidant à
 	  - Code de la famille et de l'aide sociale. - art. 173 (Ab)
 
 
+###### Article L241-3-1
+
+Toute personne atteinte d'une incapacité inférieure à 80 % rendant la station debout pénible reçoit, pour une durée
+déterminée, une carte portant la mention : "Station debout pénible". Cette carte est délivrée sur demande par le préfet après
+expertise médicale faisant notamment état de la réduction importante de sa capacité et de son autonomie de déplacement à
+pied.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°87-588 du 30 juillet 1987 - art. 88 (V)
+	  - Décret n°89-406 du 20 juin 1989 - art. 30-7 (VT)
+	  - Décret n°2016-1849 du 23 décembre 2016 - art. 8 (V)
+	  - Code de l'action sociale et des familles - art. D245-24-2 (V)
+	  - Code de l'action sociale et des familles - art. L146-3 (V)
+	  - Code de l'action sociale et des familles - art. L241-6 (VD)
+	  - Code de l'action sociale et des familles - art. L545-4 (Ab)
+	  - Code de l'action sociale et des familles - art. R241-12 (M)
+	  - Code de l'action sociale et des familles - art. R241-13 (M)
+	  - Code de l'action sociale et des familles - art. R241-14 (M)
+	  - Code de l'action sociale et des familles - art. R241-23 (V)
+	  - Code de l'action sociale et des familles - art. R241-28 (V)
+	  - Code général des collectivités territoriales - art. L2213-2 (M)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 86 () JORF 18 janvier 2002
+
+
+###### Article L241-3-2
+
+Une carte de stationnement pour personnes handicapées est accordée par le préfet, sur sa demande, à toute personne
+handicapée, titulaire de la carte d'invalidité prévue à l'article L. 241-3, ainsi qu'aux personnes relevant de l'article L.
+18 du code des pensions militaires d'invalidité et des victimes de la guerre et aux titulaires d'une pension attribuée au
+titre de ce code, soit pour une invalidité d'au moins 85 %, soit pour une invalidité de 60 % et plus si la pension comporte
+le droit aux allocations attribuées aux grands mutilés de guerre définis à l'article L. 36 et aux grands invalides définis à
+l'article L. 37 dudit code, dont la déficience physique réduit de manière importante sa capacité et son autonomie de
+déplacement à pied ou dont la déficience sensorielle ou mentale impose qu'elle soit accompagnée par une tierce personne dans
+ses déplacements.
+
+La carte de stationnement pour personnes handicapées permet à son titulaire ou à la tierce personne l'accompagnant
+d'utiliser, dans les lieux de stationnement ouverts au public, les places réservées et aménagées à cet effet. Elle permet,
+dans les mêmes conditions, de bénéficier des autres dispositions qui peuvent être prises en faveur des personnes handicapées
+par les autorités compétentes en matière de circulation et de stationnement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret du 6 février 1932 - art. 62 (Ab)
+	  - Arrêté du 24 novembre 1967 - art. 8 (V)
+	  - Décret n°99-756 du 31 août 1999 - art. 1 (Ab)
+	  - Arrêté du 8 décembre 2014 - art. 3 (V)
+	  - Arrêté du 24 juillet 2015 - art. 1 (V)
+	  - Arrêté du 24 décembre 2015 (V)
+	  - Décret n°2016-1849 du 23 décembre 2016 - art. 4
+	  - Décret n°2016-1849 du 23 décembre 2016 - art. 7
+	  - Décret n°2016-1849 du 23 décembre 2016 - art. 8 (V)
+	  - Décret n°2017-688 du 28 avril 2017 - art. 2 (V)
+	  - Code de l'action sociale et des familles - art. D545-1 (P)
+	  - Code de l'action sociale et des familles - art. L542-4 (V)
+	  - Code de l'action sociale et des familles - art. L545-5 (Ab)
+	  - Code de l'action sociale et des familles - art. R232-24-1 (M)
+	  - Code de l'action sociale et des familles - art. R232-28-1 (VT)
+	  - Code de l'action sociale et des familles - art. R241-16 (M)
+	  - Code de l'action sociale et des familles - art. R241-22 (V)
+	  - Code de l'environnement - art. D228-1 (V)
+	  - Code de la route. - art. R417-11 (V)
+	  - Code des transports - art. R4241-69 (V)
+	  - Code général des collectivités territoriales - art. L2213-2 (V)
+	  - Code général des collectivités territoriales - art. R2213-1-0-1 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 86 () JORF 18 janvier 2002
+
+	**Cite**:
+
+	  - Code des pensions militaires d'invalidité et des v - art. L18 (M)
+	  - Code des pensions militaires d'invalidité et des v - art. L37 (V)
+	  - Code de l'action sociale et des familles - art. L241-3 (M)
+	  - Code de l'action sociale et des familles L241-3, L36
+
+
 ###### Article L241-4
 
 Il n'y a pas lieu à l'application des dispositions relatives au recours en récupération des prestations d'aide sociale
@@ -10408,17 +10663,23 @@ calcul des ressources de l'intéressé. Il n'est exercé aucun recours en récup
 l'encontre de la succession du bénéficiaire décédé lorsque ses héritiers sont son conjoint, ses enfants ou la personne qui a
 assumé, de façon effective et constante, la charge du handicapé.
 
+Les sommes versées au titre de l'allocation compensatrice ne font pas l'objet d'un recouvrement à l'encontre du bénéficiaire
+lorsque celui-ci est revenu à meilleure fortune.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°75-534 1975-06-30 art. 39 par. II
 	  - Loi n°75-534 du 30 juin 1975 - art. 39 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 54 () JORF 18 janvier 2002
 
 	**Cite**:
 
@@ -10628,6 +10889,9 @@ justifie, peut, par décision individuelle prise par le ministre chargé de l'ac
 l'Etat dans les conditions prévues par l'article L. 252-1. Dans ce cas, la prise en charge des dépenses mentionnées à
 l'article L. 251-2 peut être partielle.
 
+De même, toute personne gardée à vue sur le territoire français, qu'elle réside ou non en France, peut, si son état de santé
+le justifie, bénéficier de l'aide médicale de l'Etat, dans des conditions définies par décret.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -10681,7 +10945,7 @@ l'article L. 251-2 peut être partielle.
 
 	**Modifié par**:
 
-	  - Loi n°2001-1246 du 21 décembre 2001 - art. 37 () JORF 26 décembre 2001
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 14 () JORF 18 janvier 2002
 
 	**Cite**:
 
@@ -15947,6 +16211,10 @@ l'accord de l'autorité compétente concernée.
 Tout changement important dans l'activité, l'installation, l'organisation, la direction ou le fonctionnement d'un
 établissement ou d'un service soumis à autorisation doit être porté à la connaissance de l'autorité compétente.
 
+Les dispositions du présent article sont applicables aux couples ou aux personnes qui accueillent habituellement de manière
+temporaire ou permanente, à temps complet ou partiel, à leur domicile, à titre onéreux, plus de trois personnes âgées ou
+handicapées adultes.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -15957,13 +16225,6 @@ Tout changement important dans l'activité, l'installation, l'organisation, la d
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Modifié par**:
-
-	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, II, art. 25 JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 25 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -16067,9 +16328,14 @@ Tout changement important dans l'activité, l'installation, l'organisation, la d
 	  - Code du travail - art. R7232-6 (VD)
 	  - Code du travail applicable à Mayotte. - art. R328-18 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 51 () JORF 18 janvier 2002
+
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L312-8 (M)
+	  - Code de l'action sociale et des familles L312-1, 312-1, L312-8
 
 
 ###### Article L313-2
@@ -18163,6 +18429,9 @@ des frais afférents à leur prise en charge.
 
 L'accueil temporaire est défini par voie réglementaire.
 
+Les dépenses de fonctionnement des appartements de coordination thérapeutique mentionnés au 9° du I de l'article L. 312-1
+sont prises en charge par les régimes d'assurance maladie, sans préjudice d'une participation des collectivités locales.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -18201,9 +18470,7 @@ L'accueil temporaire est défini par voie réglementaire.
 
 	**Modifié par**:
 
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 50 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 56 () JORF 3 janvier 2002
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 88 (V) JORF 18 janvier 2002
 
 	**Cite**:
 
@@ -22360,43 +22627,34 @@ des établissements sociaux ou médico-sociaux.
 
 ### Titre IV : Particuliers accueillant des personnes âgées ou handicapées
 
-#### Chapitre Ier : Accueil des personnes âgées.
+#### Chapitre Ier : Accueillants familiaux et modalités d'agrément.
 
 ###### Article L441-1
 
-La personne qui accueille habituellement à son domicile, à titre onéreux, des personnes âgées n'appartenant pas à sa famille
-jusqu'au quatrième degré inclus est agréée à cet effet par le président du conseil général.
+Pour accueillir habituellement à son domicile, à titre onéreux, des personnes âgées ou handicapées adultes n'appartenant pas
+à sa famille jusqu'au quatrième degré inclus et, s'agissant des personnes handicapées adultes, ne relevant pas des
+dispositions de l'article L. 344-1, une personne ou un couple doit, au préalable, faire l'objet d'un agrément, renouvelable,
+par le président du conseil général de son département de résidence qui en instruit la demande.
 
-La décision d'agrément fixe le nombre des personnes qui peuvent être accueillies. Ce nombre ne peut dépasser deux. Il peut,
-par dérogation délivrée par le président du conseil général, être porté à trois.
+La personne ou le couple agréé est dénommé accueillant familial.
 
-L'agrément ne peut être accordé que si la continuité de l'accueil est assurée, si les conditions d'accueil garantissent la
-protection de la santé, la sécurité et le bien-être physique et moral des personnes accueillies et si un suivi social et
-médico-social de celles-ci peut être assuré.
+La décision d'agrément fixe, dans la limite de trois, le nombre de personnes pouvant être accueillies.
 
-Cet agrément ne vaut que pour l'accueil tel qu'il est proposé lors de la demande.
+L'agrément ne peut être accordé que si les conditions d'accueil garantissent la continuité de celui-ci, la protection de la
+santé, la sécurité et le bien-être physique et moral des personnes accueillies, si les accueillants se sont engagés à suivre
+une formation initiale et continue et si un suivi social et médico-social de celles-ci peut être assuré. Tout refus
+d'agrément est motivé.
 
-Tout refus d'agrément doit être motivé.
+En cas de changement de résidence, l'agrément demeure valable sous réserve d'une déclaration préalable auprès du président du
+conseil général du nouveau lieu de résidence qui s'assure que les conditions mentionnées au quatrième alinéa sont remplies.
 
-Le président du conseil général instruit les demandes d'agrément, organise la formation et le contrôle des personnes agréées
-et le suivi social et médico-social des personnes accueillies.
-
-Il peut, pour l'instruction, demander la participation d'une institution telle que définie à l'article L. 311-1. Il peut
-aussi confier à une telle institution le suivi social et médico-social des personnes accueillies. Le président du conseil
-général peut aussi faire appel à un autre organisme public ou association régie par la loi du 1er juillet 1901 avec lequel il
-passe convention.
-
-L'agrément vaut, sauf mention contraire, habilitation à recevoir des bénéficiaires de l'aide sociale au titre de l'article L.
-113-1. L'habilitation peut être assortie d'une convention.
-
-Les conditions d'application du présent article, ainsi que les modalités du retrait de l'agrément sont fixées par voie
-réglementaire.
+L'agrément vaut, sauf mention contraire, habilitation à recevoir des bénéficiaires de l'aide sociale au titre des articles L.
+113-1 et L. 241-1.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°89-475 1989-07-10 art. 1
 	  - Loi n°89-475 du 10 juillet 1989 - art. 1 (Ab)
 
 	**Codifié par**:
@@ -22451,32 +22709,35 @@ réglementaire.
 	  - Code du travail - art. L1271-1 (VD)
 	  - Code rural et de la pêche maritime - art. L741-27 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2002-73 2002-01-17 art. 51 I 1°, 2° JORF 18 janvier 2002
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 51 () JORF 18 janvier 2002
+
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L113-1 (M)
-	  - Code de l'action sociale et des familles - art. L311-1 (M)
-	  - Loi n°1901-07-01
+	  - Code de l'action sociale et des familles - art. L241-1 (V)
+	  - Code de l'action sociale et des familles - art. L344-1 (M)
 
 
 ###### Article L441-2
 
-Chaque personne âgée accueillie au domicile d'une personne agréée à cet effet, ou son représentant légal, passe avec celle-ci
-un contrat écrit.
+Le président du conseil général organise le contrôle des accueillants familiaux, de leurs remplaçants et le suivi social et
+médico-social des personnes accueillies. 
 
-Ce contrat, qui ne relève pas des dispositions du code du travail, précise s'il s'agit d'un accueil à temps partiel ou à
-temps complet. Il indique les conditions matérielles et financières de l'accueil ainsi que les droits et obligations des
-parties. Il doit être conforme aux stipulations de contrats types établis par le conseil général qui précisent notamment :
+Si les conditions mentionnées au quatrième alinéa de l'article L. 441-1 cessent d'être remplies, il enjoint l'accueillant
+familial d'y remédier dans un délai fixé par le décret mentionné au même article. S'il n'a pas été satisfait à cette
+injonction, l'agrément est retiré après avis de la commission consultative. L'agrément peut également être retiré selon les
+mêmes modalités et au terme du même délai, en cas de non-conclusion du contrat mentionné à l'article L. 442-1, ou si celui-ci
+méconnaît les prescriptions mentionnées au même article, en cas de non souscription d'un contrat d'assurance par
+l'accueillant, ou si le montant de l'indemnité représentative mentionnée au 4° de l'article L. 442-1 est manifestement
+abusif. En cas d'urgence, l'agrément peut être retiré sans injonction préalable ni consultation de la commission précédemment
+mentionnée.
 
-1° La durée de la période d'essai pendant laquelle les parties peuvent librement mettre fin au contrat qu'elles ont signé ;
+**Nota:**
 
-2° Les conditions dans lesquelles les parties, passé la période d'essai, peuvent modifier, suspendre, interrompre ou dénoncer
-le contrat, et notamment les effets du défaut d'assurance, le délai de prévenance, ainsi que les indemnités compensatrices
-qui seront éventuellement dues. Le délai de prévenance ne peut être inférieur à trois mois, lorsqu'il s'impose à la personne
-agréée, et à un mois lorsqu'il s'impose à la personne accueillie.
 
-Dans le cas où le contrat mentionné au premier alinéa ci-dessus n'a pas été conclu ou si ce contrat méconnaît les
-prescriptions du présent article ci-dessus, l'agrément peut être retiré selon les modalités prévues par le règlement
-mentionné au dernier alinéa de l'article L. 441-1.
 
 **Liens relatifs à cet article**
 
@@ -22488,6 +22749,11 @@ mentionné au dernier alinéa de l'article L. 441-1.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-73 2002-01-17 art. 51 I 1°, 3° JORF 18 janvier 2002
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 51 () JORF 18 janvier 2002
 
 	**Cité par**:
 
@@ -22504,13 +22770,20 @@ mentionné au dernier alinéa de l'article L. 441-1.
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L441-1 (M)
+	  - Code de l'action sociale et des familles - art. L441-1 (VT)
+	  - Code de l'action sociale et des familles - art. L442-1 (VT)
 
 
 ###### Article L441-3
 
-Un décret en Conseil d'Etat détermine les conditions d'application de l'article L. 441-1, ainsi que les modalités de retrait
-de l'agrément prévu par cet article.
+Les personnes handicapées relevant de l'article L. 344-1 peuvent faire l'objet d'un placement familial, à titre permanent ou
+temporaire, organisé sous la responsabilité d'un établissement médico-social ou d'un service mentionné audit article ou d'une
+association agréée à cet effet conjointement par le président du conseil général et le représentant de l'Etat dans le
+département, dans les conditions prévues par voie réglementaire.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -22519,9 +22792,14 @@ de l'agrément prévu par cet article.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-73 2002-01-17 art. 51 I 1°, 4° JORF 18 janvier 2002
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 51 () JORF 18 janvier 2002
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L441-1 (M)
+	  - Code de l'action sociale et des familles - art. L344-1 (V)
 
 	**Anciens textes**:
 
@@ -22532,30 +22810,82 @@ de l'agrément prévu par cet article.
 	  - Code de l'action sociale et des familles - art. L443-9 (V)
 
 
-#### Chapitre II : Accueil des personnes handicapées adultes.
+###### Article L441-4
+
+Un décret en Conseil d'Etat fixe les modalités et le délai d'instruction de la demande d'agrément, la procédure de retrait,
+la composition de la commission consultative de retrait, la durée pour laquelle ledit agrément est accordé et renouvelé ainsi
+que le délai pour représenter une nouvelle demande après décision de refus ou retrait.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 51 () JORF 18 janvier 2002
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L544-4 (V)
+
+
+#### Chapitre II : Contrat entre la personne accueillie et l'accueillant familial.
 
 ###### Article L442-1
 
-La personne qui, à titre onéreux, accueille habituellement, de manière temporaire ou permanente, à temps complet ou partiel,
-à son domicile, des personnes handicapées adultes qui n'appartiennent pas à sa famille jusqu'au quatrième degré, ni ne
-relèvent des dispositions de l'article L. 344-1, est agréée à cet effet par le président du conseil général.
+Toute personne accueillie au domicile d'un accueillant familial ou, s'il y a lieu, son représentant légal passe avec ledit
+accueillant un contrat écrit. 
 
-Les dispositions de l'article L. 441-1 s'appliquent à ce type d'accueil. L'agrément vaut, sauf mention contraire,
-habilitation à recevoir des bénéficiaires de l'aide sociale au titre de l'article L. 241-1.
+Ce contrat est conforme aux stipulations d'un contrat type établi par voie réglementaire après avis des représentants des
+présidents de conseil général. Ce contrat type précise la durée de la période d'essai et, passé cette période, les conditions
+dans lesquelles les parties peuvent modifier ou dénoncer ledit contrat, le délai de prévenance qui ne peut être inférieur à
+deux mois ainsi que les indemnités éventuellement dues. 
 
-L'habilitation peut être assortie d'une convention.
+Ce contrat précise la nature ainsi que les conditions matérielles et financières de l'accueil. Il prévoit notamment : 
+
+1° Une rémunération journalière des services rendus ainsi qu'une indemnité de congé calculée conformément aux dispositions de
+l'article L. 223-11 du code du travail ; 
+
+2° Le cas échéant, une indemnité en cas de sujétions particulières ; 
+
+3° Une indemnité représentative des frais d'entretien courant de la personne accueillie ; 
+
+4° Une indemnité représentative de mise à disposition de la ou des pièces réservées à la personne accueillie. 
+
+La rémunération ainsi que les indemnités visées aux 1° et 2° obéissent au même régime fiscal et de cotisations sociales
+obligatoires que celui des salaires. Cette rémunération, qui ne peut être inférieure à un minimum fixé par décret et évolue
+comme le salaire minimum de croissance prévu à l'article L. 141-2 du code du travail, donne lieu au versement d'un minimum de
+cotisations permettant la validation des périodes considérées pour la détermination du droit à pension conformément aux
+dispositions du premier alinéa de l'article L. 351-2 du code de la sécurité sociale. Les indemnités mentionnées
+respectivement aux 2° et 3° sont comprises entre un minimum et un maximum fixés par décret. Les montants minimaux sont
+revalorisés conformément à l'évolution des prix à la consommation, hors les prix du tabac, qui est prévue, pour l'année
+civile considérée, dans le rapport économique et financier annexé à la loi de finances. 
+
+Ce contrat prévoit également les droits et obligations des parties ainsi que les droits en matière de congés annuels des
+accueillants familiaux et les modalités de remplacement de ceux-ci.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°89-475 1989-07-10 art. 3
 	  - Loi n°89-475 du 10 juillet 1989 - art. 3 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-73 2002-01-17 art. 51 I 6°, 7° JORF 18 janvier 2002
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 51 () JORF 18 janvier 2002
 
 	**Cité par**:
 
@@ -22595,149 +22925,17 @@ L'habilitation peut être assortie d'une convention.
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L241-1 (V)
-	  - Code de l'action sociale et des familles - art. L344-1 (M)
-	  - Code de l'action sociale et des familles - art. L441-1 (M)
-
-
-###### Article L442-2
-
-L'article L. 441-2 est applicable aux personnes mentionnées à l'article L. 442-1.
-
-Un contrat type spécifique est établi par le président du conseil général pour préciser les conditions de l'accueil chez des
-particuliers de personnes handicapées adultes. Il doit prévoir, en plus des prescriptions définies aux 1° et 2° de l'article
-L. 441-2, les possibilités de déplacement offertes aux personnes handicapées concernées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°89-475 du 10 juillet 1989 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Abrogé par**:
-
-	  - Loi n°2002-73 du 17 janvier 2002 - art. 51 () JORF 18 janvier 2002
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L441-2 (M)
-	  - Code de l'action sociale et des familles - art. L442-1 (M)
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. R441-2 (M)
-
-
-###### Article L442-3
-
-Les personnes handicapées relevant de l'article L. 344-1 peuvent faire l'objet d'un placement familial, à titre permanent ou
-temporaire, organisé sous la responsabilité d'un établissement médico-social ou d'un service mentionné audit article ou d'une
-association agréée à cet effet conjointement par le président du conseil général et le représentant de l'Etat dans le
-département, dans les conditions prévues par voie réglementaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°89-475 du 10 juillet 1989 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Transféré par**:
-
-	  - Loi n°2002-73 du 17 janvier 2002 - art. 51 () JORF 18 janvier 2002
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. L122-2 (V)
-	  - Code de l'action sociale et des familles - art. L122-3 (V)
-	  - Code de l'action sociale et des familles - art. L443-9 (M)
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L344-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L441-3 (AbD)
-	  - Code de l'action sociale et des familles - art. L441-3 (M)
+	  - Code de la sécurité sociale. - art. L351-2 (V)
 
 
 #### Chapitre III : Dispositions communes.
-
-###### Article L443-1
-
-Le contrat passé entre les parties en vertu des articles L. 441-1 et L. 442-1 précise les éléments suivants de la
-rémunération versée à la personne agréée :
-
-1° Une rémunération journalière des services rendus majorée, le cas échéant, pour sujétions particulières ;
-
-2° Une indemnité représentative des frais d'entretien courant de la personne accueillie ;
-
-3° Un loyer pour la ou les pièces qui lui sont réservées.
-
-La rémunération journalière des services rendus, mentionnée au 1°, obéit au même régime fiscal que celui des salaires si elle
-est comprise entre un minimum, fixé par décret, qui évolue comme le minimum garanti prévu par l'article L. 141-8 du code du
-travail et un maximum fixé par le président du conseil général et si l'indemnité mentionnée au 2° est comprise entre un
-minimum et un maximum fixés par décret, par référence au minimum garanti prévu par l'article L. 141-8 du code du travail.
-
-Lorsque le loyer atteint un montant abusif, le président du conseil général enjoint à la personne accueillante de revoir le
-montant du loyer. En cas de refus, le président du conseil général retire l'agrément.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°89-475 1989-07-10 art. 6
-	  - Loi n°89-475 du 10 juillet 1989 - art. 6 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Abrogé par**:
-
-	  - Loi n°2002-73 du 17 janvier 2002 - art. 51 () JORF 18 janvier 2002
-
-	**Cite**:
-
-	  - Code du travail - art. L141-8 (AbD)
-	  - Code de l'action sociale et des familles - art. L441-1 (M)
-	  - Code de l'action sociale et des familles - art. L442-1 (M)
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 80 octies (M)
-	  - Code de l'action sociale et des familles - art. L232-18 (M)
-	  - Code de l'action sociale et des familles - art. L232-19 (M)
-	  - Code de l'action sociale et des familles - art. L443-10 (M)
-	  - Code de la construction et de l'habitation. - art. L351-15 (V)
-	  - Code de la construction et de l'habitation. - art. L442-8-1 (V)
-	  - Code de la construction et de l'habitation. - art. R331-41 bis (V)
-	  - Code de la construction et de l'habitation. - art. R331-66 (V)
-	  - Code de la construction et de l'habitation. - art. R351-17 (V)
-	  - Code de la construction et de l'habitation. - art. R353-131 (V)
-	  - Code de la construction et de l'habitation. - art. R353-168 (V)
-	  - Code de la construction et de l'habitation. - art. R353-202 (V)
-	  - Code de la construction et de l'habitation. - art. R353-37 (V)
-	  - Code de la construction et de l'habitation. - art. R353-64 (V)
-
 
 ###### Article L443-2
 
 Les personnes condamnées pour les délits de vol, escroquerie, recel, abus de confiance, agression sexuelle, soustraction
 commise par un dépositaire de l'autorité publique, faux témoignage, corruption et trafic d'influence, faux, et pour les
-délits punis des peines de vol, de l'escroquerie et de l'abus de confiance, ne peuvent être agréées au titre des articles L.
-441-1 et L. 442-1.
+délits punis des peines de vol, de l'escroquerie et de l'abus de confiance, ne peuvent être agréées au titre de l'article L.
+441-1.
 
 **Liens relatifs à cet article**
 
@@ -22750,34 +22948,17 @@ délits punis des peines de vol, de l'escroquerie et de l'abus de confiance, ne 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'action sociale et des familles - art. L441-1 (M)
-	  - Code de l'action sociale et des familles - art. L442-1 (M)
-
-
-###### Article L443-3
-
-Si la santé, la sécurité ou le bien-être physique et moral des personnes accueillies se trouvent menacés ou compromis par les
-conditions d'accueil, le représentant de l'Etat dans le département enjoint à la personne agréée de remédier aux
-insuffisances, inconvénients ou abus constatés dans le délai qu'il lui fixe à cet effet et en informe le président du conseil
-général. S'il n'a pas été satisfait à l'injonction dans ce délai ou, à tout moment, en cas d'urgence, il est mis fin à
-l'accueil. Cette mesure emporte retrait de l'agrément. Le président du conseil général en est immédiatement informé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°89-475 du 10 juillet 1989 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 51 () JORF 18 janvier 2002
 
 	**Abrogé par**:
 
-	  - Loi n°2002-73 du 17 janvier 2002 - art. 51 () JORF 18 janvier 2002
+	  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 15 () JORF 2 décembre 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L441-1 (M)
 
 
 ###### Article L443-4
@@ -22785,8 +22966,6 @@ l'accueil. Cette mesure emporte retrait de l'agrément. Le président du conseil
 Le bénéficiaire de l'agrément est tenu de souscrire un contrat d'assurance garantissant les conséquences pécuniaires de sa
 responsabilité civile en raison des dommages subis par les personnes accueillies et d'en justifier auprès du président du
 conseil général.
-
-A défaut, l'agrément peut être retiré.
 
 De même, la personne accueillie est tenue de justifier d'un contrat d'assurance garantissant les conséquences pécuniaires de
 sa responsabilité civile en raison des dommages subis par les tiers et leurs biens. Le bénéficiaire de l'agrément a la
@@ -22798,7 +22977,6 @@ Un décret fixe les modalités d'application du présent article.
 
 	**Anciens textes**:
 
-	  - Loi n°89-475 1989-07-10 art. 12 par. I, par. II, par. IV
 	  - Loi n°89-475 du 10 juillet 1989 - art. 12 (Ab)
 
 	**Cité par**:
@@ -22814,6 +22992,10 @@ Un décret fixe les modalités d'application du présent article.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 51 () JORF 18 janvier 2002
 
 
 ###### Article L443-5
@@ -22847,7 +23029,8 @@ locataire.
 
 ###### Article L443-6
 
-Le bénéficiaire de l'agrément, son conjoint ou concubin, ses descendants en ligne directe, ne peuvent profiter de
+Le couple ou la personne accueillant familial et, s'il y a lieu, son conjoint, la personne avec laquelle elle a conclu un
+pacte civil de solidarité ou son concubin, ses ascendants ou descendants en ligne directe, ne peuvent profiter de
 dispositions entre vifs ou testamentaires en leur faveur par la ou les personnes qu'ils accueillent que dans les conditions
 fixées à l'article 909 du code civil. L'article 911 dudit code est applicable aux libéralités en cause.
 
@@ -22862,19 +23045,27 @@ fixées à l'article 909 du code civil. L'article 911 dudit code est applicable 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 51 () JORF 18 janvier 2002
+
+	**Abrogé par**:
+
+	  - Loi n°2015-1776 du 28 décembre 2015 - art. 28
+
 	**Cite**:
 
-	  - Code civil - art. 909 (M)
-	  - Code civil - art. 911 (M)
+	  - Code civil - art. 909
+	  - Code civil - art. 911 (V)
 
 
 ###### Article L443-7
 
-Dans le cas où le bénéficiaire de l'agrément est tuteur de la personne qu'il accueille, le contrat prévu aux articles L.
-441-2 et L. 442-1 est conclu par le subrogé tuteur ou, à défaut de subrogé tuteur, par un tuteur ad hoc nommé par le juge des
-tutelles. Le contrat doit être homologué par le conseil de famille ou, en l'absence de conseil de famille, par le juge des
-tutelles. L'homologation du juge des tutelles est également requise si le juge a autorisé le majeur protégé à conclure lui-
-même le contrat avec son tuteur en application de l'article 501 du code civil ou lorsque le bénéficiaire de l'agrément est le
+Dans le cas où le bénéficiaire de l'agrément est tuteur de la personne qu'il accueille, le contrat prévu à l'article L. 442-1
+est conclu par le subrogé tuteur ou, à défaut de subrogé tuteur, par un tuteur ad hoc nommé par le juge des tutelles. Le
+contrat doit être homologué par le conseil de famille ou, en l'absence de conseil de famille, par le juge des tutelles.
+L'homologation du juge des tutelles est également requise si le juge a autorisé le majeur protégé à conclure lui-même le
+contrat avec son tuteur en application de l'article 501 du code civil ou lorsque le bénéficiaire de l'agrément est le
 curateur de la personne accueillie.
 
 **Liens relatifs à cet article**
@@ -22888,11 +23079,14 @@ curateur de la personne accueillie.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 51 () JORF 18 janvier 2002
+
 	**Cite**:
 
-	  - Code civil - art. 501 (AbD)
-	  - Code de l'action sociale et des familles - art. L441-2 (M)
-	  - Code de l'action sociale et des familles - art. L442-1 (M)
+	  - Code civil - art. 501 (V)
+	  - Code de l'action sociale et des familles - art. L442-1 (VT)
 
 
 ###### Article L443-8
@@ -22925,8 +23119,8 @@ par le président du conseil général de régulariser sa situation dans le dél
 
 Le fait d'accueillir à son domicile, à titre onéreux, des personnes âgées ou handicapées adultes, sans avoir déféré à la mise
 en demeure prévue à l'article L. 443-8 ou après une décision de refus ou de retrait d'agrément, alors que cet hébergement est
-soumis aux conditions mentionnées aux articles L. 441-1, L. 442-1 et L. 442-3, est puni des peines prévues par l'article L.
-321-4. Dans ce cas le représentant de l'Etat dans le département met fin à l'accueil.
+soumis aux conditions mentionnées aux articles L. 441-1 et L. 441-3, est puni des peines prévues par l'article L. 321-4. Dans
+ce cas le représentant de l'Etat dans le département met fin à l'accueil.
 
 **Liens relatifs à cet article**
 
@@ -22939,13 +23133,16 @@ soumis aux conditions mentionnées aux articles L. 441-1, L. 442-1 et L. 442-3, 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 51 () JORF 18 janvier 2002
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L321-4 (M)
-	  - Code de l'action sociale et des familles - art. L441-1 (M)
-	  - Code de l'action sociale et des familles - art. L442-1 (M)
-	  - Code de l'action sociale et des familles - art. L442-3 (T)
-	  - Code de l'action sociale et des familles - art. L443-8 (AbD)
+	  - Code de l'action sociale et des familles - art. L321-4 (VT)
+	  - Code de l'action sociale et des familles - art. L441-1 (VT)
+	  - Code de l'action sociale et des familles - art. L441-3 (VT)
+	  - Code de l'action sociale et des familles - art. L443-8 (VT)
 
 	**Cité par**:
 
@@ -22954,15 +23151,17 @@ soumis aux conditions mentionnées aux articles L. 441-1, L. 442-1 et L. 442-3, 
 
 ###### Article L443-10
 
-Sans préjudice des dispositions relatives à l'accueil thérapeutique, les personnes agréées mentionnées aux articles L. 441-1
-et L. 442-1 peuvent accueillir des malades mentaux en accueil familial thérapeutique organisé sous la responsabilité d'un
-établissement ou d'un service de soins. Les obligations incombant au président du conseil général en vertu de l'article L.
-441-1 sont assumées par l'établissement ou le service de soins mentionné ci-dessus.
+Sans préjudice des dispositions relatives à l'accueil thérapeutique, les personnes agréées mentionnées à l'article L. 441-1
+peuvent accueillir des malades mentaux en accueil familial thérapeutique organisé sous la responsabilité d'un établissement
+ou d'un service de soins. Les obligations incombant au président du conseil général en vertu de l'article L. 441-2 sont
+assumées par l'établissement ou le service de soins mentionné ci-dessus.
+
+Pour chaque personne accueillie, l'établissement ou service de soins passe avec l'accueillant familial un contrat écrit.
 
 En contrepartie des prestations fournies, l'établissement ou service de soins attribue :
 
 1° Une rémunération journalière de service rendu majorée, le cas échéant, pour sujétion particulière ; cette rémunération ne
-peut être inférieure au minimum fixé en application de l'article L. 443-1 pour la rémunération mentionnée au 1° de cet
+peut être inférieure au minimum fixé en application de l'article L. 442-1 pour la rémunération mentionnée au 1° de cet
 article et obéit au même régime fiscal que celui des salaires ;
 
 2° Une indemnité représentative des frais d'entretien courant de la personne accueillie ;
@@ -22972,17 +23171,25 @@ article et obéit au même régime fiscal que celui des salaires ;
 4° Une indemnité correspondant aux prestations de soutien offertes au patient, dont le montant minimum est fixé par le
 représentant de l'Etat dans le département et qui est modulé selon les prestations demandées à la famille d'accueil.
 
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°89-475 1989-07-10 art. 18
 	  - Loi n°89-475 du 10 juillet 1989 - art. 18 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-73 2002-01-17 art. 51 I 16°, 17°, 18° JORF 18 janvier 2002
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 51 () JORF 18 janvier 2002
 
 	**Cité par**:
 
@@ -22994,8 +23201,8 @@ représentant de l'Etat dans le département et qui est modulé selon les presta
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L441-1 (M)
+	  - Code de l'action sociale et des familles - art. L441-2 (M)
 	  - Code de l'action sociale et des familles - art. L442-1 (M)
-	  - Code de l'action sociale et des familles - art. L443-1 (Ab)
 
 
 ###### Article L443-11
@@ -23025,6 +23232,30 @@ Les dispositions de l'article L. 315-14-1 sont applicables aux salariés d'une p
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L315-14-1 (Ab)
+
+
+###### Article L443-12
+
+Les personnes morales de droit public ou de droit privé qui gèrent des établissements et services mentionnés aux 5° à 7° de
+l'article L. 312-1 peuvent, avec l'accord du président du conseil général, être employeurs des accueillants familiaux.
+
+Dans ce cas, il est conclu entre l'accueillant familial et son employeur pour chaque personne accueillie à titre permanent un
+contrat de travail distinct du contrat d'accueil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 51 () JORF 18 janvier 2002
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L312-1 (M)
 
 
 ### Titre V : Formation des travailleurs sociaux
@@ -23223,13 +23454,12 @@ notamment celles prévues aux articles L. 451-1 et L. 451-2.
 
 ### Titre Ier : Départements du Bas-Rhin, du Haut-Rhin et de la Moselle
 
-#### Chapitre Ier : Dispositions générales.
+#### Chapitre Ier : Aide sociale communale
 
 ###### Article L511-1
 
-Les dispositions des livres précédents du présent code ne font pas obstacle à l'application dans les départements du Bas-
-Rhin, du Haut-Rhin et de la Moselle des lois locales du 30 mai 1908 sur le domicile de secours et du 8 novembre 1909 prise
-pour son exécution.
+Les dispositions du présent code ne font pas obstacle à l'application, dans les départements du Bas-Rhin, du Haut-Rhin et de
+la Moselle, des dispositions du présent chapitre.
 
 **Liens relatifs à cet article**
 
@@ -23237,6 +23467,10 @@ pour son exécution.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 220 () JORF 18 janvier 2002
 
 	**Cité par**:
 
@@ -23245,16 +23479,13 @@ pour son exécution.
 	  - Code de l'action sociale et des familles - art. L511-5 (V)
 	  - Code de l'action sociale et des familles - art. L512-1 (M)
 
-	**Cite**:
-
-	  - Loi n°1908-05-30
-	  - Loi n°1909-11-08
-
 
 ###### Article L511-2
 
-Un décret en Conseil d'Etat fixe, pour ces départements, les mesures rendues nécessaires pour l'application de l'article L.
-511-1.
+Toute personne dénuée de ressources et âgée de plus de seize ans doit recevoir de la commune dans laquelle elle se trouve un
+abri, l'entretien indispensable, les soins et prescriptions nécessaires en cas de maladie ainsi que des funérailles décentes.
+L'aide est accordée sans préjudice du droit de réclamer le remboursement des frais à la commune dans laquelle la personne
+dénuée de ressources a son domicile de secours communal.
 
 **Liens relatifs à cet article**
 
@@ -23263,9 +23494,9 @@ Un décret en Conseil d'Etat fixe, pour ces départements, les mesures rendues n
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'action sociale et des familles - art. L511-1 (M)
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 220 () JORF 18 janvier 2002
 
 	**Cité par**:
 
@@ -23275,18 +23506,176 @@ Un décret en Conseil d'Etat fixe, pour ces départements, les mesures rendues n
 	  - Code de l'action sociale et des familles - art. L512-1 (VD)
 
 
+###### Article L511-3
+
+L'aide prévue à l'article L. 511-2 peut être notamment octroyée en distribuant à la personne dénuée de ressources des secours
+en nature ou en espèces, en assurant son placement dans un établissement d'accueil approprié, en lui fournissant du travail
+adapté à ses capacités ou en lui procurant un accompagnement socio-éducatif. 
+
+A ces fins, la commune peut créer des structures d'insertion ou d'hébergement temporaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 220 () JORF 18 janvier 2002
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L511-2 (V)
+
+
+###### Article L511-4
+
+L'aide prévue à l'article L. 511-2 peut être confiée par le conseil municipal à un établissement public spécialisé. Elle peut
+être assurée dans le cadre d'une coopération intercommunale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 220 () JORF 18 janvier 2002
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L511-2 (V)
+
+
+###### Article L511-5
+
+Le domicile de secours communal est déterminé par application aux communes des départements mentionnés à l'article L. 511-1
+des règles prévues au chapitre II du titre II du livre Ier pour la détermination du domicile de secours départemental.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 220 () JORF 18 janvier 2002
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L511-1 (V)
+
+
+###### Article L511-6
+
+L'aide prévue à l'article L. 511-2 est à la charge de la commune dans laquelle la personne dénuée de ressources a son
+domicile de secours communal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 220 () JORF 18 janvier 2002
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L511-2 (V)
+
+
+###### Article L511-7
+
+En cas de carence de l'intéressé, le maire de la commune peut demander en son lieu et place à l'autorité judiciaire la
+fixation de la dette alimentaire et le versement de son montant à la commune.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 220 () JORF 18 janvier 2002
+
+
+###### Article L511-8
+
+Les dépenses résultant de l'application des dispositions du présent chapitre sont inscrites au budget communal à titre de
+dépenses obligatoires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 220 () JORF 18 janvier 2002
+
+
+###### Article L511-9
+
+Les décisions individuelles d'attribution ou de refus d'attribution d'une aide, prises en application du présent chapitre,
+peuvent faire l'objet de recours contentieux dans les conditions prévues au chapitre IV du titre III du livre Ier.
+
+Les contestations relatives à la détermination du domicile de secours communal sont portées, en premier ressort, devant le
+tribunal administratif de Strasbourg.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 220 () JORF 18 janvier 2002
+
+
+###### Article L511-10
+
+Un décret en Conseil d'Etat fixe en tant que de besoin, pour les départements mentionnés à l'article L. 511-1, les mesures
+d'adaptation des dispositions du présent code rendues nécessaires pour l'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 220 () JORF 18 janvier 2002
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L511-1 (V)
+
+
 #### Chapitre II : Revenu minimum d'insertion.
 
 ###### Article L512-1
 
 Le versement de l'allocation de revenu minimum d'insertion prévue à l'article L. 262-1 n'est pas subordonné à la condition
-que l'intéressé fasse valoir ses droits au titre des lois mentionnées à l'article L. 511-1.
+que l'intéressé fasse valoir ses droits aux prestations prévues aux articles L. 511-2 à L. 511-9.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°88-1088 1988-12-01 art. 23 al. 1
 	  - Loi n°88-1088 du 1 décembre 1988 - art. 23 (Ab)
 
 	**Codifié par**:
@@ -23294,10 +23683,14 @@ que l'intéressé fasse valoir ses droits au titre des lois mentionnées à l'ar
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 220 () JORF 18 janvier 2002
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L262-1 (V)
-	  - Code de l'action sociale et des familles - art. L511-1 (M)
+	  - Code de l'action sociale et des familles - art. L262-1 (VD)
+	  - Code de l'action sociale et des familles - art. L511-2 (V)
 
 
 ###### Article L512-2
