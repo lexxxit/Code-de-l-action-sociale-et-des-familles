@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2002-09-05
+Version Consolidée au 2002-12-24
 
 # Partie législative
 
@@ -16875,6 +16875,9 @@ Sauf pour les établissements et services mentionnés au 4° du I de l'article L
 durée de quinze ans. Le renouvellement, total ou partiel, est exclusivement subordonné aux résultats de l'évaluation externe
 mentionnée au deuxième alinéa de l'article L. 312-8.
 
+A titre transitoire, la première autorisation délivrée aux centres de soins spécialisés aux toxicomanes conformément aux
+dispositions du présent article a une durée de trois ans.
+
 Toute autorisation est caduque si elle n'a pas reçu un commencement d'exécution dans un délai de trois ans à compter de sa
 date de notification.
 
@@ -17003,7 +17006,7 @@ handicapées adultes.
 
 	**Modifié par**:
 
-	  - Loi n°2002-303 du 4 mars 2002 - art. 39 () JORF 5 mars 2002 en vigueur le 5 septembre 2002
+	  - Loi n°2002-1487 du 20 décembre 2002 - art. 38 (V) JORF 24 décembre 2002
 
 	**Cite**:
 
@@ -17716,9 +17719,10 @@ I. - Les établissements assurant l'hébergement des personnes âgées mentionn�
 code et les établissements de santé dispensant des soins de longue durée visés au 2° de l'article L. 6111-2 du code de la
 santé publique qui accueillent un nombre de personnes âgées dépendantes dans une proportion supérieure à un seuil fixé par
 décret ne peuvent accueillir des personnes âgées remplissant les conditions de perte d'autonomie mentionnées à l'article L.
-232-2 que s'ils ont passé avant le 31 décembre 2003 une convention pluriannuelle avec le président du conseil général et
-l'autorité compétente de l'Etat, qui respecte le cahier des charges établi par arrêté ministériel, après avis des organismes
-nationaux d'assurance maladie et des représentants des présidents de conseils généraux.
+232-2 que s'ils ont passé avant le 31 décembre 2005, ou avant le 31 décembre 2006 pour les établissements mentionnés à
+l'article L. 633-1 du code de la construction et de l'habitation une convention pluriannuelle avec le président du conseil
+général et l'autorité compétente de l'Etat, qui respecte le cahier des charges établi par arrêté ministériel, après avis des
+organismes nationaux d'assurance maladie et des représentants des présidents de conseils généraux.
 
 II. - Les établissements mentionnés au I dont la capacité est inférieure à un seuil fixé par décret ont la possibilité de
 déroger aux règles mentionnées au 1° de l'article L. 314-2. Dans ces établissements, les modalités de tarification des
@@ -17950,7 +17954,7 @@ mentionnés au I peuvent faire appel à ces praticiens dans les conditions prév
 
 	**Modifié par**:
 
-	  - Loi n°2002-303 du 4 mars 2002 - art. 39 () JORF 5 mars 2002 en vigueur le 5 septembre 2002
+	  - Loi n°2002-1487 du 20 décembre 2002 - art. 42 () JORF 24 décembre 2002
 
 	**Cite**:
 
@@ -17958,6 +17962,7 @@ mentionnés au I peuvent faire appel à ces praticiens dans les conditions prév
 	  - Code de la santé publique - art. L6152-1 (M)
 	  - Code de l'action sociale et des familles - art. L232-2 (M)
 	  - Code de l'action sociale et des familles - art. L312-1 (M)
+	  - Code de la construction et de l'habitation. - art. L633-1 (M)
 
 
 ##### Section 4 : Contrôle
@@ -18683,7 +18688,9 @@ sociale, en dotations régionales limitatives. Le montant de ces dotations est f
 sociale et de l'action sociale, en fonction des besoins de la population, des orientations définies par les schémas prévus à
 l'article L. 312-5, des priorités définies au niveau national en matière de politique médico-sociale, en tenant compte de
 l'activité et des coûts moyens des établissements et services et d'un objectif de réduction progressive des inégalités dans
-l'allocation des ressources entre régions.
+l'allocation des ressources entre régions. Il prend en compte les évolutions à l'issue desquelles des établissements
+auparavant régis par l'article L. 6114-3 du code de la santé publique se trouvent placés, compte tenu de leur activité
+réelle, sous le régime de financement prévu au présent article.
 
 Chaque dotation régionale est répartie par le représentant de l'Etat dans la région, en liaison avec le directeur de l'agence
 régionale de l'hospitalisation et les représentants de l'Etat dans les départements en dotations départementales limitatives.
@@ -18701,12 +18708,6 @@ décret.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Modifié par**:
-
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 50 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 53 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -18756,8 +18757,13 @@ décret.
 	  - Code de la sécurité sociale. - art. L162-43 (Ab)
 	  - Code de la sécurité sociale. - art. L174-5 (M)
 
+	**Modifié par**:
+
+	  - Loi n°2002-1487 du 20 décembre 2002 - art. 22 () JORF 24 décembre 2002
+
 	**Cite**:
 
+	  - Code de la santé publique - art. L6114-3 (M)
 	  - Code de l'action sociale et des familles - art. L312-5 (M)
 
 
@@ -19084,6 +19090,13 @@ L'accueil temporaire est défini par voie réglementaire.
 Les dépenses de fonctionnement des appartements de coordination thérapeutique mentionnés au 9° du I de l'article L. 312-1
 sont prises en charge par les régimes d'assurance maladie, sans préjudice d'une participation des collectivités locales.
 
+Les dépenses médico-sociales des centres de soins spécialisés aux toxicomanes relevant des catégories d'établissements
+mentionnées au 9° du I de l'article L. 312-1 sont prises en charge par l'assurance maladie sans préjudice d'autres
+participations, notamment des collectivités locales, et sans qu'il soit fait application des dispositions du code de la
+sécurité sociale et du code rural relatives à l'ouverture du droit aux prestations couvertes par les régimes de base, au
+remboursement de la part garantie par l'assurance maladie, à la participation de l'assuré aux tarifs servant de base aux
+remboursements, ainsi qu'au forfait mentionné à l'article L. 174-4 du code de la sécurité sociale.
+
 Dans les établissements et services visés au 6° du I de l'article L. 312-1 qui ne disposent pas de pharmacie à usage
 intérieur, les prestations de soins mentionnées au 1° de l'article L. 314-2 ne comprennent pas l'achat, la fourniture, la
 prise en charge et l'utilisation des médicaments inscrits sur la liste des spécialités pharmaceutiques remboursables
@@ -19128,12 +19141,13 @@ L. 165-1 du même code.
 
 	**Modifié par**:
 
-	  - Loi n°2002-303 du 4 mars 2002 - art. 96 () JORF 5 mars 2002
+	  - Loi n°2002-1487 du 20 décembre 2002 - art. 38 (V) JORF 24 décembre 2002
 
 	**Cite**:
 
 	  - Code de la sécurité sociale. - art. L162-17 (M)
 	  - Code de la sécurité sociale. - art. L165-1 (MMN)
+	  - Code de la sécurité sociale. - art. L174-4 (M)
 	  - Code de l'action sociale et des familles - art. L312-1 (M)
 	  - Code de l'action sociale et des familles - art. L314-2 (M)
 
