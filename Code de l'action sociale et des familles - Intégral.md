@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2001-07-18
+Version Consolidée au 2001-11-17
 
 # Partie législative
 
@@ -17456,6 +17456,40 @@ Les modalités d'application des dispositions qui précèdent sont fixées par v
 	  - Code de l'action sociale et des familles - art. R315-48 (V)
 
 
+###### Article L315-14-1
+
+Dans les établissements et services mentionnés à l'article L. 312-1, le fait qu'un salarié ou un agent a témoigné de mauvais
+traitements ou privations infligés à une personne accueillie ou relaté de tels agissements ne peut être pris en considération
+pour décider de mesures défavorables le concernant en matière d'embauche, de rémunération, de formation, d'affectation, de
+qualification, de classification, de promotion professionnelle, de mutation ou de renouvellement du contrat de travail, ou
+pour décider la résiliation du contrat de travail ou une sanction disciplinaire.
+
+En cas de licenciement, le juge peut prononcer la réintégration du salarié concerné si celui-ci le demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2001-1066 du 16 novembre 2001 - art. 8 () JORF 17 novembre 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 69 () JORF 3 janvier 2002
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L312-1 (M)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L443-11 (Ab)
+
+
 ###### Article L315-15
 
 Sauf disposition contraire, les modalités d'application du présent chapitre sont déterminées par décret en Conseil d'Etat et
@@ -21020,6 +21054,35 @@ représentant de l'Etat dans le département et qui est modulé selon les presta
 	  - Code de l'action sociale et des familles - art. L441-1 (M)
 	  - Code de l'action sociale et des familles - art. L442-1 (M)
 	  - Code de l'action sociale et des familles - art. L443-1 (Ab)
+
+
+###### Article L443-11
+
+Les dispositions de l'article L. 315-14-1 sont applicables aux salariés d'une personne ou d'un couple accueillant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2001-1066 du 16 novembre 2001 - art. 8 () JORF 17 novembre 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 15 () JORF 2 décembre 2005
+
+	**Cité par**:
+
+	  - Loi n°2015-1776 du 28 décembre 2015 - art. 96 (V)
+	  - Code de l'action sociale et des familles - art. R14-10-49 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L315-14-1 (Ab)
 
 
 ### Titre V : Formation des travailleurs sociaux
