@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2001-11-17
+Version Consolidée au 2001-12-26
 
 # Partie législative
 
@@ -10116,7 +10116,8 @@ Adaptée à l'état et à l'âge de la personne et eu égard aux moyens disponib
 
 Tout étranger résidant en France sans remplir les conditions fixées par l'article L. 380-1 du code de la sécurité sociale et
 dont les ressources ne dépassent pas le plafond mentionné à l'article L. 861-1 de ce code a droit, pour lui-même et les
-personnes à sa charge au sens des articles L. 161-14 et L. 313-3 de ce code, à l'aide médicale de l'Etat.
+personnes à sa charge au sens des articles L. 161-14 et L. 313-3 de ce code, autres que celles visées à l'article L. 380-5 de
+ce code à l'aide médicale de l'Etat.
 
 En outre, toute personne qui, ne résidant pas en France, est présente sur le territoire français, et dont l'état de santé le
 justifie, peut, par décision individuelle prise par le ministre chargé de l'action sociale, bénéficier de l'aide médicale de
@@ -10174,17 +10175,21 @@ l'article L. 251-2 peut être partielle.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de la famille et de l'aide sociale. - art. 187-1 (M)
-	  - Code de la famille et de l'aide sociale. - art. 187-1 (Ab)
+	  - Loi n°2001-1246 du 21 décembre 2001 - art. 37 () JORF 26 décembre 2001
 
 	**Cite**:
 
 	  - Code de la sécurité sociale. - art. L161-14 (M)
 	  - Code de la sécurité sociale. - art. L313-3 (V)
 	  - Code de la sécurité sociale. - art. L380-1 (V)
+	  - Code de la sécurité sociale. - art. L380-5 (Ab)
 	  - Code de la sécurité sociale. - art. L861-1 (M)
+
+	**Anciens textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 187-1 (Ab)
 
 
 ###### Article L251-2
@@ -17205,15 +17210,15 @@ afférents aux prestations correspondantes.
 Ce montant total est fixé par application d'un taux d'évolution aux dépenses de l'année précédente au plus tard dans les
 quinze jours qui suivent la publication de la loi de financement de la sécurité sociale.
 
-Ce montant total annuel est constitué en dotations limitatives régionales. Le montant de ces dotations est fixé par les
-ministres chargés de la sécurité sociale et de l'action sociale en fonction des besoins de la population, des orientations
-définies par les schémas prévus à l'article L. 311-3, des priorités définies au niveau national en matière de politique
-médico-sociale, en tenant compte de l'activité et des coûts des établissements et services et d'un objectif de réduction
-progressive des inégalités dans l'allocation des ressources entre régions ; les dotations régionales sont réparties en
-dotations départementales limitatives par le préfet de région, en liaison avec le directeur de l'agence régionale de
-l'hospitalisation et les préfets concernés ; ces dotations départementales limitatives peuvent, dans les mêmes conditions,
-être réparties par le préfet en dotations affectées par catégories de bénéficiaires ou à certaines prestations dans des
-conditions fixées par décret.
+Ce montant total annuel est constitué, après imputation de la part mentionnée à l'article L. 162-43 du code de la sécurité
+sociale, en dotations limitatives régionales. Le montant de ces dotations est fixé par les ministres chargés de la sécurité
+sociale et de l'action sociale en fonction des besoins de la population, des orientations définies par les schémas prévus à
+l'article L. 311-3, des priorités définies au niveau national en matière de politique médico-sociale, en tenant compte de
+l'activité et des coûts des établissements et services et d'un objectif de réduction progressive des inégalités dans
+l'allocation des ressources entre régions ; les dotations régionales sont réparties en dotations départementales limitatives
+par le préfet de région, en liaison avec le directeur de l'agence régionale de l'hospitalisation et les préfets concernés ;
+ces dotations départementales limitatives peuvent, dans les mêmes conditions, être réparties par le préfet en dotations
+affectées par catégories de bénéficiaires ou à certaines prestations dans des conditions fixées par décret.
 
 Les modalités d'application du présent article sont fixées par décret.
 
@@ -17238,15 +17243,19 @@ Les modalités d'application du présent article sont fixées par décret.
 	  - Code de l'action sociale et des familles - art. R314-3 (V)
 	  - Code de l'action sociale et des familles - art. R314-39-1 (V)
 	  - Code de l'action sociale et des familles - art. R314-64 (VD)
-	  - Code de la sécurité sociale. - art. L162-43 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2001-1246 du 21 décembre 2001 - art. 36 () JORF 26 décembre 2001
+
 	**Cite**:
 
+	  - Code de la sécurité sociale. - art. L162-43 (M)
 	  - Code de l'action sociale et des familles - art. L311-3 (M)
 
 
