@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2002-01-01
+Version Consolidée au 2002-01-03
 
 # Partie législative
 
@@ -123,6 +123,42 @@ droit aux prestations d'aide sociale sur décision de la commission mentionnée 
 
 	  - Code de la famille et de l'aide sociale. - art. 194 (M)
 	  - Code de la famille et de l'aide sociale. - art. 194 (Ab)
+
+
+###### Article L111-3-1
+
+La demande d'admission à l'aide sociale dans les centres d'hébergement et de réinsertion sociale est réputée acceptée lorsque
+le représentant de l'Etat dans le département n'a pas fait connaître sa réponse dans un délai d'un mois qui suit la date de
+sa réception.
+
+Lorsque la durée d'accueil prévisible n'excède pas cinq jours, l'admission à l'aide sociale de l'Etat est réputée acquise.
+
+Dans les centres d'hébergement et de réinsertion sociale spécialisés dans l'accueil des demandeurs d'asile et des réfugiés,
+l'admission à l'aide sociale de l'Etat est prononcée dans les conditions prévues au premier alinéa, sur proposition d'une
+commission nationale présidée par le ministre chargé de l'intégration ou son représentant.
+
+Un arrêté du ministre chargé de l'intégration fixe la composition et les modalités d'organisation et de fonctionnement de
+cette commission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 84 () JORF 3 janvier 2002
+
+	**Cité par**:
+
+	  - Loi n°2015-925 du 29 juillet 2015 - art. 35 (V)
+	  - Décret n°2015-1166 du 21 septembre 2015 - art. 30 (VD)
+	  - Code de l'action sociale et des familles - art. D311 (VD)
+	  - Code de l'action sociale et des familles - art. L541-1 (M)
+	  - Code de l'action sociale et des familles - art. R345-8 (Ab)
+	  - Code de l'action sociale et des familles - art. R348-1 (VT)
 
 
 ###### Article L111-4
@@ -451,19 +487,26 @@ locaux et installations soient accessibles aux personnes handicapées. "
 Afin de faciliter les déplacements des handicapés, des dispositions sont prises par voie réglementaire pour adapter les
 services de transport collectif ou pour aménager progressivement les normes de construction des véhicules de transport
 collectif, ainsi que les conditions d'accès à ces véhicules ou encore pour faciliter la création et le fonctionnement de
-services de transport spécialisés pour les handicapés ou, à défaut, l'utilisation des véhicules individuels.
+services de transport spécialisés pour les handicapés ou, à défaut, l'utilisation des véhicules individuels ainsi que leur
+stationnement.
+
+Les aménagements des espaces publics en milieu urbain doivent être tels que ces espaces soient accessibles aux personnes
+handicapées.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°75-534 1975-06-30 art. 52 al. 1
 	  - Loi n°75-534 du 30 juin 1975 - art. 52 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 85 4° JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -669,6 +712,67 @@ Sauf disposition contraire, les modalités d'application du présent chapitre so
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
 
+#### Chapitre VI : Action sociale et médico-sociale.
+
+###### Article L116-1
+
+L'action sociale et médico-sociale tend à promouvoir, dans un cadre interministériel, l'autonomie et la protection des
+personnes, la cohésion sociale, l'exercice de la citoyenneté, à prévenir les exclusions et à en corriger les effets. Elle
+repose sur une évaluation continue des besoins et des attentes des membres de tous les groupes sociaux, en particulier des
+personnes handicapées et des personnes âgées, des personnes et des familles vulnérables, en situation de précarité ou de
+pauvreté, et sur la mise à leur disposition de prestations en espèces ou en nature. Elle est mise en oeuvre par l'Etat, les
+collectivités territoriales et leurs établissements publics, les organismes de sécurité sociale, les associations ainsi que
+par les institutions sociales et médico-sociales au sens de l'article L. 311-1.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°90-449 du 31 mai 1990 - art. 7-2 (V)
+	  - Loi n°2006-1666 du 21 décembre 2006 - art. 142 (M)
+	  - Code de l'action sociale et des familles - art. L121-1 (V)
+	  - Code de l'action sociale et des familles - art. L121-6-2 (V)
+	  - Code de la construction et de l'habitation. - art. L441-2-3 (VT)
+	  - Code de la santé publique - art. L1431-1 (VD)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 1 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 2 () JORF 3 janvier 2002
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L311-1 (V)
+
+
+###### Article L116-2
+
+L'action sociale et médico-sociale est conduite dans le respect de l'égale dignité de tous les êtres humains avec l'objectif
+de répondre de façon adaptée aux besoins de chacun d'entre eux et en leur garantissant un accès équitable sur l'ensemble du
+territoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 1 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 3 () JORF 3 janvier 2002
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L1431-1 (VD)
+
+
 ### Titre II : Compétences
 
 #### Chapitre Ier : Collectivités publiques et organismes responsables
@@ -722,11 +826,7 @@ plusieurs des formes suivantes :
 3° Actions d'animation socio-éducatives.
 
 Pour la mise en oeuvre des actions mentionnées au 2° ci-dessus, le président du conseil général habilite des organismes
-publics ou privés dans les conditions prévues aux articles L. 313-5 à L. 313-7.
-
-**Nota:**
-
-Code de l'action sociale et des familles L542-4 : les dispositions du présent article sont applicables à Mayotte.
+publics ou privés dans les conditions prévues aux articles L. 313-8, L. 313-8-1 et L. 313-9.
 
 **Liens relatifs à cet article**
 
@@ -734,6 +834,10 @@ Code de l'action sociale et des familles L542-4 : les dispositions du présent a
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 75 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -756,14 +860,15 @@ Code de l'action sociale et des familles L542-4 : les dispositions du présent a
 	  - Code général des collectivités territoriales - art. L5217-2 (V)
 	  - Code général des impôts, CGI. - art. 1067 (V)
 
-	**Anciens textes**:
-
-	  - Code de la famille et de l'aide sociale. - art. 45 (M)
-	  - Code de la famille et de l'aide sociale. - art. 45 (Ab)
-
 	**Cite**:
 
-	  - Code de l'action sociale et des familles L313-5 à L313-7
+	  - Code de l'action sociale et des familles - art. L313-8 (M)
+	  - Code de l'action sociale et des familles - art. L313-8-1 (M)
+	  - Code de l'action sociale et des familles - art. L313-9 (M)
+
+	**Anciens textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 45 (Ab)
 
 
 ###### Article L121-3
@@ -1392,6 +1497,9 @@ Il participe à l'instruction des demandes d'aide sociale dans les conditions fi
 demandes dont l'instruction incombe à une autre autorité. L'établissement du dossier et sa transmission constituent une
 obligation, indépendamment de l'appréciation du bien-fondé de la demande.
 
+Le centre communal d'action sociale peut créer et gérer en services non personnalisés les établissements et services sociaux
+et médico-sociaux mentionnés à l'article L. 312-1.
+
 Le centre communal d'action sociale peut, le cas échéant, exercer les compétences que le département a confiées à la commune
 dans les conditions prévues par l'article L. 121-6.
 
@@ -1404,6 +1512,10 @@ d'action sociale qui exerce pour les communes concernées, les compétences ment
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 78 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -1419,14 +1531,14 @@ d'action sociale qui exerce pour les communes concernées, les compétences ment
 	  - Code général des collectivités territoriales - art. L5842-22 (M)
 	  - Code général des collectivités territoriales - art. L5842-28 (M)
 
-	**Anciens textes**:
-
-	  - Code de la famille et de l'aide sociale. - art. 137 (M)
-	  - Code de la famille et de l'aide sociale. - art. 137 (Ab)
-
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L121-6 (M)
+	  - Code de l'action sociale et des familles - art. L312-1 (M)
+
+	**Anciens textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 137 (Ab)
 
 
 ###### Article L123-6
@@ -1515,16 +1627,18 @@ Il dispose des ressources dont bénéficiaient les établissements d'assistance 
 ###### Article L123-8
 
 Le président du centre communal ou intercommunal d'action sociale a le droit d'accepter, à titre conservatoire, des dons et
-legs et de former, avant l'autorisation, des demandes en délivrance.
+legs et de former, avant l'autorisation, des demandes en délivrance. 
 
 La délibération du conseil d'administration qui rend l'acceptation définitive, conformément à l'article L. 2242-4 du code
-général des collectivités territoriales, a effet du jour de cette acceptation.
+général des collectivités territoriales, a effet du jour de cette acceptation. 
 
 Le centre communal ou intercommunal d'action sociale est représenté en justice et dans les actes de la vie civile par son
-président.
+président. 
 
 Les règles qui régissent la comptabilité des communes sont applicables aux centres communaux ou intercommunaux d'action
-sociale.
+sociale. Les règles qui régissent la comptabilité des établissements sociaux et médico-sociaux publics autonomes sont
+applicables aux établissements et aux services mentionnés à l'article L. 312-1 qui sont gérés par des centres communaux ou
+intercommunaux d'action sociale. 
 
 Les délibérations du conseil d'administration ne sont soumises à l'avis ou à l'avis conforme du conseil municipal que dans
 les cas prévus aux articles L. 2121-34 et L. 2241-5 du code général des collectivités territoriales.
@@ -1536,16 +1650,16 @@ les cas prévus aux articles L. 2121-34 et L. 2241-5 du code général des colle
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 78 () JORF 3 janvier 2002
+
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L2121-34 (V)
+	  - Code général des collectivités territoriales - art. L2121-34 (M)
 	  - Code général des collectivités territoriales - art. L2241-5 (M)
 	  - Code général des collectivités territoriales - art. L2242-4 (V)
-
-	**Anciens textes**:
-
-	  - Code de la famille et de l'aide sociale. - art. 140 (M)
-	  - Code de la famille et de l'aide sociale. - art. 140 (Ab)
+	  - Code de l'action sociale et des familles - art. L312-1 (V)
 
 	**Cité par**:
 
@@ -1553,6 +1667,10 @@ les cas prévus aux articles L. 2121-34 et L. 2241-5 du code général des colle
 	  - Code de l'action sociale et des familles - art. L542-2 (V)
 	  - Code de l'action sociale et des familles - art. R123-20 (V)
 	  - Code de l'action sociale et des familles - art. R123-34 (V)
+
+	**Anciens textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 140 (Ab)
 
 
 ###### Article L123-9
@@ -1782,7 +1900,7 @@ Lorsque la commission siège dans la formation prévue au 1° ci-dessus, les per
 voix consultative. Lorsqu'elle siège dans la formation prévue au 2° , les personnes mentionnées au 1° peuvent siéger avec
 voix consultative.
 
-Lorsqu'elle statue en application du deuxième alinéa de l'article L. 122-4, la commission siège en formation plénière.
+Lorsqu'elle statue en application de l'article L. 111-3, la commission siège en formation plénière.
 
 En cas d'égal partage des voix, le président a voix prépondérante.
 
@@ -1792,6 +1910,10 @@ général et le représentant de l'Etat dans le département.
 
 Le demandeur, accompagné de la personne ou d'un représentant de l'organisme de son choix, est s'il le souhaite, entendu par
 la commission.
+
+**Nota:**
+
+Ordonnance n° 2005-1477 2005-12-01 art. 1 XIV : Les dispositions du présent article entrent en vigueur le 1er janvier 2007.
 
 **Liens relatifs à cet article**
 
@@ -1809,16 +1931,23 @@ la commission.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de la famille et de l'aide sociale. - art. 126 (M)
-	  - Code de la famille et de l'aide sociale. - art. 126 (Ab)
+	  - Loi n°2002-2 2002-01-02 art. 85 2° JORF 3 janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 1 (V) JORF 2 décembre 2005 en vigueur le 1er janvier 2007
 
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L121-1 (M)
 	  - Code de l'action sociale et des familles - art. L121-7 (M)
 	  - Code de l'action sociale et des familles - art. L122-4 (V)
+
+	**Anciens textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 126 (Ab)
 
 
 ###### Article L131-6
@@ -2493,6 +2622,38 @@ Code de l'action sociale et des familles L541-2 : les dispositions du présent a
 	  - Code de l'action sociale et des familles - art. L135-1 (V)
 
 
+###### Article L133-6-1
+
+Est incapable d'exploiter, de diriger tout établissement, service ou structure régie par le présent code, d'y exercer une
+fonction, à quelque titre que ce soit, ou d'être agréée, toute personne condamnée définitivement pour crime, ou condamnée
+pour les délits prévus aux chapitres Ier, II, III, à l'exception de la section 4, IV, à l'exception de la section 2, V et VII
+du titre II du livre II du code pénal.
+
+Ces dispositions s'appliquent également :
+
+1° Aux assistants maternels visés par les articles L. 421-1 et suivants du présent code ;
+
+2° Aux établissements et services visés par l'article L. 214-1 du présent code et par l'article L. 2324-1 du code de la santé
+publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 81 () JORF 3 janvier 2002
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L2324-1 (M)
+	  - Code de l'action sociale et des familles - art. L214-1 (M)
+	  - Code de l'action sociale et des familles - art. L421-1 (M)
+
+
 ###### Article L133-7
 
 Sauf disposition contraire, les modalités d'application des articles L. 133-1, L. 133-2, L. 133-3 et des articles L. 133-5 et
@@ -2552,6 +2713,18 @@ réglementaire.
 
 Les décisions des commissions départementales sont susceptibles d'appel devant la commission centrale d'aide sociale.
 
+La commission centrale d'aide sociale est composée de sections et de sous-sections dont le nombre est fixé par décret en
+Conseil d'Etat.
+
+Le président de la commission centrale d'aide sociale est nommé par le ministre chargé de l'action sociale, sur proposition
+du vice-président du Conseil d'Etat, parmi les conseillers d'Etat en activité ou honoraires.
+
+Chaque section ou sous-section comprend en nombre égal, d'une part, des membres du Conseil d'Etat, des magistrats de la Cour
+des comptes ou des magistrats de l'ordre judiciaire en activité ou honoraires désignés respectivement par le vice-président
+du Conseil d'Etat, le premier président de la Cour des comptes ou le garde des sceaux, ministre de la justice, d'autre part,
+des fonctionnaires ou personnes particulièrement qualifiées en matière d'aide ou d'action sociale désignées par le ministre
+chargé de l'action sociale.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -2570,16 +2743,21 @@ Les décisions des commissions départementales sont susceptibles d'appel devant
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 85 1° JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 85
+
 	**Anciens textes**:
 
-	  - Code de la famille et de l'aide sociale. - art. 129 (M)
 	  - Code de la famille et de l'aide sociale. - art. 129 (Ab)
 
 
 ###### Article L134-3
 
-Les recours formés contre les décisions prises en vertu des articles L. 122-2 à L. 122-4 et L. 212-1 relèvent en premier et
-dernier ressort de la compétence de la commission centrale d'aide sociale instituée par l'article L. 134-2.
+Les recours formés contre les décisions prises en vertu de l'article L. 111-3, du deuxième alinéa de l'article L. 122-1 et
+des articles L. 122-2 à L. 122-4 et L. 212-1 relèvent en premier et dernier ressort de la compétence de la commission
+centrale d'aide sociale instituée par l'article L. 134-2.
 
 Les décisions de la commission centrale d'aide sociale peuvent faire l'objet d'un recours en cassation devant le Conseil
 d'Etat.
@@ -2591,22 +2769,27 @@ d'Etat.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de la famille et de l'aide sociale. - art. 195 (M)
-	  - Code de la famille et de l'aide sociale. - art. 195 (Ab)
+	  - Loi n°2002-2 2002-01-02 art. 85 3° JORF 3 janvier 2002
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L134-2 (M)
+	  - Code de l'action sociale et des familles - art. L111-3 (V)
+	  - Code de l'action sociale et des familles - art. L122-1 (V)
+	  - Code de l'action sociale et des familles - art. L122-2 (V)
+	  - Code de l'action sociale et des familles - art. L134-2 (V)
 	  - Code de l'action sociale et des familles - art. L212-1 (V)
-	  - Code de l'action sociale et des familles L122-2 à L122-4, L212-1, L134-2
 
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. L245-10 (VT)
 	  - Code de l'action sociale et des familles - art. L245-8 (M)
 	  - Code de l'action sociale et des familles - art. R131-8 (VD)
+
+	**Anciens textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 195 (Ab)
 
 
 ###### Article L134-4
@@ -3825,6 +4008,36 @@ subordonnée à la condition que chacun des parents exerce une activité profess
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
 
+###### Article L214-5
+
+Il est créé une commission départementale de l'accueil des jeunes enfants, instance de réflexion, de conseil, de proposition
+et de suivi concernant toutes questions relatives à l'organisation, au fonctionnement et au développement des modes d'accueil
+des jeunes enfants et à la politique générale conduite en faveur des jeunes enfants dans le département.
+
+Présidée par le président du conseil général, cette commission comprend notamment des représentants des collectivités
+territoriales, des services de l'Etat, des caisses d'allocations familiales, d'associations, de gestionnaires et de
+professionnels concernés par les modes d'accueil des jeunes enfants, ainsi que des représentants d'usagers de ces modes
+d'accueil. Sa composition, ses compétences et ses modalités de fonctionnement sont déterminées par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 83 () JORF 3 janvier 2002
+
+	**Cité par**:
+
+	  - Décret n°2002-798 du 3 mai 2002 - art. 1 (Ab)
+	  - Code de l'action sociale et des familles - art. D214-1 (V)
+	  - Code de l'action sociale et des familles - art. L542-1 (V)
+	  - Code de l'action sociale et des familles - art. L581-1 (V)
+
+
 #### Chapitre V : Dispositions diverses en faveur des familles.
 
 ###### Article L215-1
@@ -3919,7 +4132,8 @@ Le service de l'aide sociale à l'enfance est un service non personnalisé du d�
 équilibre ;
 
 2° Organiser, dans les lieux où se manifestent des risques d'inadaptation sociale, des actions collectives visant à prévenir
-la marginalisation et à faciliter l'insertion ou la promotion sociale des jeunes et des familles ;
+la marginalisation et à faciliter l'insertion ou la promotion sociale des jeunes et des familles, notamment celles visées au
+2° de l'article L. 121-2 ;
 
 3° Mener en urgence des actions de protection en faveur des mineurs mentionnés au 1° du présent article ;
 
@@ -3932,15 +4146,10 @@ relatives aux mineurs maltraités et participer à la protection de ceux-ci.
 
 Pour l'accomplissement de ses missions, et sans préjudice de ses responsabilités vis-à-vis des enfants qui lui sont confiés,
 le service de l'aide sociale à l'enfance peut faire appel à des organismes publics ou privés habilités dans les conditions
-prévues aux articles L. 313-5, L. 313-6 et L. 313-7 ou à des personnes physiques.
+prévues aux articles L. 313-8, L. 313-8-1 et L. 313-9 ou à des personnes physiques.
 
 Le service contrôle les personnes physiques ou morales à qui il a confié des mineurs, en vue de s'assurer des conditions
 matérielles et morales de leur placement.
-
-**Nota:**
-
-Code de l'action sociale et des familles L542-4 : les dispositions du présent article, à l'exception du 2e alinéa, sont
-applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -3948,6 +4157,11 @@ applicables à Mayotte.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 75 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 82 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -3977,16 +4191,16 @@ applicables à Mayotte.
 	  - Code général des collectivités territoriales - art. L5217-4 (V)
 	  - Code général des impôts, CGI. - art. 1067 (V)
 
-	**Anciens textes**:
-
-	  - Code de la famille et de l'aide sociale. - art. 40 (M)
-	  - Code de la famille et de l'aide sociale. - art. 40 (Ab)
-
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L313-5 (M)
-	  - Code de l'action sociale et des familles - art. L313-6 (M)
-	  - Code de l'action sociale et des familles - art. L313-7 (M)
+	  - Code de l'action sociale et des familles - art. L121-2 (M)
+	  - Code de l'action sociale et des familles - art. L313-8 (M)
+	  - Code de l'action sociale et des familles - art. L313-8-1 (M)
+	  - Code de l'action sociale et des familles - art. L313-9 (M)
+
+	**Anciens textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 40 (Ab)
 
 
 ###### Article L221-2
@@ -7558,7 +7772,7 @@ sociales à objet spécialisé dont la liste est fixée par voie réglementaire.
 ###### Article L232-5
 
 Pour l'application de l'article L. 232-3, sont considérées comme résidant à domicile les personnes accueillies dans les
-conditions fixées par les articles L. 441-1 à L. 443-10 ou hébergées dans un établissement visé au II de l'article L. 312-8.
+conditions fixées par les articles L. 441-1 à L. 443-10 ou hébergées dans un établissement visé au II de l'article L. 313-12.
 
 **Liens relatifs à cet article**
 
@@ -7571,19 +7785,19 @@ conditions fixées par les articles L. 441-1 à L. 443-10 ou hébergées dans un
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Modifié par**:
-
-	  - Loi n°2001-647 du 20 juillet 2001 - art. 1 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
-
 	**Cité par**:
 
 	  - Loi n°2001-647 du 20 juillet 2001 - art. 19 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 75 () JORF 3 janvier 2002
+
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L232-3 (M)
-	  - Code de l'action sociale et des familles - art. L312-8 (M)
-	  - Code de l'action sociale et des familles L232-3, L441-1 à L443-10, L312-8
+	  - Code de l'action sociale et des familles - art. L313-12 (M)
+	  - Code de l'action sociale et des familles L232-3, L441-1 à L443-10, L313-12
 
 
 ###### Article L232-6
@@ -7713,7 +7927,7 @@ bénéficiaire.
 ###### Article L232-8
 
 I. - Lorsque l'allocation personnalisée d'autonomie est accordée à une personne hébergée dans un établissement visé à
-l'article L. 312-8, elle est égale au montant des dépenses correspondant à son degré de perte d'autonomie dans le tarif de
+l'article L. 313-12, elle est égale au montant des dépenses correspondant à son degré de perte d'autonomie dans le tarif de
 l'établissement afférent à la dépendance, diminué d'une participation du bénéficiaire de l'allocation personnalisée
 d'autonomie.
 
@@ -7730,7 +7944,7 @@ enfants pour les prises en charge nécessitées par la perte d'autonomie de leur
 sociales à objet spécialisé dont la liste est fixée par voie réglementaire.
 
 II. - Par dérogation aux dispositions de l'article L. 232-15 et dans le cadre de la convention pluriannuelle prévue à
-l'article L. 312-8, l'allocation personnalisée d'autonomie en établissement peut, à titre expérimental, être versée par le
+l'article L. 313-12, l'allocation personnalisée d'autonomie en établissement peut, à titre expérimental, être versée par le
 président du conseil général qui assure la tarification de l'établissement volontaire sous forme d'une dotation budgétaire
 globale afférente à la dépendance qui prend en compte le niveau de perte d'autonomie moyen des résidents de l'établissement.
 
@@ -7738,7 +7952,7 @@ Cette dotation budgétaire globale n'inclut pas la participation des résidents 
 
 Les tarifs afférents à la dépendance pour les résidents bénéficiaires de l'allocation personnalisée d'autonomie en
 établissement relevant d'autres départements que celui du président du conseil général qui a le pouvoir de tarification sont
-calculés conformément aux articles L. 315-1 et L. 315-6 et versés directement à l'établissement, le cas échéant, sous forme
+calculés conformément aux articles L. 314-2 et L. 314-9 et versés directement à l'établissement, le cas échéant, sous forme
 de dotation globale. Ces versements sont pris en compte pour le calcul de la dotation globale afférente à la dépendance.
 
 Les modalités d'application du présent article sont fixées par voie réglementaire. L'évaluation des résultats de
@@ -7788,20 +8002,20 @@ la prise en charge de la perte d'autonomie des personnes âgées et à l'allocat
 	  - Code de l'action sociale et des familles - art. L132-1 (V)
 	  - Code de l'action sociale et des familles - art. L132-2 (V)
 	  - Code de l'action sociale et des familles - art. L232-15 (T)
-	  - Code de l'action sociale et des familles - art. L312-8 (M)
-	  - Code de l'action sociale et des familles - art. L315-1 (M)
-	  - Code de l'action sociale et des familles - art. L315-6 (M)
+	  - Code de l'action sociale et des familles - art. L313-12 (M)
+	  - Code de l'action sociale et des familles - art. L314-9 (M)
 
 	**Modifié par**:
 
-	  - Loi n°2001-1246 du 21 décembre 2001 - art. 30 () JORF 26 décembre 2001
+	  - Loi n°2002-2 2002-01-02 art. 75 I 3°, 4°, 5° JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 75 () JORF 3 janvier 2002
 
 
 ###### Article L232-9
 
 Il est garanti aux personnes accueillies dans les établissements visés à l'article L. 232-8 habilités à recevoir des
 bénéficiaires de l'aide sociale départementale, un montant minimum tenu à leur disposition après paiement des prestations à
-leur charge mentionnées aux 2° et 3° de l'article L. 315-1 dont le montant, réévalué chaque année, est fixé par voie
+leur charge mentionnées aux 2° et 3° de l'article L. 314-2 dont le montant, réévalué chaque année, est fixé par voie
 réglementaire.
 
 **Liens relatifs à cet article**
@@ -7829,7 +8043,7 @@ réglementaire.
 
 	**Modifié par**:
 
-	  - Loi n°2001-647 du 20 juillet 2001 - art. 1 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 75 () JORF 3 janvier 2002
 
 	**Liens**:
 
@@ -7840,13 +8054,13 @@ réglementaire.
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L232-8 (M)
-	  - Code de l'action sociale et des familles - art. L315-1 (M)
+	  - Code de l'action sociale et des familles - art. L314-2 (M)
 
 
 ###### Article L232-10
 
 Lorsque les conjoints, les concubins ou les personnes ayant conclu un pacte civil de solidarité résident, l'un à domicile,
-l'autre dans un établissement, le montant des prestations mentionnés aux 2° et 3° de l'article L. 315-1 restant à la charge
+l'autre dans un établissement, le montant des prestations mentionnés aux 2° et 3° de l'article L. 314-2 restant à la charge
 de ce dernier est fixé de manière qu'une partie des ressources du couple correspondant aux dépenses courantes de celui des
 conjoints, concubins ou personnes ayant conclu un pacte civil de solidarité restant à domicile lui soit réservée par
 priorité.
@@ -7866,20 +8080,20 @@ des conjoints, des concubins ou des personnes ayant conclu un pacte civil de sol
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Modifié par**:
-
-	  - Loi n°2001-647 du 20 juillet 2001 - art. 1 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
-
 	**Cité par**:
 
 	  - Décret n°2001-1084 du 20 novembre 2001 - art. 10 (Ab)
 	  - Code de l'action sociale et des familles - art. D232-35 (V)
 	  - Code de l'action sociale et des familles - art. L232-13 (M)
 
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 75 () JORF 3 janvier 2002
+
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L231-4 (V)
-	  - Code de l'action sociale et des familles - art. L315-1 (M)
+	  - Code de l'action sociale et des familles - art. L314-2 (M)
 
 	**Nouveaux textes**:
 
@@ -8096,9 +8310,9 @@ décret.
 ###### Article L232-15
 
 L'allocation personnalisée d'autonomie est, le cas échéant, avec l'accord de son bénéficiaire, versée directement aux
-services prestataires d'aide à domicile visés à l'article L. 129-1 du code du travail ou aux établissements visés au 5° de
-l'article L. 312-1 du présent code et au 2° de l'article L. 6111-2 du code de la santé publique. Cet accord peut être repris
-à tout moment par le bénéficiaire.
+services prestataires d'aide à domicile visés à l'article L. 129-1 du code du travail ou aux établissements visés au 6° du I
+de l'article L. 312-1 du présent code et au 2° de l'article L. 6111-2 du code de la santé publique. Cet accord peut être
+repris à tout moment par le bénéficiaire.
 
 **Liens relatifs à cet article**
 
@@ -8113,7 +8327,7 @@ l'article L. 312-1 du présent code et au 2° de l'article L. 6111-2 du code de 
 
 	**Modifié par**:
 
-	  - Loi n°2001-647 du 20 juillet 2001 - art. 1 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 75 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -13659,171 +13873,44 @@ Sauf disposition contraire, les mesures d'application du présent chapitre sont 
 
 ## Livre III : Action sociale et médico-sociale mise en oeuvre par des établissements et des services
 
-### Titre II : Etablissements soumis à déclaration
+### Titre Ier : Etablissements et services soumis à autorisation
 
-#### Chapitre Ier : Accueil de mineurs.
+#### Chapitre Ier : Dispositions générales
 
-###### Article L321-4
-
-Est puni d'un emprisonnement de trois mois et d'une amende de 3750 euros :
-
-1° Le fait d'héberger ou de recevoir collectivement et de manière habituelle des mineurs dans un établissement mentionné à
-l'article L. 321-1, sans avoir effectué la déclaration préalable auprès du président du conseil général ;
-
-2° Le fait d'apporter un changement important à l'établissement, sans avoir effectué la déclaration préalable auprès du
-président du conseil général ou de procéder à l'ouverture ou à la transformation de l'établissement malgré l'opposition du
-président du conseil général ;
-
-3° Le fait de diriger, d'exploiter ou d'être employé au sein de l'établissement, malgré les incapacités prévues à l'article
-L. 321-1 ;
-
-4° Le fait, pour le responsable de l'établissement, de ne pas se conformer aux injonctions préfectorales ou du président du
-conseil général ou de ne pas respecter l'arrêté préfectoral de fermeture de l'établissement prévu à l'article L. 331-7 ou
-d'ouvrir à nouveau l'établissement, après fermeture administrative, sans solliciter l'autorisation préfectorale prévue à
-l'article L. 322-6 ;
-
-5° Le fait de ne pas tenir le registre prévu à l'article L. 331-2 ou de faire obstacle aux demandes de renseignements et au
-droit d'entrée des agents chargés de la surveillance prévus aux articles L. 331-1 et L. 331-3.
-
-Les personnes physiques coupables des infractions définies au présent article encourent également la peine complémentaire
-d'interdiction, suivant les modalités de l'article 131-27 du code pénal, d'exploiter ou de diriger un établissement soumis
-aux dispositions du présent chapitre ou d'effectuer des placements d'enfants ou de recevoir des enfants.
-
-En cas de récidive, les peines prévues au présent article peuvent être portées au double.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Cite**:
-
-	  - Code pénal - art. 131-27 (V)
-	  - Code de l'action sociale et des familles - art. L321-1 (M)
-	  - Code de l'action sociale et des familles - art. L322-6 (M)
-	  - Code de l'action sociale et des familles - art. L331-1 (M)
-	  - Code de l'action sociale et des familles - art. L331-2 (M)
-	  - Code de l'action sociale et des familles - art. L331-3 (M)
-	  - Code de l'action sociale et des familles - art. L331-7 (M)
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. L421-12 (V)
-	  - Code de l'action sociale et des familles - art. L421-8 (T)
-	  - Code de l'action sociale et des familles - art. L443-9 (V)
-
-	**Anciens textes**:
-
-	  - Code de la famille et de l'aide sociale. - art. 99 (Ab)
-
-
-#### Chapitre II : Accueil d'adultes.
-
-###### Article L322-8
-
-Est puni d'un emprisonnement de trois mois et d'une amende de 3750 euros :
-
-1° La création d'un établissement prévu à l'article L. 322-1 sans avoir effectué la déclaration préalable auprès de
-l'autorité administrative compétente ;
-
-2° L'ouverture de cet établissement malgré l'opposition de l'autorité administrative prévue à l'article L. 322-4 ;
-
-3° Le fait, pour le responsable d'un établissement mentionné à l'article L. 322-1 d'apporter une modification à cet
-établissement sans effectuer la déclaration auprès de l'autorité administrative prévue à l'article L. 322-3 ou malgré
-l'opposition prévue à l'article L. 322-4, de ne pas se conformer aux injonctions préfectorales ou de ne pas respecter
-l'arrêté préfectoral de fermeture de l'établissement prévu à l'article L. 331-5 ;
-
-4° Le fait d'ouvrir à nouveau l'établissement, après fermeture administrative, sans solliciter l'autorisation préfectorale
-prévue à l'article L. 322-6 ;
-
-5° Le fait de diriger, d'exploiter ou d'être employé au sein de l'établissement, malgré l'incapacité prévue à l'article L.
-322-5 ;
-
-6° Le fait de ne pas tenir le registre prévu à l'article L. 331-2 ;
-
-7° Le fait de faire obstacle aux demandes de renseignements et au droit d'entrée des agents chargés de la surveillance prévus
-aux articles L. 331-1 et L. 331-3.
-
-Les personnes physiques coupables des infractions définies au présent article encourent également la peine complémentaire
-d'interdiction, suivant les modalités de l'article 131-27 du code pénal, d'exploiter ou de diriger un établissement soumis
-aux dispositions du présent chapitre.
-
-En cas de récidive, les peines prévues au présent article peuvent être portées au double.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Cite**:
-
-	  - Code pénal - art. 131-27 (V)
-	  - Code de l'action sociale et des familles - art. L322-1 (M)
-	  - Code de l'action sociale et des familles - art. L322-3 (M)
-	  - Code de l'action sociale et des familles - art. L322-4 (M)
-	  - Code de l'action sociale et des familles - art. L322-5 (M)
-	  - Code de l'action sociale et des familles - art. L322-6 (M)
-	  - Code de l'action sociale et des familles - art. L331-1 (M)
-	  - Code de l'action sociale et des familles - art. L331-2 (M)
-	  - Code de l'action sociale et des familles - art. L331-3 (M)
-	  - Code de l'action sociale et des familles - art. L331-5 (M)
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. L133-2 (V)
-
-	**Anciens textes**:
-
-	  - Code de la famille et de l'aide sociale. - art. 213 (Ab)
-
-
-## Livre III : Etablissements
-
-### Titre Ier : Etablissements soumis à autorisation
-
-#### Chapitre Ier : Dispositions générales.
+##### Section 1 : Missions
 
 ###### Article L311-1
 
-Sont des institutions sociales ou médico-sociales au sens du présent code tous les organismes publics ou privés qui, à titre
-principal et d'une manière permanente :
+L'action sociale et médico-sociale, au sens du présent code, s'inscrit dans les missions d'intérêt général et d'utilité
+sociale suivantes :
 
-1° Mènent, avec le concours de travailleurs sociaux, d'équipes pluridisciplinaires, des actions à caractère social ou médico-
-social, notamment des actions d'information, de prévention, de dépistage, d'orientation, de soutien, de maintien à domicile ;
+1° Evaluation et prévention des risques sociaux et médico-sociaux, information, investigation, conseil, orientation,
+formation, médiation et réparation ;
 
-2° Accueillent, hébergent ou placent dans des familles des mineurs ou des adultes qui requièrent une protection
-particulière ;
+2° Protection administrative ou judiciaire de l'enfance et de la famille, de la jeunesse, des personnes handicapées, des
+personnes âgées ou en difficulté ;
 
-3° Reçoivent des jeunes travailleurs ;
+3° Actions éducatives, médico-éducatives, médicales, thérapeutiques, pédagogiques et de formation adaptées aux besoins de la
+personne, à son niveau de développement, à ses potentialités, à l'évolution de son état ainsi qu'à son âge ;
 
-4° Hébergent des personnes âgées ;
+4° Actions d'intégration scolaire, d'adaptation, de réadaptation, d'insertion, de réinsertion sociales et professionnelles,
+d'aide à la vie active, d'information et de conseil sur les aides techniques ainsi que d'aide au travail ;
 
-5° Assurent, avec ou sans hébergement, dans leur cadre ordinaire de vie, l'éducation spéciale, l'adaptation ou la réinsertion
-sociale et professionnelle, l'aide par le travail ou l'insertion par l'activité économique, au bénéfice des personnes
-handicapées ou inadaptées, ainsi que des personnes ou des familles en détresse ;
+5° Actions d'assistance dans les divers actes de la vie, de soutien, de soins et d'accompagnement, y compris à titre
+palliatif ;
 
-6° Assurent des soins ambulatoires et des actions d'accompagnement social et de réinsertion en faveur des personnes
-présentant une consommation d'alcool à risque ou nocive, ou atteintes de dépendance alcoolique.
+6° Actions contribuant au développement social et culturel, et à l'insertion par l'activité économique.
+
+Ces missions sont accomplies par des personnes physiques ou des institutions sociales et médico-sociales.
+
+Sont des institutions sociales et médico-sociales au sens du présent code les personnes morales de droit public ou privé
+gestionnaires d'une manière permanente des établissements et services sociaux et médico-sociaux mentionnés à l'article L.
+312-1.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°75-535 1975-06-30 art. 1
 	  - Loi n°75-535 du 30 juin 1975 - art. 1 (Ab)
 
 	**Codifié par**:
@@ -13831,9 +13918,11 @@ présentant une consommation d'alcool à risque ou nocive, ou atteintes de dépe
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-290 du 5 mars 2007 - art. 39
+	  - Loi n°2002-2 2002-01-02 art. 4 I, II, art. 5 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 5 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -13856,14 +13945,13 @@ présentant une consommation d'alcool à risque ou nocive, ou atteintes de dépe
 
 ###### Article L311-2
 
-La coordination des interventions des organismes définis à l'article L. 311-1 est assurée :
+Une charte nationale est établie conjointement par les fédérations et organismes représentatifs des personnes morales
+publiques et privées gestionnaires d'établissements et de services sociaux et médico-sociaux. Cette charte porte sur les
+principes éthiques et déontologiques afférents aux modes de fonctionnement et d'intervention, aux pratiques de l'action
+sociale et médico-sociale et aux garanties de bon fonctionnement statutaire que les adhérents des fédérations et organismes
+précités sont invités à respecter par un engagement écrit.
 
-- par la constitution de groupements composés de tels organismes et créés à leur initiative ;
-
-- par la conclusion, entre lesdits organismes ou les groupements d'organismes éventuellement constitués et l'Etat ou les
-collectivités publiques, de conventions dont les clauses précisent les objectifs poursuivis, les catégories de bénéficiaires,
-les moyens mis en oeuvre ainsi que, le cas échéant, les relations de l'organisme intéressé avec les autres organismes à
-caractère social, médico-social ou sanitaire.
+Elle est publiée par arrêté du ministre chargé des affaires sociales.
 
 **Liens relatifs à cet article**
 
@@ -13876,9 +13964,11 @@ caractère social, médico-social ou sanitaire.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'action sociale et des familles - art. L311-1 (M)
+	  - Loi n°2002-2 2002-01-02 art. 4 I, II, art. 6 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 6 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -13888,38 +13978,56 @@ caractère social, médico-social ou sanitaire.
 	  - Code de l'action sociale et des familles - art. L315-4 (M)
 
 
+##### Section 2 : Droits des usagers
+
 ###### Article L311-3
 
-Un schéma précise, dans chaque département :
+L'exercice des droits et libertés individuels est garanti à toute personne prise en charge par des établissements et services
+sociaux et médico-sociaux. Dans le respect des dispositions législatives et réglementaires en vigueur, lui sont assurés :
 
-- la nature des besoins sociaux et particulièrement de ceux justifiant des interventions sous forme de création
-d'établissements ou de services sociaux et médico-sociaux adaptés, notamment à la diversité et à la spécificité des handicaps
-ou par une autre voie ;
+1° Le respect de sa dignité, de son intégrité, de sa vie privée, de son intimité et de sa sécurité ;
 
-- les perspectives de développement ou de redéploiement de ces établissements et services compte tenu des éléments
-précédents, des ressources disponibles et des possibilités offertes par les départements voisins ;
+2° Sous réserve des pouvoirs reconnus à l'autorité judiciaire et des nécessités liées à la protection des mineurs en danger,
+le libre choix entre les prestations adaptées qui lui sont offertes soit dans le cadre d'un service à son domicile, soit dans
+le cadre d'une admission au sein d'un établissement spécialisé ;
 
-- les critères d'évaluation des actions conduites ;
+3° Une prise en charge et un accompagnement individualisé de qualité favorisant son développement, son autonomie et son
+insertion, adaptés à son âge et à ses besoins, respectant son consentement éclairé qui doit systématiquement être recherché
+lorsque la personne est apte à exprimer sa volonté et à participer à la décision. A défaut, le consentement de son
+représentant légal doit être recherché ;
 
-- les modalités de la collaboration et de la coordination susceptibles d'être établies avec l'Etat, les autres collectivités
-et les organismes concernés afin de satisfaire les besoins recensés.
+4° La confidentialité des informations la concernant ;
 
-Le président du conseil général consulte, sur les orientations générales du projet de schéma relatives aux établissements et
-services sociaux et médico-sociaux fournissant des prestations prises en charge par le département, une commission réunie à
-cet effet. Il fixe la composition de cette commission qui comprend notamment des représentants des institutions sanitaires et
-sociales, de leurs usagers ainsi que des professions de santé et des travailleurs sociaux.
+5° L'accès à toute information ou document relatif à sa prise en charge, sauf dispositions législatives contraires ;
+
+6° Une information sur ses droits fondamentaux et les protections particulières légales et contractuelles dont elle
+bénéficie, ainsi que sur les voies de recours à sa disposition ;
+
+7° La participation directe ou avec l'aide de son représentant légal à la conception et à la mise en oeuvre du projet
+d'accueil et d'accompagnement qui la concerne.
+
+Les modalités de mise en oeuvre du droit à communication prévu au 5° sont fixées par voie réglementaire.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°75-535 1975-06-30 art. 2-2 al. 1, al. 2, al. 3 al. 4, al. 5, al. 6
 	  - Loi n°75-535 du 30 juin 1975 - art. 2-2 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 4 I, II, art. 7 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 7 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -13953,23 +14061,46 @@ sociales, de leurs usagers ainsi que des professions de santé et des travailleu
 
 ###### Article L311-4
 
-Le président du conseil général peut également, sur proposition du représentant de l'Etat, consulter cette commission sur les
-orientations générales relatives à la partie du schéma arrêtée conjointement par le représentant de l'Etat et le président du
-conseil général en application du premier alinéa de l'article L. 311-5.
+Afin de garantir l'exercice effectif des droits mentionnés à l'article L. 311-3 et notamment de prévenir tout risque de
+maltraitance, lors de son accueil dans un établissement ou dans un service social ou médico-social, il est remis à la
+personne ou à son représentant légal un livret d'accueil auquel sont annexés :
 
-Le représentant de l'Etat assiste à cette consultation.
+a) Une charte des droits et libertés de la personne accueillie, arrêtée par les ministres compétents après consultation de la
+section sociale du Comité national de l'organisation sanitaire et sociale mentionné à l'article L. 6121-9 du code de la santé
+publique ;
+
+b) Le règlement de fonctionnement défini à l'article L. 311-7.
+
+Un contrat de séjour est conclu ou un document individuel de prise en charge est élaboré avec la participation de la personne
+accueillie ou de son représentant légal. Ce contrat ou document définit les objectifs et la nature de la prise en charge ou
+de l'accompagnement dans le respect des principes déontologiques et éthiques, des recommandations de bonnes pratiques
+professionnelles et du projet d'établissement. Il détaille la liste et la nature des prestations offertes ainsi que leur coût
+prévisionnel.
+
+Le contenu minimal du contrat de séjour ou du document individuel de prise en charge est fixé par voie réglementaire selon
+les catégories d'établissements et de personnes accueillies.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Code de l'action sociale et des familles annexe, L311-7
+	  - Code de la santé publique - art. L6121-9 (M)
+
 	**Anciens textes**:
 
-	  - Loi n°75-535 1975-06-30 art. 2-2 al. 7, al. 8
 	  - Loi n°75-535 du 30 juin 1975 - art. 2-2 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 4 I, II, art. 8 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 8 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -14021,35 +14152,32 @@ Le représentant de l'Etat assiste à cette consultation.
 	  - Code de la construction et de l'habitation. - art. L633-3 (V)
 	  - Code du travail - art. L6323-33 (V)
 
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L311-5 (M)
-
 
 ###### Article L311-5
 
-Le schéma est arrêté par le conseil général. Toutefois, en tant qu'il concerne des établissements et services sociaux ou
-médico-sociaux fournissant des prestations prises en charge concurremment, d'une part par le département, d'autre part par
-l'Etat, un organisme d'assurance maladie ou d'allocations familiales ou d'assurance vieillesse, le schéma est arrêté
-conjointement par le président du conseil général et le représentant de l'Etat dans le département. Il en va de même en ce
-qui concerne les établissements et services auxquels l'autorité judiciaire confie directement et habituellement des mineurs,
-ainsi que les établissements et services accueillant des adultes handicapés, quelles que soient leurs modalités de
-financement.
-
-Le schéma départemental est périodiquement révisé dans les mêmes conditions. Il est transmis pour information au comité
-régional de l'organisation sanitaire et sociale mentionné à l'article L. 6121-9 du code de la santé publique.
+Toute personne prise en charge par un établissement ou un service social ou médico-social ou son représentant légal peut
+faire appel, en vue de l'aider à faire valoir ses droits, à une personne qualifiée qu'elle choisit sur une liste établie
+conjointement par le représentant de l'Etat dans le département et le président du conseil général après avis de la
+commission départementale consultative mentionnée à l'article L. 312-5. La personne qualifiée rend compte de ses
+interventions aux autorités chargées du contrôle des établissements ou services concernés, à l'intéressé ou à son
+représentant légal dans des conditions fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°75-535 1975-06-30 art. 2-2 al. 9, al. 10
 	  - Loi n°75-535 du 30 juin 1975 - art. 2-2 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 4 I, II, art. 9 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 9 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -14068,24 +14196,34 @@ régional de l'organisation sanitaire et sociale mentionné à l'article L. 6121
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L6121-9 (M)
+	  - Code de l'action sociale et des familles - art. L312-5 (M)
 
 
 ###### Article L311-6
 
-Sauf disposition contraire, les modalités d'application du présent chapitre sont fixées par décret en Conseil d'Etat.
+Afin d'associer les personnes bénéficiaires des prestations au fonctionnement de l'établissement ou du service, il est
+institué soit un conseil de la vie sociale, soit d'autres formes de participation. Les catégories d'établissements ou de
+services qui doivent mettre en oeuvre obligatoirement le conseil de la vie sociale sont précisées par décret.
+
+Ce décret précise également, d'une part, la composition et les compétences de ce conseil et, d'autre part, les autres formes
+de participation possibles.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°75-535 1975-06-30 art. 30
 	  - Loi n°75-535 du 30 juin 1975 - art. 30 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 4 I, II, art. 10 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 10 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -14113,53 +14251,231 @@ Sauf disposition contraire, les modalités d'application du présent chapitre so
 	  - Code de la construction et de l'habitation. - art. Annexe 1 au III art R353-159 (V)
 
 
-#### Chapitre II : Statut des établissements
+###### Article L311-7
 
-##### Section 1 : Création, extension et transformation.
+Dans chaque établissement et service social ou médico-social, il est élaboré un règlement de fonctionnement qui définit les
+droits de la personne accueillie et les obligations et devoirs nécessaires au respect des règles de vie collective au sein de
+l'établissement ou du service.
+
+Le règlement de fonctionnement est établi après consultation du conseil de la vie sociale ou, le cas échéant, après mise en
+oeuvre d'une autre forme de participation.
+
+Les dispositions minimales devant figurer dans ce règlement ainsi que les modalités de son établissement et de sa révision
+sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 11 () JORF 3 janvier 2002
+
+	**Cité par**:
+
+	  - Décret n°2003-1136 du 26 novembre 2003 - art. 2 (Ab)
+	  - Décret n°2004-613 du 25 juin 2004 - art. 7 (Ab)
+	  - Décret n°2004-1136 du 21 octobre 2004 - art. 4 (V)
+	  - Décret n°2007-1573 du 6 novembre 2007 - art. 18 (V)
+	  - Décret n°2007-1573 du 6 novembre 2007 - art. 19 (V)
+	  - Décret n°2007-1573 du 6 novembre 2007 - art. 20 (V)
+	  - Arrêté du 14 avril 2008 - art. 2 (V)
+	  - Décret n°2008-1504 du 30 décembre 2008 (V)
+	  - Décret n°2015-1461 du 10 novembre 2015 - art. (V)
+	  - Code de l'action sociale et des familles - art. D232-22 (VD)
+	  - Code de l'action sociale et des familles - art. D311-26 (V)
+	  - Code de l'action sociale et des familles - art. D312-4 (V)
+	  - Code de l'action sociale et des familles - art. D312-9 (V)
+	  - Code de l'action sociale et des familles - art. D313-12 (V)
+	  - Code de l'action sociale et des familles - art. L311-4 (V)
+	  - Code de l'action sociale et des familles - art. L312-1 (V)
+	  - Code de l'action sociale et des familles - art. L315-12 (V)
+	  - Code de l'action sociale et des familles - art. L471-8 (V)
+	  - Code de l'action sociale et des familles - art. R232-22 (T)
+	  - Code de la construction et de l'habitation. - art. L633-3 (V)
+
+
+###### Article L311-8
+
+Pour chaque établissement ou service social ou médico-social, il est élaboré un projet d'établissement ou de service, qui
+définit ses objectifs, notamment en matière de coordination, de coopération et d'évaluation des activités et de la qualité
+des prestations, ainsi que ses modalités d'organisation et de fonctionnement. Ce projet est établi pour une durée maximale de
+cinq ans après consultation du conseil de la vie sociale ou, le cas échéant, après mise en oeuvre d'une autre forme de
+participation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 12 () JORF 3 janvier 2002
+
+	**Cité par**:
+
+	  - Décret n°2003-1010 du 22 octobre 2003 - art. 17 (Ab)
+	  - Décret n°2003-1010 du 22 octobre 2003 - art. 89 (Ab)
+	  - Décret n°2003-1135 du 26 novembre 2003 - art. 3 (Ab)
+	  - Décret n°2003-1136 du 26 novembre 2003 - art. 2 (Ab)
+	  - Décret n°2004-613 du 25 juin 2004 - art. 12 (Ab)
+	  - Décret n°2004-613 du 25 juin 2004 - art. 7 (Ab)
+	  - Décret n°2007-1573 du 6 novembre 2007 - art. 18 (V)
+	  - Arrêté du 30 août 2010 - art. 1 (V)
+	  - Code de l'action sociale et des familles - art. D311-38 (V)
+	  - Code de l'action sociale et des familles - art. D312-10-14 (V)
+	  - Code de l'action sociale et des familles - art. D312-155-4-1 (T)
+	  - Code de l'action sociale et des familles - art. D312-160 (V)
+	  - Code de l'action sociale et des familles - art. D312-38 (V)
+	  - Code de l'action sociale et des familles - art. D312-59-2 (V)
+	  - Code de l'action sociale et des familles - art. D312-59-4 (V)
+	  - Code de l'action sociale et des familles - art. D312-6 (V)
+	  - Code de l'action sociale et des familles - art. D312-9 (V)
+	  - Code de l'action sociale et des familles - art. D313-12 (V)
+	  - Code de l'action sociale et des familles - art. D316-5 (V)
+	  - Code de l'action sociale et des familles - art. D344-5-5 (V)
+	  - Code de l'action sociale et des familles - art. L313-6 (V)
+	  - Code de l'action sociale et des familles - art. L315-17 (V)
+	  - Code de l'action sociale et des familles - art. L315-3 (V)
+	  - Code de l'action sociale et des familles - art. L546-1 (Ab)
+	  - Code de l'action sociale et des familles - art. R312-166 (T)
+	  - Code de l'action sociale et des familles - art. R312-169 (T)
+	  - Code de l'action sociale et des familles - art. R312-190 (Ab)
+	  - Code de l'action sociale et des familles - art. R313-3 (V)
+	  - Code de l'action sociale et des familles - art. R314-18 (V)
+	  - Code de l'action sociale et des familles - art. R314-88 (V)
+	  - Code de l'action sociale et des familles - art. R316-6 (V)
+	  - Code de l'action sociale et des familles - art. R316-7 (V)
+
+
+###### Article L311-9
+
+En vue d'assurer le respect du droit à une vie familiale des membres des familles accueillies dans les établissements ou
+services mentionnés aux 1° et 7° de l'article L. 312-1, ces établissements ou services doivent rechercher une solution
+évitant la séparation de ces personnes ou, si une telle solution ne peut être trouvée, établir, de concert avec les personnes
+accueillies, un projet propre à permettre leur réunion dans les plus brefs délais, et assurer le suivi de ce projet jusqu'à
+ce qu'il aboutisse.
+
+Dans ce but, chaque schéma départemental des centres d'hébergement et de réinsertion sociale évalue les besoins en accueil
+familial du département et prévoit les moyens pour y répondre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 13 () JORF 3 janvier 2002
+
+	**Cité par**:
+
+	  - Arrêté du 30 août 2010 - art. 1 (V)
+	  - Code de l'action sociale et des familles - art. L543-1 (V)
+	  - Code de l'action sociale et des familles - art. R313-3 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L312-1 (M)
+
+
+#### Chapitre II : Organisation de l'action sociale et médico-sociale
+
+##### Section 1 : Etablissements et services sociaux et médico-sociaux
 
 ###### Article L312-1
 
-Les établissements qui dépendent des organismes définis à l'article L. 311-1 ne peuvent être créés ou transformés ou faire
-l'objet d'une extension importante qu'après avis motivé du comité régional ou, dans des cas déterminés par voie réglementaire
-et notamment pour les établissements destinés à héberger des personnes atteintes de handicaps rares, du comité national de
-l'organisation sanitaire et sociale mentionné à l'article L. 6121-9 du code de la santé publique, s'ils appartiennent à l'une
-des catégories suivantes :
+I. - Sont des établissements et services sociaux et médico-sociaux, au sens du présent code, les établissements et les
+services, dotés ou non d'une personnalité morale propre, énumérés ci-après :
 
-1° Établissements recevant habituellement des mineurs relevant des chapitres Ier à VI du titre II du livre II, maisons
-d'enfants à caractère social, centres de placements familiaux et établissements maternels ;
+1° Les établissements ou services prenant en charge habituellement, y compris au titre de la prévention, des mineurs et des
+majeurs de moins de vingt et un ans relevant de l'article L. 222-5 ;
 
-2° Établissements médico-éducatifs qui reçoivent en internat, en externat ou en cure ambulatoire des jeunes handicapés ou
-inadaptés ;
+2° Les établissements ou services d'enseignement et d'éducation spéciale qui assurent, à titre principal, une éducation
+adaptée et un accompagnement social ou médico-social aux mineurs ou jeunes adultes handicapés ou présentant des difficultés
+d'adaptation ;
 
-3° Établissements d'enseignement qui dispensent à titre principal une éducation spéciale aux jeunes handicapés ou inadaptés ;
+3° Les centres d'action médico-sociale précoce mentionnés à l'article L. 2132-4 du code de la santé publique ;
 
-4° Établissements de protection judiciaire de la jeunesse ;
+4° Les établissements ou services mettant en oeuvre les mesures éducatives ordonnées par l'autorité judiciaire en application
+de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante ou des articles 375 à 375-8 du code civil ou
+concernant des majeurs de moins de vingt et un ans ;
 
-5° Établissements qui assurent l'hébergement des personnes âgées, des adultes handicapés ;
+5° Les établissements ou services :
 
-6° Établissements d'aide par le travail ;
+a) D'aide par le travail, à l'exception des structures conventionnées pour les activités visées à l'article L. 322-4-16 du
+code du travail et des ateliers protégés définis aux articles L. 323-30 et suivants du même code ;
 
-7° Foyers de jeunes travailleurs ;
+b) De réadaptation, de préorientation et de rééducation professionnelle mentionnés à l'article L. 323-15 du code du travail ;
 
-8° Structures et services comportant ou non un hébergement assurant, avec le concours de travailleurs sociaux et d'équipes
-pluridisciplinaires, l'accueil, notamment dans les situations d'urgence, le soutien ou l'accompagnement social, l'adaptation
-à la vie active et l'insertion sociale et professionnelle des personnes ou des familles en détresse ;
+6° Les établissements et les services qui accueillent des personnes âgées ou qui leur apportent à domicile une assistance
+dans les actes quotidiens de la vie, des prestations de soins ou une aide à l'insertion sociale ;
 
-9° Centres assurant, en cure ambulatoire, des soins et des actions d'accompagnement social et de réinsertion à l'égard des
-personnes présentant une consommation d'alcool à risque ou nocive, ou atteintes de dépendance alcoolique.
+7° Les établissements et les services, y compris les foyers d'accueil médicalisé, qui accueillent des personnes adultes
+handicapées, quel que soit leur degré de handicap ou leur âge, ou des personnes atteintes de pathologies chroniques, qui leur
+apportent à domicile une assistance dans les actes quotidiens de la vie, des prestations de soins ou une aide à l'insertion
+sociale ou bien qui leur assurent un accompagnement médico-social en milieu ouvert ;
 
-Un décret détermine les cas dans lesquels les extensions mentionnées au premier alinéa doivent, du fait de leur importance,
-être subordonnées à un avis du comité régional ou national de l'organisation sanitaire et sociale.
+8° Les établissements ou services comportant ou non un hébergement, assurant l'accueil, notamment dans les situations
+d'urgence, le soutien ou l'accompagnement social, l'adaptation à la vie active ou l'insertion sociale et professionnelle des
+personnes ou des familles en difficulté ou en situation de détresse ;
 
-La liste des services à caractère social ou médico-social intervenant dans le maintien à domicile ou l'action éducative qui
-ne peuvent être créés ou recevoir une extension importante qu'après avis motivé du comité régional ou du comité national de
-l'organisation sanitaire et sociale, est fixée par voie réglementaire.
+9° Les établissements ou services qui assurent l'accueil et l'accompagnement de personnes confrontées à des difficultés
+spécifiques en vue de favoriser l'adaptation à la vie active et l'aide à l'insertion sociale et professionnelle ou d'assurer
+des prestations de soins et de suivi médical, dont les centres de soins, d'accompagnement et de prévention en addictologie et
+les appartements de coordination thérapeutique ;
 
-Les dispositions du présent article sont applicables aux personnes physiques qui accueillent habituellement de manière
-temporaire ou permanente, à temps complet ou partiel, à leur domicile, à titre onéreux, plus de deux personnes âgées ou plus
-de deux personnes handicapées adultes, sauf dérogation accordée en vertu de l'article L. 441-1.
+10° Les foyers de jeunes travailleurs qui relèvent des dispositions des articles L. 351-2 et L. 353-2 du code de la
+construction et de l'habitation ;
+
+11° Les établissements ou services, dénommés selon les cas centres de ressources, centres d'information et de coordination ou
+centres prestataires de services de proximité, mettant en oeuvre des actions de dépistage, d'aide, de soutien, de formation
+ou d'information, de conseil, d'expertise ou de coordination au bénéfice d'usagers, ou d'autres établissements et services ;
+
+12° Les établissements ou services à caractère expérimental.
+
+Les établissements et services sociaux et médico-sociaux délivrent des prestations à domicile, en milieu de vie ordinaire, en
+accueil familial ou dans une structure de prise en charge. Ils assurent l'accueil à titre permanent, temporaire ou selon un
+mode séquentiel, à temps complet ou partiel, avec ou sans hébergement, en internat, semi-internat ou externat.
+
+II. - Les conditions techniques minimales d'organisation et de fonctionnement des établissements et services relevant des
+catégories mentionnées au présent article, à l'exception du 12° du I, sont définies par décret après avis du Conseil
+supérieur des établissements et services sociaux et médico-sociaux visé à l'article L. 312-2.
+
+Les établissements mentionnés aux 1°, 2°, 6° et 8° du I s'organisent en unités de vie favorisant le confort et la qualité de
+séjour des personnes accueillies, dans des conditions et des délais fixés par décret.
+
+Les prestations délivrées par les établissements et services mentionnés aux 1° à 12° du I sont réalisées par des équipes
+pluridisciplinaires qualifiées. Ces établissements et services sont dirigés par des professionnels dont le niveau de
+qualification est fixé par décret et après consultation de la branche professionnelle ou, à défaut, des fédérations ou
+organismes représentatifs des organismes gestionnaires d'établissements et services sociaux et médico-sociaux concernés.
+
+III. - Les lieux de vie et d'accueil qui ne constituent pas des établissements et services sociaux ou médico-sociaux au sens
+du I doivent faire application des articles L. 311-4 à L. 311-8. Ils sont également soumis à l'autorisation mentionnée à
+l'article L. 313-1 et aux dispositions des articles L. 313-13 à L. 313-25, dès lors qu'ils ne relèvent ni des dispositions
+prévues au titre II du livre IV relatives aux assistants maternels, ni de celles relatives aux particuliers accueillant des
+personnes âgées ou handicapées prévues au titre IV dudit livre. Un décret fixe le nombre minimal et maximal des personnes que
+ces structures peuvent accueillir.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance 45-174 1945-02-02
+	  - Code civil 375 à 375-8
+	  - Code du travail - art. L322-4-16 (M)
+	  - Code du travail - art. L323-15 (M)
+	  - Code de la santé publique - art. L2132-4 (V)
+	  - Code de l'action sociale et des familles L222-5, L312-2, L311-4 à L311-8, L313-1, L313-13 à L313-25
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. L353-2 (M)
 
 	**Cité par**:
 
@@ -14802,13 +15118,19 @@ de deux personnes handicapées adultes, sauf dérogation accordée en vertu de l
 
 	**Anciens textes**:
 
-	  - Loi n°75-535 1975-06-30 art. 3 sauf al. 11, al. 15, al. 16
 	  - Loi n°75-535 du 30 juin 1975 - art. 3 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 14 I, II, art. 15 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 14 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 15 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 	**Liens**:
 
@@ -14977,32 +15299,23 @@ de deux personnes handicapées adultes, sauf dérogation accordée en vertu de l
 	  - TXT_SOURCE: Décret n°2003-1010 du 22 octobre 2003 - art. 98 (Ab)
 	  - TXT_SOURCE: Décret n°2003-1010 du 22 octobre 2003 - art. 99 (Ab)
 
-	**Cite**:
-
-	  - Code de la santé publique - art. L6121-9 (M)
-	  - Code de l'action sociale et des familles - art. L441-1 (M)
-
 
 ###### Article L312-2
 
-Le comité national ou les comités régionaux mentionnés à l'article L. 6121-9 du code de la santé publique donnent un avis
-motivé sur l'opportunité de la création ou de l'extension des établissements mentionnés à l'article L. 312-1 en fonction des
-besoins, quantitatifs et qualitatifs, de la population et compte tenu des équipements existants ou prévus.
+Il est créé un Conseil supérieur des établissements et services sociaux et médico-sociaux, compétent pour donner un avis sur
+les problèmes généraux relatifs à l'organisation de ce secteur, notamment sur les questions concernant le fonctionnement
+administratif, financier et médical des établissements et services sociaux et médico-sociaux.
 
-Ne sont pas prises en compte pour l'évaluation des besoins de la population :
+Il est composé de parlementaires, de représentants de l'Etat, des organismes de sécurité sociale et des collectivités
+territoriales intéressées, des personnes morales gestionnaires d'établissements et de services sociaux et médico-sociaux, des
+personnels, des usagers et de personnalités qualifiées. Il est présidé par un parlementaire.
 
-- toute décision de création ou d'extension d'un établissement relevant d'une collectivité publique, si les travaux n'ont pas
-reçu un commencement d'exécution avant l'expiration d'un délai de trois ans à compter de l'avis du comité national ou du
-comité régional compétent ;
-
-- toute autorisation de création ou d'extension d'un établissement privé, devenue caduque en application de l'article L.
-313-1.
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°75-535 du 30 juin 1975 - art. 7 (M)
 	  - Loi n°75-535 du 30 juin 1975 - art. 7 (Ab)
 
 	**Codifié par**:
@@ -15010,29 +15323,45 @@ comité régional compétent ;
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la santé publique - art. L6121-9 (M)
-	  - Code de l'action sociale et des familles - art. L313-1 (M)
+	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 14 I, II, art. 16 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 14 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 16 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. L312-1 (M)
 
 
+##### Section 2 : Evaluation et analyse des besoins et programmation des actions
+
 ###### Article L312-3
 
-Les normes minimales quantitatives et qualitatives d'équipement et de fonctionnement des établissements énumérés à l'article
-L. 312-1 sont fixées par décret.
+Les sections sociales du Comité national et des comités régionaux de l'organisation sanitaire et sociale mentionnés à
+l'article L. 6121-9 du code de la santé publique se réunissent au moins une fois par an en formation élargie en vue :
 
-Des dérogations à ces normes peuvent être accordées après avis du comité régional ou national mentionné à l'article L. 6121-9
-du code de la santé publique pour des réalisations de type expérimental.
+1° D'évaluer les besoins sociaux et médico-sociaux et d'analyser leur évolution ;
+
+2° De proposer des priorités pour l'action sociale et médico-sociale.
+
+Tous les cinq ans, ces sections élaborent un rapport qui est transmis, selon le cas, aux ministres et aux autorités locales
+concernées.
+
+Chaque année, le ministre chargé des affaires sociales présente un rapport à la section sociale du Comité national de
+l'organisation sanitaire et sociale sur la mise en oeuvre des mesures prévues par les lois de finances et les lois de
+financement de la sécurité sociale concernant l'action sociale ou médico-sociale.
+
+Lorsque le comité régional de l'organisation sanitaire et sociale rend un avis sur un schéma départemental d'organisation
+sociale et médico-sociale dans les conditions prévues à l'article L. 312-5 ou sur une autorisation de fonctionnement délivrée
+par le président du conseil général dans les conditions prévues à l'article L. 313-3, le ou les départements concernés par le
+schéma ou l'implantation de l'établissement ou du service sont représentés lors de la délibération avec voix consultative.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°75-535 du 30 juin 1975 - art. 4 (M)
 	  - Loi n°75-535 du 30 juin 1975 - art. 4 (Ab)
 
 	**Codifié par**:
@@ -15040,10 +15369,17 @@ du code de la santé publique pour des réalisations de type expérimental.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 14 I, III, art. 17 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 14 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 17 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+
 	**Cite**:
 
 	  - Code de la santé publique - art. L6121-9 (M)
-	  - Code de l'action sociale et des familles - art. L312-1 (M)
+	  - Code de l'action sociale et des familles - art. L312-5 (M)
 
 	**Cité par**:
 
@@ -15065,11 +15401,34 @@ du code de la santé publique pour des réalisations de type expérimental.
 	  - Code de la sécurité sociale. - art. D412-79 (V)
 
 
+##### Section 3 : Schémas d'organisation sociale et médico-sociale
+
 ###### Article L312-4
 
-La publicité des décisions de création et d'extension des établissements mentionnés à l'article L. 312-1 qui relèvent des
-collectivités publiques ainsi que celles des autorisations résultant de l'application de l'article L. 313-1 est organisée par
-voie réglementaire.
+Les schémas d'organisation sociale et médico-sociale, établis pour une période maximum de cinq ans en cohérence avec les
+schémas mentionnés aux articles L. 6121-1 et L. 6121-3 du code de la santé publique et avec les dispositifs de coordination
+prévus au chapitre V du titre IV du livre Ier :
+
+1° Apprécient la nature, le niveau et l'évolution des besoins sociaux et médico-sociaux de la population ;
+
+2° Dressent le bilan quantitatif et qualitatif de l'offre sociale et médico-sociale existante ;
+
+3° Déterminent les perspectives et les objectifs de développement de l'offre sociale et médico-sociale et, notamment, ceux
+nécessitant des interventions sous forme de création, transformation ou suppression d'établissements et services et, le cas
+échéant, d'accueils familiaux relevant du titre IV du livre IV ;
+
+4° Précisent le cadre de la coopération et de la coordination entre les établissements et services mentionnés à l'article L.
+312-1, à l'exception des structures expérimentales prévues au 12° du I de cet article, ainsi qu'avec les établissements de
+santé définis aux articles L. 6111-1 et L. 6111-2 du code de la santé publique ou tout autre organisme public ou privé, afin
+de satisfaire tout ou partie des besoins mentionnés au 1° ;
+
+5° Définissent les critères d'évaluation des actions mises en oeuvre dans le cadre de ces schémas.
+
+Un document annexé aux schémas définis au présent article peut préciser, pour leur période de validité, la programmation
+pluriannuelle des établissements et services sociaux et médico-sociaux qu'il serait nécessaire de créer, de transformer ou de
+supprimer afin de satisfaire les perspectives et objectifs définis au 3°.
+
+Les schémas peuvent être révisés à tout moment à la demande de l'une des autorités compétentes.
 
 **Liens relatifs à cet article**
 
@@ -15106,17 +15465,78 @@ voie réglementaire.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 14 I, IV, art. 18 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 14 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 18 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+
 	**Cite**:
 
+	  - Code de la santé publique - art. L6111-1 (M)
+	  - Code de la santé publique - art. L6111-2 (V)
+	  - Code de la santé publique - art. L6121-1 (M)
+	  - Code de la santé publique - art. L6121-3 (M)
 	  - Code de l'action sociale et des familles - art. L312-1 (M)
-	  - Code de l'action sociale et des familles - art. L313-1 (M)
+	  - Code de l'action sociale et des familles L312-1, annexe
 
 
 ###### Article L312-5
 
-L'autorisation de création, de transformation et d'extension des établissements et services sociaux fournissant des
-prestations d'aide sociale relevant de la compétence du département est accordée par le président du conseil général sous
-réserve des dispositions de l'article L. 312-6.
+Les schémas d'organisation sociale et médico-sociale sont élaborés :
+
+1° Au niveau national lorsqu'ils concernent des établissements ou services accueillant des catégories de personnes, dont la
+liste est fixée par décret, pour lesquelles les besoins ne peuvent être appréciés qu'à ce niveau ;
+
+2° Au niveau départemental, lorsqu'ils portent sur les établissements et services mentionnés aux 1° à 4°, a du 5° et 6° à 11°
+du I de l'article L. 312-1, autres que ceux devant figurer dans les schémas nationaux.
+
+Les schémas élaborés au niveau national sont arrêtés par le ministre chargé des affaires sociales, après avis du Comité
+national de l'organisation sanitaire et sociale.
+
+Les schémas départementaux sont arrêtés après avis du comité régional de l'organisation sanitaire et sociale et d'une
+commission départementale consultative comprenant notamment des représentants des collectivités territoriales, des
+professions sanitaires et sociales, des institutions sociales et médico-sociales et des personnes accueillies par ces
+institutions ou susceptibles de l'être. Un décret fixe la composition et les modalités de fonctionnement de cette commission.
+
+Le schéma départemental est arrêté conjointement par le représentant de l'Etat dans le département et par le président du
+conseil général. A défaut d'accord entre le représentant de l'Etat dans le département et le président du conseil général,
+les éléments du schéma départemental sont arrêtés :
+
+a) Par le représentant de l'Etat dans le département pour les établissements et services mentionnés aux 2°, 4°, a du 5°, 8°
+et 10° du I de l'article L. 312-1 ainsi que pour ceux mentionnés à l'article L. 162-24-1 du code de la sécurité sociale pour
+les prestations prises en charge par l'assurance maladie ;
+
+b) Par le président du conseil général, après délibération de celui-ci, pour les établissements et services mentionnés au 1°
+du I de l'article L. 312-1 ainsi que pour ceux mentionnés aux 3°, 6° et 7° du I du même article pour les prestations prises
+en charge par l'aide sociale départementale.
+
+Si les éléments du schéma n'ont pas été arrêtés dans les conditions définies ci-dessus soit dans un délai de deux ans après
+la publication de la loi n° 2002-2 du 2 janvier 2002 rénovant l'action sociale et médico-sociale, soit dans un délai d'un an
+après la date d'expiration du schéma précédent, le représentant de l'Etat dans le département dispose de trois mois pour
+arrêter ledit schéma.
+
+Les éléments des schémas départementaux d'une même région, afférents aux établissements et services relevant de la compétence
+de l'Etat, sont regroupés dans un schéma régional fixé par le représentant de l'Etat dans la région, après avis du comité
+régional de l'organisation sanitaire et sociale et transmis pour information aux présidents des conseils généraux concernés.
+
+Le représentant de l'Etat dans la région arrête les schémas régionaux relatifs :
+
+a) Aux centres de soins, d'accompagnement et de prévention en addictologie mentionnés au 9° du I de l'article L. 312-1 après
+avis du comité régional de l'organisation sanitaire et sociale ;
+
+b) Aux centres de rééducation professionnelle mentionnés au b du 5° du I de l'article L. 312-1 après avis du comité régional
+de l'organisation sanitaire et sociale, du comité de coordination régional de l'emploi et de la formation professionnelle et
+du conseil régional.
+
+Ces schémas sont intégrés au schéma régional précité.
+
+Les schémas à caractère national sont transmis pour information aux comités régionaux de l'organisation sanitaire et sociale
+et aux conférences régionales de santé.
+
+Les schémas départementaux et les schémas régionaux sont transmis pour information à la conférence régionale de santé et au
+comité régional de l'organisation sanitaire et sociale.
 
 **Liens relatifs à cet article**
 
@@ -15128,6 +15548,19 @@ réserve des dispositions de l'article L. 312-6.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Cite**:
+
+	  - Loi n°2002-2 2002-01-02
+	  - Code de la sécurité sociale. - art. L162-24-1 (M)
+	  - Code de l'action sociale et des familles - art. L312-1 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 14 I, IV, art. 19 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 14 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 19 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -15171,12 +15604,16 @@ réserve des dispositions de l'article L. 312-6.
 	  - Code de la santé publique - art. R1423-10 (Ab)
 
 
+##### Section 4 : Coordination des interventions
+
 ###### Article L312-6
 
-La réalisation de tout projet de création ou d'extension d'un établissement ou service fournissant des prestations prises en
-charge concurremment soit par le département et par l'Etat, soit par le département ou un organisme fournissant des
-prestations remboursables aux assurés sociaux est subordonnée à une autorisation accordée conjointement par le président du
-conseil général et le représentant de l'Etat dans le département.
+Afin de coordonner la mise en oeuvre des actions sociales et médico-sociales menées dans chaque département et de garantir,
+notamment, la continuité de la prise en charge ou de l'accompagnement des personnes accueillies, une convention pluriannuelle
+conclue entre les autorités compétentes, au titre desquelles figurent les centres communaux d'action sociale et les centres
+intercommunaux gestionnaires d'établissements sociaux ou médico-sociaux, définit les objectifs à atteindre, les procédures de
+concertation et les moyens mobilisés à cet effet, notamment dans le cadre des schémas départementaux mentionnés au 2° de
+l'article L. 312-5.
 
 **Liens relatifs à cet article**
 
@@ -15189,20 +15626,53 @@ conseil général et le représentant de l'Etat dans le département.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 14 I, V, art. 20 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 14 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 20 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L312-5 (VT)
+
 	**Cité par**:
 
-	  - Code de l'action sociale et des familles - art. L312-5 (M)
 	  - Code de l'action sociale et des familles - art. L313-1 (M)
 	  - Code de l'action sociale et des familles - art. L313-11 (M)
 	  - Code de la santé publique - art. R1423-10 (Ab)
 
 
-##### Section 2 : Organisation et fonctionnement.
-
 ###### Article L312-7
 
-Les établissements hébergeant des personnes âgées mentionnées au 5° de l'article L. 312-1 sont organisés en unités favorisant
-le confort et la qualité de vie des personnes accueillies, dans des conditions et des délais fixés par décret.
+Afin de favoriser leur coordination, leur complémentarité et garantir la continuité des prises en charge et de
+l'accompagnement, notamment dans le cadre de réseaux sociaux ou médico-sociaux coordonnés, les établissements et services
+mentionnés à l'article L. 312-1 ou les personnes physiques ou morales gestionnaires mentionnées à l'article L. 311-1
+peuvent :
+
+1° Conclure des conventions entre eux, avec des établissements de santé ou avec des établissements publics locaux
+d'enseignement et des établissements d'enseignement privés ;
+
+2° Créer des groupements d'intérêt économique et des groupements d'intérêt public et y participer, dans des conditions fixées
+par décret en Conseil d'Etat ;
+
+3° Créer des syndicats interétablissements ou des groupements de coopération sociale et médico-sociale selon des modalités
+définies par décret en Conseil d'Etat ;
+
+4° Procéder à des regroupements ou à des fusions.
+
+Les établissements de santé publics et privés peuvent adhérer à l'une des formules de coopération mentionnées au présent
+article.
+
+Les établissements et services sociaux et médico-sociaux mentionnés à l'article L. 312-1 peuvent conclure avec des
+établissements de santé des conventions de coopération telles que mentionnées au 1° de l'article L. 6122-15 du code de la
+santé publique. Dans des conditions fixées par décret, ces mêmes établissements et services peuvent adhérer aux formules de
+coopération mentionnées au 2° dudit article.
+
+Afin de favoriser les réponses aux besoins et leur adaptation, les schémas d'organisation sociale et médico-sociale peuvent
+envisager les opérations de coopération, de regroupement ou de fusion compatibles avec les objectifs de développement de
+l'offre sociale.
 
 **Liens relatifs à cet article**
 
@@ -15214,6 +15684,13 @@ le confort et la qualité de vie des personnes accueillies, dans des conditions 
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 14 I, V, art. 21 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 14 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 21 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -15261,26 +15738,39 @@ le confort et la qualité de vie des personnes accueillies, dans des conditions 
 
 	**Cite**:
 
+	  - Code de la santé publique - art. L6122-15 (M)
+	  - Code de l'action sociale et des familles - art. L311-1 (M)
 	  - Code de l'action sociale et des familles - art. L312-1 (M)
 
 
+##### Section 5 : Evaluation et systèmes d'information
+
 ###### Article L312-8
 
-I. - Les établissements assurant l'hébergement des personnes âgées mentionnés au 5° de l'article L. 312-1 et les
-établissements de santé dispensant des soins de longue durée visés au 2° de l'article L. 6111-2 du code de la santé publique
-qui accueillent un nombre de personnes âgées dépendantes dans une proportion supérieure à un seuil fixé par décret ne peuvent
-accueillir des personnes âgées remplissant les conditions de perte d'autonomie mentionnées à l'article L. 232-2 du présent
-code que s'ils ont passé avant le 31 décembre 2003 une convention pluriannuelle avec le président du conseil général et
-l'autorité compétente de l'Etat, qui respecte le cahier des charges établi par arrêté interministériel, après avis des
-organismes nationaux d'assurance maladie et des représentants des présidents de conseils généraux.
+Les établissements et services mentionnés à l'article L. 312-1 procèdent à l'évaluation de leurs activités et de la qualité
+des prestations qu'ils délivrent, au regard notamment de procédures, de références et de recommandations de bonnes pratiques
+professionnelles validées ou, en cas de carence, élaborées, selon les catégories d'établissements ou de services, par un
+Conseil national de l'évaluation sociale et médico-sociale, placé auprès du ministre chargé de l'action sociale. Les
+résultats de l'évaluation sont communiqués tous les cinq ans à l'autorité ayant délivré l'autorisation.
 
-II. - Les établissements mentionnés au I dont la capacité est inférieure à un seuil fixé par décret ont la possibilité de
-déroger aux règles mentionnées au 1° de l'article L. 315-1. Dans ces établissements, les modalités de tarification des
-prestations remboursables aux assurés sociaux sont fixées par décret.
+Les établissements et services font procéder à l'évaluation de leurs activités et de la qualité des prestations qu'ils
+délivrent par un organisme extérieur. Les organismes habilités à y procéder doivent respecter un cahier des charges fixé par
+décret. La liste de ces organismes est établie par arrêté du ministre chargé de l'action sociale, après avis du Conseil
+national de l'évaluation sociale et médico-sociale. Les résultats de cette évaluation sont également communiqués à l'autorité
+ayant délivré l'autorisation.
 
-III. - Les établissements accueillant un nombre de personnes âgées dépendantes inférieur au seuil mentionné au I doivent
-répondre à des critères de fonctionnement, notamment de qualité, définis par un cahier des charges fixé par arrêté du
-ministre chargé des personnes âgées.
+Elle doit être effectuée au cours des sept années suivant l'autorisation ou son renouvellement et au moins deux ans avant la
+date de celui-ci.
+
+Un organisme ne peut procéder à des évaluations que pour les catégories d'établissements et de services pour lesquels les
+procédures, références et recommandations de bonnes pratiques professionnelles ont été validées ou élaborées par le Conseil
+national de l'évaluation sociale et médico-sociale.
+
+Ce conseil, dont les missions et les modalités de fonctionnement sont fixées par décret en Conseil d'Etat, est composé de
+représentants de l'Etat, des collectivités territoriales, des organismes de protection sociale, des usagers, des institutions
+sociales et médico-sociales, des personnels et de personnalités qualifiées, dont un représentant du Conseil national
+représentatif des personnes âgées, du Conseil national consultatif des personnes handicapées et du Conseil national des
+politiques de lutte contre la pauvreté et l'exclusion sociale.
 
 **Liens relatifs à cet article**
 
@@ -15373,33 +15863,45 @@ ministre chargé des personnes âgées.
 
 	**Modifié par**:
 
-	  - Loi n°2001-647 du 20 juillet 2001 - art. 4 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 14 I, VI, art. 22 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 14 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 22 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L6111-2 (V)
-	  - Code de l'action sociale et des familles - art. L232-2 (M)
 	  - Code de l'action sociale et des familles - art. L312-1 (M)
 
 
-##### Section 3 : Droits des personnes accueillies.
-
 ###### Article L312-9
 
-Dans tout établissement mentionné à l'article L. 312-1, les usagers, les familles et les personnels sont obligatoirement
-associés au fonctionnement de l'établissement par la création, notamment, d'un conseil d'établissement.
+L'Etat, les collectivités territoriales et les organismes de protection sociale concernés se dotent de systèmes d'information
+compatibles entre eux.
+
+Les établissements et services mentionnés à l'article L. 312-1 se dotent d'un système d'information compatible avec les
+systèmes d'information mentionnés à l'alinéa précédent.
+
+Les systèmes d'information sont conçus de manière à assurer le respect de la protection des données à caractère nominatif.
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°75-535 1975-06-30 art. 8 bis
 	  - Loi n°75-535 du 30 juin 1975 - art. 8 bis (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 14 I, VI, art. 23 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 14 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 23 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -15415,259 +15917,53 @@ associés au fonctionnement de l'établissement par la création, notamment, d'u
 	  - Code de l'action sociale et des familles - art. L312-1 (M)
 
 
-###### Article L312-10
+#### Chapitre III : Droits et obligations des établissements et services sociaux et médico-sociaux
 
-En vue d'assurer le respect du droit à une vie familiale des membres des familles accueillies dans les établissements ou
-services mentionnés aux 1° et 8° de l'article L. 312-1, ces établissements ou services doivent rechercher une solution
-évitant la séparation de ces personnes ou, si une telle solution ne peut être trouvée, établir, de concert avec les personnes
-accueillies, un projet propre à permettre leur réunion dans les plus brefs délais, et assurer le suivi de ce projet jusqu'à
-ce qu'il aboutisse.
-
-Dans ce but, chaque schéma départemental des centres d'hébergement et de réinsertion sociale évalue les besoins en accueil
-familial du département et prévoit les moyens pour y répondre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°75-535 1975-06-30 art. 3 al. 15, al. 16
-	  - Loi n°75-535 du 30 juin 1975 - art. 3 (Ab)
-
-	**Cité par**:
-
-	  - Loi n°75-535 du 30 juin 1975 - art. 34 (Ab)
-	  - Décret n°91-1415 du 31 décembre 1991 - art. 1 (V)
-	  - Arrêté du 2 mai 1996 - art. 1 (V)
-	  - Arrêté du 16 décembre 1998 - art. 1 (V)
-	  - Décret n°2001-576 du 3 juillet 2001 - art. 1 (Ab)
-	  - Code de la santé publique - art. L4311-6 (V)
-	  - Code de la santé publique - art. L6132-2 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Abrogé par**:
-
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 14 () JORF 3 janvier 2002
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L312-1 (M)
-
-
-###### Article L312-11
-
-Les établissements hébergeant des personnes âgées mentionnés au 5° de l'article L. 312-1 élaborent un règlement intérieur
-garantissant, notamment, les droits des résidents et le respect de leur intimité. Le projet de règlement est soumis à l'avis
-du conseil d'établissement prévu à l'article L. 312-9.
-
-Lors de l'admission d'une personne dans un des établissements visés à l'alinéa précédent, un contrat de séjour écrit est
-établi entre l'établissement et le résident ou, le cas échéant, son tuteur. Le même contrat doit avoir été proposé avant le
-26 juillet 1997 aux personnes résidant à cette date dans ces établissements ou, le cas échéant, à leur tuteur.
-
-Les conditions d'application de l'alinéa précédent aux établissements non soumis aux articles L. 342-1 à L. 342-6 sont fixées
-par décret.
-
-Les infractions aux dispositions des premier et deuxième alinéas du présent article sont constatées et poursuivies dans les
-conditions fixées par les articles L. 450-1 à L. 450-3, L. 450-7, L. 450-8 et L. 470-5 du code de commerce.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°75-535 1975-06-30 art. 8 ter
-	  - Loi n°75-535 du 30 juin 1975 - art. 8 ter (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Cité par**:
-
-	  - Décret n°2001-1085 du 20 novembre 2001 - art. 28 (Ab)
-	  - Décret n°2001-1086 du 20 novembre 2001 - art. 7 (Ab)
-
-	**Abrogé par**:
-
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 14 () JORF 3 janvier 2002
-
-	**Cite**:
-
-	  - Code de commerce L450-1 à L450-3, L450-7, L450-8, L470-5
-	  - Code de commerce. - art. L450-7 (V)
-	  - Code de commerce. - art. L450-8 (M)
-	  - Code de commerce. - art. L470-5 (V)
-	  - Code de l'action sociale et des familles - art. L312-1 (M)
-	  - Code de l'action sociale et des familles - art. L312-9 (M)
-	  - Code de l'action sociale et des familles L312-1, L312-9, L342-1 à L342-6
-
-
-##### Section 4 : Dispositions pénales.
-
-###### Article L312-12
-
-Est puni d'un emprisonnement de trois mois et d'une amende de 25 000 F :
-
-1° La création, la transformation et l'extension des établissements et services énumérés à l'article L. 312-1, sans avoir
-obtenu l'autorisation administrative prévue à l'article L. 313-1 ;
-
-2° La cession de l'autorisation prévue à l'article L. 313-1 sans l'accord préalable de l'autorité administrative qui l'a
-délivrée ;
-
-3° Le fait d'apporter un changement important dans l'activité, l'installation, l'organisation, la direction ou le
-fonctionnement d'un établissement ou service soumis à autorisation sans la porter à la connaissance de l'autorité.
-
-Les personnes physiques coupables des infractions au présent article encourent également la peine complémentaire
-d'interdiction, suivant les modalités de l'article 131-27 du code pénal, d'exploiter ou de diriger tout établissement soumis
-aux dispositions du présent titre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°75-535 du 30 juin 1975 - art. 15 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Abrogé par**:
-
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 14 () JORF 3 janvier 2002
-
-	**Cite**:
-
-	  - Code pénal - art. 131-27 (V)
-	  - Code de l'action sociale et des familles - art. L312-1 (M)
-	  - Code de l'action sociale et des familles - art. L313-1 (M)
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. L313-11 (M)
-
-
-###### Article L312-13
-
-Est puni d'un emprisonnement de trois mois et d'une amende de 25 000 F le fait d'accueillir, dans les établissements assurant
-l'hébergement des personnes âgées mentionnés au 5° de l'article L. 412-1 et dans les établissements de santé mentionnés au 2°
-de l'article L. 6111-2 du code de la santé publique, des personnes âgées remplissant les conditions de dépendance mentionnées
-au premier alinéa de l'article L. 232-1, sans avoir passé la convention prévue à l'article L. 312-8.
-
-Les personnes physiques reconnues coupables de l'infraction prévue au présent article encourent également la peine
-complémentaire d'interdiction, suivant les modalités prévues à l'article 131-27 du code pénal, d'exploiter ou de diriger tout
-établissement soumis aux dispositions de l'article L. 312-1 ainsi que d'accueillir des personnes âgées dans le cadre du titre
-III du livre IV du présent code.
-
-En cas de récidive, les peines prévues au premier alinéa peuvent être portées au double.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°75-535 du 30 juin 1975 - art. 15-1 (Ab)
-	  - Loi n°75-535 du 30 juin 1975 - art. 15 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Abrogé par**:
-
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 14 () JORF 3 janvier 2002
-
-	**Cite**:
-
-	  - Code pénal - art. 131-27 (V)
-	  - Code de la santé publique - art. L6111-2 (V)
-	  - Code de l'action sociale et des familles - art. L232-1 (M)
-	  - Code de l'action sociale et des familles - art. L312-1 (M)
-	  - Code de l'action sociale et des familles - art. L312-8 (M)
-	  - Code de l'action sociale et des familles L412-1, L232-1, L312-8, L312-1
-
-
-##### Section 5 : Dispositions communes.
-
-###### Article L312-14
-
-Sauf disposition contraire, les modalités d'application du présent chapitre sont déterminées par décrets en Conseil d'Etat,
-et notamment :
-
-1° Les missions, les conditions de fonctionnement ainsi que les modalités de financement des centres prévus au 9° de
-l'article L. 312-1 ;
-
-2° La liste des services à caractère social ou médico-social intervenant dans le maintien à domicile ou l'action éducative
-qui ne peuvent être créées ou recevoir une extension importante qu'après avis motivé du comité régional ou du Comité national
-de l'organisation sanitaire et sociale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°75-535 1975-06-30 art. 3 al. 11, al. 12
-	  - Loi n°75-535 du 30 juin 1975 - art. 3 (Ab)
-
-	**Cité par**:
-
-	  - Loi n°75-535 du 30 juin 1975 - art. 34 (Ab)
-	  - Décret n°91-1415 du 31 décembre 1991 - art. 1 (V)
-	  - Arrêté du 2 mai 1996 - art. 1 (V)
-	  - Arrêté du 16 décembre 1998 - art. 1 (V)
-	  - Code de la santé publique - art. L4311-6 (V)
-	  - Code de la santé publique - art. L6132-2 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Abrogé par**:
-
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 14 () JORF 3 janvier 2002
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L312-1 (M)
-
-
-#### Chapitre III : Etablissements privés.
+##### Section 1 : Autorisations
 
 ###### Article L313-1
 
-La création, la transformation et l'extension des établissements et services énumérés à l'article L. 312-1 et qui sont gérés
-par des personnes physiques ou par des personnes morales de droit privé sont subordonnées à une autorisation délivrée avant
-tout commencement d'exécution du projet.
+La création, la transformation ou l'extension des établissements et services mentionnés à l'article L. 312-1 sont soumises à
+autorisation.
 
-Sans préjudice de l'application des dispositions de l'article L. 312-6, l'autorisation est délivrée par le président du
-conseil général pour les établissements mentionnés au 1° et au 5° de l'article L. 312-1. Pour tous les autres établissements,
-elle est délivrée par l'autorité compétente de l'Etat.
+Le comité de l'organisation sanitaire et sociale compétent émet un avis sur tous les projets de création ainsi que sur les
+projets de transformation et d'extension portant sur une capacité supérieure à un seuil fixé par décret en Conseil d'Etat
+d'établissements ou de services de droit public ou privé. Cet avis peut être rendu selon une procédure simplifiée.
 
-Sans préjudice de l'application des dispositions de l'article L. 312-6, l'autorisation est, pour les services mentionnés au
-douzième alinéa de l'article L. 312-1, délivrée, dans les conditions fixées par voie réglementaire, selon les cas, par le
-président du conseil général ou par le représentant de l'Etat.
+En outre, le comité de coordination régional de l'emploi et de la formation professionnelle et le conseil régional émettent
+un avis sur tous les projets de création, d'extension ou de transformation des établissements visés au b du 5° du I de
+l'article 312-1.
 
-Toutefois, l'autorisation est délivrée conjointement par le président du conseil général et par le représentant de l'Etat
-dans le département pour les établissements et services auxquels l'autorité judiciaire confie directement et habituellement
-des mineurs.
+Sauf pour les établissements et services mentionnés au 4° du I de l'article L. 312-1, l'autorisation est accordée pour une
+durée de quinze ans. Le renouvellement, total ou partiel, est exclusivement subordonné aux résultats de l'évaluation externe
+mentionnée au deuxième alinéa de l'article L. 312-8.
 
-La décision est notifiée au demandeur dans un délai maximum de six mois à compter du dépôt de la demande. A défaut de
-décision dans ce délai, l'autorisation est réputée acquise.
+Toute autorisation est caduque si elle n'a pas reçu un commencement d'exécution dans un délai de trois ans à compter de sa
+date de notification.
+
+Lorsque l'autorisation est accordée à une personne physique ou morale de droit privé, elle ne peut être cédée qu'avec
+l'accord de l'autorité compétente concernée.
+
+Tout changement important dans l'activité, l'installation, l'organisation, la direction ou le fonctionnement d'un
+établissement ou d'un service soumis à autorisation doit être porté à la connaissance de l'autorité compétente.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°75-535 1975-06-30 art. 9
 	  - Loi n°75-535 du 30 juin 1975 - art. 9 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, II, art. 25 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 25 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -15773,14 +16069,34 @@ décision dans ce délai, l'autorisation est réputée acquise.
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L312-6 (M)
+	  - Code de l'action sociale et des familles - art. L312-8 (M)
 
 
 ###### Article L313-2
 
-Toute autorisation de création ou d'extension d'un établissement privé, délivrée en application de l'article L. 313-1, est
-réputée caduque, si les travaux n'ont pas reçu un commencement d'exécution avant l'expiration d'un délai de trois ans à
-compter de la date de cette autorisation.
+Les demandes d'autorisation relatives aux établissements et services sociaux et médico-sociaux sont présentées par la
+personne physique ou la personne morale de droit public ou de droit privé qui en assure ou est susceptible d'en assurer la
+gestion.
+
+Les demandes d'autorisation portant sur des établissements ou des services de même nature sont reçues au cours de périodes
+déterminées par décret en Conseil d'Etat, afin d'être examinées sans qu'il soit tenu compte de leur ordre de dépôt.
+
+Le calendrier d'examen de ces demandes par la section sociale du comité régional de l'organisation sanitaire et sociale est
+fixé par le représentant de l'Etat dans la région, après avis des présidents des conseils généraux concernés. Ce calendrier
+doit être compatible avec celui des périodes mentionnées à l'alinéa précédent.
+
+Lorsque les dotations mentionnées au 4° de l'article L. 313-4 ne permettent pas de financer la totalité des dépenses
+susceptibles d'être engendrées par les projets faisant l'objet des demandes d'autorisation, l'autorité compétente procède au
+classement desdites demandes selon des critères fixés par décret en Conseil d'Etat.
+
+L'absence de notification d'une réponse dans le délai de six mois suivant la date d'expiration de l'une des périodes de
+réception mentionnées à l'alinéa précédent vaut rejet de la demande d'autorisation.
+
+Lorsque, dans un délai de deux mois, le demandeur le sollicite, les motifs justifiant ce rejet lui sont notifiés dans un
+délai d'un mois. Dans ce cas, le délai du recours contentieux contre la décision de rejet est prorogé jusqu'à l'expiration
+d'un délai de deux mois suivant le jour où les motifs lui auront été notifiés.
+
+A défaut de notification des motifs justifiant le rejet de la demande, l'autorisation est réputée acquise.
 
 **Liens relatifs à cet article**
 
@@ -15806,27 +16122,36 @@ compter de la date de cette autorisation.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'action sociale et des familles - art. L313-1 (M)
+	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, II, art. 26 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 26 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 
 ###### Article L313-3
 
-L'autorisation est accordée si, compte tenu de tous les éléments de qualité que peut comporter l'établissement ou le service
-dont la création, la transformation ou l'extension est projetée, l'opération envisagée est conforme aux normes mentionnées à
-l'article L. 312-3 et répond aux besoins quantitatifs et qualitatifs de la population tels qu'ils ont été appréciés par la
-collectivité publique compétente et par le comité régional ou le Comité national de l'organisation sanitaire et sociale
-lorsque son intervention est prévue par l'article L. 312-1.
+L'autorisation est délivrée :
 
-Elle peut être subordonnée à l'adhésion à un groupement ou à la conclusion d'une convention dans les conditions prévues à
-l'article L. 311-2.
+a) Par le président du conseil général, pour les établissements et services mentionnés au 1° du I de l'article L. 312-1 ainsi
+que pour ceux mentionnés aux 6°, 7°, 8° et 12° du I et au III du même article lorsque les prestations qu'ils dispensent sont
+susceptibles d'être prises en charge par l'aide sociale départementale ;
+
+b) Par l'autorité compétente de l'Etat, pour les établissements et services mentionnés aux 2°, 5°, 9° et 10° du I de
+l'article 312-1 ainsi que pour ceux mentionnés aux 4°, 6°, 7°, 8°, 11° et 12° du I et au III du même article lorsque les
+prestations qu'ils dispensent sont susceptibles d'être prises en charge par l'Etat ou l'assurance maladie au titre de
+l'article L. 162-24-1 du code de la sécurité sociale ;
+
+Conjointement par l'autorité compétente de l'Etat et le président du conseil général, pour les établissements et services
+mentionnés aux 3°, 4°, 6°, 7°, 8°, 11° et 12° du I et au III de l'article L. 312-1 lorsque les prestations qu'ils dispensent
+sont susceptibles d'être prises en charge pour partie par l'Etat ou les organismes de sécurité sociale et pour partie par le
+département.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°75-535 du 30 juin 1975 - art. 10 (M)
 	  - Loi n°75-535 du 30 juin 1975 - art. 10 (Ab)
 
 	**Cité par**:
@@ -15891,24 +16216,49 @@ l'article L. 311-2.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, II, art. 27 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 27 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L311-2 (M)
+	  - Code de la sécurité sociale. - art. L162-24-1 (M)
 	  - Code de l'action sociale et des familles - art. L312-1 (M)
 
 
 ###### Article L313-4
 
-L'autorisation prévue à l'article L. 313-1 vaut :
+L'autorisation initiale est accordée si le projet :
 
-1° Autorisation de fonctionner, sous réserve, pour les établissements, d'un contrôle de conformité aux normes mentionnées à
-l'article L. 312-3 opéré après l'achèvement des travaux et avant la mise en service ;
+1° Est compatible avec les objectifs et répond aux besoins sociaux et médico-sociaux fixés par le schéma d'organisation
+sociale et médico-sociale dont il relève et, pour les établissements visés au b du 5° du I de l'article L. 312-1, aux besoins
+et débouchés recensés en matière de formation professionnelle ;
 
-2° Sauf mention contraire, habilitation à recevoir des bénéficiaires de l'aide sociale ;
+2° Satisfait aux règles d'organisation et de fonctionnement prévues par la loi n° 2002-2 du 2 janvier 2002 précitée ou pour
+son application et prévoit les démarches d'évaluation et les systèmes d'information respectivement prévus aux articles L.
+312-8 et L. 312-9 ;
 
-3° Sauf mention contraire, autorisation de dispenser des soins remboursables aux assurés sociaux par application de l'article
-L. 162-21 du code de la sécurité sociale, lorsque l'autorisation est accordée par le représentant de l'Etat, seul ou
-conjointement avec le président du conseil général.
+3° Présente un coût de fonctionnement qui n'est pas hors de proportion avec le service rendu ou les coûts des établissements
+et services fournissant des prestations comparables ;
+
+4° Présente un coût de fonctionnement en année pleine compatible avec le montant des dotations mentionnées, selon le cas, aux
+articles L. 313-8, L. 314-3 et L. 314-4, au titre de l'exercice correspondant à la date de ladite autorisation.
+
+L'autorisation, ou son renouvellement, peuvent être assortis de conditions particulières imposées dans l'intérêt des
+personnes accueillies.
+
+Lorsque l'autorisation a été refusée en raison de son incompatibilité avec les dispositions de l'un des articles L. 313-8, L.
+314-3 et L. 314-4 et lorsque le coût prévisionnel de fonctionnement du projet se révèle, dans un délai de trois ans, en tout
+ou partie compatible avec le montant des dotations mentionnées audit article, l'autorisation peut être accordée en tout ou
+partie au cours de ce même délai sans qu'il soit à nouveau procédé aux consultations mentionnées à l'article L. 313-1.
+
+Lorsque les dotations mentionnées aux articles L. 313-8, L. 314-3 et L. 314-4 ne permettent pas le financement de tous les
+projets présentés dans le cadre du premier alinéa de l'article L. 313-2 ou lorsqu'elles n'en permettent qu'une partie, ceux
+des projets qui, de ce seul fait, n'obtiennent pas l'autorisation font l'objet d'un classement prioritaire dans des
+conditions déterminées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -15936,7 +16286,6 @@ conjointement avec le président du conseil général.
 
 	**Anciens textes**:
 
-	  - Loi n°75-535 du 30 juin 1975 - art. 11 (M)
 	  - Loi n°75-535 du 30 juin 1975 - art. 11 (Ab)
 
 	**Codifié par**:
@@ -15946,39 +16295,53 @@ conjointement avec le président du conseil général.
 
 	**Cite**:
 
-	  - Code de la sécurité sociale. - art. L162-21 (M)
-	  - Code de l'action sociale et des familles - art. L312-3 (M)
+	  - Loi n°2002-2 2002-01-02
+	  - Code de l'action sociale et des familles - art. L312-8 (M)
+	  - Code de l'action sociale et des familles - art. L312-9 (M)
 	  - Code de l'action sociale et des familles - art. L313-1 (M)
+	  - Code de l'action sociale et des familles - art. L313-8 (M)
+	  - Code de l'action sociale et des familles - art. L314-3 (M)
+	  - Code de l'action sociale et des familles - art. L314-4 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, II, art. 28 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 28 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 
 ###### Article L313-5
 
-L'habilitation et l'autorisation prévues respectivement aux 2° et 3° de l'article L. 313-4 peuvent être refusées pour tout ou
-partie de la capacité prévue, lorsque les coûts de fonctionnement sont manifestement hors de proportion avec le service rendu
-ou avec ceux des établissements fournissant des services analogues.
+L'autorisation est réputée renouvelée par tacite reconduction sauf si, au moins un an avant la date du renouvellement,
+l'autorité compétente, au vu de l'évaluation externe, enjoint à l'établissement ou au service de présenter dans un délai de
+six mois une demande de renouvellement.
 
-Il en est de même lorsqu'ils sont susceptibles d'entraîner, pour les budgets des collectivités territoriales des charges
-injustifiées ou excessives, compte tenu d'un objectif annuel ou pluriannuel d'évolution des dépenses délibéré par la
-collectivité concernée en fonction de ses obligations légales, de ses priorités en matière d'action sociale et des
-orientations des schémas mentionnés à l'article L. 311-3.
+La demande de renouvellement est déposée dans des conditions fixées par décret en Conseil d'Etat. L'absence de notification
+d'une réponse par l'autorité compétente dans les six mois qui suivent la réception de la demande vaut renouvellement de
+l'autorisation.
 
-Il en est de même lorsqu'ils sont susceptibles d'entraîner pour le budget de l'Etat des charges injustifiées ou excessives
-compte tenu des enveloppes de crédits définies à l'article L. 315-10.
-
-Il en est de même lorsqu'ils sont susceptibles d'entraîner pour les budgets des organismes de sécurité sociale, des charges
-injustifiées ou excessives, compte tenu des objectifs et dotations définis à l'article L. 315-9.
+Lorsqu'une autorisation a fait l'objet de modifications ultérieures, ou a été suivie d'une ou plusieurs autorisations
+complémentaires, la date d'échéance du renouvellement mentionnée au premier alinéa est fixée par référence à la date de
+délivrance de la première autorisation.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°75-535 du 30 juin 1975 - art. 11-1 (M)
 	  - Loi n°75-535 du 30 juin 1975 - art. 11-1 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, II, art. 29 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 29 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -15992,44 +16355,17 @@ injustifiées ou excessives, compte tenu des objectifs et dotations définis à 
 	  - Code de l'action sociale et des familles - art. R313-10-3 (V)
 	  - Code de l'action sociale et des familles - art. R313-2 (V)
 
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L311-3 (M)
-	  - Code de l'action sociale et des familles - art. L313-4 (M)
-	  - Code de l'action sociale et des familles - art. L315-10 (M)
-	  - Code de l'action sociale et des familles - art. L315-9 (M)
-
 
 ###### Article L313-6
 
-L'habilitation à recevoir des bénéficiaires de l'aide sociale peut être assortie d'une convention.
+L'autorisation mentionnée à l'article L. 313-1 ou son renouvellement sont valables sous réserve du résultat d'une visite de
+conformité aux conditions techniques minimales d'organisation et de fonctionnement mentionnées au II de l'article L. 312-1
+dont les modalités sont fixées par décret et, s'agissant des établissements accueillant des personnes âgées dépendantes, de
+la conclusion de la convention tripartite mentionnée à l'article L. 313-12.
 
-L'habilitation précise obligatoirement :
-
-1° Les catégories de bénéficiaires et la capacité d'accueil de l'établissement ou du service ;
-
-2° Les objectifs poursuivis et les moyens mis en oeuvre ;
-
-3° La nature et la forme des documents administratifs, financiers et comptables, ainsi que les renseignements statistiques
-qui doivent être communiqués à la collectivité publique.
-
-Lorsqu'elles ne figurent pas dans l'habilitation, doivent figurer obligatoirement dans la convention les dispositions
-suivantes :
-
-1° Les critères d'évaluation des actions conduites ;
-
-2° La nature des liens de la coordination avec les autres organismes à caractère social, médico-social et sanitaire ;
-
-3° Les conditions dans lesquelles des avances sont accordées par la collectivité publique à l'établissement ou au service ;
-
-4° Les conditions, les délais et les formes dans lesquelles la convention peut être renouvelée ou dénoncée ;
-
-5° Les modalités de conciliation en cas de divergence sur l'interprétation des dispositions conventionnelles.
-
-La convention est publiée dans un délai de deux mois à compter de sa signature.
-
-L'établissement ou le service habilité est tenu, dans la limite de sa spécialité et de sa capacité autorisée, d'accueillir
-toute personne qui s'adresse à lui.
+Ils valent, sauf mention contraire, habilitation à recevoir des bénéficiaires de l'aide sociale et, lorsque l'autorisation
+est accordée par le représentant de l'Etat, seul ou conjointement avec le président du conseil général, autorisation de
+dispenser des prestations prises en charge par l'Etat ou les organismes de sécurité sociale.
 
 **Liens relatifs à cet article**
 
@@ -16060,47 +16396,51 @@ toute personne qui s'adresse à lui.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, II, art. 30 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 30 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L312-1 (M)
+	  - Code de l'action sociale et des familles - art. L313-1 (M)
+	  - Code de l'action sociale et des familles - art. L313-12 (M)
+
 
 ###### Article L313-7
 
-L'habilitation à recevoir des bénéficiaires de l'aide sociale peut être retirée pour des motifs fondés sur :
+Sans préjudice de l'application des dispositions prévues aux articles L. 162-31 et L. 162-31-1 du code de la sécurité
+sociale, les établissements et services à caractère expérimental mentionnés au 12° du I de l'article L. 312-1 du présent code
+sont autorisés soit, après avis du Comité national de l'organisation sanitaire et sociale institué par l'article L. 6121-9 du
+code de la santé publique, par le ministre chargé de l'action sociale, soit par le représentant de l'Etat dans le
+département, soit par le président du conseil général ou conjointement par ces deux dernières autorités, après avis du comité
+régional de l'organisation sanitaire et sociale.
 
-1° L'évolution des besoins ;
-
-2° La méconnaissance d'une disposition substantielle de l'habilitation ou de la convention ;
-
-3° La disproportion entre le coût de fonctionnement et les services rendus ;
-
-4° La charge excessive, au sens des dispositions de l'article L. 313-5, qu'elle représente pour la collectivité publique ou
-les organismes assurant le financement.
-
-Dans le cas prévu au 1° ci-dessus, l'autorité qui a délivré l'habilitation doit, préalablement à toute décision, demander à
-l'établissement ou au service de modifier sa capacité en fonction de l'évolution des besoins. La demande, notifiée à
-l'intéressé, est motivée. Elle précise le délai dans lequel l'établissement ou le service est tenu de prendre les
-dispositions requises. Ce délai ne peut être inférieur à six mois.
-
-A l'expiration du délai, après avis du comité régional ou national mentionné à l'article L. 6121-9 du code de la santé
-publique, rendu au vu des observations formulées par l'autorité compétente et par l'établissement ou le service,
-l'habilitation peut être retirée à l'établissement ou au service pour tout ou partie de la capacité dont l'aménagement était
-demandé. Cette décision prend effet au terme d'un délai de six mois.
-
-Il est tenu compte des conséquences financières de cette décision dans la fixation des moyens alloués à l'établissement ou au
-service.
-
-L'autorisation de dispenser des soins remboursables aux assurés sociaux peut être retirée pour les mêmes motifs que ceux
-énumérés aux 1°, 3° et 4° du présent article.
+Ces autorisations sont accordées pour une durée déterminée, qui ne peut être supérieure à cinq ans. Elles sont renouvelables
+une fois au vu des résultats positifs d'une évaluation. Au terme de la période ouverte par le renouvellement et au vu d'une
+nouvelle évaluation positive, l'établissement ou le service relève alors de l'autorisation à durée déterminée mentionnée au
+quatrième alinéa de l'article L. 313-1.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°75-535 du 30 juin 1975 - art. 11-3 (M)
 	  - Loi n°75-535 du 30 juin 1975 - art. 11-3 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, II, art. 31 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 31 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -16122,25 +16462,46 @@ L'autorisation de dispenser des soins remboursables aux assurés sociaux peut ê
 	**Cite**:
 
 	  - Code de la santé publique - art. L6121-9 (M)
-	  - Code de l'action sociale et des familles - art. L313-5 (M)
+	  - Code de la sécurité sociale. - art. L162-31 (V)
+	  - Code de la sécurité sociale. - art. L162-31-1 (M)
+	  - Code de l'action sociale et des familles - art. L312-1 (M)
+	  - Code de l'action sociale et des familles - art. L313-1 (M)
 
 
 ###### Article L313-8
 
-Toute autorisation donnée contrairement à l'avis du comité national ou régional de l'organisation sanitaire et sociale et
-tout refus d'autorisation doivent être motivés.
+L'habilitation et l'autorisation mentionnées au deuxième alinéa de l'article L. 313-6 peuvent être refusées pour tout ou
+partie de la capacité prévue, lorsque les coûts de fonctionnement sont manifestement hors de proportion avec le service rendu
+ou avec ceux des établissements fournissant des services analogues.
+
+Il en est de même lorsqu'ils sont susceptibles d'entraîner, pour les budgets des collectivités territoriales, des charges
+injustifiées ou excessives, compte tenu d'un objectif annuel ou pluriannuel d'évolution des dépenses délibéré par la
+collectivité concernée en fonction de ses obligations légales, de ses priorités en matière d'action sociale et des
+orientations des schémas départementaux mentionnés à l'article L. 312-5.
+
+Il en est de même lorsqu'ils sont susceptibles d'entraîner pour le budget de l'Etat des charges injustifiées ou excessives
+compte tenu des enveloppes de crédits définies à l'article L. 314-4.
+
+Il en est de même lorsqu'ils sont susceptibles d'entraîner, pour les budgets des organismes de sécurité sociale, des charges
+injustifiées ou excessives, compte tenu des objectifs et dotations définis à l'article L. 314-3.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°75-535 du 30 juin 1975 - art. 12 (M)
 	  - Loi n°75-535 du 30 juin 1975 - art. 12 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, II, art. 32 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 32 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -16173,10 +16534,97 @@ tout refus d'autorisation doivent être motivés.
 	  - Code de l'action sociale et des familles - art. R314-75 (V)
 	  - Code de la santé publique - art. L1434-3 (V)
 
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L312-5 (M)
+	  - Code de l'action sociale et des familles - art. L313-6 (M)
+	  - Code de l'action sociale et des familles - art. L314-3 (M)
+	  - Code de l'action sociale et des familles - art. L314-4 (M)
+
+
+###### Article L313-8-1
+
+L'habilitation à recevoir des bénéficiaires de l'aide sociale peut être assortie d'une convention.
+
+L'habilitation précise obligatoirement :
+
+1° Les catégories de bénéficiaires et la capacité d'accueil de l'établissement ou du service ;
+
+2° Les objectifs poursuivis et les moyens mis en oeuvre ;
+
+3° La nature et la forme des documents administratifs, financiers et comptables, ainsi que les renseignements statistiques
+qui doivent être communiqués à la collectivité publique.
+
+Lorsqu'elles ne figurent pas dans l'habilitation, doivent figurer obligatoirement dans la convention les dispositions
+suivantes :
+
+1° Les critères d'évaluation des actions conduites ;
+
+2° La nature des liens de la coordination avec les autres organismes à caractère social, médico-social et sanitaire ;
+
+3° Les conditions dans lesquelles des avances sont accordées par la collectivité publique à l'établissement ou au service ;
+
+4° Les conditions, les délais et les formes dans lesquels la convention peut être renouvelée ou dénoncée ;
+
+5° Les modalités de conciliation en cas de divergence sur l'interprétation des dispositions conventionnelles.
+
+La convention est publiée dans un délai de deux mois à compter de sa signature.
+
+L'établissement ou le service habilité est tenu, dans la limite de sa spécialité et de sa capacité autorisée, d'accueillir
+toute personne qui s'adresse à lui.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 33 () JORF 3 janvier 2002
+
+	**Cité par**:
+
+	  - Loi - art. 37 (V)
+	  - Code de l'action sociale et des familles - art. D348-6 (V)
+	  - Code de l'action sociale et des familles - art. D349-4 (V)
+	  - Code de l'action sociale et des familles - art. L121-2 (V)
+	  - Code de l'action sociale et des familles - art. L221-1 (M)
+	  - Code de l'action sociale et des familles - art. L313-12 (VT)
+	  - Code de l'action sociale et des familles - art. R345-1 (V)
+	  - Code général des impôts, CGI. - art. 1605 ter (V)
+
 
 ###### Article L313-9
 
-L'autorisation ne peut être cédée qu'avec l'accord de l'autorité qui l'a délivrée.
+L'habilitation à recevoir des bénéficiaires de l'aide sociale peut être retirée pour des motifs fondés sur :
+
+1° L'évolution des besoins ;
+
+2° La méconnaissance d'une disposition substantielle de l'habilitation ou de la convention ;
+
+3° La disproportion entre le coût de fonctionnement et les services rendus ;
+
+4° La charge excessive, au sens des dispositions de l'article L. 313-8, qu'elle représente pour la collectivité publique ou
+les organismes assurant le financement.
+
+Dans le cas prévu au 1°, l'autorité qui a délivré l'habilitation doit, préalablement à toute décision, demander à
+l'établissement ou au service de modifier sa capacité en fonction de l'évolution des besoins. Dans les cas prévus aux 2°, 3°
+et 4°, l'autorité doit demander à l'établissement ou au service de prendre les mesures nécessaires pour respecter
+l'habilitation ou la convention ou réduire les coûts ou charges au niveau moyen. La demande, notifiée à l'intéressé, est
+motivée. Elle précise le délai dans lequel l'établissement ou le service est tenu de prendre les dispositions requises. Ce
+délai ne peut être inférieur à six mois.
+
+A l'expiration du délai, l'habilitation peut être retirée à l'établissement ou au service pour tout ou partie de la capacité
+dont l'aménagement était demandé. Cette décision prend effet au terme d'un délai de six mois.
+
+Il est tenu compte des conséquences financières de cette décision dans la fixation des moyens alloués à l'établissement ou au
+service. Les catégories de dépenses imputables à cette décision et leur niveau de prise en charge par l'autorité compétente
+sont fixées par voie réglementaire.
+
+L'autorisation de dispenser des soins remboursables aux assurés sociaux peut être retirée pour les mêmes motifs que ceux
+énumérés aux 1°, 3° et 4°.
 
 **Liens relatifs à cet article**
 
@@ -16188,6 +16636,13 @@ L'autorisation ne peut être cédée qu'avec l'accord de l'autorité qui l'a dé
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, II, art. 34 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 34 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -16202,18 +16657,29 @@ L'autorisation ne peut être cédée qu'avec l'accord de l'autorité qui l'a dé
 	  - Code de l'action sociale et des familles - art. L546-3 (Ab)
 	  - Code du travail - art. R5212-5 (V)
 
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L313-8 (M)
+
+
+##### Section 2 : Habilitation à recevoir des mineurs confiés par l'autorité judiciaire
 
 ###### Article L313-10
 
-Tout changement important dans l'activité, l'installation, l'organisation, la direction ou le fonctionnement d'un
-établissement ou d'un service soumis à l'autorisation prévue à l'article L. 313-1 doit être porté à la connaissance de
-l'autorité qui en a autorisé la création ou de l'autorité compétente pour autoriser la transformation ou l'extension.
+L'habilitation à recevoir des mineurs confiés habituellement par l'autorité judiciaire, soit au titre de la législation
+relative à l'enfance délinquante, soit au titre de celle relative à l'assistance éducative, est délivrée par le représentant
+de l'Etat dans le département après avis du président du conseil général, pour tout ou partie du service ou de
+l'établissement. L'habilitation au titre de l'enfance délinquante et celle au titre de l'assistance éducative peuvent être
+délivrées simultanément par une même décision.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°75-535 1975-06-30 art. 14 al. 1
 	  - Loi n°75-535 du 30 juin 1975 - art. 14 (Ab)
 
 	**Cité par**:
@@ -16232,35 +16698,26 @@ l'autorité qui en a autorisé la création ou de l'autorité compétente pour a
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'action sociale et des familles - art. L313-1 (M)
+	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, III, art. 35 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 35 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
+
+##### Section 3 : Contrats ou conventions pluriannuels
 
 ###### Article L313-11
 
-Sans préjudice des sanctions prévues à l'article L. 312-12, un établissement ou un service ouvert sans autorisation peut être
-fermé par l'autorité compétente pour en autoriser la création, après avis, selon le cas, du comité national ou régional de
-l'organisation sanitaire et sociale. Dans le cas où la création relève d'une autorisation conjointe en vertu de l'article L.
-312-6, la décision de fermeture est prise conjointement par le représentant de l'Etat dans le département et le président du
-conseil général.
+Sans préjudice des dispositions de l'article L. 313-12, des contrats pluriannuels peuvent être conclus entre les personnes
+physiques et morales gestionnaires d'établissements et services et la ou les autorités chargées de l'autorisation et, le cas
+échéant, les organismes de protection sociale, afin notamment de permettre la réalisation des objectifs retenus par le schéma
+d'organisation sociale et médico-sociale dont ils relèvent, la mise en oeuvre du projet d'établissement ou de service ou de
+la coopération des actions sociales et médico-sociales.
 
-Le représentant de l'Etat prononce la fermeture, totale ou partielle, provisoire ou définitive, d'un établissement ou d'un
-service, dans les conditions prévues aux articles L. 331-7 et L. 331-5 :
-
-1° Lorsque les normes définies par le décret prévu à l'article L. 312-3 ne sont pas respectées ;
-
-2° Lorsque sont constatées, dans l'établissement ou le service et du fait de celui-ci, des infractions aux lois et règlements
-entraînant la responsabilité civile de l'établissement ou du service ou la responsabilité pénale de ses dirigeants ;
-
-3° Lorsque la santé, la sécurité ou le bien-être physique ou moral des usagers se trouvent menacés ou compromis par les
-conditions d'installation, d'organisation ou de fonctionnement de l'établissement ou du service.
-
-La fermeture définitive de l'établissement ou du service vaut retrait de l'autorisation prévue à l'article L. 313-1.
-
-Lorsque les normes définies par le décret prévu à l'article L. 312-3 sont modifiées, les établissements sont tenus de se
-conformer aux nouvelles normes dans un délai déterminé par décret ; ce délai court de la mise en demeure qui leur est
-adressée.
+Ces contrats fixent les obligations respectives des parties signataires et prévoient les moyens nécessaires à la réalisation
+des objectifs poursuivis, sur une durée maximale de cinq ans.
 
 **Liens relatifs à cet article**
 
@@ -16310,7 +16767,6 @@ adressée.
 
 	**Anciens textes**:
 
-	  - Loi n°75-535 1975-06-30 art. 14 al. 2, al. 3, al.4, al. 5, al.6, al. 7
 	  - Loi n°75-535 du 30 juin 1975 - art. 14 (Ab)
 
 	**Codifié par**:
@@ -16318,34 +16774,48 @@ adressée.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'action sociale et des familles - art. L312-12 (Ab)
-	  - Code de l'action sociale et des familles - art. L312-3 (M)
-	  - Code de l'action sociale et des familles - art. L312-6 (M)
-	  - Code de l'action sociale et des familles - art. L313-1 (M)
-	  - Code de l'action sociale et des familles - art. L331-5 (M)
-	  - Code de l'action sociale et des familles - art. L331-7 (M)
+	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, IV, art. 36 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 36 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 
 ###### Article L313-12
 
-Les conventions collectives de travail, conventions d'entreprise ou d'établissement et accords de retraite applicables aux
-salariés des établissements ou services à caractère social ou sanitaire à but non lucratif dont les dépenses de
-fonctionnement sont, en vertu de dispositions législatives ou réglementaires, supportées, en tout ou partie, directement ou
-indirectement, soit par des personnes morales de droit public, soit par des organismes de sécurité sociale, ne prennent effet
-qu'après agrément donné par le ministre compétent après avis d'une commission où sont représentés des élus locaux et dans les
-conditions fixées par voie réglementaire. Ces conventions ou accords s'imposent aux autorités compétentes pour fixer la
-tarification.
+I. - Les établissements assurant l'hébergement des personnes âgées mentionnées au 6° du I de l'article L. 312-1 du présent
+code et les établissements de santé dispensant des soins de longue durée visés au 2° de l'article L. 6111-2 du code de la
+santé publique qui accueillent un nombre de personnes âgées dépendantes dans une proportion supérieure à un seuil fixé par
+décret ne peuvent accueillir des personnes âgées remplissant les conditions de perte d'autonomie mentionnées à l'article L.
+232-2 que s'ils ont passé avant le 31 décembre 2003 une convention pluriannuelle avec le président du conseil général et
+l'autorité compétente de l'Etat, qui respecte le cahier des charges établi par arrêté ministériel, après avis des organismes
+nationaux d'assurance maladie et des représentants des présidents de conseils généraux.
 
-Un rapport relatif aux agréments des conventions et accords mentionnés au premier alinéa du présent article est soumis
-annuellement au comité des finances locales.
+II. - Les établissements mentionnés au I dont la capacité est inférieure à un seuil fixé par décret ont la possibilité de
+déroger aux règles mentionnées au 1° de l'article L. 314-2. Dans ces établissements, les modalités de tarification des
+prestations remboursables aux assurés sociaux sont fixées par décret.
+
+III. - Les établissements accueillant un nombre de personnes âgées dépendantes inférieur au seuil mentionné au I doivent
+répondre à des critères de fonctionnement, notamment de qualité, définis par un cahier des charges fixé par arrêté du
+ministre chargé des personnes âgées.
+
+IV. - Les établissements mentionnés au I bénéficiant déjà, au 1er janvier 2001, d'une autorisation de dispenser des soins
+pour une partie de leur capacité sont autorisés à dispenser des soins aux assurés sociaux pour la totalité de leur capacité
+dès conclusion de la convention prévue au I.
+
+Pour les autres établissements mentionnés au I, régulièrement autorisés avant le 1er janvier 2001, un arrêté du ministre
+chargé des personnes âgées fixe les conditions dans lesquelles sera recueilli l'avis du comité régional de l'organisation
+sanitaire et sociale nécessaire à la délivrance de l'autorisation de dispenser des soins.
+
+V. - Le personnel des établissements publics mentionnés au I peut comprendre des médecins, des biologistes, des
+odontologistes et des pharmaciens visés par l'article L. 6152-1 du code de la santé publique. Les établissements privés
+mentionnés au I peuvent faire appel à ces praticiens dans les conditions prévues par les statuts de ces derniers.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°75-535 du 30 juin 1975 - art. 15 (Ab)
 	  - Loi n°75-535 du 30 juin 1975 - art. 16 (Ab)
 
 	**Cité par**:
@@ -16549,10 +17019,39 @@ annuellement au comité des finances locales.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, IV, art. 37 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 37 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L6111-2 (V)
+	  - Code de la santé publique - art. L6152-1 (M)
+	  - Code de l'action sociale et des familles - art. L232-2 (M)
+	  - Code de l'action sociale et des familles - art. L312-1 (M)
+
+
+##### Section 4 : Contrôle
 
 ###### Article L313-13
 
-Sauf disposition contraire, les modalités d'application du présent chapitre sont déterminées par décret en Conseil d'Etat.
+Le contrôle de l'activité des établissements et services sociaux et médico-sociaux est exercé, notamment dans l'intérêt des
+usagers, par l'autorité qui a délivré l'autorisation.
+
+Lorsque le contrôle a pour objet d'apprécier l'état de santé, de sécurité, d'intégrité ou de bien-être physique ou moral des
+bénéficiaires, il est procédé, dans le respect de l'article L. 331-3, à des visites d'inspection conduites conjointement par
+un médecin inspecteur de santé publique et un inspecteur des affaires sanitaires et sociales. Le médecin inspecteur veille à
+entendre les usagers et leurs familles et à recueillir leurs témoignages. L'inspecteur ou le médecin inspecteur recueille
+également les témoignages des personnels de l'établissement ou du service.
+
+Les inspecteurs des affaires sanitaires et sociales dûment assermentés à cet effet dans des conditions fixées par décret en
+Conseil d'Etat constatent les infractions par des procès-verbaux qui font foi jusqu'à preuve du contraire.
+
+Au titre des contrôles mentionnés aux articles L. 313-16, L. 331-3, L. 331-5 et L. 331-7, les personnels mentionnés à
+l'alinéa précédent peuvent effectuer des saisies dans des conditions fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -16560,6 +17059,13 @@ Sauf disposition contraire, les modalités d'application du présent chapitre so
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, V, art. 38 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 38 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -16577,27 +17083,540 @@ Sauf disposition contraire, les modalités d'application du présent chapitre so
 	  - Code de la santé publique - art. L1435-7 (VD)
 	  - Code de la santé publique - art. R1435-10 (V)
 
+	**Cite**:
 
-#### Chapitre IV : Etablissements relevant des collectivités publiques.
+	  - Code de l'action sociale et des familles - art. L313-16 (M)
+	  - Code de l'action sociale et des familles - art. L331-3 (M)
+	  - Code de l'action sociale et des familles - art. L331-5 (M)
+	  - Code de l'action sociale et des familles - art. L331-7 (M)
+
+
+###### Article L313-14
+
+Dans des conditions fixées par décret en Conseil d'Etat et sans préjudice des dispositions de l'article L. 331-7, dès que
+sont constatés dans l'établissement ou le service des infractions aux lois et règlements ou des dysfonctionnements dans la
+gestion ou l'organisation susceptibles d'affecter la prise en charge ou l'accompagnement des usagers ou le respect de leurs
+droits, l'autorité qui a délivré l'autorisation adresse au gestionnaire de l'établissement ou du service une injonction d'y
+remédier, dans un délai qu'elle fixe. Ce délai doit être raisonnable et adapté à l'objectif recherché. Elle en informe les
+représentants des usagers, des familles et du personnel et, le cas échéant, le représentant de l'Etat dans le département.
+
+Cette injonction peut inclure des mesures de réorganisation et, le cas échéant, des mesures individuelles conservatoires,
+dans les conditions prévues par le code du travail ou par les accords collectifs.
+
+S'il n'est pas satisfait à l'injonction, l'autorité compétente peut désigner un administrateur provisoire de l'établissement
+pour une durée qui ne peut être supérieure à six mois renouvelable une fois. Celui-ci accomplit, au nom de l'autorité
+compétente et pour le compte de l'établissement ou du service, les actes d'administration urgents ou nécessaires pour mettre
+fin aux dysfonctionnements ou irrégularités constatés.
+
+Dans le cas des établissements et services soumis à autorisation conjointe, la procédure prévue aux deux alinéas précédents
+est engagée à l'initiative de l'une ou de l'autre des autorités compétentes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, V, art. 39 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 39 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+
+	**Cité par**:
+
+	  - Décret n°2003-1010 du 22 octobre 2003 - art. 61 (Ab)
+	  - Code de l'action sociale et des familles - art. D311 (V)
+	  - Code de l'action sociale et des familles - art. D312-176-13 (V)
+	  - Code de l'action sociale et des familles - art. L313-17 (V)
+	  - Code de l'action sociale et des familles - art. L543-1 (V)
+	  - Code de l'action sociale et des familles - art. R314-62 (M)
+	  - Code de l'action sociale et des familles - art. R331-7 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L331-7 (M)
+
+
+###### Article L313-15
+
+L'autorité compétente met fin à l'activité de tout service ou établissement créé, transformé ou ayant fait l'objet d'une
+extension sans l'autorisation prévue à cet effet.
+
+Lorsque l'activité relève d'une autorisation conjointe de l'autorité compétente de l'Etat et du président du conseil général,
+la décision de fermeture est prise conjointement par ces deux autorités et mise en oeuvre par le représentant de l'Etat dans
+le département avec le concours du président du conseil général. En cas de désaccord entre ces deux autorités, la décision de
+fermeture peut être prise et mise en oeuvre par le représentant de l'Etat dans le département.
+
+L'autorité compétente met en oeuvre la décision de fermeture dans les conditions prévues aux articles L. 331-5, L. 331-6 et
+L. 331-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, V, art. 40 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 40 () JORF 3 janvier 2002
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L331-5 (M)
+	  - Code de l'action sociale et des familles - art. L331-6 (M)
+	  - Code de l'action sociale et des familles - art. L331-7 (M)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R315-4 (V)
+
+
+###### Article L313-16
+
+Le représentant de l'Etat dans le département prononce la fermeture, totale ou partielle, provisoire ou définitive, d'un
+service ou établissement dans les conditions prévues aux articles L. 313-17 et L. 313-18 :
+
+1° Lorsque les conditions techniques minimales d'organisation et de fonctionnement prévues au II de l'article L. 312-1 ne
+sont pas respectées ;
+
+2° Lorsque la santé, la sécurité ou le bien-être physique ou moral des personnes bénéficiaires se trouvent compromis par les
+conditions d'installation, d'organisation ou de fonctionnement de l'établissement ou du service ou par un fonctionnement des
+instances de l'organisme gestionnaire non conformes à ses propres statuts :
+
+3° Lorsque sont constatées dans l'établissement ou le service et du fait de celui-ci des infractions aux lois et règlements
+susceptibles d'entraîner la mise en cause de la responsabilité civile de l'établissement ou du service ou de la
+responsabilité pénale de ses dirigeants ou de la personne morale gestionnaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, V, art. 41 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 41 () JORF 3 janvier 2002
+
+	**Cité par**:
+
+	  - Décret n°2003-1010 du 22 octobre 2003 - art. 61 (Ab)
+	  - Arrêté du 9 mars 2012 - art. 4 (V)
+	  - Code de l'action sociale et des familles - art. L313-13 (V)
+	  - Code de l'action sociale et des familles - art. L313-18 (V)
+	  - Code de l'action sociale et des familles - art. L315-6 (V)
+	  - Code de l'action sociale et des familles - art. L331-5 (V)
+	  - Code de l'action sociale et des familles - art. R313-4-3 (V)
+	  - Code de l'action sociale et des familles - art. R314-62 (VT)
+	  - Code de l'action sociale et des familles - art. R315-4 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L312-1 (M)
+	  - Code de l'action sociale et des familles - art. L313-17 (M)
+
+
+###### Article L313-17
+
+En cas de fermeture d'un établissement ou d'un service, le représentant de l'Etat dans le département prend les mesures
+nécessaires au placement des personnes qui y étaient accueillies.
+
+Il peut mettre en oeuvre la procédure prévue aux deuxième et troisième alinéas de l'article L. 313-14.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, V, art. 42 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 42 () JORF 3 janvier 2002
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L313-14 (M)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L313-16 (VD)
+
+
+###### Article L313-18
+
+La fermeture définitive du service ou de l'établissement vaut retrait de l'autorisation prévue à l'article L. 313-1.
+
+Cette autorisation peut être transférée par le représentant de l'Etat dans le département à une collectivité publique ou un
+établissement privé poursuivant un but similaire, lorsque la fermeture définitive a été prononcée sur l'un des motifs
+énumérés à l'article L. 313-16. Le comité régional de l'organisation sanitaire et sociale compétent est informé de ce
+transfert.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, V, art. 43 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 43 () JORF 3 janvier 2002
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D471-13 (V)
+	  - Code de l'action sociale et des familles - art. D471-15 (V)
+	  - Code de l'action sociale et des familles - art. D471-19 (V)
+	  - Code de l'action sociale et des familles - art. D474-11 (V)
+	  - Code de l'action sociale et des familles - art. D474-15 (V)
+	  - Code de l'action sociale et des familles - art. D474-9 (V)
+	  - Code de l'action sociale et des familles - art. L313-16 (V)
+	  - Code de l'action sociale et des familles - art. L471-3 (V)
+	  - Code de l'action sociale et des familles - art. L473-1 (V)
+	  - Code de l'action sociale et des familles - art. L474-2 (V)
+	  - Code de l'action sociale et des familles - art. L474-6 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L313-1 (M)
+
+
+###### Article L313-19
+
+En cas de fermeture définitive d'un établissement ou d'un service géré par une association privée, celle-ci reverse à une
+collectivité publique ou à un établissement privé poursuivant un but similaire les sommes affectées à l'établissement ou
+service fermé, apportées par l'Etat, les collectivités territoriales et leurs établissements publics ou par les organismes de
+sécurité sociale, énumérées ci-après :
+
+1° Les subventions d'investissement non amortissables, grevées de droits, ayant permis le financement de l'actif immobilisé
+de l'établissement ou du service. Ces subventions sont revalorisées selon des modalités fixées par décret ;
+
+2° Les réserves de trésorerie de l'établissement ou du service constituées par majoration des produits de tarification et
+affectation des excédents d'exploitation réalisés avec les produits de la tarification ;
+
+3° Des excédents d'exploitation provenant de la tarification affectés à l'investissement de l'établissement ou du service,
+revalorisés dans les conditions prévues au 1° ;
+
+4° Les provisions pour risques et charges, les provisions réglementées et les provisions pour dépréciation de l'actif
+circulant constituées grâce aux produits de la tarification et non employées le jour de la fermeture.
+
+La collectivité publique ou l'établissement privé attributaire des sommes précitées peut être :
+
+a) Choisi par l'association gestionnaire de l'établissement ou du service fermé, avec l'accord du préfet du département du
+lieu d'implantation de cet établissement ou service ;
+
+b) Désigné par le préfet du département, en cas d'absence de choix de l'association ou du refus par le préfet du choix
+mentionné au a.
+
+L'organisme gestionnaire de l'établissement ou du service fermé peut, avec l'accord de l'autorité de tarification concernée,
+s'acquitter des obligations prévues aux 1° et 3° en procédant à la dévolution de l'actif net immobilisé de l'établissement ou
+du service.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, V, art. 44 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 44 () JORF 3 janvier 2002
+
+	**Cité par**:
+
+	  - Décret n°2004-125 du 9 février 2004 - art. 1 (Ab)
+	  - Décret n°2004-1136 du 21 octobre 2004 - art. 4 (V)
+	  - Décret n°2014-1286 du 23 octobre 2014 - art. (VD)
+	  - Décret n°2015-1461 du 10 novembre 2015 - art. (V)
+	  - Code de l'action sociale et des familles - art. D313-17 (T)
+	  - Code de l'action sociale et des familles - art. D313-25 (T)
+	  - Code de l'action sociale et des familles - art. D313-28 (V)
+	  - Code de l'action sociale et des familles - art. R314-65-1 (V)
+	  - Code de l'action sociale et des familles - art. R314-97 (VD)
+
+
+###### Article L313-20
+
+Le président du conseil général exerce un contrôle sur les établissements et services relevant de sa compétence au titre des
+dispositions mentionnées aux a et c de l'article L. 313-3 dans les conditions prévues par l'article L. 133-2.
+
+L'autorité judiciaire et les services relevant de l'autorité du garde des sceaux, ministre de la justice, exercent, sans
+préjudice des pouvoirs reconnus au président du conseil général, un contrôle sur les établissements et services mentionnés au
+4° du I de l'article 312-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, V, art. 45 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 45 () JORF 3 janvier 2002
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L133-2 (M)
+	  - Code de l'action sociale et des familles - art. L313-3 (M)
+	  - Code de l'action sociale et des familles L313-3, L133-2, 312-1
+
+
+##### Section 5 : Dispositions pénales
+
+###### Article L313-21
+
+Les infractions aux dispositions des articles L. 311-4 à L. 311-9 du présent code sont constatées et poursuivies dans les
+conditions fixées par les premier et troisième alinéas de l'article L. 450-1 et les articles L. 450-2, L. 450-3, L. 450-7, L.
+450-8 et L. 470-5 du code de commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, VI, art. 46 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 46 () JORF 3 janvier 2002
+
+	**Cite**:
+
+	  - Code de commerce. - art. L450-2 (V)
+	  - Code de commerce. - art. L450-3 (M)
+	  - Code de commerce. - art. L450-7 (V)
+	  - Code de commerce. - art. L450-8 (M)
+	  - Code de commerce. - art. L470-5 (V)
+	  - Code de l'action sociale et des familles L311-4 à L311-9, L450-1
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D311 (VD)
+	  - Code de l'action sociale et des familles - art. L543-1 (V)
+	  - Code de l'action sociale et des familles - art. L546-3 (Ab)
+
+
+###### Article L313-22
+
+Est puni d'un emprisonnement de trois mois et d'une amende de 3 750 euros :
+
+1° La création, la transformation et l'extension des établissements et services énumérés à l'article L. 312-1, sans avoir
+obtenu l'autorisation prévue à l'article L. 313-1 ;
+
+2° La cession de l'autorisation prévue à l'article L. 313-1 sans l'accord préalable de l'autorité administrative qui l'a
+délivrée ;
+
+3° Le fait d'apporter un changement important dans l'activité, l'installation, l'organisation, la direction ou le
+fonctionnement d'un établissement ou service soumis à autorisation sans la porter à la connaissance de l'autorité.
+
+Les personnes physiques coupables des infractions au présent article encourent également la peine complémentaire
+d'interdiction, suivant les modalités de l'article L. 131-27 du code pénal, d'exploiter ou de diriger tout établissement ou
+service soumis aux dispositions du présent titre.
+
+En cas de licenciement, le juge peut prononcer la réintégration du salarié concerné si celui-ci le demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, VI, art. 47 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 47 () JORF 3 janvier 2002
+
+	**Cite**:
+
+	  - Code pénal L131-27
+	  - Code de l'action sociale et des familles - art. L312-1 (M)
+	  - Code de l'action sociale et des familles - art. L313-1 (M)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L543-1 (V)
+
+
+###### Article L313-23
+
+Est puni d'un emprisonnement de trois mois et d'une amende de 3 750 euros le fait d'accueillir, dans les établissements
+assurant l'hébergement des personnes âgées mentionnés au 6° de l'article L. 312-1 et dans les établissements de santé
+mentionnés au 2° de l'article L. 6111-2 du code de la santé publique, des personnes âgées remplissant les conditions de
+dépendance mentionnées au premier alinéa de l'article L. 232-1, sans avoir passé la convention prévue au I de l'article L.
+313-12.
+
+Les personnes physiques reconnues coupables de l'infraction prévue au présent article encourent également la peine
+complémentaire d'interdiction, suivant les modalités prévues à l'article L. 131-27 du code pénal, d'exploiter ou de diriger
+tout établissement soumis aux dispositions de l'article L. 312-1 ainsi que d'accueillir des personnes âgées dans le cadre du
+titre III du livre IV du présent code.
+
+En cas de récidive, les peines prévues au premier alinéa peuvent être portées au double.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, VI, art. 47 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 47 () JORF 3 janvier 2002
+
+	**Cite**:
+
+	  - Code pénal L131-27
+	  - Code de la santé publique - art. L6111-2 (V)
+	  - Code de l'action sociale et des familles - art. L232-1 (M)
+	  - Code de l'action sociale et des familles - art. L312-1 (M)
+	  - Code de l'action sociale et des familles - art. L313-12 (M)
+
+
+##### Section 6 : Dispositions communes
+
+###### Article L313-24
+
+Dans les établissements et services mentionnés à l'article L. 312-1, le fait qu'un salarié ou un agent a témoigné de mauvais
+traitements ou privations infligés à une personne accueillie ou relaté de tels agissements ne peut être pris en considération
+pour décider de mesures défavorables le concernant en matière d'embauche, de rémunération, de formation, d'affectation, de
+qualification, de classification, de promotion professionnelle, de mutation ou de renouvellement du contrat de travail, ou
+pour décider la résiliation du contrat de travail ou une sanction disciplinaire.
+
+En cas de licenciement, le juge peut prononcer la réintégration du salarié concerné si celui-ci le demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, VII, art. 48 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 48 () JORF 3 janvier 2002
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L312-1 (M)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L546-3 (Ab)
+
+
+###### Article L313-25
+
+Sauf disposition contraire, les modalités d'application du présent chapitre sont déterminées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, VII, art. 49 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 49 () JORF 3 janvier 2002
+
+	**Transféré par**:
+
+	  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 12 () JORF 2 décembre 2005
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L313-26 (V)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L543-1 (V)
+	  - Code de l'action sociale et des familles - art. R314-59 (V)
+	  - Code de l'action sociale et des familles - art. R314-61 (V)
+
+
+#### Chapitre IV : Dispositions financières
+
+##### Section 1 : Règles de compétences en matière tarifaire
 
 ###### Article L314-1
 
-Les interventions à but social et médico-social des personnes morales de droit public sont assurées soit par des services non
-personnalisés, soit par des établissements publics communaux, intercommunaux, départementaux, interdépartementaux ou
-nationaux.
+I. - La tarification des prestations fournies par les établissements et services financés par le budget de l'Etat ou par les
+organismes de sécurité sociale est arrêtée chaque année par le représentant de l'Etat dans le département.
 
-Les établissements publics locaux ou les services non personnalisés sont créés par délibération de la ou des collectivités
-territoriales intéressées. Lorsque les prestations qu'ils fournissent sont de nature à être prises en charge par le
-département au titre de l'aide sociale, l'avis du président du conseil général doit être recueilli préalablement à la
-délibération. Lorsque les prestations qu'ils fournissent sont de nature à être prises en charge par l'Etat au titre de l'aide
-sociale ou par des organismes de sécurité sociale, les décisions de création, de transformation ou d'extension sont soumises
-à autorisation délivrée par l'autorité compétente de l'Etat dans les conditions prévues à l'article L. 313-1.
+II. - La tarification des prestations fournies par les établissements et services habilités à recevoir des bénéficiaires de
+l'aide sociale du département est arrêtée chaque année par le président du conseil général.
+
+III. - La tarification des prestations fournies par les établissements et services mentionnés au 4° du I de l'article L.
+312-1 est arrêtée :
+
+a) Conjointement par le représentant de l'Etat dans le département et le président du conseil général, lorsque le financement
+des prestations est assuré en tout ou partie par le département ;
+
+b) Par le représentant de l'Etat dans le département, lorsque le financement des prestations est assuré exclusivement par le
+budget de l'Etat.
+
+IV. - La tarification des centres d'action médico-sociale précoce mentionnés à l'article L. 2132-4 du code de la santé
+publique est arrêtée conjointement par le représentant de l'Etat dans le département et le président du conseil général après
+avis de la caisse régionale d'assurance maladie.
+
+V. - La tarification des foyers d'accueil médicalisés mentionnés au 7° du I de l'article L. 312-1 est arrêtée :
+
+a) Pour les prestations de soins remboursables aux assurés sociaux, par le représentant de l'Etat dans le département ;
+
+b) Pour les prestations relatives à l'hébergement et à l'accompagnement à la vie sociale, par le président du conseil
+général.
+
+VI. - Dans les cas mentionnés au a du III et au IV, en cas de désaccord entre le représentant de l'Etat et le président du
+conseil général, chaque autorité précitée fixe par arrêté le tarif relevant de sa compétence et le soumet au tribunal
+interrégional de la tarification sanitaire et sociale dont la décision s'impose à ces deux autorités.
+
+VII. - Le pouvoir de tarification peut être confié à un autre département que celui d'implantation d'un établissement, par
+convention signée entre plusieurs départements utilisateurs de cet établissement.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°75-535 1975-06-30 art. 18 al. 1, al.2
 	  - Loi n°75-535 du 30 juin 1975 - art. 18 (Ab)
 
 	**Cité par**:
@@ -16636,29 +17655,55 @@ sociale ou par des organismes de sécurité sociale, les décisions de création
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 50 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 51 () JORF 3 janvier 2002
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L313-1 (M)
+	  - Code de la santé publique - art. L2132-4 (V)
+	  - Code de l'action sociale et des familles - art. L312-1 (M)
 
 
 ###### Article L314-2
 
-La mise en service d'un établissement est subordonnée à un contrôle de conformité aux normes mentionnées à l'article L.
-312-3, opéré après achèvement des travaux, par l'organe exécutif de la collectivité territoriale qui l'a créé ou, lorsque
-l'établissement a été créé par délibération de plusieurs collectivités territoriales, par l'organe exécutif de la
-collectivité territoriale sur le territoire de laquelle il est implanté.
+La tarification des établissements et services mentionnés au I de l'article L. 313-12 est arrêtée :
+
+1° Pour les prestations de soins remboursables aux assurés sociaux, par l'autorité compétente de l'Etat, après avis du
+président du conseil général et de la caisse régionale d'assurance maladie ;
+
+2° Pour les prestations relatives à la dépendance acquittées par l'usager ou, si celui-ci remplit les conditions mentionnées
+à l'article L. 232-2, prises en charge par l'allocation personnalisée d'autonomie, par le président du conseil général, après
+avis de l'autorité compétente de l'Etat ;
+
+3° Pour les prestations relatives à l'hébergement, dans les établissements habilités à recevoir des bénéficiaires de l'aide
+sociale, par le président du conseil général.
+
+Cette tarification est notifiée aux établissements au plus tard soixante jours à compter de la date de notification des
+dotations régionales limitatives mentionnées à l'article L. 314-3, pour l'exercice en cours, lorsque les documents
+nécessaires à la fixation de cette tarification ont été transmis aux autorités compétentes.
+
+Pour les établissements visés à l'article L. 342-1, les prix des prestations mentionnées au 3° ci-dessus sont fixés dans les
+conditions prévues par les articles L. 342-2 à L. 342-6.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°75-535 1975-06-30 art. 18 al. 3
 	  - Loi n°75-535 du 30 juin 1975 - art. 18 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 50 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 52 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -16695,32 +17740,55 @@ collectivité territoriale sur le territoire de laquelle il est implanté.
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L312-3 (M)
+	  - Code de l'action sociale et des familles - art. L232-2 (M)
+	  - Code de l'action sociale et des familles - art. L314-3 (M)
+	  - Code de l'action sociale et des familles - art. L342-1 (M)
+	  - Code de l'action sociale et des familles L313-12, L232-2, L314-3, L342-1, L342-2 à L342-6
 
+
+##### Section 2 : Règles budgétaires et de financement
 
 ###### Article L314-3
 
-Les établissements publics locaux et les services non personnalisés peuvent être habilités à recevoir des bénéficiaires de
-l'aide sociale ou autorisés à dispenser des soins remboursables aux assurés sociaux. Pour les établissements mentionnés aux
-1° et 5° de l'article L. 312-1, l'habilitation est délivrée par le président du conseil général. Pour les autres
-établissements, elle est délivrée, s'il y a lieu, par le représentant de l'Etat. Celui-ci est, dans tous les cas, compétent
-pour autoriser les établissements ou services à dispenser des soins remboursables aux assurés sociaux par l'application de
-l'article L. 162-21 du code de la sécurité sociale. L'habilitation ou l'autorisation peut être refusée ou retirée pour les
-motifs et selon les modalités énoncés aux articles L. 313-5 et L. 313-7. Pour les services mentionnés au douzième alinéa de
-l'article L. 312-1, l'habilitation est délivrée par le président du conseil général ou par le représentant de l'Etat dans des
-conditions fixées par voie réglementaire.
+Le financement de celles des prestations des établissements et services sociaux et médico-sociaux publics et privés qui sont
+à la charge des organismes de sécurité sociale est soumis à un objectif de dépenses.
+
+Les ministres chargés de la sécurité sociale, de l'action sociale, de l'économie et du budget fixent annuellement cet
+objectif, en fonction de l'objectif national de dépenses d'assurance maladie voté par le Parlement, et corrélativement, le
+montant total annuel des dépenses prises en compte pour le calcul des dotations globales, forfaits, prix de journée et tarifs
+afférents aux prestations correspondantes. Ce montant total annuel est fixé par application d'un taux d'évolution aux
+dépenses de l'année précédente au plus tard dans les quinze jours qui suivent la publication de la loi de financement de la
+sécurité sociale.
+
+Ce montant total annuel est constitué, après imputation de la part mentionnée à l'article L. 162-43 du code de la sécurité
+sociale, en dotations régionales limitatives. Le montant de ces dotations est fixé par les ministres chargés de la sécurité
+sociale et de l'action sociale, en fonction des besoins de la population, des orientations définies par les schémas prévus à
+l'article L. 312-5, des priorités définies au niveau national en matière de politique médico-sociale, en tenant compte de
+l'activité et des coûts moyens des établissements et services et d'un objectif de réduction progressive des inégalités dans
+l'allocation des ressources entre régions.
+
+Chaque dotation régionale est répartie par le représentant de l'Etat dans la région, en liaison avec le directeur de l'agence
+régionale de l'hospitalisation et les représentants de l'Etat dans les départements en dotations départementales limitatives.
+Ces dotations départementales peuvent, dans les mêmes conditions, être réparties par le représentant de l'Etat dans le
+département en dotations affectées par catégories de bénéficiaires ou à certaines prestations dans des conditions fixées par
+décret.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°75-535 1975-06-30 art. 18 al. 4
 	  - Loi n°75-535 du 30 juin 1975 - art. 18 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 50 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 53 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -16772,28 +17840,43 @@ conditions fixées par voie réglementaire.
 
 	**Cite**:
 
-	  - Code de la sécurité sociale. - art. L162-21 (M)
-	  - Code de l'action sociale et des familles - art. L312-1 (M)
-	  - Code de l'action sociale et des familles - art. L313-5 (M)
-	  - Code de l'action sociale et des familles - art. L313-7 (M)
+	  - Code de l'action sociale et des familles - art. L312-5 (M)
 
 
 ###### Article L314-4
 
-Les établissements publics locaux et les services non personnalisés peuvent être fermés totalement ou partiellement, à titre
-provisoire ou définitif, pour les motifs énoncés à l'article L. 313-11, par le représentant de l'Etat.
+Le montant total annuel des dépenses des établissements et services mentionnés aux a des 5° et 8° du I de l'article L. 312-1,
+imputables aux prestations prises en charge par l'aide sociale de l'Etat, et, corrélativement, le montant total annuel des
+dépenses prises en compte pour le calcul des dotations globales de fonctionnement de ces établissements et services sont
+déterminés par le montant limitatif inscrit à ce titre dans la loi de finances initiale de l'exercice considéré.
+
+Ce montant total annuel est constitué en dotations régionales limitatives. Le montant de ces dotations régionales est fixé
+par le ministre chargé de l'action sociale, en fonction des besoins de la population, des priorités définies au niveau
+national en matière de politique médico-sociale, en tenant compte de l'activité et des coûts moyens des établissements et
+services et d'un objectif de réduction progressive des inégalités dans l'allocation des ressources entre régions.
+
+Chaque dotation régionale est répartie par le représentant de l'Etat dans la région, en liaison avec les représentants de
+l'Etat dans les départements, en dotations départementales limitatives, dont le montant tient compte des priorités locales,
+des orientations des schémas prévus à l'article L. 312-5, de l'activité et des coûts moyens des établissements et services,
+et d'un objectif de réduction des inégalités dans l'allocation des ressources entre départements et établissements et
+services.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°75-535 1975-06-30 art. 18 al. 5
 	  - Loi n°75-535 du 30 juin 1975 - art. 18 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 50 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 53 () JORF 3 janvier 2002
 
 	**Liens**:
 
@@ -16834,29 +17917,37 @@ provisoire ou définitif, pour les motifs énoncés à l'article L. 313-11, par 
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L313-11 (M)
+	  - Code de l'action sociale et des familles - art. L312-1 (M)
+	  - Code de l'action sociale et des familles - art. L312-5 (M)
 
 
 ###### Article L314-5
 
-Les établissements énumérés aux 2°, 5°, 6° et 8° de l'article L. 312-1, ainsi que les maisons d'enfants à caractère social,
-qui relèvent des personnes morales de droit public à l'exception des établissements relevant de l'Office national des anciens
-combattants, de l'institution de gestion sociale des armées et des maisons de retraite rattachées au centre d'action sociale
-de la ville de Paris, constituent des établissements publics.
+Pour chaque établissement et service, le représentant de l'Etat dans le département peut modifier le montant global des
+recettes et dépenses prévisionnelles, mentionnées au 3° du I de l'article L. 314-7, imputables aux prestations prises en
+charge par l'aide sociale de l'Etat ou par les organismes de sécurité sociale, compte tenu du montant des dotations
+régionales ou départementales définies ci-dessus ; la même procédure s'applique en cas de révision, au titre du même
+exercice, des dotations régionales ou départementales initiales.
 
-Ceux de ces établissements qui, à la date du 30 juin 1975, fonctionnaient comme des services non personnalisés des personnes
-morales de droit public sont érigés en établissements publics ou rattachés à un établissement public de même nature.
+Le représentant de l'Etat dans le département peut également supprimer ou diminuer les prévisions de dépenses qu'il estime
+injustifiées ou excessives compte tenu, d'une part, des conditions de satisfaction des besoins de la population, telles
+qu'elles résultent notamment des orientations des schémas prévus à l'article L. 312-5, d'autre part, de l'évolution de
+l'activité et des coûts des établissements et services appréciés par rapport au fonctionnement des autres équipements
+comparables dans le département ou la région.
 
-Les dispositions des alinéas précédents ne s'appliquent pas aux établissements qui sont créés ou gérés par des centres
-communaux d'action sociale, ni aux établissements qui sont gérés par des établissements publics de santé. Dans certains cas
-et à leur demande, les établissements à caractère social érigés en établissements publics peuvent passer des conventions de
-gestion avec des établissements publics.
+Des conventions conclues entre le représentant de l'Etat dans la région, les représentants de l'Etat dans les départements,
+les gestionnaires d'établissement et de service et, le cas échéant, formules de coopération mentionnées aux 2° et 3° de
+l'article L. 312-7 précisent, dans une perspective pluriannuelle, les objectifs prévisionnels et les critères d'évaluation de
+l'activité et des coûts des prestations imputables à l'aide sociale de l'Etat dans les établissements et service concernés.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°75-535 du 30 juin 1975 - art. 19 (M)
 	  - Loi n°75-535 du 30 juin 1975 - art. 19 (Ab)
 
 	**Cité par**:
@@ -16872,21 +17963,40 @@ gestion avec des établissements publics.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 50 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 53 () JORF 3 janvier 2002
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L312-1 (M)
+	  - Code de l'action sociale et des familles - art. L312-5 (M)
+	  - Code de l'action sociale et des familles - art. L312-7 (M)
+	  - Code de l'action sociale et des familles - art. L314-7 (M)
 
 
 ###### Article L314-6
 
-Les établissements publics mentionnés à l'article L. 314-5 sont administrés par un conseil d'administration assisté d'un
-directeur. Celui-ci est nommé par l'autorité compétente de l'Etat, après avis du président du conseil d'administration.
+Les conventions collectives de travail, conventions d'entreprise ou d'établissement et accords de retraite applicables aux
+salariés des établissements de santé et des établissements et services sociaux et médico-sociaux à but non lucratif dont les
+dépenses de fonctionnement sont, en vertu de dispositions législatives ou réglementaires, supportées, en tout ou partie,
+directement ou indirectement, soit par des personnes morales de droit public, soit par des organismes de sécurité sociale, ne
+prennent effet qu'après agrément donné par le ministre compétent après avis d'une commission où sont représentés des élus
+locaux et dans des conditions fixées par voie réglementaire. Ces conventions ou accords s'imposent aux autorités compétentes
+en matière de tarification.
+
+Les ministres chargés de la sécurité sociale et de l'action sociale établissent annuellement, avant le 1er mars de l'année en
+cours, un rapport relatif aux agréments des conventions et accords mentionnés à l'alinéa précédent, pour l'année écoulée, et
+aux orientations en matière d'agrément des accords et d'évolution de la masse salariale pour l'année en cours.
+
+Ce rapport est transmis au Parlement, au comité des finances locales et aux partenaires sociaux concernés selon des modalités
+fixées par décret.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°75-535 du 30 juin 1975 - art. 20 (M)
 	  - Loi n°75-535 du 30 juin 1975 - art. 20 (Ab)
 
 	**Cité par**:
@@ -16917,24 +18027,75 @@ directeur. Celui-ci est nommé par l'autorité compétente de l'Etat, après avi
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'action sociale et des familles - art. L314-5 (M)
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 50 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 54 () JORF 3 janvier 2002
 
 
 ###### Article L314-7
 
-Le conseil d'administration règle par ses délibérations les affaires de l'établissement.
+I. - Dans les établissements et services mentionnés au I de l'article L. 312-1, sont soumis à l'accord de l'autorité
+compétente en matière de tarification :
 
-Il comprend obligatoirement des représentants des collectivités publiques intéressées, des représentants des usagers et du
-personnel ainsi que des représentants des organismes de sécurité sociale lorsque les frais de fonctionnement de
-l'établissement sont supportés ou remboursés en tout ou partie par lesdits organismes.
+1° Les emprunts dont la durée est supérieure à un an ;
+
+2° Les programmes d'investissement et leurs plans de financement ;
+
+3° Les prévisions de charges et de produits d'exploitation permettant de déterminer les tarifs des prestations prises en
+charge par l'Etat, les départements ou les organismes de sécurité sociale, ainsi que les affectations de résultats qui en
+découlent.
+
+Les dispositions mentionnées aux 1° et 2° ne sont pas applicables aux établissements visés à l'article L. 342-1.
+
+Un décret en Conseil d'Etat précise les conditions dans lesquelles ces charges, produits et résultats sont retracés dans des
+comptes distincts, en fonction de la nature des prestations, de leur tarification et de leur financement.
+
+II. - Le montant global des dépenses autorisées ainsi que les tarifs des établissements et services mentionnés au I de
+l'article L. 312-1 sont notifiés par l'autorité compétente en matière de tarification, au terme d'une procédure
+contradictoire, au plus tard soixante jours à compter de la date de notification des dotations mentionnées, selon le cas, aux
+articles L. 313-8, L. 314-3 et L. 314-4, selon des modalités fixées par décret en Conseil d'Etat.
+
+Les décisions mentionnées aux 1° et 2° du I sont opposables à l'autorité compétente en matière de tarification si celle-ci
+n'a pas fait connaître son opposition dans un délai fixé par décret en Conseil d'Etat. Il en va de même des décisions
+modificatives concernant les prévisions de charges ou de produits mentionnées au 3° du I qui interviennent après la fixation
+des tarifs.
+
+III. - L'autorité compétente en matière de tarification ne peut modifier que :
+
+1° Les prévisions de charges ou de produits insuffisantes ou qui ne sont pas compatibles avec les dotations de financement
+fixées dans les conditions prévues, selon le cas, aux articles L. 313-8, L. 314-3 et L. 314-4 ;
+
+2° Les prévisions de charges qui sont manifestement hors de proportion avec le service rendu ou avec les coûts des
+établissements et services fournissant des prestations comparables en termes de qualité de prise en charge ou
+d'accompagnement.
+
+La décision de modification doit être motivée.
+
+IV. - Les dépenses de l'établissement ou du service imputables à des décisions n'ayant pas fait l'objet des procédures
+mentionnées au présent article ne sont pas opposables aux collectivités publiques et organismes de sécurité sociale.
+
+V. - Les charges et produits des établissements et services mentionnés au I de l'article L. 312-1, dont les prestations ne
+sont pas prises en charge ou ne le sont que partiellement par les collectivités et organismes susmentionnés, sont retracés
+dans un ou plusieurs comptes distincts qui sont transmis à l'autorité compétente en matière de tarification.
+
+La personne physique ou morale gestionnaire de l'établissement ou du service tient à la disposition de l'autorité compétente
+en matière de tarification tout élément d'information comptable ou financier relatif à l'activité de l'établissement ou du
+service, ainsi que tous états et comptes annuels consolidés relatifs à l'activité de la personne morale gestionnaire.
+
+Les dispositions du présent V ne sont pas applicables aux prestations relatives à l'hébergement dans les établissements visés
+à l'article L. 342-1.
+
+VI. - Les budgets des établissements et services sociaux et médico-sociaux peuvent prendre en compte, éventuellement suivant
+une répartition établie en fonction du niveau respectif de ces budgets, les dépenses relatives aux frais du siège social de
+l'organisme gestionnaire pour la part de ces dépenses utiles à la réalisation de leur mission dans des conditions fixées par
+décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°75-535 1975-06-30 art. 21 I
 	  - Loi n°75-535 du 30 juin 1975 - art. 21 (Ab)
 	  - Loi n°75-535 du 30 juin 1975 - art. 22 (Ab)
 
@@ -16973,28 +18134,34 @@ l'établissement sont supportés ou remboursés en tout ou partie par lesdits or
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 50 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 55 () JORF 3 janvier 2002
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L312-1 (M)
+	  - Code de l'action sociale et des familles - art. L313-8 (M)
+	  - Code de l'action sociale et des familles - art. L314-3 (M)
+	  - Code de l'action sociale et des familles - art. L314-4 (M)
+	  - Code de l'action sociale et des familles - art. L342-1 (M)
+
 
 ###### Article L314-8
 
-En ce qui concerne, d'une part, les établissements publics communaux autres que ceux qui sont créés avec le concours
-financier des centres communaux d'action sociale et, d'autre part, les établissements publics départementaux, la composition
-du conseil et les modalités de désignation ou d'élection des membres de chaque catégorie sont fixées par voie réglementaire.
+Les modalités de fixation de la tarification des établissements et services mentionnés au I de l'article L. 312-1 sont
+déterminées par un décret en Conseil d'Etat qui prévoit notamment :
 
-La présidence est assurée soit par le président du conseil général, soit par le maire ou la personne remplissant dans leur
-plénitude les fonctions de maire.
+1° Les conditions et modalités de la tarification de certains établissements ou services, sous forme de prix de journée,
+tarifs de prestations ou forfaits journaliers et les modalités de globalisation des financements sous forme de forfaits
+annuels ou de dotations globales ;
 
-Le président du conseil général ou le maire peut déléguer à un autre membre de l'assemblée dont il est membre ses fonctions
-de président de droit du conseil d'administration de l'établissement.
+2° Les conditions dans lesquelles les personnes accueillies temporairement peuvent être dispensées d'acquitter tout ou partie
+des frais afférents à leur prise en charge.
 
-Ne peuvent remplir les fonctions de président du conseil d'administration d'un établissement les personnes :
-
-1° Qui ont ou dont le conjoint, les ascendants ou les descendants en ligne directe ont un intérêt direct ou indirect dans la
-gestion d'un établissement social, médico-social ou sanitaire privé ;
-
-2° Qui sont fournisseurs de biens ou de services, preneurs de baux à ferme ou agents salariés de l'établissement.
-
-Au cas où il est fait application des dispositions du 1° ou du 2° ci-dessus, le conseil général ou le conseil municipal élit
-le président du conseil de l'établissement.
+L'accueil temporaire est défini par voie réglementaire.
 
 **Liens relatifs à cet article**
 
@@ -17025,7 +18192,6 @@ le président du conseil de l'établissement.
 
 	**Anciens textes**:
 
-	  - Loi n°75-535 1975-06-30 art. 21 II
 	  - Loi n°75-535 du 30 juin 1975 - art. 21 (Ab)
 
 	**Codifié par**:
@@ -17033,18 +18199,34 @@ le président du conseil de l'établissement.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 50 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 56 () JORF 3 janvier 2002
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L312-1 (M)
+
 
 ###### Article L314-9
 
-En ce qui concerne les établissements publics nationaux, interdépartementaux et intercommunaux ainsi que les établissements
-publics créés avec la participation financière des centres communaux d'action sociale, la composition du conseil est fixée
-par les textes créant chacun de ces établissements.
+Les montants des éléments de tarification afférents aux soins et à la dépendance mentionnés aux 1° et 2° de l'article L.
+314-2 sont modulés selon l'état de la personne accueillie au moyen de la grille nationale mentionnée à l'article L. 232-2.
 
-Lorsqu'il s'agit d'établissements publics intercommunaux ou interdépartementaux, le président et son suppléant sont élus par
-l'ensemble des conseillers municipaux ou des conseillers généraux des communes ou des départements intéressés.
+La convention pluriannuelle mentionnée au I de l'article L. 313-12 précise la périodicité de la révision du niveau de perte
+d'autonomie des résidents selon la grille nationale mentionnée à l'article L. 232-2.
 
-Lorsqu'il s'agit d'établissements publics nationaux, le président est nommé par le ou les ministres compétents sur
-proposition du conseil.
+L'évaluation de la perte d'autonomie des résidents de chaque établissement est transmise, pour contrôle et validation, à un
+médecin appartenant à une équipe médico-sociale du département et à un praticien-conseil de la caisse d'assurance maladie. En
+cas de désaccord entre les deux médecins précités sur cette validation, une commission départementale de coordination
+médicale dont la composition, les missions et les modalités d'organisation et de fonctionnement sont définies par un arrêté
+des ministres chargés de l'action sociale et des collectivités territoriales, détermine le classement définitif.
+
+Lorsqu'un établissement hébergeant des personnes âgées dépendantes conteste la répartition des résidents qu'il accueille
+selon les niveaux de perte d'autonomie arrêtée dans les conditions mentionnées ci-dessus, il peut introduire un recours
+devant le tribunal interrégional de la tarification sanitaire et sociale mentionné à l'article L. 351-1.
 
 **Liens relatifs à cet article**
 
@@ -17065,7 +18247,6 @@ proposition du conseil.
 
 	**Anciens textes**:
 
-	  - Loi n°75-535 1975-06-30 art. 21 III
 	  - Loi n°75-535 du 30 juin 1975 - art. 21 (Ab)
 
 	**Codifié par**:
@@ -17073,54 +18254,35 @@ proposition du conseil.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 50 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 57 () JORF 3 janvier 2002
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L232-2 (M)
+	  - Code de l'action sociale et des familles - art. L313-12 (M)
+	  - Code de l'action sociale et des familles - art. L351-1 (M)
+
+
+##### Section 3 : Dispositions diverses
 
 ###### Article L314-10
 
-Sont soumises à approbation les délibérations des conseils d'administration des établissements publics sociaux ou médico-
-sociaux nationaux concernant :
+Les personnes qui s'absentent temporairement, de façon occasionnelle ou périodique, de l'établissement où elles sont
+accueillies peuvent être dispensées d'acquitter tout ou partie de leurs frais d'hébergement.
 
-1° Le budget, les crédits supplémentaires et les comptes ;
-
-2° La tarification des prestations servies ;
-
-3° Les acquisitions, aliénations, échanges d'immeubles et leur affectation ; les conditions des baux de plus de dix-huit
-ans ;
-
-4° Les emprunts ;
-
-5° Les programmes, ainsi que les projets de travaux de construction, grosses réparations et démolitions ;
-
-6° Le règlement intérieur ;
-
-7° L'affiliation aux groupements et les conventions prévues aux articles L. 311-2 et L. 314-5 ;
-
-8° Les créations, suppressions et transformations de services ;
-
-9° Les règles concernant l'emploi des diverses catégories de personnels pour autant qu'elles n'ont pas été fixées par les
-dispositions législatives ou réglementaires ;
-
-10° Le tableau des effectifs du personnel ;
-
-11° L'acceptation et le refus des dons et legs.
-
-L'autorité de tutelle peut réduire ou supprimer les prévisions de dépenses qui paraîtraient abusives ou augmenter celles qui
-sembleraient insuffisantes.
-
-Les délibérations autres que celles qui sont mentionnées au 11° ci-dessus sont réputées approuvées si l'autorité de tutelle
-n'a pas fait connaître son opposition dans un délai de trente jours à compter de leur réception.
-
-Sous réserve, en ce qui concerne les établissements publics nationaux, des pouvoirs donnés au président du conseil
-d'administration par les textes régissant ces établissements, le directeur est chargé de l'exécution des délibérations du
-conseil d'administration ; il exerce les fonctions d'ordonnateur des dépenses de l'établissement ; il représente
-l'établissement en justice et dans tous les actes de la vie civile ; il doit tenir le conseil d'administration régulièrement
-informé de la marche générale des services et de la gestion de l'établissement ; il peut recevoir délégation pour l'exercice
-de certaines attributions du conseil d'administration.
+Les conditions d'application du présent article, qui peuvent être variables selon la nature de l'établissement et le mode de
+prise en charge desdits frais, sont soit fixées par voie réglementaire lorsqu'il s'agit d'établissements dont le financement
+est assuré grâce à une participation directe ou indirecte de l'Etat ou d'organismes de sécurité sociale, soit déterminées par
+le règlement départemental d'aide sociale lorsqu'il s'agit d'établissements dont le département assure seul le financement.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°75-535 1975-06-30 art. 21 al. 2, al. 3, al. 4, al. 5, al. 6, al. 7, al. 8, al. 9, al. 10, al. 11, al. 12, al. 13, al. 14, al. 15, al. 16
 	  - Loi n°75-535 du 30 juin 1975 - art. 22 (Ab)
 
 	**Cité par**:
@@ -17135,30 +18297,43 @@ de certaines attributions du conseil d'administration.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'action sociale et des familles - art. L311-2 (M)
-	  - Code de l'action sociale et des familles - art. L314-5 (M)
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 50 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 58 () JORF 3 janvier 2002
 
 
 ###### Article L314-11
 
-Dans tous les établissements publics de santé gérant une ou des maisons de retraite dont la capacité d'accueil est supérieure
-à un seuil fixé par décret, est créée une commission consultative qui sera obligatoirement saisie de toutes les questions
-touchant les investissements, les crédits de fonctionnement, l'organisation médico-sociale des services recevant des
-personnes âgées, avant toute délibération du conseil d'administration.
+Les dépenses de soins paramédicaux dispensés par des professionnels de statut libéral ou salarié dans le cadre d'une action
+de maintien à domicile par les établissements et services mentionnés aux 8°, 9° et 11° du I de l'article L. 312-1 peuvent
+être prises en charge par les organismes d'assurance maladie suivant une formule forfaitaire et, dans ce cas, réglées
+directement par ces organismes aux institutions dans les conditions fixées par voie réglementaire.
+
+La participation de l'assuré social aux dépenses de soins paramédicaux dispensées par les établissements et services précités
+peut être réduite ou supprimée dans des conditions fixées par voie réglementaire.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°75-535 1975-06-30 art. 22 al. 17
 	  - Loi n°75-535 du 30 juin 1975 - art. 22 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 50 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 58 () JORF 3 janvier 2002
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L312-1 (M)
 
 	**Cité par**:
 
@@ -17169,20 +18344,31 @@ personnes âgées, avant toute délibération du conseil d'administration.
 
 ###### Article L314-12
 
-Les comptables des établissements publics sociaux et médico-sociaux sont des comptables directs du Trésor ayant la qualité de
-comptable principal.
+Des conditions particulières d'exercice des professionnels de santé exerçant à titre libéral destinées notamment à assurer
+l'organisation, la coordination et l'évaluation des soins, l'information et la formation sont mises en oeuvre dans les
+établissements d'hébergement pour personnes âgées dépendantes.
+
+Ces conditions peuvent porter sur des modes de rémunération particuliers autres que le paiement à l'acte et sur le paiement
+direct des professionnels par l'établissement.
+
+Un contrat portant sur ces conditions d'exercice est conclu entre le professionnel et l'établissement.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°75-535 1975-06-30 art. 22 al. 18
 	  - Loi n°75-535 du 30 juin 1975 - art. 22 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 50 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 58 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -17192,20 +18378,12 @@ comptable principal.
 
 ###### Article L314-13
 
-Les établissements relevant des services départementaux de l'aide sociale à l'enfance et les maisons d'enfants à caractère
-social mentionnés au 4° de l'article 2 du chapitre 1er du titre IV du statut général des fonctionnaires de l'Etat et des
-collectivités territoriales sont dotés, lorsqu'ils n'ont pas la personnalité morale, d'une commission de surveillance nommée
-par le président du conseil général et d'un directeur nommé, après avis du président du conseil général, par l'autorité
-compétente de l'Etat.
-
-Lorsqu'ils constituent des établissements publics, ils sont administrés par un conseil d'administration assisté d'un
-directeur nommé, après avis du président du conseil d'administration, par l'autorité compétente de l'Etat.
+Sauf disposition contraire, les modalités d'application du présent chapitre sont déterminées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°75-535 du 30 juin 1975 - art. 24 (M)
 	  - Loi n°75-535 du 30 juin 1975 - art. 24 (Ab)
 
 	**Codifié par**:
@@ -17213,83 +18391,22 @@ directeur nommé, après avis du président du conseil d'administration, par l'a
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
 
-###### Article L314-14
-
-Dans chacun des établissements et services publics mentionnés par le présent titre, à l'exception des hospices publics, des
-maisons de retraite publiques, des établissements publics ou à caractère public relevant des services départementaux de
-l'aide sociale à l'enfance et des maisons d'enfants à caractère social, des établissements publics ou à caractère public pour
-mineurs ou adultes handicapés ou inadaptés, des centres d'hébergement et de réinsertion sociale mentionnés à l'article 2 du
-chapitre Ier du titre IV du statut général des fonctionnaires de l'Etat et des collectivités territoriales, il est institué
-un comité technique paritaire qui est obligatoirement consulté sur l'organisation du fonctionnement des services et notamment
-sur les conditions de travail.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°75-535 du 30 juin 1975 - art. 25 (M)
-	  - Loi n°75-535 du 30 juin 1975 - art. 25 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Abrogé par**:
-
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 50 () JORF 3 janvier 2002
 	  - Loi n°2002-2 du 2 janvier 2002 - art. 58 () JORF 3 janvier 2002
 
-	**Cité par**:
 
-	  - Code de la consommation - art. L141-1 (VT)
+#### Chapitre V : Dispositions propres aux établissements et services sociaux et médico-sociaux relevant de personnes morales de droit public
 
-
-#### Chapitre V : Dispositions financières
-
-##### Section 1 : Compétences.
+##### Section 1 : Dispositions générales
 
 ###### Article L315-1
 
-La tarification des prestations fournies par les établissements et services sociaux habilités à recevoir des bénéficiaires de
-l'aide sociale du département est arrêtée chaque année par le président du conseil général, sous réserve des dispositions
-suivantes.
-
-La tarification des prestations remboursables aux assurés sociaux est arrêtée dans les conditions fixées par l'article L.
-162-24-1 du code de la sécurité sociale. Au vu de cette décision, le président du conseil général fixe la tarification des
-prestations fournies par les établissements et services habilités à recevoir des bénéficiaires de l'aide sociale du
-département.
-
-La tarification des établissements mentionnés à l'article L. 312-8 est arrêtée :
-
-1° Pour les prestations de soins remboursables aux assurés sociaux, par l'autorité compétente de l'Etat, après avis du
-président du conseil général et de la caisse régionale d'assurance maladie ;
-
-2° Pour les prestations relatives à la dépendance acquittées par l'usager ou, si celui-ci remplit les conditions mentionnées
-à l'article L. 232-2, prises en charge par l'allocation personnalisée d'autonomie, par le président du conseil général, après
-avis de l'autorité compétente de l'Etat ;
-
-3° Pour les prestations relatives à l'hébergement, dans les établissements habilités à recevoir des bénéficiaires de l'aide
-sociale, par le président du conseil général.
-
-Cette tarification est notifiée aux établissements au plus tard soixante jours à compter de la date de notification des
-dotations régionales limitatives mentionnées à l'article L. 315-9, pour l'exercice en cours, lorsque les documents
-nécessaires à la fixation de cette tarification ont été transmis aux autorités compétentes.
-
-Pour les établissements visés à l'article L. 342-1, les prix des prestations mentionnées au 3° ci-dessus sont fixés dans les
-conditions prévues par les articles L. 342-2 à L. 342-6.
-
-La tarification des prestations fournies par les établissements ou services auxquels l'autorité judiciaire confie directement
-et habituellement des mineurs est arrêtée conjointement par le président du conseil général et le représentant de l'Etat.
-Dans le cas où, au 31 janvier de l'année considérée, la tarification n'a pas été arrêtée en raison d'un désaccord entre le
-président du conseil général et le représentant de l'Etat, les ministres compétents peuvent fixer par arrêté la tarification
-desdits établissements ou services.
-
-La tarification des prestations fournies par les établissements et services sociaux habilités à recevoir des bénéficiaires de
-l'aide sociale de l'Etat est arrêtée chaque année par le représentant de l'Etat dans le département.
-
-Toutefois, par convention entre plusieurs départements utilisateurs d'un établissement et le département d'implantation, le
-pouvoir de tarification pourra être confié à un autre département que ce dernier.
+Les interventions à but social et médico-social des personnes morales de droit public sont assurées soit par des
+établissements publics communaux, intercommunaux, départementaux, interdépartementaux ou nationaux, soit par des services non
+personnalisés.
 
 **Liens relatifs à cet article**
 
@@ -17301,11 +18418,6 @@ pouvoir de tarification pourra être confié à un autre département que ce der
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Modifié par**:
-
-	  - Loi n°2001-647 du 20 juillet 2001 - art. 2 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
-	  - Loi n°2001-647 du 20 juillet 2001 - art. 6 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -17324,42 +18436,42 @@ pouvoir de tarification pourra être confié à un autre département que ce der
 	  - Code de l'action sociale et des familles - art. R314-45-1 (V)
 	  - Code de l'action sociale et des familles - art. R315-1 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la sécurité sociale. - art. L162-24-1 (M)
-	  - Code de l'action sociale et des familles - art. L232-2 (M)
-	  - Code de l'action sociale et des familles - art. L315-9 (M)
-	  - Code de l'action sociale et des familles - art. L342-1 (M)
-	  - Code de l'action sociale et des familles L312-8, L232-2, L315-9, L342-1, L342-2 à L342-6
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 60 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 61 () JORF 3 janvier 2002
 
-
-##### Section 2 : Fixation des tarifs.
 
 ###### Article L315-2
 
-Les conditions dans lesquelles il est pourvu aux dépenses de fonctionnement des organismes énumérés à l'article L. 311-1 et,
-dans le cas où ce fonctionnement est assuré avec la participation directe ou indirecte de l'Etat, des collectivités locales
-ou des organismes de sécurité sociale, la tarification des prestations fournies par ces organismes sont fixées par voie
-réglementaire.
+Les établissements et les services sociaux et médico-sociaux publics sont créés par arrêté du ou des ministres compétents,
+par délibération de la ou des collectivités territoriales compétentes ou d'un groupement ou par délibération du conseil
+d'administration d'un établissement public.
 
-La liste des catégories d'établissements et de services qui sont financés sous la forme d'une dotation globale, est fixée par
-voie réglementaire. Ce même décret fixe les modalités d'instauration de la dotation globale.
+Lorsque les prestations qu'ils fournissent sont éligibles à une prise en charge par l'aide sociale de l'Etat ou par les
+organismes de sécurité sociale, l'avis du représentant de l'Etat est recueilli préalablement à la délibération mentionnée au
+premier alinéa.
 
-Les dépenses afférentes aux soins médicaux dispensés aux assurés sociaux et aux bénéficiaires de l'aide sociale dans les
-établissements énumérés à l'article L. 312-1 sont supportées par les régimes d'assurance maladie ou au titre de l'aide
-sociale, suivant les modalités fixées par voie réglementaire, éventuellement suivant des formules forfaitaires.
+Lorsque les prestations qu'ils fournissent sont éligibles à une prise en charge par l'aide sociale départementale, l'avis du
+président du conseil général est recueilli préalablement à la délibération mentionnée au premier alinéa.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°75-535 du 30 juin 1975 - art. 27 (M)
 	  - Loi n°75-535 du 30 juin 1975 - art. 27 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 60 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 62 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -17384,44 +18496,11 @@ sociale, suivant les modalités fixées par voie réglementaire, éventuellement
 	  - Code de l'action sociale et des familles - art. R313-9 (V)
 	  - Code général des collectivités territoriales - art. L2241-5 (V)
 
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L311-1 (M)
-	  - Code de l'action sociale et des familles - art. L312-1 (M)
-
 
 ###### Article L315-3
 
-Dans les établissements et services autres que ceux mentionnés à l'article L. 314-10 et dont la tarification relève de la
-compétence de l'Etat, sont soumises au représentant de l'Etat en vue de leur approbation, les délibérations des conseils
-d'administration suivantes, lorsque leur financement est assuré grâce à une participation directe ou indirecte soit de l'Etat
-soit des organismes de sécurité sociale ou lorsque ces délibérations ont une incidence sur cette participation :
-
-1° Les acquisitions, les aliénations, les échanges d'immeubles et leur affectation, ainsi que les conditions des baux de plus
-de dix-huit ans ;
-
-2° Les emprunts ;
-
-3° Les programmes ainsi que les projets de travaux de construction de grosses réparations ou de démolitions ;
-
-4° La variation du tableau des effectifs de personnel ;
-
-5° Les prévisions annuelles de dépenses et de recettes d'exploitation et leur révision, imputables, au sein du budget de
-l'établissement ou du service, à chacune des prestations prises en charge par l'Etat, ou les organismes de sécurité sociale ;
-
-6° L'acceptation des dons et legs.
-
-Elles sont réputées approuvées si le représentant de l'Etat n'a pas fait connaître son opposition dans un délai fixé par voie
-réglementaire.
-
-Dans le cas où l'établissement ou le service engage des dépenses supérieures à l'approbation reçue, les dépenses
-supplémentaires qui en résultent, si elles ne sont pas justifiées par des dispositions législatives ou réglementaires, ne
-sont pas opposables aux collectivités et organismes qui assurent le financement du service.
-
-Les recettes et dépenses des établissements et services mentionnés au premier alinéa et qui proviennent de financements
-autres que ceux indiqués précédemment sont retracés dans un compte distinct qui est transmis à l'autorité compétente.
-
-Les modalités d'application des dispositions qui précèdent sont prises par décret en Conseil d'Etat.
+Lorsque les établissements ou services ne sont pas dotés de la personnalité juridique, le projet d'établissement ou de
+service mentionné à l'article L. 311-8 détermine les modalités de leur individualisation fonctionnelle et budgétaire.
 
 **Liens relatifs à cet article**
 
@@ -17446,27 +18525,22 @@ Les modalités d'application des dispositions qui précèdent sont prises par d�
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 60 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 63 () JORF 3 janvier 2002
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L314-10 (M)
+	  - Code de l'action sociale et des familles - art. L311-8 (V)
 
 
 ###### Article L315-4
 
-Le représentant de l'Etat ne peut modifier les prévisions de recettes et dépenses mentionnées au 5° de l'article L. 315-3 et
-imputables à chacune des prestations prises en charge par l'assurance maladie que pour l'un des motifs suivants :
-
-1° Les prévisions de recettes ou de dépenses sont insuffisantes ;
-
-2° Les prévisions de dépenses ou de recettes ne sont pas compatibles avec les objectifs ou les dotations régionales ou
-départementales fixés dans les conditions prévues à l'article L. 315-9 ;
-
-3° Les prévisions de dépenses sont manifestement excessives ou injustifiées, compte tenu des conditions de satisfaction des
-besoins de la population, de l'évolution de l'activité et des coûts des structures fournissant des services analogues ;
-l'appréciation de ces critères peut être faite par référence aux conventions élaborées dans les conditions prévues, selon le
-cas, aux articles L. 311-2 et L. 313-6.
-
-Les modalités d'application du présent article sont fixées par décret.
+La visite de conformité mentionnée à l'article 313-6 est opérée, après achèvement des travaux, par l'organe exécutif de la
+collectivité territoriale qui l'a créé ou, lorsque l'établissement a été créé par délibération de plusieurs collectivités
+territoriales, par l'organe exécutif de la collectivité territoriale sur le territoire de laquelle il est implanté.
 
 **Liens relatifs à cet article**
 
@@ -17479,35 +18553,74 @@ Les modalités d'application du présent article sont fixées par décret.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 60 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 64 () JORF 3 janvier 2002
+
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. D313-11 (V)
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L311-2 (M)
-	  - Code de l'action sociale et des familles - art. L313-6 (M)
-	  - Code de l'action sociale et des familles - art. L315-3 (M)
-	  - Code de l'action sociale et des familles - art. L315-9 (M)
+	  - Code de l'action sociale et des familles - art. L313-6 (VT)
+
+
+###### Article L315-5
+
+Les établissements publics locaux et les services non personnalisés peuvent être habilités à recevoir des bénéficiaires de
+l'aide sociale ou autorisés à dispenser des soins remboursables aux assurés sociaux. 
+
+Pour les établissements mentionnés aux 1° et 7° du I de l'article L. 312-1, l'habilitation est délivrée par le président du
+conseil général. Pour les établissements et services mentionnés aux 2° et 6° du I de l'article L. 312-1, l'habilitation est
+délivrée par le président du conseil général ou par le représentant de l'Etat dans des conditions fixées par décret en
+Conseil d'Etat. Pour les autres établissements, elle est délivrée, s'il y a lieu, par le représentant de l'Etat. Celui-ci
+est, dans tous les cas, compétent pour autoriser les établissements ou services à dispenser des soins remboursables aux
+assurés sociaux en application de l'article L. 162-21 du code de la sécurité sociale. 
+
+L'habilitation ou l'autorisation peut être refusée ou retirée pour les motifs et selon les modalités énoncés aux articles L.
+313-8 et L. 313-9 du présent code.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°75-535 du 30 juin 1975 - art. 27-2 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 60 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 64 () JORF 3 janvier 2002
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L162-21 (V)
+	  - Code de l'action sociale et des familles - art. L312-1 (V)
+	  - Code de l'action sociale et des familles - art. L313-8 (V)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L315-1 (M)
+	  - Code de l'action sociale et des familles - art. L315-15 (M)
+	  - Code de l'action sociale et des familles - art. L543-1 (V)
 
 
 ###### Article L315-6
 
-Les montants des éléments de tarification afférents à la dépendance et aux soins mentionnés aux 1° et 2° de l'article L.
-315-1 sont modulés selon l'état de la personne accueillie au moyen de la grille nationale mentionnée à l'article L. 232-2.
-
-La convention mentionnée à l'article L. 312-8 précise la périodicité de la révision du niveau de perte d'autonomie des
-résidents selon la grille nationale mentionnée à l'article L. 232-2.
-
-L'évaluation de la perte d'autonomie des résidents de chaque établissement est transmise, pour contrôle et validation, à un
-médecin appartenant à une équipe médico-sociale du département et à un praticien-conseil de la caisse d'assurance maladie. En
-cas de désaccord entre les deux médecins précités sur cette validation, une commission départementale de coordination
-médicale dont la composition, les missions et les modalités d'organisation et de fonctionnement sont définies par un arrêté
-des ministres chargés des affaires sociales et des collectivités territoriales, détermine le classement définitif.
-
-Lorsqu'un établissement hébergeant des personnes âgées dépendantes conteste la répartition des résidents qu'il accueille
-selon les niveaux de perte d'autonomie arrêtée dans les conditions mentionnées ci-dessus, il peut introduire un recours
-devant la commission interrégionale de la tarification sanitaire et sociale mentionnée à l'article L. 351-1.
+Les établissements publics locaux et les services non personnalisés peuvent être fermés totalement ou partiellement, à titre
+provisoire ou définitif, pour les motifs énoncés à l'article L. 313-16, par le représentant de l'Etat dans le département.
 
 **Liens relatifs à cet article**
 
@@ -17522,7 +18635,9 @@ devant la commission interrégionale de la tarification sanitaire et sociale men
 
 	**Modifié par**:
 
-	  - Loi n°2001-647 du 20 juillet 2001 - art. 7 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 60 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 64 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -17531,22 +18646,24 @@ devant la commission interrégionale de la tarification sanitaire et sociale men
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L232-2 (M)
-	  - Code de l'action sociale et des familles - art. L312-8 (M)
-	  - Code de l'action sociale et des familles - art. L315-1 (M)
-	  - Code de l'action sociale et des familles - art. L351-1 (M)
+	  - Code de l'action sociale et des familles - art. L313-16 (VT)
 
 
 ###### Article L315-7
 
-Les prestations relevant du domaine de compétence du département ne sont prises en charge par celui-ci que si elles sont
-fournies par des établissements et services habilités à recevoir des bénéficiaires de l'aide sociale.
+Sans préjudice de l'application des dispositions de l'article L. 6111-3 du code de la santé publique, les établissements
+mentionnés aux 2°, a du 5°, 6°, 7° et 8° du I de l'article L. 312-1 du présent code, ainsi que les maisons d'enfants à
+caractère social, qui relèvent des personnes morales de droit public à l'exception des établissements relevant de l'Office
+national des anciens combattants, de l'institution de gestion sociale des armées et des maisons de retraite rattachées au
+centre d'action sociale de la ville de Paris, constituent des établissements publics.
 
-Le président du conseil général est compétent pour délivrer l'habilitation prévue à l'alinéa précédent.
+Ceux de ces établissements qui, à la date du 30 juin 1975, fonctionnaient comme des services non personnalisés des personnes
+morales de droit public sont érigés en établissements publics ou rattachés à un établissement public de même nature.
 
-La condition prévue au premier alinéa ne fait pas obstacle aux pouvoirs que l'autorité judiciaire tient des articles 375 à
-375-8 du code civil et au financement des mesures prises à ce titre. Elle ne fait pas non plus obstacle aux dispositions
-particulières du règlement départemental d'aide sociale.
+Les dispositions des alinéas précédents ne s'appliquent pas aux établissements qui sont créés ou gérés par des centres
+communaux ou intercommunaux d'action sociale, ni aux établissements qui sont gérés par des établissements publics de santé.
+Dans certains cas et à leur demande, les établissements à caractère social érigés en établissements publics peuvent passer
+des conventions de gestion avec des établissements publics.
 
 **Liens relatifs à cet article**
 
@@ -17565,24 +18682,32 @@ particulières du règlement départemental d'aide sociale.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 60 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 64 () JORF 3 janvier 2002
+
 	**Cite**:
 
-	  - Code civil 375 à 375-8
+	  - Code de la santé publique - art. L6111-3 (M)
+	  - Code de l'action sociale et des familles - art. L312-1 (M)
 
 
 ###### Article L315-8
 
-Les dispositions de l'article L. 315-3 sont applicables aux décisions prises par les établissements et services sociaux dont
-la tarification relève de la compétence du président du conseil général ou de la compétence conjointe du président du conseil
-général et du représentant de l'Etat. Dans ce cas, l'autorité chargée de l'approbation est celle compétente pour fixer la
-tarification en vertu de l'article L. 315-1.
+Les établissements relevant des services départementaux de l'aide sociale à l'enfance et les maisons d'enfants à caractère
+social mentionnés au 4° de l'article 2 du chapitre Ier du titre IV du statut général des fonctionnaires de l'Etat et des
+collectivités territoriales sont dotés, lorsqu'ils n'ont pas la personnalité morale, d'une commission de surveillance nommée
+par le président du conseil général et d'un directeur nommé, après avis du président du conseil général, par l'autorité
+compétente de l'Etat.
 
-L'autorité compétente peut augmenter les prévisions de recettes et de dépenses mentionnées au 5° de l'article L. 315-3 qui
-lui paraîtraient insuffisantes. Elle peut également supprimer ou diminuer les prévisions de dépenses si elle estime celles-ci
-injustifiées ou excessives au sens des dispositions de l'article L. 313-5. La décision d'amputer ou de refuser une dépense
-doit être motivée.
+Lorsqu'ils constituent des établissements publics, ils sont administrés par un conseil d'administration assisté d'un
+directeur nommé, après avis du président du conseil d'administration, par l'autorité compétente de l'Etat.
 
-Les modalités d'application des dispositions qui précèdent sont fixées par voie réglementaire.
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -17601,37 +18726,20 @@ Les modalités d'application des dispositions qui précèdent sont fixées par v
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'action sociale et des familles - art. L313-5 (M)
-	  - Code de l'action sociale et des familles - art. L315-1 (M)
-	  - Code de l'action sociale et des familles - art. L315-3 (M)
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 60 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 64 () JORF 3 janvier 2002
 
+
+##### Section 2 : Statut des établissements publics sociaux et médico-sociaux dotés de la personnalité juridique
 
 ###### Article L315-9
 
-Le financement de celles des prestations des établissements et services sociaux et médico-sociaux publics et privés qui sont
-à la charge des organismes de sécurité sociale est soumis à un objectif de dépenses.
-
-Les ministres chargés de la sécurité sociale, de l'action sociale, de l'économie et du budget fixent annuellement cet
-objectif, en fonction de l'objectif national de dépenses d'assurance maladie voté par le Parlement, et corrélativement le
-montant total annuel des dépenses prises en compte pour le calcul des dotations globales, forfaits, prix de journée et tarifs
-afférents aux prestations correspondantes.
-
-Ce montant total est fixé par application d'un taux d'évolution aux dépenses de l'année précédente au plus tard dans les
-quinze jours qui suivent la publication de la loi de financement de la sécurité sociale.
-
-Ce montant total annuel est constitué, après imputation de la part mentionnée à l'article L. 162-43 du code de la sécurité
-sociale, en dotations limitatives régionales. Le montant de ces dotations est fixé par les ministres chargés de la sécurité
-sociale et de l'action sociale en fonction des besoins de la population, des orientations définies par les schémas prévus à
-l'article L. 311-3, des priorités définies au niveau national en matière de politique médico-sociale, en tenant compte de
-l'activité et des coûts des établissements et services et d'un objectif de réduction progressive des inégalités dans
-l'allocation des ressources entre régions ; les dotations régionales sont réparties en dotations départementales limitatives
-par le préfet de région, en liaison avec le directeur de l'agence régionale de l'hospitalisation et les préfets concernés ;
-ces dotations départementales limitatives peuvent, dans les mêmes conditions, être réparties par le préfet en dotations
-affectées par catégories de bénéficiaires ou à certaines prestations dans des conditions fixées par décret.
-
-Les modalités d'application du présent article sont fixées par décret.
+Les établissements publics sociaux et médico-sociaux sont communaux, intercommunaux, départementaux, interdépartementaux ou
+nationaux. Ils sont administrés par un conseil d'administration et dirigés par un directeur nommé par l'autorité compétente
+de l'Etat après avis du président du conseil d'administration.
 
 **Liens relatifs à cet article**
 
@@ -17654,6 +18762,7 @@ Les modalités d'application du présent article sont fixées par décret.
 	  - Code de l'action sociale et des familles - art. R314-3 (V)
 	  - Code de l'action sociale et des familles - art. R314-39-1 (V)
 	  - Code de l'action sociale et des familles - art. R314-64 (VD)
+	  - Code de la sécurité sociale. - art. L162-43 (M)
 
 	**Codifié par**:
 
@@ -17662,36 +18771,51 @@ Les modalités d'application du présent article sont fixées par décret.
 
 	**Modifié par**:
 
-	  - Loi n°2001-1246 du 21 décembre 2001 - art. 36 () JORF 26 décembre 2001
-
-	**Cite**:
-
-	  - Code de la sécurité sociale. - art. L162-43 (M)
-	  - Code de l'action sociale et des familles - art. L311-3 (M)
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 60 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 65 () JORF 3 janvier 2002
 
 
 ###### Article L315-10
 
-Le montant total annuel des dépenses des établissements et services mentionnés aux 6° et 8° de l'article L. 312-1, imputables
-aux prestations prises en charge par l'aide sociale de l'Etat et, corrélativement, le montant total annuel des dépenses
-prises en compte pour le calcul des dotations globales de fonctionnement de ces établissements ou services sont déterminés
-par le montant limitatif inscrit à ce titre dans la loi de finances initiale de l'exercice considéré.
+I. - Le conseil d'administration des établissements publics sociaux ou médico-sociaux locaux comprend :
 
-Ce montant total annuel est constitué en dotations régionales limitatives. Le montant de ces dotations régionales est fixé
-par le ministre chargé de l'action sociale, en fonction des priorités en matière de politique sociale, compte tenu des
-besoins de la population, de l'activité et des coûts moyens des établissements ou services et d'un objectif de réduction
-progressive des inégalités dans l'allocation des ressources entre régions.
+1° Des représentants de la ou des collectivités territoriales de rattachement ou de leurs groupements ;
 
-Chaque dotation régionale est répartie par le préfet de région, en liaison avec les préfets de département, en dotations
-départementales, dont le montant tient compte des priorités locales, des orientations des schémas prévus à l'article L.
-311-3, de l'activité et des coûts moyens des établissements ou services, et d'un objectif de réduction des inégalités
-d'allocation des ressources entre départements et établissements ou services.
+2° Un représentant de la collectivité territoriale d'implantation si elle n'est pas représentée au titre du 1° ;
+
+3° Un ou des représentants des départements qui supportent, en tout ou partie, les frais de prise en charge des personnes
+accueillies ;
+
+4° Des représentants des usagers ;
+
+5° Des représentants du personnel ;
+
+6° Des personnalités qualifiées.
+
+La composition et les modalités de désignation des membres du conseil d'administration sont fixées par décret en Conseil
+d'Etat.
+
+Le conseil d'administration des établissements communaux est présidé par le maire. Le conseil d'administration des
+établissements départementaux est présidé par le président du conseil général. Le conseil d'administration des établissements
+intercommunaux est présidé par le président de l'organe délibérant de l'établissement public de coopération intercommunale.
+
+Toutefois, sur proposition du président du conseil général, du maire ou du président de l'organe délibérant de
+l'établissement public de coopération intercommunale, selon le cas, la présidence du conseil d'administration est assurée par
+un représentant élu en son sein, respectivement, par le conseil général, le conseil municipal ou l'organe délibérant précité.
+
+II. - L'acte constitutif de chaque établissement public social ou médico-social national fixe la composition de son conseil
+d'administration. Le conseil d'administration d'un établissement public social ou médico-social national doit comprendre des
+représentants des usagers et du personnel.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°75-535 1975-06-30 art. 27-7 al. 1, al. 2, al. 3
 	  - Loi n°75-535 du 30 juin 1975 - art. 27-7 (Ab)
 
 	**Codifié par**:
@@ -17699,10 +18823,11 @@ d'allocation des ressources entre départements et établissements ou services.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'action sociale et des familles - art. L311-3 (M)
-	  - Code de l'action sociale et des familles - art. L312-1 (M)
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 60 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 66 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -17720,40 +18845,50 @@ d'allocation des ressources entre départements et établissements ou services.
 
 ###### Article L315-11
 
-Pour chaque établissement ou service, le représentant de l'Etat dans le département compétent peut modifier le montant global
-des recettes et dépenses prévisionnelles mentionnées au 5° de l'article L. 315-3, imputables aux prestations prises en charge
-par l'aide sociale de l'Etat, compte tenu du montant des dotations régionales ou départementales définies ci-dessus ; la même
-procédure s'applique en cas de révision, au titre du même exercice, des dotations régionales ou départementales initiales.
+Nul ne peut être membre d'un conseil d'administration : 
 
-Le représentant de l'Etat dans le département peut également supprimer ou diminuer les prévisions de dépenses qu'il estime
-injustifiées ou excessives compte tenu, d'une part, des conditions de satisfaction des besoins de la population, telles
-qu'elles résultent notamment des orientations des schémas prévus à l'article L. 311-3, d'autre part, de l'évolution de
-l'activité et des coûts des établissements et services appréciés par rapport au fonctionnement des autres équipements
-comparables dans le département ou la région.
+1° A plus d'un des titres mentionnées à l'article L. 315-10 ; 
 
-Des conventions conclues entre le représentant de l'Etat dans la région, les représentants de l'Etat dans les départements,
-les gestionnaires d'établissement ou de service et, le cas échéant, les groupements constitués dans les conditions prévues à
-l'article L. 311-2 précisent, dans une perspective pluriannuelle, les objectifs prévisionnels et les critères d'évaluation de
-l'activité et des coûts des prestations imputables à l'aide sociale de l'Etat dans les établissements et services concernés.
+2° S'il encourt l'une des incapacités prévues par les articles L. 5 et L. 6 du code électoral ; 
+
+3° S'il est personnellement ou par l'intermédiaire de son conjoint, de son concubin ou de la personne avec qui il a conclu un
+pacte civil de solidarité, de ses ascendants ou descendants en ligne directe, directement ou indirectement intéressé à la
+gestion de l'établissement social ou médico-social concerné ; 
+
+4° S'il est fournisseur de biens ou de services, lié à l'établissement par contrat ; 
+
+5° S'il est lié à l'établissement par contrat, sauf s'il s'agit des représentants du personnel ; 
+
+6° S'il a été lui-même directeur dudit établissement. 
+
+En cas d'incompatibilité applicable au président du conseil général ou au maire, la présidence est dévolue à un représentant
+élu, désigné en son sein, respectivement par le conseil général ou le conseil municipal.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°75-535 1975-06-30 art. 27-7 al. 4, al. 5,
 	  - Loi n°75-535 du 30 juin 1975 - art. 27-7 (Ab)
-	  - al. 6
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 60 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 67 () JORF 3 janvier 2002
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L311-2 (M)
-	  - Code de l'action sociale et des familles - art. L311-3 (M)
-	  - Code de l'action sociale et des familles - art. L315-3 (M)
+	  - Code électoral - art. L5 (V)
+	  - Code de l'action sociale et des familles - art. L315-10 (VT)
 
 	**Cité par**:
 
@@ -17763,17 +18898,43 @@ l'activité et des coûts des prestations imputables à l'aide sociale de l'Etat
 	  - Code de l'action sociale et des familles - art. R315-8 (V)
 
 
-##### Section 3 : Dispositions diverses.
-
 ###### Article L315-12
 
-Les personnes qui s'absentent temporairement, de façon occasionnelle ou périodique, de l'établissement où elles sont
-accueillies peuvent être dispensées d'acquitter tout ou partie de leurs frais d'hébergement.
+Le conseil d'administration des établissements publics sociaux ou médico-sociaux définit la politique générale de
+l'établissement et délibère sur :
 
-Les conditions d'application du présent article, qui peuvent être variables selon la nature de l'établissement et le mode de
-prise en charge desdits frais, sont soit fixées par voie réglementaire lorsqu'il s'agit d'établissements dont le financement
-est assuré grâce à une participation directe ou indirecte de l'Etat ou d'organismes de sécurité sociale, soit déterminées par
-le règlement départemental d'aide sociale lorsqu'il s'agit d'établissements dont le département assure seul le financement.
+1° Le projet d'établissement ou de service mentionné à l'article L. 311-7, ainsi que les contrats pluriannuels mentionnés à
+l'article L. 313-11 ;
+
+2° Les programmes d'investissement ;
+
+3° Le rapport d'activité ;
+
+4° Le budget et les décisions modificatives, les crédits supplémentaires et la tarification des prestations ;
+
+5° Les comptes financiers, les décisions d'affectation des résultats ou les propositions d'affectation desdits résultats,
+lorsque leurs financements sont majoritairement apportés par une collectivité publique ou les organismes de sécurité
+sociale ;
+
+6° Les décisions affectant l'organisation ou l'activité de l'établissement ;
+
+7° Le tableau des emplois du personnel ;
+
+8° La participation à des actions de coopération et de coordination ;
+
+9° Les acquisitions, aliénations, échanges d'immeubles et leur affectation et les conditions des baux de plus de dix-huit
+ans ;
+
+10° Les emprunts ;
+
+11° Le règlement de fonctionnement ;
+
+12° L'acceptation et le refus de dons et legs ;
+
+13° Les actions en justice et les transactions ;
+
+14° Les règles concernant l'emploi des diverses catégories de personnel, pour autant qu'elles n'ont pas été fixées par des
+dispositions législatives ou réglementaires.
 
 **Liens relatifs à cet article**
 
@@ -17786,6 +18947,12 @@ le règlement départemental d'aide sociale lorsqu'il s'agit d'établissements d
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 60 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 68 () JORF 3 janvier 2002
+
 	**Cité par**:
 
 	  - Décret n°2004-135 du 11 février 2004 - art. 5 (Ab)
@@ -17797,27 +18964,67 @@ le règlement départemental d'aide sociale lorsqu'il s'agit d'établissements d
 	  - Code général des collectivités territoriales - art. L2242-5 (Ab)
 	  - Code général des collectivités territoriales - art. L3213-7 (Ab)
 
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L311-7 (V)
+	  - Code de l'action sociale et des familles - art. L313-11 (M)
+
 
 ###### Article L315-13
 
-Les dépenses de soins paramédicaux dispensés par des professionnels de statut libéral ou salarié dans le cadre d'une action
-de maintien à domicile par les institutions mentionnées au 1° de l'article L. 311-1 peuvent être prises en charge par les
-organismes d'assurance maladie suivant une formule forfaitaire et, dans ce cas, réglées directement par ces organismes aux
-institutions dans les conditions fixées par voie réglementaire.
+Dans chaque établissement public social ou médico-social est institué un comité technique d'établissement présidé par le
+directeur ou son représentant membre des corps des personnels de direction, et composé de représentants du personnel relevant
+du titre IV du statut général des fonctionnaires de l'Etat et des collectivités territoriales, élus par collèges définis en
+fonction des catégories mentionnées à l'article 4 de ce titre sur des listes présentées par les organisations syndicales
+représentatives au sein de chaque établissement pour chaque catégorie de personnel.
 
-La participation de l'assuré social aux dépenses de soins paramédicaux dispensées par les institutions précitées peut être
-réduite ou supprimée dans les conditions fixées par voie réglementaire.
+La représentativité des organisations syndicales s'apprécie d'après les critères définis à l'article 9 bis du titre Ier du
+statut général des fonctionnaires de l'Etat et des collectivités territoriales.
+
+Lorsqu'aucune organisation syndicale ne présente de liste ou lorsque la participation est inférieure à un taux fixé par
+décret, les listes peuvent être librement établies.
+
+Le comité technique d'établissement est obligatoirement consulté sur :
+
+1° Le projet d'établissement et les programmes d'investissement relatifs aux travaux et aux équipements matériels ;
+
+2° Le budget, les crédits supplémentaires et les comptes, la tarification des prestations servies et le tableau des emplois
+du personnel et ses modifications ;
+
+3° Les créations, suppressions et transformations de services ;
+
+4° Les conditions et l'organisation du travail dans l'établissement, notamment les programmes de modernisation des méthodes
+et techniques de travail et leurs incidences sur la situation du personnel ;
+
+5° Les règles concernant l'emploi des diverses catégories de personnels, pour autant qu'elles n'ont pas été fixées par des
+dispositions législatives ou réglementaires ;
+
+6° Les critères de répartition de certaines primes et indemnités ;
+
+7° La politique générale de formation du personnel et notamment le plan de formation ;
+
+8° Le bilan social, le cas échéant ;
+
+9° La participation aux actions de coopération et de coordination mentionnées à la section 4 du chapitre II du titre Ier du
+livre III du présent titre.
+
+Les modalités d'application du présent article et notamment le nombre de membres titulaires et suppléants du comité technique
+d'établissement ainsi que les règles de fonctionnement de ce comité sont fixés par décret en Conseil d'Etat.
+
+Un décret définit les moyens dont dispose le comité technique d'établissement pour exercer ses missions.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°75-535 du 30 juin 1975 - art. 27-3 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 60 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 69 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -17838,23 +19045,26 @@ réduite ou supprimée dans les conditions fixées par voie réglementaire.
 	  - Code de l'action sociale et des familles - art. R315-54 (V)
 	  - Code de l'action sociale et des familles - art. R315-65 (V)
 
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L311-1 (M)
-
 
 ###### Article L315-14
 
-Des conditions particulières d'exercice des professionnels de santé exerçant à titre libéral destinées notamment à assurer
-l'organisation, la coordination et l'évaluation des soins, l'information et la formation sont mises en oeuvre dans les
-établissements d'hébergement pour personnes âgées dépendantes.
+Sans préjudice de l'application des dispositions prévues à l'article L. 314-7, les délibérations mentionnées à l'article L.
+315-12 sont exécutoires de plein droit dès qu'il a été procédé à leur transmission au représentant de l'Etat dans le
+département.
 
-Ces conditions peuvent porter sur des modes de rémunération particuliers autres que le paiement à l'acte et sur le paiement
-direct des professionnels par établissement.
+Le représentant de l'Etat dans le département saisit la chambre régionale des comptes des délibérations dont il estime
+qu'elles entraînent des dépenses de nature à menacer l'équilibre budgétaire de l'établissement, dans les quinze jours suivant
+leur transmission. Il informe sans délai l'établissement de cette saisine, qu'il peut assortir d'un sursis à exécution. Sur
+avis conforme de la chambre régionale des comptes, rendu dans un délai de trente jours suivant la saisine, le représentant de
+l'Etat dans le département peut annuler la délibération.
 
-Un contrat portant sur ces conditions d'exercice est conclu entre le professionnel et l'établissement.
+Le représentant de l'Etat dans le département défère au tribunal administratif les délibérations qu'il estime contraires à la
+légalité dans les deux mois suivant leur transmission. Il en informe sans délai l'établissement et lui communique toute
+précision sur les illégalités invoquées. Il peut assortir son recours d'une demande de suspension ; il est fait droit à cette
+demande si l'un des moyens invoqués paraît, en l'état de l'instruction, propre à créer un doute sérieux quant à la légalité
+de la délibération attaquée.
 
-Les modalités d'application des dispositions qui précèdent sont fixées par voie réglementaire.
+Les modalités d'application du présent article sont déterminées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -17867,6 +19077,12 @@ Les modalités d'application des dispositions qui précèdent sont fixées par v
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 60 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 70 () JORF 3 janvier 2002
+
 	**Cité par**:
 
 	  - Décret n°2003-1010 du 22 octobre 2003 - art. 68 (Ab)
@@ -17875,45 +19091,29 @@ Les modalités d'application des dispositions qui précèdent sont fixées par v
 	  - Code de l'action sociale et des familles - art. R315-23-5 (V)
 	  - Code de l'action sociale et des familles - art. R315-48 (V)
 
-
-###### Article L315-14-1
-
-Dans les établissements et services mentionnés à l'article L. 312-1, le fait qu'un salarié ou un agent a témoigné de mauvais
-traitements ou privations infligés à une personne accueillie ou relaté de tels agissements ne peut être pris en considération
-pour décider de mesures défavorables le concernant en matière d'embauche, de rémunération, de formation, d'affectation, de
-qualification, de classification, de promotion professionnelle, de mutation ou de renouvellement du contrat de travail, ou
-pour décider la résiliation du contrat de travail ou une sanction disciplinaire.
-
-En cas de licenciement, le juge peut prononcer la réintégration du salarié concerné si celui-ci le demande.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Créé par**:
-
-	  - Loi n°2001-1066 du 16 novembre 2001 - art. 8 () JORF 17 novembre 2001
-
-	**Abrogé par**:
-
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 69 () JORF 3 janvier 2002
-
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L312-1 (M)
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. L443-11 (Ab)
+	  - Code de l'action sociale et des familles - art. L314-7 (M)
+	  - Code de l'action sociale et des familles - art. L315-12 (M)
 
 
 ###### Article L315-15
 
-Sauf disposition contraire, les modalités d'application du présent chapitre sont déterminées par décret en Conseil d'Etat et
-notamment celles prises en application des articles L. 315-12, L. 315-2, L. 315-8, L. 315-14, L. 315-13 et L. 315-3.
+I.-Le budget et les décisions modificatives mentionnés au 4° de l'article L. 315-12 sont préparés et présentés par le
+directeur. Le budget de l'année est voté par le conseil d'administration et transmis au plus tard le 31 octobre précédant
+l'exercice auquel il se rapporte. Le cas échéant, il est établi en cohérence avec le contrat pluriannuel mentionné à
+l'article L. 313-11. 
+
+Les autorisations de dépenses et les prévisions de recettes qui figurent au budget sont présentées et votées par groupes
+fonctionnels, dont la composition est conforme à une nomenclature fixée par arrêté. Les décisions modificatives sont
+présentées et votées dans les mêmes formes. 
+
+Les délibérations relatives au budget et aux décisions modificatives sont transmises sans délai aux autorités compétentes en
+matière de tarification en vue de leur approbation, dans les conditions fixées par l'article L. 314-7. 
+
+II.-Les comptes financiers mentionnés au 5° de l'article L. 315-12 sont adoptés par le conseil d'administration et transmis
+aux autorités compétentes en matière de tarification au plus tard le 30 avril de l'année suivant l'exercice auquel ils se
+rapportent.
 
 **Liens relatifs à cet article**
 
@@ -17924,7 +19124,9 @@ notamment celles prises en application des articles L. 315-12, L. 315-2, L. 315-
 
 	**Modifié par**:
 
-	  - Loi n°2001-647 du 20 juillet 2001 - art. 2 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 60 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 71 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -17938,12 +19140,123 @@ notamment celles prises en application des articles L. 315-12, L. 315-2, L. 315-
 
 	**Cite**:
 
+	  - Code de l'action sociale et des familles - art. L313-11 (V)
+	  - Code de l'action sociale et des familles - art. L314-7 (V)
+	  - Code de l'action sociale et des familles - art. L315-12 (V)
+
+
+###### Article L315-16
+
+Les comptables des établissements publics sociaux et médico-sociaux sont des comptables directs du Trésor ayant qualité de
+comptables principaux.
+
+Lorsque le comptable de l'établissement notifie à l'ordonnateur sa décision de suspendre une dépense, celui-ci peut lui
+adresser un ordre de réquisition. Le comptable est tenu de s'y conformer, sauf en cas :
+
+1° D'insuffisance de fonds disponibles ;
+
+2° De dépenses ordonnancées sur des crédits irrégulièrement ouverts ou insuffisants ou sur des crédits autres que ceux sur
+lesquels elle devrait être imputée ;
+
+3° D'absence de justification de service fait ou de défaut de caractère libératoire du règlement.
+
+L'ordre de réquisition est porté à la connaissance du conseil d'administration de l'établissement et notifié au trésorier-
+payeur général du département, qui le transmet à la chambre régionale des comptes.
+
+En cas de réquisition, le comptable est déchargé de sa responsabilité.
+
+Le comptable assiste, avec voix consultative, au conseil d'administration de l'établissement lorsque celui-ci délibère sur
+des affaires de sa compétence.
+
+Les conditions de placement et de rémunération des fonds des établissements publics sociaux et médico-sociaux sont
+déterminées par décret.
+
+A la demande de l'ordonnateur, le comptable informe ce dernier de la situation de paiement des mandats et du recouvrement des
+titres de recettes, de la situation de trésorerie et de tout élément utile à la bonne gestion de l'établissement. Il paie les
+mandats dans l'ordre de priorité indiqué par l'ordonnateur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 60 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 72 () JORF 3 janvier 2002
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L543-1 (V)
+
+
+###### Article L315-17
+
+Le directeur représente l'établissement en justice et dans tous les actes de la vie civile.
+
+Il prépare les travaux du conseil d'administration et lui soumet le projet d'établissement mentionné à l'article L. 311-8.
+
+Il est chargé de l'exécution des décisions du conseil d'administration et met en oeuvre les actions approuvées par celui-ci.
+Il est compétent pour régler les affaires de l'établissement autres que celles qui sont énumérées à l'article L. 315-12. Il
+assure la gestion et la conduite générale de l'établissement et en tient le conseil d'administration informé.
+
+Il veille à la réalisation du projet d'établissement ou de service et à son évaluation.
+
+Il nomme le personnel, à l'exception des personnels titulaires des instituts nationaux de jeunes sourds et de l'Institut
+national des jeunes aveugles, et exerce son autorité sur l'ensemble de celui-ci.
+
+Le directeur peut déléguer sa signature dans des conditions et sur des matières définies par décret. Pour l'exercice de
+certaines des attributions du conseil d'administration définies par décret, le directeur peut recevoir délégation du
+président du conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 60 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 73 () JORF 3 janvier 2002
+
+	**Cité par**:
+
+	  - Décret n°2004-1136 du 21 octobre 2004 - art. 4 (V)
+	  - Arrêté du 26 décembre 2007 (V)
+	  - Code de l'action sociale et des familles - art. D315-71 (V)
+	  - Code de l'action sociale et des familles - art. R314-69 (V)
+	  - Code de l'action sociale et des familles - art. R315-25 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L311-8 (M)
 	  - Code de l'action sociale et des familles - art. L315-12 (M)
-	  - Code de l'action sociale et des familles - art. L315-13 (M)
-	  - Code de l'action sociale et des familles - art. L315-14 (M)
-	  - Code de l'action sociale et des familles - art. L315-2 (M)
-	  - Code de l'action sociale et des familles - art. L315-3 (M)
-	  - Code de l'action sociale et des familles - art. L315-8 (M)
+
+
+###### Article L315-18
+
+Le régime administratif, budgétaire, financier et comptable des établissements publics sociaux et médico-sociaux nationaux
+ainsi que les modalités du contrôle de l'Etat sur ces établissements sont déterminés par décret en Conseil d'Etat compte tenu
+de la nature particulière de leur mission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 60 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 74 () JORF 3 janvier 2002
 
 
 ### Titre II : Etablissements soumis à déclaration
@@ -17972,6 +19285,10 @@ département, peut faire opposition, dans l'intérêt des bonnes moeurs, de la s
 l'éducation ou du bien-être des enfants, à l'ouverture de l'établissement ou à l'exécution des modifications projetées. A
 défaut d'opposition, l'établissement peut être ouvert et les modifications exécutées sans autre formalité.
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -17995,9 +19312,12 @@ défaut d'opposition, l'établissement peut être ouvert et les modifications ex
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+
 	**Anciens textes**:
 
-	  - Code de la famille et de l'aide sociale 95 al. 1 à 4
 	  - Code de la famille et de l'aide sociale. - art. 95 (Ab)
 
 
@@ -18024,6 +19344,10 @@ prise à sa requête.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+
 	**Cite**:
 
 	  - Code civil 375 à 375-8
@@ -18031,7 +19355,6 @@ prise à sa requête.
 
 	**Anciens textes**:
 
-	  - Code de la famille et de l'aide sociale 95 al. 5 à 7
 	  - Code de la famille et de l'aide sociale. - art. 95 (Ab)
 
 
@@ -18047,10 +19370,9 @@ L. 321-1.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de la famille et de l'aide sociale. - art. 96 (M)
-	  - Code de la famille et de l'aide sociale. - art. 96 (Ab)
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -18059,9 +19381,73 @@ L. 321-1.
 
 	**Cite**:
 
+	  - Code de l'action sociale et des familles - art. L321-1 (VT)
+	  - Code de l'action sociale et des familles - art. L322-6 (V)
+
+	**Anciens textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 96 (Ab)
+
+
+###### Article L321-4
+
+Est puni d'un emprisonnement de trois mois et d'une amende de 3750 euros :
+
+1° Le fait d'héberger ou de recevoir collectivement et de manière habituelle des mineurs dans un établissement mentionné à
+l'article L. 321-1, sans avoir effectué la déclaration préalable auprès du président du conseil général ;
+
+2° Le fait d'apporter un changement important à l'établissement, sans avoir effectué la déclaration préalable auprès du
+président du conseil général ou de procéder à l'ouverture ou à la transformation de l'établissement malgré l'opposition du
+président du conseil général ;
+
+3° Le fait de diriger, d'exploiter ou d'être employé au sein de l'établissement, malgré les incapacités prévues à l'article
+L. 321-1 ;
+
+4° Le fait, pour le responsable de l'établissement, de ne pas se conformer aux injonctions préfectorales ou du président du
+conseil général ou de ne pas respecter l'arrêté préfectoral de fermeture de l'établissement prévu à l'article L. 331-7 ou
+d'ouvrir à nouveau l'établissement, après fermeture administrative, sans solliciter l'autorisation préfectorale prévue à
+l'article L. 322-6 ;
+
+5° Le fait de ne pas tenir le registre prévu à l'article L. 331-2 ou de faire obstacle aux demandes de renseignements et au
+droit d'entrée des agents chargés de la surveillance prévus aux articles L. 331-1 et L. 331-3.
+
+Les personnes physiques coupables des infractions définies au présent article encourent également la peine complémentaire
+d'interdiction, suivant les modalités de l'article 131-27 du code pénal, d'exploiter ou de diriger un établissement soumis
+aux dispositions du présent chapitre ou d'effectuer des placements d'enfants ou de recevoir des enfants.
+
+En cas de récidive, les peines prévues au présent article peuvent être portées au double.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Cite**:
+
+	  - Code pénal - art. 131-27 (V)
 	  - Code de l'action sociale et des familles - art. L321-1 (M)
 	  - Code de l'action sociale et des familles - art. L322-6 (M)
-	  - Code de l'action sociale et des familles - art. L322-7 (M)
+	  - Code de l'action sociale et des familles - art. L331-1 (M)
+	  - Code de l'action sociale et des familles - art. L331-2 (M)
+	  - Code de l'action sociale et des familles - art. L331-3 (M)
+	  - Code de l'action sociale et des familles - art. L331-7 (M)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L421-12 (V)
+	  - Code de l'action sociale et des familles - art. L421-8 (T)
+	  - Code de l'action sociale et des familles - art. L443-9 (V)
+
+	**Anciens textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 99 (Ab)
 
 
 #### Chapitre II : Accueil d'adultes.
@@ -18109,9 +19495,12 @@ déclaration à l'autorité administrative. Celle-ci est tenue d'en donner réc�
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+
 	**Anciens textes**:
 
-	  - Code de la famille et de l'aide sociale 203 al. 1
 	  - Code de la famille et de l'aide sociale. - art. 203 (Ab)
 
 
@@ -18136,14 +19525,17 @@ envisagée.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de la famille et de l'aide sociale 203 al. 2
-	  - Code de la famille et de l'aide sociale. - art. 203 (Ab)
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L322-1 (M)
+	  - Code de l'action sociale et des familles - art. L322-1 (V)
+
+	**Anciens textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 203 (Ab)
 
 
 ###### Article L322-3
@@ -18159,14 +19551,18 @@ dans les conditions fixées par voie réglementaire.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de la famille et de l'aide sociale. - art. 204 (Ab)
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. L322-8 (V)
 	  - Code de l'action sociale et des familles - art. L322-9 (V)
+
+	**Anciens textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 204 (Ab)
 
 
 ###### Article L322-4
@@ -18182,13 +19578,17 @@ d'opposition, l'établissement peut être ouvert et les modifications exécutée
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de la famille et de l'aide sociale. - art. 205 (Ab)
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. L322-8 (V)
+
+	**Anciens textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 205 (Ab)
 
 
 ###### Article L322-5
@@ -18205,9 +19605,13 @@ peines de vol, de l'escroquerie et de l'abus de confiance.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de la famille et de l'aide sociale. - art. 206 (Ab)
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 15 () JORF 2 décembre 2005
 
 	**Cite**:
 
@@ -18216,6 +19620,10 @@ peines de vol, de l'escroquerie et de l'abus de confiance.
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. L322-8 (M)
+
+	**Anciens textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 206 (Ab)
 
 
 ###### Article L322-6
@@ -18231,9 +19639,9 @@ trois mois de la demande, l'autorisation est réputée acquise.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de la famille et de l'aide sociale. - art. 211 (Ab)
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -18242,6 +19650,10 @@ trois mois de la demande, l'autorisation est réputée acquise.
 	  - Code de l'action sociale et des familles - art. L321-4 (V)
 	  - Code de l'action sociale et des familles - art. L322-7 (Ab)
 	  - Code de l'action sociale et des familles - art. L322-8 (V)
+
+	**Anciens textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 211 (Ab)
 
 
 ###### Article L322-7
@@ -18257,9 +19669,13 @@ Conseil supérieur de l'aide sociale.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de la famille et de l'aide sociale. - art. 211 (Ab)
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-177 du 23 février 2010 - art. 18
 
 	**Cité par**:
 
@@ -18267,7 +19683,76 @@ Conseil supérieur de l'aide sociale.
 
 	**Cite**:
 
+	  - Code de l'action sociale et des familles - art. L322-6
+
+	**Anciens textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 211 (Ab)
+
+
+###### Article L322-8
+
+Est puni d'un emprisonnement de trois mois et d'une amende de 3750 euros :
+
+1° La création d'un établissement prévu à l'article L. 322-1 sans avoir effectué la déclaration préalable auprès de
+l'autorité administrative compétente ;
+
+2° L'ouverture de cet établissement malgré l'opposition de l'autorité administrative prévue à l'article L. 322-4 ;
+
+3° Le fait, pour le responsable d'un établissement mentionné à l'article L. 322-1 d'apporter une modification à cet
+établissement sans effectuer la déclaration auprès de l'autorité administrative prévue à l'article L. 322-3 ou malgré
+l'opposition prévue à l'article L. 322-4, de ne pas se conformer aux injonctions préfectorales ou de ne pas respecter
+l'arrêté préfectoral de fermeture de l'établissement prévu à l'article L. 331-5 ;
+
+4° Le fait d'ouvrir à nouveau l'établissement, après fermeture administrative, sans solliciter l'autorisation préfectorale
+prévue à l'article L. 322-6 ;
+
+5° Le fait de diriger, d'exploiter ou d'être employé au sein de l'établissement, malgré l'incapacité prévue à l'article L.
+322-5 ;
+
+6° Le fait de ne pas tenir le registre prévu à l'article L. 331-2 ;
+
+7° Le fait de faire obstacle aux demandes de renseignements et au droit d'entrée des agents chargés de la surveillance prévus
+aux articles L. 331-1 et L. 331-3.
+
+Les personnes physiques coupables des infractions définies au présent article encourent également la peine complémentaire
+d'interdiction, suivant les modalités de l'article 131-27 du code pénal, d'exploiter ou de diriger un établissement soumis
+aux dispositions du présent chapitre.
+
+En cas de récidive, les peines prévues au présent article peuvent être portées au double.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Cite**:
+
+	  - Code pénal - art. 131-27 (V)
+	  - Code de l'action sociale et des familles - art. L322-1 (M)
+	  - Code de l'action sociale et des familles - art. L322-3 (M)
+	  - Code de l'action sociale et des familles - art. L322-4 (M)
+	  - Code de l'action sociale et des familles - art. L322-5 (M)
 	  - Code de l'action sociale et des familles - art. L322-6 (M)
+	  - Code de l'action sociale et des familles - art. L331-1 (M)
+	  - Code de l'action sociale et des familles - art. L331-2 (M)
+	  - Code de l'action sociale et des familles - art. L331-3 (M)
+	  - Code de l'action sociale et des familles - art. L331-5 (M)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L133-2 (V)
+
+	**Anciens textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 213 (Ab)
 
 
 ###### Article L322-9
@@ -18293,17 +19778,19 @@ pris après avis du Conseil supérieur de l'aide social, et notamment :
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de la famille et de l'aide sociale 203 al. 1, 2
-	  - Code de la famille et de l'aide sociale. - art. 2 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 203 (Ab)
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L322-1 (M)
 	  - Code de l'action sociale et des familles - art. L322-2 (M)
 	  - Code de l'action sociale et des familles - art. L322-3 (M)
+
+	**Anciens textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 203 (Ab)
 
 
 ### Titre III : Dispositions communes aux établissements soumis à autorisation et à déclaration
@@ -18323,9 +19810,9 @@ sanitaires et sociales, sans préjudice des contrôles prévus et organisés par
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de la famille et de l'aide sociale. - art. 208 (Ab)
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -18337,14 +19824,18 @@ sanitaires et sociales, sans préjudice des contrôles prévus et organisés par
 	  - Code de l'action sociale et des familles - art. L543-3 (V)
 	  - Code de l'action sociale et des familles - art. L546-5 (Ab)
 
+	**Anciens textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 208 (Ab)
+
 
 ###### Article L331-2
 
 Il est tenu dans tout établissement un registre, coté et paraphé dans les conditions fixées par voie réglementaire, où sont
 portées les indications relatives à l'identité des personnes séjournant dans l'établissement, la date de leur entrée et celle
-de leur sortie.
+de leur sortie. 
 
-Ce registre est tenu en permanence à la disposition des autorités judiciaires et administratives compétentes.
+Ce registre est tenu en permanence à la disposition des autorités judiciaires et administratives compétentes. 
 
 Toute personne appelée par ses fonctions à prendre connaissance de ce registre est tenue au secret professionnel dans les
 conditions et sous les peines fixées par l'article 226-13 du code pénal.
@@ -18356,14 +19847,13 @@ conditions et sous les peines fixées par l'article 226-13 du code pénal.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+
 	**Cite**:
 
-	  - Code pénal - art. 226-13 (M)
-
-	**Anciens textes**:
-
-	  - Code de la famille et de l'aide sociale. - art. 207 (M)
-	  - Code de la famille et de l'aide sociale. - art. 207 (Ab)
+	  - Code pénal - art. 226-13 (V)
 
 	**Cité par**:
 
@@ -18373,6 +19863,10 @@ conditions et sous les peines fixées par l'article 226-13 du code pénal.
 	  - Code de l'action sociale et des familles - art. L331-3 (M)
 	  - Code de l'action sociale et des familles - art. R331-5 (V)
 	  - Code de l'action sociale et des familles - art. R331-6 (V)
+
+	**Anciens textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 207 (Ab)
 
 
 ###### Article L331-3
@@ -18405,15 +19899,14 @@ par l'article 226-13 du code pénal.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+
 	**Cite**:
 
 	  - Code pénal - art. 226-13 (M)
 	  - Code de l'action sociale et des familles - art. L331-2 (M)
-
-	**Anciens textes**:
-
-	  - Code de la famille et de l'aide sociale. - art. 209 (M)
-	  - Code de la famille et de l'aide sociale. - art. 209 (Ab)
 
 	**Cité par**:
 
@@ -18424,6 +19917,10 @@ par l'article 226-13 du code pénal.
 	  - Code de l'action sociale et des familles - art. L331-5 (V)
 	  - Code de l'action sociale et des familles - art. L543-3 (V)
 	  - Code de l'action sociale et des familles - art. R313-27 (V)
+
+	**Anciens textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 209 (Ab)
 
 
 ###### Article L331-4
@@ -18440,6 +19937,10 @@ L'article 911 dudit code est, en outre, applicable aux libéralités en cause.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 	**Cite**:
 
@@ -18475,10 +19976,9 @@ exécute cette décision en appliquant, avec le concours de celui-ci, les dispos
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de la famille et de l'aide sociale. - art. 210 (M)
-	  - Code de la famille et de l'aide sociale. - art. 210 (Ab)
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -18495,6 +19995,10 @@ exécute cette décision en appliquant, avec le concours de celui-ci, les dispos
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L331-3 (M)
+
+	**Anciens textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 210 (Ab)
 
 
 ###### Article L331-6
@@ -18513,9 +20017,9 @@ hébergées.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de la famille et de l'aide sociale. - art. 212 (Ab)
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -18524,6 +20028,10 @@ hébergées.
 	  - Code de l'action sociale et des familles - art. L546-5 (Ab)
 	  - Code de l'action sociale et des familles - art. R331-6 (V)
 	  - Code de la consommation - art. R334-1 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 212 (Ab)
 
 
 ###### Article L331-7
@@ -18551,10 +20059,9 @@ conseil général.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de la famille et de l'aide sociale. - art. 97 (M)
-	  - Code de la famille et de l'aide sociale. - art. 97 (Ab)
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -18573,11 +20080,15 @@ conseil général.
 	  - Code de l'action sociale et des familles - art. L312-1 (M)
 	  - Code de l'action sociale et des familles - art. L321-1 (M)
 
+	**Anciens textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 97 (Ab)
+
 
 ###### Article L331-8
 
 Les dispositions du présent titre sont applicables aux établissements du type de ceux mentionnés à l'article L. 321-1 et
-créés par des collectivités publiques.
+créés par des collectivités publiques. 
 
 Le pouvoir de fermeture mentionné à l'article L. 331-7 est exercé par le représentant de l'Etat dans le département.
 
@@ -18588,10 +20099,9 @@ Le pouvoir de fermeture mentionné à l'article L. 331-7 est exercé par le repr
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de la famille et de l'aide sociale. - art. 98 (M)
-	  - Code de la famille et de l'aide sociale. - art. 98 (Ab)
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -18599,8 +20109,12 @@ Le pouvoir de fermeture mentionné à l'article L. 331-7 est exercé par le repr
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L321-1 (M)
-	  - Code de l'action sociale et des familles - art. L331-7 (M)
+	  - Code de l'action sociale et des familles - art. L321-1 (VT)
+	  - Code de l'action sociale et des familles - art. L331-7 (VT)
+
+	**Anciens textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 98 (Ab)
 
 
 ###### Article L331-9
@@ -18614,6 +20128,10 @@ après avis du conseil supérieur de l'aide sociale.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -18630,17 +20148,26 @@ après avis du conseil supérieur de l'aide sociale.
 
 ###### Article L342-1
 
-Les établissements pour personnes âgées mentionnés à l'article L. 312-1, qui ne sont ni habilités à recevoir des
-bénéficiaires de l'aide sociale, ni conventionnés au titre de l'aide personnalisée au logement, ne peuvent héberger une
-personne âgée sans qu'au préalable un contrat écrit ait été passé avec cette personne ou son représentant légal.
+Sont soumis aux dispositions du présent chapitre :
 
-Pour la signature de ce contrat, la personne ou son représentant légal peut se faire accompagner d'une personne de son choix.
+1° Les établissements mentionnés au 6° du I de l'article L. 312-1, lorsqu'ils ne sont ni habilités à recevoir des
+bénéficiaires de l'aide sociale ni conventionnés au titre de l'aide personnalisée au logement ;
+
+2° Les mêmes établissements, lorsqu'ils n'accueillent pas à titre principal des bénéficiaires de l'aide sociale pour la
+fraction de leur capacité au titre de laquelle ils ne sont pas habilités à recevoir des bénéficiaires de l'aide sociale ;
+
+3° Les établissements conventionnés au titre de l'aide personnalisée au logement et non habilités à recevoir des
+bénéficiaires de l'aide sociale pour les prestations non prises en compte dans le calcul de la redevance définie aux articles
+R. 353-156 à R. 353-159 du code de la construction et de l'habitation.
+
+Ces établissements ne peuvent héberger une personne âgée sans qu'au préalable un contrat écrit ait été passé avec cette
+personne ou son représentant légal. Pour la signature de ce contrat, la personne ou son représentant légal peut se faire
+accompagner d'une personne de son choix.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°90-600 1990-07-06 art. 1
 	  - Loi n°90-600 du 6 juillet 1990 - art. 1 (Ab)
 
 	**Cité par**:
@@ -18696,9 +20223,15 @@ Pour la signature de ce contrat, la personne ou son représentant légal peut se
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 77 () JORF 3 janvier 2002
+
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L312-1 (M)
+	  - Code de la construction et de l'habitation R353-156 à R353-159
 
 
 ###### Article L342-2
@@ -18706,15 +20239,15 @@ Pour la signature de ce contrat, la personne ou son représentant légal peut se
 Le contrat est à durée indéterminée ; il précise les conditions et les modalités de sa résiliation. Il comporte en annexe un
 document contractuel décrivant l'ensemble des prestations qui sont offertes par l'établissement et indiquant le prix de
 chacune d'elles, fixé conformément au premier alinéa de l'article L. 342-3. Le document est complété en cas de création d'une
-nouvelle prestation.
+nouvelle prestation. 
 
 Ce document détermine aussi les conditions de facturation de chaque prestation en cas d'absence ou d'hospitalisation du
-souscripteur.
+souscripteur. 
 
 Le contrat précise les prestations dont le souscripteur a déclaré vouloir bénéficier. Un avenant au contrat est établi
 lorsque, pendant la durée du contrat, le résident demande le bénéfice d'une prestation supplémentaire ou renonce à une
 prestation. Lorsqu'un préposé de l'établissement est désigné gérant de la tutelle en vertu de l'article 499 du code civil,
-les dispositions du deuxième alinéa de l'article 500 dudit code sont applicables pour la conclusion de l'avenant.
+les dispositions du deuxième alinéa de l'article 500 dudit code sont applicables pour la conclusion de l'avenant. 
 
 Lorsque, préalablement à l'entrée dans l'établissement, la personne âgée ou son représentant légal a déclaré vouloir conclure
 un contrat pour un hébergement d'une durée limitée, inférieure à six mois, le contrat est alors à durée déterminée. Il
@@ -18726,13 +20259,16 @@ contrat à durée indéterminée et soumis aux dispositions des articles L. 342-
 
 	**Anciens textes**:
 
-	  - Loi n°90-600 1990-07-06 art. 2
 	  - Loi n°90-600 du 6 juillet 1990 - art. 2 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -18753,19 +20289,20 @@ contrat à durée indéterminée et soumis aux dispositions des articles L. 342-
 
 	**Cite**:
 
-	  - Code civil - art. 499 (AbD)
-	  - Code civil - art. 500 (M)
-	  - Code de l'action sociale et des familles L342-3, L342-1 à L342-6
+	  - Code civil - art. 499 (V)
+	  - Code civil - art. 500 (V)
+	  - Code de l'action sociale et des familles - art. L342-1 (V)
 
 
 ###### Article L342-3
 
-Le prix de chaque prestation est librement fixé lors de la signature du contrat. Lorsqu'une prestation est créée
-postérieurement à la signature du contrat, son prix est librement fixé au moment de sa création. Les prix varient ensuite
-dans la limite d'un pourcentage fixé chaque année par arrêté du ministre chargé de l'économie et des finances, compte tenu de
-l'évolution des coûts de la construction, des produits alimentaires et des services.
+Le prix de chaque prestation, à l'exception de celles prévues aux 1° et 2° de l'article L. 314-2, est librement fixé lors de
+la signature du contrat. Lorsqu'une prestation est créée postérieurement à la signature du contrat, son prix est librement
+fixé au moment de sa création. Les prix varient ensuite dans la limite d'un pourcentage fixé chaque année par arrêté du
+ministre chargé de l'économie et des finances, compte tenu de l'évolution des coûts de la construction, des produits
+alimentaires et des services. 
 
-Le conseil d'établissement est consulté sur les prix proposés, et notamment lors de la création d'une nouvelle prestation.
+Le conseil d'établissement est consulté sur les prix proposés, et notamment lors de la création d'une nouvelle prestation. 
 
 Lorsqu'une des prestations offertes est choisie par un résident postérieurement à la signature du contrat ou à la création de
 cette prestation, son prix est celui qui figure dans le document contractuel mentionné à l'article L. 342-2, majoré, le cas
@@ -18776,7 +20313,6 @@ la prestation si celle-ci est postérieure.
 
 	**Anciens textes**:
 
-	  - Loi n°90-600 1990-07-06 art. 3
 	  - Loi n°90-600 du 6 juillet 1990 - art. 3 (Ab)
 
 	**Cité par**:
@@ -18801,6 +20337,15 @@ la prestation si celle-ci est postérieure.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 77 () JORF 3 janvier 2002
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L314-2 (VT)
+
 
 ###### Article L342-4
 
@@ -18815,13 +20360,16 @@ conjointement à sa demande, l'avis rendu par le conseil d'établissement.
 
 	**Anciens textes**:
 
-	  - Loi n°90-600 1990-07-06 art. 4
 	  - Loi n°90-600 du 6 juillet 1990 - art. 4 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -18840,13 +20388,16 @@ variations autorisées en vertu des articles L. 342-3 et L. 342-4.
 
 	**Anciens textes**:
 
-	  - Loi n°90-600 1990-07-06 art. 5 al. 3
 	  - Loi n°90-600 du 6 juillet 1990 - art. 5 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 	**Cite**:
 
@@ -18862,23 +20413,12 @@ variations autorisées en vertu des articles L. 342-3 et L. 342-4.
 ###### Article L342-6
 
 Les infractions aux dispositions des articles L. 342-1 à L. 342-5 sont constatées et poursuivies dans les conditions fixées
-par les articles 45 alinéas 1 et 3, 46, 47, 52 et 56 de l'ordonnance n° 86-1243 du 1er décembre 1986 relative à la liberté
-des prix et de la concurrence.
+par les articles L. 450-1 alinéas 1 et 3, L. 450-2, L. 450-3, L. 450-8, L. 470-5 du code de commerce.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Ordonnance 86-1243 1986-12-01 art. 45, art. 46, art. 47, art. 52, art. 56
-	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 46 (Ab)
-	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 47 (Ab)
-	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 52 (M)
-	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 56 (Ab)
-	  - Code de l'action sociale et des familles L342-1 à L342-5
-
 	**Anciens textes**:
 
-	  - Loi n°90-600 1990-07-06 art. 6
 	  - Loi n°90-600 du 6 juillet 1990 - art. 6 (Ab)
 
 	**Codifié par**:
@@ -18886,9 +20426,22 @@ des prix et de la concurrence.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-290 du 5 mars 2007 - art. 39
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 4 () JORF 2 décembre 2005
+
+	**Cite**:
+
+	  - Code de commerce. - art. L450-1 (M)
+	  - Code de commerce. - art. L450-2 (V)
+	  - Code de commerce. - art. L450-3 (M)
+	  - Code de commerce. - art. L450-8 (M)
+	  - Code de commerce. - art. L470-5 (V)
+	  - Code de l'action sociale et des familles L342-1 à L342-5
 
 	**Cité par**:
 
@@ -18900,38 +20453,45 @@ des prix et de la concurrence.
 ###### Article L343-1
 
 Les règles relatives aux centres d'action médico-sociale précoce sont fixées par les dispositions des articles L. 2132-4 et
-L. 2112-8 du code de la santé publique ci-après reproduites :
+L. 2112-8 du code de la santé publique ci-après reproduites : 
 
-" Art. L. 2132-4. - Les personnes titulaires de l'exercice de l'autorité parentale ou celles à qui un enfant a été confié
-sont informées, dans le respect des règles déontologiques, lorsqu'un handicap a été suspecté, décelé ou signalé chez ce
-dernier, notamment au cours des examens médicaux prévus à l'article L. 2132-2 du code de la santé publique, de la nature du
-handicap et de la possibilité pour l'enfant d'être accueilli dans des centres spécialisés, notamment, dans des centres
-d'action médico-sociale précoce, en vue de prévenir ou de réduire l'aggravation de ce handicap.
+" Art. L. 2132-4.-Les personnes titulaires de l'exercice de l'autorité parentale ou celles à qui un enfant a été confié sont
+informées, dans le respect des règles déontologiques, lorsqu'un handicap a été suspecté, décelé ou signalé chez ce dernier,
+notamment au cours des examens médicaux prévus à l'article L. 2132-2 du code de la santé publique, de la nature du handicap
+et de la possibilité pour l'enfant d'être accueilli dans des centres spécialisés, notamment, dans des centres d'action
+médico-sociale précoce, en vue de prévenir ou de réduire l'aggravation de ce handicap. 
 
 Dans les centres d'action médico-sociale précoce, la prise en charge s'effectue sous forme de cure ambulatoire comportant
 l'intervention d'une équipe pluridisciplinaire. Elle comporte une action de conseil et de soutien de la famille ou des
 personnes auxquelles l'enfant a été confié. Elle est assurée, s'il y a lieu, en liaison avec les institutions d'éducation
-préscolaires et les établissements et services mentionnés à l'article L. 2324-1.
+préscolaires et les établissements et services mentionnés à l'article L. 2324-1. 
 
-Le financement de ces centres est assuré dans les conditions définies à l'article L. 2112-8 du code de la santé publique. "
+Le financement de ces centres est assuré dans les conditions définies à l'article L. 2112-8 du code de la santé publique. " 
 
-" Art. L. 2112-8. - Le financement des centres d'action médico-sociale précoce mentionnés à l'article L. 2132-4 est assuré
-par une dotation globale annuelle à la charge des régimes d'assurance maladie pour 80 % de son montant et du département pour
-le solde. "
+" Art. L. 2112-8.-Le financement des centres d'action médico-sociale précoce mentionnés à l'article L. 2132-4 est assuré par
+une dotation globale annuelle à la charge des régimes d'assurance maladie pour 80 % de son montant et du département pour le
+solde. "
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2112-8 (V)
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2132-4 (V)
 
 	**Cite**:
 
 	  - Code de la santé publique - art. L2112-8 (V)
 	  - Code de la santé publique - art. L2132-2 (V)
-	  - Code de la santé publique - art. L2132-4 (V)
-	  - Code de la santé publique - art. L2324-1 (M)
+	  - Code de la santé publique - art. L2324-1 (VT)
 
 
 ###### Article L343-2
@@ -18953,9 +20513,17 @@ département, elle peut être fixée par arrêté interministériel.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-177 du 23 février 2010 - art. 18
+
 	**Cite**:
 
-	  - Code de la santé publique - art. L2132-4 (V)
+	  - Code de la santé publique - art. L2132-4
 
 
 #### Chapitre IV : Centres pour handicapés adultes.
@@ -18976,6 +20544,10 @@ pris en charge au titre de l'assurance maladie.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -19056,13 +20628,16 @@ précisées par décret.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+
 	**Cite**:
 
 	  - Code du travail - art. L323-32 (M)
 
 	**Anciens textes**:
 
-	  - Code de la famille et de l'aide sociale. - art. 167 (M)
 	  - Code de la famille et de l'aide sociale. - art. 167 (Ab)
 
 
@@ -19091,16 +20666,19 @@ directement entraînés par l'activité de production et de commercialisation de
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de la famille et de l'aide sociale 168 al. 1 à 3
-	  - Code de la famille et de l'aide sociale. - art. 168 (Ab)
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. L121-7 (V)
 	  - Code de l'action sociale et des familles - art. L546-7 (Ab)
 	  - Code de la sécurité sociale. - art. L162-24-1 (M)
+
+	**Anciens textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 168 (Ab)
 
 
 ###### Article L344-4
@@ -19117,6 +20695,10 @@ professionnelle par l'assurance maladie, et pour les centres d'aide par le trava
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+
 	**Cité par**:
 
 	  - Décret n°2003-1010 du 22 octobre 2003 - art. 106 (Ab)
@@ -19124,7 +20706,6 @@ professionnelle par l'assurance maladie, et pour les centres d'aide par le trava
 
 	**Anciens textes**:
 
-	  - Code de la famille et de l'aide sociale 168 al. 4
 	  - Code de la famille et de l'aide sociale. - art. 168 (Ab)
 
 
@@ -19154,6 +20735,10 @@ sont son conjoint, ses enfants ou la personne qui a assumé, de façon effective
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+
 	**Cité par**:
 
 	  - Décret n°2009-206 du 19 février 2009 (V)
@@ -19165,7 +20750,6 @@ sont son conjoint, ses enfants ou la personne qui a assumé, de façon effective
 
 	**Anciens textes**:
 
-	  - Code de la famille et de l'aide sociale 168 al. 5 à 7
 	  - Code de la famille et de l'aide sociale. - art. 168 (Ab)
 
 
@@ -19183,19 +20767,22 @@ ministre chargé de l'action sociale et vient en atténuation des charges de fon
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+
 	**Anciens textes**:
 
-	  - Code de la famille et de l'aide sociale 168 al. 8
 	  - Code de la famille et de l'aide sociale. - art. 168 (Ab)
 
 
 ###### Article L344-7
 
 Sauf disposition contraire, les modalités d'application du présent chapitre sont déterminées par décret en Conseil d'Etat, et
-notamment :
+notamment : 
 
 1° Les conditions de l'agrément des établissements et services mentionnés à l'article L. 344-1 ainsi que celles relatives à
-la prise en charge de ces soins ;
+la prise en charge de ces soins ; 
 
 2° Les conditions dans lesquelles sont prises en charge par la sécurité sociale et, le cas échéant, par l'aide sociale, les
 dépenses exposées, dans les établissements recevant des personnes atteintes de troubles mentaux, pour les personnes dont
@@ -19214,6 +20801,10 @@ et un encadrement en vue de leur réinsertion sociale.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. L243-1 (Ab)
@@ -19223,7 +20814,7 @@ et un encadrement en vue de leur réinsertion sociale.
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L344-1 (M)
+	  - Code de l'action sociale et des familles - art. L344-1 (V)
 
 
 #### Chapitre V : Centres d'hébergement et de réinsertion sociale.
@@ -19236,8 +20827,8 @@ familiales, de logement, de santé ou d'insertion, en vue de les aider à accéd
 sociale.
 
 Les centres d'hébergement et de réinsertion sociale, dont les conditions de fonctionnement et de financement sont prévues par
-voie réglementaire, assurent tout ou partie des missions définies au 8° de l'article L. 312-1, en vue de faire accéder les
-personnes qu'ils prennent en charge à l'autonomie sociale.
+voie réglementaire, assurent tout ou partie des missions définies au 8° du I de l'article L. 312-1, en vue de faire accéder
+les personnes qu'ils prennent en charge à l'autonomie sociale.
 
 Ce règlement précise, d'une part, les modalités selon lesquelles les personnes accueillies participent à proportion de leurs
 ressources à leurs frais d'hébergement et d'entretien et, d'autre part, les conditions dans lesquelles elles perçoivent la
@@ -19287,14 +20878,18 @@ d'insertion professionnelle prévues à l'alinéa précédent.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de la famille et de l'aide sociale 185 al. 1 à 3
-	  - Code de la famille et de l'aide sociale. - art. 185 (Ab)
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 75 () JORF 3 janvier 2002
 
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L312-1 (M)
+
+	**Anciens textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 185 (Ab)
 
 
 ###### Article L345-2
@@ -19313,7 +20908,7 @@ avec le concours des services publics ;
 
 3° De tenir à jour l'état des différentes disponibilités d'accueil dans le département.
 
-Les établissements et services définis au 8° de l'article L. 312-1 sont tenus de déclarer périodiquement leurs places
+Les établissements et services définis au 8° du I de l'article L. 312-1 sont tenus de déclarer périodiquement leurs places
 vacantes au responsable du dispositif mentionné au premier alinéa du présent article.
 
 Lorsque l'établissement ou le service sollicité ne dispose pas de place libre ou ne peut proposer de solution adaptée la
@@ -19347,13 +20942,17 @@ situation de la personne ou de la famille qui s'adresse lui, il adresse l'intér
 
 	**Anciens textes**:
 
-	  - Loi n°98-657 1998-07-29 art. 157 III
 	  - Loi n°98-657 du 29 juillet 1998 - art. 157 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 4 I, 75 I 7° JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 	**Cite**:
 
@@ -19383,17 +20982,20 @@ le centre et l'Etat.
 	  - Code de l'action sociale et des familles - art. R345-1 (V)
 	  - Code de l'action sociale et des familles - art. R345-1-1 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+
 	**Anciens textes**:
 
-	  - Code de la famille et de l'aide sociale 185 al. 1 à 3
 	  - Code de la famille et de l'aide sociale. - art. 185-3 (Ab)
 
 
 ###### Article L345-4
 
-Des décrets en Conseil d'Etat déterminent :
+Des décrets en Conseil d'Etat déterminent : 
 
-1° Les conditions de fonctionnement et de financement des centres mentionnés à l'article L. 345-1 ;
+1° Les conditions de fonctionnement et de financement des centres mentionnés à l'article L. 345-1 ; 
 
 2° Les règles générales auxquelles doivent obéir les conventions prévues à l'article L. 345-3.
 
@@ -19404,19 +21006,22 @@ Des décrets en Conseil d'Etat déterminent :
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de la famille et de l'aide sociale 185-3 al. 2
-	  - Code de la famille et de l'aide sociale. - art. 185-3 (Ab)
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L345-1 (M)
-	  - Code de l'action sociale et des familles - art. L345-3 (M)
+	  - Code de l'action sociale et des familles - art. L345-1 (V)
+	  - Code de l'action sociale et des familles - art. L345-3 (V)
 
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. L301-5-1 (V)
+
+	**Anciens textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 185-3 (Ab)
 
 
 #### Chapitre VI : Centre d'accueil et de soins hospitaliers de Nanterre.
@@ -19462,6 +21067,10 @@ cas, à la ville de Paris. "
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+
 	**Cite**:
 
 	  - Code de la santé publique - art. L6147-2 (M)
@@ -19478,12 +21087,7 @@ Les recours dirigés contre les décisions prises par le représentant de l'Etat
 régionale de l'hospitalisation et le président du conseil général, séparément ou conjointement, ainsi que, le cas échéant,
 par les ministres compétents, déterminant les dotations globales, les remboursements forfaitaires, les prix de journée et
 autres tarifs des établissements et services sanitaires, sociaux et médico-sociaux de statut public ou privé, sont portés, en
-premier ressort, devant la commission interrégionale de la tarification sanitaire et sociale.
-
-**Nota:**
-
-Code de l'action sociale et des familles L531-1 : le présent article n'est pas applicable à la collectivité territoriale de
-Saint-Pierre-et-Miquelon.
+premier ressort, devant le tribunal interrégional de la tarification sanitaire et sociale.
 
 **Liens relatifs à cet article**
 
@@ -19511,27 +21115,31 @@ Saint-Pierre-et-Miquelon.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 59 () JORF 3 janvier 2002
+
 	**Anciens textes**:
 
-	  - Code de la famille et de l'aide sociale. - art. 201 (M)
 	  - Code de la famille et de l'aide sociale. - art. 201 (Ab)
 
 
 ###### Article L351-2
 
-La commission interrégionale de la tarification sanitaire et sociale est présidée par un membre du corps des tribunaux
+Le tribunal interrégional de la tarification sanitaire et sociale est présidé par un membre du corps des tribunaux
 administratifs et des cours administratives d'appel, ayant au moins le grade de président de tribunal administratif, en
 activité ou honoraire, ou par un conseiller d'Etat.
 
-La commission interrégionale de la tarification sanitaire et sociale est composée, d'une part, de membres de la cour
+Le tribunal interrégional de la tarification sanitaire et sociale est composé, d'une part, de membres de la cour
 administrative d'appel ou des tribunaux administratifs de son ressort dont l'un, au moins, est chargé des fonctions de
 commissaire du gouvernement, d'autre part, de représentants de l'Etat, des collectivités territoriales, des organismes de
 protection sociale et des organismes gestionnaires d'établissements et de services sanitaires, sociaux et médico-sociaux.
 
 **Nota:**
 
-Code de l'action sociale et des familles L531-1 : le présent article n'est pas applicable à la collectivité territoriale de
-Saint-Pierre-et-Miquelon.
+Ordonnance 2005-1088 2005-09-01 art. 4 : les présentes dispositions entrent en vigueur à une date fixée par décret en Conseil
+d'Etat et au plus tard à l'expiration du délai de 6 mois suivant la publication de l'ordonnance n° 2005-1088.
 
 **Liens relatifs à cet article**
 
@@ -19539,6 +21147,11 @@ Saint-Pierre-et-Miquelon.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 59 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -19550,21 +21163,15 @@ Saint-Pierre-et-Miquelon.
 
 	**Anciens textes**:
 
-	  - Code de la famille et de l'aide sociale 201-2 al. 1 et 2
 	  - Code de la famille et de l'aide sociale. - art. 201-2 (Ab)
 
 
 ###### Article L351-3
 
-Les recours sont introduits devant la commission interrégionale de la tarification sanitaire et sociale par toute personne
+Les recours sont introduits devant le tribunal interrégional de la tarification sanitaire et sociale par toute personne
 physique ou morale intéressée, par les organismes de sécurité sociale, par le directeur de l'agence régionale de
 l'hospitalisation et par le représentant de l'Etat dans le département où a son siège l'établissement ou le service dont la
 tarification est contestée.
-
-**Nota:**
-
-Code de l'action sociale et des familles L531-1 : le présent article n'est pas applicable à la collectivité territoriale de
-Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
 
@@ -19573,38 +21180,42 @@ Saint-Pierre-et-Miquelon.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de la famille et de l'aide sociale 201-1 al. 1
-	  - Code de la famille et de l'aide sociale. - art. 201-1 (Ab)
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 59 () JORF 3 janvier 2002
 
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. R351-15 (V)
 
+	**Anciens textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 201-1 (Ab)
+
 
 ###### Article L351-4
 
-La Commission nationale de la tarification sanitaire et sociale est compétente pour statuer en appel des décisions des
-commissions interrégionales de la tarification sanitaire et sociale.
-
-**Nota:**
-
-Code de l'action sociale et des familles L531-1 : le présent article n'est pas applicable à la collectivité territoriale de
-Saint-Pierre-et-Miquelon.
+La Cour nationale de la tarification sanitaire et sociale est compétente pour statuer en appel des décisions des tribunaux
+interrégionaux de la tarification sanitaire et sociale.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°90-359 du 11 avril 1990 - art. 1 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 1 (Ab)
 	  - Code de la famille et de l'aide sociale. - art. 201-1 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 59 I C, D JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 59 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -19613,8 +21224,8 @@ Saint-Pierre-et-Miquelon.
 
 ###### Article L351-5
 
-La Commission nationale du contentieux de la tarification sanitaire et sociale est présidée par le président de la section
-sociale du Conseil d'Etat.
+La Cour nationale de la tarification sanitaire et sociale est présidée par le président de la section sociale du Conseil
+d'Etat.
 
 Elle comprend, en outre :
 
@@ -19641,14 +21252,14 @@ de la Caisse nationale d'assurance maladie des travailleurs salariés ;
 
 11° Un représentant de l'Union nationale interfédérale des oeuvres privées sanitaires et sociales.
 
-Les membres de la commission sont nommés par arrêté du ou des ministres chargés de la sécurité sociale, de la santé et de
-l'action sociale. Les directeurs peuvent se faire représenter par un fonctionnaire de leur administration désigné sur
-proposition du ministre compétent dans l'arrêté mentionné ci-dessus.
+Les membres de la cour sont nommés par arrêté du ou des ministres chargés de la sécurité sociale, de la santé et de l'action
+sociale. Les directeurs peuvent se faire représenter par un fonctionnaire de leur administration désigné sur proposition du
+ministre compétent dans l'arrêté mentionné ci-dessus.
 
 **Nota:**
 
-Code de l'action sociale et des familles L531-1 : le présent article n'est pas applicable à la collectivité territoriale de
-Saint-Pierre-et-Miquelon.
+Ordonnance 2005-1088 2005-09-01 art. 4 : les présentes dispositions entrent en vigueur à une date fixée par décret en Conseil
+d'Etat et au plus tard à l'expiration du délai de 6 mois suivant la publication de l'ordonnance n° 2005-1088.
 
 **Liens relatifs à cet article**
 
@@ -19657,12 +21268,17 @@ Saint-Pierre-et-Miquelon.
 	  - Décret n°90-359 du 11 avril 1990 - art. 2 (Ab)
 	  - Décret n°90-359 du 11 avril 1990 - art. 3 (Ab)
 	  - Décret n°90-359 du 11 avril 1990 - art. 4 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 2 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 59 I D, E JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 59 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -19679,14 +21295,9 @@ Saint-Pierre-et-Miquelon.
 
 ###### Article L351-6
 
-Les décisions de la commission interrégionale de la tarification sanitaire et sociale et de la Commission nationale fixant le
-montant des dotations globales, remboursements forfaitaires, prix de journée et autres tarifs, ont effet à compter de la date
-fixée dans la décision donnant lieu au litige.
-
-**Nota:**
-
-Code de l'action sociale et des familles L531-1 : le présent article n'est pas applicable à la collectivité territoriale de
-Saint-Pierre-et-Miquelon.
+Les décisions du tribunal interrégional de la tarification sanitaire et sociale et de la Cour nationale fixant le montant des
+dotations globales, remboursements forfaitaires, prix de journée et autres tarifs, ont effet à compter de la date fixée dans
+la décision donnant lieu au litige.
 
 **Liens relatifs à cet article**
 
@@ -19700,22 +21311,21 @@ Saint-Pierre-et-Miquelon.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 59 I D, F JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 59 () JORF 3 janvier 2002
+
 	**Anciens textes**:
 
-	  - Code de la famille et de l'aide sociale 201-1 al. 4
 	  - Code de la famille et de l'aide sociale. - art. 201-1 (Ab)
 
 
 ###### Article L351-7
 
-Sauf disposition contraire, les modalités d'application du présent chapitre sont déterminées par décret en Conseil d'Etat, et
-notamment, les règles de procédure applicables devant les juridictions de la tarification sanitaire et sociale, ainsi que les
-modalités de désignation des membres de la commission interrégionale.
-
-**Nota:**
-
-Code de l'action sociale et des familles L531-1 : le présent article n'est pas applicable à la collectivité territoriale de
-Saint-Pierre-et-Miquelon.
+Les articles L. 113-1 et L. 911-1 à L. 911-8 du code de justice administrative sont applicables par la Cour nationale de la
+tarification sanitaire et sociale et par les tribunaux interrégionaux de la tarification sanitaire et sociale.
 
 **Liens relatifs à cet article**
 
@@ -19728,11 +21338,39 @@ Saint-Pierre-et-Miquelon.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 59 () JORF 3 janvier 2002
+
+	**Cite**:
+
+	  - Code de justice administrative L113-1, L911-1 à L911-8
+	  - Code de justice administrative. - art. L113-1 (V)
+
 	**Anciens textes**:
 
-	  - Code de la famille et de l'aide sociale 201-1 al. 5, 201-2 al. 3
 	  - Code de la famille et de l'aide sociale. - art. 201-1 (Ab)
 	  - Code de la famille et de l'aide sociale. - art. 201-2 (Ab)
+
+
+###### Article L351-8
+
+Sauf disposition contraire, les modalités d'application du présent chapitre sont déterminées par décret en Conseil d'Etat,
+notamment les règles de procédure applicables devant les juridictions de la tarification sanitaire et sociale et les
+modalités de désignation des membres des tribunaux interrégionaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002 - art. 59 () JORF 3 janvier 2002
 
 
 ## Livre IV : Professions et activités d'accueil
@@ -23853,7 +25491,7 @@ remplacés par les mots suivants :
 
 - " représentant de l'Etat dans le département " par " haut-commissaire de la République en Polynésie française " ;
 
-- " président du conseil général " par " président de l'assemblée territoriale " ;
+- " président du conseil général " par " président du gouvernement " ;
 
 - " tribunal de grande instance " par " tribunal de première instance " ;
 
@@ -23865,6 +25503,14 @@ remplacés par les mots suivants :
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 85 5° JORF 3 janvier 2002
+
+	**Transféré par**:
+
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 10 () JORF 23 janvier 2002
 
 	**Cité par**:
 
@@ -23882,6 +25528,7 @@ remplacés par les mots suivants :
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L562-2 (M)
+	  - Code de l'action sociale et des familles - art. L562-2 (V)
 
 
 ###### Article L561-3
