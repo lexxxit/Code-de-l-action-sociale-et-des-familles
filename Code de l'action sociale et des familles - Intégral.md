@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2004-08-07
+Version Consolidée au 2004-08-11
 
 # Partie législative
 
@@ -1254,9 +1254,9 @@ Ces personnes peuvent bénéficier, sous conditions, de secours et aides prélev
 l'étranger du ministère des affaires étrangères, et d'autres mesures appropriées tenant compte de la situation économique et
 sociale du pays de résidence.
 
-Le Conseil supérieur des Français de l'étranger, la commission permanente pour la protection sociale des Français de
-l'étranger et, dans chaque pays considéré, le comité consulaire compétent sont consultés sur la politique d'aide sociale aux
-Français de l'étranger.
+L'Assemblée des Français de l'étranger, la commission permanente pour la protection sociale des Français de l'étranger et,
+dans chaque pays considéré, le comité consulaire compétent sont consultés sur la politique d'aide sociale aux Français de
+l'étranger.
 
 **Liens relatifs à cet article**
 
@@ -1265,9 +1265,9 @@ Français de l'étranger.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi - art. 119 () JORF 31 décembre 2003
+	  - Loi n°2004-805 du 9 août 2004 - art. 1 (V) JORF 11 août 2004
 
 
 ##### Section 4 : Organismes de sécurité sociale.
@@ -16922,7 +16922,7 @@ des établissements spécialisés ;
 
 6° Des personnes qualifiées ;
 
-7° Des représentants du conseil régional de santé.
+7° Des représentants du comité régional de l'organisation sanitaire.
 
 Lorsque le comité régional rend un avis sur un schéma départemental d'organisation sociale et médico-sociale dans les
 conditions prévues à l'article L. 312-5 ou sur une autorisation de fonctionnement délivrée par le président du conseil
@@ -16932,8 +16932,9 @@ l'établissement ou du service sont représentés lors de la délibération avec
 Les comités régionaux sont présidés par un magistrat du corps des conseillers des cours administratives d'appel et des
 tribunaux administratifs ou du corps des conseillers de chambres régionales des comptes.
 
-Les comités régionaux de l'organisation sociale et médico-sociale peuvent siéger conjointement avec les sections de
-l'organisation sanitaire des conseils régionaux de santé.
+Le comité régional de l'organisation sociale et médico-sociale et le comité régional de l'organisation sanitaire peuvent
+siéger en formation conjointe lorsque l'ordre du jour rend souhaitable un avis commun de ces deux instances et selon des
+modalités fixées par voie réglementaire.
 
 La composition et les modalités de fonctionnement des comités régionaux de l'organisation sociale et médico-sociale sont
 fixées par décret en Conseil d'Etat.
@@ -16951,7 +16952,8 @@ fixées par décret en Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2003-850 du 4 septembre 2003 - art. 26 () JORF 6 septembre 2003
+	  - Loi n°2004-806 2004-08-09 art. 4 IX, X JORF 11 août 2004
+	  - Loi n°2004-806 du 9 août 2004 - art. 4 () JORF 11 août 2004
 
 	**Cite**:
 
@@ -17109,10 +17111,10 @@ professionnelle et du conseil régional.
 Ces schémas sont intégrés au schéma régional précité.
 
 Les schémas à caractère national sont transmis pour information aux comités régionaux de l'organisation sociale et médico-
-sociale et aux conseils régionaux de santé.
+sociale et aux comités régionaux de l'organisation sanitaire.
 
-Les schémas départementaux et les schémas régionaux sont transmis pour information au conseil régional de santé et au comité
-régional de l'organisation sociale et médico-sociale.
+Les schémas départementaux et les schémas régionaux sont transmis pour information au comité régional de l'organisation
+sanitaire et au comité régional de l'organisation sociale et médico-sociale.
 
 **Liens relatifs à cet article**
 
@@ -17174,7 +17176,7 @@ régional de l'organisation sociale et médico-sociale.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2003-850 du 4 septembre 2003 - art. 29 () JORF 6 septembre 2003
+	  - Loi n°2004-806 du 9 août 2004 - art. 4 () JORF 11 août 2004
 
 
 ##### Section 4 : Coordination des interventions
@@ -18370,9 +18372,9 @@ pour une partie de leur capacité sont autorisés à dispenser des soins aux ass
 dès conclusion de la convention prévue au I.
 
 Pour les autres établissements mentionnés au I, régulièrement autorisés avant le 1er janvier 2001, un arrêté du ministre
-chargé des personnes âgées fixe les conditions dans lesquelles sera recueilli selon les cas, l'avis du conseil régional de
-santé ou celui du comité régional de l'organisation sociale et médico-sociale nécessaire à la délivrance de l'autorisation de
-dispenser des soins.
+chargé des personnes âgées fixe les conditions dans lesquelles sera recueilli selon les cas, l'avis du comité régional de
+l'organisation sanitaire ou celui du comité régional de l'organisation sociale et médico-sociale nécessaire à la délivrance
+de l'autorisation de dispenser des soins.
 
 V. - Le personnel des établissements publics mentionnés au I peut comprendre des médecins, des biologistes, des
 odontologistes et des pharmaciens visés par l'article L. 6152-1 du code de la santé publique. Les établissements privés
@@ -18587,7 +18589,7 @@ mentionnés au I peuvent faire appel à ces praticiens dans les conditions prév
 
 	**Modifié par**:
 
-	  - Loi n°2002-1487 du 20 décembre 2002 - art. 42 () JORF 24 décembre 2002
+	  - Loi n°2004-806 du 9 août 2004 - art. 4 () JORF 11 août 2004
 
 	**Cite**:
 
