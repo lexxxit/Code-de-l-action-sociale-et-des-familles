@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2004-07-01
+Version Consolidée au 2004-08-07
 
 # Partie législative
 
@@ -13941,20 +13941,15 @@ Les organismes payeurs transmettent à ceux-ci ainsi qu'aux présidents des cent
 organismes instructeurs concernés la liste des personnes percevant une allocation de revenu minimum d'insertion.
 
 Lorsqu'elles sont conservées sur support informatique, les informations mentionnées au présent article peuvent faire l'objet
-de transmission entre les organismes susmentionnés, dans les conditions prévues à l'article 15 de la loi n° 78-17 du 6
+de transmission entre les organismes susmentionnés, dans les conditions prévues au chapitre IV de la loi n° 78-17 du 6
 janvier 1978 relative à l'informatique, aux fichiers et aux libertés. Un décret fixe les modalités d'information des
 bénéficiaires qui font l'objet d'un contrôle défini dans le présent article.
-
-**Nota:**
-
-Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
-l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°78-17 du 6 janvier 1978 - art. 15 (M)
+	  - Loi n°78-17 1978-01-06
 	  - Code de l'action sociale et des familles - art. L262-14 (M)
 	  - Code de l'action sociale et des familles - art. L262-15 (M)
 	  - Code de l'action sociale et des familles - art. L262-30 (M)
@@ -13981,8 +13976,7 @@ l'entrée en vigueur à cette date des dispositions de la loi de finances mentio
 
 	**Modifié par**:
 
-	  - Loi n°2003-1200 du 18 décembre 2003 - art. 21 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
-	  - Loi n°2003-1200 du 18 décembre 2003 - art. 48 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+	  - Loi n°2004-801 du 6 août 2004 - art. 17 () JORF 7 août 2004
 
 
 ###### Article L262-34
@@ -14795,30 +14789,25 @@ Les départements, la Caisse nationale des allocations familiales, la Caisse cen
 autres organismes associés à la gestion du revenu minimum d'insertion ou du revenu minimum d'activité transmettent à
 l'autorité compétente de l'Etat, dans des conditions fixées par voie réglementaire, les informations relatives aux personnes
 physiques destinées, dans le respect des dispositions de l'article 7 bis de la loi n° 51-711 du 7 juin 1951 sur l'obligation,
-la coordination et le secret en matière de statistiques et des dispositions de l'article 15 de la loi n° 78-17 du 6 janvier
+la coordination et le secret en matière de statistiques et des dispositions du chapitre IV de la loi n° 78-17 du 6 janvier
 1978 relative à l'informatique, aux fichiers et aux libertés, à la constitution d'échantillons statistiquement représentatifs
 en vue de l'étude des situations et des parcours d'insertion des personnes physiques figurant dans ces échantillons.
-
-**Nota:**
-
-Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
-l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°51-711 1951-06-07 art. 7 bis
-	  - Loi n°78-17 du 6 janvier 1978 - art. 15 (M)
+	  - Loi n°78-17 1978-01-06
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-1200 du 18 décembre 2003 - art. 48 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+	  - Loi n°2004-801 du 6 août 2004 - art. 18 () JORF 7 août 2004
 
 
 ###### Article L262-52
@@ -25388,14 +25377,14 @@ l'allocation du revenu minimum d'insertion ainsi que les informations nécessair
 l'activité.
 
 Lorsqu'elles sont conservées sur support informatique, les informations mentionnées à l'alinéa précédent sont transmises dans
-les conditions prévues à l'article 15 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
+les conditions prévues au chapitre IV de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
 libertés.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°78-17 du 6 janvier 1978 - art. 15 (M)
+	  - Loi n°78-17 1978-01-06
 	  - Code du travail - art. L322-4-7 (M)
 	  - Code du travail - art. L322-4-8 (M)
 	  - Code du travail L322-4-7, L322-4-8, L322-4-10 à L322-4-14
@@ -25431,6 +25420,10 @@ libertés.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2004-801 du 6 août 2004 - art. 17 () JORF 7 août 2004
 
 
 ###### Article L522-9
