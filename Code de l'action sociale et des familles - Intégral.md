@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2002-01-18
+Version Consolidée au 2002-01-23
 
 # Partie législative
 
@@ -3392,6 +3392,492 @@ médicales.
 	  - Code de la santé publique - art. D1443-20 (M)
 
 
+#### Chapitre VII : Conseil national pour l'accès aux origines personnelles
+
+###### Article L147-1
+
+Un Conseil national, placé auprès du ministre chargé des affaires sociales, est chargé de faciliter, en liaison avec les
+départements et les collectivités d'outre-mer, l'accès aux origines personnelles dans les conditions prévues au présent
+chapitre. 
+
+Il assure l'information des départements, des collectivités d'outre-mer et des organismes autorisés et habilités pour
+l'adoption sur la procédure de recueil, de communication et de conservation des renseignements visés à l'article L. 147-5,
+ainsi que sur les dispositifs d'accueil et d'accompagnement des personnes à la recherche de leurs origines, des parents de
+naissance et des familles adoptives concernés par cette recherche ainsi que sur l'accueil et l'accompagnement des femmes
+demandant le bénéfice des dispositions de l'article L. 222-6. 
+
+Il émet des avis et formule toutes propositions utiles relatives à l'accès aux origines personnelles. Il est consulté sur les
+mesures législatives et réglementaires prises dans ce domaine. 
+
+Il est composé d'un magistrat de l'ordre judiciaire, d'un membre de la juridiction administrative, de représentants des
+ministres concernés, d'un représentant des conseils généraux, de trois représentants d'associations de défense des droits des
+femmes, d'un représentant d'associations de familles adoptives, d'un représentant d'associations de pupilles de l'Etat, d'un
+représentant d'associations de défense du droit à la connaissance de ses origines, et de deux personnalités que leurs
+expérience et compétence professionnelles médicales, paramédicales ou sociales qualifient particulièrement pour l'exercice de
+fonctions en son sein.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 1 () JORF 23 janvier 2002
+
+	**Cité par**:
+
+	  - Décret n°2002-781 du 3 mai 2002 - art. 10 (Ab)
+	  - Décret n°2002-781 du 3 mai 2002 - art. 12 (Ab)
+	  - Code de l'action sociale et des familles - art. L541-2 (V)
+	  - Code de l'action sociale et des familles - art. L551-1 (V)
+	  - Code de l'action sociale et des familles - art. L561-1 (V)
+	  - Code de l'action sociale et des familles - art. L571-1 (V)
+	  - Code de l'action sociale et des familles - art. R147-1 (V)
+	  - Code de l'action sociale et des familles - art. R147-10 (V)
+	  - Code de l'action sociale et des familles - art. R147-12 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L147-5 (V)
+	  - Code de l'action sociale et des familles - art. L222-6 (V)
+
+
+###### Article L147-2
+
+Le Conseil national pour l'accès aux origines personnelles reçoit :
+
+1° La demande d'accès à la connaissance des origines de l'enfant formulée :
+
+- s'il est majeur, par celui-ci ;
+
+- s'il est mineur, par son ou ses représentants légaux ou par lui-même avec l'accord de ceux-ci ;
+
+- s'il et majeur placé sous tutelle, par son tuteur ;
+
+- s'il est décédé, par ses descendants en ligne directe majeurs ;
+
+2° La déclaration de la mère ou, le cas échéant, du père de naissance par laquelle chacun d'entre eux autorise la levée du
+secret de sa propre identité ;
+
+3° Les déclarations d'identité formulées par leurs ascendants, leurs descendants et leurs collatéraux privilégiés ;
+
+4° La demande du père ou de la mère de naissance s'enquérant de leur recherche éventuelle par l'enfant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 1 () JORF 23 janvier 2002
+
+	**Cité par**:
+
+	  - Décret n°2002-781 du 3 mai 2002 - art. 22 (Ab)
+	  - Décret n°2003-671 du 21 juillet 2003 - art. 2 (Ab)
+	  - Décret n°2003-671 du 21 juillet 2003 - art. 4 (Ab)
+	  - Code de l'action sociale et des familles - art. L147-4 (VD)
+	  - Code de l'action sociale et des familles - art. L147-6 (V)
+	  - Code de l'action sociale et des familles - art. R147-13 (V)
+	  - Code de l'action sociale et des familles - art. R147-19 (VD)
+	  - Code de l'action sociale et des familles - art. R147-20 (VD)
+	  - Code de l'action sociale et des familles - art. R147-22 (V)
+	  - Code de l'action sociale et des familles - art. R147-26 (V)
+	  - Code de l'action sociale et des familles - art. R147-28 (V)
+
+
+###### Article L147-3
+
+La demande d'accès à la connaissance de ses origines est formulée par écrit auprès du Conseil national pour l'accès aux
+origines personnelles ou du président du conseil général ; elle peut être retirée à tout moment dans les mêmes formes.
+
+Le père ou la mère de naissance qui font une déclaration expresse de levée du secret ou les ascendants, descendants ou
+collatéraux privilégiés du père ou de la mère de naissance qui font une déclaration d'identité sont informés que cette
+déclaration ne sera communiquée à la personne concernée que si celle-ci fait elle-même une demande d'accès à ses origines.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 1 () JORF 23 janvier 2002
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L541-2 (M)
+	  - Code de l'action sociale et des familles - art. L561-1 (V)
+	  - Code de l'action sociale et des familles - art. L571-1 (V)
+	  - Code de l'action sociale et des familles - art. R147-13 (V)
+
+
+###### Article L147-4
+
+Le conseil communique au président du conseil général copie de l'ensemble des demandes et déclarations reçues en application
+de l'article L. 147-2.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 1 () JORF 23 janvier 2002
+
+	**Cité par**:
+
+	  - Décret n°2003-671 du 21 juillet 2003 - art. 4 (Ab)
+	  - Décret n°2003-671 du 21 juillet 2003 - art. 7 (Ab)
+	  - Code de l'action sociale et des familles - art. L224-7 (V)
+	  - Code de l'action sociale et des familles - art. L541-2 (M)
+	  - Code de l'action sociale et des familles - art. L561-1 (V)
+	  - Code de l'action sociale et des familles - art. L571-1 (V)
+	  - Code de l'action sociale et des familles - art. R147-28 (V)
+	  - Code de l'action sociale et des familles - art. R147-31 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L147-2 (V)
+
+
+###### Article L147-5
+
+Pour satisfaire aux demandes dont il est saisi, le conseil recueille copie des éléments relatifs à l'identité :
+
+1° De la femme qui a demandé le secret de son identité et de son admission lors de son accouchement dans un établissement de
+santé et, le cas échéant, de la personne qu'elle a désignée à cette occasion comme étant l'auteur de l'enfant ;
+
+2° De la ou des personnes qui ont demandé la préservation du secret de leur identité lors de l'admission de leur enfant comme
+pupille de l'Etat ou de son accueil par un organisme autorisé et habilité pour l'adoption ;
+
+3° Des auteurs de l'enfant dont le nom n'a pas été révélé à l'officier de l'état civil lors de l'établissement de l'acte de
+naissance.
+
+Les établissements de santé et les services départementaux ainsi que les organismes autorisés et habilités pour l'adoption
+communiquent au conseil national, sur sa demande, copie des éléments relatifs à l'identité des personnes mentionnées aux
+alinéas qui précèdent ainsi que tout renseignement ne portant pas atteinte au secret de cette identité, et concernant la
+santé des père et mère de naissance, les origines de l'enfant et les raisons et circonstances de sa remise au service de
+l'aide sociale à l'enfance ou à un organisme autorisé et habilité pour l'adoption.
+
+Pour satisfaire aux demandes dont il est saisi, le conseil recueille également, auprès de l'Autorité centrale pour
+l'adoption, de la mission de l'adoption internationale ou des organismes autorisés et habilités pour l'adoption, les
+renseignements qu'ils peuvent obtenir des autorités du pays d'origine de l'enfant en complément des informations reçues
+initialement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 1 () JORF 23 janvier 2002
+
+	**Cité par**:
+
+	  - Décret n°2003-671 du 21 juillet 2003 - art. 1 (Ab)
+	  - Décret n°2003-671 du 21 juillet 2003 - art. 2 (Ab)
+	  - Décret n°2003-671 du 21 juillet 2003 - art. 4 (Ab)
+	  - Décret n°2003-671 du 21 juillet 2003 - art. 7 (Ab)
+	  - Code de l'action sociale et des familles - art. L147-1 (V)
+	  - Code de l'action sociale et des familles - art. L147-11 (V)
+	  - Code de l'action sociale et des familles - art. L147-6 (V)
+	  - Code de l'action sociale et des familles - art. L561-1 (V)
+	  - Code de l'action sociale et des familles - art. L571-1 (V)
+	  - Code de l'action sociale et des familles - art. R147-25 (VD)
+	  - Code de l'action sociale et des familles - art. R147-26 (V)
+
+
+###### Article L147-6
+
+Le conseil communique aux personnes mentionnées au 1° de l'article L. 147-2, après s'être assuré qu'elles maintiennent leur
+demande, l'identité de la mère de naissance :
+
+- s'il dispose déjà d'une déclaration expresse de levée du secret de son identité ;
+
+- s'il n'y a pas eu de manifestation expresse de sa volonté de préserver le secret de son identité, après avoir vérifié sa
+volonté ;
+
+- si l'un de ses membres ou une personne mandatée par lui a pu recueillir son consentement exprès dans le respect de sa vie
+privée ;
+
+- si la mère est décédée, sous réserve qu'elle n'ait pas exprimé de volonté contraire à l'occasion d'une demande d'accès à la
+connaissance des origines de l'enfant. Dans ce cas, l'un des membres du conseil ou une personne mandatée par lui prévient la
+famille de la mère de naissance et lui propose un accompagnement. 
+
+Si la mère de naissance a expressément consenti à la levée du secret de son identité ou, en cas de décès de celle-ci, si elle
+ne s'est pas opposée à ce que son identité soit communiquée après sa mort, le conseil communique à l'enfant qui a fait une
+demande d'accès à ses origines personnelles l'identité des personnes visées au 3° de l'article L. 147-2. 
+
+Le conseil communique aux personnes mentionnées au 1° de l'article L. 147-2, après s'être assuré qu'elles maintiennent leur
+demande, l'identité du père de naissance :
+
+- s'il dispose déjà d'une déclaration expresse de levée du secret de son identité ;
+
+- s'il n'y a pas eu de manifestation expresse de sa volonté de préserver le secret de son identité, après avoir vérifié sa
+volonté ;
+
+- si l'un de ses membres ou une personne mandatée par lui a pu recueillir son consentement exprès dans le respect de sa vie
+privée ;
+
+- si le père est décédé, sous réserve qu'il n'ait pas exprimé de volonté contraire à l'occasion d'une demande d'accès à la
+connaissance des origines de l'enfant. Dans ce cas, l'un des membres du conseil ou une personne mandatée par lui prévient la
+famille du père de naissance et lui propose un accompagnement. 
+
+Si le père de naissance a expressément consenti à la levée du secret de son identité ou, en cas de décès de celui-ci, s'il ne
+s'est pas opposé à ce que son identité soit communiquée après sa mort, le conseil communique à l'enfant qui a fait une
+demande d'accès à ses origines personnelles l'identité des personnes visées au 3° de l'article L. 147-2. 
+
+Le conseil communique aux personnes mentionnées au 1° de l'article L. 147-2 les renseignements ne portant pas atteinte à
+l'identité des père et mère de naissance, transmis par les établissements de santé, les services départementaux et les
+organismes visés au cinquième alinéa de l'article L. 147-5 ou recueillis auprès des père et mère de naissance, dans le
+respect de leur vie privée, par un membre du conseil ou une personne mandatée par lui.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 1 () JORF 23 janvier 2002
+
+	**Cité par**:
+
+	  - Décret n°2003-671 du 21 juillet 2003 - art. 4 (Ab)
+	  - Décret n°2003-671 du 21 juillet 2003 - art. 7 (Ab)
+	  - Code de l'action sociale et des familles - art. L222-6 (V)
+	  - Code de l'action sociale et des familles - art. L543-14 (V)
+	  - Code de l'action sociale et des familles - art. L551-2 (V)
+	  - Code de l'action sociale et des familles - art. L561-2 (V)
+	  - Code de l'action sociale et des familles - art. L571-2 (V)
+	  - Code de l'action sociale et des familles - art. R147-28 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L147-2 (V)
+	  - Code de l'action sociale et des familles - art. L147-5 (V)
+
+
+###### Article L147-7
+
+L'accès d'une personne à ses origines est sans effet sur l'état civil et la filiation. Il ne fait naître ni droit ni
+obligation au profit ou à la charge de qui que ce soit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 1 () JORF 23 janvier 2002
+
+
+###### Article L147-8
+
+Le procureur de la République communique au conseil national, sur sa demande, les éléments figurant dans les actes de
+naissance d'origine, lorsque ceux-ci sont considérés comme nuls en application de l'article 354 du code civil. 
+
+Sous réserve des dispositions de l'article 6 de la loi n° 51-711 du 7 juin 1951 sur l'obligation, la coordination et le
+secret en matière de statistiques, les administrations ou services de l'Etat et des collectivités publiques, les organismes
+de sécurité sociale et les organismes qui assurent la gestion des prestations sociales sont tenus de réunir et de communiquer
+au conseil national les renseignements dont ils disposent permettant de déterminer les adresses de la mère et du père de
+naissance.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°51-711 du 7 juin 1951 - art. 6 (V)
+	  - Code civil - art. 354 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 1 () JORF 23 janvier 2002
+
+	**Cité par**:
+
+	  - Décret n°2003-671 du 21 juillet 2003 - art. 4 (Ab)
+	  - Décret n°2003-671 du 21 juillet 2003 - art. 7 (Ab)
+	  - Code de l'action sociale et des familles - art. L561-1 (V)
+	  - Code de l'action sociale et des familles - art. L571-1 (V)
+
+
+###### Article L147-9
+
+Lorsque, pour l'exercice de sa mission, le conseil national demande la consultation de documents d'archives publiques, les
+délais prévus au troisième alinéa de l'article 6 et à l'article 7 de la loi n° 79-18 du 3 janvier 1979 sur les archives ne
+lui sont pas opposables.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°79-18 du 3 janvier 1979 - art. 7 (Ab)
+	  - Code de l'action sociale et des familles 6
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 1 () JORF 23 janvier 2002
+
+
+###### Article L147-10
+
+Les personnes participant, à quelque titre que ce soit, aux travaux du conseil sont tenues au secret professionnel dans les
+conditions et sous les peines fixées par les articles 226-13 et 226-14 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 1 () JORF 23 janvier 2002
+
+	**Cite**:
+
+	  - Code pénal - art. 226-13 (V)
+
+
+###### Article L147-11
+
+Les modalités d'application du présent chapitre sont fixées par décret en Conseil d'Etat. Le décret relatif aux conditions
+dans lesquelles sont traités et conservés les informations relatives à l'identité des personnes et les renseignements ne
+portant pas atteinte au secret de l'identité, en application de l'article L. 147-5, est pris après avis de la Commission
+nationale de l'informatique et des libertés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 1 () JORF 23 janvier 2002
+
+	**Cité par**:
+
+	  - Décret n°2004-1136 du 21 octobre 2004 - art. 4 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L147-5 (V)
+
+
+#### Chapitre VIII : Conseil supérieur de l'adoption et Autorité centrale pour l'adoption internationale
+
+###### Article L148-1
+
+Il est créé, auprès du Premier ministre, un Conseil supérieur de l'adoption.
+
+Il est composé de parlementaires, de représentants de l'Etat, de représentants des conseil généraux, de magistrats, de
+représentants des organismes autorisés ou habilités pour l'adoption, de représentants des associations de familles adoptives,
+de personnes adoptées et de pupilles de l'Etat, d'un représentant du service social d'aide aux émigrants, d'un représentant
+de la mission pour l'adoption internationale, ainsi que de personnalités qualifiées.
+
+Il se réunit à la demande de son président, du garde des sceaux, ministre de la justice, du ministre chargé de la famille, du
+ministre des affaires étrangères ou de la majorité de ses membres, et au moins une fois par semestre.
+
+Le Conseil supérieur de l'adoption émet des avis et formule toutes propositions utiles relatives à l'adoption, y compris
+l'adoption internationale. Il est consulté sur les mesures législatives et réglementaires prises en ce domaine.
+
+Les modalités d'application du présent article sont fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 12 () JORF 23 janvier 2002
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D148-1 (M)
+	  - Code de l'action sociale et des familles - art. L541-4 (V)
+	  - Code de l'action sociale et des familles - art. R*148-8 (V)
+
+
+###### Article L148-2
+
+Il est institué auprès du Premier ministre une Autorité centrale pour l'adoption chargée d'orienter et de coordonner l'action
+des administrations et des autorités compétentes en matière d'adoption internationale.
+
+L'Autorité centrale pour l'adoption est composée de représentants de l'Etat et des conseils généraux ainsi que de
+représentants des organismes agréés pour l'adoption et des associations de familles adoptives, ces derniers ayant voix
+consultative.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 12 () JORF 23 janvier 2002
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°2002-1052 du 6 août 2002
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R*148-4 (V)
+
+
 ## Livre II : Différentes formes d'aide et d'action sociales
 
 ### Titre Ier : Famille
@@ -4789,17 +5275,30 @@ ressources ou d'un soutien familial suffisants.
 
 ###### Article L222-6
 
+Toute femme qui demande, lors de son accouchement, la préservation du secret de son admission et de son identité par un
+établissement de santé est informée des conséquences juridiques de cette demande et de l'importance pour toute personne de
+connaître ses origines et son histoire. Elle est donc invitée à laisser, si elle l'accepte, des renseignements sur sa santé
+et celle du père, les origines de l'enfant et les circonstances de la naissance ainsi que, sous pli fermé, son identité. Elle
+est informée de la possibilité qu'elle a de lever à tout moment le secret de son identité et, qu'à défaut, son identité ne
+pourra être communiquée que dans les conditions prévues à l'article L. 147-6. Elle est également informée qu'elle peut à tout
+moment donner son identité sous pli fermé ou compléter les renseignements qu'elle a donnés au moment de la naissance. Les
+prénoms donnés à l'enfant et, le cas échéant, mention du fait qu'ils l'ont été par la mère, ainsi que le sexe de l'enfant et
+la date, le lieu et l'heure de sa naissance sont mentionnés à l'extérieur de ce pli. Ces formalités sont accomplies par les
+personnes visées à l'article L. 223-7 avisées sous la responsabilité du directeur de l'établissement de santé. A défaut,
+elles sont accomplies sous la responsabilité de ce directeur. 
+
 Les frais d'hébergement et d'accouchement des femmes qui ont demandé, lors de leur admission dans un établissement public ou
 privé conventionné, à ce que le secret de leur identité soit préservé, sont pris en charge par le service de l'aide sociale à
-l'enfance du département siège de l'établissement.
+l'enfance du département siège de l'établissement. 
 
 Sur leur demande ou avec leur accord, les femmes mentionnées au premier alinéa bénéficient d'un accompagnement psychologique
-et social de la part du service de l'aide sociale à l'enfance.
+et social de la part du service de l'aide sociale à l'enfance. 
 
-Pour l'application du premier alinéa, aucune pièce d'identité n'est exigée et il n'est procédé à aucune enquête.
+Pour l'application des deux premiers alinéas, aucune pièce d'identité n'est exigée et il n'est procédé à aucune enquête. 
 
-Lorsque le nom du père ou de la mère de l'enfant figure dans l'acte de naissance établi dans le délai prévu par les articles
-55 et suivants du code civil, la prise en charge des frais d'hébergement et d'accouchement par le service n'est pas de droit.
+Les frais d'hébergement et d'accouchement dans un établissement public ou privé conventionné des femmes qui, sans demander le
+secret de leur identité, confient leur enfant en vue d'adoption sont également pris en charge par le service de l'aide
+sociale à l'enfance du département, siège de l'établissement.
 
 **Liens relatifs à cet article**
 
@@ -4807,6 +5306,10 @@ Lorsque le nom du père ou de la mère de l'enfant figure dans l'acte de naissan
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 2 () JORF 23 janvier 2002
 
 	**Cité par**:
 
@@ -4834,11 +5337,10 @@ Lorsque le nom du père ou de la mère de l'enfant figure dans l'acte de naissan
 
 	**Cite**:
 
-	  - Code civil - art. 55 (M)
+	  - Code de l'action sociale et des familles - art. L147-6 (V)
 
 	**Anciens textes**:
 
-	  - Code de la famille et de l'aide sociale. - art. 47 (M)
 	  - Code de la famille et de l'aide sociale. - art. 47 (Ab)
 
 
@@ -5086,7 +5588,22 @@ aux articles L. 226-3 et L. 226-4.
 
 ###### Article L223-7
 
-Un décret en Conseil d'Etat fixe les modalités d'application du présent chapitre.
+Pour l'application de l'article L. 222-6, dans chaque département, le président du conseil général désigne au sein de ses
+services au moins deux personnes chargées d'assurer les relations avec le Conseil national pour l'accès aux origines
+personnelles, d'organiser, dès que possible, la mise en oeuvre de l'accompagnement psychologique et social dont peut
+bénéficier la femme et de recevoir, lors de la naissance, le pli fermé mentionné au premier alinéa de l'article L. 222-6, de
+lui délivrer l'information prévue à l'article L. 224-5 et de recueillir les renseignements relatifs à la santé des père et
+mère de naissance, aux origines de l'enfant et aux raisons et circonstances de sa remise au service de l'aide sociale à
+l'enfance ou à l'organisme autorisé et habilité pour l'adoption. Elles s'assurent également de la mise en place d'un
+accompagnement psychologique de l'enfant. 
+
+Ces personnes devront suivre une formation initiale et continue leur permettant de remplir ces missions. Cette formation est
+assurée par le Conseil national pour l'accès aux origines personnelles qui, selon des modalités définies par décret, procède
+à un suivi régulier de ces personnes.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -5099,7 +5616,7 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent chapi
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2002-93 du 22 janvier 2002 - art. 3 () JORF 23 janvier 2002
 
@@ -5121,6 +5638,30 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent chapi
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L223-8 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L224-5 (V)
+
+
+###### Article L223-8
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 3 () JORF 23 janvier 2002
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. L223-7 (T)
 
 
 #### Chapitre IV : Pupilles de l'Etat
@@ -5320,27 +5861,20 @@ dudit code ;
 ###### Article L224-5
 
 Lorsqu'un enfant est recueilli par le service de l'aide sociale à l'enfance dans les cas mentionnés aux 1°, 2°, 3° et 4° de
-l'article L. 224-4, un procès-verbal est établi.
+l'article L. 224-4, un procès-verbal est établi. 
 
-Il doit être mentionné au procès-verbal que les père et mère, ou la personne qui a remis l'enfant, ont été informés :
+Il doit être mentionné au procès-verbal que les parents à l'égard de qui la filiation de l'enfant est établie, la mère ou le
+père de naissance de l'enfant ou la personne qui remet l'enfant ont été informés : 
 
 1° Des mesures instituées, notamment par l'Etat, les collectivités territoriales et les organismes de sécurité sociale pour
-aider les parents à élever eux-mêmes leurs enfants ;
+aider les parents à élever eux-mêmes leurs enfants ; 
 
-2° Des dispositions du régime de la tutelle des pupilles de l'Etat suivant le présent chapitre ;
+2° Des dispositions du régime de la tutelle des pupilles de l'Etat suivant le présent chapitre ; 
 
-3° Des délais et conditions suivant lesquels l'enfant pourra être repris par ses père ou mère ;
+3° Des délais et conditions suivant lesquels l'enfant pourra être repris par ses père ou mère ; 
 
-4° Sauf dans le cas mentionné au 4° de l'article L. 224-4, de la possibilité, lorsque l'enfant est âgé de moins d'un an, de
-demander le secret de leur identité ainsi que de donner des renseignements ne portant pas atteinte à ce secret. Ces
-renseignements sont recueillis dans des conditions précisées par décret en Conseil d'Etat après avis de la Commission
-nationale de l'informatique et des libertés.
-
-Lorsqu'il y a demande de secret conformément au 4° ci-dessus, celle-ci doit être formulée expressément et mentionnée au
-procès-verbal. Le procès-verbal doit également mentionner que le demandeur a été informé de la possibilité de faire connaître
-ultérieurement son identité et de ce que pourront seuls être informés de la levée du secret de cette identité ainsi que de
-l'identité elle-même, sur leur demande expresse, le représentant légal de l'enfant, l'enfant majeur ou les descendants en
-ligne directe majeurs de ce dernier s'il est décédé.
+4° De la possibilité de laisser tous renseignements concernant la santé des père et mère, les origines de l'enfant, les
+raisons et les circonstances de sa remise au service de l'aide sociale à l'enfance. 
 
 De plus, lorsque l'enfant est remis au service par ses père ou mère, selon les 2° ou 3° de l'article L. 224-4, ceux-ci
 doivent être invités à consentir à son adoption ; le consentement est porté sur le procès-verbal ; celui-ci doit également
@@ -5349,9 +5883,8 @@ selon les deuxième et troisième alinéas de l'article 348-3 du code civil.
 
 **Nota:**
 
-Code de l'action sociale et des familles L543-1, L551-1, L561-1, L571-1 : les dispositions du présent article sont
-applicables à Mayotte, dans le territoire des îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie sous
-réserve d'adaptations.
+Loi 2002-93 2002-01-22 art. 8 B, art. 9 B, art. 10 B, art. 11 B : les dispositions du présent article sont applicables à
+Mayotte, dans le territoire des îles Wallis-et-Futuna, en Polynésie française et en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
@@ -5359,6 +5892,10 @@ réserve d'adaptations.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 4 () JORF 23 janvier 2002
 
 	**Cité par**:
 
@@ -5376,12 +5913,10 @@ réserve d'adaptations.
 
 	**Cite**:
 
-	  - Code civil - art. 348-3 (M)
 	  - Code de l'action sociale et des familles - art. L224-4 (V)
 
 	**Anciens textes**:
 
-	  - Code de la famille et de l'aide sociale 62 al. 1 à 8
 	  - Code de la famille et de l'aide sociale. - art. 62 (Ab)
 
 
@@ -5425,25 +5960,22 @@ demandeurs peuvent saisir le tribunal de grande instance.
 
 ###### Article L224-7
 
-Les renseignements mentionnés au 4° de l'article L. 224-5 sont conservés sous la responsabilité du président du conseil
-général qui les tient à la disposition de l'enfant majeur, de son représentant légal, s'il est mineur, ou de ses descendants
-en ligne directe majeurs, s'il est décédé.
+Les renseignements et le pli fermé mentionnés à l'article L. 222-6, ainsi que l'identité des personnes qui ont levé le
+secret, sont conservés sous la responsabilité du président du conseil général qui les transmet au Conseil national pour
+l'accès aux origines personnelles, sur la demande de celui-ci. 
 
-Toutefois le mineur capable de discernement peut, après accord de son représentant légal, en obtenir communication avec
-l'assistance d'une personne habilitée à cet effet par le président du conseil général.
+Sont également conservées sous la responsabilité du président du conseil général les demandes et déclarations transmises par
+le Conseil national pour l'accès aux origines personnelles en application de l'article L. 147-4. 
 
-Les renseignements à caractère médical ne peuvent être communiqués à l'enfant majeur, à son représentant légal, s'il est
-mineur, ou à ses descendants en ligne directe majeurs, s'il est décédé, que par l'intermédiaire d'un médecin désigné par
-l'intéressé à cet effet.
-
-Si la ou les personnes qui ont demandé le secret de leur identité lèvent celui-ci, ladite identité est conservée sous la
-responsabilité du président du conseil général.
+Les renseignements concernant la santé des père et mère de naissance, les origines de l'enfant, les raisons et circonstances
+de sa remise au service de l'aide à l'enfance, ainsi que l'identité des père et mère de naissance, s'ils ont levé le secret
+de leur identité, sont tenus à la disposition de l'enfant majeur, de ses représentants légaux ou de lui-même avec l'accord de
+ceux-ci s'il est mineur, de son tuteur s'il est majeur placé sous tutelle, de ses descendants en ligne directe majeurs s'il
+est décédé.
 
 **Nota:**
 
-Code de l'action sociale et des familles L543-1, L551-1, L561-1, L571-1 : les dispositions du présent article sont
-applicables à Mayotte, dans le territoire des îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie sous
-réserve d'adaptations.
+
 
 **Liens relatifs à cet article**
 
@@ -5452,13 +5984,14 @@ réserve d'adaptations.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de la famille et de l'aide sociale. - art. 62-1 (Ab)
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 5 () JORF 23 janvier 2002
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L224-5 (M)
+	  - Code de l'action sociale et des familles - art. L147-4 (VT)
+	  - Code de l'action sociale et des familles - art. L222-6 (V)
 
 	**Cité par**:
 
@@ -5466,6 +5999,10 @@ réserve d'adaptations.
 	  - Code de l'action sociale et des familles - art. L552-3-1 (V)
 	  - Code de l'action sociale et des familles - art. L562-3-2 (V)
 	  - Code de l'action sociale et des familles - art. L572-3-1 (V)
+
+	**Anciens textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 62-1 (Ab)
 
 
 ###### Article L224-8
@@ -5980,6 +6517,57 @@ pupilles de l'Etat et le nombre d'adoptions et de placements en vue d'adoption l
 
 ##### Section 2 : Organismes autorisés et habilités pour l'adoption.
 
+###### Article L225-11
+
+Tout organisme, personne morale de droit privé, qui sert d'intermédiaire pour l'adoption ou le placement en vue d'adoption de
+mineurs de quinze ans, doit avoir obtenu une autorisation préalable d'exercer cette activité auprès du président du conseil
+général de chaque département dans lequel elle envisage de placer les mineurs concernés.
+
+Toutefois, l'organisme autorisé dans un département au minimum peut servir d'intermédiaire pour l'adoption ou le placement en
+vue de l'adoption de mineurs de quinze ans dans d'autres départements, sous réserve d'adresser préalablement une déclaration
+de fonctionnement au président de chaque conseil général concerné. Le président du conseil général peut à tout moment
+interdire dans son département l'activité de l'organisme si celui-ci ne présente pas de garanties suffisantes pour assurer la
+protection des enfants, de leurs parents ou des futurs adoptants.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 2 décembre 1998 - art. 3 (Ab)
+	  - Décret n°2002-575 du 18 avril 2002 - art. 16 (Ab)
+	  - Décret n°2002-575 du 18 avril 2002 - art. 17 (Ab)
+	  - Décret n°2002-575 du 18 avril 2002 - art. 2 (Ab)
+	  - Arrêté du 25 janvier 1967 - art. 2 (V)
+	  - Arrêté du 25 janvier 1967 - art. 3 (V)
+	  - Code de l'action sociale et des familles - art. L225-13 (VD)
+	  - Code de l'action sociale et des familles - art. L225-14 (V)
+	  - Code de l'action sociale et des familles - art. L225-16 (T)
+	  - Code de l'action sociale et des familles - art. L225-17 (T)
+	  - Code de l'action sociale et des familles - art. L225-18 (V)
+	  - Code de l'action sociale et des familles - art. L225-19 (V)
+	  - Code de l'action sociale et des familles - art. R225-15 (V)
+	  - Code de l'action sociale et des familles - art. R225-29 (VD)
+	  - Code de l'action sociale et des familles - art. R225-30 (VD)
+	  - Code de l'action sociale et des familles - art. R225-46 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 6 () JORF 23 janvier 2002
+
+	**Anciens textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 100-1 (Ab)
+
+
 ###### Article L225-12
 
 Les organismes autorisés doivent obtenir une habilitation du ministre chargé des affaires étrangères pour exercer leur
@@ -6059,6 +6647,65 @@ tous les départements où elles étaient autorisées à exercer leur activité 
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L225-11 (M)
+
+
+###### Article L225-14-1
+
+Les organismes autorisés et habilités pour l'adoption communiquent les dossiers individuels qu'ils détiennent aux intéressés
+qui leur en font la demande dans les conditions prévues par la loi n° 78-753 du 17 juillet 1978 portant diverses mesures
+d'amélioration des relations entre l'administration et le public et diverses dispositions d'ordre administratif, social et
+fiscal.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-753 1978-07-17
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 7 () JORF 23 janvier 2002
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L225-16 (V)
+
+
+###### Article L225-14-2
+
+Les dispositions de la loi n° 79-18 du 3 janvier 1979 relative aux archives s'appliquent aux archives des organismes
+autorisés et habilités pour l'adoption.
+
+Lorsqu'un organisme autorisé et habilité pour l'adoption cesse ses activités, les dossiers des enfants qui lui ont été remis
+sont transmis au président du conseil général et conservés sous sa responsabilité.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°79-18 1979-01-03
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 7 () JORF 23 janvier 2002
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L225-16 (V)
 
 
 ##### Section 3 : Adoption internationale.
@@ -24607,26 +25254,11 @@ législatives applicables à la collectivité de Saint-Pierre-et-Miquelon.
 
 ### Titre IV : Mayotte
 
-#### Chapitre Ier : Aide sociale.
+#### Chapitre Ier : Accès aux origines personnelles
 
 ###### Article L541-1
 
-Le conseil général de Mayotte peut décider de créer les prestations d'aide sociale suivantes :
-
-1° Les prestations à la famille mentionnées au chapitre II du titre IV du livre V ;
-
-2° L'aide et le placement pour les personnes âgées mentionnées au chapitre Ier du titre III du livre II ;
-
-3° Des aides aux personnes handicapées mentionnées au chapitre Ier du titre IV du livre II ;
-
-4° L'admission dans les centres d'aide par le travail mentionnée au chapitre IV du titre IV du livre III ;
-
-5° L'admission dans les centres d'hébergement et de réinsertion sociale mentionnée au chapitre V du titre IV du livre III.
-
-L'admission au bénéfice de ces prestations est prononcée par la commission d'admission prévue par l'article L. 541-3, selon
-les conditions d'attribution déterminées par le présent code et par le règlement territorial d'aide sociale.
-
-Toutefois, les prestations d'aide sociale à l'enfance sont attribuées par le représentant du Gouvernement.
+Les articles L. 147-1 à L. 147-11 sont applicables à Mayotte, sous réserve des adaptations prévues à l'article L. 541-2.
 
 **Liens relatifs à cet article**
 
@@ -24635,14 +25267,9 @@ Toutefois, les prestations d'aide sociale à l'enfance sont attribuées par le r
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Modifié par**:
 
-	  - Loi n°2002-93 2002-01-22 art. 8 A I,II JORF 23 janvier 2002
 	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
-
-	**Anciens textes**:
-
-	  - Code de la famille et de l'aide sociale. - art. 242 (Ab)
 
 	**Cité par**:
 
@@ -24652,18 +25279,29 @@ Toutefois, les prestations d'aide sociale à l'enfance sont attribuées par le r
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L541-3 (T)
+	  - Code de l'action sociale et des familles - art. L541-2 (T)
+	  - Code de l'action sociale et des familles L147-1 à L147-11, L541-2
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. L542-1 (T)
 	  - Code de l'action sociale et des familles - art. L542-1 (V)
+
+	**Anciens textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 242 (Ab)
 
 
 ###### Article L541-2
 
-Les dispositions de l'article L. 131-6 du premier alinéa de l'article L. 133-3 et des articles L. 132-1, L. 132-2 et L. 133-6
-sont applicables à Mayotte.
+Pour l'application à Mayotte de l'article L. 147-1, la référence :
+
+"L. 222-6" est remplacée par la référence : "L. 543-14".
+
+Pour l'application à Mayotte de l'article L. 147-3, les mots : "du président du conseil général" sont remplacés par les
+mots : "de l'organe exécutif de la collectivité départementale".
+
+Pour l'application à Mayotte de l'article L. 147-4, les mots : "au président du conseil général" sont remplacés par les
+mots : "à l'organe exécutif de la collectivité départementale".
 
 **Liens relatifs à cet article**
 
@@ -24672,22 +25310,15 @@ sont applicables à Mayotte.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Modifié par**:
 
-	  - Loi n°2002-93 2002-01-22 art. 8 A I, II JORF 23 janvier 2002
 	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
-
-	**Anciens textes**:
-
-	  - Code de la famille et de l'aide sociale. - art. 243 (Ab)
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L131-6 (Ab)
-	  - Code de l'action sociale et des familles - art. L132-1 (V)
-	  - Code de l'action sociale et des familles - art. L132-2 (V)
-	  - Code de l'action sociale et des familles - art. L133-3 (M)
-	  - Code de l'action sociale et des familles - art. L133-6 (T)
+	  - Code de l'action sociale et des familles - art. L147-1 (V)
+	  - Code de l'action sociale et des familles - art. L147-3 (V)
+	  - Code de l'action sociale et des familles - art. L147-4 (V)
 
 	**Cité par**:
 
@@ -24695,9 +25326,14 @@ sont applicables à Mayotte.
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. L542-2 (T)
 	  - Code de l'action sociale et des familles - art. L542-2 (V)
 
+	**Anciens textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 243 (Ab)
+
+
+#### Chapitre Ier : Aide sociale.
 
 ###### Article L541-3
 
@@ -24775,179 +25411,26 @@ activité ou à la retraite désignés par le représentant du Gouvernement.
 	  - Code de l'action sociale et des familles - art. L542-4 (V)
 
 
-###### Article L541-5
-
-Les dispositions de l'article L. 134-2 sont applicables aux décisions de la commission territoriale d'aide sociale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Transféré par**:
-
-	  - Loi n°2002-93 2002-01-22 art. 8 A I, II JORF 23 janvier 2002
-	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
-
-	**Anciens textes**:
-
-	  - Code de la famille et de l'aide sociale. - art. 246 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 245 (Ab)
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L134-2 (M)
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. L541-6 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L542-5 (T)
-	  - Code de l'action sociale et des familles - art. L542-5 (V)
-
-
-###### Article L541-6
-
-Les recours prévus aux articles L. 541-4 et L. 541-5 peuvent être formés par la personne qui a demandé le bénéfice de l'aide
-sociale, ses enfants ou ascendants, le maire de la commune où il réside, le président du conseil général et le représentant
-du Gouvernement.
-
-Le délai de recours est de deux mois à compter de la notification de la décision.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Transféré par**:
-
-	  - Loi n°2002-93 2002-01-22 art. 8 A I, II JORF 23 janvier 2002
-	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
-
-	**Anciens textes**:
-
-	  - Code de la famille et de l'aide sociale. - art. 247 (Ab)
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L541-4 (T)
-	  - Code de l'action sociale et des familles - art. L541-5 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L542-6 (T)
-	  - Code de l'action sociale et des familles - art. L542-6 (V)
-
-
-###### Article L541-7
-
-Toute personne appelée à intervenir dans l'instruction, l'attribution ou la révision des admissions au bénéfice de l'aide
-sociale est tenue au secret dans les conditions prévues par les articles 226-13 et 226-14 du code pénal et, en cas de
-manquement à cette obligation, passible des peines prévues à l'article 226-13.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Transféré par**:
-
-	  - Loi n°2002-93 2002-01-22 art. 8 A I, II JORF 23 janvier 2002
-	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
-
-	**Cite**:
-
-	  - Code pénal - art. 226-13 (M)
-	  - Code pénal - art. 226-14 (M)
-
-	**Anciens textes**:
-
-	  - Code de la famille et de l'aide sociale. - art. 248 (M)
-	  - Code de la famille et de l'aide sociale. - art. 248 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L542-7 (Ab)
-	  - Code de l'action sociale et des familles - art. L542-7 (T)
-
-
-###### Article L541-8
-
-Les ascendants, descendants et conjoints d'une personne qui sollicite l'aide sociale doivent déclarer leurs ressources et
-indiquer l'aide qu'ils peuvent apporter à cette personne.
-
-La commission d'admission instituée par l'article L. 541-3 fixe, en tenant compte du montant de leur contribution éventuelle,
-la proportion de l'aide consentie par la collectivité territoriale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Transféré par**:
-
-	  - Loi n°2002-93 2002-01-22 art. 8 A I, II JORF 23 janvier 2002
-	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
-
-	**Anciens textes**:
-
-	  - Code de la famille et de l'aide sociale. - art. 249 (Ab)
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L541-3 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L542-8 (Ab)
-	  - Code de l'action sociale et des familles - art. L542-8 (T)
-
-
-###### Article L541-9
-
-La collectivité territoriale est, dans la limite des prestations allouées, subrogée dans les droits de l'allocataire en ce
-qui concerne les créances pécuniaires de celui-ci contre toute personne physique ou morale en tant que ces créances ne sont
-ni incessibles ni insaisissables et que la subrogation a été signifiée au débiteur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Transféré par**:
-
-	  - Loi n°2002-93 2002-01-22 art. 8 A I, II JORF 23 janvier 2002
-	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
-
-	**Anciens textes**:
-
-	  - Code de la famille et de l'aide sociale. - art. 250 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L542-9 (Ab)
-	  - Code de l'action sociale et des familles - art. L542-9 (T)
-
-
-#### Chapitre II : Familles et aide sociale à l'enfance.
+#### Chapitre II : Aide sociale.
 
 ###### Article L542-1
 
-Une union territoriale des associations familiales peut être constituée par les associations ayant leur siège à Mayotte.
+Le conseil général de Mayotte peut décider de créer les prestations d'aide sociale suivantes :
 
-Les dispositions des articles L. 211-1 à L. 211-5, L. 211-7 à L. 211-12 et L. 211-14 du présent code lui sont applicables.
+1° Les prestations à la famille mentionnées au chapitre III du titre IV du livre V ;
+
+2° L'aide et le placement pour les personnes âgées mentionnées au chapitre Ier du titre III du livre II ;
+
+3° Des aides aux personnes handicapées mentionnées au chapitre Ier du titre IV du livre II ;
+
+4° L'admission dans les centres d'aide par le travail mentionnée au chapitre IV du titre IV du livre III ;
+
+5° L'admission dans les centres d'hébergement et de réinsertion sociale mentionnée au chapitre V du titre IV du livre III.
+
+L'admission au bénéfice de ces prestations est prononcée par la commission d'admission prévue par l'article L. 542-3, selon
+les conditions d'attribution déterminées par le présent code et par le règlement territorial d'aide sociale.
+
+Toutefois, les prestations d'aide sociale à l'enfance sont attribuées par le représentant du Gouvernement.
 
 **Liens relatifs à cet article**
 
@@ -24956,9 +25439,9 @@ Les dispositions des articles L. 211-1 à L. 211-5, L. 211-7 à L. 211-12 et L. 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Modifié par**:
 
-	  - Loi n°2002-93 2002-01-22 art. 8 A I, IV 1° JORF 23 janvier 2002
+	  - Loi n°2002-93 2002-01-22 art. 8 A I, II JORF 23 janvier 2002
 	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
 
 	**Cité par**:
@@ -24969,24 +25452,18 @@ Les dispositions des articles L. 211-1 à L. 211-5, L. 211-7 à L. 211-12 et L. 
 
 	**Anciens textes**:
 
-	  - Code de la famille et de l'aide sociale. - art. 230 (Ab)
 	  - Code de l'action sociale et des familles - art. L541-1 (T)
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L211-14 (V)
-	  - Code de l'action sociale et des familles L211-1 à L211-5, L211-7 à L211-12, L211-14
+	  - Code de la famille et de l'aide sociale. - art. 230 (Ab)
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. L543-1 (T)
 	  - Code de l'action sociale et des familles - art. L543-1 (V)
 
 
 ###### Article L542-2
 
-Le conseil général de Mayotte peut décider de créer un service d'aide sociale à l'enfance régi par les dispositions du
-présent chapitre.
+Les dispositions de l'article L. 131-6 du premier alinéa de l'article L. 133-3 et des articles L. 132-1, L. 132-2 et L. 133-6
+sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -24995,33 +25472,46 @@ présent chapitre.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Modifié par**:
 
-	  - Loi n°2002-93 2002-01-22 art. 8 A I, IV 1° JORF 23 janvier 2002
+	  - Loi n°2002-93 2002-01-22 art. 8 A I, II JORF 23 janvier 2002
 	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
 
 	**Cité par**:
 
 	  - Décret n°2014-1407 du 26 novembre 2014 - art. 4 (V)
 
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L131-6 (Ab)
+	  - Code de l'action sociale et des familles - art. L132-1 (V)
+	  - Code de l'action sociale et des familles - art. L132-2 (V)
+	  - Code de l'action sociale et des familles - art. L133-3 (M)
+	  - Code de l'action sociale et des familles - art. L133-6 (T)
+
 	**Anciens textes**:
 
-	  - Code de la famille et de l'aide sociale. - art. 231 (Ab)
 	  - Code de l'action sociale et des familles - art. L541-2 (T)
+	  - Code de la famille et de l'aide sociale. - art. 231 (Ab)
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. L543-2 (T)
 	  - Code de l'action sociale et des familles - art. L543-2 (V)
 
 
 ###### Article L542-3
 
-Le ou les titulaires de l'autorité parentale ayant à leur charge deux enfants, peuvent s'ils ne disposent pas de ressources
-suffisantes pour les élever, recevoir, au titre de leurs enfants à charge, l'aide sociale à la famille.
+La commission d'admission comprend, outre le représentant du Gouvernement ou son suppléant choisi par lui parmi les
+fonctionnaires de l'Etat, président, le conseiller général du canton dont fait partie la commune où la demande a été déposée
+ou un conseiller général suppléant désigné par le conseil général, le maire de la commune concernée ou un conseiller
+municipal de cette commune, suppléant désigné par le conseil municipal.
 
-Est assimilée aux titulaires de l'autorité parentale, la personne qui assume de manière principale la charge matérielle de
-l'enfant.
+En cas de partage égal des voix, celle du président est prépondérante.
+
+Peuvent être appelées à siéger avec voix consultative des personnes compétentes en matière d'aide sociale, désignées par le
+représentant du Gouvernement sur avis conforme du conseil général.
+
+Le demandeur, accompagné, le cas échéant, d'une personne de son choix, est entendu à sa demande par la commission.
 
 **Liens relatifs à cet article**
 
@@ -25030,9 +25520,9 @@ l'enfant.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Modifié par**:
 
-	  - Loi n°2002-93 2002-01-22 art. 8 A I, IV 1° JORF 23 janvier 2002
+	  - Loi n°2002-93 2002-01-22 art. 8 A I, II JORF 23 janvier 2002
 	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
 
 	**Cité par**:
@@ -25048,14 +25538,17 @@ l'enfant.
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. L543-3 (T)
 	  - Code de l'action sociale et des familles - art. L543-3 (V)
 
 
 ###### Article L542-4
 
-Les dispositions des articles L. 121-2, L. 221-1, L. 222-1 à L. 222-4, à l'exception du deuxième alinéa de l'article L. 221-1
-et du deuxième alinéa de l'article L. 222-4, L. 223-1, L. 223-2, L. 223-4 et L. 223-5 sont applicables à Mayotte.
+Un recours peut être formé devant une commission territoriale de l'aide sociale contre les décisions de la commission
+d'admission.
+
+La commission territoriale, présidée par le président du tribunal de première instance ou le magistrat désigné par lui pour
+le remplacer, comprend trois conseillers généraux désignés par le conseil général et trois fonctionnaires de l'Etat en
+activité ou à la retraite désignés par le représentant du Gouvernement.
 
 **Liens relatifs à cet article**
 
@@ -25064,9 +25557,9 @@ et du deuxième alinéa de l'article L. 222-4, L. 223-1, L. 223-2, L. 223-4 et L
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Modifié par**:
 
-	  - Loi n°2002-93 2002-01-22 art. 8 A I, IV 1° JORF 23 janvier 2002
+	  - Loi n°2002-93 2002-01-22 art. 8 A I, II JORF 23 janvier 2002
 	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
 
 	**Cité par**:
@@ -25078,29 +25571,17 @@ et du deuxième alinéa de l'article L. 222-4, L. 223-1, L. 223-2, L. 223-4 et L
 
 	**Anciens textes**:
 
-	  - Code de la famille et de l'aide sociale. - art. 232 (Ab)
 	  - Code de l'action sociale et des familles - art. L541-4 (T)
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L121-2 (M)
-	  - Code de l'action sociale et des familles - art. L221-1 (M)
-	  - Code de l'action sociale et des familles - art. L223-1 (M)
-	  - Code de l'action sociale et des familles - art. L223-2 (M)
-	  - Code de l'action sociale et des familles - art. L223-4 (V)
-	  - Code de l'action sociale et des familles - art. L223-5 (M)
-	  - Code de l'action sociale et des familles L121-2, L221-1, L222-1 à L222-4, L223-1, L223-2, L223-4, L223-5
+	  - Code de la famille et de l'aide sociale. - art. 232 (Ab)
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. L543-4 (M)
 	  - Code de l'action sociale et des familles - art. L543-4 (V)
 
 
 ###### Article L542-5
 
-Outre les missions dont il est chargé par l'article L. 221-1, le service de l'aide sociale à l'enfance peut entreprendre ou
-soutenir des actions d'éducation familiale, notamment dans les établissements scolaires publics et privés.
+Les dispositions de l'article L. 134-2 sont applicables aux décisions de la commission territoriale d'aide sociale.
 
 **Liens relatifs à cet article**
 
@@ -25109,19 +25590,14 @@ soutenir des actions d'éducation familiale, notamment dans les établissements 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Modifié par**:
 
-	  - Loi n°2002-93 2002-01-22 art. 8 A I, IV 1° JORF 23 janvier 2002
+	  - Loi n°2002-93 2002-01-22 art. 8 A I, II JORF 23 janvier 2002
 	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
-
-	**Anciens textes**:
-
-	  - Code de la famille et de l'aide sociale. - art. 233 (Ab)
-	  - Code de l'action sociale et des familles - art. L541-5 (T)
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L221-1 (M)
+	  - Code de l'action sociale et des familles - art. L134-2 (M)
 
 	**Cité par**:
 
@@ -25131,17 +25607,23 @@ soutenir des actions d'éducation familiale, notamment dans les établissements 
 	  - Code de l'action sociale et des familles - art. L542-6 (V)
 	  - Code de la santé publique - art. L1511-5 (VT)
 
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. L541-5 (T)
+	  - Code de la famille et de l'aide sociale. - art. 233 (Ab)
+
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L543-5 (M)
-	  - Code de l'action sociale et des familles - art. L543-5 (T)
 
 
 ###### Article L542-6
 
-Pour l'accomplissement de ses missions et sans préjudice de ses responsabilités vis-à-vis des enfants qui lui sont confiés,
-le service de l'aide sociale à l'enfance peut faire appel à des communes ou à des organismes publics ou privés agréés par le
-représentant de l'Etat dans la collectivité.
+Les recours prévus aux articles L. 542-4 et L. 542-5 peuvent être formés par la personne qui a demandé le bénéfice de l'aide
+sociale, ses enfants ou ascendants, le maire de la commune où il réside, le président du conseil général et le représentant
+du Gouvernement.
+
+Le délai de recours est de deux mois à compter de la notification de la décision.
 
 **Liens relatifs à cet article**
 
@@ -25150,9 +25632,9 @@ représentant de l'Etat dans la collectivité.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Modifié par**:
 
-	  - Loi n°2002-93 2002-01-22 art. 8 A I, IV 1° JORF 23 janvier 2002
+	  - Loi n°2002-93 2002-01-22 art. 8 A I, II JORF 23 janvier 2002
 	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
 
 	**Cité par**:
@@ -25167,8 +25649,13 @@ représentant de l'Etat dans la collectivité.
 
 	**Anciens textes**:
 
-	  - Code de la famille et de l'aide sociale. - art. 234 (Ab)
 	  - Code de l'action sociale et des familles - art. L541-6 (T)
+	  - Code de la famille et de l'aide sociale. - art. 234 (Ab)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L542-4 (T)
+	  - Code de l'action sociale et des familles - art. L542-5 (T)
 
 	**Nouveaux textes**:
 
@@ -25176,6 +25663,305 @@ représentant de l'Etat dans la collectivité.
 
 
 ###### Article L542-7
+
+Toute personne appelée à intervenir dans l'instruction, l'attribution ou la révision des admissions au bénéfice de l'aide
+sociale est tenue au secret dans les conditions prévues par les articles 226-13 et 226-14 du code pénal et, en cas de
+manquement à cette obligation, passible des peines prévues à l'article 226-13.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-93 2002-01-22 art. 8 A I, II JORF 23 janvier 2002
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance 2005-871 2005-07-28 art. 1 6° JORF 29 juillet 2005
+
+	**Cite**:
+
+	  - Code pénal - art. 226-13 (M)
+	  - Code pénal - art. 226-14 (M)
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. L541-7 (T)
+	  - Code de la famille et de l'aide sociale. - art. 235 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L543-7 (V)
+
+
+###### Article L542-8
+
+Les ascendants, descendants et conjoints d'une personne qui sollicite l'aide sociale doivent déclarer leurs ressources et
+indiquer l'aide qu'ils peuvent apporter à cette personne.
+
+La commission d'admission instituée par l'article L. 542-3 fixe, en tenant compte du montant de leur contribution éventuelle,
+la proportion de l'aide consentie par la collectivité territoriale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-93 2002-01-22 art. 8 A I, II JORF 23 janvier 2002
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. L541-8 (T)
+	  - Code de la famille et de l'aide sociale. - art. 236 (Ab)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L542-3 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L543-8 (Ab)
+
+
+###### Article L542-9
+
+La collectivité territoriale est, dans la limite des prestations allouées, subrogée dans les droits de l'allocataire en ce
+qui concerne les créances pécuniaires de celui-ci contre toute personne physique ou morale en tant que ces créances ne sont
+ni incessibles ni insaisissables et que la subrogation a été signifiée au débiteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-1249 du 21 décembre 2000
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-93 2002-01-22 art. 8 A I, II JORF 23 janvier 2002
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-785 du 31 mai 2012 - art. 3
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. L541-9 (T)
+	  - Code de la famille et de l'aide sociale. - art. 237 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L543-9 (V)
+
+
+#### Chapitre III : Familles et aide sociale à l'enfance.
+
+###### Article L543-1
+
+Une union territoriale des associations familiales peut être constituée par les associations ayant leur siège à Mayotte.
+
+Les dispositions des articles L. 211-1 à L. 211-5, L. 211-7 à L. 211-12 et L. 211-14 du présent code lui sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-93 2002-01-22 art. 8 A I, IV 1° JORF 23 janvier 2002
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L211-14 (V)
+	  - Code de l'action sociale et des familles L211-1 à L211-5, L211-7 à L211-12, L211-14
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. L542-1 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L544-1 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. R328-18 (V)
+
+
+###### Article L543-2
+
+Le conseil général de Mayotte peut décider de créer un service d'aide sociale à l'enfance régi par les dispositions du
+présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-93 2002-01-22 art. 8 A I, IV 1° JORF 23 janvier 2002
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. L542-2 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L544-2 (V)
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L122-48-1 (V)
+
+
+###### Article L543-3
+
+Le ou les titulaires de l'autorité parentale ayant à leur charge deux enfants, peuvent s'ils ne disposent pas de ressources
+suffisantes pour les élever, recevoir, au titre de leurs enfants à charge, l'aide sociale à la famille.
+
+Est assimilée aux titulaires de l'autorité parentale, la personne qui assume de manière principale la charge matérielle de
+l'enfant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-93 2002-01-22 art. 8 A I, IV 1° JORF 23 janvier 2002
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. L542-3 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L544-3 (V)
+
+
+###### Article L543-4
+
+Les dispositions des articles L. 121-2, L. 221-1, L. 222-1 à L. 222-4, à l'exception du deuxième alinéa de l'article L. 221-1
+et du deuxième alinéa de l'article L. 222-4, L. 223-1, L. 223-2, L. 223-4 et L. 223-5 sont applicables à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-93 2002-01-22 art. 8 A I, IV 1° JORF 23 janvier 2002
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L121-2 (M)
+	  - Code de l'action sociale et des familles - art. L221-1 (M)
+	  - Code de l'action sociale et des familles - art. L223-1 (M)
+	  - Code de l'action sociale et des familles - art. L223-2 (M)
+	  - Code de l'action sociale et des familles - art. L223-4 (V)
+	  - Code de l'action sociale et des familles - art. L223-5 (M)
+	  - Code de l'action sociale et des familles L121-2, L221-1, L222-1 à L222-4, L223-1, L223-2, L223-4, L223-5
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. L542-4 (T)
+
+
+###### Article L543-5
+
+Outre les missions dont il est chargé par l'article L. 221-1, le service de l'aide sociale à l'enfance peut entreprendre ou
+soutenir des actions d'éducation familiale, notamment dans les établissements scolaires publics et privés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-93 2002-01-22 art. 8 A I, IV 1° JORF 23 janvier 2002
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
+
+	**Transféré par**:
+
+	  - Ordonnance 2005-871 2005-07-28 art. 1 9° JORF 29 juillet 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L221-1 (M)
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. L542-5 (T)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L543-4 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L543-6 (Ab)
+	  - Code de l'action sociale et des familles - art. L543-6 (M)
+
+
+###### Article L543-6
+
+Pour l'accomplissement de ses missions et sans préjudice de ses responsabilités vis-à-vis des enfants qui lui sont confiés,
+le service de l'aide sociale à l'enfance peut faire appel à des communes ou à des organismes publics ou privés agréés par le
+représentant de l'Etat dans la collectivité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-93 2002-01-22 art. 8 A I, IV 1° JORF 23 janvier 2002
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance 2005-871 2005-07-28 art. 1 9° JORF 29 juillet 2005
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. L542-6 (T)
+	  - Code de l'action sociale et des familles - art. L543-5 (T)
+
+
+###### Article L543-7
 
 Le droit aux prestations d'aide sociale à l'enfance est ouvert à toute personne résidant à Mayotte, si elle remplit les
 conditions légales d'admission, telles qu'elles sont définies par le présent code et applicables à Mayotte.
@@ -25187,22 +25973,21 @@ conditions légales d'admission, telles qu'elles sont définies par le présent 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Loi n°2002-93 2002-01-22 art. 8 A I, IV 1° JORF 23 janvier 2002
 	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-785 du 31 mai 2012 - art. 3
+
 	**Anciens textes**:
 
-	  - Code de la famille et de l'aide sociale. - art. 235 (Ab)
-	  - Code de l'action sociale et des familles - art. L541-7 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L543-7 (V)
+	  - Code de l'action sociale et des familles - art. L542-7 (T)
 
 
-###### Article L542-8
+###### Article L543-8
 
 L'habilitation des organismes publics ou privés chargés de mettre en oeuvre les actions mentionnées au 2° de l'article L.
 121-2 est délivrée dans les conditions prévues par le règlement territorial de l'aide sociale.
@@ -25214,26 +25999,25 @@ L'habilitation des organismes publics ou privés chargés de mettre en oeuvre le
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Loi n°2002-93 2002-01-22 art. 8 A I, IV 1° JORF 23 janvier 2002
 	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Code de la famille et de l'aide sociale. - art. 236 (Ab)
-	  - Code de l'action sociale et des familles - art. L541-8 (T)
+	  - Ordonnance 2005-871 2005-07-28 art. 1 11° JORF 29 juillet 2005
 
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L121-2 (M)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de l'action sociale et des familles - art. L543-8 (Ab)
+	  - Code de l'action sociale et des familles - art. L542-8 (T)
 
 
-###### Article L542-9
+###### Article L543-9
 
 Sont pris en charge par le service de l'aide sociale à l'enfance, sur décision du représentant du Gouvernement :
 
@@ -25255,23 +26039,21 @@ ressources ou d'un soutien familial suffisants.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Loi n°2002-93 2002-01-22 art. 8 A I, IV 1° JORF 23 janvier 2002
 	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
 
 	**Anciens textes**:
 
-	  - Code de la famille et de l'aide sociale. - art. 237 (Ab)
-	  - Code de l'action sociale et des familles - art. L541-9 (T)
+	  - Code de l'action sociale et des familles - art. L542-9 (T)
 
-	**Nouveaux textes**:
+	**Cité par**:
 
-	  - Code de l'action sociale et des familles - art. L543-9 (M)
-	  - Code de l'action sociale et des familles - art. L543-9 (V)
+	  - Code de l'action sociale et des familles - art. L546-2 (Ab)
 
 
-###### Article L542-10
+###### Article L543-10
 
 Pour l'application des décisions judiciaires ordonnant le placement d'un mineur auprès du service de l'aide sociale à
 l'enfance, le représentant légal du mineur donne son avis par écrit préalablement au choix du mode et du lieu de placement et
@@ -25284,21 +26066,21 @@ l'enfance, le représentant légal du mineur donne son avis par écrit préalabl
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Loi n°2002-93 2002-01-22 art. 8 A I, IV 1° JORF 23 janvier 2002
 	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-785 du 31 mai 2012 - art. 3
+
 	**Anciens textes**:
 
-	  - Code de la famille et de l'aide sociale. - art. 238 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L543-10 (V)
+	  - Code de l'action sociale et des familles - art. L542-10 (T)
 
 
-###### Article L542-11
+###### Article L543-11
 
 Le conseil général de Mayotte détermine les moyens nécessaires à l'exécution des missions de ce service et à son
 organisation.
@@ -25313,22 +26095,17 @@ avec des personnes morales de droit privé agréées par le représentant du Gou
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Loi n°2002-93 2002-01-22 art. 8 A I, IV 1° JORF 23 janvier 2002
 	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
 
 	**Anciens textes**:
 
-	  - Code de la famille et de l'aide sociale. - art. 239 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L543-11 (M)
-	  - Code de l'action sociale et des familles - art. L543-11 (V)
+	  - Code de l'action sociale et des familles - art. L542-11 (T)
 
 
-###### Article L542-12
+###### Article L543-12
 
 Le père, la mère et les ascendants d'un enfant pris en charge par le service de l'aide sociale à l'enfance restent tenus
 envers lui à l'obligation d'entretien.
@@ -25344,21 +26121,21 @@ Gouvernement dans les conditions prévues par le règlement territorial d'aide s
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Loi n°2002-93 2002-01-22 art. 8 A I, IV 1° JORF 23 janvier 2002
 	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-785 du 31 mai 2012 - art. 3
+
 	**Anciens textes**:
 
-	  - Code de la famille et de l'aide sociale. - art. 240 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L543-12 (V)
+	  - Code de l'action sociale et des familles - art. L542-12 (T)
 
 
-###### Article L542-13
+###### Article L543-13
 
 Les prestations d'aide sociale à l'enfance sont à la charge de Mayotte.
 
@@ -25369,24 +26146,78 @@ Les prestations d'aide sociale à l'enfance sont à la charge de Mayotte.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Loi n°2002-93 2002-01-22 art. 8 A I, IV 1° JORF 23 janvier 2002
 	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-785 du 31 mai 2012 - art. 3
+
 	**Anciens textes**:
 
-	  - Code de la famille et de l'aide sociale. - art. 241 (T)
-	  - Code de la famille et de l'aide sociale. - art. 241 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L543-13 (V)
+	  - Code de l'action sociale et des familles - art. L542-13 (T)
 
 
-#### Chapitre III : Pupilles de l'Etat et procédures administratives en vue de l'adoption.
+###### Article L543-14
 
-###### Article L543-1
+Toute femme qui demande, lors de son accouchement, la préservation du secret de son admission et de son identité par un
+établissement de santé est informée des conséquences juridiques de cette demande et de l'importance pour toute personne de
+connaître ses origines et son histoire. Elle est donc invitée à laisser, si elle l'accepte, des renseignements sur sa santé
+et celle du père, les origines de l'enfant et les circonstances de la naissance ainsi que, sous pli fermé, son identité. Elle
+est informée de la possibilité qu'elle a de lever à tout moment le secret de son identité et, qu'à défaut, son identité ne
+pourra être communiquée que dans les conditions prévues à l'article L. 147-6. Elle est également informée qu'elle peut à tout
+moment donner son identité sous pli fermé ou compléter les renseignements qu'elle a donnés au moment de la naissance. Les
+prénoms donnés à l'enfant et, le cas échéant, mention du fait qu'ils l'ont été par la mère, ainsi que le sexe de l'enfant, la
+date, le lieu et l'heure de sa naissance sont mentionnés à l'extérieur de ce pli. Ces formalités sont accomplies par les
+personnes visées à l'alinéa suivant avisées sous la responsabilité du directeur de l'établissement de santé. A défaut, elles
+sont accomplies sous la responsabilité de ce directeur.
+
+L'organe exécutif de la collectivité départementale désigne au sein de ses services au moins deux personnes chargées
+d'assurer les relations avec le Conseil national pour l'accès aux origines personnelles, d'organiser, dès que possible, la
+mise en oeuvre de l'accompagnement psychologique et social dont peut bénéficier la femme et de recevoir, lors de la
+naissance, le pli fermé mentionné au premier alinéa, de lui délivrer l'information prévue à l'article L. 224-5 et de
+recueillir les renseignements relatifs à la santé des père et mère de naissance, aux origines de l'enfant et aux raisons et
+circonstances de sa remise au service de l'aide sociale à l'enfance ou à l'organisme autorisé et habilité pour l'adoption.
+Ces personnes s'assurent également de la mise en place d'un accompagnement psychologique de l'enfant. Elles sont tenues de
+suivre une formation initiale et continue leur permettant de remplir ces missions. Cette formation est assurée par le Conseil
+national pour l'accès aux origines personnelles qui procède à un suivi régulier de ces personnes.
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
+
+	**Cité par**:
+
+	  - Décret n°2002-781 du 3 mai 2002 - art. 26 (Ab)
+	  - Décret n°2003-671 du 21 juillet 2003 - art. 1 (Ab)
+	  - Décret n°2003-671 du 21 juillet 2003 - art. 2 (Ab)
+	  - Code de l'action sociale et des familles - art. R147-25 (VD)
+	  - Code de l'action sociale et des familles - art. R541-1 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-785 du 31 mai 2012 - art. 3
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L147-6 (V)
+	  - Code de l'action sociale et des familles - art. L224-5 (M)
+
+
+#### Chapitre IV : Pupilles de l'Etat et procédures administratives en vue de l'adoption.
+
+###### Article L544-1
 
 Les articles L. 224-1 à L. 224-9 et L. 225-1 à L. 225-7 sont applicables à Mayotte, sous réserve des adaptations prévues au
 présent chapitre.
@@ -25398,47 +26229,48 @@ présent chapitre.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2002-93 2002-01-22 art. 8 A I, V 1° JORF 23 janvier 2002
 	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
 
 	**Anciens textes**:
 
-	  - Code de l'action sociale et des familles - art. L542-1 (T)
+	  - Code de l'action sociale et des familles - art. L543-1 (T)
+	  - Code de la famille et de l'aide sociale. - art. 251 (Ab)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L544-2 (T)
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. L544-1 (T)
-	  - Code de l'action sociale et des familles - art. L544-1 (V)
+	  - Code de l'action sociale et des familles - art. L545-1 (V)
 
 	**Cite**:
 
 	  - Code de l'action sociale et des familles L224-1 à L224-9, L225-1 à L225-7
 
-	**Cité par**:
 
-	  - Code du travail applicable à Mayotte. - art. R328-18 (V)
-
-
-###### Article L543-2
+###### Article L544-2
 
 Pour l'application des dispositions du présent chapitre, les mots mentionnés ci-dessous sont respectivement remplacés par les
 mots suivants :
 
-- " représentant de l'Etat dans le département " par " représentant du Gouvernement " ;
+- "président du conseil général" par "préfet jusqu'au transfert de l'exécutif de la collectivité départementale au président
+du conseil général" ;
 
-- " département " par " collectivité territoriale de Mayotte " ;
+- "département" par "collectivité départementale de Mayotte" ;
 
-- " tribunal de grande instance " par " tribunal de première instance " ;
+- "tribunal de grande instance" par "tribunal de première instance" ;
 
-- " union départementale des associations familiales " par " union territoriale des associations familiales " ;
+- "union départementale des associations familiales" par "union territoriale des associations familiales" ;
 
-- " association départementale d'entraide " par " association territoriale d'entraide " ;
+- "association départementale d'entraide" par "association territoriale d'entraide" ;
 
-- " service départemental de protection maternelle et infantile " par " service de protection maternelle et infantile " ;
+- "service départemental de protection maternelle et infantile" par "service de protection maternelle et infantile" ;
 
-- " service départemental d'action sociale " par " service d'action sociale ".
+- "service départemental d'action sociale" par "service d'action sociale".
 
 **Liens relatifs à cet article**
 
@@ -25447,26 +26279,22 @@ mots suivants :
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Modifié par**:
 
-	  - Loi n°2002-93 2002-01-22 art. 8 A I, V 1° JORF 23 janvier 2002
+	  - Loi n°2002-93 2002-01-22 art. 8 A I, V 1°, 2° JORF 23 janvier 2002
 	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
 
 	**Anciens textes**:
 
-	  - Code de l'action sociale et des familles - art. L542-2 (T)
+	  - Code de l'action sociale et des familles - art. L543-2 (T)
+	  - Code de la famille et de l'aide sociale. - art. 252 (Ab)
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. L544-2 (T)
-	  - Code de l'action sociale et des familles - art. L544-2 (V)
-
-	**Cité par**:
-
-	  - Code du travail applicable à Mayotte. - art. L122-48-1 (V)
+	  - Code de l'action sociale et des familles - art. L545-2 (V)
 
 
-###### Article L543-3
+###### Article L544-3
 
 Lors de la constitution initiale du conseil de famille, le mandat des membres est pour la moitié de ceux-ci de trois ans et
 pour l'autre moitié de six ans.
@@ -25478,119 +26306,15 @@ pour l'autre moitié de six ans.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2002-93 2002-01-22 art. 8 A I, V 1° JORF 23 janvier 2002
 	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
 
 	**Anciens textes**:
 
-	  - Code de l'action sociale et des familles - art. L542-3 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L544-3 (T)
-	  - Code de l'action sociale et des familles - art. L544-3 (V)
-
-
-#### Chapitre IV : Dispositions communes.
-
-###### Article L544-1
-
-Le conseil général de Mayotte adopte, dans les conditions prévues par le présent code, le règlement territorial de l'aide
-sociale.
-
-Ce règlement détermine les moyens du service de l'aide sociale à l'enfance, les mesures de protection accordées aux mineurs
-et à leur famille, les prestations servies aux personnes âgées ou handicapées ainsi qu'aux personnes ou familles en
-difficulté sociale. Il fixe le montant de ces prestations et les modalités selon lesquelles elles sont attribuées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Transféré par**:
-
-	  - Loi n°2002-93 2002-01-22 art. 8 A I, VI 1° JORF 23 janvier 2002
-	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
-
-	**Anciens textes**:
-
-	  - Code de la famille et de l'aide sociale. - art. 251 (Ab)
-	  - Code de l'action sociale et des familles - art. L543-1 (T)
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. L544-2 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L545-1 (V)
-
-
-###### Article L544-2
-
-Mayotte est responsable des services d'aide sociale prévus par le présent code et du règlement des prestations mentionnées à
-l'article L. 544-1 et au règlement territorial d'aide sociale. Elle en assume la charge financière.
-
-Toutefois, les communes contribuent au financement de ces prestations. Leur contribution est portée au budget de la
-collectivité territoriale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Transféré par**:
-
-	  - Loi n°2002-93 2002-01-22 art. 8 A I, VI 1° JORF 23 janvier 2002
-	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
-
-	**Anciens textes**:
-
-	  - Code de la famille et de l'aide sociale. - art. 252 (Ab)
-	  - Code de l'action sociale et des familles - art. L543-2 (T)
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L544-1 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L545-2 (V)
-
-
-###### Article L544-3
-
-Les dépenses résultant de l'application des différentes formes d'aide sociale prévues par le présent code et par le règlement
-territorial de l'aide sociale ont un caractère obligatoire.
-
-Les critères de la répartition des dépenses d'aide sociale entre la collectivité territoriale et les communes sont déterminés
-par décret.
-
-Le montant annuel de la participation d'une commune ne peut excéder un pourcentage, fixé par décret, de la dotation globale
-de fonctionnement perçue par cette commune.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Transféré par**:
-
-	  - Loi n°2002-93 2002-01-22 art. 8 A I, VI 1° JORF 23 janvier 2002
-	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
-
-	**Anciens textes**:
-
-	  - Code de la famille et de l'aide sociale. - art. 253 (Ab)
 	  - Code de l'action sociale et des familles - art. L543-3 (T)
+	  - Code de la famille et de l'aide sociale. - art. 253 (Ab)
 
 	**Nouveaux textes**:
 
@@ -25599,8 +26323,9 @@ de fonctionnement perçue par cette commune.
 
 ###### Article L544-4
 
-L'Etat peut apporter son concours financier à Mayotte pour participer au développement de la protection sociale. Une
-convention conclue entre l'Etat et la collectivité territoriale en détermine les modalités.
+Pour l'application à Mayotte de l'article L. 224-7, la référence :
+
+"L. 222-6" est remplacée par la référence : "L. 543-14".
 
 **Liens relatifs à cet article**
 
@@ -25609,19 +26334,25 @@ convention conclue entre l'Etat et la collectivité territoriale en détermine l
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Modifié par**:
 
-	  - Loi n°2002-93 2002-01-22 art. 8 A I, VI 1° JORF 23 janvier 2002
+	  - Loi n°2002-93 2002-01-22 art. 8 A I, V 3° JORF 23 janvier 2002
 	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code de la famille et de l'aide sociale. - art. 254 (Ab)
+	  - Code de l'action sociale et des familles - art. L224-7 (M)
 
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L545-4 (V)
 
+	**Anciens textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 254 (Ab)
+
+
+#### Chapitre IV : Dispositions communes.
 
 ###### Article L544-5
 
@@ -25661,14 +26392,16 @@ remplacés par les mots suivants :
 	  - Code de l'action sociale et des familles - art. L545-5 (V)
 
 
-### Titre V : Territoire des îles Wallis et Futuna
+#### Chapitre V : Dispositions communes.
 
-#### Chapitre unique : Statut des pupilles de l'Etat.
+###### Article L545-1
 
-###### Article L551-1
+Le conseil général de Mayotte adopte, dans les conditions prévues par le présent code, le règlement territorial de l'aide
+sociale.
 
-Les articles L. 224-1 à L. 224-9 et L. 225-1 à L. 225-7 sont applicables dans le territoire des îles Wallis et Futuna, sous
-réserve des adaptations prévues au présent chapitre.
+Ce règlement détermine les moyens du service de l'aide sociale à l'enfance, les mesures de protection accordées aux mineurs
+et à leur famille, les prestations servies aux personnes âgées ou handicapées ainsi qu'aux personnes ou familles en
+difficulté sociale. Il fixe le montant de ces prestations et les modalités selon lesquelles elles sont attribuées.
 
 **Liens relatifs à cet article**
 
@@ -25677,7 +26410,226 @@ réserve des adaptations prévues au présent chapitre.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Créé par**:
+
+	  - Loi n°2002-93 2002-01-22 art. 8 A I, VI 1° JORF 23 janvier 2002
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
+
 	**Transféré par**:
+
+	  - Ordonnance n°2008-859 du 28 août 2008 - art. 2
+
+	**Cité par**:
+
+	  - Ordonnance n°2012-785 du 31 mai 2012 - art. 10 (VD)
+	  - Code de l'action sociale et des familles - art. D545-1 (P)
+	  - Code de l'action sociale et des familles - art. L545-2 (VT)
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. L544-1 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L548-1 (VD)
+
+
+###### Article L545-2
+
+Mayotte est responsable des services d'aide sociale prévus par le présent code et du règlement des prestations mentionnées à
+l'article L. 545-1 et au règlement territorial d'aide sociale. Elle en assume la charge financière. 
+
+Toutefois, les communes contribuent au financement de ces prestations. Leur contribution est portée au budget de la
+collectivité territoriale.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°96-1122 du 20 décembre 1996 - art. 20-1 (VD)
+	  - Ordonnance n°2002-149 du 7 février 2002 - art. 10-1 (V)
+	  - Décret n°2003-576 du 27 juin 2003 - art. 1 (VD)
+	  - Décret n°2003-576 du 27 juin 2003 - art. 5 (VD)
+	  - Ordonnance n°2008-859 du 28 août 2008 - art. 12 (V)
+	  - Ordonnance n°2012-785 du 31 mai 2012 - art. 10 (VD)
+	  - Code de l'action sociale et des familles - art. R545-5 (Ab)
+	  - Code du travail applicable à Mayotte. - art. D328-4 (V)
+	  - Code du travail applicable à Mayotte. - art. L322-55 (V)
+	  - Code du travail applicable à Mayotte. - art. L328-13 (VD)
+	  - Code du travail applicable à Mayotte. - art. L328-14 (VD)
+	  - Code du travail applicable à Mayotte. - art. L328-18 (VD)
+	  - Code du travail applicable à Mayotte. - art. L328-2 (VD)
+	  - Code du travail applicable à Mayotte. - art. L328-23 (V)
+	  - Code du travail applicable à Mayotte. - art. L328-33 (V)
+	  - Code du travail applicable à Mayotte. - art. L328-40 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-93 2002-01-22 art. 8 A I, VI 1°, 2° JORF 23 janvier 2002
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2008-859 du 28 août 2008 - art. 2
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. L544-2 (T)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L545-1 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L548-2 (VD)
+
+
+###### Article L545-3
+
+Les dépenses résultant de l'application des différentes formes d'aide sociale prévues par le présent code et par le règlement
+territorial de l'aide sociale ont un caractère obligatoire.
+
+Les critères de la répartition des dépenses d'aide sociale entre la collectivité territoriale et les communes sont déterminés
+par décret.
+
+Le montant annuel de la participation d'une commune ne peut excéder un pourcentage, fixé par décret, de la dotation globale
+de fonctionnement perçue par cette commune.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°91-1369 du 30 décembre 1991 - art. 7-3 (V)
+	  - Code de l'action sociale et des familles - art. L545-2 (VD)
+	  - Code du travail applicable à Mayotte. - art. L328-18 (V)
+	  - Code du travail applicable à Mayotte. - art. L328-2 (VD)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-93 2002-01-22 art. 8 A I, VI 1° JORF 23 janvier 2002
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2008-859 du 28 août 2008 - art. 2
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. L544-3 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L548-3 (VD)
+
+
+###### Article L545-4
+
+L'Etat peut apporter son concours financier à Mayotte pour participer au développement de la protection sociale. Une
+convention conclue entre l'Etat et la collectivité territoriale en détermine les modalités.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-93 2002-01-22 art. 8 A I, VI 1° JORF 23 janvier 2002
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2008-859 du 28 août 2008 - art. 2
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. L544-4 (T)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L545-2 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L548-4 (VD)
+
+
+###### Article L545-5
+
+Pour l'application des dispositions des autres livres du présent code, les mots énumérés ci-dessous sont respectivement
+remplacés par les mots suivants :
+
+- "département" par "collectivité départementale" ;
+
+- "président du conseil général" par "préfet jusqu'au transfert de l'exécutif de la collectivité départementale au président
+du conseil général".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-93 2002-01-22 art. 8 A I, VI 1°, 3° JORF 23 janvier 2002
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. L544-5 (T)
+
+
+### Titre V : Territoire des îles Wallis et Futuna
+
+#### Chapitre Ier : Accès aux origines personnelles
+
+###### Article L551-1
+
+Les articles L. 147-1 à L. 147-11 sont applicables dans le territoire des îles Wallis-et-Futuna sous réserve des adaptations
+suivantes :
+
+- à l'article L. 147-1, la référence : "L. 222-6" est remplacée par la référence "L. 551-2" ;
+
+- à l'article L. 147-3, les mots : "du président du conseil général" sont remplacés par les mots : "de l'administrateur
+supérieur des îles Wallis-et-Futuna" ;
+
+- à l'article L. 147-4, les mots : "au président du conseil général" sont remplacés par les mots : "à l'administrateur
+supérieur des îles Wallis-et-Futuna" ;
+
+- le second alinéa de l'article L. 147-8 est ainsi rédigé :
+
+"Sous réserve des dispositions de l'article 6 de la loi n° 51-711 du 7 juin 1951 sur l'obligation, la coordination et le
+secret en matière de statistiques, les administrations ou services de l'Etat sont tenus de réunir et de communiquer au
+Conseil national les renseignements dont ils disposent permettant de déterminer les adresses de la mère et du père de
+naissance."
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
 
 	  - Loi n°2002-93 du 22 janvier 2002 - art. 9 () JORF 23 janvier 2002
 
@@ -25691,12 +26643,96 @@ réserve des adaptations prévues au présent chapitre.
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles L224-1 à L224-9, L225-1 à L225-7
+	  - Code de l'action sociale et des familles L147-1 à L147-11
 
 
 ###### Article L551-2
 
-Pour l'application des dispositions prévues à l'article L. 551-1, les mots mentionnés ci-dessous sont respectivement
+Toute femme qui demande, lors de son accouchement, la préservation du secret de son admission et de son identité par un
+établissement de santé est informée des conséquences juridiques de cette demande et de l'importance pour toute personne de
+connaître ses origines et son histoire. Elle est donc invitée à laisser, si elle l'accepte, des renseignements sur sa santé
+et celle du père, les origines de l'enfant et les circonstances de la naissance ainsi que, sous pli fermé, son identité. Elle
+est informée de la possibilité qu'elle a de lever à tout moment le secret de son identité et, qu'à défaut, son identité ne
+pourra être communiquée que dans les conditions prévues à l'article L. 147-6. Elle est également informée qu'elle peut à tout
+moment donner son identité sous pli fermé ou compléter les renseignements qu'elle a donnés au moment de la naissance. Les
+prénoms donnés à l'enfant et, le cas échéant, mention du fait qu'ils l'ont été par la mère, ainsi que le sexe de l'enfant, la
+date, le lieu et l'heure de sa naissance sont mentionnés à l'extérieur de ce pli. Ces formalités sont accomplies par les
+personnes visées à l'alinéa suivant avisées sous la responsabilité du directeur de l'établissement de santé. A défaut, elles
+sont accomplies sous la responsabilité de ce directeur. 
+
+L'administrateur supérieur des îles Wallis-et-Futuna désigne au sein de ses services au moins deux personnes chargées
+d'assurer les relations avec le Conseil national pour l'accès aux origines personnelles, d'organiser, dès que possible, la
+mise en oeuvre de l'accompagnement psychologique et social dont peut bénéficier la femme et de recevoir, lors de la
+naissance, le pli fermé mentionné au premier alinéa, de lui délivrer l'information prévue à l'article L. 224-5 et de
+recueillir les renseignements relatifs à la santé des père et mère de naissance, aux origines de l'enfant et aux raisons et
+circonstances de sa remise au service de l'aide sociale à l'enfance ou à l'organisme autorisé et habilité pour l'adoption.
+Ces personnes s'assurent également de la mise en place d'un accompagnement psychologique de l'enfant. Elles sont tenues de
+suivre une formation initiale et continue leur permettant de remplir ces missions. Cette formation est assurée par le Conseil
+national pour l'accès aux origines personnelles qui procède à un suivi régulier de ces personnes. 
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 9 () JORF 23 janvier 2002
+
+	**Cité par**:
+
+	  - Décret n°2002-781 du 3 mai 2002 - art. 27 (Ab)
+	  - Décret n°2003-671 du 21 juillet 2003 - art. 1 (Ab)
+	  - Décret n°2003-671 du 21 juillet 2003 - art. 2 (Ab)
+	  - Code de l'action sociale et des familles - art. R147-25 (VD)
+	  - Code de l'action sociale et des familles - art. R147-26 (V)
+	  - Code de l'action sociale et des familles - art. R551-1 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L147-6 (V)
+	  - Code de l'action sociale et des familles - art. L224-5 (V)
+
+
+#### Chapitre II : Statut des pupilles de l'Etat.
+
+###### Article L552-1
+
+Les articles L. 224-1 à L. 224-9 et L. 225-1 à L. 225-7 sont applicables dans le territoire des îles Wallis et Futuna, sous
+réserve des adaptations prévues au présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 9 () JORF 23 janvier 2002
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L224-1 (V)
+	  - Code de l'action sociale et des familles - art. L225-1 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. L551-1 (T)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L552-2 (VD)
+
+
+###### Article L552-2
+
+Pour l'application des dispositions prévues à l'article L. 552-1, les mots mentionnés ci-dessous sont respectivement
 remplacés par les mots suivants :
 
 - " représentant de l'Etat dans le département " par " administrateur supérieur des îles Wallis et Futuna " ;
@@ -25713,36 +26749,47 @@ remplacés par les mots suivants :
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Loi n°2002-93 du 22 janvier 2002 - art. 9 () JORF 23 janvier 2002
 
-	**Cité par**:
+	**Anciens textes**:
 
-	  - Décret n°2002-781 du 3 mai 2002 - art. 27 (Ab)
-	  - Décret n°2003-671 du 21 juillet 2003 - art. 1 (Ab)
-	  - Décret n°2003-671 du 21 juillet 2003 - art. 2 (Ab)
-	  - Code de l'action sociale et des familles - art. R147-25 (VD)
-	  - Code de l'action sociale et des familles - art. R147-26 (V)
-	  - Code de l'action sociale et des familles - art. R551-1 (V)
+	  - Code de l'action sociale et des familles - art. L551-2 (T)
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L551-1 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L552-2 (V)
+	  - Code de l'action sociale et des familles - art. L552-1 (V)
 
 
-###### Article L551-3
+###### Article L552-2-1
 
-Pour son application dans le territoire des îles Wallis et Futuna, l'article L. 224-2 est ainsi rédigé :
+Pour l'application dans le territoire des îles Wallis-et-Futuna de l'article L. 224-1, les mots : "dans les conditions
+prévues à l'article L. 223-4" sont remplacés par les mots : "par le service de l'aide sociale à l'enfance".
 
-" Art. L. 224-2. - Chaque conseil de famille comprend :
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 9 () JORF 23 janvier 2002
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L224-1 (V)
+
+
+###### Article L552-3
+
+Pour son application dans le territoire des îles Wallis et Futuna, l'article L. 224-2 est ainsi rédigé : 
+
+" Art. L. 224-2.-Chaque conseil de famille comprend :
 
 - des représentants de l'assemblée territoriale désignés par cette assemblée sur proposition de son président ;
 
@@ -25750,16 +26797,16 @@ Pour son application dans le territoire des îles Wallis et Futuna, l'article L.
 
 - des représentants des pupilles de l'Etat choisis par l'administrateur supérieur des îles Wallis et Futuna ;
 
-- des personnalités qualifiées désignées par l'administrateur supérieur des îles Wallis et Futuna.
+- des personnalités qualifiées désignées par l'administrateur supérieur des îles Wallis et Futuna. 
 
 L'administrateur supérieur des îles Wallis et Futuna désigne en l'absence de pupilles de l'Etat toute personne disposant des
-qualités requises pour assurer la représentation des pupilles.
+qualités requises pour assurer la représentation des pupilles. 
 
 Le conseil de famille est renouvelé par moitié. Le mandat de ses membres est de six ans. Il est renouvelable une fois. Ses
-membres assurant la représentation d'associations peuvent se faire remplacer par leur suppléant.
+membres assurant la représentation d'associations peuvent se faire remplacer par leur suppléant. 
 
 Les membres du conseil de famille sont tenus au secret professionnel selon les prescriptions des articles 226-13 et 226-14 du
-code pénal.
+code pénal. 
 
 La composition et les règles de fonctionnement du ou des conseils de famille institués dans le territoire des îles Wallis et
 Futuna sont fixées par voie réglementaire. "
@@ -25771,22 +26818,45 @@ Futuna sont fixées par voie réglementaire. "
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Créé par**:
+
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 9 () JORF 23 janvier 2002
+
+	**Cité par**:
+
+	  - Ordonnance n°2012-785 du 31 mai 2012 - art. 8 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L224-2 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. L551-3 (T)
+
+
+###### Article L552-3-1
+
+Pour l'application dans le territoire des îles Wallis-et-Futuna de l'article L. 224-7, la référence : " L. 222-6 " est
+remplacée par la référence : " L. 551-2 ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
 
 	  - Loi n°2002-93 du 22 janvier 2002 - art. 9 () JORF 23 janvier 2002
 
 	**Cite**:
 
-	  - Code pénal - art. 226-13 (M)
-	  - Code pénal - art. 226-14 (M)
-	  - Code de l'action sociale et des familles - art. L224-2 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L552-3 (V)
+	  - Code de l'action sociale et des familles - art. L224-7 (V)
 
 
-###### Article L551-4
+###### Article L552-4
 
 Lors de la constitution initiale du conseil de famille, le mandat des membres est pour la moitié de ceux-ci de trois ans et
 pour l'autre moitié de six ans.
@@ -25798,16 +26868,16 @@ pour l'autre moitié de six ans.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Loi n°2002-93 du 22 janvier 2002 - art. 9 () JORF 23 janvier 2002
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de l'action sociale et des familles - art. L552-4 (V)
+	  - Code de l'action sociale et des familles - art. L551-4 (T)
 
 
-###### Article L551-5
+###### Article L552-5
 
 Pour son application dans le territoire des îles Wallis et Futuna, l'article L. 225-3 est ainsi rédigé :
 
@@ -25834,61 +26904,46 @@ relations entre l'administration et le public et diverses dispositions d'ordre a
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Loi n°2002-93 du 22 janvier 2002 - art. 9 () JORF 23 janvier 2002
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de l'action sociale et des familles - art. L552-5 (M)
-	  - Code de l'action sociale et des familles - art. L552-5 (V)
+	  - Code de l'action sociale et des familles - art. L551-5 (T)
 
 
 ### Titre VI : Polynésie française
 
-#### Chapitre unique : Statut des pupilles de l'Etat.
+#### Chapitre Ier : Accès aux origines personnelles
 
 ###### Article L561-1
 
-Les articles L. 224-1 à L. 224-9 et L. 225-1 à L. 225-7 sont applicables en Polynésie française, sous réserve des adaptations
-prévues au présent chapitre.
+I. - Les articles L. 147-1 à L. 147-11 sont applicables en Polynésie française.
 
-**Liens relatifs à cet article**
+II. - Pour l'application de l'article L. 147-1, la référence :
 
-	**Codifié par**:
+"L. 222-6" est remplacée par la référence : "L. 561-2".
 
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+III. - Pour l'application de l'article L. 147-3, les mots : "du président du conseil général" sont remplacés par les mots :
+"du président du gouvernement de la Polynésie française".
 
-	**Transféré par**:
+IV. - Pour l'application de l'article L. 147-4, les mots : "au président du conseil général" sont remplacés par les mots :
+"au président du gouvernement de la Polynésie française".
 
-	  - Loi n°2002-93 du 22 janvier 2002 - art. 10 () JORF 23 janvier 2002
+V. - Pour l'application du cinquième alinéa de l'article L. 147-5, les mots : "établissements de santé et les services
+départementaux" sont remplacés par les mots : "établissements de santé et services territoriaux".
 
-	**Cité par**:
+VI. - Pour son application en Polynésie française, le second alinéa de l'article L. 147-8 est ainsi rédigé :
 
-	  - Code de l'action sociale et des familles - art. L561-2 (T)
+"Sous réserve des dispositions de l'article 6 de la loi n° 51-711 du 7 juin 1951 sur l'obligation, la coordination et le
+secret en matière de statistiques, les administrations ou services de l'Etat sont tenus de réunir et de communiquer au
+conseil national les renseignements dont ils disposent permettant de déterminer les adresses de la mère et du père de
+naissance."
 
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L562-1 (V)
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles L224-1 à L224-9, L225-1 à L225-7
+**Nota:**
 
 
-###### Article L561-2
-
-Pour l'application des dispositions prévues à l'article L. 561-1, les mots mentionnés ci-dessous sont respectivement
-remplacés par les mots suivants :
-
-- " représentant de l'Etat dans le département " par " haut-commissaire de la République en Polynésie française " ;
-
-- " président du conseil général " par " président du gouvernement " ;
-
-- " tribunal de grande instance " par " tribunal de première instance " ;
-
-- " département " par " territoire ".
 
 **Liens relatifs à cet article**
 
@@ -25899,9 +26954,50 @@ remplacés par les mots suivants :
 
 	**Modifié par**:
 
-	  - Loi n°2002-2 2002-01-02 art. 85 5° JORF 3 janvier 2002
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 10 () JORF 23 janvier 2002
 
-	**Transféré par**:
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L147-1 (V)
+	  - Code de l'action sociale et des familles - art. L147-3 (V)
+	  - Code de l'action sociale et des familles - art. L147-4 (V)
+	  - Code de l'action sociale et des familles - art. L147-5 (V)
+	  - Code de l'action sociale et des familles - art. L147-8 (V)
+	  - Code de l'action sociale et des familles L147-1 à L147-11, L147-1, L147-3, L147-4, L147-5, L147-8
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L561-2 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L562-1 (V)
+
+
+###### Article L561-2
+
+Toute femme qui demande, lors de son accouchement, la préservation du secret de son admission et de son identité par un
+établissement de santé est informée des conséquences juridiques de cette demande et de l'importance pour toute personne de
+connaître ses origines et son histoire. Elle est donc invitée à laisser, si elle l'accepte, des renseignements sur sa santé
+et celle du père, les origines de l'enfant et les circonstances de la naissance ainsi que, sous pli fermé, son identité. Elle
+est informée de la possibilité qu'elle a de lever à tout moment le secret de son identité et, qu'à défaut, son identité ne
+pourra être communiquée que dans les conditions prévues à l'article L. 147-6. Elle est également informée qu'elle peut à tout
+moment donner son identité sous pli fermé ou compléter les renseignements qu'elle a donnés au moment de la naissance. Les
+prénoms donnés à l'enfant et, le cas échéant, mention du fait qu'ils l'ont été par la mère, ainsi que le sexe de l'enfant, la
+date, le lieu et l'heure de sa naissance sont mentionnés à l'extérieur de ce pli. Ces formalités sont accomplies par les
+personnes désignées dans le cadre de la convention entre l'Etat et la Polynésie française prévue à l'article 10 de la loi n°
+2002-93 du 22 janvier 2002 relative à l'accès aux origines des personnes adoptées et pupilles de l'Etat, avisées sous la
+responsabilité du directeur de l'établissement de santé. A défaut, elles sont accomplies sous la responsabilité de ce
+directeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
 
 	  - Loi n°2002-93 du 22 janvier 2002 - art. 10 () JORF 23 janvier 2002
 
@@ -25916,36 +27012,128 @@ remplacés par les mots suivants :
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L561-1 (T)
+	  - Code de l'action sociale et des familles - art. L147-6 (V)
 
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L562-2 (M)
+
+
+#### Chapitre II : Statut des pupilles de l'Etat.
+
+###### Article L562-1
+
+Les articles L. 224-1 à L. 224-9 et L. 225-1 à L. 225-7 sont applicables en Polynésie française, sous réserve des adaptations
+prévues au présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 10 () JORF 23 janvier 2002
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L224-1 (V)
+	  - Code de l'action sociale et des familles - art. L225-1 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. L561-1 (T)
+
+	**Cité par**:
+
 	  - Code de l'action sociale et des familles - art. L562-2 (V)
 
 
-###### Article L561-3
+###### Article L562-2
 
-Pour son application en Polynésie française, l'article L. 224-2 est ainsi rédigé :
+Pour l'application des dispositions prévues à l'article L. 562-1, les mots mentionnés ci-dessous sont respectivement
+remplacés par les mots suivants :
 
-" Art. L. 224-2. - Chaque conseil de famille comprend :
+- "représentant de l'Etat dans le département" par "haut-commissaire de la République en Polynésie française" ;
 
-- des représentants de l'assemblée territoriale désignés par cette assemblée sur proposition de son président ;
+- "président du conseil général" par "président du gouvernement de la Polynésie française" ;
+
+- "tribunal de grande instance" par "tribunal de première instance" ;
+
+- "département" par "territoire" ;
+
+- "service de l'aide sociale à l'enfance" par : "service chargé de l'aide sociale à l'enfance".
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 10 () JORF 23 janvier 2002
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. L561-2 (M)
+	  - Code de l'action sociale et des familles - art. L561-2 (T)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L562-1 (V)
+
+
+###### Article L562-2-1
+
+Pour l'application en Polynésie française de l'article L. 224-1, les mots : " dans les conditions prévues à l'article L.
+223-4 " sont remplacés par les mots : " par le service chargé de l'aide sociale à l'enfance ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 10 () JORF 23 janvier 2002
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L224-1 (V)
+
+
+###### Article L562-3
+
+Pour son application en Polynésie française, l'article L. 224-2 est ainsi rédigé : 
+
+" Art. L. 224-2.-Chaque conseil de famille comprend :
+
+- des représentants de l'assemblée de la Polynésie française désignés par cette assemblée sur proposition de son président ;
 
 - des membres des associations à caractère familial ou d'accueil ;
 
 - des représentants des pupilles de l'Etat choisis par le haut-commissaire de la République en Polynésie française ;
 
-- des personnalités qualifiées désignées par le haut-commissaire de la République en Polynésie française.
+- des personnalités qualifiées désignées par le haut-commissaire de la République en Polynésie française. 
 
 Le haut-commissaire de la République en Polynésie française désigne en l'absence de pupilles de l'Etat toute personne
-disposant des qualités requises pour assurer la représentation des pupilles.
+disposant des qualités requises pour assurer la représentation des pupilles. 
 
 Le conseil de famille est renouvelé par moitié. Le mandat de ses membres est de six ans. Il est renouvelable une fois. Ses
-membres assurant la représentation d'associations peuvent se faire remplacer par leur suppléant.
+membres assurant la représentation d'associations peuvent se faire remplacer par leur suppléant. 
 
 Les membres du conseil de famille sont tenus au secret professionnel selon les prescriptions des articles 226-13 et 226-14 du
-code pénal.
+code pénal. 
 
 La composition et les règles de fonctionnement du ou des conseils de famille institués en Polynésie française sont fixées par
 voie réglementaire. "
@@ -25957,22 +27145,64 @@ voie réglementaire. "
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Loi n°2002-93 du 22 janvier 2002 - art. 10 () JORF 23 janvier 2002
 
 	**Cite**:
 
-	  - Code pénal - art. 226-13 (M)
-	  - Code pénal - art. 226-14 (M)
 	  - Code de l'action sociale et des familles - art. L224-2 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de l'action sociale et des familles - art. L562-3 (V)
+	  - Code de l'action sociale et des familles - art. L561-3 (T)
 
 
-###### Article L561-4
+###### Article L562-3-1
+
+Pour son application en Polynésie française, au troisième alinéa 3 (1°) de l'article L. 224-5, après les mots : " sécurité
+sociale ", sont insérés les mots : " ou de protection sociale ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 10 () JORF 23 janvier 2002
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L224-5 (V)
+
+
+###### Article L562-3-2
+
+Pour l'application en Polynésie française de l'article L. 224-7, la référence : " L. 222-6 " est remplacée par la
+référence : 
+
+" L. 561-2 ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 10 () JORF 23 janvier 2002
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L224-7 (V)
+
+
+###### Article L562-4
 
 Lors de la constitution initiale du conseil de famille, le mandat des membres est pour la moitié de ceux-ci de trois ans et
 pour l'autre moitié de six ans.
@@ -25984,16 +27214,16 @@ pour l'autre moitié de six ans.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Loi n°2002-93 du 22 janvier 2002 - art. 10 () JORF 23 janvier 2002
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de l'action sociale et des familles - art. L562-4 (V)
+	  - Code de l'action sociale et des familles - art. L561-4 (T)
 
 
-###### Article L561-5
+###### Article L562-5
 
 Pour son application en Polynésie française, l'article L. 225-3 est ainsi rédigé :
 
@@ -26020,24 +27250,46 @@ relations entre l'administration et le public et diverses dispositions d'ordre a
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Loi n°2002-93 du 22 janvier 2002 - art. 10 () JORF 23 janvier 2002
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de l'action sociale et des familles - art. L562-5 (M)
-	  - Code de l'action sociale et des familles - art. L562-5 (V)
+	  - Code de l'action sociale et des familles - art. L561-5 (T)
 
 
 ### Titre VII : Nouvelle-Calédonie
 
-#### Chapitre unique : Statut des pupilles de l'Etat.
+#### Chapitre Ier : Accès aux origines personnelles
 
 ###### Article L571-1
 
-Les articles L. 224-1 à L. 224-9 et L. 225-1 à L. 225-7 sont applicables en Nouvelle-Calédonie, sous réserve des adaptations
-prévues au présent chapitre.
+I. Les articles L. 147-1 à L. 147-11 sont applicables en Nouvelle-Calédonie.
+
+II. - Pour l'application de l'article L. 147-1, la référence :
+
+"L. 222-6" est remplacée par la référence : "L. 571-2".
+
+III. - Pour l'application de l'article L. 147-3, les mots : "du président du conseil général" sont remplacés par les mots :
+"au président de l'assemblée de province territorialement compétente".
+
+IV. - Pour l'application de l'article L. 147-4, les mots : "au président du conseil général" sont remplacés par les mots :
+"au président de l'assemblée de province territorialement compétente".
+
+V. - Pour l'application du cinquième alinéa de l'article L. 147-5, les mots : "établissements de santé et les services
+départementaux" sont remplacés par les mots : "services communaux".
+
+VI. - Pour l'application en Nouvelle-Calédonie, le second alinéa de l'article L. 147-8 est ainsi rédigé :
+
+"Sous réserve des dispositions de l'article 6 de la loi n° 51-711 du 7 juin 1951 sur l'obligation, la coordination et le
+secret en matière de statistiques, les administrations ou services de l'Etat sont tenus de réunir et de communiquer au
+conseil national les renseignements dont ils disposent permettant de déterminer les adresses de la mère et du père de
+naissance."
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -26046,9 +27298,18 @@ prévues au présent chapitre.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2002-93 du 22 janvier 2002 - art. 11 () JORF 23 janvier 2002
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L147-1 (V)
+	  - Code de l'action sociale et des familles - art. L147-3 (V)
+	  - Code de l'action sociale et des familles - art. L147-4 (V)
+	  - Code de l'action sociale et des familles - art. L147-5 (V)
+	  - Code de l'action sociale et des familles - art. L147-8 (V)
+	  - Code de l'action sociale et des familles L147-1 à L147-11, L147-1, L147-3, L147-4, L147-5, L147-8
 
 	**Cité par**:
 
@@ -26058,23 +27319,22 @@ prévues au présent chapitre.
 
 	  - Code de l'action sociale et des familles - art. L572-1 (V)
 
-	**Cite**:
-
-	  - Code de l'action sociale et des familles L224-1 à L224-9, L225-1 à L225-7
-
 
 ###### Article L571-2
 
-Pour l'application des dispositions prévues à l'article L. 571-1, les mots mentionnés ci-dessous sont respectivement
-remplacés par les mots suivants :
-
-- " représentant de l'Etat dans le département " par " haut-commissaire de la République en Nouvelle-Calédonie " ;
-
-- " président du conseil général " par " président de l'assemblée de province territorialement compétente " ;
-
-- " tribunal de grande instance " par " tribunal de première instance " ;
-
-- " département " par " province ".
+Toute femme qui demande, lors de son accouchement, la préservation du secret de son admission et de son identité par un
+établissement de santé est informée des conséquences juridiques de cette demande et de l'importance pour toute personne de
+connaître ses origines et son histoire. Elle est donc invitée à laisser, si elle l'accepte, des renseignements sur sa santé
+et celle du père, les origines de l'enfant et les circonstances de la naissance ainsi que, sous pli fermé, son identité. Elle
+est informée de la possibilité qu'elle a de lever à tout moment le secret de son identité et, qu'à défaut, son identité ne
+pourra être communiquée que dans les conditions prévues à l'article L. 147-6. Elle est également informée qu'elle peut à tout
+moment donner son identité sous pli fermé ou compléter les renseignements qu'elle a donnés au moment de la naissance. Les
+prénoms donnés à l'enfant et, le cas échéant, mention du fait qu'ils l'ont été par la mère, ainsi que le sexe de l'enfant, la
+date, le lieu et l'heure de sa naissance sont mentionnés à l'extérieur de ce pli. Ces formalités sont accomplies par les
+personnes désignées dans le cadre de la convention entre l'Etat et la Nouvelle-Calédonie prévue à l'article 11 de la loi n°
+2002-93 du 22 janvier 2002 relative à l'accès aux origines des personnes adoptées et pupilles de l'Etat, avisées sous la
+responsabilité du directeur de l'établissement de santé. A défaut, elles sont accomplies sous la responsabilité de ce
+directeur.
 
 **Liens relatifs à cet article**
 
@@ -26083,7 +27343,7 @@ remplacés par les mots suivants :
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2002-93 du 22 janvier 2002 - art. 11 () JORF 23 janvier 2002
 
@@ -26098,36 +27358,125 @@ remplacés par les mots suivants :
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L571-1 (T)
+	  - Code de l'action sociale et des familles - art. L147-6 (V)
 
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L572-2 (M)
+
+
+#### Chapitre II : Statut des pupilles de l'Etat.
+
+###### Article L572-1
+
+Les articles L. 224-1 à L. 224-9 et L. 225-1 à L. 225-7 sont applicables en Nouvelle-Calédonie, sous réserve des adaptations
+prévues au présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 11 () JORF 23 janvier 2002
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L224-1 (V)
+	  - Code de l'action sociale et des familles - art. L225-1 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. L571-1 (T)
+
+	**Cité par**:
+
 	  - Code de l'action sociale et des familles - art. L572-2 (V)
 
 
-###### Article L571-3
+###### Article L572-2
 
-Pour son application en Nouvelle-Calédonie, l'article L. 224-2 est ainsi rédigé :
+Pour l'application des dispositions prévues à l'article L. 572-1, les mots mentionnés ci-dessous sont respectivement
+remplacés par les mots suivants :
 
-" Art. L. 224-2. - Chaque conseil de famille comprend :
+- "représentant de l'Etat dans le département" par "haut-commissaire de la République en Nouvelle-Calédonie" ;
+
+- "président du conseil général" par "président de l'assemblée de province territorialement compétente" ;
+
+- "tribunal de grande instance" par "tribunal de première instance" ;
+
+- "département" par "province".
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 11 () JORF 23 janvier 2002
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. L571-2 (T)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L572-1 (V)
+
+
+###### Article L572-2-1
+
+Pour l'application en Nouvelle-Calédonie de l'article L. 224-1, les mots : " dans les conditions prévues à l'article L. 223-4
+" sont remplacés par les mots : " par le service de l'aide sociale à l'enfance ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 11 () JORF 23 janvier 2002
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L224-1 (V)
+
+
+###### Article L572-3
+
+Pour son application en Nouvelle-Calédonie, l'article L. 224-2 est ainsi rédigé : 
+
+" Art. L. 224-2.-Chaque conseil de famille comprend :
 
 - des représentants des assemblées de provinces désignés par ces assemblées sur proposition de leur président ;
 
 - des membres des associations à caractère familial ou d'accueil ;
 
-- des représentants des pupilles de l'Etat choisis par le haut-commissaire de la République en Nouvelle-Calédonie, 
+- des représentants des pupilles de l'Etat choisis par le haut-commissaire de la République en Nouvelle-Calédonie,
 
-- des personnalités qualifiées désignées par le haut-commissaire de la République en Nouvelle-Calédonie.
+- des personnalités qualifiées désignées par le haut-commissaire de la République en Nouvelle-Calédonie. 
 
 Le haut-commissaire de la République en Nouvelle-Calédonie désigne en l'absence de pupilles de l'Etat toute personne
-disposant des qualités requises pour assurer la représentation des pupilles.
+disposant des qualités requises pour assurer la représentation des pupilles. 
 
 Le conseil de famille est renouvelé par moitié. Le mandat de ses membres est de six ans. Il est renouvelable une fois. Ses
-membres assurant la représentation d'associations peuvent se faire remplacer par leur suppléant.
+membres assurant la représentation d'associations peuvent se faire remplacer par leur suppléant. 
 
 Les membres du conseil de famille sont tenus au secret professionnel selon les prescriptions des articles 226-13 et 226-14 du
-code pénal.
+code pénal. 
 
 La composition et les règles de fonctionnement du ou des conseils de famille institués en Nouvelle-Calédonie sont fixées par
 voie réglementaire. "
@@ -26139,22 +27488,42 @@ voie réglementaire. "
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Loi n°2002-93 du 22 janvier 2002 - art. 11 () JORF 23 janvier 2002
 
 	**Cite**:
 
-	  - Code pénal - art. 226-13 (M)
-	  - Code pénal - art. 226-14 (M)
 	  - Code de l'action sociale et des familles - art. L224-2 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de l'action sociale et des familles - art. L572-3 (V)
+	  - Code de l'action sociale et des familles - art. L571-3 (T)
 
 
-###### Article L571-4
+###### Article L572-3-1
+
+Pour l'application en Nouvelle-Calédonie de l'article L. 224-7, la référence : " L. 222-6 " est remplacée par la référence : 
+
+" L. 571-2 ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 11 () JORF 23 janvier 2002
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L224-7 (V)
+
+
+###### Article L572-4
 
 Lors de la constitution initiale du conseil de famille, le mandat des membres est pour la moitié de ceux-ci de trois ans et
 pour l'autre moitié de six ans.
@@ -26166,16 +27535,16 @@ pour l'autre moitié de six ans.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Loi n°2002-93 du 22 janvier 2002 - art. 11 () JORF 23 janvier 2002
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de l'action sociale et des familles - art. L572-4 (V)
+	  - Code de l'action sociale et des familles - art. L571-4 (T)
 
 
-###### Article L571-5
+###### Article L572-5
 
 Pour son application en Nouvelle-Calédonie, l'article L. 225-3 est ainsi rédigé :
 
@@ -26202,13 +27571,12 @@ relations entre l'administration et le public et diverses dispositions d'ordre a
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Loi n°2002-93 du 22 janvier 2002 - art. 11 () JORF 23 janvier 2002
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de l'action sociale et des familles - art. L572-5 (M)
-	  - Code de l'action sociale et des familles - art. L572-5 (V)
+	  - Code de l'action sociale et des familles - art. L571-5 (T)
 
 
