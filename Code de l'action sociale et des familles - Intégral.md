@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2004-08-11
+Version Consolidée au 2004-08-17
 
 # Partie législative
 
@@ -1275,14 +1275,14 @@ l'étranger.
 ###### Article L121-11
 
 Les règles relatives à l'action sociale des caisses de sécurité sociale sont fixées par les dispositions des articles L.
-262-1 et L. 263-1 du code de la sécurité sociale ci-après reproduites :
+262-1 et L. 263-1 du code de la sécurité sociale ci-après reproduites : 
 
-" Art. L. 262-1. - Les caisses primaires et les caisses régionales exercent une action de prévention, d'éducation et
+" Art. L. 262-1.-Les caisses primaires et les caisses régionales exercent une action de prévention, d'éducation et
 d'information sanitaires ainsi qu'une action sanitaire et sociale dans le cadre de programmes définis par l'autorité
-compétente de l'Etat, après avis et proposition du conseil d'administration de la caisse nationale de l'assurance maladie et
-compte tenu de la coordination assurée par celle-ci conformément aux dispositions des 3° et 4° de l'article L. 221-1. "
+compétente de l'Etat, après avis et proposition du conseil de la caisse nationale de l'assurance maladie et compte tenu de la
+coordination assurée par celle-ci conformément aux dispositions des 3° et 4° de l'article L. 221-1. " 
 
-" Art. L. 263-1. - Les caisses d'allocations familiales exercent une action sanitaire et sociale en faveur de leurs
+" Art. L. 263-1.-Les caisses d'allocations familiales exercent une action sanitaire et sociale en faveur de leurs
 ressortissants et des familles de ceux-ci dans le cadre du programme mentionné au 2° de l'article L. 223-1. "
 
 **Liens relatifs à cet article**
@@ -1292,12 +1292,19 @@ ressortissants et des familles de ceux-ci dans le cadre du programme mentionné 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2004-810 du 13 août 2004 - art. 69 () JORF 17 août 2004
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la sécurité sociale. - art. L262-1 (V)
+	  - PILOTE_SUIVEUR: Code de la sécurité sociale. - art. L263-1 (V)
+
 	**Cite**:
 
-	  - Code de la sécurité sociale. - art. L262-1 (M)
-	  - Code de la sécurité sociale. - art. L263-1 (M)
-	  - Code de l'action sociale et des familles - art. L221-1 (M)
-	  - Code de l'action sociale et des familles - art. L223-1 (M)
+	  - Code de l'action sociale et des familles - art. L221-1 (V)
+	  - Code de l'action sociale et des familles - art. L223-1 (VT)
 
 
 ###### Article L121-12
@@ -3990,6 +3997,61 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. R*148-4 (V)
+
+
+#### Chapitre IX : Comités départementaux des retraités et personnes âgées
+
+###### Article L149-1
+
+Le comité départemental des retraités et personnes âgées est une instance consultative placée auprès du président du conseil
+général.
+
+La composition et les modalités de fonctionnement des comités départementaux des retraités et personnes âgées qui réunissent
+notamment des représentants des associations et organisations représentatives, sur le plan local, des retraités et personnes
+âgées, sont fixées par délibération du conseil général. Les membres du comité sont nommés par arrêté du président du conseil
+général.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 57
+
+	**Cité par**:
+
+	  - Loi n°2015-1776 du 28 décembre 2015 - art. 88 (V)
+	  - Décret n°2016-1023 du 26 juillet 2016 - art. 1
+	  - Décret n°2016-1206 du 7 septembre 2016 (V)
+	  - Décret n°2016-1206 du 7 septembre 2016 - art. 2
+	  - Décret n°2016-1873 du 26 décembre 2016 - art. 3 (V)
+	  - Code de l'action sociale et des familles - art. D149-1 (V)
+	  - Code de l'action sociale et des familles - art. D149-11 (V)
+	  - Code de l'action sociale et des familles - art. D149-13 (V)
+	  - Code de l'action sociale et des familles - art. D312-193-6 (V)
+	  - Code de l'action sociale et des familles - art. D312-193-7 (V)
+	  - Code de l'action sociale et des familles - art. D472-5-3 (V)
+	  - Code de l'action sociale et des familles - art. L113-2 (V)
+	  - Code de l'action sociale et des familles - art. L114-3 (V)
+	  - Code de l'action sociale et des familles - art. L114-3-1 (V)
+	  - Code de l'action sociale et des familles - art. L149-4 (VD)
+	  - Code de l'action sociale et des familles - art. L312-5 (VD)
+	  - Code de l'action sociale et des familles - art. L531-11 (V)
+	  - Code de l'action sociale et des familles - art. L541-4 (V)
+	  - Code de l'action sociale et des familles - art. L581-1 (V)
+	  - Code de l'action sociale et des familles - art. L581-11 (V)
+	  - Code de l'action sociale et des familles - art. R233-2 (V)
+	  - Code de la santé publique - art. D1432-28 (V)
+	  - Code de la santé publique - art. D1434-2 (T)
+	  - Code de la santé publique - art. D1443-20 (V)
 
 
 ## Livre II : Différentes formes d'aide et d'action sociales
