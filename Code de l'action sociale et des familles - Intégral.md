@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2005-03-18
+Version Consolidée au 2005-04-23
 
 # Partie législative
 
@@ -18057,9 +18057,11 @@ sont fixées par décret en Conseil d'Etat.
 
 Pour chaque établissement ou service social ou médico-social, il est élaboré un projet d'établissement ou de service, qui
 définit ses objectifs, notamment en matière de coordination, de coopération et d'évaluation des activités et de la qualité
-des prestations, ainsi que ses modalités d'organisation et de fonctionnement. Ce projet est établi pour une durée maximale de
-cinq ans après consultation du conseil de la vie sociale ou, le cas échéant, après mise en oeuvre d'une autre forme de
-participation.
+des prestations, ainsi que ses modalités d'organisation et de fonctionnement. Le cas échéant, ce projet identifie les
+services de l'établissement ou du service social ou médico-social au sein desquels sont dispensés des soins palliatifs et
+précise les mesures qui doivent être prises en application des dispositions des conventions pluriannuelles visées à l'article
+L. 313-12. Ce projet est établi pour une durée maximale de cinq ans après consultation du conseil de la vie sociale ou, le
+cas échéant, après mise en oeuvre d'une autre forme de participation.
 
 **Liens relatifs à cet article**
 
@@ -18067,10 +18069,6 @@ participation.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Créé par**:
-
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 12 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -18106,6 +18104,14 @@ participation.
 	  - Code de l'action sociale et des familles - art. R314-88 (V)
 	  - Code de l'action sociale et des familles - art. R316-6 (V)
 	  - Code de l'action sociale et des familles - art. R316-7 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-370 du 22 avril 2005 - art. 13 () JORF 23 avril 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L313-12 (VT)
 
 
 ###### Article L311-9
@@ -20605,7 +20611,10 @@ décret ne peuvent accueillir des personnes âgées remplissant les conditions d
 232-2 que s'ils ont passé avant le 31 décembre 2005, ou avant le 31 décembre 2006 pour les établissements mentionnés à
 l'article L. 633-1 du code de la construction et de l'habitation une convention pluriannuelle avec le président du conseil
 général et l'autorité compétente de l'Etat, qui respecte le cahier des charges établi par arrêté ministériel, après avis des
-organismes nationaux d'assurance maladie et des représentants des présidents de conseils généraux.
+organismes nationaux d'assurance maladie et des représentants des présidents de conseils généraux. La convention
+pluriannuelle identifie, le cas échéant, les services au sein desquels sont dispensés des soins palliatifs et définit, pour
+chacun d'entre eux, le nombre de référents en soins palliatifs qu'il convient de former ainsi que le nombre de lits qui
+doivent être identifiés comme des lits de soins palliatifs.
 
 II. - Les établissements mentionnés au I dont la capacité est inférieure à un seuil fixé par décret ont la possibilité de
 déroger aux règles mentionnées au 1° de l'article L. 314-2. Dans ces établissements, les modalités de tarification des
@@ -20837,7 +20846,7 @@ mentionnés au I peuvent faire appel à ces praticiens dans les conditions prév
 
 	**Modifié par**:
 
-	  - Loi n°2004-806 du 9 août 2004 - art. 4 () JORF 11 août 2004
+	  - Loi n°2005-370 du 22 avril 2005 - art. 14 () JORF 23 avril 2005
 
 	**Cite**:
 
@@ -36963,6 +36972,826 @@ fonctions du nouveau membre prennent fin à la date à laquelle auraient cessé 
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. D149-8 (Ab)
+
+
+#### Chapitre X : Caisse nationale de solidarité pour l'autonomie
+
+##### Section 1 : Conseil
+
+##### Sous-section 1 : Compétence
+
+###### Article R14-10-1
+
+Le conseil de la Caisse nationale de solidarité pour l'autonomie exerce les compétences mentionnées au III de l'article L.
+14-10-3.
+
+Il arrête le compte financier après avoir entendu l'agent comptable.
+
+Il établit son règlement intérieur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-373 du 20 avril 2005 - art. 1 () JORF 23 avril 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L14-10-3 (V)
+
+
+##### Sous-section 2 : Composition
+
+###### Article R14-10-2
+
+Le conseil de la Caisse nationale de solidarité pour l'autonomie est composé de quarante-huit membres comprenant :
+
+1° Six représentants des associations oeuvrant au niveau national pour les personnes handicapées désignés, ainsi que leurs
+six suppléants, dans les conditions fixées par l'article R. 14-10-4 ;
+
+2° Six représentants des associations oeuvrant au niveau national pour les personnes âgées désignés, ainsi que leurs six
+suppléants, dans les conditions fixées par l'article R. 14-10-5 ;
+
+3° Six représentants des conseils généraux désignés, ainsi que leurs six suppléants, par l'Assemblée des départements de
+France ;
+
+4° Cinq représentants des organisations syndicales de salariés interprofessionnelles représentatives au plan national et
+leurs cinq suppléants, respectivement désignés par :
+
+- la Confédération générale du travail ;
+
+- la Confédération française démocratique du travail ;
+
+- la Confédération générale du travail-Force ouvrière ;
+
+- la Confédération française des travailleurs chrétiens ;
+
+- la Confédération française de l'encadrement-Confédération générale des cadres ;
+
+5° Trois représentants désignés par les organisations professionnelles nationales d'employeurs représentatives et leurs trois
+suppléants, respectivement désignés par :
+
+- le Mouvement des entreprises de France ;
+
+- la Confédération générale des petites et moyennes entreprises ;
+
+- l'Union professionnelle artisanale ;
+
+6° Dix représentants de l'Etat :
+
+- le directeur général de l'action sociale, ou son représentant ;
+
+- le directeur de la sécurité sociale, ou son représentant ;
+
+- le directeur du budget, ou son représentant ;
+
+- le directeur de l'enseignement scolaire, ou son représentant ;
+
+- le délégué général à l'emploi et à la formation professionnelle, ou son représentant ;
+
+- le directeur de l'hospitalisation et de l'organisation des soins, ou son représentant ;
+
+- le directeur général de la santé, ou son représentant ;
+
+- le secrétaire général des ministères chargés des affaires sociales, ou son représentant ;
+
+- le directeur général des collectivités locales, ou son représentant ;
+
+- le délégué interministériel aux personnes handicapées, ou son représentant ;
+
+7° Un député ;
+
+8° Un sénateur ;
+
+9° Sept représentants d'institutions intervenant dans les domaines de compétences de la caisse et leurs sept suppléants
+respectivement désignés par :
+
+- la Fédération nationale de la mutualité française ;
+
+- l'Union nationale interfédérale des oeuvres et organismes privés sanitaires et sociaux (UNIOPSS) ;
+
+- la Fédération hospitalière de France ;
+
+- la Fédération des établissements hospitaliers et d'assistance privés à but non lucratif (FEHAP) ;
+
+- la Mutualité sociale agricole ;
+
+- le Syndicat national des établissements et résidences privées pour personnes âgées ;
+
+- l'Union nationale des centres communaux d'action sociale ;
+
+10° Trois personnalités qualifiées, conjointement désignées, pour une durée de quatre ans, par le ministre chargé des
+personnes âgées et le ministre chargé des personnes handicapées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-373 du 20 avril 2005 - art. 1 () JORF 23 avril 2005
+
+	**Cité par**:
+
+	  - Décret n°2016-1873 du 26 décembre 2016 - art. 4 (V)
+	  - Code de l'action sociale et des familles - art. D149-16 (V)
+	  - Code de l'action sociale et des familles - art. R14-10-12 (V)
+	  - Code de l'action sociale et des familles - art. R14-10-3 (VD)
+	  - Code de l'action sociale et des familles - art. R14-10-4 (V)
+	  - Code de l'action sociale et des familles - art. R14-10-5 (V)
+	  - Code de l'action sociale et des familles - art. R14-10-7 (V)
+
+
+###### Article R14-10-3
+
+Les désignations prévues aux 3°, 7° et 8° de l'article R. 14-10-2 sont renouvelées après chaque élection générale en ce qui
+concerne les députés, et après chaque renouvellement triennal du Sénat ou des conseils généraux en ce qui concerne,
+respectivement, les sénateurs et les représentants des conseils généraux.
+
+Tout membre démissionnaire ou ayant perdu la qualité en raison de laquelle il a été nommé est remplacé dans les mêmes
+conditions de désignation. Pour ceux des membres dont le mandat revêt une durée déterminée, la nomination du remplaçant porte
+sur la durée restant à courir.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-373 du 20 avril 2005 - art. 1 () JORF 23 avril 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. R14-10-2 (V)
+
+
+###### Article R14-10-4
+
+Les six représentants des associations mentionnés au 1° de l'article R. 14-10-2, ainsi que leurs six suppléants, sont nommés
+pour une durée de quatre ans par le ministre chargé des personnes handicapées, sur proposition d'un collège d'organismes
+oeuvrant au niveau national en faveur des personnes handicapées. 
+
+Les organismes membres de ce collège sont désignés par arrêté du ministre chargé des personnes handicapées, qui détermine
+également les modalités selon lesquelles le collège adopte et transmet ses propositions audit ministre. 
+
+En l'absence de proposition, les représentants et leurs suppléants sont désignés par arrêté du ministre chargé des personnes
+handicapées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-373 du 20 avril 2005 - art. 1 () JORF 23 avril 2005
+
+	**Cité par**:
+
+	  - Arrêté du 27 avril 2017 (V)
+	  - Arrêté du 27 avril 2017 - art. 1 (V)
+	  - Arrêté du 27 avril 2017 - art. 3 (V)
+	  - Code de l'action sociale et des familles - art. R14-10-2 (V)
+	  - Code de l'action sociale et des familles - art. R315-14 (V)
+
+
+###### Article R14-10-5
+
+Les six représentants des associations mentionnés au 2° de l'article R. 14-10-2, ainsi que leurs six suppléants, sont nommés
+pour une durée de quatre ans par le ministre chargé des personnes âgées sur proposition d'un collège d'organismes oeuvrant au
+niveau national en faveur des personnes âgées. 
+
+Les organismes membres de ce collège sont désignés par arrêté du ministre chargé des personnes âgées, qui détermine également
+les modalités selon lesquelles le collège adopte et transmet ses propositions audit ministre. 
+
+En l'absence de proposition, les représentants et leurs suppléants sont désignés par arrêté du ministre chargé des personnes
+âgées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-373 du 20 avril 2005 - art. 1 () JORF 23 avril 2005
+
+	**Cité par**:
+
+	  - Arrêté du 25 avril 2005 - art. 2 (Ab)
+	  - Arrêté du 27 avril 2017 (V)
+	  - Arrêté du 27 avril 2017 - art. 2 (V)
+	  - Arrêté du 27 avril 2017 - art. 3 (V)
+	  - Code de l'action sociale et des familles - art. R14-10-2 (V)
+
+
+##### Sous-section 3 : Fonctionnement
+
+###### Article R14-10-6
+
+Pour l'expression de son suffrage, chaque membre du conseil dispose d'une voix, à l'exception des membres suivants :
+
+- le représentant de la Confédération générale du travail : deux voix ;
+
+- le représentant de la Confédération française démocratique du travail : deux voix ;
+
+- le représentant de la Confédération générale du travail-Force ouvrière : deux voix ;
+
+- le représentant du Mouvement des entreprises de France : quatre voix ;
+
+- le représentant de la Confédération générale des petites et moyennes entreprises : deux voix ;
+
+- le représentant de l'Union professionnelle artisanale : deux voix ;
+
+- chaque représentant de l'Etat : quatre voix, à l'exception du délégué interministériel aux personnes handicapées qui
+dispose d'une voix.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-373 du 20 avril 2005 - art. 1 () JORF 23 avril 2005
+
+
+###### Article R14-10-7
+
+Le président du conseil est élu par le conseil, parmi les personnalités mentionnées au 10° de l'article R. 14-10-2. Au
+premier tour de scrutin, l'élection a lieu à la majorité absolue des suffrages exprimés et, au second tour, à leur majorité
+relative. En cas de partage des voix au second tour, le président est désigné au bénéfice de l'âge.
+
+Le mandat du président expire à l'échéance de son mandat de membre du conseil.
+
+Le conseil élit également, selon les mêmes modalités, deux vice-présidents choisis parmi les représentants mentionnés aux 1°
+et 2° de l'article R. 14-10-2. Le mandat des vice-présidents est de quatre ans. Ils suppléent le président dans les
+conditions prévues par le règlement intérieur du conseil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-373 du 20 avril 2005 - art. 1 () JORF 23 avril 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. R14-10-2 (V)
+
+
+###### Article R14-10-8
+
+Les délibérations du conseil sont adoptées à la majorité simple des suffrages exprimés. En cas de partage, la voix du
+président est prépondérante.
+
+Le conseil ne peut valablement délibérer que si les membres présents rassemblent la moitié au moins du total des voix du
+conseil. Si ce quorum n'est pas atteint, le conseil est à nouveau convoqué avec le même ordre du jour dans un délai maximal
+de vingt jours. Il délibère alors valablement quel que soit le nombre de membres présents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-373 du 20 avril 2005 - art. 1 () JORF 23 avril 2005
+
+
+###### Article R14-10-9
+
+En cas d'empêchement d'un membre titulaire et de son suppléant, le titulaire peut donner délégation à un autre membre pour le
+nombre de voix dont il dispose. Aucun membre ne peut recevoir plus d'une délégation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-373 du 20 avril 2005 - art. 1 () JORF 23 avril 2005
+
+
+###### Article R14-10-10
+
+Le conseil se réunit au moins trois fois par an sur convocation du président, qui fixe l'ordre du jour.
+
+Les questions dont l'inscription est demandée par le ministre chargé de l'action sociale, le ministre chargé de la sécurité
+sociale, le ministre chargé du budget ou par des membres du conseil rassemblant au moins la moitié des voix figurent de plein
+droit à l'ordre du jour.
+
+La convocation est de droit lorsqu'elle est demandée par l'un de ces mêmes ministres, ou par des membres du conseil
+rassemblant au moins la moitié des voix. La réunion du conseil doit se tenir dans le mois qui suit la demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-373 du 20 avril 2005 - art. 1 () JORF 23 avril 2005
+
+
+###### Article R14-10-11
+
+Le conseil peut constituer en son sein des commissions auxquelles il peut déléguer une partie de ses attributions.
+
+Il peut entendre toute personne ou organisme dont il estime l'audition utile à son information.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-373 du 20 avril 2005 - art. 1 () JORF 23 avril 2005
+
+
+###### Article R14-10-12
+
+Les suppléants mentionnés aux 1° à 5° et 9° de l'article R. 14-10-2 ne siègent qu'en cas d'absence ou d'empêchement des
+représentants titulaires. 
+
+Ils participent, dans les mêmes conditions, aux commissions auxquelles appartient le représentant dont ils assurent la
+suppléance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-373 du 20 avril 2005 - art. 1 () JORF 23 avril 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. R14-10-2 (V)
+
+
+###### Article R14-10-13
+
+Le directeur, l'agent comptable et le contrôleur d'Etat assistent au conseil et aux commissions avec voix consultative. Le
+directeur peut se faire accompagner des personnes de son choix.
+
+Le conseil ne peut se substituer ou donner des injonctions au directeur dans l'exercice des pouvoirs propres de ce dernier,
+ni annuler ou réformer les décisions prises à ce titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-373 du 20 avril 2005 - art. 1 () JORF 23 avril 2005
+
+
+###### Article R14-10-14
+
+Les fonctions de membre du conseil sont exercées à titre gratuit. Les frais de déplacement et de séjour sont remboursés dans
+les conditions prévues par un arrêté des ministres chargés de l'action sociale, de la sécurité sociale et du budget.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-373 du 20 avril 2005 - art. 1 () JORF 23 avril 2005
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R14-10-31 (V)
+
+
+##### Section 2 : Directeur
+
+###### Article R14-10-15
+
+Le directeur de la Caisse nationale de solidarité pour l'autonomie est nommé par décret pour une durée de trois ans.
+
+Il prépare les délibérations du conseil et met en oeuvre les orientations et les décisions qui en résultent. Il peut recevoir
+délégation du conseil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-373 du 20 avril 2005 - art. 1 () JORF 23 avril 2005
+
+
+###### Article R14-10-16
+
+Pour l'application de l'article L. 14-10-1, le directeur prépare les délibérations du conseil et met en oeuvre les
+orientations et les décisions qui en résultent, ainsi que la réalisation des objectifs définis dans la convention d'objectifs
+et de gestion prévue au II du même article. 
+
+Le directeur est responsable du bon fonctionnement de la caisse. Il a seul autorité sur le personnel, fixe l'organisation du
+travail dans les services et assure la discipline générale. Sous réserve de dispositions législatives ou réglementaires
+donnant compétence à une autre autorité, il prend toutes mesures individuelles concernant la gestion du personnel. 
+
+Le directeur assure la gestion des budgets de gestion et d'intervention et arrête notamment les états prévisionnels. Il est
+l'ordonnateur des recettes et des dépenses. Il représente la caisse en justice et dans tous les actes de la vie civile. Il
+conclut au nom de la caisse tous les contrats, conventions et marchés. Il prend les actes d'acquisition et d'aliénation des
+biens mobiliers et immobiliers et accepte les dons et legs. Il peut signer des transactions sur les litiges. 
+
+Le directeur peut déléguer sa signature à ceux de ses collaborateurs qui exercent une fonction de direction au sein de
+l'établissement pour effectuer en son nom soit certains actes, soit tous les actes relatifs à certaines de ses attributions.
+En cas de vacance d'emploi, d'absence momentanée ou d'empêchement du directeur, ses fonctions sont exercées par un agent de
+direction de la caisse désigné préalablement à cet effet par lui.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-373 du 20 avril 2005 - art. 1 () JORF 23 avril 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L14-10-1 (V)
+
+
+###### Article R14-10-17
+
+Le directeur rend compte périodiquement au conseil de la mise en oeuvre de ses orientations, ainsi que de la gestion de
+l'établissement. Il informe le conseil des évolutions susceptibles d'entraîner le non-respect des objectifs déterminés par
+celui-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-373 du 20 avril 2005 - art. 1 () JORF 23 avril 2005
+
+
+###### Article R14-10-18
+
+Un arrêté conjoint des ministres chargés de l'action sociale, de la sécurité sociale et du budget fixe la liste des actes du
+directeur et du conseil qui leur sont communiqués sous dix jours. 
+
+Dans un délai de trente jours à compter de la réception d'un de ces actes, les ministres peuvent, par décision conjointe
+motivée, faire connaître leur opposition à sa mise en oeuvre, notamment si l'acte comporte des dispositions non conformes aux
+lois et règlements en vigueur, ou s'il méconnaît la convention d'objectifs et de gestion mentionnée au II de l'article L.
+14-10-1. 
+
+En cas d'urgence, le directeur peut, par demande motivée, solliciter une approbation expresse sous huit jours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-373 du 20 avril 2005 - art. 1 () JORF 23 avril 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L14-10-1 (V)
+
+
+###### Article R14-10-19
+
+Dans les conditions prévues par la convention d'objectifs et de gestion mentionnée au II de l'article L. 14-10-1, le
+directeur communique toute information et réalise toute étude demandée par les ministres chargés de l'action sociale, de la
+sécurité sociale ou du budget.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-373 du 20 avril 2005 - art. 1 () JORF 23 avril 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L14-10-1 (V)
+
+
+###### Article R14-10-20
+
+S'il apparaît, à l'issue d'une procédure contradictoire engagée sur le fondement du IV de l'article L. 14-10-3, que les
+éléments comptables transmis par un département ne garantissent pas la sincérité du calcul des concours mentionnés au II et
+au III de l'article L. 14-10-5, le directeur peut, après mise en demeure, transmettre les éléments du dossier à la chambre
+régionale des comptes compétente. 
+
+Le directeur informe la collectivité de cette transmission. Il en informe également le représentant de l'Etat dans le
+département et le conseil de la caisse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-373 du 20 avril 2005 - art. 1 () JORF 23 avril 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L14-10-3 (VT)
+	  - Code de l'action sociale et des familles - art. L14-10-5 (V)
+
+
+##### Section 3 : Agent comptable
+
+###### Article R14-10-21
+
+L'agent comptable de la Caisse nationale de solidarité pour l'autonomie est nommé par arrêté conjoint des ministres chargés
+du budget, de l'action sociale et de la sécurité sociale. Il est placé sous l'autorité administrative du directeur.
+
+Il établit le compte financier et le soumet au conseil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-373 du 20 avril 2005 - art. 1 () JORF 23 avril 2005
+
+
+###### Article R14-10-22
+
+Les opérations financières de l'établissement sont effectuées conformément aux dispositions du décret n° 53-1227 du 10
+décembre 1953 modifié relatif à la réglementation applicable aux établissements publics nationaux à caractère administratif
+et du décret n° 62-1587 du 29 décembre 1962 modifié portant règlement général sur la comptabilité publique. Elles sont
+soumises au contrôle financier de l'Etat conformément à la réglementation applicable aux établissements publics de l'Etat à
+caractère administratif.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°53-1227 1953-12-10
+	  - Décret n°62-1587 1962-12-29
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-373 du 20 avril 2005 - art. 1 () JORF 23 avril 2005
+
+
+##### Section 4 : Conseil scientifique
+
+##### Sous-section 1 : Composition
+
+###### Article R14-10-23
+
+Le conseil scientifique mentionné à l'article L. 14-10-3 comprend :
+
+1° Des experts dans le domaine de compétence de la Caisse nationale de solidarité pour l'autonomie nommés, dans la limite de
+six, par le ministre chargé des personnes handicapées, après consultation du directeur de la caisse ;
+
+2° Des experts dans le domaine de compétence de la Caisse nationale de solidarité pour l'autonomie nommés, dans la limite de
+six, par le ministre chargé des personnes âgées, après consultation du directeur de la caisse ;
+
+3° Un représentant du Conseil national de l'évaluation sociale et médico-sociale mentionné à l'article L. 312-8, choisi par
+ce conseil parmi les personnalités qualifiées mentionnées au 8° de l'article R. 312-172 ;
+
+4°  Le directeur de la recherche, des études, de l'évaluation et des statistiques du ministère chargé de la santé ou son
+représentant ;
+
+5° Le directeur de l'animation, de la recherche, des études et des statistiques du ministère chargé du travail ou son
+représentant ;
+
+6° Le directeur de la direction de la recherche du ministère chargé de la recherche ou son représentant ;
+
+7° Le directeur de l'Institut national de la statistique et des études économiques du ministère chargé de l'économie ou son
+représentant ;
+
+8° Le directeur de la direction de l'évaluation et de la prospective du ministère chargé de l'éducation nationale ou son
+représentant ;
+
+9° Un membre de chacun des organismes suivants désignés en son sein par son directeur :
+
+Institut national des études démographiques (INED) ;
+
+Institut national de la santé et de la recherche médicale (INSERM) ;
+
+Centre national de la recherche scientifique (CNRS) ;
+
+Société française de gériatrie et gérontologie (SFGG) ;
+
+Société française de médecine physique et de réadaptation (SOFMER).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-373 du 20 avril 2005 - art. 1 () JORF 23 avril 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L14-10-3 (V)
+	  - Code de l'action sociale et des familles - art. L312-8 (M)
+	  - Code de l'action sociale et des familles - art. R312-172 (T)
+
+
+##### Sous-section 2 : Rôle et modalités de fonctionnement
+
+###### Article R14-10-24
+
+Les membres du conseil scientifique sont nommés pour une durée de quatre ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-373 du 20 avril 2005 - art. 1 () JORF 23 avril 2005
+
+
+###### Article R14-10-25
+
+Le président et le vice-président sont nommés parmi les membres du conseil scientifique par les ministres en charge des
+personnes handicapées et des personnes âgées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-373 du 20 avril 2005 - art. 1 () JORF 23 avril 2005
+
+
+###### Article R14-10-26
+
+Les fonctions de membre du conseil scientifique sont incompatibles avec la qualité de membre du conseil de la Caisse
+nationale de solidarité pour l'autonomie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-373 du 20 avril 2005 - art. 1 () JORF 23 avril 2005
+
+
+###### Article R14-10-27
+
+Le conseil scientifique adopte à la majorité de ses membres son règlement intérieur. Celui-ci peut prévoir la constitution de
+commissions spécialisées chargées de préparer les travaux du conseil scientifique.
+
+Le secrétariat du conseil scientifique est assuré par les services de la Caisse nationale de solidarité pour l'autonomie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-373 du 20 avril 2005 - art. 1 () JORF 23 avril 2005
+
+
+###### Article R14-10-28
+
+Le conseil scientifique est saisi pour avis, chaque année, par le directeur de la caisse, de l'ensemble des questions d'ordre
+scientifique et technique relatives à la mise en oeuvre de la convention d'objectifs et de gestion mentionnée au II de
+l'article L. 14-10-1. Son avis est transmis au conseil de la caisse, et débattu par ce dernier lors de la première réunion
+qui suit cette transmission. 
+
+En outre, le conseil scientifique peut être saisi pour avis par le conseil de la caisse ou par son directeur, dans les
+conditions fixées au V de l'article L. 14-10-3. En cas d'urgence, l'auteur de la saisine peut lui demander de rendre son avis
+dans un délai qu'il fixe. 
+
+Les réunions du conseil scientifique se tiennent sur convocation de son président. Ses avis sont rendus publics. 
+
+Le président du conseil de la Caisse nationale de solidarité pour l'autonomie et le directeur peuvent être présents ou
+représentés aux réunions du conseil scientifique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-373 du 20 avril 2005 - art. 1 () JORF 23 avril 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L14-10-1 (V)
+	  - Code de l'action sociale et des familles - art. L14-10-3 (VT)
+
+
+###### Article R14-10-29
+
+Le conseil scientifique peut entendre toute personne dont il estime l'audition utile à son information.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-373 du 20 avril 2005 - art. 1 () JORF 23 avril 2005
+
+
+###### Article R14-10-30
+
+Tout membre du conseil scientifique qui a un intérêt direct ou indirect dans une affaire soumise à l'examen du conseil doit
+en informer le président.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-373 du 20 avril 2005 - art. 1 () JORF 23 avril 2005
+
+
+###### Article R14-10-31
+
+Les fonctions de membre du conseil scientifique sont exercées à titre gratuit. Les frais de déplacement des membres du
+conseil scientifique sont pris en charge dans les conditions prévues à l'article R. 14-10-14. 
+
+Les frais de fonctionnement du conseil scientifique sont pris en charge par la Caisse nationale de solidarité pour
+l'autonomie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-373 du 20 avril 2005 - art. 1 () JORF 23 avril 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. R14-10-14 (V)
 
 
 ## Livre II : Différentes formes d'aide et d'action sociales
