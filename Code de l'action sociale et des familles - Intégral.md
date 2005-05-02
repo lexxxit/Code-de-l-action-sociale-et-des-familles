@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2005-04-23
+Version Consolidée au 2005-05-03
 
 # Partie législative
 
@@ -25275,9 +25275,16 @@ cas, à la ville de Paris. "
 
 Les recours dirigés contre les décisions prises par le représentant de l'Etat dans le département, le directeur de l'agence
 régionale de l'hospitalisation et le président du conseil général, séparément ou conjointement, ainsi que, le cas échéant,
-par les ministres compétents, déterminant les dotations globales, les remboursements forfaitaires, les prix de journée et
-autres tarifs des établissements et services sanitaires, sociaux et médico-sociaux de statut public ou privé, sont portés, en
-premier ressort, devant le tribunal interrégional de la tarification sanitaire et sociale.
+par les ministres compétents, déterminant les dotations globales, les dotations annuelles, les forfaits annuels, les
+dotations de financement des missions d'intérêt général et d'aide à la contractualisation, les remboursements forfaitaires,
+les prix de journée et autres tarifs des établissements et services sanitaires, sociaux et médico-sociaux de statut public ou
+privé et d'organismes concourant aux soins, sont portés, en premier ressort, devant le tribunal interrégional de la
+tarification sanitaire et sociale.
+
+**Nota:**
+
+Ordonnance 2005-1088 2005-09-01 art. 4 : les présentes dispositions entrent en vigueur à une date fixée par décret en Conseil
+d'Etat et au plus tard à l'expiration du délai de 6 mois suivant la publication de l'ordonnance n° 2005-1088.
 
 **Liens relatifs à cet article**
 
@@ -25307,8 +25314,7 @@ premier ressort, devant le tribunal interrégional de la tarification sanitaire 
 
 	**Modifié par**:
 
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 59 () JORF 3 janvier 2002
+	  - Ordonnance n°2005-406 du 2 mai 2005 - art. 18 () JORF 3 mai 2005
 
 	**Anciens textes**:
 
@@ -25486,8 +25492,13 @@ d'Etat et au plus tard à l'expiration du délai de 6 mois suivant la publicatio
 ###### Article L351-6
 
 Les décisions du tribunal interrégional de la tarification sanitaire et sociale et de la Cour nationale fixant le montant des
-dotations globales, remboursements forfaitaires, prix de journée et autres tarifs, ont effet à compter de la date fixée dans
-la décision donnant lieu au litige.
+dotations globales, les dotations annuelles, les forfaits annuels, remboursements forfaitaires, prix de journée et autres
+tarifs, ont effet à compter de la date fixée dans la décision donnant lieu au litige.
+
+**Nota:**
+
+Ordonnance 2005-1088 2005-09-01 art. 4 : les présentes dispositions entrent en vigueur à une date fixée par décret en Conseil
+d'Etat et au plus tard à l'expiration du délai de 6 mois suivant la publication de l'ordonnance n° 2005-1088.
 
 **Liens relatifs à cet article**
 
@@ -25503,9 +25514,7 @@ la décision donnant lieu au litige.
 
 	**Modifié par**:
 
-	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 59 I D, F JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 59 () JORF 3 janvier 2002
+	  - Ordonnance n°2005-406 du 2 mai 2005 - art. 18 () JORF 3 mai 2005
 
 	**Anciens textes**:
 
