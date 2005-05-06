@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2005-05-05
+Version Consolidée au 2005-05-07
 
 # Partie législative
 
@@ -34419,33 +34419,45 @@ Le Haut Conseil dispose d'un budget dont les crédits sont inscrits au budget du
 Le conseil supérieur du travail social placé auprès du ministre chargé de l'action sociale est chargé de donner son avis sur
 les questions qui lui sont soumises par le ministre et qui concernent la formation, l'exercice professionnel, à l'exclusion
 des points relatifs à la négociation ou à l'application des conventions collectives dans le secteur social, et les relations
-internationales dans le domaine du travail social. Le conseil supérieur du travail social donne son avis sur le projet de
-schéma national des formations sociales prévu à l'article L. 451-1. Il est informé du contenu des schémas régionaux des
-formations sociales subséquents.
+internationales dans le domaine du travail social. Le conseil supérieur du travail social est consulté au moins tous les
+trois ans sur les orientations des formations sociales définies par le ministre chargé des affaires sociales.
 
 Il est présidé par le ministre chargé de l'action sociale qui fixe sa composition par arrêté. Il comprend des représentants
 des pouvoirs publics, des syndicats de salariés, des organismes formateurs, des usagers et des organismes faisant appel au
 concours des travailleurs sociaux.
 
+**Nota:**
+
+Décret n° 2009-624 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil
+supérieur du travail social).
+
+Conformément à l'article 1 du décret n° 2014-594 du 6 juin 2014, le Conseil supérieur du travail social est renouvelé pour
+une durée d'un an à compter de l'entrée en vigueur du présent décret (jusqu'au 8 juin 2015). 
+
+Conformément à l'annexe I du décret n° 2015-626 du 5 juin 2015, le Conseil supérieur du travail social est renouvelé jusqu'au
+31 décembre 2015.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
+	  - Décret n°84-630 du 17 juillet 1984 - art. 1 (M)
 	  - Décret n°84-630 du 17 juillet 1984 - art. 1 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2005-426 du 4 mai 2005 - art. 3 () JORF 7 mai 2005
+
 	**Cité par**:
 
 	  - Décret n°2009-624 du 6 juin 2009 - art. (V)
 	  - Décret n°2014-594 du 6 juin 2014 - art. Annexe I (V)
 	  - Décret n°2015-626 du 5 juin 2015 - art. Annexe II (V)
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L451-1 (M)
 
 
 #### Chapitre III : Conseil national des politiques de lutte contre la pauvreté et l'exclusion sociale
@@ -74731,6 +74743,95 @@ compétence du tribunal d'instance du lieu de résidence de l'accueillant famili
 
 ##### Section 1 : Etablissements de formation.
 
+###### Article D451-5
+
+Pour pouvoir bénéficier de l'agrément de la région en vue du financement nécessaire à la mise en oeuvre d'une formation
+initiale préparant à un diplôme délivré par l'Etat mentionné à l'article L. 451-1, l'établissement de formation doit
+satisfaire à l'obligation de déclaration préalable et être enregistré sur la liste mentionnée à l'article R. 451-4. 
+
+Il doit également justifier des moyens nécessaires à la mise en oeuvre effective du projet pour lequel l'agrément est
+demandé ; notamment d'une capacité d'accueil suffisante. 
+
+Sans préjudice des dispositions de l'article R. 451-4-3, l'agrément est accordé par le président du conseil régional au moins
+pour la durée de la formation préparant à ce diplôme. 
+
+Les conditions minimales d'agrément mentionnées au présent article sont applicables aux départements exerçant, par délégation
+de la région, la compétence d'agrément des établissements dispensant des formations sociales initiales.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-1342 du 12 novembre 2002 - art. 1, v. init.
+	  - Décret n°2002-1342 du 12 novembre 2002 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 du 21 octobre 2004
+
+	**Modifié par**:
+
+	  - Décret n°2005-426 du 4 mai 2005 - art. 2 () JORF 7 mai 2005
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-537 du 13 avril 2017 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2017-537 du 13 avril 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L451-1
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R544-5 (V)
+
+
+###### Article D451-6
+
+L'agrément mentionné à l'article D. 451-5 est demandé par la personne physique ou morale juridiquement responsable d'un
+établissement désirant préparer à un ou plusieurs diplômes de travail social mentionnés à l'article L. 451-1 par la voie de
+la formation initiale. 
+
+Elle est transmise au président du conseil régional de la région d'implantation de l'établissement de formation. 
+
+Le président du conseil régional informe le représentant de l'Etat dans la région des agréments accordés en application de
+l'article L. 451-2 ainsi que du nombre de places d'étudiants financées au titre de la formation initiale. Ces informations
+sont reportées sur la liste mentionnée à l'article R. 451-4.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-1342 du 12 novembre 2002 - art. 2, v. init.
+	  - Décret n°2002-1342 du 12 novembre 2002 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 du 21 octobre 2004
+
+	**Modifié par**:
+
+	  - Décret n°2005-426 du 4 mai 2005 - art. 2 () JORF 7 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2017-537 du 13 avril 2017 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D451-10 (Ab)
+	  - Code de l'action sociale et des familles - art. R544-5 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L451-1
+	  - Code de l'action sociale et des familles - art. L451-2
+
+
 ###### Article R451-1
 
 Les diplômes délivrés par l'Etat garantissant la qualification des professionnels et des personnels mentionnés à l'article L.
@@ -75086,97 +75187,30 @@ juridiquement responsable de l'établissement de formation et au président du c
 
 ##### Section 2 : Bourses d'études.
 
-###### Article D451-5
-
-Les aides financières de l'Etat mentionnées à l'article L. 451-3, dénommées bourses, sont attribuées pour les études, suivies
-en formation initiale, préparant aux diplômes et certificats en travail social.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-1342 du 12 novembre 2002 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L451-3 (M)
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. R544-5 (V)
-
-
-###### Article D451-6
-
-Les bourses sont attribuées aux étudiants remplissant les conditions suivantes :
-
-1° Être de nationalité française ou ressortissant de l'un des Etats membres de la Communauté européenne ou partie à l'accord
-sur l'Espace économique européen, ou être de nationalité étrangère hors Communauté européenne et posséder un des titres de
-séjour exigés par les dispositions législatives, réglementaires ou conventionnelles en vigueur ;
-
-2° Être inscrit dans un établissement de formation agréé par le ministre chargé de l'action sociale pour préparer aux
-diplômes ou certificats en travail social mentionnés à l'article L. 451-1 ;
-
-3° Justifier d'un montant de revenus apprécié conformément aux modalités fixées à l'article D. 451-7.
-
-Les fonctionnaires stagiaires ou titulaires en activité des fonctions publiques de l'Etat, territoriale ou hospitalière, ne
-peuvent prétendre à l'attribution d'une bourse au titre de la présente section.
-
-Les bénéficiaires d'une bourse d'étude, d'allocations de chômage, d'aides à l'insertion ou à la formation professionnelle
-ainsi que les personnes sous contrat d'apprentissage ou de qualification, en congé individuel de formation ou recrutées dans
-le cadre du programme "Nouveaux services, emplois-jeunes" ne peuvent en cumuler le bénéfice avec celui d'une bourse attribuée
-au titre de la présente section.
-
-En cas de redoublement, l'étudiant en travail social peut, sous réserve d'en réunir les conditions d'attribution, être admis
-au bénéfice de la bourse à une seule reprise au cours de la formation engagée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-1342 du 12 novembre 2002 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. D451-10 (Ab)
-	  - Code de l'action sociale et des familles - art. R544-5 (V)
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. D451-7 (M)
-	  - Code de l'action sociale et des familles - art. L451-1 (M)
-
-
 ###### Article D451-7
 
-Les bourses sont attribuées aux étudiants selon un barème comportant cinq échelons correspondant à des plafonds de ressources
-pondérés par des points de charges.
+Le barème des aides mentionnées à l'article L. 451-3 accordées sous forme de bourses d'études comporte, d'une part, au moins
+cinq échelons, numérotés de un à cinq, auxquels correspondent des plafonds de ressources minimaux et, d'autre part, une liste
+de points de charges minimaux de l'étudiant.
 
-Les ressources à prendre en compte sont les revenus imposables à l'impôt sur le revenu des personnes physiques indiqués sur
-le dernier avis d'imposition disponible de l'étudiant ou de sa famille s'il lui est rattaché fiscalement.
+A chaque échelon correspond un taux minimum exprimé en euros.
 
-Sont également pris en compte, le cas échéant, les revenus perçus à l'étranger ne figurant pas sur l'avis d'imposition et les
-pensions alimentaires effectivement versées et non imposables.
+Les points de charges se réfèrent notamment au handicap dont l'étudiant peut être atteint, à ses propres charges familiales
+ou à celles de sa famille, aux mesures de protection particulière dont il peut bénéficier ainsi qu'à la distance qui sépare
+son domicile de l'établissement de formation.
 
-Les points de charges se réfèrent au handicap dont l'étudiant peut être atteint, à ses propres charges familiales ou à celles
-de sa famille, aux mesures de protection particulière dont il peut bénéficier ainsi qu'à la distance qui sépare son domicile
-du centre de formation.
+Les ressources à prendre en compte pour l'appréciation des plafonds de ressources sont les revenus imposables à l'impôt sur
+le revenu des personnes physiques indiqués sur le dernier avis d'imposition disponible de l'étudiant ou de sa famille s'il
+lui est rattaché fiscalement.
 
-Un arrêté du ministre chargé de l'action sociale précise le mode de calcul des points de charges ainsi que le barème des
-plafonds de ressources.
+Les taux minimaux des échelons un à cinq, les plafonds minimaux de ressources et la liste des points de charge minimaux de
+l'étudiant sont définis à l'annexe 4-1. Ils font l'objet d'un réexamen annuel.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
+	  - Décret n°2002-1342 du 12 novembre 2002 - art. 5, v. init.
 	  - Décret n°2002-1342 du 12 novembre 2002 - art. 5 (Ab)
 
 	**Codifié par**:
@@ -75190,55 +75224,9 @@ plafonds de ressources.
 	  - Code de l'action sociale et des familles - art. D451-10 (Ab)
 	  - Code de l'action sociale et des familles - art. D451-6 (M)
 
+	**Modifié par**:
 
-###### Article D451-10
-
-Les bourses sont attribuées pour une année scolaire ou pour la partie de l'année scolaire restant à effectuer compte tenu de
-la formation dispensée et sont payables en plusieurs fractions, correspondant chacune à une partie de l'année scolaire, qui
-seront fixées par l'arrêté prévu à l'article R. 451-8.
-
-Elles sont attribuées aux étudiants remplissant les conditions de revenus par application du barème prévu à l'article D.
-451-7. Toutefois, en cas de situation particulière du fait notamment d'un changement de la situation de l'étudiant ou de sa
-famille entre la fin de la période de référence et la date de la clôture de dépôt des dossiers, le préfet de région peut,
-après avis de la commission prévue à l'article R. 451-9, attribuer une bourse ou l'attribuer à un échelon supérieur à celui
-procédant de l'application du barème.
-
-La décision d'attribution peut être révisée en cas de changement de situation en cours d'année scolaire, dont il résulte que
-l'une des conditions d'attribution fixées à l'article D. 451-6 n'est plus remplie, à compter du mois qui suit le changement
-de situation.
-
-L'étudiant est tenu d'informer immédiatement le directeur régional des affaires sanitaires et sociales de toute modification
-de sa situation intervenue en cours d'année scolaire de nature à remettre en cause l'attribution. En cas d'absence ou de
-retard d'une telle information, la décision d'attribution peut être révisée avec effet rétroactif. Dès la notification de
-cette décision, l'étudiant est tenu de reverser les sommes indûment perçues au Trésor public.
-
-L'interruption des études entraîne la suspension du versement de la bourse.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-1342 du 12 novembre 2002 - art. 6, v. init.
-	  - Décret n°2002-1342 du 12 novembre 2002 - art. 6 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
-
-	  - Décret n°2005-426 du 4 mai 2005 - art. 6 (V) JORF 7 mai 2005
-
-	**Cité par**:
-
-	  - Décret n°2005-426 du 4 mai 2005 - art. 6 (V)
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. D451-6 (M)
-	  - Code de l'action sociale et des familles - art. D451-7 (M)
-	  - Code de l'action sociale et des familles - art. R451-8 (Ab)
-	  - Code de l'action sociale et des familles - art. R451-9 (Ab)
+	  - Décret n°2005-426 du 4 mai 2005 - art. 1 () JORF 7 mai 2005
 
 
 ##### Section 3 : Formations et diplômes
@@ -75399,11 +75387,8 @@ affaires sociales et du ministre chargé de l'enseignement supérieur.
 
 ###### Article D451-18
 
-Le diplôme supérieur en travail social sanctionne une formation dispensée par des organismes de formation, qui, dans
-l'attente de la publication du décret prévu à l'article L. 451-1, sont agréés par arrêté du ministre chargé des affaires
-sociales et du ministre chargé de l'enseignement supérieur. La formation au diplôme supérieur en travail social est organisée
-dans le cadre d'une convention de coopération entre une université ou un établissement d'enseignement supérieur et un centre
-de formation des professions sociales.
+La formation au diplôme supérieur en travail social est organisée dans le cadre d'une convention de coopération entre une
+université ou un établissement d'enseignement supérieur et un centre de formation des professions sociales.
 
 **Liens relatifs à cet article**
 
@@ -75415,15 +75400,15 @@ de formation des professions sociales.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2005-426 du 4 mai 2005 - art. 3 () JORF 7 mai 2005
+
 	**Cité par**:
 
 	  - Arrêté du 2 août 2006 - art. 2 (V)
 	  - Arrêté du 2 août 2006 - art. 3 (V)
 	  - Arrêté du 2 août 2006 - art. 4 (V)
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L451-1 (M)
 
 
 ###### Article D451-19
@@ -75723,20 +75708,27 @@ la formation peut être aménagée dans des conditions fixées par arrêté des 
 Ces formations comprennent obligatoirement un enseignement théorique et technique et des stages. Le programme des
 enseignements et les conditions dans lesquelles sont effectués les stages sont fixés par arrêté des mêmes ministres.
 
-Ces formations ne peuvent être dispensées que par les établissements publics d'enseignement et de formation figurant sur une
-liste arrêtée par le ministre chargé de l'éducation et par les écoles ayant fait l'objet d'un agrément délivré, dans
-l'attente de la publication du décret prévu à l'article L. 451-1, par arrêté des ministres mentionnés à l'article D. 451-29.
-
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-138 1967-02-22 art. 2
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2005-426 du 4 mai 2005 - art. 3 () JORF 7 mai 2005
+
+	**Transféré par**:
+
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. D451-29 (T)
-	  - Code de l'action sociale et des familles - art. L451-1 (M)
 
 	**Cité par**:
 
@@ -75745,28 +75737,42 @@ l'attente de la publication du décret prévu à l'article L. 451-1, par arrêt�
 
 	**Nouveaux textes**:
 
+	  - Code de l'action sociale et des familles - art. D451-42 (M)
 	  - Code de l'action sociale et des familles - art. D451-42 (V)
 
 
 ###### Article D451-31
 
-L'examen a lieu chaque année, dans les académies pourvues d'un établissement de formation remplissant les conditions fixées
-au dernier alinéa de l'article D. 451-30. L'implantation du centre d'examen et les dates des épreuves sont fixées par le
-recteur.
+L'examen a lieu chaque année, dans les académies pourvues d'un établissement de formation ayant satisfait à l'obligation de
+déclaration préalable prévue à l'article L. 451-1. L'implantation du centre d'examen et les dates des épreuves sont fixées
+par le recteur.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-138 1967-02-22 art. 3
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'action sociale et des familles - art. D451-30 (M)
+	  - Décret n°2005-426 du 4 mai 2005 - art. 3 () JORF 7 mai 2005
+
+	**Transféré par**:
+
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
 
 	**Nouveaux textes**:
 
+	  - Code de l'action sociale et des familles - art. D451-43 (T)
 	  - Code de l'action sociale et des familles - art. D451-43 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L451-1 (M)
 
 
 ###### Article D451-32
@@ -75883,8 +75889,7 @@ chargé des affaires sociales dans des centres désignés par arrêté.
 ###### Article D451-36
 
 Peuvent être admis à subir les épreuves de l'examen les candidats qui, après avoir fait l'objet d'une sélection, ont reçu une
-formation théorique et pratique d'une durée de deux ans dans un centre de formation faisant l'objet d'un agrément délivré,
-dans l'attente de la publication du décret prévu à l'article L. 451-1, par arrêté du ministre chargé des affaires sociales.
+formation théorique et pratique d'une durée de deux ans.
 
 **Liens relatifs à cet article**
 
@@ -75896,20 +75901,25 @@ dans l'attente de la publication du décret prévu à l'article L. 451-1, par ar
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2005-426 du 4 mai 2005 - art. 3 () JORF 7 mai 2005
+
+	**Transféré par**:
+
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
 	**Nouveaux textes**:
 
+	  - Code de l'action sociale et des familles - art. D451-48 (T)
 	  - Code de l'action sociale et des familles - art. D451-48 (V)
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L451-1 (M)
 
 
 ###### Article D451-37
 
 Des arrêtés du ministre chargé des affaires sociales fixent notamment :
 
-1° Les conditions d'admission des élèves dans les centres agréés ;
+1° Les conditions d'admission des élèves en formation ;
 
 2° Le programme et le déroulement des études ;
 
@@ -75925,8 +75935,17 @@ Des arrêtés du ministre chargé des affaires sociales fixent notamment :
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2005-426 du 4 mai 2005 - art. 3 () JORF 7 mai 2005
+
+	**Transféré par**:
+
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
 	**Nouveaux textes**:
 
+	  - Code de l'action sociale et des familles - art. D451-49 (T)
 	  - Code de l'action sociale et des familles - art. D451-49 (V)
 
 
@@ -76019,28 +76038,34 @@ des affaires sociales, le ministre chargé de l'éducation et le ministre de la 
 ###### Article D451-41
 
 L'examen est ouvert aux candidats qui, après contrôle de leurs aptitudes dans les conditions fixées par arrêté des ministres
-mentionnés à l'article D. 451-40, ont suivi une formation assurée par des établissements publics d'enseignement et de
-formation figurant sur une liste arrêtée par le ministre chargé de l'éducation et par les écoles qui ont fait l'objet d'un
-agrément délivré, dans l'attente de la publication du décret prévu à l'article L. 451-1, par arrêté des ministres mentionnés
-à l'article D. 451-40.
+mentionnés à l'article D. 451-40, ont suivi la formation mentionnée à l'article D. 451-43.
 
 Des réductions de la durée de formation peuvent être accordées, dans des conditions fixées par arrêté interministériel, à
 certaines catégories de candidats.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°76-47 1976-01-12 art. 3, art. 7
+	  - Code de l'action sociale et des familles - art. D451-29 (T)
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de l'action sociale et des familles - art. D451-29 (T)
+	  - Décret n°2005-426 du 4 mai 2005 - art. 3 () JORF 7 mai 2005
+
+	**Transféré par**:
+
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
 
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. D451-40 (T)
-	  - Code de l'action sociale et des familles - art. L451-1 (M)
+	  - Code de l'action sociale et des familles - art. D451-43 (T)
 
 	**Cité par**:
 
@@ -76053,19 +76078,34 @@ certaines catégories de candidats.
 
 	**Nouveaux textes**:
 
+	  - Code de l'action sociale et des familles - art. D451-53 (T)
 	  - Code de l'action sociale et des familles - art. D451-53 (V)
 
 
 ###### Article D451-42
 
-L'examen a lieu, chaque année, dans les académies pourvues d'un établissement de formation agréé. L'implantation du centre
-d'examen et la date des épreuves sont fixées par le recteur.
+L'examen a lieu, chaque année, dans les académies pourvues d'un établissement de formation ayant satisfait à l'obligation de
+déclaration préalable prévue à l'article L. 451-1. L'implantation du centre d'examen et la date des épreuves sont fixées par
+le recteur.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-47 1976-01-12 art. 4
+	  - Code de l'action sociale et des familles - art. D451-30 (T)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-426 du 4 mai 2005 - art. 3 () JORF 7 mai 2005
+
+	**Transféré par**:
+
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
 
 	**Cité par**:
 
@@ -76074,13 +76114,14 @@ d'examen et la date des épreuves sont fixées par le recteur.
 	  - Arrêté du 18 mai 2009 - art. 2 (V)
 	  - Arrêté du 18 mai 2009 - art. 3 (V)
 
-	**Anciens textes**:
-
-	  - Code de l'action sociale et des familles - art. D451-30 (T)
-
 	**Nouveaux textes**:
 
+	  - Code de l'action sociale et des familles - art. D451-54 (M)
 	  - Code de l'action sociale et des familles - art. D451-54 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L451-1 (M)
 
 
 ###### Article D451-43
@@ -76206,9 +76247,10 @@ formation, suivie d'une expérience d'animation sanctionnée par la soutenance d
 
 ###### Article D451-47
 
-La formation est dispensée par des établissements agréés. Elle est ouverte aux candidats qui remplissent les conditions
-d'inscription et qui ont satisfait aux épreuves de sélection. Les conditions d'inscription et de sélection sont définies par
-arrêté des ministres chargés des affaires sociales et de la jeunesse.
+La formation est dispensée par des établissements ayant satisfait à l'obligation de déclaration préalable prévue à l'article
+L. 451-1. Elle est ouverte aux candidats qui remplissent les conditions d'inscription et qui ont satisfait aux épreuves de
+sélection. Les conditions d'inscription et de sélection sont définies par arrêté des ministres chargés des affaires sociales
+et de la jeunesse.
 
 La durée totale de la formation ne peut se prolonger au-delà de six ans à compter de la notification de la décision de
 sélection, sauf dérogation d'un an renouvelable une fois, accordée par la décision conjointe du directeur régional des
@@ -76216,13 +76258,22 @@ affaires sanitaires et sociales et du directeur régional de la jeunesse et des 
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°79-500 1979-06-28 art. 2
+	  - Code de l'action sociale et des familles - art. D451-35 (T)
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de l'action sociale et des familles - art. D451-35 (T)
+	  - Décret n°2005-426 du 4 mai 2005 - art. 3 () JORF 7 mai 2005
+
+	**Transféré par**:
+
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
 
 	**Cité par**:
 
@@ -76235,6 +76286,10 @@ affaires sanitaires et sociales et du directeur régional de la jeunesse et des 
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. D451-59 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L451-1 (M)
 
 
 ###### Article D451-48
@@ -76769,8 +76824,8 @@ conditions dans lesquelles les stages sont effectués sont fixées par arrêté 
 
 ###### Article D451-65
 
-La formation est dispensée dans des écoles, qui ont fait l'objet d'un agrément délivré, dans l'attente de la publication du
-décret prévu à l'article L. 451-1, par arrêté des ministres mentionnés à l'article D. 451-61.
+La formation est dispensée dans des écoles, ayant satisfait à l'obligation de déclaration préalable prévue à l'article L.
+451-1.
 
 **Liens relatifs à cet article**
 
@@ -76783,10 +76838,13 @@ décret prévu à l'article L. 451-1, par arrêté des ministres mentionnés à 
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'action sociale et des familles - art. D451-61 (T)
-	  - Code de l'action sociale et des familles - art. L451-1 (M)
+	  - Décret n°2005-426 du 4 mai 2005 - art. 3 () JORF 7 mai 2005
+
+	**Transféré par**:
+
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
 
 	**Cité par**:
 
@@ -76794,13 +76852,18 @@ décret prévu à l'article L. 451-1, par arrêté des ministres mentionnés à 
 
 	**Nouveaux textes**:
 
+	  - Code de l'action sociale et des familles - art. D451-77 (M)
 	  - Code de l'action sociale et des familles - art. D451-77 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L451-1 (M)
 
 
 ###### Article D451-66
 
-L'examen a lieu chaque année dans les académies pourvues d'un établissement de formation agréé. L'implantation du centre
-d'examen et les dates des épreuves sont fixées par le recteur.
+L'examen a lieu chaque année dans les académies pourvues d'un établissement de formation remplissant les conditions fixées à
+l'article D. 451-65. L'implantation du centre d'examen et les dates des épreuves sont fixées par le recteur.
 
 **Liens relatifs à cet article**
 
@@ -76812,8 +76875,21 @@ d'examen et les dates des épreuves sont fixées par le recteur.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2005-426 du 4 mai 2005 - art. 3 () JORF 7 mai 2005
+
+	**Transféré par**:
+
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D451-65 (M)
+
 	**Nouveaux textes**:
 
+	  - Code de l'action sociale et des familles - art. D451-78 (M)
 	  - Code de l'action sociale et des familles - art. D451-78 (V)
 
 
@@ -77006,19 +77082,24 @@ d'organisation sont fixées par arrêté du ministre chargé des affaires social
 Les candidats justifiant de certains titres, certificats ou diplômes peuvent être dispensés de l'une des deux épreuves de
 l'examen de sélection, dans des conditions fixées par arrêté du ministre chargé des affaires sociales.
 
-La liste des candidats admis est arrêtée, pour la rentrée suivante, au nombre d'étudiants fixé par le directeur régional des
-affaires sanitaires et sociales en tenant compte du schéma régional des formations sociales. Elle peut comporter une liste
-complémentaire valable uniquement pour la rentrée concernée.
-
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°74-146 1974-02-15 art. 3
+	  - Code de l'action sociale et des familles - art. D451-61 (T)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de l'action sociale et des familles - art. D451-61 (T)
+	  - Décret n°2005-426 du 4 mai 2005 - art. 3 () JORF 7 mai 2005
+
+	**Transféré par**:
+
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
 
 	**Cité par**:
 
@@ -77031,6 +77112,7 @@ complémentaire valable uniquement pour la rentrée concernée.
 
 	**Nouveaux textes**:
 
+	  - Code de l'action sociale et des familles - art. D451-85 (M)
 	  - Code de l'action sociale et des familles - art. D451-85 (V)
 
 
@@ -77087,15 +77169,29 @@ familiale ;
 
 3° Une ou plusieurs personnes qualifiées dans le domaine social, médical ou paramédical ;
 
-4° Un ou plusieurs représentants des centres de formation agréés pour préparer aux diplômes d'Etat de travail social.
+4° Un ou plusieurs représentants des centres de formation ayant satisfait à l'obligation de déclaration préalable prévue à
+l'article L. 451-1 pour préparer aux diplômes d'Etat de travail social.
 
 Le jury est nommé par le directeur régional des affaires sanitaires et sociales et présidé par lui ou par son représentant.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°74-146 1974-02-15 art. 5
+	  - Code de l'action sociale et des familles - art. D451-63 (T)
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-426 du 4 mai 2005 - art. 3 () JORF 7 mai 2005
+
+	**Transféré par**:
+
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
 
 	**Nouveaux textes**:
 
@@ -77104,11 +77200,12 @@ Le jury est nommé par le directeur régional des affaires sanitaires et sociale
 	  - Code de l'action sociale et des familles - art. D451-102 (V)
 	  - Code de l'action sociale et des familles - art. D451-103 (V)
 	  - Code de l'action sociale et des familles - art. D451-104 (V)
+	  - Code de l'action sociale et des familles - art. D451-87 (M)
 	  - Code de l'action sociale et des familles - art. D451-87 (V)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. D451-63 (T)
+	  - Code de l'action sociale et des familles - art. L451-1 (M)
 
 
 ##### Paragraphe 10 : Diplôme d'Etat d'auxiliaire de vie sociale.
