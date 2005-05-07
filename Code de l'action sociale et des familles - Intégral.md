@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2005-05-07
+Version Consolidée au 2005-05-08
 
 # Partie législative
 
@@ -37617,7 +37617,7 @@ six, par le ministre chargé des personnes handicapées, après consultation du 
 six, par le ministre chargé des personnes âgées, après consultation du directeur de la caisse ;
 
 3° Un représentant du Conseil national de l'évaluation sociale et médico-sociale mentionné à l'article L. 312-8, choisi par
-ce conseil parmi les personnalités qualifiées mentionnées au 8° de l'article R. 312-172 ;
+ce conseil parmi les personnalités qualifiées mentionnées au 8° de l'article R. 312-175 ;
 
 4°  Le directeur de la recherche, des études, de l'évaluation et des statistiques du ministère chargé de la santé ou son
 représentant ;
@@ -37651,15 +37651,15 @@ Société française de médecine physique et de réadaptation (SOFMER).
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-373 du 20 avril 2005 - art. 1 () JORF 23 avril 2005
+	  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
 
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L14-10-3 (V)
 	  - Code de l'action sociale et des familles - art. L312-8 (M)
-	  - Code de l'action sociale et des familles - art. R312-172 (T)
+	  - Code de l'action sociale et des familles - art. R312-175 (T)
 
 
 ##### Sous-section 2 : Rôle et modalités de fonctionnement
@@ -57481,14 +57481,187 @@ sociale et des services d'accompagnement médico-social pour adultes handicapés
 
 ##### Section 2 : Organismes consultatifs
 
-##### Sous-section unique : Comités régionaux de l'organisation sociale et médico-sociale
-
-##### Paragraphe 1 : Composition du comité régional de l'organisation sociale et médico-sociale.
+##### Sous-section 1 : Section sociale du Comité national de l'organisation sanitaire et sociale
 
 ###### Article R312-156
 
+La section sociale du Comité national de l'organisation sanitaire et sociale mentionnée à l'article R. 712-6 du code de la
+santé publique est consultée :
+
+1° Dans les cas prévus aux articles L. 312-1, L. 312-3-I, L. 312-5 ;
+
+2° Sur les projets de création, de transformation ou d'extension d'établissements ou de services mentionnés à l'article L.
+312-1 et relevant du schéma national d'organisation sociale et médico-sociale lorsque ces projets portent sur une capacité
+supérieure aux seuils fixés par l'article R. 313-1.
+
+La section sociale peut, en outre, être consultée par le ministre chargé de l'action sociale sur toute question concernant
+l'application du livre III du code de l'action sociale et des familles.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2004-65 du 15 janvier 2004 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
+
+	**Transféré par**:
+
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R712-6 (M)
+	  - Code de l'action sociale et des familles - art. L312-1 (M)
+	  - Code de l'action sociale et des familles - art. L312-3 (M)
+	  - Code de l'action sociale et des familles - art. R313-1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. R312-159 (T)
+	  - Code de l'action sociale et des familles - art. R312-177 (T)
+	  - Code de l'action sociale et des familles - art. R312-177 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R6122-6 (M)
+	  - Code de la santé publique - art. R712-11 (Ab)
+
+
+###### Article R312-157
+
+Outre le président ou son suppléant, la section sociale du Comité national de l'organisation sanitaire et sociale comprend :
+
+1° Le député désigné par la commission des affaires culturelles, familiales et sociales de l'Assemblée nationale et mentionné
+au 1° de l'article R. 712-9 du code de la santé publique ;
+
+2° Le sénateur désigné par la commission des affaires sociales du Sénat et mentionné au 2° de ce même article ;
+
+3° Un conseiller régional désigné par le ministre chargé de l'action sociale sur propositions des associations
+représentatives des présidents de conseil régional ;
+
+4° Deux présidents ou vice-présidents de conseil général désignés par le ministre chargé de l'action sociale sur proposition
+des associations représentatives des présidents de conseil général ;
+
+5° Un maire désigné par le ministre chargé de l'action sociale sur proposition des associations représentatives des maires ;
+
+6° Quatre représentants de la Caisse nationale d'assurance maladie des travailleurs salariés, dont le directeur et le
+médecin-conseil national ou leur représentant ;
+
+7° Un représentant de chacun des organismes suivants :
+
+a) Caisse centrale de la mutualité sociale agricole ;
+
+b) Caisse nationale d'assurance maladie des professions indépendantes ;
+
+c) Caisse nationale d'assurance vieillesse des travailleurs salariés ;
+
+d) Caisse nationale des allocations familiales ;
+
+8° Vingt représentants des groupements ou fédérations représentatifs des institutions sociales et médico-sociales, dont cinq
+représentant les institutions accueillant des personnes handicapées, cinq représentant les institutions de protection
+administrative ou judiciaire de l'enfance, cinq représentant les institutions accueillant des personnes en difficultés
+sociales et cinq représentant les institutions accueillant des personnes âgées.
+
+Les cinq représentants de chacune de ces catégories siègent avec voix délibérative pour les décisions individuelles inscrites
+à l'ordre du jour concernant la catégorie qu'ils représentent. Les représentants des catégories non concernées peuvent alors
+participer aux débats avec voix consultative. Lorsque plusieurs catégories d'institutions sont concernées, les représentants
+de ces catégories siègent avec voix délibérative ;
+
+9° Deux représentants des syndicats médicaux les plus représentatifs ;
+
+10° Cinq représentants des personnels non médicaux des institutions sociales et médico-sociales désignés sur proposition des
+organisations syndicales représentatives ;
+
+11° Quatre représentants des usagers des institutions sociales et médico-sociales ;
+
+12° Trois personnalités qualifiées dont une désignée sur proposition de la Fédération nationale de la mutualité française et
+une désignée sur proposition du ministre chargé de l'éducation nationale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2004-65 du 15 janvier 2004 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
+
+	**Transféré par**:
+
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R712-9 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. R312-160 (T)
+	  - Code de l'action sociale et des familles - art. R312-178 (T)
+	  - Code de l'action sociale et des familles - art. R312-178 (V)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R521-2 (M)
+	  - Code de la santé publique - art. R6122-6 (M)
+	  - Code de la santé publique - art. R712-11 (Ab)
+
+
+###### Article R312-158
+
+Les modalités de désignation des membres de la section sociale du Comité national de l'organisation sanitaire et sociale
+ainsi que les modalités de fonctionnement de cette section sont fixées par les dispositions des sous-sections 2 et 4 de la
+section 1 du chapitre II du titre Ier du livre VII du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2004-65 du 15 janvier 2004 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
+
+	**Transféré par**:
+
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. R312-161 (T)
+	  - Code de l'action sociale et des familles - art. R312-179 (T)
+	  - Code de l'action sociale et des familles - art. R312-179 (V)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R521-2 (M)
+
+
+##### Sous-section 2 : Comités régionaux de l'organisation sociale et médico-sociale
+
+##### Paragraphe 1 : Composition du comité régional de l'organisation sociale et médico-sociale.
+
+###### Article R312-159
+
 Le président du comité régional de l'organisation sociale et médico-sociale mentionné à l'article L. 312-3 est désigné, dans
-les conditions prévues à l'article R. 312-159, soit parmi les membres du corps des conseillers des tribunaux administratifs
+les conditions prévues à l'article R. 312-162, soit parmi les membres du corps des conseillers des tribunaux administratifs
 et des cours administratives d'appel, soit parmi les membres du corps des conseillers des chambres régionales des comptes. Il
 est suppléé par un membre de celui de ces corps dont il n'est pas issu.
 
@@ -57507,34 +57680,38 @@ Le mandat du président et de son suppléant est de cinq ans. Il est renouvelabl
 
 	**Anciens textes**:
 
-	  - Décret n°2004-65 2004-01-15 art. 1
-	  - Décret n°2004-65 du 15 janvier 2004 - art. 1 (Ab)
+	  - Décret n°2004-65 du 15 janvier 2004 - art. 4 (Ab)
+	  - Code de l'action sociale et des familles - art. R312-156 (T)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
+
+	**Transféré par**:
+
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L312-3 (M)
-	  - Code de l'action sociale et des familles - art. R312-159 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. R312-159 (T)
-	  - Code de l'action sociale et des familles - art. R312-177 (V)
+	  - Code de l'action sociale et des familles - art. R312-162 (T)
 
 	**Cité par**:
 
-	  - Code de la santé publique - art. R6122-6 (M)
-	  - Code de la santé publique - art. R712-11 (Ab)
+	  - Code de l'action sociale et des familles - art. R312-156 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. R312-162 (T)
+	  - Code de l'action sociale et des familles - art. R312-180 (Ab)
+	  - Code de l'action sociale et des familles - art. R312-180 (T)
 
 
-###### Article R312-157
+###### Article R312-160
 
 Outre le président ou son suppléant, le comité comprend, en formation plénière :
 
@@ -57597,7 +57774,8 @@ exerçant à titre libéral ;
 6° Au titre des personnalités qualifiées, deux personnalités qualifiées dont un représentant de la fédération nationale de la
 mutualité française ;
 
-7° Au titre des représentants du conseil régional de santé, deux représentants du conseil régional de santé.
+7° Au titre des représentants du comité régional de l'organisation sanitaire, deux représentants du comité régional de
+l'organisation sanitaire n'appartenant pas à la catégorie mentionnée au 8° de l'article L. 6121-10.
 
 Un suppléant de chaque membre est désigné dans les mêmes conditions que le titulaire.
 
@@ -57605,30 +57783,34 @@ Un suppléant de chaque membre est désigné dans les mêmes conditions que le t
 
 	**Anciens textes**:
 
-	  - Décret n°2004-65 2004-01-15 art. 2
-	  - Décret n°2004-65 du 15 janvier 2004 - art. 2 (Ab)
+	  - Décret n°2004-65 du 15 janvier 2004 - art. 5 (Ab)
+	  - Code de l'action sociale et des familles - art. R312-157 (T)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2005-434 2005-05-06 art. 9 I, II JORF 8 mai 2005
+	  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
+
 	**Transféré par**:
 
-	  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. R312-160 (T)
-	  - Code de l'action sociale et des familles - art. R312-178 (V)
+	  - Code de l'action sociale et des familles - art. R312-163 (T)
+	  - Code de l'action sociale et des familles - art. R312-181 (T)
+	  - Code de l'action sociale et des familles - art. R312-181 (V)
 
-	**Cité par**:
+	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. R521-2 (M)
-	  - Code de la santé publique - art. R6122-6 (M)
-	  - Code de la santé publique - art. R712-11 (Ab)
+	  - Code de l'action sociale et des familles L6121-10
 
 
-###### Article R312-158
+###### Article R312-161
 
 Lorsqu'il rend ses avis en application des articles L. 313-1 et L. 313-7, et sur délégation de la formation plénière, le
 comité régional est constitué en quatre sections spécialisées compétentes pour les établissements et services pour personnes
@@ -57676,7 +57858,8 @@ b) Les deux représentants des travailleurs sociaux ;
 
 6° Au titre des personnalités qualifiées, les deux personnalités qualifiées ;
 
-7° Au titre des représentants du conseil régional de santé, les deux représentants du conseil régional de santé.
+7° Au titre des représentants du comité régional de l'organisation sanitaire, deux représentants du comité régional de
+l'organisation sanitaire n'appartenant pas à la catégorie mentionnée au 8° de l'article L. 6121-10.
 
 Dans la section spécialisée des établissements et services pour enfants relevant d'une protection administrative ou
 judiciaire, le directeur régional des affaires sanitaires et sociales est remplacé par le directeur régional de la protection
@@ -57686,33 +57869,40 @@ judiciaire de la jeunesse.
 
 	**Anciens textes**:
 
-	  - Décret n°2004-65 2004-01-15 art. 3
-	  - Décret n°2004-65 du 15 janvier 2004 - art. 3 (Ab)
+	  - Décret n°2004-65 du 15 janvier 2004 - art. 6 (Ab)
+	  - Décret n°2004-65 du 15 janvier 2004 - art. 7 (Ab)
+	  - Code de l'action sociale et des familles - art. R312-158 (T)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2005-434 2005-05-06 art. 9 I, II JORF 8 mai 2005
+	  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
+
 	**Transféré par**:
 
-	  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L313-1 (M)
 	  - Code de l'action sociale et des familles - art. L313-7 (M)
+	  - Code de l'action sociale et des familles L313-1, L313-7, L6121-10
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. R312-161 (T)
-	  - Code de l'action sociale et des familles - art. R312-179 (V)
+	  - Code de l'action sociale et des familles - art. R312-164 (T)
+	  - Code de l'action sociale et des familles - art. R312-182 (V)
 
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. R521-2 (M)
 
 
-###### Article R312-159
+###### Article R312-162
 
 Un arrêté du préfet de région détermine d'une part la liste des organismes, institutions, groupements, fédérations ou
 syndicats représentés, et d'autre part le nombre de sièges dont ils disposent.
@@ -57723,29 +57913,33 @@ Le préfet de région fixe par arrêté la liste nominative des membres du comit
 
 	**Anciens textes**:
 
-	  - Décret n°2004-65 2004-01-15 art. 4
-	  - Décret n°2004-65 du 15 janvier 2004 - art. 4 (Ab)
-	  - Code de l'action sociale et des familles - art. R312-156 (T)
+	  - Décret n°2004-65 du 15 janvier 2004 - art. 8 (Ab)
+	  - Code de l'action sociale et des familles - art. R312-159 (T)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
 
+	**Transféré par**:
+
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+
 	**Cité par**:
 
-	  - Code de l'action sociale et des familles - art. R312-156 (T)
+	  - Code de l'action sociale et des familles - art. R312-159 (T)
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. R312-162 (T)
-	  - Code de l'action sociale et des familles - art. R312-180 (Ab)
+	  - Code de l'action sociale et des familles - art. R312-165 (T)
+	  - Code de l'action sociale et des familles - art. R312-183 (Ab)
+	  - Code de l'action sociale et des familles - art. R312-183 (V)
 
 
-###### Article R312-160
+###### Article R312-163
 
 Le mandat des membres titulaires et suppléants est de cinq ans. Il est renouvelable.
 
@@ -57760,27 +57954,31 @@ nouveau membre prend fin à la date à laquelle aurait cessé celui du membre qu
 
 	**Anciens textes**:
 
-	  - Décret n°2004-65 2004-01-15 art. 5
-	  - Décret n°2004-65 du 15 janvier 2004 - art. 5 (Ab)
-	  - Code de l'action sociale et des familles - art. R312-157 (T)
+	  - Décret n°2004-65 du 15 janvier 2004 - art. 9 (Ab)
+	  - Code de l'action sociale et des familles - art. R312-160 (T)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
 
+	**Transféré par**:
+
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. R312-163 (T)
-	  - Code de l'action sociale et des familles - art. R312-181 (V)
+	  - Code de l'action sociale et des familles - art. R312-166 (T)
+	  - Code de l'action sociale et des familles - art. R312-184 (Ab)
+	  - Code de l'action sociale et des familles - art. R312-184 (V)
 
 
 ##### Paragraphe 2 : Fonctionnement du comité.
 
-###### Article R312-161
+###### Article R312-164
 
 Le comité se réunit sur convocation du préfet de région, qui détermine l'ordre du jour des séances, après avis de son
 président.
@@ -57791,30 +57989,28 @@ Le secrétariat est assuré par la direction régionale des affaires sanitaires 
 
 	**Anciens textes**:
 
-	  - Décret n°2004-65 2004-01-15 art. 6, 7
-	  - Décret n°2004-65 du 15 janvier 2004 - art. 6 (Ab)
-	  - Décret n°2004-65 du 15 janvier 2004 - art. 7 (Ab)
-	  - Code de l'action sociale et des familles - art. R312-158 (T)
+	  - Décret n°2004-65 du 15 janvier 2004 - art. 10 (Ab)
+	  - Code de l'action sociale et des familles - art. R312-161 (T)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
 
+	**Transféré par**:
+
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. R312-164 (T)
-	  - Code de l'action sociale et des familles - art. R312-182 (V)
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. R521-2 (M)
+	  - Code de l'action sociale et des familles - art. R312-167 (T)
+	  - Code de l'action sociale et des familles - art. R312-185 (V)
 
 
-###### Article R312-162
+###### Article R312-165
 
 Le comité régional ne peut délibérer que si au moins la moitié des membres sont présents. Le quorum est apprécié en début de
 séance.
@@ -57842,29 +58038,33 @@ Les membres du comité exercent leur mandat à titre gratuit.
 
 	**Anciens textes**:
 
-	  - Décret n°2004-65 2004-01-15 art. 8
-	  - Décret n°2004-65 du 15 janvier 2004 - art. 8 (Ab)
-	  - Code de l'action sociale et des familles - art. R312-159 (T)
+	  - Décret n°2004-65 du 15 janvier 2004 - art. 11 (Ab)
+	  - Code de l'action sociale et des familles - art. R312-162 (T)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
 
-	**Cité par**:
+	**Transféré par**:
 
-	  - Code de l'action sociale et des familles - art. R312-159 (T)
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. R312-165 (T)
-	  - Code de l'action sociale et des familles - art. R312-183 (Ab)
+	  - Code de l'action sociale et des familles - art. R312-168 (T)
+	  - Code de l'action sociale et des familles - art. R312-186 (Ab)
+	  - Code de l'action sociale et des familles - art. R312-186 (V)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R521-2 (M)
 
 
-###### Article R312-163
+###### Article R312-166
 
 Le comité établit son règlement intérieur qui est approuvé par le préfet de région.
 
@@ -57881,25 +58081,29 @@ Le règlement intérieur prévoit notamment :
 
 	**Anciens textes**:
 
-	  - Décret n°2004-65 2004-01-15 art. 9
-	  - Décret n°2004-65 du 15 janvier 2004 - art. 9 (Ab)
-	  - Code de l'action sociale et des familles - art. R312-160 (T)
+	  - Décret n°2004-65 du 15 janvier 2004 - art. 11 (Ab)
+	  - Code de l'action sociale et des familles - art. R312-163 (T)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
 
+	**Transféré par**:
+
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. R312-166 (T)
-	  - Code de l'action sociale et des familles - art. R312-184 (Ab)
+	  - Code de l'action sociale et des familles - art. R312-169 (T)
+	  - Code de l'action sociale et des familles - art. R312-187 (Ab)
+	  - Code de l'action sociale et des familles - art. R312-187 (V)
 
 
-###### Article R312-164
+###### Article R312-167
 
 Les projets de schémas d'organisation sociale et médico-sociale sont adressés aux membres du comité deux mois au moins avant
 sa réunion, par le représentant de l'Etat dans la région, accompagnés d'une note de présentation générale portant notamment
@@ -57909,25 +58113,29 @@ sur leur cohérence avec les autres schémas déjà arrêtés dans la région.
 
 	**Anciens textes**:
 
-	  - Décret n°2004-65 2004-01-15 art. 10
-	  - Décret n°2004-65 du 15 janvier 2004 - art. 10 (Ab)
-	  - Code de l'action sociale et des familles - art. R312-161 (T)
+	  - Décret n°2004-65 du 15 janvier 2004 - art. 11 (Ab)
+	  - Code de l'action sociale et des familles - art. R312-164 (T)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
 
+	**Transféré par**:
+
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. R312-167 (T)
-	  - Code de l'action sociale et des familles - art. R312-185 (V)
+	  - Code de l'action sociale et des familles - art. R312-170 (T)
+	  - Code de l'action sociale et des familles - art. R312-188 (Ab)
+	  - Code de l'action sociale et des familles - art. R312-188 (V)
 
 
-###### Article R312-165
+###### Article R312-168
 
 Les demandes d'autorisation, de transformation et d'extension d'établissements ou de services sociaux ou médico-sociaux font
 l'objet de rapports introductifs présentés par des agents de l'État, des collectivités territoriales, ou par des praticiens-
@@ -57960,17 +58168,20 @@ peuvent être appelés à prendre part aux débats, à titre consultatif, à l'i
 
 	**Anciens textes**:
 
-	  - Décret n°2004-65 2004-01-15 art. 11, I et II
-	  - Décret n°2004-65 du 15 janvier 2004 - art. 11 (Ab)
-	  - Code de l'action sociale et des familles - art. R312-162 (T)
+	  - Décret n°2004-65 du 15 janvier 2004 - art. 12 (Ab)
+	  - Code de l'action sociale et des familles - art. R312-165 (T)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
+
+	**Transféré par**:
+
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
 	**Cite**:
 
@@ -57980,15 +58191,11 @@ peuvent être appelés à prendre part aux débats, à titre consultatif, à l'i
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. R312-168 (T)
-	  - Code de l'action sociale et des familles - art. R312-186 (Ab)
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. R521-2 (M)
+	  - Code de l'action sociale et des familles - art. R312-171 (T)
+	  - Code de l'action sociale et des familles - art. R312-189 (V)
 
 
-###### Article R312-166
+###### Article R312-169
 
 L'opportunité des projets de création, de transformation ou d'extension est appréciée en fonction :
 
@@ -58005,19 +58212,17 @@ projets correspondant aux catégories d'établissements ou de services énumér�
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2004-65 2004-01-15 art. 11 III
-	  - Décret n°2004-65 du 15 janvier 2004 - art. 11 (Ab)
-	  - Code de l'action sociale et des familles - art. R312-163 (T)
-
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
+
+	**Transféré par**:
+
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
 	**Cite**:
 
@@ -58025,13 +58230,17 @@ projets correspondant aux catégories d'établissements ou de services énumér�
 	  - Code de l'action sociale et des familles - art. L312-1 (M)
 	  - Code de l'action sociale et des familles - art. L313-4 (M)
 
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. R312-166 (T)
+
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. R312-169 (T)
-	  - Code de l'action sociale et des familles - art. R312-187 (Ab)
+	  - Code de l'action sociale et des familles - art. R312-190 (Ab)
+	  - Code de l'action sociale et des familles - art. R312-190 (V)
 
 
-###### Article R312-167
+###### Article R312-170
 
 La procédure simplifiée mentionnée au deuxième paragraphe de l'article L. 313-1 s'applique aux extensions et transformations
 d'établissements ou de services sociaux et médico-sociaux, ainsi qu'aux créations de services sociaux et médico-sociaux qui
@@ -58052,32 +58261,34 @@ offert ;
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2004-65 2004-01-15 art. 11 IV
-	  - Décret n°2004-65 du 15 janvier 2004 - art. 11 (Ab)
-	  - Code de l'action sociale et des familles - art. R312-164 (T)
-
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
+
+	**Transféré par**:
+
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L312-1 (M)
 	  - Code de l'action sociale et des familles - art. L313-1 (M)
 
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. R312-167 (T)
+
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. R312-170 (T)
-	  - Code de l'action sociale et des familles - art. R312-188 (Ab)
+	  - Code de l'action sociale et des familles - art. R312-191 (Ab)
+	  - Code de l'action sociale et des familles - art. R312-191 (V)
 
 
-###### Article R312-168
+###### Article R312-171
 
 Le comité peut appeler toute personne dont le concours apparaît souhaitable à participer à ses travaux à titre consultatif.
 
@@ -58085,22 +58296,32 @@ Le comité peut appeler toute personne dont le concours apparaît souhaitable à
 
 	**Anciens textes**:
 
-	  - Décret n°2004-65 2004-01-15 art. 12
-	  - Décret n°2004-65 du 15 janvier 2004 - art. 12 (Ab)
-	  - Code de l'action sociale et des familles - art. R312-165 (T)
+	  - Décret n°2003-1134 du 26 novembre 2003 - art. 1 (Ab)
+	  - Code de l'action sociale et des familles - art. R312-168 (T)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
 
+	**Transféré par**:
+
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R312-172 (T)
+	  - Code de l'action sociale et des familles - art. R312-174 (T)
+	  - Code de l'action sociale et des familles - art. R312-176 (T)
+
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. R312-171 (T)
-	  - Code de l'action sociale et des familles - art. R312-189 (V)
+	  - Code de l'action sociale et des familles - art. R312-174 (T)
+	  - Code de l'action sociale et des familles - art. R312-192 (Ab)
+	  - Code de l'action sociale et des familles - art. R312-192 (V)
 
 
 ##### Section 3 : Schémas d'organisation sociale et médico-sociale
@@ -58193,11 +58414,101 @@ d) Une épilepsie sévère.
 	  - Code de l'action sociale et des familles - art. D312-173 (T)
 
 
+##### Sous-section unique : Liste des établissements et services relevant du schéma national d'organisation médico-sociale
+
+###### Article D312-172
+
+Relèvent du schéma national d'organisation sociale et médico-sociale mentionné au 1° de l'article L. 312-5, les
+établissements et services mentionnés au 2°, au a) du 5°, au 7°, 9° et 11° du I de l'article L. 312-1, lorsqu'ils relèvent de
+la compétence exclusive de l'État et qu'ils accueillent à titre principal ou au sein d'une unité individualisée des personnes
+présentant l'un des handicaps rares définis à l'article D. 312-173.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
+
+	**Transféré par**:
+
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. D312-155-15 (T)
+	  - Code de l'action sociale et des familles - art. D312-169 (T)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D312-173 (T)
+	  - Code de l'action sociale et des familles - art. L312-1 (M)
+	  - Code de l'action sociale et des familles - art. L312-5 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. D312-193 (V)
+
+
+###### Article D312-173
+
+Sont atteintes d'un handicap rare les personnes présentant l'une des configurations de déficiences ou de troubles associés
+dont le taux de prévalence n'est pas supérieur à un cas pour 10 000 habitants et relevant de l'une des catégories suivantes :
+
+1° L'association d'une déficience auditive grave et d'une déficience visuelle grave ;
+
+2° L'association d'une déficience visuelle grave et d'une ou plusieurs autres déficiences graves ;
+
+3° L'association d'une déficience auditive grave et d'une ou plusieurs autres déficiences graves ;
+
+4° Une dysphasie grave associée ou non à une autre déficience ;
+
+5° L'association d'une ou plusieurs déficiences graves et d'une affection chronique, grave ou évolutive, telle que :
+
+a) Une affection mitochondriale ;
+
+b) Une affection du métabolisme ;
+
+c) Une affection évolutive du système nerveux ;
+
+d) Une épilepsie sévère.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
+
+	**Transféré par**:
+
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. D312-155-16 (T)
+	  - Code de l'action sociale et des familles - art. D312-170 (T)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D312-172 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. D312-194 (V)
+
+
 ##### Section 5 : Evaluation et systèmes d'information
 
 ##### Sous-section 1 : Conseil national de l'évaluation sociale et médico-sociale.
 
-###### Article R312-171
+###### Article R312-174
 
 Le conseil national de l'évaluation sociale et médico-sociale mentionné à l'article L. 312-8 a pour mission de promouvoir
 dans les établissements et services sociaux et médico-sociaux le développement de l'évaluation interne et de l'évaluation
@@ -58218,17 +58529,20 @@ l'évaluation mentionnée à l'article L. 313-7 s'agissant des établissements e
 
 	**Anciens textes**:
 
-	  - Décret n°2003-1134 du 26 novembre 2003 - art. 1, v. init.
-	  - Décret n°2003-1134 du 26 novembre 2003 - art. 1 (Ab)
-	  - Code de l'action sociale et des familles - art. R312-168 (T)
+	  - Décret n°2003-1134 du 26 novembre 2003 - art. 4 (Ab)
+	  - Code de l'action sociale et des familles - art. R312-171 (T)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
+
+	**Transféré par**:
+
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
 	**Cite**:
 
@@ -58238,17 +58552,18 @@ l'évaluation mentionnée à l'article L. 313-7 s'agissant des établissements e
 
 	**Cité par**:
 
-	  - Code de l'action sociale et des familles - art. R312-172 (T)
-	  - Code de l'action sociale et des familles - art. R312-174 (T)
-	  - Code de l'action sociale et des familles - art. R312-176 (T)
+	  - Code de l'action sociale et des familles - art. R312-175 (T)
+	  - Code de l'action sociale et des familles - art. R312-177 (T)
+	  - Code de l'action sociale et des familles - art. R312-178 (T)
+	  - Code de l'action sociale et des familles - art. R312-179 (T)
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. R312-174 (T)
-	  - Code de l'action sociale et des familles - art. R312-192 (Ab)
+	  - Code de l'action sociale et des familles - art. R312-177 (T)
+	  - Code de l'action sociale et des familles - art. R312-195 (Ab)
 
 
-###### Article R312-172
+###### Article R312-175
 
 Le conseil comprend :
 
@@ -58281,7 +58596,7 @@ ministres chargés de l'action sociale, de la famille, des personnes âgées, de
 l'exclusion, sur proposition de chacune des organisations syndicales représentatives mentionnées à l'article L. 132-2 du code
 du travail ;
 
-7° Quatre directeurs d'établissements ou de services mentionnés au 1° de l'article R. 312-171 particulièrement qualifiés dans
+7° Quatre directeurs d'établissements ou de services mentionnés au 1° de l'article R. 312-174 particulièrement qualifiés dans
 le domaine de l'évaluation, désignés par les principales associations professionnelles des directeurs desdits établissements
 et services dont au minimum un représentant de chacun des secteurs répondant aux besoins des enfants et familles en
 difficulté, des personnes handicapées, des personnes âgées et des personnes en situation d'exclusion ;
@@ -58302,34 +58617,40 @@ mentionnées au 8° du présent article et arrêtent la liste des membres titula
 
 	**Anciens textes**:
 
-	  - Décret n°2003-1134 du 26 novembre 2003 - art. 2, v. init.
-	  - Décret n°2003-1134 du 26 novembre 2003 - art. 2 (Ab)
+	  - Décret n°2003-1134 du 26 novembre 2003 - art. 5 (Ab)
+	  - Code de l'action sociale et des familles - art. R312-172 (T)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
+
+	**Transféré par**:
+
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
 	**Cite**:
 
 	  - Code du travail - art. L132-2 (M)
 	  - Code de l'action sociale et des familles - art. L312-1 (M)
-	  - Code de l'action sociale et des familles - art. R312-171 (T)
+	  - Code de l'action sociale et des familles - art. R312-174 (T)
 
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. R14-10-23 (M)
-	  - Code de l'action sociale et des familles - art. R312-174 (T)
+	  - Code de l'action sociale et des familles - art. R312-177 (T)
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. R312-175 (T)
+	  - Code de l'action sociale et des familles - art. R312-178 (T)
+	  - Code de l'action sociale et des familles - art. R312-196 (M)
+	  - Code de l'action sociale et des familles - art. R312-196 (V)
 
 
-###### Article R312-173
+###### Article R312-176
 
 Le mandat des membres titulaires et suppléants est de quatre ans. Il est renouvelable une fois. Il prend fin lorsque, avant
 l'expiration de cette période, l'intéressé cesse d'exercer le mandat ou les fonctions au titre desquels il a été élu ou
@@ -58341,76 +58662,90 @@ mandat du nouveau membre prend fin à la date à laquelle aurait cessé celui du
 
 	**Anciens textes**:
 
-	  - Décret n°2003-1134 du 26 novembre 2003 - art. 3, v. init.
-	  - Décret n°2003-1134 du 26 novembre 2003 - art. 3 (Ab)
+	  - Décret n°2003-1134 du 26 novembre 2003 - art. 6 (Ab)
+	  - Code de l'action sociale et des familles - art. R312-173 (T)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
 
+	**Transféré par**:
+
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R312-174 (T)
+
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. R312-176 (T)
+	  - Code de l'action sociale et des familles - art. R312-179 (T)
+	  - Code de l'action sociale et des familles - art. R312-197 (M)
+	  - Code de l'action sociale et des familles - art. R312-197 (V)
 
 
-###### Article R312-174
+###### Article R312-177
 
 Le conseil national désigne une commission technique permanente chargée de préparer les travaux de la formation plénière, de
-publier et diffuser les documents mentionnés au 1° de l'article R. 312-171 et les avis résultant des travaux du conseil. Elle
+publier et diffuser les documents mentionnés au 1° de l'article R. 312-174 et les avis résultant des travaux du conseil. Elle
 élabore le projet de rapport d'activité annuel qu'elle soumet au conseil en vue de son adoption et de sa publication.
 
 Cette commission est composée, outre le président, de huit membres dont quatre choisis parmi ceux mentionnés au 4° , deux
-parmi ceux mentionnés au 7° et deux parmi ceux mentionnés au 8° de l'article R. 312-172.
+parmi ceux mentionnés au 7° et deux parmi ceux mentionnés au 8° de l'article R. 312-175.
 
 Le conseil national peut décider la constitution, à titre permanent ou temporaire, de commissions techniques spécifiques dans
-des conditions fixées par le règlement intérieur mentionné à l'article R. 312-176.
+des conditions fixées par le règlement intérieur mentionné à l'article R. 312-179.
 
 Il peut entendre ou associer à ses travaux tous experts dont les compétences sont utiles à la conduite de ses missions.
 
 Le conseil national dispose d'un secrétariat placé sous l'autorité du président. Il est notamment chargé de mettre en oeuvre
 les procédures d'instruction des dossiers soumis à l'avis du conseil, en application des 1° , 2° et 3° de l'article R.
-312-171.
+312-174.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2003-1134 du 26 novembre 2003 - art. 4, v. init.
-	  - Décret n°2003-1134 du 26 novembre 2003 - art. 4 (Ab)
-	  - Code de l'action sociale et des familles - art. R312-171 (T)
+	  - Décret n°2003-1134 du 26 novembre 2003 - art. 7 (Ab)
+	  - Code de l'action sociale et des familles - art. R312-156 (T)
+	  - Code de l'action sociale et des familles - art. R312-174 (T)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
 
+	**Transféré par**:
+
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. R312-171 (T)
-	  - Code de l'action sociale et des familles - art. R312-172 (T)
-	  - Code de l'action sociale et des familles - art. R312-176 (T)
-
-	**Cité par**:
-
+	  - Code de l'action sociale et des familles - art. R312-174 (T)
 	  - Code de l'action sociale et des familles - art. R312-175 (T)
-	  - Code de l'action sociale et des familles - art. R312-177 (T)
-	  - Code de l'action sociale et des familles - art. R312-178 (T)
 	  - Code de l'action sociale et des familles - art. R312-179 (T)
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. R312-177 (T)
-	  - Code de l'action sociale et des familles - art. R312-195 (Ab)
+	  - Code de l'action sociale et des familles - art. R312-180 (T)
+	  - Code de l'action sociale et des familles - art. R312-198 (Ab)
+	  - Code de l'action sociale et des familles - art. R312-198 (M)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R312-181 (T)
+	  - Code de l'action sociale et des familles - art. R521-2 (V)
+	  - Code de la santé publique - art. R6122-6 (V)
 
 
-###### Article R312-175
+###### Article R312-178
 
 Le conseil national se réunit en formation plénière sur convocation de son président.
 
@@ -58424,70 +58759,79 @@ précédent alinéa.
 
 	**Anciens textes**:
 
-	  - Décret n°2003-1134 du 26 novembre 2003 - art. 5, v. init.
-	  - Décret n°2003-1134 du 26 novembre 2003 - art. 5 (Ab)
-	  - Code de l'action sociale et des familles - art. R312-172 (T)
+	  - Décret n°2003-1134 du 26 novembre 2003 - art. 8 (Ab)
+	  - Code de l'action sociale et des familles - art. R312-157 (T)
+	  - Code de l'action sociale et des familles - art. R312-175 (T)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
 
+	**Transféré par**:
+
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+
 	**Cité par**:
 
-	  - Code de l'action sociale et des familles - art. R14-10-23 (M)
-	  - Code de l'action sociale et des familles - art. R312-177 (T)
+	  - Arrêté du 10 octobre 2008 - art. 3 (Ab)
+	  - Arrêté du 18 mars 2015 - art. 2 (V)
+	  - Code de l'action sociale et des familles - art. R521-2 (V)
+	  - Code de la santé publique - art. R6122-6 (V)
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. R312-178 (T)
-	  - Code de l'action sociale et des familles - art. R312-196 (V)
+	  - Code de l'action sociale et des familles - art. R312-181 (T)
+	  - Code de l'action sociale et des familles - art. R312-199 (Ab)
 
 
-###### Article R312-176
+###### Article R312-179
 
 Lorsqu'il est appelé à rendre des avis, le conseil national ne peut valablement délibérer que si au moins la moitié des
 membres convoqués est présente. Les avis du conseil sont motivés.
 
-Les avis mentionnés au 2° de l'article R. 312-171 font l'objet d'un vote à bulletin secret. Hormis ce cas, le vote à bulletin
+Les avis mentionnés au 2° de l'article R. 312-174 font l'objet d'un vote à bulletin secret. Hormis ce cas, le vote à bulletin
 secret est de plein droit sur décision du président ou sur la demande de l'un des membres présents.
 
 Le conseil national établit son règlement intérieur qui précise les modalités de son fonctionnement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2003-1134 du 26 novembre 2003 - art. 6, v. init.
-	  - Décret n°2003-1134 du 26 novembre 2003 - art. 6 (Ab)
-	  - Code de l'action sociale et des familles - art. R312-173 (T)
-
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
 
+	**Transféré par**:
+
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. R312-158 (T)
+	  - Code de l'action sociale et des familles - art. R312-176 (T)
+
 	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. R312-171 (T)
-
-	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. R312-174 (T)
 
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R312-177 (T)
+	  - Code de l'action sociale et des familles - art. R521-2 (V)
+
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. R312-179 (T)
-	  - Code de l'action sociale et des familles - art. R312-197 (V)
+	  - Code de l'action sociale et des familles - art. R312-200 (Ab)
 
 
-###### Article R312-177
+###### Article R312-180
 
 Les membres du conseil national ainsi que les personnes appelées à collaborer à ses travaux sont tenus, dans les conditions
 et sous les peines prévues aux articles 226-13 et 226-14 du code pénal, de garder secrètes les informations dont ils peuvent
@@ -58499,43 +58843,39 @@ oeuvre du présent alinéa.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2003-1134 du 26 novembre 2003 - art. 7, v. init.
-	  - Décret n°2003-1134 du 26 novembre 2003 - art. 7 (Ab)
-	  - Code de l'action sociale et des familles - art. R312-156 (T)
-	  - Code de l'action sociale et des familles - art. R312-174 (T)
-
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
+
+	**Transféré par**:
+
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
 
 	**Cite**:
 
 	  - Code pénal - art. 226-13 (M)
 	  - Code pénal - art. 226-14 (M)
 
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. R312-159 (T)
+	  - Code de l'action sociale et des familles - art. R312-177 (T)
+
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. R312-180 (T)
-	  - Code de l'action sociale et des familles - art. R312-198 (Ab)
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. R312-181 (T)
-	  - Code de l'action sociale et des familles - art. R521-2 (V)
-	  - Code de la santé publique - art. R6122-6 (V)
+	  - Code de l'action sociale et des familles - art. R312-201 (Ab)
+	  - Code de l'action sociale et des familles R312-201
 
 
-###### Article R312-178
+###### Article R312-181
 
 Les fonctions de membre du conseil national sont gratuites.
 
-Les frais de déplacement des membres du conseil national ainsi que ceux des experts mentionnés à l'article R. 312-174 sont
+Les frais de déplacement des membres du conseil national ainsi que ceux des experts mentionnés à l'article R. 312-177 sont
 pris en charge dans les conditions prévues par la réglementation.
 
 Les frais de fonctionnement et de secrétariat du conseil national sont pris en charge sur le budget du ministère des affaires
@@ -58543,36 +58883,34 @@ sociales.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2003-1134 du 26 novembre 2003 - art. 8, v. init.
-	  - Décret n°2003-1134 du 26 novembre 2003 - art. 8 (Ab)
-	  - Code de l'action sociale et des familles - art. R312-157 (T)
-	  - Code de l'action sociale et des familles - art. R312-175 (T)
-
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
 
+	**Transféré par**:
+
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+
 	**Cité par**:
 
-	  - Arrêté du 10 octobre 2008 - art. 3 (Ab)
-	  - Arrêté du 18 mars 2015 - art. 2 (V)
-	  - Code de l'action sociale et des familles - art. R521-2 (V)
-	  - Code de la santé publique - art. R6122-6 (V)
+	  - Décret n°2010-337 du 31 mars 2010 - art. 2 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. R312-160 (T)
+	  - Code de l'action sociale et des familles - art. R312-178 (T)
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. R312-174 (T)
+	  - Code de l'action sociale et des familles - art. R312-177 (T)
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. R312-181 (T)
-	  - Code de l'action sociale et des familles - art. R312-199 (Ab)
+	  - Code de l'action sociale et des familles - art. R312-202 (Ab)
 
 
 #### Chapitre III : Droits et obligations des établissements et services sociaux et médico-sociaux
