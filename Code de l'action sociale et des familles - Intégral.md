@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2005-05-08
+Version Consolidée au 2005-05-10
 
 # Partie législative
 
@@ -37375,8 +37375,8 @@ suppléance.
 
 ###### Article R14-10-13
 
-Le directeur, l'agent comptable et le contrôleur d'Etat assistent au conseil et aux commissions avec voix consultative. Le
-directeur peut se faire accompagner des personnes de son choix.
+Le directeur, l'agent comptable et le membre du corps du contrôle général économique et financier assistent au conseil et aux
+commissions avec voix consultative. Le directeur peut se faire accompagner des personnes de son choix.
 
 Le conseil ne peut se substituer ou donner des injonctions au directeur dans l'exercice des pouvoirs propres de ce dernier,
 ni annuler ou réformer les décisions prises à ce titre.
@@ -37387,9 +37387,9 @@ ni annuler ou réformer les décisions prises à ce titre.
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-373 du 20 avril 2005 - art. 1 () JORF 23 avril 2005
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
 
 
 ###### Article R14-10-14
@@ -44225,7 +44225,8 @@ Les délibérations du conseil d'administration sont adoptées à la majorité s
 
 En cas de partage égal des voix au sein du conseil d'administration, la voix du président est prépondérante.
 
-Le directeur, le contrôleur financier et l'agent comptable assistent avec voix consultative aux délibérations du conseil.
+Le directeur, le membre du corps du contrôle général économique et financier et l'agent comptable assistent avec voix
+consultative aux délibérations du conseil.
 
 **Liens relatifs à cet article**
 
@@ -44238,6 +44239,14 @@ Le directeur, le contrôleur financier et l'agent comptable assistent avec voix 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2007-828 du 11 mai 2007 - art. 3 () JORF 12 mai 2007
 
 
 ###### Article R232-43
@@ -58325,94 +58334,6 @@ Le comité peut appeler toute personne dont le concours apparaît souhaitable à
 
 
 ##### Section 3 : Schémas d'organisation sociale et médico-sociale
-
-##### Sous-section unique : Liste des établissements et services relevant du schéma national d'organisation médico-sociale.
-
-###### Article D312-169
-
-Relèvent du schéma national d'organisation sociale et médico-sociale mentionné au 1° de l'article L. 312-5, les
-établissements et services mentionnés au 2°, au a) du 5°, au 7°, 9° et 11° du I de l'article L. 312-1, lorsqu'ils relèvent de
-la compétence exclusive de l'État et qu'ils accueillent à titre principal ou au sein d'une unité individualisée des personnes
-présentant l'un des handicaps rares définis à l'article D. 312-170.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2003-1217 du 18 décembre 2003 - art. 1 (Ab)
-	  - Code de l'action sociale et des familles - art. D312-155-12 (T)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Transféré par**:
-
-	  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. D312-170 (T)
-	  - Code de l'action sociale et des familles - art. L312-1 (M)
-	  - Code de l'action sociale et des familles - art. L312-5 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. D312-172 (T)
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. D312-172 (V)
-	  - Code de l'action sociale et des familles - art. D312-173 (V)
-	  - Code de l'action sociale et des familles - art. D312-174 (V)
-
-
-###### Article D312-170
-
-Sont atteintes d'un handicap rare les personnes présentant l'une des configurations de déficiences ou de troubles associés
-dont le taux de prévalence n'est pas supérieur à un cas pour 10 000 habitants et relevant de l'une des catégories suivantes :
-
-1° L'association d'une déficience auditive grave et d'une déficience visuelle grave ;
-
-2° L'association d'une déficience visuelle grave et d'une ou plusieurs autres déficiences graves ;
-
-3° L'association d'une déficience auditive grave et d'une ou plusieurs autres déficiences graves ;
-
-4° Une dysphasie grave associée ou non à une autre déficience ;
-
-5° L'association d'une ou plusieurs déficiences graves et d'une affection chronique, grave ou évolutive, telle que :
-
-a) Une affection mitochondriale ;
-
-b) Une affection du métabolisme ;
-
-c) Une affection évolutive du système nerveux ;
-
-d) Une épilepsie sévère.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2003-1217 du 18 décembre 2003 - art. 2 (Ab)
-	  - Code de l'action sociale et des familles - art. D312-155-13 (T)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Transféré par**:
-
-	  - Décret n°2005-434 du 6 mai 2005 - art. 9 () JORF 8 mai 2005
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. D312-169 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. D312-173 (T)
-
 
 ##### Sous-section unique : Liste des établissements et services relevant du schéma national d'organisation médico-sociale
 
