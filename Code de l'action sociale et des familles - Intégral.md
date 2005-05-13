@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2005-05-10
+Version Consolidée au 2005-05-14
 
 # Partie législative
 
@@ -1583,16 +1583,16 @@ Les modalités d'application de l'article L. 121-9 sont déterminées par décre
 
 ###### Article L121-10-1
 
-Les actions menées à l'égard des Français de l'étranger en difficulté, en particulier les personnes âgées ou handicapées,
-relèvent de la compétence de l'Etat.
+Les actions menées à l'égard des Français établis hors de France en difficulté, en particulier les personnes âgées ou
+handicapées, relèvent de la compétence de l'Etat.
 
-Ces personnes peuvent bénéficier, sous conditions, de secours et aides prélevés sur les crédits d'assistance aux Français de
-l'étranger du ministère des affaires étrangères, et d'autres mesures appropriées tenant compte de la situation économique et
-sociale du pays de résidence.
+Ces personnes peuvent bénéficier, sous conditions, de secours et aides prélevés sur les crédits d'assistance aux Français
+établis hors de France du ministère des affaires étrangères, et d'autres mesures appropriées tenant compte de la situation
+économique et sociale du pays de résidence.
 
 L'Assemblée des Français de l'étranger, la commission permanente pour la protection sociale des Français de l'étranger et,
-dans chaque pays considéré, le comité consulaire compétent sont consultés sur la politique d'aide sociale aux Français de
-l'étranger.
+dans chaque pays considéré, le comité consulaire compétent sont consultés sur la politique d'aide sociale aux Français
+établis hors de France.
 
 **Liens relatifs à cet article**
 
@@ -1603,7 +1603,7 @@ l'étranger.
 
 	**Modifié par**:
 
-	  - Loi n°2004-805 du 9 août 2004 - art. 1 (V) JORF 11 août 2004
+	  - Ordonnance n°2005-461 du 13 mai 2005 - art. 2 () JORF 14 mai 2005
 
 
 ##### Section 4 : Organismes de sécurité sociale.
@@ -11612,6 +11612,8 @@ pour la personne qui l'accompagne dans ses déplacements. Elle permet également
 d'attente. Cette disposition doit être rappelée par un affichage clair et visible dans les lieux dans lesquels ce droit
 s'exerce.
 
+Les dispositions du présent article sont applicables aux Français établis hors de France.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -11716,7 +11718,7 @@ s'exerce.
 
 	**Modifié par**:
 
-	  - Loi n°2005-102 du 11 février 2005 - art. 65 () JORF 12 février 2005
+	  - Ordonnance n°2005-461 du 13 mai 2005 - art. 2 () JORF 14 mai 2005
 
 	**Anciens textes**:
 
