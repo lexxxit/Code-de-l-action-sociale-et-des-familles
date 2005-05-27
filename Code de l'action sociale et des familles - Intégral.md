@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2005-05-14
+Version Consolidée au 2005-05-28
 
 # Partie législative
 
@@ -56883,6 +56883,190 @@ pluridisciplinaire. Celle-ci comprend au moins un médecin exerçant le cas éch
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. D312-154-0 (V)
+
+
+##### Paragraphe 9 : Etablissements hébergeant des personnes âgées dépendantes
+
+###### Article D312-155-1
+
+Tout établissement hébergeant des personnes âgées dépendantes relevant du I de l'article L. 313-12 doit se doter d'un médecin
+coordonnateur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-560 du 27 mai 2005 - art. 1 () JORF 28 mai 2005
+
+	**Transféré par**:
+
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+
+	**Cité par**:
+
+	  - Arrêté du 13 avril 2012 - art. 1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. D312-156 (M)
+	  - Code de l'action sociale et des familles - art. D312-156 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L313-12 (M)
+
+
+###### Article D312-155-2
+
+Le médecin coordonnateur doit être titulaire d'un diplôme d'études spécialisées complémentaires de gériatrie ou de la
+capacité de gérontologie ou d'un diplôme d'université de médecin coordonnateur d'établissement d'hébergement pour personnes
+âgées dépendantes ou, à défaut, d'une attestation de formation continue.
+
+L'attestation mentionnée à l'alinéa précédent est délivrée par des organismes formateurs agréés au sens du 2° de l'article L.
+4133-2 du code de la santé publique, après une formation conforme à un programme pédagogique fixé par arrêté des ministres
+chargés de la santé et des personnes âgées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-560 du 27 mai 2005 - art. 1 () JORF 28 mai 2005
+
+	**Cité par**:
+
+	  - Décret n°2005-560 du 27 mai 2005 - art. 3 (M)
+
+	**Transféré par**:
+
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L4133-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. D312-157 (M)
+	  - Code de l'action sociale et des familles - art. D312-157 (V)
+
+
+###### Article D312-155-3
+
+Sous la responsabilité et l'autorité administratives du responsable de l'établissement, le médecin coordonnateur :
+
+1° Elabore, avec le concours de l'équipe soignante, le projet général de soins, s'intégrant dans le projet d'établissement,
+et coordonne et évalue sa mise en oeuvre ;
+
+2° Donne un avis sur les admissions des personnes à accueillir en veillant notamment à la compatibilité de leur état de santé
+avec les capacités de soins de l'institution ;
+
+3° Organise la coordination des professionnels de santé salariés et libéraux exerçant dans l'établissement. A cet effet, il
+les réunit au moins une fois par an. Il informe le responsable de l'établissement des difficultés dont il a, le cas échéant,
+connaissance liées au dispositif de permanence des soins prévu aux articles R. 730 à R. 736 du code de la santé publique ;
+
+4° Evalue et valide l'état de dépendance des résidents ;
+
+5° Veille à l'application des bonnes pratiques gériatriques, y compris en cas de risques sanitaires exceptionnels, formule
+toute recommandation utile dans ce domaine et contribue à l'évaluation de la qualité des soins ;
+
+6° Contribue auprès des professionnels de santé exerçant dans l'établissement à la bonne adaptation aux impératifs
+gériatriques des prescriptions de médicaments et des produits et prestations inscrits sur la liste mentionnée à l'article L.
+165-1 du code de la sécurité sociale. A cette fin, il élabore une liste, par classes, des médicaments à utiliser
+préférentiellement, en collaboration avec les médecins traitants des résidents, et, le cas échéant, avec le pharmacien chargé
+de la gérance de la pharmacie à usage intérieur ou le pharmacien mentionné à l'article L. 5126-6 du code de la santé
+publique ;
+
+7° Contribue à la mise en oeuvre d'une politique de formation et participe aux actions d'information des professionnels de
+santé exerçant dans l'établissement ;
+
+8° Elabore un dossier type de soins ;
+
+9° Etablit un rapport annuel d'activité médicale, retraçant notamment les modalités de prise en charge des soins et
+l'évolution de l'état de dépendance des résidents ;
+
+10° Donne un avis sur le contenu et participe à la mise en oeuvre de la ou des conventions conclues entre l'établissement et
+les établissements de santé au titre de la continuité des soins ainsi que sur le contenu et la mise en place, dans
+l'établissement, d'une organisation adaptée en cas de risques exceptionnels ;
+
+11° Collabore à la mise en oeuvre de réseaux gérontologiques coordonnés, d'autres formes de coordination prévues à l'article
+L. 312-7 du présent code et de réseaux de santé mentionnés à l'article L. 6321-1 du code de la santé publique.
+
+Le médecin coordonnateur ne peut pas exercer la fonction de directeur de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-560 du 27 mai 2005 - art. 1 () JORF 28 mai 2005
+
+	**Transféré par**:
+
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L5126-6 (V)
+	  - Code de la santé publique - art. L6321-1 (M)
+	  - Code de la santé publique R730 à R736, L5126-6, L6321-1
+	  - Code de la sécurité sociale. - art. L165-1 (MMN)
+	  - Code de l'action sociale et des familles - art. L312-7 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. D312-158 (M)
+	  - Code de l'action sociale et des familles - art. D312-158 (V)
+
+
+###### Article D312-155-4
+
+Selon la forme juridique de l'établissement, et en fonction du temps de présence du praticien, la rémunération du médecin
+coordonnateur est fixée :
+
+1° Pour un établissement public, par référence, selon les cas, soit à la rémunération d'un praticien attaché ou d'un
+praticien hospitalier, soit à celle d'un médecin territorial hors classe ;
+
+2° Pour un établissement privé, et sans préjudice de l'application du V de l'article L. 313-12, par référence à une
+convention collective agréée en application de l'article L. 314-6.
+
+Dans le cas d'une convention collective non agréée ou en l'absence de convention collective, lorsque la rémunération du
+médecin coordonnateur est supérieure à celle qui aurait été allouée au titre d'une convention collective agréée, le surcoût
+constaté n'est pas opposable à l'autorité tarifaire compétente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-560 du 27 mai 2005 - art. 1 () JORF 28 mai 2005
+
+	**Transféré par**:
+
+	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. D312-159 (M)
+	  - Code de l'action sociale et des familles - art. D312-159 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L313-12 (M)
+	  - Code de l'action sociale et des familles - art. L314-6 (M)
 
 
 ##### Paragraphe 10 : Services d'accompagnement à la vie sociale et services d'accompagnement médico-social pour adultes handicapés
