@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2005-06-09
+Version Consolidée au 2005-06-15
 
 # Partie législative
 
@@ -4903,7 +4903,7 @@ nationale de l'informatique et des libertés.
 
 ###### Article L148-1
 
-Il est créé, auprès du Premier ministre, un Conseil supérieur de l'adoption.
+Il est créé un Conseil supérieur de l'adoption.
 
 Il est composé de parlementaires, de représentants de l'Etat, de représentants des conseil généraux, de magistrats, de
 représentants des organismes autorisés ou habilités pour l'adoption, de représentants des associations de familles adoptives,
@@ -4925,15 +4925,15 @@ Les modalités d'application du présent article sont fixées par décret.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Créé par**:
-
-	  - Loi n°2002-93 du 22 janvier 2002 - art. 12 () JORF 23 janvier 2002
-
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. D148-1 (M)
 	  - Code de l'action sociale et des familles - art. L541-4 (V)
 	  - Code de l'action sociale et des familles - art. R*148-8 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2005-06-14 art. 1 JORF 15 juin 2005
 
 
 ###### Article L148-2
@@ -36436,7 +36436,8 @@ livre II du code du patrimoine.
 
 ###### Article D148-1
 
-Le Conseil supérieur de l'adoption prévu à l'article L. 148-1 comprend trente membres :
+Le Conseil supérieur de l'adoption créé à l'article L. 148-1 est placé auprès du ministre chargé de la famille. Il comprend
+trente membres :
 
 1° Un sénateur désigné par le président du Sénat ;
 
@@ -36481,6 +36482,7 @@ Les personnes désignées en vertu des 3° , 4° et 5° le sont pour trois ans. 
 
 	**Anciens textes**:
 
+	  - Décret n°2002-473 du 8 avril 2002 - art. 1, v. init.
 	  - Décret n°2002-473 du 8 avril 2002 - art. 1 (Ab)
 
 	**Codifié par**:
@@ -36494,6 +36496,10 @@ Les personnes désignées en vertu des 3° , 4° et 5° le sont pour trois ans. 
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. R541-4 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2005-06-14 art. 2 JORF 15 juin 2005
 
 
 ###### Article D148-2
