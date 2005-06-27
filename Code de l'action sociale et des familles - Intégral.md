@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2005-06-15
+Version Consolidée au 2005-06-28
 
 # Partie législative
 
@@ -3235,7 +3235,7 @@ du titre II du livre II du code pénal.
 
 Ces dispositions s'appliquent également :
 
-1° Aux assistants maternels visés par les articles L. 421-1 et suivants du présent code ;
+1° Aux assistants maternels et aux assistants familiaux visés par les articles L. 421-1 et suivants du présent code ;
 
 2° Aux établissements et services visés par l'article L. 214-1 du présent code et par l'article L. 2324-1 du code de la santé
 publique.
@@ -3247,15 +3247,19 @@ publique.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 81 () JORF 3 janvier 2002
+	  - Loi n°2005-706 du 27 juin 2005 - art. 40 () JORF 28 juin 2005
+
+	**Abrogé par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 116
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L2324-1 (M)
-	  - Code de l'action sociale et des familles - art. L214-1 (M)
-	  - Code de l'action sociale et des familles - art. L421-1 (M)
+	  - Code de la santé publique - art. L2324-1
+	  - Code de l'action sociale et des familles - art. L214-1
+	  - Code de l'action sociale et des familles - art. L421-1
 
 
 ###### Article L133-7
@@ -6105,12 +6109,13 @@ sécurité sociale et du ministre chargé de la famille. Le montant du fonds sp�
 a) Une première part, destinée à couvrir les missions générales mentionnées à l'article L. 211-3 du présent code, évolue
 chaque année dans les conditions définies au premier alinéa de l'article L. 551-1 du code de la sécurité sociale ;
 
-b) Une deuxième part est destinée à financer des actions définies par voie conventionnelle entre l'Union nationale des
-associations familiales et le ministre chargé de la famille. Elle est revalorisée chaque année dans la limite du taux
-d'évolution constaté au titre de l'année civile précédente du montant des prestations familiales. En cas de création ou de
-suppression d'une de ces prestations, le taux d'évolution retenu au titre de l'année au cours de laquelle intervient cette
-création ou cette suppression est celui correspondant à la moyenne des taux d'évolution retenus pour les trois années civiles
-précédentes.
+b) Une deuxième part est destinée à financer des actions définies par voie conventionnelle entre, d'une part, l'Union
+nationale des associations familiales et le ministre chargé de la famille et, d'autre part, chaque union départementale
+d'association familiale et l'Union nationale des associations familiales, après avis du directeur départemental des affaires
+sanitaires et sociales concerné. Elle est revalorisée chaque année dans la limite du taux d'évolution constaté au titre de
+l'année civile précédente du montant des prestations familiales. En cas de création ou de suppression d'une de ces
+prestations, le taux d'évolution retenu au titre de l'année au cours de laquelle intervient cette création ou cette
+suppression est celui correspondant à la moyenne des taux d'évolution retenus pour les trois années civiles précédentes.
 
 Les prestations familiales prises en compte pour l'application du présent article sont :
 
@@ -6126,7 +6131,9 @@ antérieurement au 1er janvier 2004.
 
 Les modalités de versement du fonds spécial et sa répartition entre les unions d'associations familiales, les conditions dans
 lesquelles les fédérations, confédérations ou associations familiales adhérant aux unions peuvent en bénéficier ainsi que les
-modalités d'évaluation de son utilisation sont fixées par voie réglementaire ;
+modalités d'évaluation et de contrôle, respectivement par l'Etat et par l'Union nationale des associations familiales, de son
+utilisation, d'une part, par l'Union nationale des associations familiales, et, d'autre part, par les unions départementales
+d'associations familiales, sont fixées par voie réglementaire ;
 
 2° Les cotisations des associations, fédérations, confédérations et sections d'associations familiales adhérentes ;
 
@@ -6160,7 +6167,7 @@ conservent la charge des frais généraux afférents à cette gestion.
 
 	**Modifié par**:
 
-	  - Loi n°2004-1370 du 20 décembre 2004 - art. 53 (V) JORF 21 décembre 2004
+	  - Loi n°2005-706 du 27 juin 2005 - art. 41 () JORF 28 juin 2005
 
 	**Anciens textes**:
 
@@ -6511,6 +6518,31 @@ la faiblesse de leurs ressources.
 	  - Code de la famille et de l'aide sociale. - art. 123-12 (Ab)
 
 
+###### Article L214-2-1
+
+Il peut être créé, dans toutes les communes ou leurs groupements, un relais assistants maternels, qui a pour rôle d'informer
+les parents et les assistants maternels sur ce mode d'accueil en tenant compte des orientations définies, le cas échéant, par
+la commission départementale de l'accueil des jeunes enfants, et d'offrir aux assistants maternels un cadre pour échanger sur
+leur pratique professionnelle, sans préjudice des missions spécifiques confiées au service départemental de protection
+maternelle et infantile visé au chapitre II du titre Ier du livre Ier de la deuxième partie du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2005-706 du 27 juin 2005 - art. 2 () JORF 28 juin 2005
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D421-36 (V)
+	  - Code de l'action sociale et des familles - art. R421-1 (VD)
+
+
 ###### Article L214-3
 
 Les communes membres d'établissements publics de coopération intercommunale peuvent déléguer à ceux-ci le soin d'établir le
@@ -6560,7 +6592,38 @@ des jeunes enfants et à la politique générale conduite en faveur des jeunes e
 Présidée par le président du conseil général, cette commission comprend notamment des représentants des collectivités
 territoriales, des services de l'Etat, des caisses d'allocations familiales, d'associations, de gestionnaires et de
 professionnels concernés par les modes d'accueil des jeunes enfants, ainsi que des représentants d'usagers de ces modes
-d'accueil. Sa composition, ses compétences et ses modalités de fonctionnement sont déterminées par voie réglementaire.
+d'accueil et des représentants des particuliers employeurs. Sa composition, ses compétences et ses modalités de
+fonctionnement sont déterminées par voie réglementaire.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Cité par**:
+
+	  - Décret n°2002-798 du 3 mai 2002 - art. 1 (Ab)
+	  - Code de l'action sociale et des familles - art. D214-1 (V)
+	  - Code de l'action sociale et des familles - art. L542-1 (V)
+	  - Code de l'action sociale et des familles - art. L581-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-706 du 27 juin 2005 - art. 3 () JORF 28 juin 2005
+
+
+###### Article L214-6
+
+La commission départementale de l'accueil des jeunes enfants définit les modalités d'information des candidats potentiels au
+métier d'assistant maternel, en lien avec le service public de placement mentionné au titre Ier du livre III du code du
+travail, ainsi que les modalités d'accompagnement des assistants maternels agréés dans l'exercice de leur profession et de
+leur information sur leurs droits et obligations.
 
 **Liens relatifs à cet article**
 
@@ -6571,14 +6634,12 @@ d'accueil. Sa composition, ses compétences et ses modalités de fonctionnement 
 
 	**Créé par**:
 
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 83 () JORF 3 janvier 2002
+	  - Loi n°2005-706 du 27 juin 2005 - art. 3 () JORF 28 juin 2005
 
 	**Cité par**:
 
-	  - Décret n°2002-798 du 3 mai 2002 - art. 1 (Ab)
-	  - Code de l'action sociale et des familles - art. D214-1 (V)
 	  - Code de l'action sociale et des familles - art. L542-1 (V)
-	  - Code de l'action sociale et des familles - art. L581-1 (V)
+	  - Code de l'action sociale et des familles - art. R421-1 (VD)
 
 
 #### Chapitre V : Dispositions diverses en faveur des familles.
@@ -6751,11 +6812,18 @@ matérielles et morales de leur placement.
 Le service de l'aide sociale à l'enfance est placé sous l'autorité du président du conseil général.
 
 Le département organise sur une base territoriale les moyens nécessaires à l'accueil et à l'hébergement des enfants confiés
-au service. Ces moyens comportent notamment des possibilités d'accueil d'urgence. Le service doit en outre disposer de
-structures d'accueil pour les femmes enceintes et les mères avec leurs enfants.
+au service. Un projet de service de l'aide sociale à l'enfance est élaboré dans chaque département. Il précise notamment les
+possibilités d'accueil d'urgence, les modalités de recrutement par le département des assistants familiaux ainsi que
+l'organisation et le fonctionnement des équipes travaillant avec les assistants familiaux, qui en sont membres à part
+entière. Le département doit en outre disposer de structures d'accueil pour les femmes enceintes et les mères avec leurs
+enfants.
 
 Pour l'application de l'alinéa précédent, le département peut conclure des conventions avec d'autres collectivités
 territoriales ou recourir à des établissements et services habilités.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -6763,6 +6831,10 @@ territoriales ou recourir à des établissements et services habilités.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2005-706 du 27 juin 2005 - art. 4 () JORF 28 juin 2005
 
 	**Cité par**:
 
@@ -19484,7 +19556,7 @@ les établissements de santé mentionnés à l'article L. 6133-1 du code de la s
 conventions, des professionnels médicaux et paramédicaux du secteur libéral ou du secteur public n'exerçant pas dans les
 établissements et services des membres adhérents.
 
-L'avant-dernier alinéa de l'article L. 6133-1 et l'article L. 6133-3 du code précité sont applicables, sous réserve des
+Le septième alinéa de l'article L. 6133-1 et l'article L. 6133-3 du code précité sont applicables, sous réserve des
 dispositions du présent code, aux groupements de coopération sociale ou médico-sociale.
 
 Les actions du groupement réalisées au profit d'un seul de ses membres sont financées par celui-ci sur le budget
@@ -19563,7 +19635,7 @@ Les mesures d'application du présent article sont, en tant que de besoin, déte
 
 	**Modifié par**:
 
-	  - Loi n°2005-102 du 11 février 2005 - art. 94 () JORF 12 février 2005
+	  - Loi n°2005-706 du 27 juin 2005 - art. 50 () JORF 28 juin 2005
 
 	**Cite**:
 
@@ -25818,23 +25890,17 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 ###### Article L421-1
 
-La personne qui accueille habituellement des mineurs à son domicile, moyennant rémunération, doit être préalablement agréée
-comme assistant maternel par le président du conseil général du département où elle réside.
+L'assistant maternel est la personne qui, moyennant rémunération, accueille habituellement et de façon non permanente des
+mineurs à son domicile.
 
-L'agrément est accordé pour une durée fixée par voie réglementaire si les conditions d'accueil garantissent la santé, la
-sécurité et l'épanouissement des mineurs accueillis ; il précise le caractère permanent ou non de l'accueil, le nombre et
-l'âge des mineurs susceptibles d'être accueillis par l'assistant maternel ainsi que, le cas échéant, les horaires de
-l'accueil. Lorsque l'accueil a un caractère permanent, le nombre de mineurs accueillis ne peut être supérieur à trois, sauf
-dérogation accordée par le président du conseil général. Lorsqu'il n'a pas un caractère permanent, le nombre de mineurs
-accueillis simultanément ne peut être supérieur à trois, sauf dérogation accordée par le président du conseil général.
+L'assistant maternel accueille des mineurs confiés par leurs parents, directement ou par l'intermédiaire d'un service
+d'accueil mentionné à l'article L. 2324-1 du code de la santé publique. Il exerce sa profession comme salarié de particuliers
+employeurs ou de personnes morales de droit public ou de personnes morales de droit privé dans les conditions prévues au
+chapitre III du titre VII du livre VII du code du travail, après avoir été agréé à cet effet.
 
-Dans le cas d'un agrément concernant l'accueil de mineurs à titre permanent, une préparation à l'accueil est réalisée
-préalablement, dans des conditions définies par décret.
+**Nota:**
 
-Tout refus d'agrément doit être dûment motivé.
 
-Le renouvellement de l'agrément est subordonné à la justification de la formation définie à l'article L. 2112-3 du code de la
-santé publique ou à l'article L. 773-17 du code du travail.
 
 **Liens relatifs à cet article**
 
@@ -25880,40 +25946,33 @@ santé publique ou à l'article L. 773-17 du code du travail.
 
 	**Modifié par**:
 
-	  - Loi n°2004-1 du 2 janvier 2004 - art. 1 () JORF 3 janvier 2004
-
-	**Cite**:
-
-	  - Code du travail - art. L773-17 (Ab)
-	  - Code de la santé publique - art. L2112-3 (M)
+	  - Loi n°2005-706 du 27 juin 2005 - art. 5 () JORF 28 juin 2005
+	  - Loi n°2005-706 du 27 juin 2005 - art. 6 () JORF 28 juin 2005
 
 	**Anciens textes**:
 
 	  - Code de la famille et de l'aide sociale. - art. 123-1 (M)
 	  - Code de la famille et de l'aide sociale. - art. 123-1 (Ab)
 
+	**Cite**:
+
+	  - Code de la santé publique - art. L2324-1 (M)
+
 
 ###### Article L421-2
 
-Lorsque la demande d'agrément concerne l'accueil de mineurs à titre non permanent, la décision du président du conseil
-général est notifiée dans un délai de trois mois à compter de cette demande. A défaut de notification d'une décision dans ce
-délai, l'agrément est réputé acquis.
+L'assistant familial est la personne qui, moyennant rémunération, accueille habituellement et de façon permanente des mineurs
+et des jeunes majeurs de moins de vingt et un ans à son domicile. Son activité s'insère dans un dispositif de protection de
+l'enfance, un dispositif médico-social ou un service d'accueil familial thérapeutique. Il exerce sa profession comme salarié
+de personnes morales de droit public ou de personnes morales de droit privé dans les conditions prévues par les dispositions
+du présent titre ainsi que par celles du chapitre III du titre VII du livre VII du code du travail, après avoir été agréé à
+cet effet.
 
-Lorsque la demande d'agrément concerne l'accueil de mineurs à titre permanent, la décision du président du conseil général
-est notifiée dans un délai de six mois à compter de cette demande. A défaut de notification d'une décision dans ce délai,
-l'agrément est réputé acquis.
+L'assistant familial constitue, avec l'ensemble des personnes résidant à son domicile, une famille d'accueil.
 
-Si les conditions de l'agrément cessent d'être remplies, le président du conseil général peut, après avis d'une commission
-consultative paritaire départementale, modifier le contenu de l'agrément ou procéder à son retrait. En cas d'urgence, le
-président du conseil général peut suspendre l'agrément.
+**Nota:**
 
-Toute décision de retrait ou de suspension de l'agrément ou de modification de son contenu doit être dûment motivée.
 
-La composition, les attributions et les modalités de fonctionnement de la commission présidée par le président du conseil
-général ou son représentant, mentionnée au troisième alinéa, sont définies par voie réglementaire.
-
-La commission est notamment consultée chaque année sur le programme de formation des assistants maternels ainsi que sur le
-bilan de fonctionnement de l'agrément.
 
 **Liens relatifs à cet article**
 
@@ -25922,9 +25981,10 @@ bilan de fonctionnement de l'agrément.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-706 du 27 juin 2005 - art. 5 () JORF 28 juin 2005
+	  - Loi n°2005-706 du 27 juin 2005 - art. 7 () JORF 28 juin 2005
 
 	**Cité par**:
 
@@ -25943,14 +26003,52 @@ bilan de fonctionnement de l'agrément.
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. L421-6 (T)
 	  - Code de l'action sociale et des familles - art. L421-6 (VD)
 
 
 ###### Article L421-3
 
-Lorsqu'un assistant maternel agréé change de département de résidence, son agrément demeure valable sous réserve d'une
-déclaration préalable adressée au président du conseil général du département de sa nouvelle résidence.
+L'agrément nécessaire pour exercer la profession d'assistant maternel ou d'assistant familial est délivré par le président du
+conseil général du département où le demandeur réside.
+
+Les critères nationaux d'agrément sont définis par décret en Conseil d'Etat. Toutefois, le président du conseil général peut,
+par décision motivée et à titre dérogatoire, adapter les critères d'agrément pour répondre à des besoins spécifiques.
+
+Au cours de la procédure d'instruction de la demande d'agrément, le service départemental de protection maternelle et
+infantile mentionné au chapitre II du titre Ier du livre Ier de la deuxième partie du code de la santé publique peut
+solliciter l'avis d'un assistant maternel ou d'un assistant familial n'exerçant plus cette profession, mais disposant d'une
+expérience professionnelle d'au moins dix ans, et titulaire d'un des diplômes prévus par voie réglementaire.
+
+La procédure d'instruction doit permettre de s'assurer de la maîtrise du français oral par le candidat.
+
+L'agrément est accordé à ces deux professions si les conditions d'accueil garantissent la sécurité, la santé et
+l'épanouissement des mineurs et majeurs de moins de vingt et un ans accueillis, en tenant compte des aptitudes éducatives de
+la personne. Les modalités d'octroi ainsi que la durée de l'agrément sont définies par décret. Cette durée peut être
+différente selon que l'agrément est délivré pour l'exercice de la profession d'assistant maternel ou d'assistant familial.
+Les conditions de renouvellement de l'agrément sont fixées par ce décret. Sans préjudice des dispositions de l'article L.
+421-9, le renouvellement de l'agrément des assistants familiaux est automatique et sans limitation de durée lorsque la
+formation mentionnée à l'article L. 421-15 est sanctionnée par l'obtention d'une qualification.
+
+Un arrêté du ministre chargé de la famille fixe la composition du dossier de demande d'agrément ainsi que le contenu du
+formulaire de demande qui, seul, peut être exigé à ce titre. Il définit également les modalités de versement au dossier d'un
+extrait du casier judiciaire n° 3 de chaque majeur vivant au domicile du demandeur, à l'exception des majeurs accueillis en
+application d'une mesure d'aide sociale à l'enfance. L'agrément n'est pas accordé si l'un des majeurs concernés a fait
+l'objet d'une condamnation pour une infraction visée aux articles 221-1 à 221-5, 222-1 à 222-18, 222-23 à 222-33, 224-1 à
+224-5, 225-12-1 à 225-12-4, 227-1, 227-2 et 227-15 à 227-28 du code pénal. Pour toute autre infraction inscrite au bulletin
+n° 3 du casier judiciaire, il revient au service départemental de protection maternelle et infantile de juger de
+l'opportunité de délivrer ou non l'agrément.
+
+Tout refus d'agrément doit être motivé.
+
+Les conjoints des membres des Forces françaises et de l'Elément civil stationnés en Allemagne qui souhaitent exercer la
+profession d'assistant maternel pour accueillir des mineurs à charge de personnes membres des Forces françaises et de
+l'Elément civil peuvent solliciter un agrément auprès du président du conseil général d'un département limitrophe sauf dans
+les cas, prévus par décret, où cette compétence est exercée par l'Etat. Les modalités de délivrance de l'agrément sont
+prévues par convention entre l'Etat et les départements concernés.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -25959,9 +26057,18 @@ déclaration préalable adressée au président du conseil général du départe
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-706 du 27 juin 2005 - art. 5 () JORF 28 juin 2005
+	  - Loi n°2005-706 du 27 juin 2005 - art. 7 () JORF 28 juin 2005
+
+	**Cite**:
+
+	  - Code pénal - art. 227-1 (M)
+	  - Code pénal - art. 227-2 (V)
+	  - Code pénal 221-1 à 221-5, 222-1 à 222-18, 222-23 à 222-33, 224-1 à 224-5, 225-12-1 à 225-12-4, 227-1, 227-2, 227-15 à 227-28
+	  - Code de l'action sociale et des familles - art. L421-15 (AbD)
+	  - Code de l'action sociale et des familles - art. L421-9 (T)
 
 	**Anciens textes**:
 
@@ -25991,19 +26098,21 @@ déclaration préalable adressée au président du conseil général du départe
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. L421-7 (T)
 	  - Code de l'action sociale et des familles - art. L421-7 (VD)
 
 
 ###### Article L421-4
 
-Le président du conseil général informe le maire de la commune de résidence de l'assistant maternel de toute décision
-d'agrément, de suspension, de retrait ou de modification du contenu de l'agrément concernant l'intéressé ; il informe
-également le maire de toute déclaration reçue au titre de l'article L. 421-3.
+L'agrément de l'assistant maternel précise le nombre et l'âge des mineurs qu'il est autorisé à accueillir simultanément ainsi
+que les horaires de l'accueil. Le nombre des mineurs accueillis simultanément ne peut être supérieur à trois y compris le ou
+les enfants de moins de trois ans de l'assistant maternel présents à son domicile, dans la limite de six au total. Toutefois,
+le président du conseil général peut, si les conditions d'accueil le permettent et à titre dérogatoire, autoriser l'accueil
+de plus de trois enfants simultanément et six enfants au total pour répondre à des besoins spécifiques. Lorsque le nombre de
+mineurs fixé par l'agrément est inférieur à trois, le président du conseil général peut modifier celui-ci pour augmenter le
+nombre de mineurs que l'assistant maternel est autorisé à accueillir simultanément, dans la limite de trois mineurs et dans
+les conditions mentionnées ci-dessus.
 
-Il établit et tient à jour la liste, dressée par commune, des assistants maternels agréés dans le département. Cette liste
-est mise à la disposition des familles dans les services du département et, pour ce qui concerne chaque commune, de la
-mairie.
+Les modalités du contrôle auquel sont soumis les assistants maternels sont définies par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -26020,29 +26129,30 @@ mairie.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-706 du 27 juin 2005 - art. 5 () JORF 28 juin 2005
+	  - Loi n°2005-706 du 27 juin 2005 - art. 7 () JORF 28 juin 2005
 
 	**Anciens textes**:
 
 	  - Code de la famille et de l'aide sociale. - art. 123-1-3 (Ab)
 
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L421-3 (T)
-
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. L421-8 (T)
 	  - Code de l'action sociale et des familles - art. L421-8 (VD)
 
 
 ###### Article L421-5
 
-Le président du conseil général informe du retrait, de la suspension ou de la modification du contenu de l'agrément de
-l'assistant maternel les organismes débiteurs de l'aide à la famille instituée par l'article L. 531-1 du code de la sécurité
-sociale et les représentants légaux du ou des mineurs accueillis par celle-ci.
+L'agrément de l'assistant familial précise le nombre des mineurs qu'il est autorisé à accueillir. Le nombre des mineurs
+accueillis à titre permanent et de façon continue ne peut être supérieur à trois, y compris les jeunes majeurs de moins de
+vingt et un ans. Toutefois, le président du conseil général peut, si les conditions d'accueil le permettent et à titre
+dérogatoire, autoriser l'accueil de plus de trois enfants pour répondre à des besoins spécifiques.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -26053,19 +26163,12 @@ sociale et les représentants légaux du ou des mineurs accueillis par celle-ci.
 
 	**Modifié par**:
 
-	  - Loi n°2003-1199 2003-12-18 art. 60 V 5° JORF 19 décembre 2003
-
-	**Transféré par**:
-
 	  - Loi n°2005-706 du 27 juin 2005 - art. 5 () JORF 28 juin 2005
+	  - Loi n°2005-706 du 27 juin 2005 - art. 7 () JORF 28 juin 2005
 
 	**Anciens textes**:
 
 	  - Code de la famille et de l'aide sociale. - art. 123-1-4 (Ab)
-
-	**Cite**:
-
-	  - Code de la sécurité sociale. - art. L531-1 (M)
 
 	**Cité par**:
 
@@ -26074,16 +26177,36 @@ sociale et les représentants légaux du ou des mineurs accueillis par celle-ci.
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. L421-9 (T)
 	  - Code de l'action sociale et des familles - art. L421-9 (VD)
 
 
 ###### Article L421-6
 
-La personne qui accueille habituellement des mineurs à son domicile moyennant rémunération sans avoir préalablement obtenu
-l'agrément institué par l'article L. 421-1 et dont la situation est signalée au président du conseil général est mise en
-demeure par celui-ci de présenter une demande d'agrément dans le délai de quinze jours. Son ou ses employeurs sont informés
-de cette mise en demeure par le président du conseil général.
+Lorsque la demande d'agrément concerne l'exercice de la profession d'assistant maternel, la décision du président du conseil
+général est notifiée dans un délai de trois mois à compter de cette demande. A défaut de notification d'une décision dans ce
+délai, l'agrément est réputé acquis.
+
+Lorsque la demande d'agrément concerne l'exercice de la profession d'assistant familial, la décision du président du conseil
+général est notifiée dans un délai de quatre mois à compter de cette demande. A défaut de notification d'une décision dans ce
+délai, l'agrément est réputé acquis, ce délai pouvant être prolongé de deux mois suite à une décision motivée du président du
+conseil général.
+
+Si les conditions de l'agrément cessent d'être remplies, le président du conseil général peut, après avis d'une commission
+consultative paritaire départementale, modifier le contenu de l'agrément ou procéder à son retrait. En cas d'urgence, le
+président du conseil général peut suspendre l'agrément. Tant que l'agrément reste suspendu, aucun enfant ne peut être confié.
+
+Toute décision de retrait de l'agrément, de suspension de l'agrément ou de modification de son contenu doit être dûment
+motivée et transmise sans délai aux intéressés.
+
+La composition, les attributions et les modalités de fonctionnement de la commission présidée par le président du conseil
+général ou son représentant, mentionnée au troisième alinéa, sont définies par voie réglementaire.
+
+La commission est notamment consultée chaque année sur le programme de formation des assistants maternels et des assistants
+familiaux ainsi que sur le bilan de fonctionnement de l'agrément.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -26092,9 +26215,11 @@ de cette mise en demeure par le président du conseil général.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Modifié par**:
 
+	  - Loi n°2005-706 2005-06-27 art. 5 I, II, art. 8 I JORF 28 juin 2005
 	  - Loi n°2005-706 du 27 juin 2005 - art. 5 () JORF 28 juin 2005
+	  - Loi n°2005-706 du 27 juin 2005 - art. 8 () JORF 28 juin 2005
 
 	**Cité par**:
 
@@ -26114,163 +26239,27 @@ de cette mise en demeure par le président du conseil général.
 	  - Code du travail - art. L773-12 (AbD)
 	  - Code du travail - art. L773-15 (AbD)
 
-	**Anciens textes**:
-
-	  - Code de la famille et de l'aide sociale. - art. 123-1-5 (Ab)
-	  - Code de l'action sociale et des familles - art. L421-2 (T)
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L421-1 (M)
-
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. L421-10 (M)
 	  - Code de l'action sociale et des familles - art. L421-10 (VD)
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. L421-2 (T)
+	  - Code de la famille et de l'aide sociale. - art. 123-1-5 (Ab)
 
 
 ###### Article L421-7
 
-En cas d'application des articles L. 421-5 et L. 421-6, l'assistant maternel ou la personne mentionnée à l'article L. 421-6
-est tenu de fournir au président du conseil général, sur sa demande, les noms et adresses des représentants légaux des
-mineurs qu'il ou qu'elle accueille.
+Lorsqu'un assistant maternel ou un assistant familial agréé change de département de résidence, son agrément demeure valable
+sous réserve d'une déclaration préalable adressée au président du conseil général du département de sa nouvelle résidence et,
+s'agissant des assistants maternels, d'une vérification par le président du conseil général dans le délai d'un mois à compter
+de leur emménagement, que leurs nouvelles conditions de logement satisfont aux conditions mentionnées au troisième alinéa de
+l'article L. 421-3.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Transféré par**:
-
-	  - Loi n°2005-706 du 27 juin 2005 - art. 5 () JORF 28 juin 2005
-
-	**Anciens textes**:
-
-	  - Code de la famille et de l'aide sociale. - art. 123-1-6 (Ab)
-	  - Code de l'action sociale et des familles - art. L421-3 (T)
-	  - Code de la famille et de l'aide sociale. - art. 123-1-7 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L421-11 (T)
-	  - Code de l'action sociale et des familles - art. L421-11 (VD)
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L421-5 (M)
-	  - Code de l'action sociale et des familles - art. L421-6 (T)
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. L421-8 (V)
-	  - Code de l'action sociale et des familles - art. R421-29 (T)
-
-
-###### Article L421-8
-
-Le fait d'accueillir à son domicile moyennant rémunération des mineurs sans avoir déféré à une mise en demeure prononcée en
-application de l'article L. 421-6, ou après une décision de refus, de suspension ou de retrait d'agrément, est puni des
-peines prévues à l'article L. 321-4.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Transféré par**:
-
-	  - Loi n°2005-706 du 27 juin 2005 - art. 5 () JORF 28 juin 2005
-
-	**Anciens textes**:
-
-	  - Code de la famille et de l'aide sociale. - art. 123-1-7 (Ab)
-	  - Code de l'action sociale et des familles - art. L421-4 (T)
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. D421-15 (V)
-	  - Code de l'action sociale et des familles - art. D421-36 (V)
-	  - Code des relations entre le public et l'adminis... - art. L342-2 (VT)
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L321-4 (M)
-	  - Code de l'action sociale et des familles - art. L421-6 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L421-12 (T)
-	  - Code de l'action sociale et des familles - art. L421-12 (VD)
-
-
-###### Article L421-9
-
-Les assistants maternels agréés employés par des particuliers doivent obligatoirement s'assurer pour les dommages que les
-enfants gardés pourraient provoquer et pour ceux dont ils pourraient être victimes. Leurs employeurs sont tenus, avant de
-leur confier un enfant, de vérifier qu'ils ont bien satisfait à cette obligation.
-
-Les assistants maternels agréés employés par des personnes morales sont obligatoirement couverts contre les mêmes risques par
-les soins desdites personnes morales.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Transféré par**:
-
-	  - Loi n°2005-706 du 27 juin 2005 - art. 5 () JORF 28 juin 2005
-
-	**Cité par**:
-
-	  - Arrêté du 20 octobre 2016 - art. 1 (V)
-	  - Arrêté du 20 octobre 2016 - art. 3 (V)
-	  - Code de l'action sociale et des familles - art. L421-11 (V)
-	  - Code de l'action sociale et des familles - art. L421-3 (V)
-	  - Code de l'action sociale et des familles - art. L544-2 (V)
-
-	**Anciens textes**:
-
-	  - Code de la famille et de l'aide sociale. - art. 123-2 (M)
-	  - Code de l'action sociale et des familles - art. L421-5 (T)
-	  - Code de la famille et de l'aide sociale. - art. 123-2 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L421-13 (AbD)
-	  - Code de l'action sociale et des familles - art. L421-13 (VD)
-
-
-###### Article L421-10
-
-Lorsque les assistants maternels sont employés par des personnes morales de droit public ou de droit privé, il est conclu
-entre eux et leur employeur, pour chaque mineur accueilli à titre permanent, un contrat d'accueil distinct du contrat de
-travail.
-
-L'ensemble des personnes résidant au domicile de l'assistant maternel agréé pour l'accueil de mineurs à titre permanent
-constitue une famille d'accueil.
-
-Ce contrat précise notamment le rôle de la famille d'accueil et celui du service ou organisme employeur à l'égard du mineur
-et de sa famille. Il fixe les conditions de l'arrivée de l'enfant dans la famille d'accueil et de son départ, ainsi que du
-soutien éducatif dont il bénéficiera.
-
-Le contrat précise également si l'accueil permanent du mineur est continu ou intermittent. L'accueil est continu s'il est
-prévu pour une durée supérieure à quinze jours consécutifs, y compris les jours d'accueil en internat scolaire ou dans un
-établissement ou service mentionné au 2 du I de l'article L. 312-1, ou s'il est prévu pour une durée supérieure à un mois
-lorsque l'enfant n'est pas confié les samedis et dimanches ; l'accueil est intermittent s'il est prévu pour une durée
-inférieure ou égale à quinze jours consécutifs.
-
-Le contrat d'accueil est porté à la connaissance des autres membres de la famille d'accueil.
-
-Sauf situation d'urgence mettant en cause la sécurité de l'enfant, l'assistant maternel est consulté préalablement sur toute
-décision prise par la personne morale qui l'emploie concernant le mineur qu'elle accueille à titre permanent ; elle participe
-à l'évaluation de la situation de ce mineur.
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -26281,21 +26270,155 @@ décision prise par la personne morale qui l'emploie concernant le mineur qu'ell
 
 	**Modifié par**:
 
-	  - Loi n°2005-102 du 11 février 2005 - art. 67 () JORF 12 février 2005
-
-	**Transféré par**:
-
+	  - Loi n°2005-706 2005-06-27 art. 5 I, II, art. 8 II JORF 28 juin 2005
 	  - Loi n°2005-706 du 27 juin 2005 - art. 5 () JORF 28 juin 2005
+	  - Loi n°2005-706 du 27 juin 2005 - art. 8 () JORF 28 juin 2005
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L421-11 (VD)
 
 	**Anciens textes**:
 
-	  - Code de la famille et de l'aide sociale. - art. 123-3 (M)
-	  - Code de l'action sociale et des familles - art. L421-6 (T)
-	  - Code de la famille et de l'aide sociale. - art. 123-3 (Ab)
+	  - Code de l'action sociale et des familles - art. L421-3 (T)
+	  - Code de la famille et de l'aide sociale. - art. 123-1-6 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 123-1-7 (Ab)
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L312-1 (M)
+	  - Code de l'action sociale et des familles - art. L421-3 (T)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L421-8 (V)
+	  - Code de l'action sociale et des familles - art. R421-29 (T)
+
+
+###### Article L421-8
+
+Le président du conseil général informe le maire de la commune de résidence de l'assistant maternel ainsi que le président de
+la communauté de communes concernée de toute décision d'agrément, de suspension, de retrait ou de modification du contenu de
+l'agrément concernant l'intéressé ; il informe également le maire ainsi que le président de la communauté de communes de
+toute déclaration reçue au titre de l'article L. 421-7.
+
+Il établit et tient à jour la liste, dressée par commune, des assistants maternels agréés dans le département. Cette liste
+est mise à la disposition des familles dans les services du département, de la mairie pour ce qui concerne chaque commune, de
+tout service ou organisation chargé par les pouvoirs publics d'informer les familles sur l'offre d'accueil existant sur leur
+territoire et de tout service ou organisation ayant compétence pour informer les assistants maternels sur leurs droits et
+obligations. La liste de ces services et organisations est fixée par voie réglementaire.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2005-706 2005-06-27 art. 5 I, II, art. 8 III JORF 28 juin 2005
+	  - Loi n°2005-706 du 27 juin 2005 - art. 5 () JORF 28 juin 2005
+	  - Loi n°2005-706 du 27 juin 2005 - art. 8 () JORF 28 juin 2005
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D421-15 (V)
+	  - Code de l'action sociale et des familles - art. D421-36 (V)
+	  - Code des relations entre le public et l'adminis... - art. L342-2 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L421-12 (VD)
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. L421-4 (T)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L421-7 (T)
+
+
+###### Article L421-9
+
+Le président du conseil général informe du retrait, de la suspension ou de la modification du contenu de l'agrément de
+l'assistant maternel les organismes débiteurs des aides à la famille instituées par l'article L. 531-5 du code de la sécurité
+sociale et l'article L. 841-1 du même code dans sa rédaction antérieure à l'article 60 de la loi de financement de la
+sécurité sociale pour 2004 (n° 2003-1199 du 18 décembre 2003), les représentants légaux du ou des mineurs accueillis et la
+personne morale qui, le cas échéant, l'emploie.
+
+Le président du conseil général informe la personne morale qui l'emploie du retrait, de la suspension ou de la modification
+du contenu de l'agrément d'un assistant familial.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Cite**:
+
+	  - Loi n°2003-1199 2003-12-18 art. 60
+	  - Code de la sécurité sociale. - art. L531-5 (V)
+	  - Code de la sécurité sociale. - art. L841-1 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2005-706 2005-06-27 art. 5 I, II, art. 8 IV JORF 28 juin 2005
+	  - Loi n°2005-706 du 27 juin 2005 - art. 5 () JORF 28 juin 2005
+	  - Loi n°2005-706 du 27 juin 2005 - art. 8 () JORF 28 juin 2005
+
+	**Cité par**:
+
+	  - Arrêté du 20 octobre 2016 - art. 1 (V)
+	  - Arrêté du 20 octobre 2016 - art. 3 (V)
+	  - Code de l'action sociale et des familles - art. L421-11 (V)
+	  - Code de l'action sociale et des familles - art. L421-3 (V)
+	  - Code de l'action sociale et des familles - art. L544-2 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L421-13 (VD)
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. L421-5 (M)
+	  - Code de l'action sociale et des familles - art. L421-5 (T)
+	  - Code de la famille et de l'aide sociale. - art. 123-2 (Ab)
+
+
+###### Article L421-10
+
+La personne qui accueille habituellement des mineurs à son domicile moyennant rémunération sans avoir préalablement obtenu
+l'agrément institué par l'article L. 421-3 et dont la situation est signalée au président du conseil général est mise en
+demeure par celui-ci de présenter une demande d'agrément dans le délai de quinze jours. Son ou ses employeurs sont informés
+de cette mise en demeure par le président du conseil général.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2005-706 2005-06-27 art. 5 I, II, art. 8 V JORF 28 juin 2005
+	  - Loi n°2005-706 du 27 juin 2005 - art. 5 () JORF 28 juin 2005
+	  - Loi n°2005-706 du 27 juin 2005 - art. 8 () JORF 28 juin 2005
 
 	**Cité par**:
 
@@ -26309,48 +26432,54 @@ décision prise par la personne morale qui l'emploie concernant le mineur qu'ell
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. L421-16 (AbD)
 	  - Code de l'action sociale et des familles - art. L421-16 (VD)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L421-3 (T)
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. L421-6 (T)
+	  - Code de la famille et de l'aide sociale. - art. 123-3 (Ab)
 
 
 ###### Article L421-11
 
-Les dispositions du présent chapitre ne sont pas applicables lorsque les assistants maternels ont avec les mineurs accueillis
-un lien de parenté ou d'alliance jusqu'au sixième degré inclus, sauf dans le cas où l'enfant est placé par l'intermédiaire
-d'une personne morale de droit public ou de droit privé.
+En cas d'application des articles L. 421-9 et L. 421-10, l'assistant maternel ou la personne mentionnée à l'article L. 421-10
+est tenu de fournir au président du conseil général, sur sa demande, les noms et adresses des représentants légaux des
+mineurs qu'il ou qu'elle accueille.
 
-Elles ne sont pas non plus applicables aux personnes dignes de confiance mentionnées à l'ordonnance n° 45-174 du 2 février
-1945 relative à l'enfance délinquante et à l'article 375 du code civil ainsi qu'aux personnes accueillant des mineurs
-exclusivement à l'occasion des vacances scolaires, des congés professionnels et des loisirs.
+**Nota:**
 
-Elles sont applicables aux familles d'accueil relevant des centres de placement familiaux.
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance 45-174 1945-02-02
-	  - Code civil - art. 375 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Modifié par**:
 
+	  - Loi n°2005-706 2005-06-27 art. 5 I, II, art. 8 VI JORF 28 juin 2005
 	  - Loi n°2005-706 du 27 juin 2005 - art. 5 () JORF 28 juin 2005
+	  - Loi n°2005-706 du 27 juin 2005 - art. 8 () JORF 28 juin 2005
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code de la famille et de l'aide sociale. - art. 123-4 (M)
-	  - Code de l'action sociale et des familles - art. L421-7 (T)
-	  - Code de la famille et de l'aide sociale. - art. 123-4 (Ab)
+	  - Code de l'action sociale et des familles - art. L421-10 (M)
+	  - Code de l'action sociale et des familles - art. L421-9 (T)
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. L421-17 (AbD)
 	  - Code de l'action sociale et des familles - art. L421-17 (VD)
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. L421-7 (T)
+	  - Code de la famille et de l'aide sociale. - art. 123-4 (Ab)
 
 	**Cité par**:
 
@@ -26359,8 +26488,13 @@ Elles sont applicables aux familles d'accueil relevant des centres de placement 
 
 ###### Article L421-12
 
-Sauf disposition contraire, les modalités d'application du présent chapitre sont déterminées par décret en Conseil d'Etat, et
-notamment la composition, les attributions et les modalités de fonctionnement de la commission prévue à l'article L. 421-2.
+Le fait d'accueillir à son domicile moyennant rémunération des mineurs sans avoir déféré à une mise en demeure prononcée en
+application de l'article L. 421-10, ou après une décision de refus, de suspension ou de retrait d'agrément, est puni des
+peines prévues à l'article L. 321-4.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -26374,35 +26508,40 @@ notamment la composition, les attributions et les modalités de fonctionnement d
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Modifié par**:
 
+	  - Loi n°2005-706 2005-06-27 art. 5 I, II, art. 8 VII JORF 28 juin 2005
 	  - Loi n°2005-706 du 27 juin 2005 - art. 5 () JORF 28 juin 2005
-
-	**Anciens textes**:
-
-	  - Code de la famille et de l'aide sociale. - art. 123-4-1 (Ab)
-	  - Code de l'action sociale et des familles - art. L421-8 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L421-18 (AbD)
-	  - Code de l'action sociale et des familles - art. L421-18 (VD)
+	  - Loi n°2005-706 du 27 juin 2005 - art. 8 () JORF 28 juin 2005
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L421-2 (T)
+	  - Code de l'action sociale et des familles - art. L321-4 (M)
+	  - Code de l'action sociale et des familles - art. L421-10 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L421-18 (VD)
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. L421-8 (T)
+	  - Code de la famille et de l'aide sociale. - art. 123-4-1 (Ab)
 
 
-#### Chapitre II : Assistants maternels et assistants familiaux employés par des personnes morales de droit public.
+###### Article L421-13
 
-###### Article L422-1
+Les assistants maternels agréés employés par des particuliers doivent obligatoirement s'assurer pour tous les dommages,
+quelle qu'en soit l'origine, que les enfants gardés pourraient provoquer et pour ceux dont ils pourraient être victimes.
+Leurs employeurs sont tenus, avant de leur confier un enfant, de vérifier qu'ils ont bien satisfait à cette obligation.
 
-Les articles L. 773-3, L. 773-3-1, L. 773-4, L. 773-4-1, L. 773-5, L. 773-6, L. 773-7, L. 773-10, L. 773-11, L. 773-12, L.
-773-13, L. 773-14, L. 773-15 et L. 773-17 du code du travail s'appliquent aux assistants maternels employés par des personnes
-morales de droit public.
+Les assistants maternels employés par des personnes morales, les assistants familiaux ainsi que les personnes désignées
+temporairement pour remplacer ces derniers sont obligatoirement couverts contre les mêmes risques par les soins des personnes
+morales qui les emploient.
 
-Lorsque les assistants maternels sont employés par le département, les indemnités mentionnées à l'article L. 773-3-1 du code
-du travail sont fixées par délibération du conseil général.
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -26411,22 +26550,327 @@ du travail sont fixées par délibération du conseil général.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2005-706 2005-06-27 art. 5 I, II, art. 8 VIII JORF 28 juin 2005
+	  - Loi n°2005-706 du 27 juin 2005 - art. 5 () JORF 28 juin 2005
+	  - Loi n°2005-706 du 27 juin 2005 - art. 8 () JORF 28 juin 2005
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. L421-9 (T)
+
+
+###### Article L421-14
+
+Tout assistant maternel agréé doit suivre une formation dont les modalités de mise en oeuvre par le département, la durée, le
+contenu et les conditions de validation sont définis par décret.
+
+Une initiation aux gestes de secourisme est obligatoire pour exercer la profession d'assistant maternel.
+
+Le décret mentionné au premier alinéa précise la durée de formation qui doit être obligatoirement suivie avant d'accueillir
+des enfants ainsi que les dispenses de formation qui peuvent être accordées si l'assistant maternel justifie d'une formation
+antérieure équivalente.
+
+Le département organise et finance, durant les temps de formation obligatoire après leur embauche, l'accueil des enfants
+confiés aux assistants maternels, selon des modalités respectant l'intérêt des enfants et les obligations professionnelles de
+leurs parents.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Cité par**:
+
+	  - Loi n°2004-1484 du 30 décembre 2004 - art. 52 (V)
+	  - Loi n°2005-706 du 27 juin 2005 - art. 46 (V)
+	  - Décret n°2006-464 du 20 avril 2006 - art. 4 (V)
+	  - Arrêté du 30 août 2006 - art. 1 (V)
+	  - Loi n°2007-1824 du 25 décembre 2007 - art. 2 (V)
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 49 (V)
+	  - Ordonnance n°2012-785 du 31 mai 2012 - art. 10 (VD)
+	  - Ordonnance n°2012-785 du 31 mai 2012 - art. 9 (V)
+	  - Loi n°2013-1278 du 29 décembre 2013 - art. 44 (VD)
+	  - Code de l'action sociale et des familles - art. D421-21 (V)
+	  - Code de l'action sociale et des familles - art. D421-27-1 (MMN)
+	  - Code de l'action sociale et des familles - art. D421-27-2 (MMN)
+	  - Code de l'action sociale et des familles - art. D421-27-3 (MMN)
+	  - Code de l'action sociale et des familles - art. D421-27-4 (MMN)
+	  - Code de l'action sociale et des familles - art. D421-27-6 (MMN)
+	  - Code de l'action sociale et des familles - art. D421-27-7 (MMN)
+	  - Code de l'action sociale et des familles - art. D421-27-9 (MMN)
+	  - Code de l'action sociale et des familles - art. D421-44 (V)
+	  - Code de l'action sociale et des familles - art. D421-45 (V)
+	  - Code de l'action sociale et des familles - art. D421-46 (V)
+	  - Code de l'action sociale et des familles - art. D421-47 (V)
+	  - Code de l'action sociale et des familles - art. D421-49 (V)
+	  - Code de l'action sociale et des familles - art. D421-50 (V)
+	  - Code de l'action sociale et des familles - art. D421-52 (V)
+	  - Code de l'action sociale et des familles - art. L423-5 (V)
+	  - Code de l'action sociale et des familles - art. L544-2 (VD)
+	  - Code de l'action sociale et des familles - art. R421-25 (VD)
+	  - Code de la santé publique - art. L2111-2 (V)
+	  - Code de la santé publique - art. L2112-3 (V)
+	  - Code du travail - art. L773-6 (AbD)
+
+	**Créé par**:
+
+	  - Loi n°2005-706 du 27 juin 2005 - art. 9 () JORF 28 juin 2005
+
+
+###### Article L421-15
+
+Dans les deux mois qui précèdent l'accueil du premier enfant confié à un assistant familial au titre du premier contrat de
+travail suivant son agrément, l'assistant familial bénéficie d'un stage préparatoire à l'accueil d'enfants, organisé par son
+employeur, d'une durée définie par décret. Dans l'attente qu'un enfant lui soit confié, il perçoit une rémunération dont le
+montant minimal est déterminé par décret, en référence au salaire minimum de croissance.
+
+Dans le délai de trois ans après le premier contrat de travail suivant son agrément, tout assistant familial doit suivre une
+formation adaptée aux besoins spécifiques des enfants accueillis. Cette formation est à la charge de l'employeur qui organise
+et finance l'accueil de l'enfant pendant les heures de formation. Un décret détermine la durée, le contenu, les conditions
+d'organisation et les critères nationaux de validation de cette formation ainsi que les dispenses de formation qui peuvent
+être accordées si l'assistant familial justifie d'une formation antérieure équivalente.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2005-706 du 27 juin 2005 - art. 9 () JORF 28 juin 2005
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D421-22 (V)
+	  - Code de l'action sociale et des familles - art. D421-27 (T)
+	  - Code de l'action sociale et des familles - art. D421-27-6 (MMN)
+	  - Code de l'action sociale et des familles - art. D421-43 (V)
+	  - Code de l'action sociale et des familles - art. D421-49 (V)
+	  - Code de l'action sociale et des familles - art. D421-9 (V)
+	  - Code de l'action sociale et des familles - art. L421-3 (V)
+	  - Code de l'action sociale et des familles - art. L423-5 (V)
+	  - Code de l'action sociale et des familles - art. L544-2 (VD)
+	  - Code de l'action sociale et des familles - art. R421-25 (VD)
+	  - Code du travail - art. L773-6 (AbD)
+
+
+###### Article L421-16
+
+Il est conclu entre l'assistant familial et son employeur, pour chaque mineur accueilli, un contrat d'accueil annexé au
+contrat de travail.
+
+Ce contrat précise notamment le rôle de la famille d'accueil et celui du service ou organisme employeur à l'égard du mineur
+et de sa famille. Il fixe les conditions de l'arrivée de l'enfant dans la famille d'accueil et de son départ, ainsi que du
+soutien éducatif dont il bénéficiera. Il précise les modalités d'information de l'assistant familial sur la situation de
+l'enfant, notamment sur le plan de sa santé et de son état psychologique et sur les conséquences de sa situation sur la prise
+en charge au quotidien ; il indique les modalités selon lesquelles l'assistant familial participe à la mise en oeuvre et au
+suivi du projet individualisé pour l'enfant. Il fixe en outre les modalités de remplacement temporaire à domicile de
+l'assistant familial, le cas échéant par un membre de la famille d'accueil.
+
+Le contrat précise également si l'accueil permanent du mineur est continu ou intermittent. L'accueil est continu s'il est
+prévu pour une durée supérieure à quinze jours consécutifs, y compris les jours d'accueil en internat scolaire ou dans un
+établissement ou service mentionné au 2 du I de l'article L. 312-1 ou à caractère médical, psychologique et social ou de
+formation professionnelle (1), ou s'il est prévu pour une durée supérieure à un mois lorsque l'enfant n'est pas confié les
+samedis et dimanches ; l'accueil qui n'est pas continu ou à la charge principale de l'assistant familial est intermittent.
+
+Le contrat d'accueil est porté à la connaissance des autres membres de la famille d'accueil.
+
+Sauf situation d'urgence mettant en cause la sécurité de l'enfant, l'assistant familial est consulté préalablement sur toute
+décision prise par la personne morale qui l'emploie concernant le mineur qu'elle accueille à titre permanent ; elle participe
+à l'évaluation de la situation de ce mineur.
+
+**Nota:**
+
+(1) la loi 2005-102 2005-02-11 a remplacé au 4e alinéa du présent article les mots " en établissement d'éducation spéciale "
+par " dans un établissement ou service mentionné au 2 du I de l'article L. 312-1 ".
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2005-706 du 27 juin 2005 - art. 10 () JORF 28 juin 2005
+	  - Loi n°2005-706 du 27 juin 2005 - art. 5 () JORF 28 juin 2005
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D423-21 (VD)
+	  - Code de l'action sociale et des familles - art. L423-30 (V)
+	  - Code de l'action sociale et des familles - art. R421-42 (V)
+	  - Code du travail - art. D773-6 (VT)
+	  - Code du travail - art. L773-26 (AbD)
+
 	**Cite**:
 
-	  - Code du travail - art. L773-10 (M)
-	  - Code du travail - art. L773-11 (M)
-	  - Code du travail - art. L773-12 (M)
-	  - Code du travail - art. L773-13 (T)
-	  - Code du travail - art. L773-14 (T)
-	  - Code du travail - art. L773-15 (M)
-	  - Code du travail - art. L773-17 (Ab)
-	  - Code du travail - art. L773-3 (M)
-	  - Code du travail - art. L773-3-1 (M)
-	  - Code du travail - art. L773-4 (M)
-	  - Code du travail - art. L773-4-1 (T)
-	  - Code du travail - art. L773-5 (M)
-	  - Code du travail - art. L773-6 (M)
-	  - Code du travail - art. L773-7 (T)
+	  - Code de l'action sociale et des familles - art. L312-1 (M)
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. L421-10 (M)
+	  - Code de l'action sociale et des familles - art. L421-10 (T)
+
+
+###### Article L421-17
+
+Les dispositions du présent chapitre ne sont pas applicables lorsque les assistants maternels et les assistants familiaux ont
+avec les mineurs accueillis un lien de parenté ou d'alliance jusqu'au sixième degré inclus, sauf dans le cas où l'enfant est
+placé par l'intermédiaire d'une personne morale de droit public ou de droit privé.
+
+Elles ne sont pas non plus applicables aux personnes dignes de confiance mentionnées à l'ordonnance n° 45-174 du 2 février
+1945 relative à l'enfance délinquante et à l'article 375 du code civil ainsi qu'aux personnes accueillant des mineurs
+exclusivement à l'occasion des vacances scolaires, des congés professionnels et des loisirs.
+
+Elles sont applicables aux familles d'accueil relevant des centres de placement familiaux ainsi qu'aux assistants familiaux
+accueillant des majeurs de moins de vingt et un ans dans le cadre des dispositions de l'article L. 222-5 du présent code.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance 45-174 1945-02-02
+	  - Code civil - art. 375 (M)
+	  - Code de l'action sociale et des familles - art. L222-5 (M)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2005-706 2005-06-27 art. 5 II, art. 11 I, II JORF 28 juin 2005
+	  - Loi n°2005-706 du 27 juin 2005 - art. 11 () JORF 28 juin 2005
+	  - Loi n°2005-706 du 27 juin 2005 - art. 5 () JORF 28 juin 2005
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. L421-11 (T)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L423-1 (V)
+	  - Code de l'action sociale et des familles - art. L544-2 (VD)
+	  - Code du travail - art. L773-1 (AbD)
+
+
+###### Article L421-17-1
+
+Le suivi des pratiques professionnelles des assistants maternels employés par des particuliers est assuré par le service
+départemental de protection maternelle et infantile visé au chapitre II du titre Ier du livre Ier de la deuxième partie du
+code de la santé publique. Cette mission incombe à la personne morale de droit public ou de droit privé employeur s'agissant
+des assistants familiaux et des assistants maternels exerçant dans une crèche familiale. Dans tous les cas, l'avis d'un
+ancien assistant maternel ou familial répondant aux critères fixés au deuxième alinéa de l'article L. 421-3 peut être
+sollicité.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2005-706 du 27 juin 2005 - art. 12 () JORF 28 juin 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L421-3 (T)
+
+
+###### Article L421-18
+
+Sauf disposition contraire, les modalités d'application du présent chapitre sont déterminées par décret en Conseil d'Etat, et
+notamment la composition, les attributions et les modalités de fonctionnement de la commission prévue à l'article L. 421-6.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2005-706 du 27 juin 2005 - art. 11 () JORF 28 juin 2005
+	  - Loi n°2005-706 du 27 juin 2005 - art. 5 () JORF 28 juin 2005
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. L421-12 (T)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L421-6 (T)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L544-2 (VD)
+
+
+#### Chapitre II : Assistants maternels et assistants familiaux employés par des personnes morales de droit public.
+
+###### Article L422-1
+
+Les articles L. 773-3 à L. 773-11, L. 773-17 à L. 773-23 et L. 773-25 à L. 773-28 du code du travail s'appliquent aux
+assistants maternels et aux assistants familiaux employés par des personnes morales de droit public.
+
+Lorsque les assistants familiaux sont employés par le département, les indemnités mentionnées à l'article L. 773-26 du code
+du travail sont fixées par délibération du conseil général.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2005-706 2005-06-27 art. 5 I, art. 11 IV, V JORF 28 juin 2005
+	  - Loi n°2005-706 du 27 juin 2005 - art. 11 () JORF 28 juin 2005
+	  - Loi n°2005-706 du 27 juin 2005 - art. 5 () JORF 28 juin 2005
+
+	**Cite**:
+
+	  - Code du travail - art. L773-26 (M)
+	  - Code du travail L773-3 à L773-11, L773-17 à L773-23, L773-25 à L773-28, L773-26
 
 	**Anciens textes**:
 
@@ -26436,10 +26880,15 @@ du travail sont fixées par délibération du conseil général.
 
 ###### Article L422-2
 
-Le droit syndical est reconnu aux assistants maternels relevant du présent chapitre. Les syndicats professionnels régis par
-le livre IV du code du travail peuvent ester en justice devant toute juridiction. Ils peuvent notamment, devant les
-juridictions de l'ordre administratif, se pourvoir contre les actes réglementaires concernant le statut de ces assistants
-maternels et contre les décisions individuelles portant atteinte à leurs intérêts collectifs.
+Le droit syndical est reconnu aux assistants maternels et aux assistants familiaux relevant du présent chapitre. Les
+syndicats professionnels régis par le livre IV du code du travail peuvent ester en justice devant toute juridiction. Ils
+peuvent notamment, devant les juridictions de l'ordre administratif, se pourvoir contre les actes réglementaires concernant
+le statut de ces assistants maternels et de ces assistants familiaux et contre les décisions individuelles portant atteinte à
+leurs intérêts collectifs.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -26447,6 +26896,12 @@ maternels et contre les décisions individuelles portant atteinte à leurs inté
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2005-706 2005-06-27 art. 5 I, art. 11 IV, VI JORF 28 juin 2005
+	  - Loi n°2005-706 du 27 juin 2005 - art. 11 () JORF 28 juin 2005
+	  - Loi n°2005-706 du 27 juin 2005 - art. 5 () JORF 28 juin 2005
 
 	**Anciens textes**:
 
@@ -26460,9 +26915,13 @@ maternels et contre les décisions individuelles portant atteinte à leurs inté
 
 ###### Article L422-3
 
-Les assistants maternels relevant du présent chapitre qui se trouvent involontairement privés d'emploi et qui se sont
-inscrits comme demandeurs d'emploi auprès des services compétents ont droit à un revenu de remplacement dans les conditions
-fixées par voie réglementaire.
+Les assistants maternels et les assistants familiaux relevant du présent chapitre qui se trouvent involontairement privés
+d'emploi et qui se sont inscrits comme demandeurs d'emploi auprès des services compétents ont droit à un revenu de
+remplacement dans les conditions fixées par le code du travail.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -26470,6 +26929,12 @@ fixées par voie réglementaire.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2005-706 2005-06-27 art. 5 I, art. 11 I, IV, VII JORF 28 juin 2005
+	  - Loi n°2005-706 du 27 juin 2005 - art. 11 () JORF 28 juin 2005
+	  - Loi n°2005-706 du 27 juin 2005 - art. 5 () JORF 28 juin 2005
 
 	**Anciens textes**:
 
@@ -26484,14 +26949,18 @@ fixées par voie réglementaire.
 ###### Article L422-4
 
 Afin de pouvoir assurer sans délai des accueils urgents et de courte durée, les services concernés peuvent spécialiser dans
-cette forme d'accueil certains des assistants maternels qu'ils emploient.
+cette forme d'accueil certains des assistants familiaux qu'ils emploient.
 
 Ces personnes s'engagent à recevoir immédiatement les enfants présentés par le service dans la limite d'un nombre maximum
 convenu avec lui.
 
 En contrepartie, elles perçoivent, durant les périodes où aucun enfant ne leur est confié, une indemnité de disponibilité
-dont le montant minimum, supérieur à celui de l'indemnité prévue par l'article L. 773-5 du code du travail, est fixé par
+dont le montant minimum, supérieur à celui de l'indemnité prévue par l'article L. 773-9 du code du travail, est fixé par
 décret en référence au salaire minimum interprofessionnel de croissance.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -26506,9 +26975,15 @@ décret en référence au salaire minimum interprofessionnel de croissance.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2005-706 2005-06-27 art. 5 I, art. 11 IV, VIII JORF 28 juin 2005
+	  - Loi n°2005-706 du 27 juin 2005 - art. 11 () JORF 28 juin 2005
+	  - Loi n°2005-706 du 27 juin 2005 - art. 5 () JORF 28 juin 2005
+
 	**Cite**:
 
-	  - Code du travail - art. L773-5 (M)
+	  - Code du travail - art. L773-9 (T)
 
 	**Anciens textes**:
 
@@ -26519,7 +26994,11 @@ décret en référence au salaire minimum interprofessionnel de croissance.
 ###### Article L422-5
 
 Le département assure par une équipe de professionnels qualifiés dans les domaines social, éducatif, psychologique et médical
-l'accompagnement professionnel des assistants maternels qu'il emploie et l'évaluation des situations d'accueil.
+l'accompagnement professionnel des assistants familiaux qu'il emploie et l'évaluation des situations d'accueil.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -26527,6 +27006,12 @@ l'accompagnement professionnel des assistants maternels qu'il emploie et l'éval
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2005-706 2005-06-27 art. 5 I, art. 11 IV, VIII JORF 28 juin 2005
+	  - Loi n°2005-706 du 27 juin 2005 - art. 11 () JORF 28 juin 2005
+	  - Loi n°2005-706 du 27 juin 2005 - art. 5 () JORF 28 juin 2005
 
 	**Anciens textes**:
 
@@ -26535,9 +27020,13 @@ l'accompagnement professionnel des assistants maternels qu'il emploie et l'éval
 
 ###### Article L422-6
 
-Les assistants maternels employés par des collectivités territoriales sont des agents non titulaires de ces collectivités.
-Les dispositions particulières qui leur sont applicables compte tenu du caractère spécifique de leur activité, sont fixées
-par voie réglementaire.
+Les assistants maternels et les assistants familiaux employés par des collectivités territoriales sont des agents non
+titulaires de ces collectivités. Les dispositions particulières qui leur sont applicables compte tenu du caractère spécifique
+de leur activité, sont fixées par voie réglementaire.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -26545,6 +27034,12 @@ par voie réglementaire.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2005-706 2005-06-27 art. 5 I, art. 11 I, IV JORF 28 juin 2005
+	  - Loi n°2005-706 du 27 juin 2005 - art. 11 () JORF 28 juin 2005
+	  - Loi n°2005-706 du 27 juin 2005 - art. 5 () JORF 28 juin 2005
 
 	**Anciens textes**:
 
@@ -26553,9 +27048,14 @@ par voie réglementaire.
 
 ###### Article L422-7
 
-Les assistants maternels employés par des établissements publics de santé ou des établissements sociaux ou médico-sociaux
-publics ou à caractère public sont des agents non titulaires de ces établissements. Les dispositions particulières qui leur
-sont applicables compte tenu du caractère spécifique de leur activité, sont fixées par voie réglementaire.
+Les assistants maternels et les assistants familiaux employés par des établissements publics de santé ou des établissements
+sociaux ou médico-sociaux publics ou à caractère public sont des agents non titulaires de ces établissements. Les
+dispositions particulières qui leur sont applicables compte tenu du caractère spécifique de leur activité, sont fixées par
+voie réglementaire.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -26563,6 +27063,12 @@ sont applicables compte tenu du caractère spécifique de leur activité, sont f
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2005-706 2005-06-27 art. 5 I, art. 11 I, IV JORF 28 juin 2005
+	  - Loi n°2005-706 du 27 juin 2005 - art. 11 () JORF 28 juin 2005
+	  - Loi n°2005-706 du 27 juin 2005 - art. 5 () JORF 28 juin 2005
 
 	**Anciens textes**:
 
@@ -26575,12 +27081,17 @@ sont applicables compte tenu du caractère spécifique de leur activité, sont f
 Sauf disposition contraire, les modalités d'application du présent chapitre sont déterminées par décret en Conseil d'Etat, et
 notamment :
 
-1° Les conditions du droit à un revenu de remplacement prévu par l'article L. 422-3 ;
+1° Paragraphe abrogé
 
-2° Les dispositions particulières applicables aux assistants maternels employés par des collectivités territoriales ;
+2° Les dispositions particulières applicables aux assistants maternels et aux assistants familiaux employés par des
+collectivités territoriales ;
 
-3° Les dispositions particulières applicables aux assistants maternels employés par des établissements publics de santé ou
-des établissements sociaux ou médico-sociaux.
+3° Les dispositions particulières applicables aux assistants maternels et aux assistants familiaux employés par des
+établissements publics de santé ou des établissements sociaux ou médico-sociaux.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -26589,9 +27100,11 @@ des établissements sociaux ou médico-sociaux.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'action sociale et des familles - art. L422-3 (M)
+	  - Loi n°2005-706 2005-06-27 art. 5 I, art. 11 IV, VI, IX JORF 28 juin 2005
+	  - Loi n°2005-706 du 27 juin 2005 - art. 11 () JORF 28 juin 2005
+	  - Loi n°2005-706 du 27 juin 2005 - art. 5 () JORF 28 juin 2005
 
 
 ### Titre IV : Particuliers accueillant des personnes âgées ou handicapées
