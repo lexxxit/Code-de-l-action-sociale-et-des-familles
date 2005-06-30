@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2005-06-28
+Version Consolidée au 2005-07-01
 
 # Partie législative
 
@@ -24108,12 +24108,12 @@ Le représentant de l'Etat dans le département ou le président du conseil gén
 mineurs du département, peut adresser des injonctions aux établissements et personnes morales de droit privé mentionnés à
 l'article L. 321-1 et au 1° de l'article L. 312-1.
 
-Le représentant de l'Etat dans le département peut, après avis du conseil départemental de protection de l'enfance, fermer
-l'établissement en cas de violation des dispositions relatives à l'obligation scolaire ou à l'emploi des jeunes ou lorsqu'il
-estime que la santé, la moralité ou l'éducation des mineurs sont menacées.
+Le représentant de l'Etat dans le département peut fermer l'établissement en cas de violation des dispositions relatives à
+l'obligation scolaire ou à l'emploi des jeunes ou lorsqu'il estime que la santé, la moralité ou l'éducation des mineurs sont
+menacées.
 
 En cas d'urgence, le représentant de l'Etat dans le département peut prononcer une mesure de fermeture immédiate par arrêté
-motivé et à titre provisoire. Il en saisit le conseil départemental de protection de l'enfance dans le délai d'un mois.
+motivé et à titre provisoire.
 
 En cas de fermeture d'un établissement, les créances que peuvent détenir les mineurs sur ce dernier sont garanties par un
 privilège général sur les meubles et par une hypothèque légale sur les immeubles appartenant à l'établissement précité,
@@ -24129,7 +24129,7 @@ conseil général.
 
 	**Modifié par**:
 
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Ordonnance n°2005-727 du 30 juin 2005 - art. 1 () JORF 1er juillet 2005
 
 	**Cité par**:
 
@@ -47270,7 +47270,7 @@ protégé ou le centre de distribution de travail à domicile.
 
 ###### Article R244-1
 
-Les dispositions relatives à l'allocation aux adultes handicapés sont fixées aux articles R. 821-1 à R. 821-15 du code de la
+Les dispositions relatives à l'allocation aux adultes handicapés sont fixées aux articles R. 821-1 à R. 821-10 du code de la
 sécurité sociale.
 
 **Liens relatifs à cet article**
@@ -47279,9 +47279,13 @@ sécurité sociale.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2005-724 du 29 juin 2005 - art. 15 () JORF 30 juin 2005 en vigueur le 1er juillet 2005
+
 	**Cite**:
 
-	  - Code de la sécurité sociale R821-1 à R821-15
+	  - Code de la sécurité sociale. - art. R821-1 (V)
 
 	**Cité par**:
 
@@ -72207,12 +72211,12 @@ déterminées par la présente sous-section.
 Lorsque l'établissement assure un hébergement et un entretien complet, y compris la totalité des repas, le pensionnaire doit
 pouvoir disposer librement chaque mois :
 
-1° S'il ne travaille pas, de 10 % de l'ensemble de ses ressources mensuelles et, au minimum, de 1 % du montant annuel de
-l'allocation aux adultes handicapées ;
+1° S'il ne travaille pas, de 10 % de l'ensemble de ses ressources mensuelles et, au minimum, de 30 % du montant mensuel de
+l'allocation aux adultes handicapés ;
 
 2° S'il travaille, s'il bénéficie d'une aide aux travailleurs privés d'emploi, s'il effectue un stage de formation
 professionnelle ou de rééducation professionnelle, du tiers des ressources garanties résultant de sa situation ainsi que de
-10 % de ses autres ressources, sans que ce minimum puisse être inférieur à 30 % du montant mensuel de l'allocation aux
+10 % de ses autres ressources, sans que ce minimum puisse être inférieur à 50 % du montant mensuel de l'allocation aux
 adultes handicapés.
 
 **Liens relatifs à cet article**
@@ -72224,6 +72228,10 @@ adultes handicapés.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-725 du 29 juin 2005 - art. 7 () JORF 30 juin 2005 en vigueur le 1er juillet 2005
 
 	**Cité par**:
 
