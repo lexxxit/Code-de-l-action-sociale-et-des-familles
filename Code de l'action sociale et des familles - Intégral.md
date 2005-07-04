@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2005-07-01
+Version Consolidée au 2005-07-05
 
 # Partie législative
 
@@ -8203,14 +8203,21 @@ des personnes agréées à cet effet, soit, si tel est l'intérêt desdits pupil
 accueillir a été régulièrement constatée dans un Etat autre que la France, en cas d'accord international engageant à cette
 fin ledit Etat.
 
-L'agrément est accordé, pour cinq ans, dans un délai de neuf mois à compter du jour de la demande, par le président du
-conseil général après avis d'une commission dont la composition est fixée par voie réglementaire.
+L'agrément est accordé pour cinq ans, dans un délai de neuf mois, par le président du conseil général après avis d'une
+commission dont la composition est fixée par voie réglementaire. Le délai court à compter de la date à laquelle la personne
+confirme sa demande d'agrément dans les conditions fixées par voie réglementaire. L'agrément est délivré par un arrêté dont
+la forme et le contenu sont définis par décret.
+
+L'agrément est délivré pour l'accueil d'un ou de plusieurs enfants simultanément. Une notice, dont la forme et le contenu
+sont définis par décret, décrivant le projet d'adoption des personnes agréées est jointe à l'agrément. Cette notice peut être
+révisée par le président du conseil général sur demande du candidat à l'adoption.
+
+L'agrément est caduc à compter de l'arrivée au foyer d'au moins un enfant français ou étranger, ou de plusieurs
+simultanément.
 
 **Nota:**
 
-Code de l'action sociale et des familles L543-1, L551-1, L561-1, L571-1 : les dispositions du présent article sont
-applicables à Mayotte, dans le territoire des îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie sous
-réserve d'adaptations.
+
 
 **Liens relatifs à cet article**
 
@@ -8257,6 +8264,10 @@ réserve d'adaptations.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2005-744 du 4 juillet 2005 - art. 1 () JORF 5 juillet 2005
+
 	**Anciens textes**:
 
 	  - Code de la famille et de l'aide sociale 63 al. 1 et 2
@@ -8265,7 +8276,9 @@ réserve d'adaptations.
 
 ###### Article L225-3
 
-Les personnes qui demandent l'agrément bénéficient des dispositions de l'article L. 223-1.
+Les personnes qui demandent l'agrément bénéficient des dispositions de l'article L. 223-1. 
+
+Les conseils généraux proposent aux candidats des réunions d'information pendant la période d'agrément. 
 
 Elles peuvent demander que tout ou partie des investigations effectuées pour l'instruction du dossier soient accomplies une
 seconde fois et par d'autres personnes que celles auxquelles elles avaient été confiées initialement. Elles sont informées du
@@ -8275,22 +8288,23 @@ relations entre l'administration et le public et diverses dispositions d'ordre a
 
 **Nota:**
 
-Code de l'action sociale et des familles L543-1, L551-1, L561-1, L571-1 : les dispositions du présent article sont
-applicables à Mayotte, dans le territoire des îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie sous
-réserve d'adaptations.
+
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°78-753 du 17 juillet 1978 - art. 3 (M)
-	  - Loi n°78-753 du 17 juillet 1978 - art. 4 (M)
-	  - Code de l'action sociale et des familles - art. L223-1 (M)
+	  - Loi n°78-753 du 17 juillet 1978 - art. 3 (V)
+	  - Code de l'action sociale et des familles - art. L223-1 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2005-744 du 4 juillet 2005 - art. 1 () JORF 5 juillet 2005
 
 	**Anciens textes**:
 
@@ -8677,12 +8691,29 @@ sont transmis au président du conseil général et conservés sous sa responsab
 	  - Code de l'action sociale et des familles - art. L225-16 (V)
 
 
-##### Section 3 : Adoption internationale.
+##### Section 3 : Agence française de l'adoption.
 
 ###### Article L225-15
 
-Les personnes qui accueillent, en vue de son adoption, un enfant étranger doivent avoir obtenu l'agrément prévu aux articles
-L. 225-2 à L. 225-7.
+Il est créé une Agence française de l'adoption qui a pour mission d'informer, de conseiller et de servir d'intermédiaire pour
+l'adoption de mineurs étrangers de quinze ans.
+
+L'Etat, les départements et des personnes morales de droit privé constituent à cette fin un groupement d'intérêt public.
+
+L'Agence française de l'adoption est autorisée à intervenir comme intermédiaire pour l'adoption dans l'ensemble des
+départements.
+
+Elle est habilitée à intervenir comme intermédiaire pour l'adoption dans les Etats parties à la convention de La Haye du 29
+mai 1993 sur la protection des enfants et la coopération en matière d'adoption internationale. A la demande du ministre
+chargé des affaires étrangères, après avis de l'Autorité centrale pour l'adoption internationale, l'Agence française de
+l'adoption suspend ou cesse son activité dans l'un de ces pays si les procédures d'adoption ne peuvent plus être menées dans
+les conditions définies par la convention précitée, et la reprend, le cas échéant, lorsque ces conditions peuvent de nouveau
+être respectées. Pour exercer son activité dans les autres pays d'origine des mineurs, elle doit obtenir l'habilitation du
+ministre chargé des affaires étrangères prévue à l'article L. 225-12.
+
+Pour l'exercice de son activité, dans les pays d'origine, elle s'appuie sur un réseau de correspondants.
+
+Elle assure ses compétences dans le strict respect des principes d'égalité et de neutralité.
 
 **Liens relatifs à cet article**
 
@@ -8710,31 +8741,39 @@ L. 225-2 à L. 225-7.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Modifié par**:
 
-	  - Loi n°2005-744 du 4 juillet 2005 - art. 2 () JORF 5 juillet 2005
-
-	**Anciens textes**:
-
-	  - Code de la famille et de l'aide sociale. - art. 100-3 (M)
-	  - Code de la famille et de l'aide sociale. - art. 100-3 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L225-17 (T)
-	  - Code de l'action sociale et des familles - art. L225-17 (V)
+	  - Loi n°2005-744 du 4 juillet 2005 - art. 4 () JORF 5 juillet 2005
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles L225-2 à L225-7
+	  - Code de l'action sociale et des familles - art. L225-12 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L225-17 (V)
+
+	**Anciens textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 100-3 (Ab)
 
 
 ###### Article L225-16
 
-A la demande ou avec l'accord de l'adoptant, le mineur adopté ou placé en vue d'adoption bénéficie d'un accompagnement par le
-service de l'aide sociale à l'enfance ou par l'organisme mentionné à l'article L. 225-11 pendant une durée de six mois
-minimum à compter de son arrivée au foyer et dans tous les cas jusqu'au prononcé de l'adoption plénière en France ou jusqu'à
-la transcription du jugement étranger. Cet accompagnement peut être prolongé à la demande ou avec l'accord de l'adoptant.
+Dans chaque département, le président du conseil général désigne au sein de ses services au moins une personne chargée
+d'assurer les relations avec l'Agence française de l'adoption.
+
+Outre les moyens mis à la disposition de l'agence par les personnes morales de droit privé qui en sont membres, l'Etat et les
+départements assurent sa prise en charge financière selon des modalités définies par voie réglementaire.
+
+Le personnel de l'agence est soumis au secret professionnel dans les conditions prévues aux articles 226-13 et 226-14 du code
+pénal.
+
+Les dispositions des articles L. 225-14-1 et L. 225-14-2 du présent code sont applicables à l'agence.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -8749,33 +8788,32 @@ la transcription du jugement étranger. Cet accompagnement peut être prolongé 
 	  - Code de l'action sociale et des familles - art. R225-12 (M)
 	  - Code de l'action sociale et des familles - art. R225-49 (V)
 
-	**Transféré par**:
+	**Modifié par**:
 
-	  - Loi n°2005-744 du 4 juillet 2005 - art. 2 () JORF 5 juillet 2005
+	  - Loi n°2005-744 du 4 juillet 2005 - art. 4 () JORF 5 juillet 2005
+
+	**Cite**:
+
+	  - Code pénal - art. 226-13 (M)
+	  - Code pénal - art. 226-14 (M)
+	  - Code de l'action sociale et des familles - art. L225-14-1 (V)
+	  - Code de l'action sociale et des familles - art. L225-14-2 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L225-18 (V)
 
 	**Anciens textes**:
 
 	  - Code de la famille et de l'aide sociale. - art. 100-4 (Ab)
 
-	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L225-11 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L225-18 (T)
-	  - Code de l'action sociale et des familles - art. L225-18 (V)
-
+##### Section 4 : Adoption internationale.
 
 ###### Article L225-17
 
-Est puni d'un an d'emprisonnement et d'une amende de 15000 euros le fait d'exercer l'activité d'intermédiaire pour l'adoption
-ou le placement en vue de l'adoption de mineurs de quinze ans sans avoir obtenu l'autorisation préalable prévue au premier
-alinéa de l'article L. 225-11 ou malgré une interdiction d'exercer.
-
-Les personnes physiques coupables des infractions prévues au présent article encourent également la peine complémentaire
-d'interdiction, suivant les modalités de l'article 131-27 du code pénal, d'exercer l'activité professionnelle d'accueil,
-d'hébergement ou de placement de mineurs.
+Les personnes qui accueillent, en vue de son adoption, un enfant étranger doivent avoir obtenu l'agrément prévu aux articles
+L. 225-2 à L. 225-7.
 
 **Liens relatifs à cet article**
 
@@ -8796,27 +8834,17 @@ d'hébergement ou de placement de mineurs.
 	  - Code du travail - art. L1225-41 (V)
 	  - Code du travail - art. L1225-46 (VD)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
 	**Codifié par**:
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-744 du 4 juillet 2005 - art. 2 () JORF 5 juillet 2005
 
-	**Cite**:
-
-	  - Code pénal - art. 131-27 (V)
-	  - Code de l'action sociale et des familles - art. L225-11 (M)
-
 	**Anciens textes**:
 
-	  - Code de la famille et de l'aide sociale. - art. 100-2 (M)
 	  - Code de l'action sociale et des familles - art. L225-15 (T)
 	  - Code de la famille et de l'aide sociale. - art. 100-2 (Ab)
 
@@ -8824,17 +8852,23 @@ d'hébergement ou de placement de mineurs.
 
 	  - Code de l'action sociale et des familles - art. L225-19 (V)
 
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L225-2 (V)
+
 
 ###### Article L225-18
 
-Un décret en Conseil d'Etat fixe les modalités d'application du présent chapitre et notamment des articles L. 225-1 à L.
-225-7.
+Le mineur placé en vue d'adoption ou adopté bénéficie d'un accompagnement par le service de l'aide sociale à l'enfance ou
+l'organisme mentionné à l'article L. 225-11 à compter de son arrivée au foyer de l'adoptant et jusqu'au prononcé de
+l'adoption plénière en France ou jusqu'à la transcription du jugement étranger. Cet accompagnement est prolongé si l'adoptant
+le demande, notamment s'il s'y est engagé envers l'Etat d'origine de l'enfant. Dans ce dernier cas, il s'effectue selon les
+modalités de calendrier déterminées au moment de l'engagement.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-422 1984-06-06 art. 63 al. 9, art. 100-1 al. 5
 	  - Loi n°84-422 du 6 juin 1984 - art. 6 (Ab)
 	  - Loi n°96-604 du 5 juillet 1996 - art. 56 (Ab)
 	  - Code de l'action sociale et des familles - art. L225-16 (T)
@@ -8862,17 +8896,81 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent chapi
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-744 du 4 juillet 2005 - art. 2 () JORF 5 juillet 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L225-11 (V)
 
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L225-20 (V)
 
+
+###### Article L225-19
+
+Est puni d'un an d'emprisonnement et d'une amende de 15000 euros le fait d'exercer l'activité d'intermédiaire pour l'adoption
+ou le placement en vue de l'adoption de mineurs de quinze ans sans avoir obtenu l'autorisation préalable prévue au premier
+alinéa de l'article L. 225-11 ou malgré une interdiction d'exercer. 
+
+Les personnes physiques coupables des infractions prévues au présent article encourent également la peine complémentaire
+d'interdiction, suivant les modalités de l'article 131-27 du code pénal, d'exercer l'activité professionnelle d'accueil,
+d'hébergement ou de placement de mineurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2005-744 du 4 juillet 2005 - art. 2 () JORF 5 juillet 2005
+
+	**Cité par**:
+
+	  - Arrêté du 3 août 2007 - art. 4 (V)
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles L225-1 à L225-7
+	  - Code pénal - art. 131-27 (V)
+	  - Code de l'action sociale et des familles - art. L225-11 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. L225-17 (T)
+
+
+###### Article L225-20
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent chapitre et notamment des articles L. 225-1 à L.
+225-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2005-744 du 4 juillet 2005 - art. 2 () JORF 5 juillet 2005
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1067 (M)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L225-1 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. L225-18 (T)
 
 
 #### Chapitre VI : Protection des mineurs maltraités.
