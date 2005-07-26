@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2005-07-09
+Version Consolidée au 2005-07-27
 
 # Partie législative
 
@@ -10770,9 +10770,9 @@ déclarer au président du conseil général le ou les salariés ou le service d
 utilisée l'allocation personnalisée d'autonomie. Tout changement ultérieur de salarié ou de service doit être déclaré dans
 les mêmes conditions.
 
-Si le bénéficiaire choisit de recourir à un service d'aide à domicile agréé dans les conditions fixées à l'article L. 129-1
-du code du travail, l'allocation personnalisée d'autonomie destinée à le rémunérer peut être versée sous forme de titre
-emploi-service.
+Si le bénéficiaire choisit de recourir à un salarié ou à un service d'aide à domicile agréé dans les conditions fixées à
+l'article L. 129-1 du code du travail, l'allocation personnalisée d'autonomie destinée à le rémunérer peut être versée sous
+forme de chèque emploi-service universel.
 
 Le bénéficiaire de l'allocation personnalisée d'autonomie peut employer un ou plusieurs membres de sa famille, à l'exception
 de son conjoint ou de son concubin ou de la personne avec laquelle il a conclu un pacte civil de solidarité. Le lien de
@@ -10787,6 +10787,10 @@ alinéa dans le délai d'un mois, si le bénéficiaire n'acquitte pas la partici
 bénéficiaire ne produit pas dans un délai d'un mois les justificatifs mentionnés à l'alinéa précédent ou, sur rapport de
 l'équipe médico-sociale mentionnée à l'article L. 232-3, soit en cas de non-respect des dispositions de l'article L. 232-6,
 soit si le service rendu présente un risque pour la santé, la sécurité ou le bien-être physique ou moral de son bénéficiaire.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -10813,7 +10817,7 @@ soit si le service rendu présente un risque pour la santé, la sécurité ou le
 
 	**Modifié par**:
 
-	  - Loi n°2003-289 du 31 mars 2003 - art. 2 () JORF 1er avril 2003
+	  - Loi n°2005-841 du 26 juillet 2005 - art. 7 () JORF 27 juillet 2005
 
 	**Cite**:
 
@@ -11217,10 +11221,24 @@ décret.
 
 ###### Article L232-15
 
-L'allocation personnalisée d'autonomie peut, sur délibération du conseil général, être versée directement aux salariés, aux
-services d'aide à domicile, notamment ceux visés à l'article L. 129-1 du code du travail, ou aux établissements visés au 6°
-du I de l'article L. 312-1 du présent code et au 2° de l'article L. 6111-2 du code de la santé publique utilisés par le
-bénéficiaire de l'allocation.
+L'allocation personnalisée d'autonomie peut, après accord du bénéficiaire, être versée directement aux services d'aide à
+domicile, notamment ceux mentionnés à l'article L. 129-1 du code du travail, ou aux établissements mentionnés au 6° du I de
+l'article L. 312-1 du présent code et au 2° de l'article L. 6111-2 du code de la santé publique utilisés par le bénéficiaire
+de l'allocation.
+
+Les prestations assurées par les services et établissements récipiendaires de l'allocation personnalisée d'autonomie font
+l'objet d'un contrôle de qualité.
+
+Le bénéficiaire de cette allocation peut modifier à tout moment les conditions dans lesquelles il est procédé à ce versement
+direct.
+
+**Nota:**
+
+Loi n° 2005-841 du 26 juillet 2005 art. 36 V : les dispositions de l'article L. 232-15 du code de l'action sociale et des
+familles, dans leur rédaction issue de la présente loi, sont applicables aux personnes bénéficiant de l'allocation
+personnalisée d'autonomie pour la première fois à compter du 1er janvier 2006. Celles qui bénéficient à cette date de cette
+allocation peuvent modifier à tout moment, à leur demande, les modalités de versement de l'allocation aux services d'aide à
+domicile.
 
 **Liens relatifs à cet article**
 
@@ -11235,7 +11253,7 @@ bénéficiaire de l'allocation.
 
 	**Modifié par**:
 
-	  - Loi n°2003-289 du 31 mars 2003 - art. 3 () JORF 1er avril 2003
+	  - Loi n°2005-841 du 26 juillet 2005 - art. 7 () JORF 27 juillet 2005
 
 	**Cité par**:
 
