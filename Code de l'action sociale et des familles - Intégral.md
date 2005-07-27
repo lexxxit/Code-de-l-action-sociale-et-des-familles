@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2005-07-27
+Version Consolidée au 2005-07-28
 
 # Partie législative
 
@@ -35144,6 +35144,9 @@ conseil et, le cas échéant, de personnalités extérieures. Chaque groupe de t
 
 Les crédits nécessaires au fonctionnement du conseil sont inscrits au budget du ministère des affaires sociales.
 
+Le secrétariat du Conseil national des politiques de lutte contre la pauvreté et l'exclusion sociale est assuré par la
+direction générale de l'action sociale.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -35153,6 +35156,10 @@ Les crédits nécessaires au fonctionnement du conseil sont inscrits au budget d
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-853 du 25 juillet 2005 - art. 1 () JORF 28 juillet 2005
 
 
 ###### Article R143-1
@@ -35194,34 +35201,49 @@ lutte contre la pauvreté et l'exclusion sociale.
 
 ###### Article R143-2
 
-Outre son président, qui est désigné par le Premier ministre, le conseil comprend les trente-huit membres suivants :
+Outre son président, qui est désigné par le Premier ministre, le conseil comprend les membres suivants :
 
 1° Huit membres du Gouvernement désignés par le Premier ministre parmi les ministres chargés de l'action sociale, du budget,
 des collectivités territoriales, de la culture, de l'éducation nationale, des finances, de la jeunesse, de la justice, du
-logement, de la santé, des sports, du travail, de la ville, ou leur représentant ;
+logement, de la santé, des sports, du travail, de l'emploi, de la famille, de la ville, ou leur représentant ;
 
 2° Huit élus :
 
-un député désigné par le président de l'Assemblée nationale ;
+a) Un député ;
 
-un sénateur désigné par le président du Sénat ;
+b) Un sénateur ;
 
-deux conseillers régionaux, nommés par le Premier ministre sur proposition de l'association des présidents de conseil
-régional ;
+c) Deux conseillers régionaux, nommés par le Premier ministre sur proposition de l'Association des régions de France ;
 
-deux conseillers généraux, nommés par le Premier ministre sur proposition de l'assemblée des départements de France ;
+d) Deux conseillers généraux, nommés par le Premier ministre sur proposition de l'Assemblée des départements de France ;
 
-deux maires, nommés par le Premier ministre sur proposition de l'association des maires de France ;
+e) Deux maires, nommés par le Premier ministre sur proposition de l'Association des maires de France ;
 
 3° Huit représentants des personnes morales de droit public ou privé, autres que l'Etat et les collectivités territoriales,
 concourant à l'insertion et à la lutte contre les exclusions, nommés par le Premier ministre sur proposition du ministre
 chargé de l'action sociale ;
 
-4° Huit personnalités qualifiées nommées par le Premier ministre sur proposition du ministre chargé de l'action sociale ;
+4° Huit représentants nommés par le Premier ministre sur proposition des organisations syndicales nationales de salariés
+représentatives au sens de l'article L. 133-2 du code du travail et des organisations professionnelles nationales
+d'employeurs représentatives ;
 
-5° Le président du Haut Comité pour le logement des personnes défavorisées, le président du conseil national de l'insertion
-par l'activité économique, le président du conseil national des missions locales, les deux vice-présidents du conseil
-national des villes et le président de l'observatoire national de la pauvreté et de l'exclusion sociale.
+5° Huit personnalités qualifiées nommées par le Premier ministre sur proposition du ministre chargé de l'action sociale ;
+
+6° Le directeur général de la Caisse nationale d'assurance maladie des travailleurs salariés, le directeur de la Caisse
+nationale des allocations familiales, le directeur de la Caisse centrale de mutualité sociale agricole, le directeur général
+de l'Agence nationale pour l'emploi et le délégué général de l'Union sociale pour l'habitat, ou leur représentant ;
+
+7° Le président du Conseil économique et social, le président du Haut Comité pour le logement des personnes défavorisées, le
+président du Conseil national de l'insertion par l'activité économique, le président du Conseil national des missions
+locales, les deux vice-présidents du Conseil national des villes, le président de l'Observatoire national de la pauvreté et
+de l'exclusion sociale et le président du Conseil national de l'habitat, ou leur représentant.
+
+**Nota:**
+
+Conformément à l'article 14 du décret n° 2008-1010 les dispositions introduites par l'article 7 dudit décret entrent en
+vigueur à la date mentionnée à l'article 9 de la loi n° 2008-126 du 13 février 2008. Cette date correspond à la date de la
+première réunion du conseil d'administration de l'institution prévue à l'article L. 5312-1 du code du travail. La création de
+pôle emploi est effective depuis le 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -35233,6 +35255,14 @@ national des villes et le président de l'observatoire national de la pauvreté 
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2005-852 du 25 juillet 2005 - art. 1 () JORF 28 juillet 2005
+
+	**Cite**:
+
+	  - Code du travail - art. L133-2 (M)
+
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. R143-3 (V)
@@ -35241,7 +35271,7 @@ national des villes et le président de l'observatoire national de la pauvreté 
 
 ###### Article R143-3
 
-Le président et les membres du conseil mentionnés aux 2° , 3° et 4° de l'article R. 143-2 sont nommés pour trois ans par
+Le président et les membres du conseil mentionnés aux 2°, 3°, 4°, 5° de l'article R. 143-2 sont nommés pour trois ans par
 arrêté du Premier ministre.
 
 **Liens relatifs à cet article**
@@ -35254,6 +35284,10 @@ arrêté du Premier ministre.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2005-852 du 25 juillet 2005 - art. 2 () JORF 28 juillet 2005
+
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. R143-2 (M)
@@ -35261,7 +35295,7 @@ arrêté du Premier ministre.
 
 ###### Article R143-4
 
-Un suppléant est nommé dans les mêmes conditions que le titulaire pour les membres du conseil mentionnés du 2° au 5° de
+Un suppléant est nommé dans les mêmes conditions que le titulaire pour les membres du conseil mentionnés du 2° au 4° de
 l'article R. 143-2.
 
 **Liens relatifs à cet article**
@@ -35273,6 +35307,10 @@ l'article R. 143-2.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-852 du 25 juillet 2005 - art. 3 () JORF 28 juillet 2005
 
 	**Cite**:
 
