@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2005-07-28
+Version Consolidée au 2005-07-29
 
 # Partie législative
 
@@ -29480,12 +29480,6 @@ Pour l'application à Mayotte de l'article L. 147-1, la référence :
 
 "L. 222-6" est remplacée par la référence : "L. 543-14".
 
-Pour l'application à Mayotte de l'article L. 147-3, les mots : "du président du conseil général" sont remplacés par les
-mots : "de l'organe exécutif de la collectivité départementale".
-
-Pour l'application à Mayotte de l'article L. 147-4, les mots : "au président du conseil général" sont remplacés par les
-mots : "à l'organe exécutif de la collectivité départementale".
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -29495,13 +29489,11 @@ mots : "à l'organe exécutif de la collectivité départementale".
 
 	**Modifié par**:
 
-	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
+	  - Ordonnance 2005-871 2005-07-28 art. 1 1° JORF 29 juillet 2005
 
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L147-1 (V)
-	  - Code de l'action sociale et des familles - art. L147-3 (V)
-	  - Code de l'action sociale et des familles - art. L147-4 (V)
 
 	**Cité par**:
 
@@ -29532,11 +29524,6 @@ Le conseil général de Mayotte peut décider de créer les prestations d'aide s
 
 5° L'admission dans les centres d'hébergement et de réinsertion sociale mentionnée au chapitre V du titre IV du livre III.
 
-L'admission au bénéfice de ces prestations est prononcée par la commission d'admission prévue par l'article L. 542-3, selon
-les conditions d'attribution déterminées par le présent code et par le règlement territorial d'aide sociale.
-
-Toutefois, les prestations d'aide sociale à l'enfance sont attribuées par le représentant du Gouvernement.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -29546,8 +29533,7 @@ Toutefois, les prestations d'aide sociale à l'enfance sont attribuées par le r
 
 	**Modifié par**:
 
-	  - Loi n°2002-93 2002-01-22 art. 8 A I, II JORF 23 janvier 2002
-	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
+	  - Ordonnance 2005-871 2005-07-28 art. 1 2° JORF 29 juillet 2005
 
 	**Cité par**:
 
@@ -29567,20 +29553,16 @@ Toutefois, les prestations d'aide sociale à l'enfance sont attribuées par le r
 
 ###### Article L542-2
 
-Les dispositions de l'article L. 131-6 du premier alinéa de l'article L. 133-3 et des articles L. 132-1, L. 132-2 et L. 133-6
-sont applicables à Mayotte.
+Les dispositions des articles L. 123-4, L. 123-5 à l'exception de ses troisième et quatrième alinéas, L. 123-6, des premier,
+deuxième, troisième alinéas et de la première phrase du quatrième alinéa de l'article L. 123-8, de l'article L. 123-9, du
+premier alinéa de l'article L. 132-1, de l'article L. 132-2, du premier alinéa de l'article L. 133-3, des articles L. 133-4 à
+L. 133-6 sont applicables à Mayotte sous réserve des adaptations prévues à l'article L. 542-2-1.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
 	**Modifié par**:
 
-	  - Loi n°2002-93 2002-01-22 art. 8 A I, II JORF 23 janvier 2002
-	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
+	  - Ordonnance 2005-871 2005-07-28 art. 1 3° JORF 29 juillet 2005
 
 	**Cité par**:
 
@@ -29588,11 +29570,14 @@ sont applicables à Mayotte.
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L131-6 (Ab)
+	  - Code de l'action sociale et des familles - art. L123-4 (V)
+	  - Code de l'action sociale et des familles - art. L123-5 (M)
+	  - Code de l'action sociale et des familles - art. L123-8 (M)
+	  - Code de l'action sociale et des familles - art. L123-9 (V)
 	  - Code de l'action sociale et des familles - art. L132-1 (V)
 	  - Code de l'action sociale et des familles - art. L132-2 (V)
 	  - Code de l'action sociale et des familles - art. L133-3 (M)
-	  - Code de l'action sociale et des familles - art. L133-6 (T)
+	  - Code de l'action sociale et des familles L123-4, L123-5, L123-8, L123-9, L132-1, L132-2, L133-3, L133-4 à L133-6, L542-2-1
 
 	**Anciens textes**:
 
@@ -29606,17 +29591,23 @@ sont applicables à Mayotte.
 
 ###### Article L542-3
 
-La commission d'admission comprend, outre le représentant du Gouvernement ou son suppléant choisi par lui parmi les
-fonctionnaires de l'Etat, président, le conseiller général du canton dont fait partie la commune où la demande a été déposée
-ou un conseiller général suppléant désigné par le conseil général, le maire de la commune concernée ou un conseiller
-municipal de cette commune, suppléant désigné par le conseil municipal.
+Les demandes d'admission au bénéfice de l'aide sociale, à l'exception de celles concernant l'aide sociale à l'enfance, sont
+déposées au centre communal ou intercommunal d'action sociale ou, à défaut, à la mairie de résidence de l'intéressé.
 
-En cas de partage égal des voix, celle du président est prépondérante.
+Les demandes donnent lieu à l'établissement d'un dossier par les soins du centre communal ou intercommunal d'action sociale.
+Celui-ci peut utiliser à cet effet des visiteurs-enquêteurs.
 
-Peuvent être appelées à siéger avec voix consultative des personnes compétentes en matière d'aide sociale, désignées par le
-représentant du Gouvernement sur avis conforme du conseil général.
+Les demandes sont ensuite transmises, dans le mois de leur dépôt, au président du conseil général qui les instruit après
+avoir recueilli l'avis du maire de la commune du demandeur ou l'avis du centre communal ou intercommunal d'action sociale.
 
-Le demandeur, accompagné, le cas échéant, d'une personne de son choix, est entendu à sa demande par la commission.
+Le président du conseil général prend, le cas échéant, l'avis du conseil municipal, lorsque le maire ou le centre communal ou
+intercommunal d'action sociale a demandé la consultation de cette assemblée.
+
+La décision d'admission au bénéfice des prestations prévues à l'article L. 542-1 est prise par le président du conseil
+général.
+
+Le demandeur, accompagné, le cas échéant, d'une personne de son choix ou son représentant dûment mandaté à cet effet, est
+entendu, à sa demande, préalablement à la décision.
 
 **Liens relatifs à cet article**
 
@@ -29627,8 +29618,7 @@ Le demandeur, accompagné, le cas échéant, d'une personne de son choix, est en
 
 	**Modifié par**:
 
-	  - Loi n°2002-93 2002-01-22 art. 8 A I, II JORF 23 janvier 2002
-	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
+	  - Ordonnance 2005-871 2005-07-28 art. 1 4° JORF 29 juillet 2005
 
 	**Cité par**:
 
@@ -29648,8 +29638,9 @@ Le demandeur, accompagné, le cas échéant, d'une personne de son choix, est en
 
 ###### Article L542-4
 
-Un recours peut être formé devant une commission territoriale de l'aide sociale contre les décisions de la commission
-d'admission.
+A l'exception des décisions concernant l'attribution des prestations de l'aide sociale à l'enfance, les décisions du
+président du conseil général prévues à l'article L. 542-1 sont susceptibles de recours devant la commission territoriale de
+l'aide sociale de Mayotte.
 
 La commission territoriale, présidée par le président du tribunal de première instance ou le magistrat désigné par lui pour
 le remplacer, comprend trois conseillers généraux désignés par le conseil général et trois fonctionnaires de l'Etat en
@@ -29675,7 +29666,7 @@ Gouvernement.
 
 	**Modifié par**:
 
-	  - Loi n°2004-626 du 30 juin 2004 - art. 18 () JORF 1er juillet 2004
+	  - Ordonnance 2005-871 2005-07-28 art. 1 5° JORF 29 juillet 2005
 
 	**Cité par**:
 
@@ -29688,6 +29679,10 @@ Gouvernement.
 
 	  - Code de l'action sociale et des familles - art. L541-4 (T)
 	  - Code de la famille et de l'aide sociale. - art. 232 (Ab)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L542-1 (T)
 
 	**Nouveaux textes**:
 
@@ -29777,50 +29772,12 @@ Le délai de recours est de deux mois à compter de la notification de la décis
 	  - Code de l'action sociale et des familles - art. L543-6 (Ab)
 
 
-###### Article L542-7
-
-Toute personne appelée à intervenir dans l'instruction, l'attribution ou la révision des admissions au bénéfice de l'aide
-sociale est tenue au secret dans les conditions prévues par les articles 226-13 et 226-14 du code pénal et, en cas de
-manquement à cette obligation, passible des peines prévues à l'article 226-13.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Modifié par**:
-
-	  - Loi n°2002-93 2002-01-22 art. 8 A I, II JORF 23 janvier 2002
-	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
-
-	**Abrogé par**:
-
-	  - Ordonnance 2005-871 2005-07-28 art. 1 6° JORF 29 juillet 2005
-
-	**Cite**:
-
-	  - Code pénal - art. 226-13 (M)
-	  - Code pénal - art. 226-14 (M)
-
-	**Anciens textes**:
-
-	  - Code de l'action sociale et des familles - art. L541-7 (T)
-	  - Code de la famille et de l'aide sociale. - art. 235 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. L543-7 (V)
-
-
 ###### Article L542-8
 
 Les ascendants, descendants et conjoints d'une personne qui sollicite l'aide sociale doivent déclarer leurs ressources et
 indiquer l'aide qu'ils peuvent apporter à cette personne.
 
-La commission d'admission instituée par l'article L. 542-3 fixe, en tenant compte du montant de leur contribution éventuelle,
-la proportion de l'aide consentie par la collectivité territoriale.
+Il est tenu compte de leur participation éventuelle dans la détermination de l'aide consentie par la collectivité de Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -29831,17 +29788,16 @@ la proportion de l'aide consentie par la collectivité territoriale.
 
 	**Modifié par**:
 
-	  - Loi n°2002-93 2002-01-22 art. 8 A I, II JORF 23 janvier 2002
-	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
+	  - Ordonnance 2005-871 2005-07-28 art. 1 7° JORF 29 juillet 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-785 du 31 mai 2012 - art. 3
 
 	**Anciens textes**:
 
 	  - Code de l'action sociale et des familles - art. L541-8 (T)
 	  - Code de la famille et de l'aide sociale. - art. 236 (Ab)
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L542-3 (T)
 
 	**Nouveaux textes**:
 
@@ -29979,8 +29935,8 @@ l'enfant.
 
 ###### Article L543-4
 
-Les dispositions des articles L. 121-2, L. 221-1, L. 222-1 à L. 222-4, à l'exception du deuxième alinéa de l'article L. 221-1
-et du deuxième alinéa de l'article L. 222-4, L. 223-1, L. 223-2, L. 223-4 et L. 223-5 sont applicables à Mayotte.
+Les dispositions des articles L. 121-2, L. 221-1, L. 222-1 à L. 222-3, L. 222-4, à l'exception de son deuxième alinéa, L.
+223-1, L. 223-2, L. 223-4 et L. 223-5 sont applicables à Mayotte sous réserve des adaptations prévues à l'article L. 543-5.
 
 **Liens relatifs à cet article**
 
@@ -29989,20 +29945,17 @@ et du deuxième alinéa de l'article L. 222-4, L. 223-1, L. 223-2, L. 223-4 et L
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2002-93 2002-01-22 art. 8 A I, IV 1° JORF 23 janvier 2002
-	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
+	  - Ordonnance 2005-871 2005-07-28 art. 1 8° JORF 29 juillet 2005
 
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L121-2 (M)
 	  - Code de l'action sociale et des familles - art. L221-1 (M)
-	  - Code de l'action sociale et des familles - art. L223-1 (M)
-	  - Code de l'action sociale et des familles - art. L223-2 (M)
-	  - Code de l'action sociale et des familles - art. L223-4 (V)
-	  - Code de l'action sociale et des familles - art. L223-5 (M)
-	  - Code de l'action sociale et des familles L121-2, L221-1, L222-1 à L222-4, L223-1, L223-2, L223-4, L223-5
+	  - Code de l'action sociale et des familles - art. L222-4 (M)
+	  - Code de l'action sociale et des familles - art. L543-5 (T)
+	  - Code de l'action sociale et des familles L121-2, L221-1, L222-1 à L222-3, L222-4, L543-5
 
 	**Anciens textes**:
 
@@ -30011,8 +29964,14 @@ et du deuxième alinéa de l'article L. 222-4, L. 223-1, L. 223-2, L. 223-4 et L
 
 ###### Article L543-5
 
-Outre les missions dont il est chargé par l'article L. 221-1, le service de l'aide sociale à l'enfance peut entreprendre ou
-soutenir des actions d'éducation familiale, notamment dans les établissements scolaires publics et privés.
+Pour l'application à Mayotte :
+
+a) De l'article L. 121-2, au premier alinéa, les mots : "Dans les zones urbaines sensibles et" sont supprimés et au dernier
+alinéa, les mots : "prévues aux articles L. 313-8, L. 313-8-1 et L. 313-9" sont remplacés par les mots : "prévues par le
+règlement de l'aide sociale de Mayotte" ;
+
+b) Du septième alinéa de l'article L. 221-1, les mots : "prévues aux articles L. 313-8, L. 313-8-1 et L. 313-9" sont
+remplacés par les mots : "prévues par le règlement de l'aide sociale de Mayotte".
 
 **Liens relatifs à cet article**
 
@@ -30021,17 +29980,13 @@ soutenir des actions d'éducation familiale, notamment dans les établissements 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2002-93 2002-01-22 art. 8 A I, IV 1° JORF 23 janvier 2002
-	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
-
-	**Transféré par**:
-
-	  - Ordonnance 2005-871 2005-07-28 art. 1 9° JORF 29 juillet 2005
+	  - Ordonnance 2005-871 2005-07-28 art. 1 10° JORF 29 juillet 2005
 
 	**Cite**:
 
+	  - Code de l'action sociale et des familles - art. L121-2 (M)
 	  - Code de l'action sociale et des familles - art. L221-1 (M)
 
 	**Anciens textes**:
@@ -30044,15 +29999,13 @@ soutenir des actions d'éducation familiale, notamment dans les établissements 
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. L543-6 (Ab)
 	  - Code de l'action sociale et des familles - art. L543-6 (M)
 
 
 ###### Article L543-6
 
-Pour l'accomplissement de ses missions et sans préjudice de ses responsabilités vis-à-vis des enfants qui lui sont confiés,
-le service de l'aide sociale à l'enfance peut faire appel à des communes ou à des organismes publics ou privés agréés par le
-représentant de l'Etat dans la collectivité.
+Outre les missions dont il est chargé par l'article L. 221-1, le service de l'aide sociale à l'enfance peut entreprendre ou
+soutenir des actions d'éducation familiale, notamment dans les établissements scolaires publics et privés.
 
 **Liens relatifs à cet article**
 
@@ -30061,14 +30014,13 @@ représentant de l'Etat dans la collectivité.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Créé par**:
-
-	  - Loi n°2002-93 2002-01-22 art. 8 A I, IV 1° JORF 23 janvier 2002
-	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Ordonnance 2005-871 2005-07-28 art. 1 9° JORF 29 juillet 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L221-1 (M)
 
 	**Anciens textes**:
 
@@ -30102,39 +30054,9 @@ conditions légales d'admission, telles qu'elles sont définies par le présent 
 	  - Code de l'action sociale et des familles - art. L542-7 (T)
 
 
-###### Article L543-8
-
-L'habilitation des organismes publics ou privés chargés de mettre en oeuvre les actions mentionnées au 2° de l'article L.
-121-2 est délivrée dans les conditions prévues par le règlement territorial de l'aide sociale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Créé par**:
-
-	  - Loi n°2002-93 2002-01-22 art. 8 A I, IV 1° JORF 23 janvier 2002
-	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
-
-	**Abrogé par**:
-
-	  - Ordonnance 2005-871 2005-07-28 art. 1 11° JORF 29 juillet 2005
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L121-2 (M)
-
-	**Anciens textes**:
-
-	  - Code de l'action sociale et des familles - art. L542-8 (T)
-
-
 ###### Article L543-9
 
-Sont pris en charge par le service de l'aide sociale à l'enfance, sur décision du représentant du Gouvernement :
+Sont pris en charge par le service de l'aide sociale à l'enfance, sur décision du président du conseil général :
 
 1° Les mineurs qui ne peuvent provisoirement être maintenus dans leur milieu de vie habituel ;
 
@@ -30154,10 +30076,13 @@ ressources ou d'un soutien familial suffisants.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2002-93 2002-01-22 art. 8 A I, IV 1° JORF 23 janvier 2002
-	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
+	  - Ordonnance 2005-871 2005-07-28 art. 1 12° JORF 29 juillet 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-785 du 31 mai 2012 - art. 3
 
 	**Anciens textes**:
 
@@ -30201,7 +30126,8 @@ Le conseil général de Mayotte détermine les moyens nécessaires à l'exécuti
 organisation.
 
 Pour l'application de l'alinéa précédent, la collectivité territoriale peut conclure des conventions avec les communes ou
-avec des personnes morales de droit privé agréées par le représentant du Gouvernement.
+avec des personnes morales de droit privé habilitées dans les conditions prévues par le règlement de l'aide sociale de
+Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -30210,10 +30136,13 @@ avec des personnes morales de droit privé agréées par le représentant du Gou
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2002-93 2002-01-22 art. 8 A I, IV 1° JORF 23 janvier 2002
-	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
+	  - Ordonnance 2005-871 2005-07-28 art. 1 13° JORF 29 juillet 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-785 du 31 mai 2012 - art. 3
 
 	**Anciens textes**:
 
@@ -30372,16 +30301,7 @@ présent chapitre.
 Pour l'application des dispositions du présent chapitre, les mots mentionnés ci-dessous sont respectivement remplacés par les
 mots suivants :
 
-- "président du conseil général" par "préfet jusqu'au transfert de l'exécutif de la collectivité départementale au président
-du conseil général" ;
-
-- "département" par "collectivité départementale de Mayotte" ;
-
-- "tribunal de grande instance" par "tribunal de première instance" ;
-
-- "union départementale des associations familiales" par "union territoriale des associations familiales" ;
-
-- "association départementale d'entraide" par "association territoriale d'entraide" ;
+- "association départementale d'entraide" par "association d'entraide de Mayotte" ;
 
 - "service départemental de protection maternelle et infantile" par "service de protection maternelle et infantile" ;
 
@@ -30396,8 +30316,7 @@ du conseil général" ;
 
 	**Modifié par**:
 
-	  - Loi n°2002-93 2002-01-22 art. 8 A I, V 1°, 2° JORF 23 janvier 2002
-	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
+	  - Ordonnance 2005-871 2005-07-28 art. 1 14° JORF 29 juillet 2005
 
 	**Anciens textes**:
 
@@ -30644,13 +30563,47 @@ convention conclue entre l'Etat et la collectivité territoriale en détermine l
 
 ###### Article L545-5
 
-Pour l'application des dispositions des autres livres du présent code, les mots énumérés ci-dessous sont respectivement
+Pour l'application des dispositions du présent titre et des autres livres du présent code, les mots énumérés ci-dessous sont
 remplacés par les mots suivants :
 
-- "département" par "collectivité départementale" ;
+- "la collectivité territoriale" par "Mayotte" ;
 
-- "président du conseil général" par "préfet jusqu'au transfert de l'exécutif de la collectivité départementale au président
-du conseil général".
+- "département" par "Mayotte" ;
+
+- "union départementale des associations familiales" par "union des associations familiales de Mayotte" ;
+
+- "tribunal de grande instance" par "tribunal d'instance" ;
+
+- "règlement territorial de l'aide sociale" par "règlement de l'aide sociale de Mayotte".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Ordonnance 2005-871 2005-07-28 art. 1 15° JORF 29 juillet 2005
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2008-859 du 28 août 2008 - art. 2
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. L544-5 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L548-5 (VD)
+
+
+###### Article L545-6
+
+Des dispositions réglementaires déterminent, en tant que de besoin, les modalités d'application du présent titre. Sauf
+dispositions contraires, elles sont prises par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -30661,12 +30614,7 @@ du conseil général".
 
 	**Créé par**:
 
-	  - Loi n°2002-93 2002-01-22 art. 8 A I, VI 1°, 3° JORF 23 janvier 2002
-	  - Loi n°2002-93 du 22 janvier 2002 - art. 8 () JORF 23 janvier 2002
-
-	**Anciens textes**:
-
-	  - Code de l'action sociale et des familles - art. L544-5 (T)
+	  - Ordonnance 2005-871 2005-07-28 art. 1 16° JORF 29 juillet 2005
 
 
 ### Titre V : Territoire des îles Wallis et Futuna
