@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2005-08-03
+Version Consolidée au 2005-08-27
 
 # Partie législative
 
@@ -25858,12 +25858,21 @@ durée ne peut excéder trois ans.
 
 ###### Article L411-2
 
-Les assistants de service social sont tenus, dans le mois qui suit leur entrée en fonctions, de faire enregistrer à la
-préfecture leur diplôme ou autre titre.
+Les assistants de service social sont tenus de faire enregistrer sans frais leur diplôme ou attestation de capacité à exercer
+auprès du service de l'Etat compétent ou de l'organisme désigné à cette fin. En cas de changement de situation
+professionnelle, ils en informent ce service ou cet organisme.
 
-Tout changement de résidence professionnelle hors des limites du département oblige à un nouvel enregistrement. La même
-obligation s'impose aux personnes qui, après plus de deux ans d'interruption, veulent reprendre l'exercice de leur
-profession.
+Il est établi, pour chaque département, par le service de l'Etat compétent ou de l'organisme désigné à cette fin, une liste
+de cette profession, portée à la connaissance du public.
+
+Les modalités d'application du présent article sont fixées par décret.
+
+**Nota:**
+
+Ordonnance 2005-1040 2005-08-26 art. 12, art. 13 : les dispositions du présent article sont applicables à Mayotte et aux îles
+Wallis et Futuna.
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -25879,6 +25888,10 @@ profession.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Ordonnance 2005-1040 2005-08-26 art. 7 2° JORF 27 août 2005
 
 	**Anciens textes**:
 
