@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2005-08-30
+Version Consolidée au 2005-09-02
 
 # Partie législative
 
@@ -9470,13 +9470,16 @@ Cette protection est assurée dans les conditions prévues soit :
 
 ###### Article L227-4
 
-La protection des mineurs accueillis à l'occasion des vacances scolaires, des congés professionnels et des loisirs, et
-notamment en centre de vacances et en centre de loisirs sans hébergement, est confiée au représentant de l'Etat dans le
-département.
+La protection des mineurs, dès leur inscription dans un établissement scolaire en application de l'article L. 113-1 du code
+de l'éducation, qui bénéficient hors du domicile parental, à l'occasion des vacances scolaires, des congés professionnels ou
+des loisirs, d'un mode d'accueil collectif à caractère éducatif entrant dans une des catégories fixées par décret en Conseil
+d'Etat, est confiée au représentant de l'Etat dans le département. 
 
-En ce qui concerne les centres de vacances et les centres de loisirs sans hébergement, un projet éducatif est établi dans des
-conditions définies par décret en Conseil d'Etat. L'Etat s'assure de l'existence, des conditions de mise en oeuvre et de
-l'évaluation de ce projet.
+Ce décret définit, pour chaque catégorie d'accueil, la réglementation qui lui est applicable, et les conditions dans
+lesquelles un projet éducatif doit être établi. 
+
+Les dispositions du présent article ne sont pas applicables à l'accueil organisé par des établissements d'enseignement
+scolaire.
 
 **Liens relatifs à cet article**
 
@@ -9484,10 +9487,6 @@ l'évaluation de ce projet.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Créé par**:
-
-	  - Loi n°2001-624 du 17 juillet 2001 - art. 13 () JORF 18 juillet 2001
 
 	**Cité par**:
 
@@ -9558,15 +9557,22 @@ l'évaluation de ce projet.
 	  - TXT_SOURCE: Arrêté du 20 février 2003 - art. 3 (V)
 	  - TXT_SOURCE: Arrêté du 20 février 2003 - art. 4 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1092 du 1 septembre 2005 - art. 2 () JORF 2 septembre 2005
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L113-1 (V)
+
 
 ###### Article L227-5
 
-Les personnes organisant l'accueil des mineurs mentionné à l'article L. 227-4 doivent préalablement en faire la déclaration
-auprès du représentant de l'Eat dans le département, qui délivre un récépissé. Celui-ci peut s'opposer à l'organisation de
-cette activité lorsque les conditions dans lesquelles elle est envisagée présentent des risques pour la santé et la sécurité
-physique ou morale des mineurs concernés ou en l'absence du projet éducatif mentionné au deuxième alinéa de l'article L.
-227-4. Une nouvelle déclaration est nécessaire en cas de modification des conditions dans lesquelles cet accueil ou
-l'exploitation des locaux a lieu.
+Les personnes organisant l'accueil de mineurs mentionné à l'article L. 227-4 ainsi que celles exploitant les locaux où ces
+mineurs sont hébergés doivent en faire la déclaration préalable auprès de l'autorité administrative. Celle-ci peut s'opposer
+à l'organisation de cette activité lorsque les conditions dans lesquelles elle est envisagée présentent des risques pour la
+santé et la sécurité physique ou morale des mineurs et notamment lorsque les exigences prévues au dernier alinéa ne sont pas
+satisfaites.
 
 Les personnes organisant l'accueil des mineurs mentionné à l'article L. 227-4, ainsi que celles exploitant les locaux où cet
 accueil se déroule, sont tenues de souscrire un contrat d'assurance garantissant les conséquences pécuniaires de leur
@@ -9577,18 +9583,10 @@ Les personnes organisant l'accueil des mineurs mentionné à l'article L. 227-4 
 responsables légaux des mineurs concernés de leur intérêt à souscrire un contrat d'assurance de personnes couvrant les
 dommages corporels auxquels peuvent les exposer les activités auxquels ils participent.
 
-L'octroi d'une aide financière sur des fonds publics aux institutions, organismes ou établissements chargés de l'accueil
-mentionnés au premier alinéa est soumis au respect préalable des dispositions du présent article.
-
-Un décret en Conseil d'Etat précise les modalités d'application des dispositions ci-dessus, notamment les normes d'hygiène et
-de sécurité auxquelles doit satisfaire l'accueil, les exigences liées à la qualification des personnes assurant l'encadrement
-des mineurs, ainsi que les modalités de souscription aux contrats d'assurance obligatoire.
-
-**Nota:**
-
-Loi 2001-624 2001-07-17 art. 13 VI : L'obligation de souscrire le contrat d'assurance mentionné à l'article L. 227-5 du code
-de l'action sociale et des familles entre en vigueur le premier jour du troisième mois suivant la publication du décret prévu
-à cet article et au plus tard dans un délai de six mois suivant la publication de la présente loi.
+Un décret en Conseil d'Etat précise les modalités d'application des dispositions ci-dessus, notamment le contenu de la
+déclaration préalable, les normes d'hygiène et de sécurité auxquelles doit satisfaire l'accueil, les exigences liées à la
+qualification des personnes assurant l'encadrement des mineurs, les conditions particulières d'encadrement et de pratique des
+activités physiques ainsi que les modalités de souscription aux contrats d'assurance obligatoire.
 
 **Liens relatifs à cet article**
 
@@ -9596,10 +9594,6 @@ de l'action sociale et des familles entre en vigueur le premier jour du troisiè
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Créé par**:
-
-	  - Loi n°2001-624 du 17 juillet 2001 - art. 13 () JORF 18 juillet 2001
 
 	**Cité par**:
 
@@ -9620,45 +9614,13 @@ de l'action sociale et des familles entre en vigueur le premier jour du troisiè
 	  - TXT_SOURCE: Décret n°2002-885 du 3 mai 2002 - art. 3 (Ab)
 	  - TXT_SOURCE: Décret n°2002-885 du 3 mai 2002 - art. 4 (Ab)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'action sociale et des familles - art. L227-4 (M)
-
-
-###### Article L227-6
-
-Les personnes organisant un accueil des enfants scolarisés limité aux heures qui précèdent et suivent la classe ne sont pas
-tenues, pour cette activité, d'élaborer le projet éducatif prévu à l'article L. 227-4, ni d'effectuer la déclaration
-préalable prévue à l'article L. 227-5.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Créé par**:
-
-	  - Loi n°2001-624 du 17 juillet 2001 - art. 13 () JORF 18 juillet 2001 et rectificatif JORF 16 novembre 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-1092 du 1 septembre 2005 - art. 4 (V) JORF 2 septembre 2005
+	  - Ordonnance n°2005-1092 du 1 septembre 2005 - art. 3 () JORF 2 septembre 2005
 
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L227-4 (M)
-	  - Code de l'action sociale et des familles - art. L227-5 (M)
-
-	**Cité par**:
-
-	  - Code du travail - art. D1271-15 (T)
-	  - Code du travail - art. D129-31 (VT)
-	  - Code du travail - art. D129-8 (VT)
-	  - Code du travail - art. L129-13 (Ab)
-	  - Code du travail - art. L129-17 (AbD)
-	  - Code du travail - art. L129-5 (M)
 
 
 ###### Article L227-7
@@ -9667,7 +9629,7 @@ Nul ne peut exercer des fonctions, à quelque titre que ce soit, en vue de l'acc
 227-4 ou exploiter des locaux accueillant ces mineurs, s'il a fait l'objet d'une condamnation définitive pour crime ou à une
 peine d'emprisonnement pour l'un des délits prévus :
 
-- aux sections 2, 3 et 4 du chapitre II du titre II du livre II du code pénal ;
+- aux sections 1, 2, 3 et 4 du chapitre II du titre II du livre II du code pénal ;
 
 - à la section 2 du chapitre V du titre II du livre II du même code ;
 
@@ -9692,9 +9654,9 @@ justice est devenue définitive.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2001-624 du 17 juillet 2001 - art. 13 () JORF 18 juillet 2001
+	  - Ordonnance n°2005-1092 du 1 septembre 2005 - art. 5 () JORF 2 septembre 2005
 
 	**Cité par**:
 
@@ -9703,10 +9665,46 @@ justice est devenue définitive.
 	  - Code de l'action sociale et des familles - art. L227-7-1 (Ab)
 	  - Code de l'action sociale et des familles - art. L227-8 (M)
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 15 () JORF 2 décembre 2005
+
 	**Cite**:
 
 	  - Code de la santé publique - art. L3421-4 (M)
 	  - Code de l'action sociale et des familles - art. L227-4 (M)
+
+
+###### Article L227-7-1
+
+En cas de condamnation prononcée par une juridiction étrangère et passée en force de chose jugée pour une infraction
+constituant, selon la loi française, un crime ou l'un des délits mentionnés à l'article L. 227-7, le tribunal de grande
+instance du domicile du condamné, statuant en matière correctionnelle, à la requête du ministère public, déclare, après
+constatation de la régularité et de la légalité de la condamnation et l'intéressé dûment appelé en chambre du conseil, qu'il
+y a lieu à l'application de l'incapacité prévue à l'article L. 227-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1092 du 1 septembre 2005 - art. 6 () JORF 2 septembre 2005
+
+	**Cité par**:
+
+	  - Ordonnance n°2005-1092 du 1 septembre 2005 - art. 11 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 15 () JORF 2 décembre 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L227-7 (M)
 
 
 ###### Article L227-8
@@ -9723,7 +9721,7 @@ Est puni de six mois d'emprisonnement et de 3750 euros d'amende :
 Est puni d'un an d'emprisonnement et de 7500 euros d'amende le fait de s'opposer de quelque façon que ce soit à l'exercice
 des fonctions dont sont chargés les agents mentionnés à l'article L. 227-9.
 
-Est puni d'un an d'emprisonnement et de 15000 euros d'amende :
+Est puni de deux ans d'emprisonnement et de 30 000 euros d'amende :
 
 1° Le fait d'exercer des fonctions à quelque titre que ce soit en vue de l'accueil de mineurs mentionnés à l'article L.
 227-4, ou d'exploiter les locaux accueillant ces mineurs malgré les incapacités prévues à l'article L. 227-7 ;
@@ -9740,13 +9738,13 @@ pénal, des infractions définies au présent article.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Créé par**:
-
-	  - Loi n°2001-624 du 17 juillet 2001 - art. 13 () JORF 18 juillet 2001
-
 	**Cité par**:
 
 	  - Décret n°2002-509 du 8 avril 2002 - art. 1 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1092 du 1 septembre 2005 - art. 7 () JORF 2 septembre 2005
 
 	**Cite**:
 
@@ -9846,11 +9844,12 @@ renseignements leur permettant d'apprécier les conditions matérielles et moral
 ###### Article L227-10
 
 Après avis d'une commission comprenant des représentants de l'Etat et des mouvements de jeunesse et d'éducation populaire
-agréés, le représentant de l'Etat dans le département peut prononcer à l'encontre de toute personne dont le maintien en
-activité présenterait des risques pour la santé et la sécurité physique ou morale des mineurs mentionnés à l'article L.
-227-4, ainsi que de toute personne qui est sous le coup d'une mesure de suspension ou d'interdiction d'exercer prise en
-application de l'article L. 463-6 du code de l'éducation, l'interdiction temporaire ou permanente d'exercer quelque fonction
-que ce soit auprès de ces mineurs ou d'exploiter des locaux les accueillant.
+agréés, le représentant de l'Etat dans le département peut prononcer à l'encontre de toute personne dont la participation à
+un accueil de mineurs mentionné à l'article L. 227-4 ou à l'organisation d'un tel accueil présenterait des risques pour la
+santé et la sécurité physique ou morale des mineurs mentionnés à l'article L. 227-4, ainsi que de toute personne qui est sous
+le coup d'une mesure de suspension ou d'interdiction d'exercer prise en application de l'article L. 463-6 du code de
+l'éducation, l'interdiction temporaire ou permanente d'exercer une fonction particulière ou quelque fonction que ce soit
+auprès de ces mineurs, ou d'exploiter des locaux les accueillant ou de participer à l'organisation des accueils.
 
 En cas d'urgence, le représentant de l'Etat dans le département peut, sans consultation de ladite commission, prendre une
 mesure de suspension d'exercice à l'égard des personnes mentionnées à l'alinéa précédent. Cette mesure est limitée à six
@@ -9864,10 +9863,6 @@ l'intervention d'une décision définitive rendue par la juridiction compétente
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Créé par**:
-
-	  - Loi n°2001-624 du 17 juillet 2001 - art. 13 () JORF 18 juillet 2001 et rectificatif JORF 16 novembre 2001
-
 	**Cité par**:
 
 	  - Décret n°2002-570 du 22 avril 2002 - art. 9 (Ab)
@@ -9880,6 +9875,10 @@ l'intervention d'une décision définitive rendue par la juridiction compétente
 	  - Code de l'action sociale et des familles - art. R227-3 (V)
 	  - Code de l'éducation - art. D312-1-2 (VD)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1092 du 1 septembre 2005 - art. 8 () JORF 2 septembre 2005
+
 	**Cite**:
 
 	  - Code de l'éducation - art. L463-6 (M)
@@ -9888,28 +9887,39 @@ l'intervention d'une décision définitive rendue par la juridiction compétente
 
 ###### Article L227-11
 
-Le représentant de l'Etat dans le département peut adresser à toute personne qui exerce une responsabilité dans l'accueil des
-mineurs mentionné à l'article L. 227-4 ou aux exploitants des locaux accueillant les injonctions nécessaires pour mettre
-fin :
+I. - Le représentant de l'Etat dans le département peut adresser, à toute personne qui exerce une responsabilité dans
+l'accueil des mineurs mentionné à l'article L. 227-4 ou aux exploitants des locaux les accueillant, une injonction pour
+mettre fin :
 
-- aux manquements aux normes d'hygiène, de sécurité ou de qualification, ou aux obligations d'assurance prévues à l'article
-L. 227-5 ;
+- aux manquements aux dispositions prévues à l'article L. 227-5 ;
 
 - aux risques pour la santé et la sécurité physique ou morale des mineurs que présentent les conditions de leur accueil ;
 
-- aux manquements aux dispositions prévues au deuxième alinéa de l'article L. 227-4 et à l'article L. 227-7.
+- aux manquements aux dispositions relatives au projet éducatif prévues à l'article L. 227-4 ;
 
-A l'expiration du délai fixé, le représentant de l'Etat dans le département peut, de manière totale ou partielle, interrompre
-ou mettre fin à l'accueil de mineurs mentionné à l'article L. 227-4, ainsi que prononcer la fermeture temporaire ou
-définitive du centre de vacances ou du centre de loisirs sans hébergement, si la ou les personnes mentionnées au premier
-alinéa n'ont pas remédié aux situations qui ont fait l'objet de l'injonction.
+- aux manquements aux dispositions prévues à l'article L. 227-7 et à l'article L. 227-10.
 
-En cas d'urgence ou lorsque l'une des personnes mentionnées au premier alinéa refuse de se soumettre à la visite prévue à
-l'article L. 227-9, le représentant de l'Etat dans le département peut décider, sans injonction préalable, d'interrompre
-l'accueil ou de fermer les locaux dans lesquels il se déroule.
+A l'expiration du délai fixé dans l'injonction, le représentant de l'Etat dans le département peut, de manière totale ou
+partielle, interdire ou interrompre l'accueil de mineurs mentionné à l'article L. 227-4, ainsi que prononcer la fermeture
+temporaire ou définitive des locaux dans lesquels il se déroule, si la ou les personnes qui exercent une responsabilité dans
+l'accueil des mineurs mentionné à l'article L. 227-4 ou les exploitants des locaux les accueillant n'ont pas remédié aux
+situations qui ont justifié l'injonction.
 
-Dans ce cas, il prend, avec la personne responsable de l'accueil, les mesures nécessaires en vue de pourvoir au retour des
-mineurs concernés dans leur famille.
+En cas d'urgence ou lorsque l'une des personnes mentionnées à l'alinéa précédent refuse de se soumettre à la visite prévue à
+l'article L. 227-9, le représentant de l'Etat dans le département peut décider, sans injonction préalable, d'interdire ou
+d'interrompre l'accueil ou de fermer les locaux dans lesquels il se déroule.
+
+Le cas échéant, il prend, avec la personne responsable de l'accueil, les mesures nécessaires en vue de pourvoir au retour des
+mineurs dans leur famille.
+
+II. - Lorsque les conditions d'accueil présentent ou sont susceptibles de présenter des risques pour la santé ou la sécurité
+physique ou morale des mineurs ou que sont constatés des manquements aux obligations rappelées au I, le représentant de
+l'Etat dans le département peut adresser à la personne morale qui organise l'accueil de mineurs mentionné à l'article L.
+227-4 les injonctions nécessaires pour prévenir ces risques ou mettre fin à ces manquements.
+
+Si, à l'expiration du délai fixé, il n'a pas été mis fin aux dysfonctionnements constatés, le représentant de l'Etat dans le
+département peut, après avis de la commission mentionnée à l'article L. 227-10, prononcer à l'encontre de la personne morale
+l'interdiction temporaire ou définitive d'organiser l'accueil de mineurs mentionné à l'article L. 227-4.
 
 **Liens relatifs à cet article**
 
@@ -9917,10 +9927,6 @@ mineurs concernés dans leur famille.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Créé par**:
-
-	  - Loi n°2001-624 du 17 juillet 2001 - art. 13 () JORF 18 juillet 2001
 
 	**Cité par**:
 
@@ -9932,8 +9938,13 @@ mineurs concernés dans leur famille.
 	  - Code de l'action sociale et des familles - art. L227-8 (V)
 	  - Code de l'action sociale et des familles - art. R227-4 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1092 du 1 septembre 2005 - art. 9 () JORF 2 septembre 2005
+
 	**Cite**:
 
+	  - Code de l'action sociale et des familles - art. L227-10 (M)
 	  - Code de l'action sociale et des familles - art. L227-4 (M)
 	  - Code de l'action sociale et des familles - art. L227-5 (M)
 	  - Code de l'action sociale et des familles - art. L227-7 (M)
