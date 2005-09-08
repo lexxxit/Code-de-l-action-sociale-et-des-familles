@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2005-09-06
+Version Consolidée au 2005-09-09
 
 # Partie législative
 
@@ -12906,8 +12906,9 @@ ne peut pas être réduite à un montant inférieur à un minimum fixé par déc
 pour la vie autonome est confiée aux organismes du régime général chargés du versement des prestations familiales.
 
 Toutefois, lorsqu'une caisse de mutualité sociale agricole est compétente pour verser à une personne handicapée les
-prestations familiales dont elle bénéficie ou serait susceptible de bénéficier, cet organisme assure la gestion de
-l'allocation, du complément de ressources et de la majoration pour la vie autonome. "
+prestations familiales dont elle bénéficie ou serait susceptible de bénéficier ou lorsque le bénéficiaire de l'allocation aux
+adultes handicapés relève d'un régime de protection sociale agricole en application de l'article L. 381-28, cet organisme
+assure la gestion de l'allocation, du complément de ressources et de la majoration pour la vie autonome. "
 
 **Liens relatifs à cet article**
 
@@ -12918,7 +12919,7 @@ l'allocation, du complément de ressources et de la majoration pour la vie auton
 
 	**Modifié par**:
 
-	  - Loi n°2005-706 du 27 juin 2005 - art. 44 () JORF 28 juin 2005
+	  - Ordonnance n°2005-1127 du 8 septembre 2005 - art. 11 () JORF 9 septembre 2005
 
 	**Cite**:
 
@@ -12935,7 +12936,7 @@ l'allocation, du complément de ressources et de la majoration pour la vie auton
 	  - Code de l'action sociale et des familles - art. L146-9 (V)
 	  - Code de l'action sociale et des familles - art. L243-4 (M)
 	  - Code de l'action sociale et des familles - art. L541-1 (T)
-	  - Code de l'action sociale et des familles L751-1, L541-1, L355-1, L434-2, L821-7, L243-4, L821-1, L146-9, L821-5, L821-2, L821-1-1, L377-1, L377-2, L377-4, L821-1 à L821-3, L174-4
+	  - Code de l'action sociale et des familles L751-1, L541-1, L355-1, L434-2, L821-7, L243-4, L821-1, L146-9, L821-5, L821-2, L821-1-1, L377-1, L377-2, L377-4, L821-1 à L821-3, L174-4, L381-28
 
 	**Cité par**:
 
