@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2005-09-10
+Version Consolidée au 2005-09-10 00:00:01 +0200
 
 # Partie législative
 
@@ -48183,10 +48183,6 @@ d'électricité avec une puissance minimale de 3 kVA.
 
 	  - Décret n°2001-531 du 20 juin 2001 - art. 2 (Ab)
 
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
 	**Cité par**:
 
 	  - Décret n°2005-971 du 10 août 2005 - art. 1 (VT)
@@ -48194,9 +48190,9 @@ d'électricité avec une puissance minimale de 3 kVA.
 	  - Code de l'action sociale et des familles - art. D261-4 (Ab)
 	  - Code de l'action sociale et des familles - art. D261-5 (Ab)
 
-	**Modifié par**:
+	**Abrogé par**:
 
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+	  - Décret n°2008-780 du 13 août 2008 - art. 15
 
 
 ##### Sous-section 2 : Gaz.
