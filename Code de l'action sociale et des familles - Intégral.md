@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2005-09-10 00:00:01 +0200
+Version Consolidée au 2005-09-15
 
 # Partie législative
 
@@ -58986,19 +58986,20 @@ l'évaluation et des statistiques, le directeur général de la santé, le direc
 le directeur de l'enseignement scolaire, le directeur général de l'emploi et de la formation professionnelle ou leurs
 représentants ;
 
-2° Quatre représentants des collectivités territoriales, dont trois conseillers généraux désignés sur proposition de
-l'assemblée des départements de France, incluant au moins un président de conseil général, et un maire désigné sur
-proposition de l'association des maires de France ;
+2° Cinq représentants des collectivités territoriales, dont un conseiller régional désigné sur proposition de l'Association
+des régions de France, trois conseillers généraux désignés sur proposition de l'assemblée des départements de France,
+incluant au moins un président de conseil général, et un maire désigné sur proposition de l'association des maires de
+France ;
 
 3° Quatre représentants des organismes de protection sociale dont un représentant de la caisse nationale des allocations
 familiales, un représentant de la caisse nationale d'assurance vieillesse des travailleurs salariés, un représentant de la
 caisse nationale d'assurance maladie des travailleurs salariés et un représentant de la caisse centrale de la mutualité
 sociale agricole ;
 
-4° Douze représentants des usagers, y compris des familles, dont trois respectivement désignés par le comité national des
+4° Treize représentants des usagers, y compris des familles, dont trois respectivement désignés par le comité national des
 retraités et des personnes âgées, le conseil national consultatif des personnes handicapées et le conseil national des
 politiques de lutte contre la pauvreté et l'exclusion sociale, un désigné par la principale organisation représentant les
-usagers de la protection de l'enfance et huit membres désignés par les ministres chargés de l'action sociale, de la famille,
+usagers de la protection de l'enfance et neuf membres désignés par les ministres chargés de l'action sociale, de la famille,
 des personnes âgées, des personnes handicapées et de la lutte contre l'exclusion en raison de leur expérience en qualité
 d'usagers directs ou indirects des établissements et services énumérés à l'article L. 312-1 ;
 
@@ -59010,18 +59011,19 @@ ministres chargés de l'action sociale, de la famille, des personnes âgées, de
 l'exclusion, sur proposition de chacune des organisations syndicales représentatives mentionnées à l'article L. 132-2 du code
 du travail ;
 
-7° Quatre directeurs d'établissements ou de services mentionnés au 1° de l'article R. 312-195 particulièrement qualifiés dans
-le domaine de l'évaluation, désignés par les principales associations professionnelles des directeurs desdits établissements
-et services dont au minimum un représentant de chacun des secteurs répondant aux besoins des enfants et familles en
-difficulté, des personnes handicapées, des personnes âgées et des personnes en situation d'exclusion ;
+7° Six directeurs d'établissements ou de services mentionnés au 1° de l'article R. 312-195 particulièrement qualifiés dans le
+domaine de l'évaluation, désignés par les principales associations professionnelles des directeurs desdits établissements et
+services dont au minimum un représentant de chacun des secteurs répondant aux besoins des enfants et familles en difficulté,
+des personnes handicapées, des personnes âgées et des personnes en situation d'exclusion ;
 
-8° Douze personnalités qualifiées, notamment dans le domaine de la qualité et de l'évaluation des pratiques sociales et
+8° Dix-huit personnalités qualifiées, notamment dans le domaine de la qualité et de l'évaluation des pratiques sociales et
 médico-sociales désignées par les ministres chargés de l'action sociale, de la famille, des personnes âgées, des personnes
 handicapées et de la lutte contre l'exclusion, dont huit personnes exerçant au sein des équipes pluridisciplinaires
-mentionnées au troisième alinéa du II de l'article L. 312-1 et quatre experts en sciences humaines ou sociales ou en
-méthodologie d'évaluation dont un sur proposition de la Fédération nationale de la mutualité française.
+mentionnées au troisième alinéa du II de l'article L. 312-1 et six experts en sciences humaines ou sociales ou en
+méthodologie d'évaluation dont trois d'entre eux sont nommés sur proposition respective de la Haute Autorité de santé, de la
+Caisse nationale de solidarité pour l'autonomie et de la Fédération nationale de la mutualité française.
 
-Les suppléants de chacun des membres précédemment énumérés, à l'exception de ceux mentionnés au 8° , sont désignés dans les
+Les suppléants de chacun des membres précédemment énumérés, à l'exception de ceux mentionnés au 8°, sont désignés dans les
 mêmes conditions que les titulaires.
 
 Les ministres chargés de l'action sociale et de la santé choisissent le président parmi l'une des personnalités qualifiées
@@ -59033,10 +59035,9 @@ mentionnées au 8° du présent article et arrêtent la liste des membres titula
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 3 () JORF 10 septembre 2005
+	  - Décret n°2005-1161 du 8 septembre 2005 - art. 1 () JORF 15 septembre 2005
 
 	**Cité par**:
 
@@ -59084,8 +59085,8 @@ Le conseil national désigne une commission technique permanente chargée de pr�
 publier et diffuser les documents mentionnés au 1° de l'article R. 312-195 et les avis résultant des travaux du conseil. Elle
 élabore le projet de rapport d'activité annuel qu'elle soumet au conseil en vue de son adoption et de sa publication.
 
-Cette commission est composée, outre le président, de huit membres dont quatre choisis parmi ceux mentionnés au 4° , deux
-parmi ceux mentionnés au 7° et deux parmi ceux mentionnés au 8° de l'article R. 312-196.
+Cette commission est composée, outre le président, de dix membres dont quatre choisis parmi ceux mentionnés au 4°, trois
+parmi ceux mentionnés au 7° et trois parmi ceux mentionnés au 8° de l'article R. 312-196.
 
 Le conseil national peut décider la constitution, à titre permanent ou temporaire, de commissions techniques spécifiques dans
 des conditions fixées par le règlement intérieur mentionné à l'article R. 312-200.
@@ -59102,10 +59103,13 @@ les procédures d'instruction des dossiers soumis à l'avis du conseil, en appli
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 3 () JORF 10 septembre 2005
+	  - Décret n°2005-1161 du 8 septembre 2005 - art. 2 () JORF 15 septembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2007-324 du 8 mars 2007 - art. 3 (V) JORF 10 mars 2007
 
 	**Anciens textes**:
 
