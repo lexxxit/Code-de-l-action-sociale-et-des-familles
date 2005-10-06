@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2005-09-15
+Version Consolidée au 2005-10-07
 
 # Partie législative
 
@@ -67912,8 +67912,8 @@ b) Son siège et son implantation ;
 
 c) Son organisation et ses règles de fonctionnement ;
 
-d) Sous réserve des articles R. 315-6, R. 315-7, R. 315-9 et R. 315-10, la composition de son conseil d'administration ainsi
-que les modalités de désignation des représentants des personnes qu'il accueille.
+d) Sous réserve des articles R. 315-6 à R. 315-14, la composition de son conseil d'administration ainsi que les modalités de
+désignation des représentants des personnes qu'il accueille.
 
 **Liens relatifs à cet article**
 
@@ -67926,14 +67926,15 @@ que les modalités de désignation des représentants des personnes qu'il accuei
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2005-1260 du 4 octobre 2005 - art. 2 () JORF 7 octobre 2005
+
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L313-1 (M)
 	  - Code de l'action sociale et des familles - art. L315-1 (M)
-	  - Code de l'action sociale et des familles - art. R315-10 (M)
-	  - Code de l'action sociale et des familles - art. R315-6 (M)
-	  - Code de l'action sociale et des familles - art. R315-7 (M)
-	  - Code de l'action sociale et des familles - art. R315-9 (M)
+	  - Code de l'action sociale et des familles L313-1, L315-1, R315-6 à R315-14
 
 
 ###### Article R315-2
@@ -68036,11 +68037,31 @@ délibérations portant création de l'établissement.
 
 ###### Article R315-6
 
-Le conseil d'administration des établissements publics qui relèvent d'une seule commune ou d'un seul département comprend
-douze membres.
+Le conseil d'administration des établissements publics sociaux et médico-sociaux qui relèvent d'une seule commune ou d'un
+seul département comprend douze membres. Ce nombre est porté à treize dans le cas où l'établissement public a son siège sur
+le territoire d'une commune dont il ne relève pas. 
 
-Ce nombre est porté à treize dans le cas où l'établissement public a son siège sur le territoire d'une commune dont il ne
-relève pas.
+Sous réserve des dispositions de l'article L. 315-11, ce conseil d'administration est composé de : 
+
+1° Trois représentants de la collectivité territoriale de rattachement, dont le maire ou le président du conseil général ou
+leur représentant respectif, élu dans les conditions fixées au dernier alinéa du I de l'article L. 315-10, qui assure la
+présidence du conseil d'administration ; 
+
+2° Un représentant de la commune d'implantation si elle n'est pas représentée au titre du 1° ; 
+
+3° Trois représentants des départements qui supportent, en tout ou partie, les frais de prise en charge des personnes
+accueillies ; 
+
+4° Deux des membres du ou des conseils de la vie sociale ou des instances de participation institués par l'article L. 311-6,
+représentant les personnes bénéficiaires des prestations ou, à défaut, leurs familles ou leurs représentants légaux ; 
+
+5° Deux représentants du personnel de l'établissement dont, pour les établissements réalisant des soins éligibles à une prise
+en charge, un représentant du personnel médical ou thérapeutique ou, dans les établissements hébergeant des personnes âgées
+dépendantes, le médecin coordonnateur ou, lorsque l'établissement ne comprend pas ces personnels dans ses effectifs, un
+représentant du personnel en charge des soins ; 
+
+6° Deux personnes désignées en fonction de leurs compétences dans le champ d'intervention de l'établissement ou en matière
+d'action sociale ou médico-sociale.
 
 **Liens relatifs à cet article**
 
@@ -68052,6 +68073,16 @@ relève pas.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-1260 du 4 octobre 2005 - art. 1 () JORF 7 octobre 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L311-6 (V)
+	  - Code de l'action sociale et des familles - art. L315-10 (VT)
+	  - Code de l'action sociale et des familles - art. L315-11 (VT)
 
 	**Cité par**:
 
@@ -68068,23 +68099,10 @@ relève pas.
 
 ###### Article R315-7
 
-Le conseil d'administration des établissements mentionnés à l'article R. 315-6 est ainsi composé :
-
-1° Trois représentants de la collectivité territoriale d'origine dont, sous réserve des dispositions de l'article L. 315-11,
-le maire ou le président du conseil général qui assure la présidence du conseil d'administration ;
-
-2° Le cas échéant, un représentant de la commune mentionnée au deuxième alinéa de l'article R. 315-6 ;
-
-3° Trois membres représentant les collectivités publiques ou les organismes de sécurité sociale ayant la charge financière
-principale du fonctionnement de l'établissement, désignés dans les conditions fixées à l'article R. 315-8 ;
-
-4° Deux personnes désignées en fonction de leur compétence ;
-
-5° Un médecin ou un collaborateur technique de l'établissement ;
-
-6° Un représentant du personnel de l'établissement autre que celui mentionné au 5° ci-dessus ;
-
-7° Deux représentants des personnes accueillies dans l'établissement.
+Dans le cas où il n'y a pas lieu de désigner de représentant au titre du 3° de l'article L. 315-10, la collectivité
+territoriale dont relève l'établissement désigne les trois représentants mentionnés au 3° de l'article R. 315-6, dans les
+conditions fixées au I de l'article R. 315-11. Toutefois, l'un de ces représentants est désigné par la commune d'implantation
+si celle-ci n'est pas représentée au titre du 1° de l'article R. 315-6.
 
 **Liens relatifs à cet article**
 
@@ -68097,10 +68115,13 @@ principale du fonctionnement de l'établissement, désignés dans les conditions
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2005-1260 du 4 octobre 2005 - art. 1 () JORF 7 octobre 2005
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L315-11 (M)
-	  - Code de l'action sociale et des familles - art. R315-6 (M)
+	  - Code de l'action sociale et des familles - art. L315-10 (V)
 
 	**Cité par**:
 
@@ -68112,33 +68133,37 @@ principale du fonctionnement de l'établissement, désignés dans les conditions
 
 ###### Article R315-8
 
-Les trois membres représentant les collectivités publiques ou organismes de sécurité sociale ayant la charge financière
-principale du fonctionnement de l'établissement, mentionnés au 3° de l'article R. 315-7, sont désignés comme suit :
+Le nombre des membres du conseil d'administration des établissements publics intercommunaux et interdépartementaux est de
+douze au minimum et de vingt-deux au maximum. Ces nombres sont portés respectivement à treize et à vingt-trois dans le cas où
+l'établissement public a son siège sur le territoire d'une commune dont il ne relève pas. 
 
-1° Dans les maisons d'enfants à caractère social par le conseil général du département dont elles relèvent ;
+Sous réserve des dispositions de l'article L. 315-11, ce conseil d'administration est composé de : 
 
-2° Dans les établissements mentionnés au 2° de l'article L. 312-1, ainsi que dans les maisons d'accueil spécialisées définies
-à l'article L. 344-1 par les organismes de sécurité sociale désignés par le préfet du département d'implantation en fonction
-de l'importance des frais exposés pour leurs ressortissants et de leur contribution à l'équipement de l'établissement ;
+1° Trois représentants au moins des collectivités territoriales qui sont à l'origine de la création de l'établissement ou de
+l'établissement public de coopération intercommunale à l'origine de la création de l'établissement, dont l'un assure la
+présidence du conseil d'administration, élus dans les conditions fixées au I de l'article L. 315-10, au I de l'article R.
+315-9 et au I de l'article R. 315-11 ; 
 
-3° Dans les établissements mentionnés aux 6° et 7° de l'article L. 312-1, par le conseil général du département dont ils
-relèvent ; toutefois, lorsqu'une partie du financement est également supportée par les organismes de sécurité sociale, deux
-membres sont désignés par le conseil général et un troisième par les organismes de sécurité sociale dans les conditions
-fixées au 2° ci-dessus ;
+2° Un représentant de la commune d'implantation si elle n'est pas représentée au titre du 1° ; 
 
-4° Dans les établissements mentionnés au a du 5° et au 8° de l'article L. 312-1, par le préfet du département
-d'implantation ;
+3° Trois représentants au moins des départements qui supportent, en tout ou partie, les frais de prise en charge des
+personnes accueillies ; 
 
-5° Dans les établissements regroupant des activités relevant à la fois du a du 5° et des 6° , 7° et 8° de l'article L. 312-1,
-par le conseil général du département dont ils relèvent et le préfet du département d'implantation au prorata de la
-participation financière du département et de l'Etat, chaque collectivité publique disposant d'un représentant au moins.
-Lorsqu'une partie du financement est également supportée par les organismes de sécurité sociale, un membre représente ces
-derniers dans les conditions décrites au 2° ci-dessus.
+4° Deux au moins des membres du ou des conseils de la vie sociale ou des instances de participation institués par l'article
+L. 311-6, représentant les personnes bénéficiaires des prestations ou, à défaut, leurs familles ou leurs représentants
+légaux ; 
 
-Lorsque les établissements ci-dessus mentionnés ne sont pas habilités à recevoir des bénéficiaires de l'aide sociale et ne
-sont pas autorisés à dispenser des soins remboursables aux assurés sociaux, les trois membres prévus au présent article sont
-remplacés par trois membres désignés par l'organe délibérant de la collectivité territoriale dont relèvent ces
-établissements.
+5° Deux représentants au moins du personnel de l'établissement dont, pour les établissements réalisant des soins éligibles à
+une prise en charge, un représentant du personnel médical ou thérapeutique ou, dans les établissements hébergeant des
+personnes âgées dépendantes, le médecin coordonnateur ou, lorsque l'établissement ne comprend pas ces personnels dans ses
+effectifs, un représentant du personnel en charge des soins ; 
+
+6° Deux personnes au moins désignées en fonction de leurs compétences dans le champ d'intervention de l'établissement ou en
+matière d'action sociale ou médico-sociale. 
+
+Les effectifs mentionnés aux 1°, 3°, 4°, 5° et 6° sont fixés, selon le cas, par les collectivités territoriales qui sont à
+l'origine de la création de l'établissement, conformément aux dispositions du I de l'article R. 315-9, ou par délibération de
+l'organe délibérant de l'établissement public de coopération intercommunale à l'origine de la création de l'établissement.
 
 **Liens relatifs à cet article**
 
@@ -68151,10 +68176,15 @@ remplacés par trois membres désignés par l'organe délibérant de la collecti
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2005-1260 du 4 octobre 2005 - art. 1 () JORF 7 octobre 2005
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L312-1 (M)
-	  - Code de l'action sociale et des familles - art. L344-1 (M)
+	  - Code de l'action sociale et des familles - art. L311-6 (V)
+	  - Code de l'action sociale et des familles - art. L315-10 (V)
+	  - Code de l'action sociale et des familles - art. L315-11 (V)
 
 	**Cité par**:
 
@@ -68170,40 +68200,17 @@ remplacés par trois membres désignés par l'organe délibérant de la collecti
 
 ###### Article R315-9
 
-Le nombre des membres du conseil d'administration des établissements publics intercommunaux, interdépartementaux ou créés
-avec le concours financier d'un centre communal ou intercommunal d'action sociale est de douze au minimum et de seize au
-maximum. Il est augmenté d'une unité dans le cas prévu au deuxième alinéa de l'article R. 315-6.
+I.-A défaut d'accord entre les communes qui sont à l'origine de la création d'un établissement social ou médico-social
+intercommunal mentionné à l'article R. 315-8 sur la désignation de leurs représentants au conseil d'administration de cet
+établissement, les maires de ces communes se réunissent en un collège qui élit ces représentants. De même, à défaut d'accord
+entre les départements qui sont à l'origine de la création d'un établissement interdépartemental mentionné au même article
+sur la désignation de leurs représentants au conseil d'administration de cet établissement, les présidents des conseils
+généraux de ces départements se réunissent en un collège qui élit ces représentants. 
 
-Ce conseil comprend :
-
-1° Trois représentants au moins des collectivités territoriales et, le cas échéant, du centre d'action sociale, qui sont à
-l'origine de la création ;
-
-2° Le cas échéant, un représentant de la commune mentionnée au deuxième alinéa de l'article R. 315-6 ;
-
-3° Trois représentants au moins des collectivités publiques et organismes de sécurité sociale assurant le financement
-principal de l'établissement désignés dans les conditions suivantes :
-
-a) Lorsque les prestations offertes par l'établissement sont prises en charge à titre principal par l'assurance maladie,
-trois membres au moins doivent représenter les organismes de sécurité sociale qui sont désignés par le préfet du département
-d'implantation en fonction de l'importance des frais exposés pour leurs ressortissants et de leur contribution à l'équipement
-de l'établissement ;
-
-b) Lorsque les prestations sont prises en charge par l'aide sociale incombant à un ou plusieurs départements ou à l'Etat,
-trois membres au moins représentent les autorités publiques de financement et sont désignés selon le cas par le ou les
-conseils généraux concernés ou par le préfet du département du siège de l'établissement, de façon à assurer, en tout état de
-cause, la représentation de chaque catégorie de collectivité publique de financement ;
-
-c) Lorsque les prestations sont prises en charge concurremment par l'aide sociale et la sécurité sociale, deux membres au
-moins doivent représenter la collectivité publique d'aide sociale et un membre au moins les organismes de sécurité sociale ;
-
-d) Lorsque l'établissement n'est pas habilité à recevoir des bénéficiaires de l'aide sociale et n'est pas autorisé à
-dispenser des soins remboursables aux assurés sociaux, les trois membres au moins mentionnés au 3° sont remplacés par trois
-membres au moins désignés par les organes délibérants des collectivités territoriales dont relève ledit établissement ;
-
-4° Deux représentants au moins, dont un médecin ou un collaborateur technique, du personnel de l'établissement ;
-
-5° Deux représentants au moins des personnes accueillies dans l'établissement.
+II.-Dans le cas où il n'y a pas lieu de désigner de représentant au titre du 3° de l'article L. 315-10, les trois
+représentants au moins mentionnés au 3° de l'article R. 315-8 sont désignés par les collectivités territoriales ou
+l'établissement public de coopération intercommunale dont relève l'établissement, dans les conditions fixées au dernier
+alinéa du I de l'article L. 315-10, au I du présent article et au I de l'article R. 315-11.
 
 **Liens relatifs à cet article**
 
@@ -68216,6 +68223,16 @@ membres au moins désignés par les organes délibérants des collectivités ter
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2005-1260 du 4 octobre 2005 - art. 1 () JORF 7 octobre 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L315-10 (VT)
+	  - Code de l'action sociale et des familles - art. R315-11 (VT)
+	  - Code de l'action sociale et des familles - art. R315-8 (V)
+
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. R315-1 (M)
@@ -68223,36 +68240,14 @@ membres au moins désignés par les organes délibérants des collectivités ter
 	  - Code de l'action sociale et des familles - art. R315-16 (VD)
 	  - Code de l'action sociale et des familles - art. R543-1 (V)
 
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. R315-6 (M)
-
 
 ###### Article R315-10
 
-Les membres du conseil d'administration des établissements mentionnés aux articles R. 315-6 et R. 315-9 sont désignés dans
-les conditions suivantes :
+Dans les établissements réalisant des soins éligibles à une prise en charge et dont aucun des médecins n'est salarié, le
+directeur de l'établissement peut désigner l'un d'entre eux pour assister au conseil d'administration avec voix consultative.
 
-1° Les représentants des collectivités territoriales, autres que le maire et le président du conseil général mentionnés à
-l'article R. 315-7, sont élus par leur assemblée délibérante au scrutin secret, à la majorité absolue au premier tour, à la
-majorité relative au second. En cas d'égalité des voix, le plus âgé est proclamé élu ;
-
-2° Les représentants des collectivités publiques et des organismes de sécurité sociale qui ont la charge du financement des
-établissements mentionnés aux articles R. 315-7 et R. 315-9 sont, dans les conditions fixées aux articles R. 315-8 et R.
-315-9, élus par l'organe délibérant de ces collectivités et organismes ou désignés par le préfet ;
-
-3° Les membres désignés en raison de leur compétence mentionnés au 4° de l'article R. 315-7 sont désignés par l'organe
-exécutif de la collectivité territoriale qui crée l'établissement ;
-
-4° Le médecin ou le collaborateur technique mentionné au 5° de l'article R. 315-7 et au 4° de l'article R. 315-9 est désigné
-par l'autorité administrative qui a qualité pour procéder à son recrutement ;
-
-5° Le représentant du personnel mentionné au 6° de l'article R. 315-7 et au 4° de l'article R. 315-9 est désigné dans chaque
-établissement par le directeur sur proposition de l'organisation syndicale la plus représentative ;
-
-6° Les représentants des personnes accueillies dans l'établissement mentionnés au 7° de l'article R. 315-7 et au 5° de
-l'article R. 315-9 sont élus au scrutin uninominal à un tour dans les conditions fixées par la ou les délibérations de
-création.
+Le directeur de l'établissement ou, en cas d'empêchement, son représentant assiste au conseil avec voix consultative. Il peut
+se faire accompagner des collaborateurs de son choix. Le secrétariat est assuré à sa diligence.
 
 **Liens relatifs à cet article**
 
@@ -68267,56 +68262,56 @@ création.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2005-1260 du 4 octobre 2005 - art. 1 () JORF 7 octobre 2005
+
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. R315-1 (M)
 	  - Code de l'action sociale et des familles - art. R315-11 (M)
 	  - Code de l'action sociale et des familles - art. R315-12 (T)
 
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. R315-6 (M)
-	  - Code de l'action sociale et des familles - art. R315-7 (M)
-	  - Code de l'action sociale et des familles - art. R315-8 (M)
-	  - Code de l'action sociale et des familles - art. R315-9 (M)
-
 
 ###### Article R315-11
 
-Pour l'application des dispositions du 5° de l'article R. 315-10, la représentativité des organisations syndicales est
-appréciée en fonction du nombre moyen de voix recueilli par chacune des organisations dans chaque établissement à l'occasion
-du renouvellement des commissions paritaires compétentes.
+I.-Les représentants dans les conseils d'administration mentionnés aux articles R. 315-6 et R. 315-8 des collectivités
+territoriales et des établissements publics de coopération intercommunale, autres que le maire, le président du conseil
+général ou le président de l'organe délibérant de l'établissement public de coopération intercommunale, sont élus par leur
+assemblée délibérante au scrutin secret, à la majorité absolue au premier tour, à la majorité relative au second. 
 
-Pour les établissements dont le personnel est soumis aux dispositions de la loi n° 86-33 du 9 janvier 1986 portant
-dispositions statutaires relatives à la fonction publique hospitalière, les élections à prendre en considération pour le
-calcul du nombre moyen de voix recueilli dans l'établissement sont les élections aux commissions paritaires consultatives
-départementales.
+En cas d'égalité des voix, le plus âgé des candidats est proclamé élu. 
 
-S'il n'existe pas d'organisation syndicale au sein de l'établissement, le représentant du personnel est élu par et parmi
-l'ensemble des agents stagiaires, titulaires et contractuels nommés dans des emplois permanents à temps complet, à
-l'exception de ceux mentionnés à l'article L. 6152-1 du code de la santé publique. Les candidats doivent avoir une ancienneté
-au moins égale à six mois au sein de l'établissement ou dans la profession s'il s'agit d'une création. Le scrutin est secret
-et majoritaire à un tour. En cas de partage égal des voix, le candidat ayant la plus grande ancienneté dans l'établissement
-ou la profession est proclamé élu.
+II.-Les représentants des départements qui assurent, en tout ou partie, le financement de la prise en charge des personnes
+accueillies sont élus par leur assemblée délibérante. 
+
+Aucun de ces départements ne peut détenir la totalité des sièges. 
+
+La répartition des sièges à pourvoir entre ces départements s'effectue, dans les limites fixées aux articles R. 315-6 et R.
+315-8, en proportion de leurs financements respectifs à la date de l'élection, avec répartition des sièges restants au plus
+fort reste. 
+
+III.-Les représentants du personnel médical mentionnés au 5° de l'article R. 315-6 et au 5° de l'article R. 315-8 sont
+désignés par le directeur.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°78-612 1978-05-23 art. 9 al. 6, 7, 8
-	  - Décret n°78-612 du 23 mai 1978 - art. 7 (M)
-	  - Décret n°78-612 du 23 mai 1978 - art. 8 (M)
 	  - Décret n°78-612 du 23 mai 1978 - art. 9 (Ab)
-
-	**Cite**:
-
-	  - Loi n°86-33 1986-01-09
-	  - Code de la santé publique - art. L6152-1 (M)
-	  - Code de l'action sociale et des familles - art. R315-10 (M)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-1260 du 4 octobre 2005 - art. 1 () JORF 7 octobre 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. R315-6 (VT)
+	  - Code de l'action sociale et des familles - art. R315-8 (V)
 
 	**Cité par**:
 
@@ -68325,10 +68320,13 @@ ou la profession est proclamé élu.
 
 ###### Article R315-12
 
-Pour l'application des dispositions du 6° de l'article R. 315-10, dans les établissements d'hébergement en vue de la
-réinsertion sociale, les représentants des personnes accueillies peuvent également être des personnes ayant montré un intérêt
-particulier pour les catégories de personnes accueillies dans l'établissement. Ces personnes sont désignées par le préfet du
-département d'implantation.
+Les membres des conseils d'administration mentionnés au 4° de l'article R. 315-6 et au 4° de l'article R. 315-8 sont élus, au
+sein du ou des conseils de la vie sociale ou des instances de participation, parmi les représentants des personnes
+bénéficiaires des prestations ou, en l'absence de ces représentants, parmi ceux de leurs familles ou de leurs représentants
+légaux.
+
+Les élections des représentants des personnes bénéficiaires des prestations sont organisées par le directeur de
+l'établissement. Le vote par correspondance est admis.
 
 **Liens relatifs à cet article**
 
@@ -68341,29 +68339,42 @@ département d'implantation.
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2005-1260 du 4 octobre 2005 - art. 1 () JORF 7 octobre 2005
 
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. R315-10 (M)
-
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. R315-18 (T)
 	  - Code de l'action sociale et des familles - art. R315-18 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. R315-6 (M)
+	  - Code de l'action sociale et des familles - art. R315-8 (M)
 
 
 ###### Article R315-13
 
-Les élections des représentants des personnels et des personnes accueillies sont organisées à la diligence du directeur de
-l'établissement.
+Les représentants du personnel, autre que médical, mentionnés au 5° de l'article R. 315-6 et au 5° de l'article R. 315-8 sont
+désignés par le directeur sur proposition des organisations syndicales les plus représentatives dans l'établissement.
 
-Le vote par correspondance est admis.
+Pour les établissements dont le personnel est soumis aux dispositions de la loi n° 86-33 du 9 janvier 1986 portant
+dispositions statutaires relatives à la fonction publique hospitalière, cette représentativité est appréciée en fonction des
+résultats obtenus par chacune des organisations à l'occasion de l'élection du comité technique d'établissement mentionné à
+l'article L. 315-13. La répartition des sièges s'opère proportionnellement au nombre de voix recueillies par chaque
+organisation syndicale avec répartition des restes à la plus forte moyenne. En cas d'égalité des suffrages obtenus, l'ordre
+d'attribution des sièges entre les différentes organisations est déterminé par voie de tirage au sort.
 
-Dès sa première réunion, le conseil d'administration, par délibération, constate les élections et désignations intervenues et
-dresse la liste de ses membres.
+Pour les autres établissements, la représentativité est appréciée en fonction des résultats obtenus par chacune des
+organisations à l'occasion de l'élection du comité technique paritaire.
+
+Dans le cas où il n'existe pas d'organisation syndicale dans l'établissement ou lorsqu'il est fait application du troisième
+alinéa de l'article L. 315-13, les représentants du personnel sont élus par et parmi l'ensemble des agents. Le scrutin est
+secret et majoritaire à un tour. En cas de partage égal des voix, le candidat ayant la plus grande ancienneté dans
+l'établissement ou, le cas échéant, dans la profession est proclamé élu.
+
+Les élections prévues à l'alinéa précédent sont organisées par le directeur de l'établissement. Le vote par correspondance
+est admis.
 
 **Liens relatifs à cet article**
 
@@ -68372,27 +68383,41 @@ dresse la liste de ses membres.
 	  - Décret n°78-612 1978-05-23 art. 9 al. 11 à 13
 	  - Décret n°78-612 du 23 mai 1978 - art. 9 (Ab)
 
+	**Cite**:
+
+	  - Loi n°86-33 1986-01-09
+	  - Code de l'action sociale et des familles - art. L315-13 (M)
+	  - Code de l'action sociale et des familles - art. R315-6 (M)
+	  - Code de l'action sociale et des familles - art. R315-8 (M)
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2005-1260 du 4 octobre 2005 - art. 1 () JORF 7 octobre 2005
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. R315-19 (T)
 	  - Code de l'action sociale et des familles - art. R315-19 (V)
 
 
 ###### Article R315-14
 
-Sous réserve des dispositions prévues à l'article L. 315-10 pour les établissements publics intercommunaux et
-interdépartementaux, chaque conseil d'administration élit un vice-président pour trois ans.
+Les personnalités qualifiées mentionnées au 6° de l'article R. 315-6 et au 6° de l'article R. 315-8 sont désignées : 
 
-En cas d'empêchement du président et du vice-président, la présidence est assurée par le plus ancien des membres présents et,
-à ancienneté égale, par le plus âgé.
+1° Pour les établissements mentionnés à l'article R. 315-6, par l'organe exécutif de la collectivité territoriale de
+rattachement ; 
+
+2° Pour les établissements mentionnés à l'article R. 315-8, par le président de l'organe délibérant de l'établissement public
+de coopération intercommunale pour un établissement intercommunal créé par cet établissement public de coopération
+intercommunale et selon les modalités fixées au I de l'article R. 315-9 pour les autres établissements. 
+
+Pour les établissements réalisant des soins éligibles à une prise en charge, l'une au moins de ces personnalités qualifiées
+est choisie au sein des associations ayant une activité reconnue dans le domaine de la qualité des soins membres des collèges
+définis aux articles R. 14-10-4 et R. 14-10-5, présentes dans le ressort territorial de l'établissement. Ces personnalités
+sont désignées sur une liste rassemblant les propositions desdites associations.
 
 **Liens relatifs à cet article**
 
@@ -68405,38 +68430,23 @@ En cas d'empêchement du président et du vice-président, la présidence est as
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2005-1260 du 4 octobre 2005 - art. 1 () JORF 7 octobre 2005
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L315-10 (M)
+	  - Code de l'action sociale et des familles - art. R14-10-4 (V)
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. R315-20 (T)
 	  - Code de l'action sociale et des familles - art. R315-20 (V)
 
 
 ###### Article R315-15
 
-Les fonctions de membre du conseil d'administration des établissements publics mentionnés à la présente sous-section sont
-gratuites.
-
-La durée du mandat des membres du conseil d'administration est fixée à trois ans. Ce mandat est renouvelable.
-
-Toutefois, la durée du mandat des membres du conseil d'administration qui font partie d'un conseil général, d'un conseil
-municipal ou de l'organe délibérant d'un groupement de collectivités locales est la même que celle de leur mandat dans
-lesdites assemblées.
-
-Le mandat des autres membres du conseil d'administration élus ou désignés prend fin, à l'intérieur du délai de trois ans fixé
-ci-dessus, en même temps que le mandat, les fonctions ou la qualité au titre desquels les intéressés ont été élus ou
-désignés.
-
-En cas de suspension ou de dissolution du conseil municipal, du conseil général, de l'organe délibérant d'un établissement
-public de coopération intercommunale ou du conseil d'administration d'un organisme de sécurité sociale, le mandat des membres
-qu'ils ont désignés est prolongé jusqu'au jour du remplacement de ces membres par la nouvelle assemblée.
+Le membre du conseil d'administration qui se trouve dans un des cas d'incapacité ou d'incompatibilité prévus à l'article L.
+315-11 est immédiatement déclaré démissionnaire d'office par le préfet de département du siège de l'établissement.
 
 **Liens relatifs à cet article**
 
@@ -68448,17 +68458,202 @@ qu'ils ont désignés est prolongé jusqu'au jour du remplacement de ces membres
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Modifié par**:
+
+	  - Décret n°2005-1260 du 4 octobre 2005 - art. 1 () JORF 7 octobre 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L315-11 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. R315-21 (V)
+
+
+###### Article R315-16
+
+Sous réserve des dispositions du dernier alinéa du I de l'article L. 315-10, le conseil d'administration est présidé par le
+maire pour un établissement communal, le président du conseil général pour un établissement départemental et le président de
+l'organe délibérant de l'établissement public de coopération intercommunale pour un établissement intercommunal créé par cet
+établissement public de coopération intercommunale. 
+
+Pour les autres établissements intercommunaux et pour les établissements interdépartementaux, le président du conseil
+d'administration est désigné selon les modalités fixées au I de l'article R. 315-9. 
+
+Le conseil d'administration élit un vice-président. En cas d'empêchement du président et du vice-président, la présidence est
+assurée par le plus ancien des membres présents ayant voix délibérative et, à ancienneté égale, par le plus âgé.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°78-612 du 23 mai 1978 - art. 12 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-1260 du 4 octobre 2005 - art. 1 () JORF 7 octobre 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L315-10 (VT)
+	  - Code de l'action sociale et des familles - art. R315-9 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. R315-22 (V)
+
+
+###### Article R315-17
+
+Lorsque le conseil d'administration examine une question individuelle, tout membre ou personne présente dont la situation est
+examinée ou ayant avec l'intéressé un lien de parenté ou d'alliance jusqu'au quatrième degré inclus doit se retirer de la
+séance. Le vote a lieu au scrutin secret.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°78-612 du 23 mai 1978 - art. 13 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
 
 	  - Décret n°2005-1260 du 4 octobre 2005 - art. 1 () JORF 7 octobre 2005
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. R315-21 (Ab)
-	  - Code de l'action sociale et des familles - art. R315-21 (V)
+	  - Code de l'action sociale et des familles - art. R315-23 (V)
 
 
-###### Article R315-16
+###### Article R315-18
+
+Pour l'application des dispositions du 4° de l'article R. 315-6 et du 4° de l'article R. 315-8, dans les établissements
+d'hébergement en vue de la réinsertion sociale, les représentants des personnes accueillies peuvent également être des
+personnes ayant montré un intérêt particulier pour les catégories de personnes accueillies dans l'établissement. Ces
+personnes sont désignées par le préfet du département d'implantation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°78-612 du 23 mai 1978 - art. 14 (Ab)
+	  - Code de l'action sociale et des familles - art. R315-12 (T)
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-1260 du 4 octobre 2005 - art. 1 () JORF 7 octobre 2005
+	  - Décret n°2005-1260 du 4 octobre 2005 - art. 2 () JORF 7 octobre 2005
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. R315-23-1 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. R315-6 (M)
+	  - Code de l'action sociale et des familles - art. R315-8 (M)
+
+
+###### Article R315-19
+
+Dès sa première réunion, le conseil d'administration, par délibération, constate les élections et désignations intervenues et
+dresse la liste de ses membres.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°78-612 du 23 mai 1978 - art. 15 (Ab)
+	  - Code de l'action sociale et des familles - art. R315-13 (T)
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-1260 du 4 octobre 2005 - art. 1 () JORF 7 octobre 2005
+	  - Décret n°2005-1260 du 4 octobre 2005 - art. 2 () JORF 7 octobre 2005
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. R315-23-2 (V)
+
+
+###### Article R315-20
+
+Les anciens membres du conseil d'administration qui ont exercé leurs fonctions d'administrateur pendant au moins douze ans
+peuvent obtenir, sur leur demande, l'honorariat.
+
+L'honorariat leur est conféré par le représentant de l'Etat dans le département d'implantation de l'établissement. Il n'est
+assorti d'aucun avantage financier imputable sur le budget de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°78-612 du 23 mai 1978 - art. 16 (Ab)
+	  - Code de l'action sociale et des familles - art. R315-14 (T)
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-1260 du 4 octobre 2005 - art. 1 () JORF 7 octobre 2005
+	  - Décret n°2005-1260 du 4 octobre 2005 - art. 2 () JORF 7 octobre 2005
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. R315-23-3 (V)
+
+
+###### Article R315-21
+
+Les fonctions de membre du conseil d'administration des établissements publics mentionnés à la présente sous-section sont
+gratuites.
+
+La durée du mandat des membres du conseil d'administration est fixée à trois ans. Ce mandat est renouvelable. Toutefois, sous
+réserve des dispositions de l'alinéa ci-dessous, ce mandat prend fin avant l'expiration de cette durée si le membre du
+conseil cesse d'exercer le mandat ou les fonctions au titre desquels il a été élu.
+
+Le mandat des membres du conseil d'administration qui appartiennent à l'assemblée délibérante d'une collectivité territoriale
+ou d'un établissement public de coopération intercommunale prend fin lors du renouvellement de cette assemblée ou à la date
+de sa dissolution. Toutefois, ce mandat est alors prolongé jusqu'à l'élection de leur remplaçant par la nouvelle assemblée.
+Ces dispositions sont applicables aux représentants du personnel et des personnes bénéficiaires des prestations en cas de
+renouvellement des instances dont ils sont issus.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°78-612 du 23 mai 1978 - art. 17 (Ab)
+	  - Code de l'action sociale et des familles - art. R315-15 (T)
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-1260 du 4 octobre 2005 - art. 1 () JORF 7 octobre 2005
+	  - Décret n°2005-1260 du 4 octobre 2005 - art. 2 () JORF 7 octobre 2005
+
+
+###### Article R315-22
 
 Le président du conseil d'administration prononce la démission d'office des membres qui, sans motif valable, n'ont pas
 assisté à trois séances consécutives du conseil.
@@ -68471,27 +68666,27 @@ qu'il a remplacé.
 
 	**Anciens textes**:
 
-	  - Décret n°78-612 du 23 mai 1978 - art. 12 (M)
-	  - Décret n°78-612 du 23 mai 1978 - art. 12 (Ab)
+	  - Décret n°78-612 du 23 mai 1978 - art. 18 (Ab)
+	  - Code de l'action sociale et des familles - art. R315-16 (T)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2005-1260 du 4 octobre 2005 - art. 1 () JORF 7 octobre 2005
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. R315-22 (T)
-	  - Code de l'action sociale et des familles - art. R315-22 (V)
+	  - Code de l'action sociale et des familles - art. R315-23-4 (V)
 
 
-###### Article R315-17
+###### Article R315-23
 
-Des autorisations spéciales d'absence n'entrant pas en compte dans le calcul de leurs congés réguliers sont accordées aux
-représentants du personnel au conseil d'administration pour leur permettre d'accomplir leur mission au sein de ce conseil.
+Des autorisations spéciales d'absence n'entrant pas en compte dans le calcul des congés annuels sont accordées, dans les
+conditions prévues par la législation en vigueur, aux agents rémunérés d'un établissement, membres de son conseil
+d'administration, pour leur permettre d'accomplir leur mission au sein de ce conseil.
 
 Les employeurs sont tenus de laisser aux salariés de leur entreprise, membres du conseil d'administration d'un établissement
 public mentionné au présent chapitre, le temps nécessaire pour exercer leur mandat au sein de ce conseil.
@@ -68503,23 +68698,24 @@ peine de dommages et intérêts au profit du salarié.
 
 	**Anciens textes**:
 
-	  - Décret n°78-612 du 23 mai 1978 - art. 13 (Ab)
+	  - Décret n°78-612 du 23 mai 1978 - art. 19 (Ab)
+	  - Code de l'action sociale et des familles - art. R315-17 (T)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2005-1260 du 4 octobre 2005 - art. 1 () JORF 7 octobre 2005
+	  - Décret n°2005-1260 du 4 octobre 2005 - art. 2 () JORF 7 octobre 2005
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. R315-23 (M)
-	  - Code de l'action sociale et des familles - art. R315-23 (V)
+	  - Code de l'action sociale et des familles - art. R315-23-5 (V)
 
 
-###### Article R315-18
+###### Article R315-23-1
 
 Le conseil d'administration se réunit sur convocation de son président ou, en cas d'absence ou d'empêchement de celui-ci, de
 son vice-président.
@@ -68536,26 +68732,20 @@ habituellement convoquées à titre consultatif.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°78-612 du 23 mai 1978 - art. 14 (M)
-	  - Décret n°78-612 du 23 mai 1978 - art. 14 (Ab)
-	  - Code de l'action sociale et des familles - art. R315-12 (T)
-
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Décret n°2005-1260 du 4 octobre 2005 - art. 1 () JORF 7 octobre 2005
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de l'action sociale et des familles - art. R315-23-1 (V)
+	  - Code de l'action sociale et des familles - art. R315-18 (T)
 
 
-###### Article R315-19
+###### Article R315-23-2
 
 Les séances du conseil d'administration ne sont pas publiques. En cas d'incident, le président peut suspendre la séance ou
 prononcer son renvoi. Le conseil d'administration doit alors obligatoirement être convoqué à nouveau dans un délai de quinze
@@ -68563,25 +68753,20 @@ jours.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°78-612 du 23 mai 1978 - art. 15 (Ab)
-	  - Code de l'action sociale et des familles - art. R315-13 (T)
-
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Décret n°2005-1260 du 4 octobre 2005 - art. 1 () JORF 7 octobre 2005
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de l'action sociale et des familles - art. R315-23-2 (V)
+	  - Code de l'action sociale et des familles - art. R315-19 (T)
 
 
-###### Article R315-20
+###### Article R315-23-3
 
 Le conseil d'administration ne peut valablement délibérer que si la majorité de ses membres ayant voix délibérative sont
 présents.
@@ -68597,47 +68782,20 @@ Le vote par correspondance ou le vote par procuration n'est pas admis.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°78-612 du 23 mai 1978 - art. 16 (Ab)
-	  - Code de l'action sociale et des familles - art. R315-14 (T)
-
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Décret n°2005-1260 du 4 octobre 2005 - art. 1 () JORF 7 octobre 2005
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. R315-23-3 (V)
-
-
-###### Article R315-21
-
-Le directeur de l'établissement ou, en cas d'empêchement, son représentant assiste avec voix consultative aux séances du
-conseil d'administration. Le secrétariat est assuré à sa diligence.
-
-**Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°78-612 du 23 mai 1978 - art. 17 (M)
-	  - Décret n°78-612 du 23 mai 1978 - art. 17 (Ab)
-	  - Code de l'action sociale et des familles - art. R315-15 (T)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
-
-	  - Décret n°2005-1260 du 4 octobre 2005 - art. 1 () JORF 7 octobre 2005
+	  - Code de l'action sociale et des familles - art. R315-20 (T)
 
 
-###### Article R315-22
+###### Article R315-23-4
 
 Les délibérations du conseil d'administration sont consignées dans un registre spécial confié à la garde du directeur de
 l'établissement. Ce registre est mis à la disposition des administrateurs qui peuvent le consulter sur place. Ils peuvent
@@ -68646,31 +68804,24 @@ prescriptions des articles 226-13 et 226-14 du code pénal.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°78-612 du 23 mai 1978 - art. 18 (M)
-	  - Décret n°78-612 du 23 mai 1978 - art. 18 (Ab)
-	  - Code de l'action sociale et des familles - art. R315-16 (T)
-
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Décret n°2005-1260 du 4 octobre 2005 - art. 1 () JORF 7 octobre 2005
 
 	**Cite**:
 
-	  - Code pénal - art. 226-13 (M)
-	  - Code pénal - art. 226-14 (M)
+	  - Code pénal - art. 226-13 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de l'action sociale et des familles - art. R315-23-4 (V)
+	  - Code de l'action sociale et des familles - art. R315-22 (T)
 
 
-###### Article R315-23
+###### Article R315-23-5
 
 Les délibérations du conseil des établissements mentionnés au présent chapitre ne deviennent exécutoires, dans les conditions
 fixées soit au titre III du livre II de la deuxième partie soit au titre III du livre Ier de la deuxième partie et au titre
@@ -68680,27 +68831,18 @@ l'arrondissement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°78-612 du 23 mai 1978 - art. 19 (M)
-	  - Décret n°78-612 du 23 mai 1978 - art. 19 (Ab)
-	  - Code de l'action sociale et des familles - art. R315-17 (T)
-
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Modifié par**:
-
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
-
-	**Transféré par**:
+	**Créé par**:
 
 	  - Décret n°2005-1260 du 4 octobre 2005 - art. 1 () JORF 7 octobre 2005
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de l'action sociale et des familles - art. R315-23-5 (V)
+	  - Code de l'action sociale et des familles - art. R315-23 (M)
+	  - Code de l'action sociale et des familles - art. R315-23 (T)
 
 
 ##### Sous-section 2 : Dispositions relatives au personnel.
@@ -71089,66 +71231,6 @@ dans tous les cas par l'organisme employeur ou de formation.
 	**Abrogé par**:
 
 	  - Décret n°2006-422 du 7 avril 2006 - art. 30 () JORF 9 avril 2006
-
-
-###### Article R344-4
-
-Lorsqu'elles constituent des établissements publics communaux, intercommunaux, départementaux ou interdépartementaux, les
-maisons d'accueil spécialisées sont régies par les dispositions du chapitre IV du titre I er du présent livre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-1211 du 26 décembre 1978 - art. 5 (M)
-	  - Décret n°78-1211 du 26 décembre 1978 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
-
-	  - Décret n°2005-1260 du 4 octobre 2005 - art. 3 (V) JORF 7 octobre 2005
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. R344-5 (Ab)
-
-
-###### Article R344-5
-
-Par dérogation aux dispositions de l'article R. 344-4 et dans l'attente de la publication du décret d'application prévu par
-les dispositions du sixième alinéa de l'article L. 315-10, le conseil d'administration de ces établissements reste composé
-ainsi qu'il suit :
-
-1° Deux représentants des collectivités territoriales intéressées, dont le président du conseil d'administration ;
-
-2° Quatre représentants des organismes d'assurance maladie, ces organismes étant désignés par le préfet en fonction de
-l'importance des frais exposés par eux pour leurs ressortissants et de leur contribution à l'équipement de l'établissement ;
-
-3° Trois membres désignés en raison de leur compétence ;
-
-4° Un médecin ou un collaborateur technique de l'établissement ;
-
-5° Un représentant du personnel de l'établissement autre que celui mentionné au 4° ci-dessus ;
-
-6° Deux représentants des personnes accueillies dans l'établissement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
-
-	  - Décret n°2005-1260 du 4 octobre 2005 - art. 3 (V) JORF 7 octobre 2005
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L315-10 (M)
-	  - Code de l'action sociale et des familles - art. R344-4 (Ab)
 
 
 ##### Section 2 : Centres d'aide par le travail
