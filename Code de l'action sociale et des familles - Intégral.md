@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2005-11-04
+Version Consolidée au 2005-11-05
 
 # Partie législative
 
@@ -77261,8 +77261,18 @@ précisés par arrêté des ministres mentionnés à l'article D. 451-41.
 
 ###### Article D451-47
 
-Le diplôme d'Etat d'éducateur de jeunes enfants est délivré à la suite d'un examen organisé chaque année par le ministre
-chargé des affaires sociales dans des centres désignés par arrêté.
+Le diplôme d'Etat d'éducateur de jeunes enfants atteste des compétences nécessaires pour accompagner des jeunes enfants, dans
+une démarche éducative et sociale globale, en lien avec leur famille.
+
+Il est structuré en domaines de compétences et peut être obtenu par la voie de la formation ou, en tout ou partie, par la
+validation des acquis de l'expérience.
+
+Il est délivré par le représentant de l'Etat dans la région.
+
+**Nota:**
+
+Les formations engagées avant le 1er janvier 2006, ainsi que les modalités de délivrance des dipl < CB > mes correspondants,
+restent soumises aux dispositions en vigueur avant la publication du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -77272,7 +77282,7 @@ chargé des affaires sociales dans des centres désignés par arrêté.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+	  - Décret n°2005-1375 du 3 novembre 2005 - art. 1 () JORF 5 novembre 2005
 
 	**Anciens textes**:
 
@@ -77293,8 +77303,25 @@ chargé des affaires sociales dans des centres désignés par arrêté.
 
 ###### Article D451-48
 
-Peuvent être admis à subir les épreuves de l'examen les candidats qui, après avoir fait l'objet d'une sélection, ont reçu une
-formation théorique et pratique d'une durée de deux ans.
+La formation préparant au diplôme d'Etat d'éducateur de jeunes enfants comprend un enseignement théorique et une formation
+pratique dispensée au cours de stages. 
+
+Cette formation est dispensée par les établissements publics ou privés ayant satisfait à l'obligation de déclaration
+préalable mentionnée à l'article L. 451-1. 
+
+Les candidats à cette formation doivent justifier de la possession d'un diplôme ou titre et, le cas échéant, compte tenu de
+leur diplôme ou titre, d'une expérience professionnelle. 
+
+La durée et le contenu de leur formation peuvent varier en fonction de l'expérience professionnelle et des diplômes possédés
+par les candidats. 
+
+Les candidats sont soumis à des épreuves d'admission, organisées par les établissements de formation selon les modalités
+figurant dans leur règlement d'admission.
+
+**Nota:**
+
+Les formations engagées avant le 1er janvier 2006, ainsi que les modalités de délivrance des dipl < CB > mes correspondants,
+restent soumises aux dispositions en vigueur avant la publication du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -77304,7 +77331,7 @@ formation théorique et pratique d'une durée de deux ans.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+	  - Décret n°2005-1375 du 3 novembre 2005 - art. 1 () JORF 5 novembre 2005
 
 	**Cité par**:
 
@@ -77320,16 +77347,21 @@ formation théorique et pratique d'une durée de deux ans.
 
 	  - Code de l'action sociale et des familles - art. D451-60 (V)
 
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L451-1 (V)
+
 
 ###### Article D451-49
 
-Des arrêtés du ministre chargé des affaires sociales fixent notamment :
+Pour chacun des domaines de compétences validé par la formation, les épreuves du diplôme comprennent, d'une part, un contrôle
+continu organisé, conformément au dossier de déclaration préalable défini à l'article R. 451-2 en détaillant les modalités,
+par les établissements de formation et, d'autre part, une épreuve en centre d'examens.
 
-1° Les conditions d'admission des élèves en formation ;
+**Nota:**
 
-2° Le programme et le déroulement des études ;
-
-3° La nature et les modalités des épreuves sanctionnant cet enseignement.
+Les formations engagées avant le 1er janvier 2006, ainsi que les modalités de délivrance des dipl < CB > mes correspondants,
+restent soumises aux dispositions en vigueur avant la publication du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -77339,7 +77371,7 @@ Des arrêtés du ministre chargé des affaires sociales fixent notamment :
 
 	**Modifié par**:
 
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+	  - Décret n°2005-1375 du 3 novembre 2005 - art. 1 () JORF 5 novembre 2005
 
 	**Anciens textes**:
 
@@ -77350,11 +77382,32 @@ Des arrêtés du ministre chargé des affaires sociales fixent notamment :
 
 	  - Code de l'action sociale et des familles - art. D451-61 (Ab)
 
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. R451-2 (V)
+
 
 ###### Article D451-50
 
-Le diplôme d'Etat d'éducateur de jeunes enfants est décerné au nom du ministre chargé des affaires sociales et délivré par le
-directeur régional des affaires sanitaires et sociales.
+Le représentant de l'Etat dans la région nomme le jury du diplôme, qui comprend :
+
+1° Le directeur régional des affaires sanitaires ou sociales ou son représentant, président ;
+
+2° Des formateurs ou des enseignants issus des établissements de formation préparant au diplôme d'Etat d'éducateur de jeunes
+enfants ;
+
+3° Des représentants de services déconcentrés de l'Etat, des collectivités publiques, de personnes qualifiées dans le domaine
+de la petite enfance ;
+
+4° Pour un quart au moins de ses membres, des représentants qualifiés du secteur professionnel pour moitié employeurs et pour
+moitié salariés.
+
+Ce jury peut, en tant que de besoin, se subdiviser en groupes d'examinateurs.
+
+**Nota:**
+
+Les formations engagées avant le 1er janvier 2006, ainsi que les modalités de délivrance des dipl < CB > mes correspondants,
+restent soumises aux dispositions en vigueur avant la publication du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -77364,7 +77417,7 @@ directeur régional des affaires sanitaires et sociales.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+	  - Décret n°2005-1375 du 3 novembre 2005 - art. 1 () JORF 5 novembre 2005
 
 	**Anciens textes**:
 
@@ -77381,9 +77434,14 @@ directeur régional des affaires sanitaires et sociales.
 
 ###### Article D451-51
 
-Des dispenses de scolarité, de stages et d'épreuves peuvent être accordées, dans des conditions fixées par arrêté
-ministériel, aux candidats titulaires de certains titres ou diplômes ou justifiant d'une expérience professionnelle
-antérieure dans le secteur sanitaire et social.
+Un arrêté du ministre chargé des affaires sociales précise les compétences professionnelles mentionnées à l'article D.
+451-47, les modalités d'accès à la formation, le contenu et l'organisation de cette formation ainsi que les modalités de
+certification du diplôme d'éducateur de jeunes enfants.
+
+**Nota:**
+
+Les formations engagées avant le 1er janvier 2006, ainsi que les modalités de délivrance des dipl < CB > mes correspondants,
+restent soumises aux dispositions en vigueur avant la publication du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -77393,11 +77451,15 @@ antérieure dans le secteur sanitaire et social.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+	  - Décret n°2005-1375 du 3 novembre 2005 - art. 1 () JORF 5 novembre 2005
 
 	**Anciens textes**:
 
 	  - Code de l'action sociale et des familles - art. D451-39 (T)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D451-47 (M)
 
 	**Nouveaux textes**:
 
@@ -77408,11 +77470,17 @@ antérieure dans le secteur sanitaire et social.
 
 ###### Article D451-52
 
-Le certificat d'aptitude aux fonctions d'éducateur technique spécialisé est destiné aux personnes assurant la formation
-technologique, l'adaptation ou la réadaptation professionnelle des personnes inadaptées ou handicapées.
+Le diplôme d'Etat d'éducateur technique spécialisé atteste des capacités professionnelles pour intervenir en matière
+d'intégration sociale et d'insertion professionnelle auprès des personnes présentant un handicap ou des difficultés d'ordre
+social ou économique.
 
-Il est délivré aux personnes qui ont subi avec succès les épreuves d'un examen organisé conjointement par le ministre chargé
-des affaires sociales, le ministre chargé de l'éducation et le ministre de la justice.
+Les titulaires de ce diplôme assurent une prise en charge éducative de ces personnes par l'encadrement d'activités
+techniques.
+
+**Nota:**
+
+Les formations engagées avant la date d'entrée en vigueur du présent décret ainsi que les modalités de délivrance des dipl <
+CB > mes correspondants restent soumises aux dispositions prévues antérieurement.
 
 **Liens relatifs à cet article**
 
@@ -77422,7 +77490,7 @@ des affaires sociales, le ministre chargé de l'éducation et le ministre de la 
 
 	**Modifié par**:
 
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+	  - Décret n°2005-1376 du 3 novembre 2005 - art. 1 () JORF 5 novembre 2005
 
 	**Anciens textes**:
 
@@ -77441,11 +77509,15 @@ des affaires sociales, le ministre chargé de l'éducation et le ministre de la 
 
 ###### Article D451-53
 
-L'examen est ouvert aux candidats qui, après contrôle de leurs aptitudes dans les conditions fixées par arrêté des ministres
-mentionnés à l'article D. 451-52, ont suivi la formation mentionnée à l'article D. 451-55.
+Les candidats à la formation d'éducateur technique spécialisé doivent justifier de conditions de diplôme et, en fonction du
+diplôme, d'expérience professionnelle. Ils font l'objet d'une sélection organisée par les établissements de formation ayant
+satisfait à l'obligation de déclaration préalable prévue à l'article L. 451-1. Un arrêté des ministres chargés des affaires
+sociales, de l'éducation et de la justice détermine les conditions d'application du présent article.
 
-Des réductions de la durée de formation peuvent être accordées, dans des conditions fixées par arrêté interministériel, à
-certaines catégories de candidats.
+**Nota:**
+
+Les formations engagées avant la date d'entrée en vigueur du présent décret ainsi que les modalités de délivrance des dipl <
+CB > mes correspondants restent soumises aux dispositions prévues antérieurement.
 
 **Liens relatifs à cet article**
 
@@ -77455,29 +77527,33 @@ certaines catégories de candidats.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1135 2005-09-07 art. 4 I, III JORF 10 septembre 2005
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+	  - Décret n°2005-1376 du 3 novembre 2005 - art. 1 () JORF 5 novembre 2005
 
 	**Anciens textes**:
 
 	  - Code de l'action sociale et des familles - art. D451-41 (M)
 	  - Code de l'action sociale et des familles - art. D451-41 (T)
 
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. D451-52 (T)
-	  - Code de l'action sociale et des familles - art. D451-55 (M)
-
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. D451-65 (V)
 
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L451-1 (M)
+
 
 ###### Article D451-54
 
-L'examen a lieu, chaque année, dans les académies pourvues d'un établissement de formation ayant satisfait à l'obligation de
-déclaration préalable prévue à l'article L. 451-1. L'implantation du centre d'examen et la date des épreuves sont fixées par
-le recteur.
+La durée et le contenu de la formation sont fixés par l'arrêté prévu à l'article R. 451-53. La formation comprend un
+enseignement théorique et une formation pratique.
+
+Le même arrêté fixe la nature des épreuves préalables à la délivrance du diplôme.
+
+**Nota:**
+
+Les formations engagées avant la date d'entrée en vigueur du présent décret ainsi que les modalités de délivrance des dipl <
+CB > mes correspondants restent soumises aux dispositions prévues antérieurement.
 
 **Liens relatifs à cet article**
 
@@ -77485,9 +77561,9 @@ le recteur.
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+	  - Décret n°2005-1376 du 3 novembre 2005 - art. 1 () JORF 5 novembre 2005
 
 	**Anciens textes**:
 
@@ -77496,13 +77572,35 @@ le recteur.
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L451-1 (M)
+	  - Code de l'action sociale et des familles R451-53
 
 
 ###### Article D451-55
 
-Un arrêté des ministres mentionnés à l'article D. 451-52 fixe les conditions d'admission à la formation, la nature et la
-durée de celle-ci ainsi que les conditions d'inscription à l'examen, la composition du jury et la définition des épreuves.
+Le recteur d'académie nomme le jury du diplôme qui, dans le respect des dispositions du I de l'article L. 335-5 du code de
+l'éducation, comprend :
+
+1° Le recteur d'académie ou son représentant, président du jury ;
+
+2° Le directeur régional des affaires sanitaires et sociales ou son représentant, vice-président du jury ;
+
+3° Des formateurs issus des centres dispensant la formation au diplôme d'éducateur technique spécialisé, des membres de
+l'enseignement supérieur ou des professeurs de l'enseignement technologique ou professionnel ;
+
+4° Des représentants des services déconcentrés des ministères concernés, des collectivités publiques ou de personnes
+qualifiées en matière d'action éducative et sociale ;
+
+5° Pour un quart au moins de ses membres, des représentants qualifiés de la profession pour moitié employeurs, pour moitié
+salariés, et avec le souci d'assurer une représentation équilibrée des hommes et des femmes.
+
+Les membres du jury sont proposés par les administrations concernées.
+
+Le diplôme d'Etat d'éducateur technique spécialisé est délivré par le recteur d'académie.
+
+**Nota:**
+
+Les formations engagées avant la date d'entrée en vigueur du présent décret ainsi que les modalités de délivrance des dipl <
+CB > mes correspondants restent soumises aux dispositions prévues antérieurement.
 
 **Liens relatifs à cet article**
 
@@ -77510,18 +77608,17 @@ durée de celle-ci ainsi que les conditions d'inscription à l'examen, la compos
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1135 2005-09-07 art. 4 I, III JORF 10 septembre 2005
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+	  - Décret n°2005-1376 du 3 novembre 2005 - art. 1 () JORF 5 novembre 2005
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L335-5 (M)
 
 	**Anciens textes**:
 
 	  - Code de l'action sociale et des familles - art. D451-43 (T)
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. D451-52 (T)
 
 	**Cité par**:
 
@@ -77531,8 +77628,13 @@ durée de celle-ci ainsi que les conditions d'inscription à l'examen, la compos
 
 ###### Article D451-56
 
-Le certificat d'aptitude aux fonctions d'éducateur technique spécialisé est délivré par le recteur d'académie au nom du
-ministre chargé de l'éducation.
+Les titulaires du certificat d'aptitude aux fonctions d'éducateur technique spécialisé sont titulaires de droit du diplôme
+d'Etat d'éducateur technique spécialisé.
+
+**Nota:**
+
+Les formations engagées avant la date d'entrée en vigueur du présent décret ainsi que les modalités de délivrance des dipl <
+CB > mes correspondants restent soumises aux dispositions prévues antérieurement.
 
 **Liens relatifs à cet article**
 
@@ -77540,9 +77642,9 @@ ministre chargé de l'éducation.
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+	  - Décret n°2005-1376 du 3 novembre 2005 - art. 1 () JORF 5 novembre 2005
 
 	**Anciens textes**:
 
