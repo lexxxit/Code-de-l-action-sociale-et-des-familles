@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2005-11-05
+Version Consolidée au 2005-12-01
 
 # Partie législative
 
@@ -63329,24 +63329,32 @@ Le résultat déficitaire ne peut pas être repris sur l'un des budgets correspo
 ###### Article R314-75
 
 Les activités mentionnées à l'article R. 314-1 qui sont gérées par un établissement public de santé sont, conformément aux
-dispositions de l'article R. 714-3-9 du code de la santé publique, retracées dans le cadre d'un budget annexe de cet
-établissement.
+dispositions de l'article R. 714-3-9 du code de la santé publique, retracées dans le cadre d'un compte de résultat
+prévisionnel annexe de cet établissement.
 
-Les règles relatives à la présentation de ce budget annexe sont, par dérogation aux dispositions du paragraphe 1 de la sous-
-section 1 de la présente section, fixées par les articles R. 714-3-1 à R. 714-3-17 du code de la santé publique.
+Les règles relatives à la présentation de ce compte de résultat prévisionnel annexe sont, par dérogation aux dispositions du
+paragraphe 1 de la sous-section 1 de la présente section, fixées par les articles R. 6145-1 à R. 6145-20 du code de la santé
+publique.
 
-Les règles relatives à l'exécution de ce budget annexe sont conjointement fixées par les articles R. 714-3-27 à R. 714-3-53
-du code de la santé publique, et par les dispositions du paragraphe 4 de la sous-section 1 de la présente section, à
-l'exception de son article R. 314-51. Toutefois, la transmission du bilan comptable propre en application du 1° du I de
-l'article R. 314-49 est remplacée par la transmission du bilan de l'établissement de santé.
+Les règles relatives à l'exécution des comptes de résultats prévisionnels annexes sont fixées par les dispositions de la
+sous-section 3 de la section 1 du chapitre 5 du titre 6 du livre Ier de la partie VI du code de la santé publique.
 
-Les dispositions des paragraphes 2 et 3 de la sous-section 1 de la présente section, relatives à la présentation des
-propositions budgétaires et à la procédure de fixation du tarif, sont applicables à ce budget annexe, à l'exception de
-l'article R. 314-15 et à l'exception des articles R. 314-20 et R. 314-27 en tant qu'ils ont trait aux opérations
-d'investissement.
+Les dispositions du paragraphe 3 de la sous-section 1 de la présente section, relatives à la présentation des propositions
+budgétaires et à la procédure de fixation du tarif, sont applicables à ce compte de résultat prévisionnel annexe, à
+l'exception de l'article R. 314-15 et à l'exception des articles R. 314-20 et R. 314-27 en tant qu'ils ont trait aux
+opérations d'investissement.
 
 Les dispositions des paragraphes 5 et 6 de la sous-section 1 de la présente section, relatives au contrôle et au contentieux,
-sont applicables aux activités sociales et médico-sociales retracées dans le budget annexe.
+sont applicables aux activités sociales et médico-sociales retracées dans le compte de résultat prévisionnel annexe.
+
+Les éléments de tarification mentionnés à l'article R. 314-8, pour les activités sociales et médico-sociales qui sont suivies
+en compte de résultat prévisionnel annexe, sont déterminés dans les conditions prévues aux sous-sections 3 et 4 de la
+présente section.
+
+**Nota:**
+
+Décret 2005-1474 2005-11-30 art. 13 II : en 2005, pour l'application de l'art. R314-75, dans sa rédaction issue du présent
+décret, les mots " compte de résultat prévisionnel annexe " sont remplacés par les mots " budget annexe ".
 
 **Liens relatifs à cet article**
 
@@ -63359,6 +63367,10 @@ sont applicables aux activités sociales et médico-sociales retracées dans le 
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2005-1474 du 30 novembre 2005 - art. 12 () JORF 1er décembre 2005
+
 	**Cité par**:
 
 	  - Décret n°2005-1474 du 30 novembre 2005 - art. 13 (V)
@@ -63368,13 +63380,13 @@ sont applicables aux activités sociales et médico-sociales retracées dans le 
 	**Cite**:
 
 	  - Code de la santé publique - art. R714-3-9 (M)
-	  - Code de la santé publique R714-3-9, R714-3-1 à R714-3-17, R714-3-27 à R714-3-53, R314-51
+	  - Code de la santé publique R714-3-9, R6145-1 à R6145-20
 	  - Code de l'action sociale et des familles - art. R314-1 (V)
 	  - Code de l'action sociale et des familles - art. R314-15 (V)
 	  - Code de l'action sociale et des familles - art. R314-20 (V)
 	  - Code de l'action sociale et des familles - art. R314-27 (V)
-	  - Code de l'action sociale et des familles - art. R314-49 (M)
-	  - Code de l'action sociale et des familles R314-1, annexe, R314-49, R314-15, R314-20, R314-27
+	  - Code de l'action sociale et des familles - art. R314-8 (V)
+	  - Code de l'action sociale et des familles R314-1, annexe, R314-15, R314-20, R314-27, R314-8
 
 
 ###### Article R314-76
