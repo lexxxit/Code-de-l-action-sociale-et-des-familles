@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2005-12-02
+Version Consolidée au 2005-12-13
 
 # Partie législative
 
@@ -43019,19 +43019,11 @@ peuvent seules exercer les fonctions de direction :
 1° du présent article et au répertoire national des certifications professionnelles prévu à l'article L. 335-6 du code de
 l'éducation ;
 
-- jusqu'au 1er septembre 2005, les personnes titulaires du brevet d'aptitude aux fonctions de directeur qui justifient, à la
-date d'entrée en vigueur du décret n° 2004-154 du 17 février 2004 modifiant le décret n° 2002-883 du 3 mai 2002 relatif à la
-protection des mineurs à l'occasion des vacances scolaires, des congés professionnels et des loisirs, avoir exercé ces
-fonctions dans un ou plusieurs centres de vacances ou centres de loisirs pendant une période cumulée correspondant à vingt-
-quatre mois au moins à compter du 1er janvier 1997.
+- les personnes titulaires du brevet d'aptitude aux fonctions de directeur qui justifient, à la date du 19 février 2004,
+avoir exercé ces fonctions dans un ou plusieurs centres de vacances ou centres de loisirs pendant une période cumulée
+correspondant à vingt-quatre mois au moins à compter du 1er janvier 1997.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°2002-883 2002-05-03
-	  - Décret n°2004-154 2004-02-17
-	  - Code de l'éducation - art. L335-6 (M)
 
 	**Anciens textes**:
 
@@ -43041,6 +43033,10 @@ quatre mois au moins à compter du 1er janvier 1997.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-1554 du 9 décembre 2005 - art. 1 () JORF 13 décembre 2005
 
 	**Cité par**:
 
@@ -43059,6 +43055,10 @@ quatre mois au moins à compter du 1er janvier 1997.
 	  - Code de l'action sociale et des familles - art. R227-19 (V)
 	  - Code de l'action sociale et des familles - art. R227-21 (V)
 	  - Code de l'action sociale et des familles - art. R227-22 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L335-6 (M)
 
 
 ###### Article R227-15
