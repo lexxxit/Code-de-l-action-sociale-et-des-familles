@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2005-12-21
+Version Consolidée au 2005-12-30
 
 # Partie législative
 
@@ -39976,6 +39976,290 @@ autres groupements à but familial qui ne constitueraient pas une association fa
 	  - Code de l'action sociale et des familles - art. L211-1 (V)
 
 
+###### Article R211-8
+
+Au cours du premier trimestre de chaque année, et au plus tard le 31 mars, un versement est effectué par la Caisse nationale
+des associations familiales et la Caisse centrale de mutualité sociale agricole, sur le compte spécialement ouvert à cet
+effet par l'Union nationale des associations familiales, égal pour chacune à 50 % de sa contribution au fonds spécial
+institué par le 1° de l'article L. 211-10 au titre de l'exercice précédent. L'union nationale alloue à chaque union
+départementale des associations familiales une somme égale à 50 % de la fraction du fonds spécial dont elle a été
+bénéficiaire au titre de l'exercice précédent.
+
+Le versement du solde de leurs contributions respectives au fonds spécial par ces deux organismes intervient au plus tard le
+31 juillet. L'union nationale réalloue en partie cette somme aux unions départementales dans les conditions fixées aux R.
+211-12 et R. 211-14.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-1715 du 29 décembre 2005 - art. 1 () JORF 30 décembre 2005
+
+	**Cité par**:
+
+	  - Arrêté du 28 mai 2015 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L211-10 (M)
+
+
+###### Article R211-9
+
+Le montant des prestations familiales servant de base à la répartition de la charge du fonds spécial entre la Caisse
+nationale des allocations familiales et la Caisse centrale de mutualité sociale agricole est fixé pour chacun de ces
+organismes par les ministres chargés de la famille et de la sécurité sociale, au plus tard le 30 juin de chaque année, après
+consultation de ces organismes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-1715 du 29 décembre 2005 - art. 1 () JORF 30 décembre 2005
+
+	**Cité par**:
+
+	  - Décret n°2005-1715 du 29 décembre 2005 - art. 2 (V)
+
+
+###### Article R211-10
+
+Les ministres chargés de la famille et de la sécurité sociale notifient à la Caisse nationale des allocations familiales et à
+la Caisse centrale de mutualité sociale agricole, au plus tard le 30 juin de chaque année, le montant de leurs contributions
+respectives au fonds spécial.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-1715 du 29 décembre 2005 - art. 1 () JORF 30 décembre 2005
+
+	**Cité par**:
+
+	  - Décret n°2005-1715 du 29 décembre 2005 - art. 2 (V)
+
+
+###### Article R211-11
+
+Les montants de chacune des parts du fonds spécial mentionnées aux a et b du 1° de l'article L. 211-10 sont fixés chaque
+année avant le 30 juin par un arrêté des ministres chargés de la famille et de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-1715 du 29 décembre 2005 - art. 1 () JORF 30 décembre 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L211-10 (V)
+
+
+###### Article R211-12
+
+1° La première part du fonds spécial, mentionnée au a du 1° de l'article L. 211-10, est répartie entre l'union nationale et
+les unions départementales, à raison respectivement de 30 % et de 70 %.
+
+2° Le montant attribué à chaque union départementale est constitué d'une partie forfaitaire de 70 000 euros en 2005, qui
+évolue chaque année dans les conditions définies au premier alinéa de l'article L. 551-1 du code de la sécurité sociale, et
+d'une partie ajustable.
+
+La partie ajustable est déterminée à raison de 60 % en fonction de la population du département, siège de l'union
+départementale, et à raison de 40 % en fonction du rapport entre le nombre des adhérents aux associations familiales, au sens
+de l'article L. 211-1, composant l'union départementale et la population du département.
+
+3° Avant le 30 juin de chaque année, un arrêté des ministres chargés de la famille et de la sécurité sociale fixe le montant
+de la part ainsi dévolue à l'union nationale et à chaque union départementale. A cette fin, l'union nationale leur transmet
+chaque année, avant le 31 mai, le nombre des adhérents, au sens de l'article L. 211-1 et au 1er janvier de l'année, aux
+associations familiales composant chacune des unions départementales.
+
+**Nota:**
+
+Décret 2005-1715 2005-12-29 art. 3 a : les dispositions du 2° de l'art. R211-12, dans sa rédaction issue du présent décret,
+sont applicables à compter du 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-1715 du 29 décembre 2005 - art. 1 () JORF 30 décembre 2005
+
+	**Cité par**:
+
+	  - Décret n°2005-1715 du 29 décembre 2005 - art. 3 (V)
+	  - Arrêté du 12 octobre 2009 - art. 2 (V)
+	  - Arrêté du 8 août 2011 - art. 2 (V)
+	  - Code de l'action sociale et des familles - art. R211-13 (V)
+	  - Code de l'action sociale et des familles - art. R211-8 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L551-1 (M)
+	  - Code de l'action sociale et des familles - art. L211-1 (V)
+	  - Code de l'action sociale et des familles - art. L211-10 (M)
+
+
+###### Article R211-13
+
+L'union nationale et chaque union départementale reversent au plus tard le 30 septembre une fraction de leurs parts
+respectives mentionnées dans l'arrêté mentionné au 3° de l'article R. 211-12, dans les conditions suivantes :
+
+1° L'union nationale affecte 25 % de sa part au soutien des fédérations nationales, confédérations nationales et associations
+familiales nationales visées à l'article L. 211-5, en fonction de leur champ de compétences, du nombre de leurs adhérents, au
+sens de l'article L. 211-1, portés sur les listes des unions départementales, et du nombre d'unions départementales dans
+lesquelles elles sont représentées.
+
+2° Chaque union départementale affecte 10 % de sa part au soutien des fédérations et associations familiales mentionnées à
+l'article L. 211-4, en fonction de leur champ de compétences, de leur nombre dans le département et du nombre de leurs
+adhérents, au sens de l'article L. 211-1, portés sur les listes des unions départementales.
+
+Lorsque, afin de pouvoir assurer les missions qui leur sont confiées par les 1°, 2° et 4° de l'article L. 211-3, les unions
+départementales de départements limitrophes se regroupent au sein d'une association interdépartementale, créée dans le cadre
+de la loi du 1er juillet 1901, à laquelle elles confient par convention la réalisation, au niveau interdépartemental, de tout
+ou partie de ces missions, elles versent une redevance à l'association interdépartementale ainsi créée en compensation du
+service qu'elle leur rend. Dans ce cas, elles ont à justifier de l'utilisation de cette redevance à l'occasion des contrôles
+et évaluations des actions qu'elles mettent en oeuvre dans le cadre de l'utilisation du fonds spécial.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-1715 du 29 décembre 2005 - art. 1 () JORF 30 décembre 2005
+
+	**Cité par**:
+
+	  - Arrêté du 12 octobre 2009 - art. 3 (V)
+	  - Arrêté du 8 août 2011 - art. 3 (V)
+	  - Code de l'action sociale et des familles - art. R211-15 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L211-1 (V)
+	  - Code de l'action sociale et des familles - art. L211-3 (V)
+	  - Code de l'action sociale et des familles - art. L211-4 (V)
+	  - Code de l'action sociale et des familles - art. L211-5 (V)
+	  - Code de l'action sociale et des familles - art. R211-12 (V)
+	  - Loi n°1901-07-01
+
+
+###### Article R211-15
+
+Avant le 15 mars de chaque année, chaque union départementale adresse au président de l'union nationale un dossier comprenant
+ses comptes de résultats, bilans, annexes, ainsi qu'un budget prévisionnel, établis selon le plan comptable des associations.
+Le dossier comprend également un rapport d'activité portant sur toutes les actions financées par le fonds spécial, en
+distinguant celles définies aux a et b du 1° de l'article L. 211-10, et mentionnant le niveau de réalisation de ces actions,
+avec les indicateurs afférents, ainsi que les actions prévues pour l'année en cours, avec les indicateurs d'activité
+correspondants.
+
+Chaque union départementale adresse le même dossier au directeur départemental des affaires sanitaires et sociales.
+
+L'union nationale, en ce qui la concerne, adresse les pièces prévues au premier alinéa du présent article, avant le 15 mai de
+chaque année, au ministre chargé de la famille.
+
+Le président de l'union nationale transmet au ministre chargé de la famille, avant le 15 mai de chaque année, un rapport de
+synthèse sur l'utilisation du fonds spécial au cours de l'année précédente, qui fait l'objet d'une présentation devant la
+commission mentionnée à l'article R. 211-16.
+
+Un état récapitulatif des sommes attribuées aux fédérations, confédérations et associations familiales mentionnées à
+l'article R. 211-13 est annexé au compte de résultat de chaque union d'associations familiales. Cet état récapitulatif porte
+en outre, s'il y a lieu, le montant de la redevance mentionnée au dernier alinéa de cet article.
+
+Les fédérations, confédérations et associations familiales mentionnées à l'alinéa précédent, attributaires d'une part du
+fonds spécial, en justifient l'utilisation, en particulier dans un compte rendu financier, conforme à celui mentionné à
+l'article 10 de la loi du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations.
+Celui-ci est transmis chaque année avec leurs autres documents comptables respectivement au ministre chargé de la famille et
+au président de l'union nationale pour les fédérations, confédérations et associations familiales nationales mentionnées au
+1° de l'article R. 211-13 et au directeur départemental des affaires sanitaires et sociales et au président de l'union
+départementale pour les fédérations et associations familiales visées au 2° de l'article R. 211-13.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-1715 du 29 décembre 2005 - art. 1 () JORF 30 décembre 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L211-10 (M)
+	  - Code de l'action sociale et des familles - art. R211-13 (V)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R211-16 (V)
+	  - Code de l'action sociale et des familles - art. R542-1 (V)
+
+
+###### Article R211-16
+
+Il est institué, auprès des ministres chargés de la famille et de la sécurité sociale, une commission d'évaluation et de
+contrôle présidée par un inspecteur général des affaires sociales, et comprenant :
+
+1. Deux représentants du ministre chargé de la famille ; 
+
+2. Un représentant du ministre chargé de la sécurité sociale ;
+
+3. Un représentant du ministre chargé du budget ;
+
+4. Un représentant du ministre chargé de l'agriculture ; 
+
+5. Le directeur de la Caisse nationale des allocations familiales, ou son représentant ;
+
+6. Le directeur de la Caisse centrale de la mutualité sociale agricole, ou son représentant.
+
+La commission se réunit au moins une fois par an. Elle entend le président de l'union nationale sur le rapport transmis au
+ministre chargé de la famille, prévu au quatrième alinéa de l'article R. 211-15, les représentants de l'union nationale
+désignés par son président, ainsi que tout représentant des unions d'associations familiales, de l'Etat ou d'autres
+institutions qu'elle juge utile d'entendre.
+
+Les ministres chargés de la famille et de la sécurité sociale présentent à la commission les résultats des contrôles et des
+évaluations sur l'utilisation du fonds spécial par l'union nationale qu'ils ont menés au cours de l'exercice écoulé. Lui sont
+aussi présentés les résultats des contrôles et des évaluations des actions mises en oeuvre par les unions départementales
+dans le cadre de l'utilisation du fonds spécial.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-1715 du 29 décembre 2005 - art. 1 () JORF 30 décembre 2005
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R211-14 (V)
+	  - Code de l'action sociale et des familles - art. R211-15 (V)
+
+
 #### Chapitre III : Education et conseil familial
 
 ###### Article R213-1
@@ -47297,18 +47581,45 @@ décisions par lesquelles est fixé le montant de l'allocation.
 	  - Décret n°2004-1136 2004-10-21
 
 
-##### Section 3 : Carte d'invalidité.
+##### Section 3 : Carte d'invalidité et carte de priorité pour personne handicapée
 
 ###### Article R241-12
 
-La carte d'invalidité mentionnée à l'article L. 241-3 ouvre droit aux places réservées dans les transports en commun dans les
-mêmes conditions que pour les mutilés de guerre.
+La demande de carte d'invalidité mentionnée à l'article L. 241-3 ou de la carte portant la mention "Priorité pour personne
+handicapée" mentionnée à l'article L. 241-3-1 est adressée à la maison départementale des personnes handicapées.
+
+Elle est constituée des pièces suivantes :
+
+1° Un formulaire de demande et un certificat médical conformes aux modèles fixés par un arrêté du ministre chargé des
+personnes handicapées ;
+
+2° Une copie de la carte d'identité ou du passeport ou, pour la personne de nationalité étrangère, de l'une des pièces visées
+à l'article 1er du décret n° 94-294 du 15 avril 1994 ;
+
+3° Une photographie du demandeur.
+
+La personne titulaire d'une pension d'invalidité de troisième catégorie fournit, à la place du certificat médical mentionné
+au précédent alinéa, un justificatif attestant de l'attribution d'une pension d'invalidité de troisième catégorie.
+
+Après instruction de la demande, la carte sollicitée est attribuée par la commission des droits et de l'autonomie mentionnée
+à l'article L. 146-8.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°94-294 du 15 avril 1994 - art. 1 (M)
+	  - Code de l'action sociale et des familles - art. L146-8 (V)
+	  - Code de l'action sociale et des familles - art. L241-3 (M)
+	  - Code de l'action sociale et des familles - art. L241-3-1 (M)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-1714 du 29 décembre 2005 - art. 1 () JORF 30 décembre 2005
 
 	**Cité par**:
 
@@ -47320,10 +47631,6 @@ mêmes conditions que pour les mutilés de guerre.
 	  - Code de l'action sociale et des familles - art. R545-3 (V)
 	  - Code de l'action sociale et des familles - art. R585-5 (V)
 
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L241-3 (M)
-
 	**Anciens textes**:
 
 	  - Code de la famille et de l'aide sociale art. 173 al. 1, 2ème phrase
@@ -47332,9 +47639,16 @@ mêmes conditions que pour les mutilés de guerre.
 
 ###### Article R241-13
 
-Un droit de priorité est accordé aux titulaires de la carte d'invalidité portant la mention : "station debout pénible".
+La demande d'une carte mentionnée à l'article L. 241-3 ou à l'article L. 241-3-1 donne lieu à une évaluation par l'équipe
+pluridisciplinaire mentionnée à l'article L. 146-8, sauf lorsqu'elle est présentée par une personne titulaire d'une pension
+d'invalidité de troisième catégorie visée au deuxième alinéa de l'article précédent.
 
-Un arrêté des ministres chargés de l'action sociale et des transports fixe les conditions d'application du présent article.
+Le taux d'incapacité permanente est apprécié en application du guide-barème pour l'évaluation des déficiences et incapacités
+des personnes handicapées figurant à l'annexe 2-4 au décret n° 2004-1136 du 21 octobre 2004 relatif au code de l'action
+sociale et des familles (partie réglementaire).
+
+La pénibilité à la station debout est appréciée par un médecin de l'équipe pluridisciplinaire en fonction des effets de son
+handicap sur la vie sociale du demandeur, en tenant compte, le cas échéant, des aides techniques auxquelles il a recours.
 
 **Liens relatifs à cet article**
 
@@ -47346,6 +47660,17 @@ Un arrêté des ministres chargés de l'action sociale et des transports fixe le
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Cite**:
+
+	  - Décret n°2004-1136 2004-10-21 annexe 2-4
+	  - Code de l'action sociale et des familles - art. L146-8 (V)
+	  - Code de l'action sociale et des familles - art. L241-3 (M)
+	  - Code de l'action sociale et des familles - art. L241-3-1 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2005-1714 du 29 décembre 2005 - art. 1 () JORF 30 décembre 2005
+
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. R542-4 (M)
@@ -47354,19 +47679,16 @@ Un arrêté des ministres chargés de l'action sociale et des transports fixe le
 
 ###### Article R241-14
 
-La carte d'invalidité est surchargée d'une mention "cécité" pour les personnes dont la vision centrale est nulle ou
-inférieure à un vingtième de la normale.
+Les cartes mentionnées aux articles L. 241-3 et L. 241-3-1 sont conformes à un modèle fixé par un arrêté du ministre chargé
+des personnes handicapées.
 
-Elle est surchargée de la mention "canne blanche" pour les personnes dont la vision est au plus égale à un dixième de la
-normale.
+Lorsque la carte d'invalidité mentionnée à l'article L. 241-3 est attribuée pour une durée déterminée, cette dernière ne peut
+être inférieure à un an, ni excéder dix ans.
 
-Les titulaires de cartes d'invalidité surchargées des mentions "cécité" ou "canne blanche" sont autorisés au port de la canne
-blanche.
+La carte "Priorité pour personne handicapée" mentionnée à l'article L. 241-3-1 est attribuée pour une durée déterminée qui ne
+peut être inférieure à un an, ni excéder dix ans.
 
-La carte d'invalidité est surchargée d'une mention "tierce personne" pour les personnes attributaires du complément de
-l'allocation d'éducation spéciale mentionné au 2° ou 3° de l'article R. 541-2 du code de la sécurité sociale ou de
-l'allocation compensatrice prévue à l'article L. 245-1, ou qui bénéficient d'un avantage analogue au titre d'un régime de
-sécurité sociale.
+Elle est attribuée à compter du jour de la décision prise par la commission des droits et de l'autonomie.
 
 **Liens relatifs à cet article**
 
@@ -47374,10 +47696,14 @@ sécurité sociale.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2005-1714 du 29 décembre 2005 - art. 1 () JORF 30 décembre 2005
+
 	**Cite**:
 
-	  - Code de la sécurité sociale. - art. R541-2 (M)
-	  - Code de l'action sociale et des familles - art. L245-1 (M)
+	  - Code de l'action sociale et des familles - art. L241-3 (M)
+	  - Code de l'action sociale et des familles - art. L241-3-1 (M)
 
 	**Cité par**:
 
@@ -47391,18 +47717,24 @@ sécurité sociale.
 
 ###### Article R241-15
 
-La carte d'invalidité mentionnée à l'article L. 241-3 doit être conforme au modèle établi par le ministre chargé de l'action
-sociale.
+La carte d'invalidité mentionnée à l'article L. 241-3 est surchargée d'une mention " besoin d'accompagnement ". 
+
+1° Pour les enfants ouvrant droit au troisième, quatrième, cinquième ou sixième complément de l'allocation d'éducation de
+l'enfant handicapé mentionnée à l'article L. 541-1 du code de la sécurité sociale ; 
+
+2° Pour les adultes qui bénéficient de l'élément " aides humaines " de la prestation de compensation mentionnée à l'article
+L. 245-1 ou qui perçoivent, d'un régime de sécurité sociale, une majoration pour avoir recours à l'assistance d'une tierce
+personne telle que mentionnée aux articles L. 355-1 ou L. 434-2 du code de la sécurité sociale, ou qui perçoivent
+l'allocation personnalisée d'autonomie mentionnée à l'article L. 232-1, ou qui bénéficient de l'allocation compensatrice pour
+tierce personne. 
+
+La carte d'invalidité portant la mention " besoin d'accompagnement " permet d'attester de la nécessité pour la personne
+handicapée d'être accompagnée dans ses déplacements, tel qu'il est prévu à l'article L. 241-3. 
+
+La mention " cécité " est également apposée sur la carte d'invalidité dès lors que la vision centrale de la personne
+handicapée est inférieure à un vingtième de la normale.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L241-3 (M)
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. R542-4 (M)
 
 	**Anciens textes**:
 
@@ -47412,6 +47744,23 @@ sociale.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-1714 du 29 décembre 2005 - art. 1 () JORF 30 décembre 2005
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L355-1 (V)
+	  - Code de la sécurité sociale. - art. L434-2 (V)
+	  - Code de la sécurité sociale. - art. L541-1 (V)
+	  - Code de l'action sociale et des familles - art. L232-1 (V)
+	  - Code de l'action sociale et des familles - art. L241-3 (VT)
+	  - Code de l'action sociale et des familles - art. L245-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R542-4 (M)
 
 
 ##### Section 4 : Macaron "Grand Invalide civil".
@@ -47576,8 +47925,9 @@ La récidive de la contravention prévue au présent article est réprimée conf
 
 ###### Article R241-22
 
-Le fait d'interdire l'accès aux lieux ouverts au public aux chiens accompagnant les personnes titulaires de la carte
-d'invalidité est puni de l'amende prévue pour les contraventions de la troisième classe.
+L'interdiction des lieux ouverts au public aux chiens guides d'aveugles et aux chiens d'assistance mentionnés au 5° de
+l'article L. 245-3, qui accompagnent les personnes titulaires de la carte d'invalidité mentionnée à l'article L. 241-3, est
+punie de l'amende prévue pour les contraventions de la 3e classe.
 
 **Liens relatifs à cet article**
 
@@ -47590,9 +47940,18 @@ d'invalidité est puni de l'amende prévue pour les contraventions de la troisi�
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2005-1714 du 29 décembre 2005 - art. 2 () JORF 30 décembre 2005
+
 	**Cité par**:
 
 	  - Arrêté du 20 mars 2014 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L241-3 (VT)
+	  - Code de l'action sociale et des familles - art. L245-3 (V)
 
 
 ###### Article R241-23
