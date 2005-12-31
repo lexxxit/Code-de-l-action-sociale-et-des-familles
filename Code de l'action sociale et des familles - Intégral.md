@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2005-12-31
+Version Consolidée au 2006-01-01
 
 # Partie législative
 
@@ -1110,6 +1110,44 @@ Il prend en compte, le cas échéant, la situation des personnes les plus vulné
 
 
 #### Chapitre VII : Personnes immigrées ou issues de l'immigration
+
+###### Article L117-1
+
+Il est proposé, dans une langue qu'il comprend, à tout étranger admis pour la première fois au séjour en France en vue d'une
+installation durable de conclure, individuellement, avec l'Etat un contrat d'accueil et d'intégration. Ce contrat a pour
+objet de préciser les conditions dans lesquelles l'étranger signataire bénéficie d'actions, tenant compte de sa situation et
+de son parcours personnel et destinées à favoriser son intégration dans le respect des lois et des valeurs fondamentales de
+la République française. Ces actions comprennent notamment, lorsque le besoin en est établi, une formation linguistique
+sanctionnée par une validation des acquis.
+
+Pour l'appréciation de la condition d'intégration républicaine de l'étranger dans la société française prévue au premier
+alinéa de l'article L. 314-2 du code de l'entrée et du séjour des étrangers et du droit d'asile, il est tenu compte de la
+signature par l'étranger d'un contrat d'accueil et d'intégration ainsi que du respect de ce contrat.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article. Il détermine les catégories d'étrangers
+bénéficiaires du contrat d'accueil et d'intégration, la durée du contrat et ses conditions de renouvellement, les actions
+prévues au contrat et les conditions de suivi et de validation de ces actions, dont la reconnaissance de l'acquisition d'un
+niveau satisfaisant de maîtrise de la langue française.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°46-1574 du 30 juin 1946 - art. 10 (Ab)
+	  - Loi n°2005-32 du 18 janvier 2005 - art. 152 (V)
+	  - Loi n°2006-586 du 23 mai 2006 - art. 3 (VT)
+	  - Code de l'action sociale et des familles - art. L541-1 (M)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R314-1 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2005-32 du 18 janvier 2005 - art. 146 () JORF 19 janvier 2005 en vigueur le 1er janvier 2006
+
 
 ###### Article L117-2
 
@@ -22215,8 +22253,7 @@ Relèvent de l'objectif géré, en application de l'article L. 314-3, par la Cai
 2° Les établissements et services mentionnés aux 11° et 12° du I du même article qui accueillent des personnes handicapées ou
 âgées dépendantes ;
 
-3° Les établissements mentionnés au 6° du I de l'article L. 312-1 du présent code et au 2° de l'article L. 6111-2 du code de
-la santé publique.
+3° Les établissements et services mentionnés au 6° du I de l'article L. 312-1 du présent code.
 
 **Liens relatifs à cet article**
 
@@ -22225,9 +22262,10 @@ la santé publique.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2005-102 du 11 février 2005 - art. 59 () JORF 12 février 2005
+	  - Loi n°2005-1579 2005-12-19 art. 46 I, art. 51 II JORF 20 décembre 2005 en vigueur le 1er janvier 2006
+	  - Loi n°2005-1579 du 19 décembre 2005 - art. 51 (V) JORF 20 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -22261,7 +22299,6 @@ la santé publique.
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L6111-2 (V)
 	  - Code de l'action sociale et des familles - art. L312-1 (M)
 
 
@@ -44891,11 +44928,18 @@ modalités de calcul des frais de transfèrement des mineurs ci-dessus mentionn�
 ###### Article R231-1
 
 Le montant de l'allocation simple à domicile attribuée aux personnes âgées en application de l'article L. 231-1 est fixé au
-niveau du montant de l'allocation aux vieux travailleurs salariés prévu à l'article L. 811-1 du code de la sécurité sociale.
+niveau du montant de l'allocation de solidarité aux personnes âgées prévu à l'article L. 815-4 du code de la sécurité
+sociale. 
 
 L'allocation simple à domicile ne peut se cumuler avec un avantage vieillesse et est cumulable avec les ressources
-personnelles dont peuvent disposer les requérants dans la limite du même plafond de ressources que pour l'allocation aux
-vieux travailleurs salariés.
+personnelles dont peuvent disposer les requérants dans la limite du même plafond de ressources que pour l'allocation de
+solidarité aux personnes âgées.
+
+**Nota:**
+
+Ordonnance 2004-605 du 24 juin 2004 art. 2 : Les personnes qui, à la date d'entrée en vigueur de la présente ordonnance, sont
+titulaires de l'allocation aux vieux travailleurs salariés, continuent à percevoir ces prestations selon les règles
+applicables avant cette entrée en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -44904,13 +44948,17 @@ vieux travailleurs salariés.
 	  - Décret n°54-1128 du 15 novembre 1954 - art. 3 (M)
 	  - Décret n°54-1128 du 15 novembre 1954 - art. 3 (Ab)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-605 du 24 juin 2004 - art. 3 (V) JORF 24 juin 2004 en vigueur le 1er janvier 2006
+
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
 	**Cite**:
 
-	  - Code de la sécurité sociale. - art. L811-1 (M)
+	  - Code de la sécurité sociale. - art. L815-4 (V)
 	  - Code de l'action sociale et des familles - art. L231-1 (V)
 
 	**Cité par**:
@@ -48685,9 +48733,7 @@ souhaitables.
 
 En application des articles L. 243-4 à L. 243-6, les dispositions de la présente section fixent :
 
-- la garantie de ressources assurée à toute personne handicapée salariée dans le secteur ordinaire de production, dans un
-emploi de travail protégé, dans un atelier protégé ou centre de distribution de travail à domicile, ou admise dans un centre
-d'aide par le travail ;
+- la garantie de ressources assurée à toute personne handicapée admise dans un centre d'aide par le travail ;
 
 - les conditions dans lesquelles est prévu par convention un système de bonifications permettant de tenir compte du travail
 effectivement fourni par la personne handicapée.
@@ -48701,6 +48747,10 @@ effectivement fourni par la personne handicapée.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-150 du 13 février 2006 - art. 3 () JORF 14 février 2006 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -48740,80 +48790,6 @@ complément de rémunération égal à la différence entre le montant des resso
 	  - Code de la sécurité sociale. - art. R821-4 (V)
 
 
-###### Article R243-7
-
-Le montant des ressources garanties aux personnes handicapées salariées dans le secteur ordinaire de production dont le
-salaire subit un abattement en application de l'article L. 323-6 du code du travail est égal au montant du salaire
-normalement alloué au travailleur valide accomplissant la même tâche.
-
-Toutefois, le complément de rémunération que les personnes handicapées reçoivent en application de l'article R. 243-6 ne peut
-être supérieur à 20 % du salaire minimum de croissance ni porter les ressources garanties à un niveau supérieur à 130 % de ce
-salaire minimum.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-1465 du 28 décembre 1977 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
-
-	  - Décret n°2006-150 du 13 février 2006 - art. 3 () JORF 14 février 2006 en vigueur le 1er janvier 2006
-
-	**Cite**:
-
-	  - Code du travail - art. L323-6 (M)
-	  - Code de l'action sociale et des familles - art. R243-6 (M)
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. R243-9 (V)
-
-
-###### Article R243-8
-
-Le montant des ressources garanties aux personnes handicapées salariées en atelier protégé ou en centre de distribution du
-travail à domicile est fixé, dès la période d'essai, à 90 % du salaire minimum de croissance. Lorsque le salaire versé par
-l'employeur est compris entre 35 et 45 % du salaire minimum de croissance, le complément de rémunération que les personnes
-handicapées reçoivent en application de l'article R. 243-6 est égal à 55 % du salaire minimum de croissance.
-
-Les personnes handicapées salariées dans un des emplois de travail protégé en milieu ordinaire mentionnés à l'article L.
-323-29 du code du travail ont droit à un complément de rémunération égal à la différence entre le salaire minimum de
-croissance et le salaire versé par leurs employeurs, y compris les avantages en nature, fixé en fonction des capacités de
-travail de la personne handicapée sur décision motivée de la commission technique d'orientation et de reclassement
-professionnel.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-1465 du 28 décembre 1977 - art. 4 (M)
-	  - Décret n°77-1465 du 28 décembre 1977 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
-
-	  - Décret n°2006-150 du 13 février 2006 - art. 3 () JORF 14 février 2006 en vigueur le 1er janvier 2006
-
-	**Cite**:
-
-	  - Code du travail - art. L323-29 (M)
-	  - Code de l'action sociale et des familles - art. R243-6 (M)
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. Annexe 3-9 (V)
-	  - Code de l'action sociale et des familles - art. D243-28 (V)
-	  - Code de l'action sociale et des familles - art. R542-4 (V)
-
-
 ###### Article R243-9
 
 Le montant des ressources garanties aux personnes handicapées admises en centre d'aide par le travail est fixé, à l'issue de
@@ -48849,32 +48825,21 @@ supérieur à 50 % du salaire minimum de croissance.
 
 ###### Article R243-10
 
-Les ressources des personnes handicapées autres que celles employées comme salariées dans l'agriculture ne sont garanties
-qu'à concurrence de la durée du travail effectif, mentionnée à l'article L. 212-1 du code du travail et déterminée selon les
-modalités prévues par les décrets ou les conventions auxquels renvoient respectivement les articles L. 212-2 et L. 133-5 du
-même code.
+Les ressources des personnes handicapées ne sont garanties qu'à concurrence de la durée du travail effectif, mentionnée à
+l'article L. 212-1 du code du travail et déterminée selon les modalités prévues par les décrets ou les conventions auxquels
+renvoient respectivement les articles L. 212-2 et L. 133-5 du même code.
 
-Les ressources des personnes handicapées salariées dans l'agriculture ne sont garanties qu'à concurrence de la durée du
-travail effectif mentionnée à l'article L. 713-2 du code rural.
-
-Pour le calcul du complément de rémunération, les personnes handicapées salariées en atelier protégé ou admises en centre
-d'aide par le travail sont réputées avoir travaillé pendant la durée du travail mentionnée aux premier et deuxième alinéas du
-présent article, à la condition d'avoir effectué la durée couramment appliquée, telle qu'elle figure au règlement intérieur
-de l'établissement. Les handicapés salariés en centre de distribution de travail à domicile sont réputés avoir travaillé
-pendant la durée du travail mentionnée aux premier et deuxième alinéas du présent article.
+Pour le calcul du complément de rémunération, les personnes handicapées admises en centre d'aide par le travail sont réputées
+avoir travaillé pendant la durée du travail mentionnée au premier alinéa du présent article, à la condition d'avoir effectué
+la durée couramment appliquée, telle qu'elle figure au règlement intérieur de l'établissement. Les handicapés salariés en
+centre de distribution de travail à domicile sont réputés avoir travaillé pendant la durée du travail mentionnée au premier
+alinéa du présent article.
 
 Pour les périodes ayant donné lieu à indemnisation au titre de l'assurance maladie, le complément de rémunération est dû aux
 salariés handicapés qui bénéficient des avantages en matière d'indemnisation des absences pour maladie résultant de
 dispositions légales ou conventionnelles applicables à l'entreprise ou à l'atelier protégé dont ils sont les salariés.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural L713-2
-	  - Code du travail - art. L133-5 (M)
-	  - Code du travail - art. L212-1 (M)
-	  - Code du travail - art. L212-2 (M)
 
 	**Anciens textes**:
 
@@ -48885,6 +48850,16 @@ dispositions légales ou conventionnelles applicables à l'entreprise ou à l'at
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-150 du 13 février 2006 - art. 3 () JORF 14 février 2006 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail - art. L133-5 (M)
+	  - Code du travail - art. L212-1 (M)
+	  - Code du travail - art. L212-2 (M)
+
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. D243-15 (Ab)
@@ -48893,12 +48868,12 @@ dispositions légales ou conventionnelles applicables à l'entreprise ou à l'at
 
 ###### Article R243-11
 
-Les heures supplémentaires accomplies au-delà de la durée du travail mentionnée aux premier et deuxième alinéas de l'article
-R. 243-10 n'ouvrent droit à aucun complément de rémunération au titre de la garantie de ressources.
+Les heures supplémentaires accomplies au-delà de la durée du travail mentionnée au premier alinéa de l'article R. 243-10
+n'ouvrent droit à aucun complément de rémunération au titre de la garantie de ressources.
 
 Toutefois, le complément de rémunération dû au titre de la garantie de ressources à raison des heures effectuées dans la
-limite de la durée du travail mentionnée aux premier et deuxième alinéas de l'article R. 243-10 ne peut être réduit du fait
-des majorations de salaire résultant des heures supplémentaires.
+limite de la durée du travail mentionnée au premier alinéa de l'article R. 243-10 ne peut être réduit du fait des majorations
+de salaire résultant des heures supplémentaires.
 
 **Liens relatifs à cet article**
 
@@ -48909,6 +48884,10 @@ des majorations de salaire résultant des heures supplémentaires.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-150 du 13 février 2006 - art. 3 () JORF 14 février 2006 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -48924,9 +48903,9 @@ des majorations de salaire résultant des heures supplémentaires.
 
 ###### Article R243-12
 
-Le complément de rémunération est versé aux travailleurs handicapés par l'entreprise ou l'organisme gestionnaire de l'atelier
-protégé ou du centre de distribution du travail à domicile ou du centre d'aide par le travail en même temps que la
-rémunération du travail accompli. Il est fait mention du complément de rémunération sur le bulletin de paie.
+Le complément de rémunération est versé aux travailleurs handicapés par l'organisme gestionnaire du centre d'aide par le
+travail en même temps que la rémunération du travail accompli. Il est fait mention du complément de rémunération sur le
+bulletin de paie.
 
 **Liens relatifs à cet article**
 
@@ -48938,6 +48917,10 @@ rémunération du travail accompli. Il est fait mention du complément de rémun
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-150 du 13 février 2006 - art. 3 () JORF 14 février 2006 en vigueur le 1er janvier 2006
+
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. D243-15 (Ab)
@@ -48948,9 +48931,8 @@ rémunération du travail accompli. Il est fait mention du complément de rémun
 ###### Article R243-13
 
 En vue de la compensation des charges supportées au titre de la garantie de ressources et des cotisations y afférentes, telle
-qu'elle est prévue à l'article L. 243-6, les entreprises et les organismes gestionnaires des ateliers protégés, des centres
-de distribution du travail à domicile ou des centres d'aide par le travail adressent des états justificatifs mensuels aux
-services départementaux du travail et de l'emploi compétents.
+qu'elle est prévue à l'article L. 243-6, les organismes gestionnaires des centres d'aide par le travail adressent des états
+justificatifs mensuels à l'organisme compétent retenu par le ministre chargé des personnes handicapées.
 
 **Liens relatifs à cet article**
 
@@ -48962,6 +48944,10 @@ services départementaux du travail et de l'emploi compétents.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-150 du 13 février 2006 - art. 3 () JORF 14 février 2006 en vigueur le 1er janvier 2006
+
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L243-6 (M)
@@ -48970,146 +48956,6 @@ services départementaux du travail et de l'emploi compétents.
 
 	  - Code de l'action sociale et des familles - art. R243-7 (MMN)
 	  - Code de l'action sociale et des familles - art. R542-4 (V)
-
-
-##### Sous-section 3 : Bonifications.
-
-###### Article D243-14
-
-Le système de bonifications que doivent prévoir les conventions prévues à l'article L. 323-31 du code du travail en ce qui
-concerne les ateliers protégés et les conventions passées avec les organismes gestionnaires des centres d'aide par le travail
-est applicable :
-
-- aux personnes handicapées salariées en atelier protégé ou en centre de distribution du travail à domicile dont le salaire
-versé par l'employeur dépasse 45 % du salaire minimum de croissance ;
-
-- aux personnes handicapées admises en centre d'aide par le travail dont la rémunération dépasse 15 % du salaire minimum de
-croissance.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-1465 du 28 décembre 1977 - art. 10 (M)
-	  - Décret n°77-1465 du 28 décembre 1977 - art. 10 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
-
-	  - Décret n°2006-152 du 13 février 2006 - art. 4 () JORF 14 février 2006 en vigueur le 1er janvier 2006
-
-	**Cite**:
-
-	  - Code du travail - art. L323-31 (M)
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. D243-16 (Ab)
-
-
-###### Article D243-15
-
-Les articles R. 243-10, R. 243-11 et R. 243-12 sont applicables aux bonifications.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-1465 du 28 décembre 1977 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
-
-	  - Décret n°2006-152 du 13 février 2006 - art. 4 () JORF 14 février 2006 en vigueur le 1er janvier 2006
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. R243-10 (M)
-	  - Code de l'action sociale et des familles - art. R243-11 (M)
-	  - Code de l'action sociale et des familles - art. R243-12 (M)
-
-	**Cité par**:
-
-	  - Code rural - art. D725-22-5 (VD)
-
-
-###### Article D243-16
-
-Pour l'insertion du système de bonifications dans les conventions mentionnées à l'article D. 243-14, des modèles de clauses
-sont établis par arrêté du ou des ministres intéressés.
-
-Le système de bonifications établi par les conventions peut porter le total formé par la garantie de ressources et les
-bonifications :
-
-- à 130 % du salaire minimum de croissance pour une personne handicapée salariée en atelier protégé ou en centre de
-distribution du travail à domicile ;
-
-- à 110 % du salaire minimum de croissance pour une personne handicapée admise dans un centre d'aide par le travail.
-
-Les conventions peuvent prévoir que les bonifications sont fixées en tenant compte du fait que le travail effectivement
-fourni par la personne handicapée a augmenté pendant une période de référence.
-
-Les conventions fixent les modalités suivant lesquelles est assurée aux organismes gestionnaires des ateliers protégés, des
-centres de distribution du travail à domicile et des centres d'aide par le travail, la compensation des charges résultant des
-bonifications et des cotisations sociales y afférentes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-1465 du 28 décembre 1977 - art. 12 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
-
-	  - Décret n°2006-152 du 13 février 2006 - art. 4 () JORF 14 février 2006 en vigueur le 1er janvier 2006
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. D243-14 (Ab)
-
-
-##### Section 3 : Participation de l'Etat au paiement des accessoires de salaire.
-
-###### Article R243-17
-
-Comme il est dit à l'article R. 323-63-1-1 du code du travail ci-après reproduit :
-
-Art. R. 323-63-1-1. - La charge des accessoires de salaire mentionnés au deuxième alinéa de l'article L. 323-32 du même code
-est répartie entre l'atelier protégé ou le centre de distribution de travail à domicile et l'Etat, à proportion du salaire
-direct versé par l'employeur et du complément de rémunération pris en charge par l'Etat.
-
-La participation de l'Etat au titre de ces accessoires de salaire ne peut excéder 4,5 % d'un salaire égal au produit du
-salaire minimum de croissance par le nombre d'heures correspondant à la durée collective du travail applicable dans l'atelier
-protégé ou le centre de distribution de travail à domicile.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Créé par**:
-
-	  - Décret n°2004-1417 du 23 décembre 2004 - art. 2 () JORF 29 décembre 2004 en vigueur le 1er janvier 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-150 du 13 février 2006 - art. 3 () JORF 14 février 2006 en vigueur le 1er janvier 2006
-
-	**Cite**:
-
-	  - Code du travail - art. L323-32 (M)
-	  - Code du travail - art. R323-63-1-1 (Ab)
 
 
 #### Chapitre IV : Allocation aux adultes handicapés
@@ -69458,7 +69304,7 @@ des dispositions prévues à l'article R. 314-164 ;
 3° Le tableau, figurant à l'annexe 3-4, définissant les modalités de détermination et d'affectation des résultats de chaque
 section d'imputation tarifaire des établissements hébergeant des personnes âgées dépendantes autres que ceux relevant des
 articles L. 342-1 à L. 342-6, conformément aux modalités prévues à l'article R. 314-51 ou, le cas échéant, à l'article R.
-714-3-50 du code de la santé publique ;
+6145-51 du code de la santé publique ;
 
 4° Le tableau de bord, figurant à l'annexe 3-5, établissant la liste des indicateurs médico-socio-économiques.
 
@@ -69481,9 +69327,13 @@ plan de compte des établissements sociaux et médico-sociaux publics.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2005-1474 du 30 novembre 2005 - art. 12 () JORF 1er décembre 2005 en vigueur le 1er janvier 2006
+
 	**Cite**:
 
-	  - Code de la santé publique - art. R714-3-50 (M)
+	  - Code de la santé publique - art. R6145-51 (Ab)
 	  - Code de l'action sociale et des familles - art. L232-2 (M)
 	  - Code de l'action sociale et des familles - art. R314-162 (M)
 	  - Code de l'action sociale et des familles - art. R314-164 (V)
@@ -70605,8 +70455,8 @@ dépendance mentionnés respectivement au 1° et au 2° de l'article 5 de la loi
 
 Les tarifs journaliers afférents à l'hébergement peuvent être modulés en application de l'article R. 314-182.
 
-Par dérogation aux dispositions du dernier alinéa de l'article R. 714-3-9 du code de la santé publique, pendant toute la
-durée de la période transitoire ou jusqu'au terme de la première convention tripartite prévue au I de l'article L. 313-12,
+Par dérogation aux dispositions de l'avant-dernier alinéa de l'article R. 6145-12 du code de la santé publique, pendant toute
+la durée de la période transitoire ou jusqu'au terme de la première convention tripartite prévue au I de l'article L. 313-12,
 les budgets annexes relatifs aux services accueillant des personnes âgées dépendantes peuvent recevoir une subvention du
 budget principal ou accorder une subvention à un autre budget annexe.
 
@@ -70617,15 +70467,15 @@ maladie définie à l'article R. 314-188.
 
 	**Cite**:
 
-	  - Loi n°2001-647 du 20 juillet 2001 - art. 5 (MMN)
-	  - Code de la santé publique - art. R714-3-9 (M)
-	  - Code de l'action sociale et des familles - art. L313-12 (M)
-	  - Code de l'action sociale et des familles - art. R314-160 (V)
-	  - Code de l'action sociale et des familles - art. R314-182 (V)
-	  - Code de l'action sociale et des familles - art. R314-184 (M)
-	  - Code de l'action sociale et des familles - art. R314-188 (M)
-	  - Code de l'action sociale et des familles - art. R314-189 (V)
-	  - Code de l'action sociale et des familles R314-188, R314-160, R314-163 à R314-166, R314-184, R314-189, R314-182, L313-12, annexe
+	  - Loi n°2001-647 du 20 juillet 2001 - art. 5
+	  - Code de la santé publique - art. R6145-12
+	  - Code de l'action sociale et des familles
+	  - Code de l'action sociale et des familles - art. L313-12
+	  - Code de l'action sociale et des familles - art. R314-160
+	  - Code de l'action sociale et des familles - art. R314-182
+	  - Code de l'action sociale et des familles - art. R314-184
+	  - Code de l'action sociale et des familles - art. R314-188
+	  - Code de l'action sociale et des familles - art. R314-189
 
 	**Anciens textes**:
 
@@ -70635,6 +70485,14 @@ maladie définie à l'article R. 314-188.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2005-1474 du 30 novembre 2005 - art. 12 () JORF 1er décembre 2005 en vigueur le 1er janvier 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1500 du 30 décembre 2008 - art. 5
 
 	**Cité par**:
 
