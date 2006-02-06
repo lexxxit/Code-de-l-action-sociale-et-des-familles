@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-01-01
+Version Consolidée au 2006-02-07
 
 # Partie législative
 
@@ -54940,6 +54940,37 @@ les procédures de signalement déclenchées en cas de sortie non autorisée.
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L311-4 (V)
+
+
+##### Sous-section 5 : Projets d'établissement ou de service.
+
+###### Article D311-38
+
+Lorsqu'un projet général de soins est prévu pour l'application du projet d'établissement ou de service mentionné à l'article
+L. 311-8, il définit l'ensemble des mesures propres à assurer les soins palliatifs que l'état des personnes accueillies
+requiert, y compris les plans de formation spécifique des personnels. 
+
+Le projet d'établissement comporte alors les actions de coopération nécessaires à la réalisation du volet relatif aux soins
+palliatifs, le cas échéant dans le cadre des réseaux sociaux ou médico-sociaux mentionnés à l'article L. 312-7. 
+
+La démarche de soins palliatifs du projet d'établissement ou de service est élaborée par le directeur de l'établissement et
+le médecin coordinateur ou le médecin de l'établissement en concertation avec les professionnels intervenant dans
+l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-122 du 6 février 2006 - art. 1 () JORF 7 février 2006
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L311-8 (V)
+	  - Code de l'action sociale et des familles - art. L312-7 (V)
 
 
 #### Chapitre II : Organisation de l'action sociale et médico-sociale
