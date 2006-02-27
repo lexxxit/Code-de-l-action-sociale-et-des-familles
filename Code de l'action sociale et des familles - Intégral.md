@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-02-19
+Version Consolidée au 2006-02-28
 
 # Partie législative
 
@@ -66535,20 +66535,19 @@ les pouvoirs qu'il tient notamment de l'article L. 313-16 et du titre III du liv
 ###### Article R314-63
 
 Les décisions du juge du tarif ayant autorité de chose jugée sont mises en oeuvre lors de l'exercice au cours duquel elles
-sont notifiées à l'autorité de tarification, par une décision budgétaire modificative.
+sont notifiées à l'autorité de tarification, par une décision budgétaire modificative. 
 
 Lorsqu'une décision du juge du tarif passée en force de chose jugée fixe, ou entraîne nécessairement, une modification du
-tarif pour un exercice déjà clos, l'exécution de la décision peut, avec l'accord ou à la demande de l'établissement ou du
-service, et si l'autorité de tarification compétente pour exécuter la décision est la même que l'autorité de tarification
-compétente pour fixer le tarif de l'exercice en cours, faire l'objet de modalités comptables et financières simplifiées :
+tarif pour un exercice déjà clos, l'exécution de la décision fait l'objet, en application de l'article L. 351-6, des
+modalités comptables et financières suivantes : 
 
 1° Les dépenses approuvées de l'exercice sont abondées ou minorées du montant correspondant, respectivement, aux dépenses
-rétablies ou supprimées par le juge du tarif ;
+rétablies ou supprimées par le juge du tarif ; 
 
 2° Lorsque ces dépenses doivent être couvertes par le tarif, les recettes tarifaires de l'exercice sont abondées ou minorées
 pour un montant identique, et font l'objet, soit d'un versement ou d'un reversement, soit d'une majoration ou d'une
 minoration tarifaire. Tout paiement de sommes supplémentaires tient compte, le cas échéant, des avances déjà versées au même
-titre par l'autorité de tarification.
+titre par l'autorité de tarification ainsi que des reprises et des affectations des résultats opérées depuis le recours ; 
 
 3° Le résultat comptable de l'exercice tient compte de cette variation de recettes.
 
@@ -66562,6 +66561,14 @@ titre par l'autorité de tarification.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-233 du 21 février 2006 - art. 4 () JORF 28 février 2006
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L351-6 (V)
 
 	**Cité par**:
 
@@ -76240,17 +76247,13 @@ de Nanterre.
 
 #### Chapitre unique
 
-##### Section 1 : Composition et fonctionnement des juridictions de la tarification sanitaire et sociale
-
-##### Sous-section 1 : Cour nationale de la tarification sanitaire et sociale.
+##### Section 1 : Tribunaux interrégionaux de la tarification sanitaire et sociale.
 
 ###### Article R351-1
 
-Les membres de la Cour mentionnés aux 2° , 9° , 10° et 11° de l'article L. 351-5 sont nommés sur proposition des associations
-et organismes intéressés. Un membre suppléant est nommé en même temps que le membre titulaire et dans les mêmes conditions.
-Il remplace le titulaire en cas d'empêchement de celui-ci et lui succède si le titulaire cesse ses fonctions pour quelque
-cause que ce soit. Si le poste de suppléant devient à son tour vacant, il est pourvu à la vacance dans les conditions prévues
-au dernier alinéa de l'article L. 351-5.
+Le tribunal interrégional compétent pour connaître des recours dirigés contre les décisions mentionnées au VI de l'article L.
+314-1 et aux articles L. 314-9 et L. 351-1 est celui dans le ressort duquel est situé l'établissement ou le service dont la
+tarification ou le classement global des résidents par niveau de dépendance est contesté.
 
 **Liens relatifs à cet article**
 
@@ -76263,9 +76266,15 @@ au dernier alinéa de l'article L. 351-5.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-233 du 21 février 2006 - art. 1 () JORF 28 février 2006
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L351-5 (M)
+	  - Code de l'action sociale et des familles - art. L314-1 (V)
+	  - Code de l'action sociale et des familles - art. L314-9 (V)
+	  - Code de l'action sociale et des familles - art. L351-1 (V)
 
 	**Cité par**:
 
@@ -76274,8 +76283,18 @@ au dernier alinéa de l'article L. 351-5.
 
 ###### Article R351-2
 
-La nomination des membres mentionnés à l'article R. 351-1 ainsi que celle des conseillers d'Etat est faite pour une période
-de six ans renouvelable qui court à compter de la publication de l'arrêté de nomination.
+Le siège et le ressort des tribunaux interrégionaux de la tarification sanitaire et sociale institués par l'article L. 351-1
+sont ainsi fixés : 
+
+Bordeaux : Aquitaine, Languedoc-Roussillon, Limousin, Midi-Pyrénées, Poitou-Charentes ; 
+
+Lyon : Auvergne, Corse, Provence-Alpes-Côte d'Azur, Rhône-Alpes ; 
+
+Nancy : Alsace, Bourgogne, Champagne-Ardenne, Franche-Comté, Lorraine, Nord-Pas-de-Calais, Picardie ; 
+
+Nantes : Basse-Normandie, Bretagne, Centre, Haute-Normandie, Pays de la Loire, Saint-Pierre-et-Miquelon ; 
+
+Paris : Ile-de-France, Guadeloupe, Guyane, Martinique, Réunion.
 
 **Liens relatifs à cet article**
 
@@ -76288,9 +76307,13 @@ de six ans renouvelable qui court à compter de la publication de l'arrêté de 
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-233 du 21 février 2006 - art. 1 () JORF 28 février 2006
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. R351-1 (M)
+	  - Code de l'action sociale et des familles - art. L351-1 (V)
 
 	**Cité par**:
 
@@ -76299,11 +76322,11 @@ de six ans renouvelable qui court à compter de la publication de l'arrêté de 
 
 ###### Article R351-3
 
-Les membres mentionnés aux 2° , 3° , 9° , 10° et 11° de l'article L. 351-5 qui perdent la qualité à raison de laquelle ils
-ont été nommés sont immédiatement remplacés.
+Les membres appelés à siéger aux tribunaux interrégionaux de la tarification sanitaire et sociale au titre du 1° de l'article
+L. 351-2 sont nommés par le président de la cour administrative d'appel du siège du tribunal au sein d'une liste comportant
+au moins huit noms établie par le préfet de région de ce siège. 
 
-Le remplaçant de toute personne qui cesse d'être membre de la Cour demeure en fonctions pour la durée restant à courir du
-mandat de son prédécesseur.
+Cette nomination intervient après avis du président du tribunal interrégional de la tarification sanitaire et sociale.
 
 **Liens relatifs à cet article**
 
@@ -76316,9 +76339,13 @@ mandat de son prédécesseur.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-233 du 21 février 2006 - art. 1 () JORF 28 février 2006
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L351-5 (M)
+	  - Code de l'action sociale et des familles - art. L351-2 (V)
 
 	**Cité par**:
 
@@ -76327,14 +76354,20 @@ mandat de son prédécesseur.
 
 ###### Article R351-4
 
-La Cour siège soit en formation plénière, soit en formation ordinaire.
+Les membres appelés à siéger aux tribunaux interrégionaux de la tarification sanitaire et sociale au titre des 2° et 3° de
+l'article L. 351-2 sont nommés par le président de la cour administrative d'appel du siège du tribunal au sein de listes
+comportant chacune au moins quatre noms, proposées respectivement par le président du comité régional de l'organisation
+sociale et médico-sociale et par le président du comité régional de l'organisation sanitaire du siège du tribunal au nom des
+collèges mentionnés aux 2° et 3° de l'article L. 351-2.
 
-La formation plénière comprend tous les membres prévus à l'article L. 351-5. Elle est présidée par le président de la section
-sociale du Conseil d'Etat ou, en cas d'empêchement, par l'un des conseillers d'Etat mentionnés au 1° de l'article L. 351-5.
+Ces collèges sont réunis à la demande du président du tribunal interrégional de la tarification sanitaire et sociale dans le
+délai d'un mois au moins avant la date de renouvellement du mandat des membres du tribunal. Ils délibèrent des candidatures
+déposées auprès des présidents des comités régionaux et communiquées aux membres de ces collèges cinq jours au moins avant la
+date de la réunion. Il est, le cas échéant, procédé par vote des membres présents au scrutin uninominal majoritaire sur
+chacune des candidatures présentées. Le vote est secret.
 
-La formation ordinaire est présidée par l'un des deux conseillers d'Etat mentionnés au 1° de l'article L. 351-5 et comprend
-les membres énumérés du 2° au 11° de cet article. Cette formation ou son président peuvent renvoyer toute affaire à la
-formation plénière.
+La nomination des personnalités retenues intervient après avis du président du tribunal interrégional de la tarification
+sanitaire et sociale.
 
 **Liens relatifs à cet article**
 
@@ -76347,9 +76380,13 @@ formation plénière.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-233 du 21 février 2006 - art. 1 () JORF 28 février 2006
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L351-5 (M)
+	  - Code de l'action sociale et des familles - art. L351-2 (M)
 
 	**Cité par**:
 
@@ -76358,16 +76395,13 @@ formation plénière.
 
 ###### Article R351-5
 
-Les commissaires du Gouvernement sont désignés par le ou les ministres chargés de la sécurité sociale, de la santé et de
-l'action sociale parmi les membres du Conseil d'Etat, de la Cour des comptes, des tribunaux administratifs et des cours
-administratives d'appel.
+Si, avant l'expiration de son mandat, l'un des membres titulaires d'un tribunal interrégional de tarification sanitaire et
+sociale démissionne ou se trouve dans l'impossibilité d'exercer son mandat ou s'il cesse de remplir les conditions requises
+pour exercer ses fonctions, il est remplacé par un membre suppléant.
 
-Les rapporteurs peuvent être soit des membres de la Cour nationale, soit des membres des corps mentionnés au premier alinéa,
-soit des fonctionnaires de catégorie A, en activité ou honoraires, désignés par arrêté du ou des ministres chargés de la
-sécurité sociale, de la santé et de l'action sociale.
-
-Les désignations sont faites après accord, selon le cas, du vice-président du Conseil d'Etat, du premier président de la Cour
-des comptes, du président de la juridiction ou de l'autorité dont relève l'intéressé.
+Au cas où pour l'une des causes mentionnées ci-dessus aucun suppléant n'est en mesure d'exercer ce mandat, il est procédé à
+une désignation complémentaire d'un titulaire et d'un suppléant dans le délai de deux mois selon la procédure prévue aux
+articles R. 351-3 et R. 351-4. Dans ce cas, les listes présentées doivent comporter au moins quatre noms.
 
 **Liens relatifs à cet article**
 
@@ -76380,11 +76414,29 @@ des comptes, du président de la juridiction ou de l'autorité dont relève l'in
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-233 du 21 février 2006 - art. 1 () JORF 28 février 2006
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. R351-3 (M)
+	  - Code de l'action sociale et des familles - art. R351-4 (M)
+
 
 ###### Article R351-6
 
-Le secrétaire et le secrétaire adjoint de la Cour nationale sont désignés par le ou les ministres chargés de la sécurité
-sociale, de la santé et de l'action sociale.
+Les rapporteurs qui ne sont pas membres du tribunal sont nommés pour cinq ans par le président du tribunal interrégional soit
+parmi les membres du corps des tribunaux administratifs et des cours administratives d'appel, du corps des magistrats des
+chambres régionales des comptes ou parmi les magistrats de l'ordre judiciaire, en activité ou honoraires, après accord du
+président de la juridiction dont ils relèvent, soit parmi les fonctionnaires et agents publics de catégorie A en activité ou
+honoraires proposés par le préfet de région du siège du tribunal. 
+
+Ils peuvent aussi être choisis en tant que de besoin au sein d'une liste de personnalités n'appartenant pas aux catégories
+mentionnées au précédent alinéa et désignées en raison de leur compétence particulière en matière de santé, de sécurité
+sociale ou d'action sociale établie par arrêté des ministres chargés de la justice, de la santé et de l'aide sociale. 
+
+Les rapporteurs qui ne sont pas des magistrats satisfont aux dispositions du septième alinéa de l'article L. 351-2.
 
 **Liens relatifs à cet article**
 
@@ -76397,23 +76449,30 @@ sociale, de la santé et de l'action sociale.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
 
-##### Sous-section 2 : Tribunaux interrégionaux de la tarification sanitaire et sociale.
+	  - Décret n°2006-233 du 21 février 2006 - art. 1 () JORF 28 février 2006
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L351-2 (V)
+
 
 ###### Article R351-7
 
-Le siège et le ressort des tribunaux interrégionaux de la tarification sanitaire et sociale instituées par l'article L. 351-1
-sont ainsi fixés :
+Le greffe des audiences et l'exécution des actes de procédure sont assurés par le greffier du tribunal éventuellement assisté
+d'un ou plusieurs collaborateurs.
 
-Bordeaux : Aquitaine, Languedoc-Roussillon, Limousin, Midi-Pyrénées, Poitou-Charentes ;
+Ceux-ci sont désignés par le préfet de région du siège du tribunal parmi les fonctionnaires et agents publics de l'Etat après
+avis du président du tribunal interrégional de la tarification sanitaire et sociale.
 
-Lyon : Auvergne, Corse, Provence-Alpes-Côte d'Azur, Rhône-Alpes ;
+Ces agents sont placés sous l'autorité du président de la juridiction.
 
-Nancy : Alsace, Bourgogne, Champagne-Ardenne, Franche-Comté, Lorraine, Nord-Pas-de-Calais, Picardie ;
+Les frais de fonctionnement du tribunal interrégional de la tarification sanitaire et sociale sont à la charge des ministères
+chargés des affaires sociales.
 
-Nantes : Basse-Normandie, Bretagne, Centre, Haute-Normandie, Pays de la Loire ;
-
-Paris : Ile-de-France, Guadeloupe, Guyane, Martinique, Réunion.
+Dans le cas où ces agents n'exerceraient pas la totalité de leurs fonctions au titre du greffe, ils ne peuvent exercer le
+reste de leur activité au sein de services directement ou indirectement en charge de tarification sanitaire ou sociale.
 
 **Liens relatifs à cet article**
 
@@ -76426,15 +76485,20 @@ Paris : Ile-de-France, Guadeloupe, Guyane, Martinique, Réunion.
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'action sociale et des familles - art. L351-1 (M)
+	  - Décret n°2006-233 du 21 février 2006 - art. 1 () JORF 28 février 2006
 
+
+##### Section 2 : Cour nationale de la tarification sanitaire et sociale.
 
 ###### Article R351-8
 
-Le tribunal interrégional compétent pour connaître des recours dirigés contre les décisions mentionnées à l'article L. 351-1
-est celui dans le ressort duquel est situé l'établissement ou service dont la tarification est contestée.
+Les membres appelés à siéger à la Cour nationale de la tarification sanitaire et sociale au titre du 1° de l'article L. 351-5
+sont nommés par le vice-président du Conseil d'Etat au sein d'une liste comportant au moins douze noms proposés par les
+ministres chargés de la sécurité sociale, de la santé et de l'action sociale. 
+
+Cette nomination intervient après avis du président de la Cour nationale de la tarification sanitaire et sociale.
 
 **Liens relatifs à cet article**
 
@@ -76447,9 +76511,13 @@ est celui dans le ressort duquel est situé l'établissement ou service dont la 
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-233 du 21 février 2006 - art. 2 () JORF 28 février 2006
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L351-1 (M)
+	  - Code de l'action sociale et des familles - art. L351-5 (V)
 
 	**Cité par**:
 
@@ -76458,45 +76526,20 @@ est celui dans le ressort duquel est situé l'établissement ou service dont la 
 
 ###### Article R351-9
 
-Le tribunal interrégional comprend outre son président et le commissaire du Gouvernement, treize membres :
+Les membres appelés à siéger à la Cour nationale de la tarification sanitaire et sociale au titre du 2° de l'article L. 351-5
+sont nommés par le vice-président du Conseil d'Etat au sein d'une liste comportant au moins douze noms proposée par le
+président du Comité national de l'organisation sanitaire et sociale au nom du collège mentionné au 2° de l'article L. 351-5. 
 
-1° Un membre de la cour administrative d'appel ou d'un tribunal administratif du ressort, nommé sur proposition du président
-de la juridiction à laquelle il appartient ;
+Les membres du collège sont réunis à la demande du président de la Cour nationale de la tarification sanitaire et sociale par
+le président du Comité national de l'organisation sanitaire et sociale dans le délai d'un mois au moins avant la date de
+renouvellement du mandat des membres de la cour. 
 
-2° Le directeur régional des affaires sanitaires et sociales du siège du tribunal, ou son représentant ;
+Le collège délibère des candidatures déposées auprès du président du Comité national de l'organisation sanitaire et sociale
+et communiquées aux membres du collège cinq jours au moins avant la date de la réunion. Il est, le cas échéant, procédé par
+vote au scrutin uninominal majoritaire sur chacune des candidatures présentées. Le vote est secret. 
 
-3° Un médecin de la direction régionale des affaires sanitaires et sociales du siège du tribunal ;
-
-4° Le trésorier-payeur général du département du siège du tribunal, ou son représentant ;
-
-5° Le directeur régional de la protection judiciaire de la jeunesse du siège du tribunal, ou son représentant ;
-
-6° Deux conseillers généraux, désignés par l'association dite assemblée des départements de France, élus dans le ressort du
-tribunal ;
-
-7° Deux représentants d'organismes gestionnaires de régimes obligatoires d'assurance maladie dont un représentant au moins de
-la caisse régionale d'assurance maladie du siège du tribunal ;
-
-8° Un représentant des groupements mutualistes régis par le code de la mutualité assurant la réparation ou la prévention des
-risques sociaux, désigné par les comités départementaux de coordination de la mutualité du ressort parmi les membres de ces
-comités ;
-
-9° Un représentant des établissements publics de santé situés dans le ressort et désigné par la fédération hospitalière de
-France ;
-
-10° un représentant de l'union nationale interfédérale des oeuvres et organismes privés sanitaires et sociaux, désigné par
-celle-ci, en activité dans le ressort ;
-
-11° un représentant des établissements privés de santé à but non lucratif situés dans le ressort et désigné par la fédération
-des établissements hospitaliers et d'assistance privés à but non lucratif.
-
-Un membre suppléant est désigné pour chacun des membres titulaires du tribunal interrégional mentionnés aux 1° , 3° et 6° à
-11° dans les mêmes conditions. Il remplace le titulaire en cas d'empêchement de celui-ci et lui succède si le titulaire cesse
-ses fonctions pour quelque cause que ce soit. Si le poste de suppléant devient à son tour vacant, il est pourvu à la vacance
-dans les mêmes conditions qu'à la désignation.
-
-La liste des membres du tribunal est fixée par arrêté du préfet de région du siège. Cet arrêté est publié au recueil des
-actes administratifs des préfectures de région du ressort.
+La nomination des personnalités retenues intervient après avis du président de la Cour nationale de la tarification sanitaire
+et sociale.
 
 **Liens relatifs à cet article**
 
@@ -76509,6 +76552,14 @@ actes administratifs des préfectures de région du ressort.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-233 du 21 février 2006 - art. 2 () JORF 28 février 2006
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L351-5 (V)
+
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. R351-10 (V)
@@ -76516,14 +76567,13 @@ actes administratifs des préfectures de région du ressort.
 
 ###### Article R351-10
 
-Les membres du tribunal interrégional mentionnés aux 1° , 3° et 6° à 11° de l'article R. 351-9 sont désignés pour une période
-de six ans, renouvelable, qui court à compter de la publication de l'arrêté mentionné au même article.
+Si, avant l'expiration de son mandat, l'un des membres titulaires de la Cour nationale de la tarification sanitaire et
+sociale démissionne ou se trouve dans l'impossibilité d'exercer son mandat ou s'il cesse de remplir les conditions requises
+pour exercer ses fonctions, il est remplacé par un membre suppléant.
 
-Les membres qui perdent la qualité à raison de laquelle ils ont été désignés sont immédiatement remplacés dans les conditions
-fixées à l'article R. 351-9.
-
-Le remplaçant de toute personne qui cesse d'être membre du tribunal demeure en fonctions pour la durée restant à courir du
-mandat de son prédécesseur.
+Au cas où pour l'une des causes mentionnées ci-dessus aucun suppléant n'est en mesure d'exercer ce mandat, il est procédé à
+une désignation complémentaire d'un titulaire et d'un suppléant dans le délai de deux mois selon la procédure prévue aux
+articles R. 351-8 et R. 351-9. Dans ce cas, les listes présentées doivent comporter au moins quatre noms.
 
 **Liens relatifs à cet article**
 
@@ -76536,16 +76586,28 @@ mandat de son prédécesseur.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-233 du 21 février 2006 - art. 2 () JORF 28 février 2006
+
 	**Cite**:
 
+	  - Code de l'action sociale et des familles - art. R351-8 (M)
 	  - Code de l'action sociale et des familles - art. R351-9 (M)
 
 
 ###### Article R351-11
 
-Un ou plusieurs membres d'une cour administrative d'appel ou d'un tribunal administratif du ressort sont chargés des
-fonctions de commissaire du Gouvernement et nommés par le préfet de région du siège du tribunal sur proposition du président
-de la juridiction à laquelle ils appartiennent.
+La cour siège soit en formation plénière, soit en formation restreinte. 
+
+La formation plénière comprend, outre le rapporteur, les sept membres mentionnés à l'article L. 351-5. Elle est présidée par
+la président de la section sociale du Conseil d'Etat ou par le conseiller d'Etat désigné en application du premier alinéa de
+l'article L. 351-5. 
+
+La formation restreinte comprend, outre le rapporteur, trois membres dont obligatoirement un membre désigné au titre du 1° et
+un membre désigné au titre du 2° de l'article L. 351-5. 
+
+La formation restreinte ou son président peuvent à tout moment renvoyer l'affaire à la formation plénière.
 
 **Liens relatifs à cet article**
 
@@ -76558,11 +76620,29 @@ de la juridiction à laquelle ils appartiennent.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-233 du 21 février 2006 - art. 2 () JORF 28 février 2006
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L351-5 (V)
+
 
 ###### Article R351-12
 
-Les rapporteurs sont choisis parmi les membres du tribunal interrégional ou, en dehors de celle-ci, parmi les magistrats de
-l'ordre administratif ou les fonctionnaires de catégorie A en fonctions dans le ressort ou honoraires.
+Les rapporteurs qui ne sont pas membres de la cour sont nommés pour cinq ans par le président de la Cour nationale de la
+tarification sanitaire et sociale soit parmi les membres du Conseil d'Etat, de la Cour des comptes, du corps des tribunaux
+administratifs et des cours administratives d'appel, du corps des magistrats des chambres régionales des comptes ou parmi les
+magistrats de l'ordre judiciaire, en activité ou honoraires, après accord du président de la juridiction dont ils relèvent,
+soit parmi les fonctionnaires et agents publics de catégorie A en activité ou honoraires proposés par les ministres chargés
+de la sécurité sociale, de la santé et de l'action sociale. 
+
+Ils peuvent aussi être choisis en tant que de besoin au sein d'une liste de personnalités n'appartenant pas aux catégories
+mentionnées au précédent alinéa et désignées en raison de leur compétence particulière en matière de santé, de sécurité
+sociale ou d'action sociale établie par arrêté des ministres chargés de la justice, de la santé et de l'aide sociale. 
+
+Les rapporteurs qui ne sont pas des magistrats satisfont aux dispositions du cinquième alinéa de l'article L. 351-5.
 
 **Liens relatifs à cet article**
 
@@ -76575,11 +76655,18 @@ l'ordre administratif ou les fonctionnaires de catégorie A en fonctions dans le
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-233 du 21 février 2006 - art. 2 () JORF 28 février 2006
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L351-5 (V)
+
 
 ###### Article R351-13
 
-Les rapporteurs qui ne sont pas membres du tribunal interrégional sont nommés par le préfet de région du siège du tribunal,
-sur proposition du président du tribunal, après accord du président de la juridiction ou de l'autorité dont ils relèvent.
+Les commissaires du Gouvernement mentionnés à l'article L. 351-5 sont désignés par le vice-président du Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -76592,13 +76679,30 @@ sur proposition du président du tribunal, après accord du président de la jur
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-233 du 21 février 2006 - art. 2 () JORF 28 février 2006
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L351-5 (V)
+
 
 ###### Article R351-14
 
-Un greffe du tribunal est désigné par le préfet de région du siège du tribunal parmi les agents de la direction régionale des
-affaires sanitaires et sociales.
+Le greffe des audiences et l'exécution des actes de procédure sont assurés par le greffier de la cour nationale et un
+greffier adjoint éventuellement assistés d'un ou plusieurs collaborateurs.
 
-Les frais de fonctionnement du tribunal et de son secrétariat sont à la charge de l'Etat.
+Ceux-ci sont désignés par les ministres chargés de la sécurité sociale, de la santé et de l'action sociale après avis du
+président de la Cour nationale de la tarification sanitaire et sociale.
+
+Ils sont placés sous l'autorité du président de la juridiction.
+
+Dans le cas où ces agents n'exerceraient pas la totalité de leurs fonctions au titre du greffe, ils ne peuvent exercer le
+reste de leur activité au sein de services directement ou indirectement en charge de tarification sanitaire ou sociale.
+
+Les frais de fonctionnement de la Cour nationale de la tarification sanitaire et sociale sont à la charge des ministères
+chargés des affaires sociales.
 
 **Liens relatifs à cet article**
 
@@ -76613,12 +76717,10 @@ Les frais de fonctionnement du tribunal et de son secrétariat sont à la charge
 
 	**Modifié par**:
 
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+	  - Décret n°2006-233 du 21 février 2006 - art. 2 () JORF 28 février 2006
 
 
-##### Section 2 : Règles de procédures applicables
-
-##### Sous-section 1 : Introduction des recours.
+##### Section 3 : Dispositions procédurales applicables à la juridiction de la tarification sanitaire et sociale.
 
 ###### Article R351-15
 
@@ -76626,24 +76728,27 @@ Les recours mentionnés à l'article L. 351-3 doivent être exercés dans le dé
 publication de la décision attaquée ou à l'égard des personnes et organismes auxquels elle est notifiée à compter de la date
 de notification.
 
+Les délais supplémentaires de distance prévus aux articles 643 et 644 du nouveau code de procédure civile s'ajoutent au délai
+prévu au premier alinéa du présent article.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L351-3 (M)
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. R351-17 (V)
 
 	**Anciens textes**:
 
 	  - Code de la famille et de l'aide sociale art. 201-1 al. 2
 	  - Code de la famille et de l'aide sociale. - art. 201-1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R351-17 (V)
 
 
 ###### Article R351-16
@@ -76659,11 +76764,11 @@ décision.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+	  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L351-4 (M)
+	  - Code de l'action sociale et des familles - art. L351-4 (V)
 
 	**Cité par**:
 
@@ -76694,6 +76799,10 @@ Les délais de recours d'un mois institués par les articles R. 351-15 et R. 351
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
+
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. R351-15 (M)
@@ -76716,6 +76825,10 @@ l'autorité de tarification.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
 
 
 ###### Article R351-19
@@ -76740,7 +76853,7 @@ Les recours, mémoires et observations doivent être accompagnés de quatre copi
 
 	**Modifié par**:
 
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+	  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
 
 	**Cité par**:
 
@@ -76749,15 +76862,14 @@ Les recours, mémoires et observations doivent être accompagnés de quatre copi
 	  - Code de l'action sociale et des familles - art. R351-30 (V)
 
 
-##### Sous-section 2 : Instruction des recours et clôture de l'instruction.
-
 ###### Article R351-20
 
 Immédiatement après son enregistrement, le recours formé devant le tribunal interrégional est communiqué, par les soins du
 greffe, à l'auteur de la décision litigieuse, ainsi qu'à l'organisme gestionnaire de l'établissement ou du service dont la
 tarification est contestée, si cet établissement ou service n'est pas l'auteur du recours. Le recours est également
-communiqué à la direction régionale des affaires sanitaires et sociales ainsi qu'au préfet du département où est situé ledit
-établissement ou service lorsqu'il n'est pas l'auteur de la décision litigieuse.
+communiqué à la direction régionale des affaires sanitaires et sociales, à la caisse régionale d'assurance maladie lorsqu'il
+concerne un établissement financé en totalité ou en partie par des organismes de sécurité sociale ainsi qu'au préfet du
+département où est situé ledit établissement ou service lorsqu'il n'est pas l'auteur de la décision litigieuse.
 
 **Liens relatifs à cet article**
 
@@ -76770,12 +76882,17 @@ communiqué à la direction régionale des affaires sanitaires et sociales ainsi
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
+
 
 ###### Article R351-21
 
 Immédiatement après son enregistrement, le recours formé devant la Cour nationale est communiqué par les soins du greffe aux
-parties défenderesses. Lorsque le préfet du département où est situé l'établissement ou service concerné n'est pas partie, le
-recours lui est également communiqué.
+parties défenderesses ainsi qu'à la Caisse nationale d'assurance maladie des travailleurs salariés lorsqu'il concerne un
+établissement financé en totalité ou en partie par des organismes de sécurité sociale. Lorsque le préfet du département où
+est situé l'établissement ou service concerné n'est pas partie, le recours lui est également communiqué.
 
 **Liens relatifs à cet article**
 
@@ -76787,6 +76904,10 @@ recours lui est également communiqué.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
 
 
 ###### Article R351-22
@@ -76807,6 +76928,10 @@ les raisons pour lesquelles l'établissement ou service requérant ne répondait
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
 
 	**Cite**:
 
@@ -76833,7 +76958,7 @@ en demeure.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+	  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
 
 	**Cité par**:
 
@@ -76855,6 +76980,10 @@ suivant cette communication.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
 
 	**Cité par**:
 
@@ -76879,13 +77008,37 @@ déplacement du dossier, au greffe de la juridiction.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+	  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
 
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. R351-19 (M)
 	  - Code de l'action sociale et des familles - art. R351-23 (M)
 	  - Code de l'action sociale et des familles - art. R351-24 (M)
+
+
+###### Article R351-25-1
+
+Lorsque la décision lui paraît susceptible d'être fondée sur un moyen relevé d'office, le président de la formation de
+jugement en informe les parties avant la séance de jugement et fixe le délai dans lequel elles peuvent présenter leurs
+observations sur le moyen communiqué.
+
+Les dispositions du présent article ne sont pas applicables lorsqu'il est fait application des dispositions de l'article R.
+351-28.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. R351-28 (M)
 
 
 ###### Article R351-26
@@ -76906,7 +77059,7 @@ enregistrée après l'expiration de ce délai.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+	  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
 
 
 ###### Article R351-27
@@ -76927,14 +77080,30 @@ l'autorité que désigne le président.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+	  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
 
 
 ###### Article R351-28
 
-Le président de la juridiction peut, par ordonnance, donner acte des désistements, constater qu'il n'y a pas lieu de statuer
-sur un recours et rejeter les conclusions entachées d'une irrecevabilité manifeste non susceptible d'être couverte en cours
-d'instance.
+Les présidents des tribunaux interrégionaux et de la cour nationale peuvent par ordonnance :
+
+1° Donner acte des désistements ;
+
+2° Rejeter les requêtes ne relevant manifestement pas de la compétence de la juridiction tarifaire ;
+
+3° Constater qu'il n'y a pas lieu de statuer sur une requête ;
+
+4° Rejeter les requêtes irrecevables présentées en méconnaissance de l'article R. 351-19 ainsi que celles qui sont entachées
+d'une irrecevabilité manifeste non susceptible d'être couverte en cours d'instance ;
+
+5° Statuer sur les requêtes qui ne présentent plus à juger de questions autres que la charge des dépens ou la condamnation
+aux frais non compris dans les dépens ;
+
+6° Statuer sur les requêtes relevant d'une série, qui, sans appeler de nouvelle appréciation ou qualification des faits,
+présentent à juger en droit des questions identiques à celles qu'elle a déjà tranchées ensemble par une même décision passée
+en force de chose jugée.
+
+Ils peuvent, en outre, rejeter par ordonnance des conclusions à fin de sursis à exécution d'une décision juridictionnelle.
 
 **Liens relatifs à cet article**
 
@@ -76948,21 +77117,47 @@ d'instance.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+	  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
 
 	**Cité par**:
 
 	  - Code de justice administrative - art. R822-5 (VD)
 	  - Code de l'action sociale et des familles - art. R351-25-1 (V)
 
+	**Cite**:
 
-##### Sous-section 3 : Séance de jugement et notification.
+	  - Code de l'action sociale et des familles - art. R351-19 (M)
+
+
+###### Article R351-28-1
+
+Lorsque le président d'un tribunal interrégional ou de la cour nationale constate que la minute d'une décision est entachée
+d'une erreur ou d'une omission matérielle, il peut y apporter, par ordonnance rendue dans le délai de deux mois à compter de
+la notification aux parties de cette décision, les corrections que la raison commande.
+
+La notification de l'ordonnance rectificative rouvre le délai d'appel contre le jugement ou l'ordonnance ainsi corrigés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
+
 
 ###### Article R351-29
 
+Avant de clore le dossier d'instruction, le président de la juridiction demande à l'établissement ou au service concerné
+ainsi qu'à l'autorité de tarification de lui communiquer les pièces relatives à toute décision de nature financière
+intervenue postérieurement au recours en première instance ou en appel, notamment celles modifiant le montant d'un ou
+plusieurs des éléments tarifaires mentionnés à l'article L. 351-1. 
+
 Le dossier du recours est, après clôture de l'instruction, remis au rapporteur désigné par le président de la juridiction. Le
 rapporteur prépare, sur chaque affaire, un rapport et un projet de décision ou de jugement, qui sont ensuite transmis avec le
-dossier au commissaire du Gouvernement que désigne le président.
+dossier au commissaire du Gouvernement que désigne le président. 
 
 Le commissaire du Gouvernement, après examen du recours, l'inscrit à un rôle de séance. Le rôle est définitivement arrêté par
 le président. Avis est donné, par lettre recommandée, aux parties dont les affaires sont inscrites au rôle de la date de la
@@ -76980,7 +77175,11 @@ séance de jugement, dix jours au moins avant celle-ci.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+	  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L351-1 (V)
 
 
 ###### Article R351-30
@@ -77001,6 +77200,10 @@ Le commissaire du Gouvernement donne ensuite ses conclusions et l'affaire est mi
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
+
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. R351-19 (M)
@@ -77008,10 +77211,9 @@ Le commissaire du Gouvernement donne ensuite ses conclusions et l'affaire est mi
 
 ###### Article R351-31
 
-La Cour nationale ne peut siéger en formation plénière que si au moins huit de ses membres sont présents. Elle ne peut siéger
-en formation ordinaire que si sept de ses membres sont présents.
+La Cour nationale ne peut siéger en formation plénière que si au moins cinq de ses membres sont présents.
 
-Le tribunal interrégional ne peut siéger que si au moins huit de ses membres sont présents.
+Le tribunal interrégional ne peut siéger que si au moins trois de ses membres sont présents.
 
 **Liens relatifs à cet article**
 
@@ -77024,12 +77226,15 @@ Le tribunal interrégional ne peut siéger que si au moins huit de ses membres s
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
+
 
 ###### Article R351-32
 
-Les rapporteurs pris hors les membres du tribunal ont voix délibérative dans les affaires qu'ils rapportent.
-
-En cas d'égal partage des voix, celle du président est prépondérante.
+Le membre de la juridiction qui suppose en sa personne une cause de récusation ou estime en conscience devoir s'abstenir se
+fait remplacer par un autre membre de la juridiction que désigne le président de la juridiction.
 
 **Liens relatifs à cet article**
 
@@ -77041,6 +77246,10 @@ En cas d'égal partage des voix, celle du président est prépondérante.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
 
 
 ###### Article R351-33
@@ -77062,7 +77271,7 @@ fixant le délai dans lequel il doit y être procédé.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+	  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
 
 
 ###### Article R351-34
@@ -77084,6 +77293,10 @@ au jugement.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
+
 
 ###### Article R351-35
 
@@ -77103,7 +77316,7 @@ décision annulée le soin d'en fixer le montant sur les bases qu'il indique.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+	  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
 
 
 ###### Article R351-36
@@ -77120,16 +77333,23 @@ L'expédition du jugement porte la formule exécutoire suivante :
 huissiers à ce requis en ce qui concerne les voies de droit commun contre les parties privées, de pourvoir à l'exécution du
 présent jugement."
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°90-359 1990-04-11 art. 36
 	  - Décret n°90-359 du 11 avril 1990 - art. 36 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
 
 
 ###### Article R351-37
@@ -77148,12 +77368,14 @@ préfecture du département où est situé l'établissement ou service concerné
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
+
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. R543-5 (V)
 
-
-##### Sous-section 4 : Voies de recours.
 
 ###### Article R351-38
 
@@ -77169,6 +77391,10 @@ Les jugements des tribunaux interrégionaux ne sont pas susceptibles d'oppositio
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
 
 
 ###### Article R351-39
@@ -77186,6 +77412,10 @@ quinze jours à partir de la notification qui lui a été faite.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
 
 
 ###### Article R351-40
@@ -77207,8 +77437,10 @@ d'un mois à compter de cette notification.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
 
-##### Section 3 : Dispositions diverses.
+	  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
+
 
 ###### Article R351-41
 
@@ -77226,6 +77458,10 @@ fixé par arrêté des ministres chargés de la sécurité sociale, de la santé
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-233 du 21 février 2006 - art. 3 () JORF 28 février 2006
 
 
 ## Livre IV : Professions et activités d'accueil
