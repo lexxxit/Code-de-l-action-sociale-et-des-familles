@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-02-28
+Version Consolidée au 2006-03-01
 
 # Partie législative
 
@@ -66696,6 +66696,31 @@ groupes fonctionnels ou des sections tarifaires, mentionnés au II de l'article 
 
 	  - Code de l'action sociale et des familles - art. R314-13 (M)
 	  - Code de l'action sociale et des familles - art. R314-5 (V)
+
+
+###### Article R314-67-1
+
+Les régies créées par les établissements publics sociaux et médico-sociaux locaux sont soumises aux dispositions de la
+section première du chapitre VII du titre Ier du livre VI de la première partie du code général des collectivités
+territoriales (partie réglementaire).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-1601 du 19 décembre 2005 - art. 19 () JORF 22 décembre 2005 en vigueur le 1er mars 2006
+
+	**Cité par**:
+
+	  - Arrêté du 6 janvier 2014 - art. 13 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales -  Section 1 : Régies de recettes, d'avances, et d... (V)
 
 
 ##### Sous-paragraphe 3 : Exécution du budget.
