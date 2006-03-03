@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-03-02
+Version Consolidée au 2006-03-04
 
 # Partie législative
 
@@ -82347,8 +82347,10 @@ Le diplôme d'Etat de technicien de l'intervention sociale et familiale atteste 
 intervention sociale préventive et réparatrice à travers des activités d'aide à la vie quotidienne et à l'éducation des
 enfants.
 
-Les titulaires du certificat de travailleuse familiale sont, de droit, titulaires du diplôme d'Etat de technicien de
-l'intervention sociale et familiale.
+**Nota:**
+
+Décret 2006-250 2006-03-01 art. 3 : les formations engagées avant le 1er septembre 2006 ainsi que les modalités de délivrance
+des diplômes correspondants restent soumises aux dispositions en vigueur avant la publication du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -82356,9 +82358,9 @@ l'intervention sociale et familiale.
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+	  - Décret n°2006-250 du 1 mars 2006 - art. 1 () JORF 4 mars 2006
 
 	**Anciens textes**:
 
@@ -82373,9 +82375,15 @@ l'intervention sociale et familiale.
 
 ###### Article D451-82
 
-Les titulaires du diplôme d'Etat de technicien de l'intervention sociale et familiale interviennent auprès de familles, de
-personnes en difficulté de vie ou en difficulté sociale, de personnes âgées ou de personnes handicapées, soit à domicile,
-soit en établissement ou service s'inscrivant dans les politiques d'action sociale.
+Le diplôme d'Etat de technicien de l'intervention sociale et familiale est structuré en domaines de compétences et peut être
+obtenu par la voie de la formation ou, en tout ou partie, par la validation des acquis de l'expérience.
+
+Il est délivré par le représentant de l'Etat dans la région.
+
+**Nota:**
+
+Décret 2006-250 2006-03-01 art. 3 : les formations engagées avant le 1er septembre 2006 ainsi que les modalités de délivrance
+des diplômes correspondants restent soumises aux dispositions en vigueur avant la publication du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -82383,9 +82391,9 @@ soit en établissement ou service s'inscrivant dans les politiques d'action soci
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+	  - Décret n°2006-250 du 1 mars 2006 - art. 2 () JORF 4 mars 2006
 
 	**Anciens textes**:
 
@@ -82394,11 +82402,22 @@ soit en établissement ou service s'inscrivant dans les politiques d'action soci
 
 ###### Article D451-83
 
-Le diplôme d'Etat de technicien de l'intervention sociale et familiale sanctionne une formation dispensée par des organismes
-de formation publics ou privés sur une période de dix-huit à vingt-quatre mois selon leur projet pédagogique.
+La formation préparant au diplôme d'Etat de technicien de l'intervention sociale et familiale comprend un enseignement
+théorique et une formation pratique dispensée au cours de stages. 
 
-La formation comprend une formation théorique et une formation pratique sous forme de stages, dont le contenu et les
-modalités sont définies par arrêté du ministre chargé des affaires sociales.
+Cette formation est dispensée par les établissements publics ou privés ayant satisfait à l'obligation de déclaration
+préalable mentionnée à l'article L. 451-1. 
+
+La durée et le contenu de la formation peuvent varier en fonction de l'expérience professionnelle et des diplômes possédés
+par les candidats. 
+
+Les candidats sont soumis à des épreuves d'admission, organisées par les établissements de formation selon les modalités
+figurant dans leur règlement d'admission.
+
+**Nota:**
+
+Décret 2006-250 2006-03-01 art. 3 : les formations engagées avant le 1er septembre 2006 ainsi que les modalités de délivrance
+des diplômes correspondants restent soumises aux dispositions en vigueur avant la publication du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -82406,9 +82425,9 @@ modalités sont définies par arrêté du ministre chargé des affaires sociales
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+	  - Décret n°2006-250 du 1 mars 2006 - art. 2 () JORF 4 mars 2006
 
 	**Cité par**:
 
@@ -82418,18 +82437,21 @@ modalités sont définies par arrêté du ministre chargé des affaires sociales
 
 	  - Code de l'action sociale et des familles - art. D451-71 (T)
 
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L451-1 (V)
+
 
 ###### Article D451-84
 
-En fonction des certificats ou diplômes dont le candidat est déjà titulaire, des allégements de formation portant sur tout ou
-partie des unités de formation théoriques ou des stages peuvent être accordés par le directeur régional des affaires
-sanitaires et sociales sur proposition du directeur de l'organisme de formation et après avis d'une commission. Les
-conditions de mise en oeuvre des allégements sont précisées par arrêté du ministre chargé des affaires sociales.
+Les épreuves du diplôme comprennent des épreuves organisées en cours de formation conformément au dossier de déclaration
+préalable défini à l'article R. 451-2 en détaillant les modalités et des épreuves organisées par le représentant de l'Etat
+dans la région.
 
-La commission d'allégement mentionnée à l'alinéa précédent comprend le directeur régional des affaires sanitaires et sociales
-ou son représentant, président, et trois personnes qualifiées dans le domaine d'intervention des techniciens de
-l'intervention sociale et familiale. Les membres de la commission sont nommés par le directeur régional des affaires
-sanitaires et sociales.
+**Nota:**
+
+Décret 2006-250 2006-03-01 art. 3 : les formations engagées avant le 1er septembre 2006 ainsi que les modalités de délivrance
+des diplômes correspondants restent soumises aux dispositions en vigueur avant la publication du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -82437,28 +82459,40 @@ sanitaires et sociales.
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+	  - Décret n°2006-250 du 1 mars 2006 - art. 2 () JORF 4 mars 2006
 
 	**Anciens textes**:
 
 	  - Code de l'action sociale et des familles - art. D451-72 (T)
 
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. R451-2 (V)
+
 
 ###### Article D451-85
 
-Peuvent accéder à la formation au diplôme d'Etat de technicien de l'intervention sociale et familiale les candidats âgés de
-dix-huit ans au moins au 1er septembre de l'année de la rentrée concernée, inscrits sur une liste d'admission établie par
-chaque organisme de formation au vu des résultats d'un examen de sélection organisé par lesdits organismes, qui comprend :
+Le représentant de l'Etat dans la région nomme le jury du diplôme, qui comprend :
 
-1° Une épreuve écrite visant à évaluer le niveau de culture générale et les aptitudes à l'expression écrite des candidats ;
+1° Le directeur régional des affaires sanitaires ou sociales ou son représentant, président ;
 
-2° Une épreuve orale visant à évaluer les motivations et les aptitudes relationnelles des candidats, dont les modalités
-d'organisation sont fixées par arrêté du ministre chargé des affaires sociales.
+2° Des formateurs issus des établissements de formation, publics ou privés, préparant au diplôme d'Etat de technicien de
+l'intervention sociale et familiale ;
 
-Les candidats justifiant de certains titres, certificats ou diplômes peuvent être dispensés de l'une des deux épreuves de
-l'examen de sélection, dans des conditions fixées par arrêté du ministre chargé des affaires sociales.
+3° Des représentants de l'Etat, des collectivités publiques, de personnes qualifiées dans le champ de l'action sociale et
+médico-sociale ;
+
+4° Pour un quart au moins de ses membres, des représentants qualifiés du secteur professionnel pour moitié employeurs et pour
+moitié salariés.
+
+Ce jury peut, en tant que de besoin, se subdiviser en groupes d'examinateurs.
+
+**Nota:**
+
+Décret 2006-250 2006-03-01 art. 3 : les formations engagées avant le 1er septembre 2006 ainsi que les modalités de délivrance
+des diplômes correspondants restent soumises aux dispositions en vigueur avant la publication du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -82466,9 +82500,9 @@ l'examen de sélection, dans des conditions fixées par arrêté du ministre cha
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+	  - Décret n°2006-250 du 1 mars 2006 - art. 2 () JORF 4 mars 2006
 
 	**Anciens textes**:
 
@@ -82482,20 +82516,13 @@ l'examen de sélection, dans des conditions fixées par arrêté du ministre cha
 
 ###### Article D451-86
 
-L'examen sanctionnant la formation au diplôme d'Etat de technicien de l'intervention sociale et familiale est organisé par le
-directeur régional des affaires sanitaires et sociales de la région d'implantation de l'établissement de formation. Des
-sessions interrégionales peuvent être organisées.
+Les titulaires du certificat de travailleuse familiale sont, de droit, titulaires du diplôme d'Etat de technicien de
+l'intervention sociale et familiale.
 
-Un arrêté du ministre chargé des affaires sociales précise le contenu et les modalités des épreuves.
+**Nota:**
 
-Le diplôme d'Etat de technicien de l'intervention sociale et familiale est délivré par le directeur régional des affaires
-sanitaires et sociales aux candidats ayant obtenu la moyenne à chacune des épreuves.
-
-En cas d'échec à l'examen du diplôme d'Etat de technicien de l'intervention sociale et familiale, les candidats peuvent se
-présenter à nouveau à deux des trois sessions suivantes et conserver le bénéfice des notes supérieures à la moyenne.
-
-Nul ne peut se présenter à plus de trois sessions d'examen du diplôme d'Etat de technicien de l'intervention sociale et
-familiale.
+Décret 2006-250 2006-03-01 art. 3 : les formations engagées avant le 1er septembre 2006 ainsi que les modalités de délivrance
+des diplômes correspondants restent soumises aux dispositions en vigueur avant la publication du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -82503,9 +82530,9 @@ familiale.
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+	  - Décret n°2006-250 du 1 mars 2006 - art. 2 () JORF 4 mars 2006
 
 	**Anciens textes**:
 
@@ -82514,19 +82541,14 @@ familiale.
 
 ###### Article D451-87
 
-Le jury du diplôme d'Etat de technicien de l'intervention sociale et familiale comprend :
+Un arrêté du ministre chargé des affaires sociales précise les compétences professionnelles mentionnées à l'article D.
+451-81, les modalités d'accès à la formation, le contenu et l'organisation de cette formation ainsi que les modalités de
+certification du diplôme d'Etat de technicien de l'intervention sociale et familiale.
 
-1° Un ou plusieurs représentants du directeur régional des affaires sanitaires et sociales ;
+**Nota:**
 
-2° Un ou plusieurs professionnels en exercice diplômés du diplôme d'Etat de technicien de l'intervention sociale et
-familiale ;
-
-3° Une ou plusieurs personnes qualifiées dans le domaine social, médical ou paramédical ;
-
-4° Un ou plusieurs représentants des centres de formation ayant satisfait à l'obligation de déclaration préalable prévue à
-l'article L. 451-1 pour préparer aux diplômes d'Etat de travail social.
-
-Le jury est nommé par le directeur régional des affaires sanitaires et sociales et présidé par lui ou par son représentant.
+Décret 2006-250 2006-03-01 art. 3 : les formations engagées avant le 1er septembre 2006 ainsi que les modalités de délivrance
+des diplômes correspondants restent soumises aux dispositions en vigueur avant la publication du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -82534,9 +82556,9 @@ Le jury est nommé par le directeur régional des affaires sanitaires et sociale
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+	  - Décret n°2006-250 du 1 mars 2006 - art. 2 () JORF 4 mars 2006
 
 	**Anciens textes**:
 
@@ -82545,7 +82567,7 @@ Le jury est nommé par le directeur régional des affaires sanitaires et sociale
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L451-1 (M)
+	  - Code de l'action sociale et des familles - art. D451-81 (M)
 
 
 ##### Paragraphe 10 : Diplôme d'Etat d'auxiliaire de vie sociale.
