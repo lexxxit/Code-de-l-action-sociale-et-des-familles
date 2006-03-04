@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-03-04
+Version Consolidée au 2006-03-05
 
 # Partie législative
 
@@ -81376,7 +81376,7 @@ restent soumises aux dispositions en vigueur avant la publication du présent d�
 	  - Code de l'action sociale et des familles - art. D451-63 (V)
 
 
-##### Paragraphe 4 : Certificat d'aptitude aux fonctions d'éducateur technique spécialisé.
+##### Paragraphe 4 : Diplôme d'Etat aux fonctions d'éducateur technique spécialisé.
 
 ###### Article D451-52
 
@@ -81389,8 +81389,8 @@ techniques.
 
 **Nota:**
 
-Les formations engagées avant la date d'entrée en vigueur du présent décret ainsi que les modalités de délivrance des dipl <
-CB > mes correspondants restent soumises aux dispositions prévues antérieurement.
+Les formations engagées avant la date d'entrée en vigueur du présent décret ainsi que les modalités de délivrance des
+diplômes correspondants restent soumises aux dispositions prévues antérieurement.
 
 **Liens relatifs à cet article**
 
@@ -81400,7 +81400,7 @@ CB > mes correspondants restent soumises aux dispositions prévues antérieureme
 
 	**Modifié par**:
 
-	  - Décret n°2005-1376 du 3 novembre 2005 - art. 1 () JORF 5 novembre 2005
+	  - Décret n°2006-255 du 2 mars 2006 - art. 2 () JORF 5 mars 2006
 
 	**Anciens textes**:
 
@@ -81426,8 +81426,8 @@ sociales, de l'éducation et de la justice détermine les conditions d'applicati
 
 **Nota:**
 
-Les formations engagées avant la date d'entrée en vigueur du présent décret ainsi que les modalités de délivrance des dipl <
-CB > mes correspondants restent soumises aux dispositions prévues antérieurement.
+Les formations engagées avant la date d'entrée en vigueur du présent décret ainsi que les modalités de délivrance des
+diplômes correspondants restent soumises aux dispositions prévues antérieurement.
 
 **Liens relatifs à cet article**
 
@@ -81437,7 +81437,7 @@ CB > mes correspondants restent soumises aux dispositions prévues antérieureme
 
 	**Modifié par**:
 
-	  - Décret n°2005-1376 du 3 novembre 2005 - art. 1 () JORF 5 novembre 2005
+	  - Décret n°2006-255 du 2 mars 2006 - art. 2 () JORF 5 mars 2006
 
 	**Anciens textes**:
 
@@ -81450,7 +81450,7 @@ CB > mes correspondants restent soumises aux dispositions prévues antérieureme
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L451-1 (M)
+	  - Code de l'action sociale et des familles - art. L451-1 (V)
 
 
 ###### Article D451-54
@@ -81462,8 +81462,8 @@ Le même arrêté fixe la nature des épreuves préalables à la délivrance du 
 
 **Nota:**
 
-Les formations engagées avant la date d'entrée en vigueur du présent décret ainsi que les modalités de délivrance des dipl <
-CB > mes correspondants restent soumises aux dispositions prévues antérieurement.
+Les formations engagées avant la date d'entrée en vigueur du présent décret ainsi que les modalités de délivrance des
+diplômes correspondants restent soumises aux dispositions prévues antérieurement.
 
 **Liens relatifs à cet article**
 
@@ -81473,7 +81473,7 @@ CB > mes correspondants restent soumises aux dispositions prévues antérieureme
 
 	**Modifié par**:
 
-	  - Décret n°2005-1376 du 3 novembre 2005 - art. 1 () JORF 5 novembre 2005
+	  - Décret n°2006-255 du 2 mars 2006 - art. 2 () JORF 5 mars 2006
 
 	**Anciens textes**:
 
@@ -81509,8 +81509,8 @@ Le diplôme d'Etat d'éducateur technique spécialisé est délivré par le rect
 
 **Nota:**
 
-Les formations engagées avant la date d'entrée en vigueur du présent décret ainsi que les modalités de délivrance des dipl <
-CB > mes correspondants restent soumises aux dispositions prévues antérieurement.
+Les formations engagées avant la date d'entrée en vigueur du présent décret ainsi que les modalités de délivrance des
+diplômes correspondants restent soumises aux dispositions prévues antérieurement.
 
 **Liens relatifs à cet article**
 
@@ -81520,7 +81520,7 @@ CB > mes correspondants restent soumises aux dispositions prévues antérieureme
 
 	**Modifié par**:
 
-	  - Décret n°2005-1376 du 3 novembre 2005 - art. 1 () JORF 5 novembre 2005
+	  - Décret n°2006-255 du 2 mars 2006 - art. 2 () JORF 5 mars 2006
 
 	**Cite**:
 
@@ -81543,8 +81543,8 @@ d'Etat d'éducateur technique spécialisé.
 
 **Nota:**
 
-Les formations engagées avant la date d'entrée en vigueur du présent décret ainsi que les modalités de délivrance des dipl <
-CB > mes correspondants restent soumises aux dispositions prévues antérieurement.
+Les formations engagées avant la date d'entrée en vigueur du présent décret ainsi que les modalités de délivrance des
+diplômes correspondants restent soumises aux dispositions prévues antérieurement.
 
 **Liens relatifs à cet article**
 
@@ -81554,7 +81554,7 @@ CB > mes correspondants restent soumises aux dispositions prévues antérieureme
 
 	**Modifié par**:
 
-	  - Décret n°2005-1376 du 3 novembre 2005 - art. 1 () JORF 5 novembre 2005
+	  - Décret n°2006-255 du 2 mars 2006 - art. 2 () JORF 5 mars 2006
 
 	**Anciens textes**:
 
@@ -82765,6 +82765,175 @@ A titre transitoire, les formations engagées avant le 27 mars 2002 demeurent r�
 
 
 ##### Paragraphe 11 : Certificat d'aptitude aux fonctions d'aide médico-psychologique.
+
+###### Article D451-95
+
+Le diplôme d'Etat d'aide médico-psychologique atteste des compétences nécessaires pour exercer une fonction d'accompagnement
+et d'aide dans la vie quotidienne auprès de personnes en situation de handicap ou dont la situation nécessite une aide au
+développement ou au maintien de l'autonomie sur le plan physique, psychique ou social.
+
+Il est structuré en domaines de compétences et peut être obtenu par la voie de la formation ou, en tout ou partie, par la
+validation des acquis de l'expérience.
+
+Il est délivré par le représentant de l'Etat dans la région.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 du 21 octobre 2004
+
+	**Créé par**:
+
+	  - Décret n°2006-255 du 2 mars 2006 - art. 1 () JORF 5 mars 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2016-74 du 29 janvier 2016 - art. 4
+
+
+###### Article D451-96
+
+La formation préparant au diplôme d'Etat d'aide médico-psychologique comprend un enseignement théorique et une formation
+pratique dispensée au cours de stages.
+
+Cette formation est dispensée par les établissements publics ou privés ayant satisfait à l'obligation de déclaration
+préalable mentionnée à l'article L. 451-1.
+
+La durée et le contenu de la formation peuvent varier en fonction de l'expérience professionnelle et des diplômes possédés
+par les candidats.
+
+Les candidats sont soumis à des épreuves d'admission, organisées par les établissements de formation selon les modalités
+figurant dans leur règlement d'admission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 du 21 octobre 2004
+
+	**Créé par**:
+
+	  - Décret n°2006-255 du 2 mars 2006 - art. 1 () JORF 5 mars 2006
+
+	**Cité par**:
+
+	  - Arrêté du 11 avril 2006 - art. 2 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2016-74 du 29 janvier 2016 - art. 4
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L451-1
+
+
+###### Article D451-97
+
+Les épreuves du diplôme comprennent des épreuves organisées en cours de formation conformément au dossier de déclaration
+préalable défini à l'article R. 451-2 en détaillant les modalités et des épreuves organisées par le représentant de l'Etat
+dans la région.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-255 du 2 mars 2006 - art. 1 () JORF 5 mars 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2016-74 du 29 janvier 2016 - art. 4
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. R451-2
+
+
+###### Article D451-98
+
+Le représentant de l'Etat dans la région nomme le jury du diplôme qui comprend :
+
+1° Le directeur régional des affaires sanitaires ou sociales ou son représentant, président ;
+
+2° Des formateurs issus des établissements de formation, publics ou privés, préparant au diplôme d'Etat d'aide médico-
+psychologique ;
+
+3° Des représentants de l'Etat, des collectivités publiques, des personnes qualifiées dans le champ de l'action sociale et
+médico-sociale ;
+
+4° Pour un quart au moins de ses membres, des représentants qualifiés du secteur professionnel pour moitié employeurs et pour
+moitié salariés.
+
+Ce jury peut, en tant que de besoin, se subdiviser en groupes d'examinateurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-255 du 2 mars 2006 - art. 1 () JORF 5 mars 2006
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R544-5 (V)
+
+
+###### Article D451-99
+
+Les titulaires du certificat d'aptitude aux fonctions d'aide médico-psychologique sont titulaires de droit du diplôme d'Etat
+d'aide médico-psychologique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 du 21 octobre 2004
+
+	**Créé par**:
+
+	  - Décret n°2006-255 du 2 mars 2006 - art. 1 () JORF 5 mars 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2016-74 du 29 janvier 2016 - art. 4
+
+
+###### Article D451-99-1
+
+Un arrêté du ministre chargé des affaires sociales précise les compétences professionnelles mentionnées à l'article D.
+451-94-1, les modalités d'accès à la formation, le contenu et l'organisation de cette formation ainsi que les modalités de
+certification du diplôme d'Etat d'aide médico-psychologique.
+
+**Nota:**
+
+art. D451-99-1 précedemment numéroté D451-100 par le décret n° 2006-255 du 2 mars 2006.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 du 21 octobre 2004
+
+	**Créé par**:
+
+	  - Décret n°2006-255 du 2 mars 2006 - art. 1 () JORF 5 mars 2006 et rectificatif JORF 11 mars 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2016-74 du 29 janvier 2016 - art. 4
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles
+
 
 ###### Article R451-94
 
