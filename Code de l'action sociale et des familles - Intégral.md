@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-03-05
+Version Consolidée au 2006-03-07
 
 # Partie législative
 
@@ -36134,7 +36134,7 @@ L'observatoire national de la pauvreté et de l'exclusion sociale prévu à l'ar
 
 a) Le directeur général de l'institut national de la statistique et des études économiques, ou son représentant ;
 
-b) Le commissaire général au Plan, ou son représentant ;
+b) Le directeur général du Centre d'analyse stratégique, ou son représentant ;
 
 c) Le directeur de la recherche, des études, de l'évaluation et des statistiques au ministère des affaires sociales, ou son
 représentant ;
@@ -36163,6 +36163,10 @@ la pauvreté et de la lutte contre les exclusions, nommées pour trois ans par a
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-260 du 6 mars 2006 - art. 6 (Ab) JORF 7 mars 2006
 
 	**Cite**:
 
