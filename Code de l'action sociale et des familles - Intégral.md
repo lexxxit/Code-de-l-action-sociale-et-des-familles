@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-03-07
+Version Consolidée au 2006-03-22
 
 # Partie législative
 
@@ -56335,7 +56335,7 @@ d'éducation spéciale.
 ###### Article D312-36
 
 Sauf contre-indication expresse notifiée par le médecin traitant, les enfants satisfont aux obligations vaccinales prévues
-par la loi, complétées le cas échéant par les vaccinations contre la rubéole, la rougeole et les oreillons.
+par la loi.
 
 **Liens relatifs à cet article**
 
@@ -56349,7 +56349,7 @@ par la loi, complétées le cas échéant par les vaccinations contre la rubéol
 
 	**Modifié par**:
 
-	  - Décret n°2005-11 du 6 janvier 2005 - art. 2 () JORF 8 janvier 2005
+	  - Décret n°2006-331 du 21 mars 2006 - art. 1 () JORF 22 mars 2006
 
 
 ###### Article D312-37
@@ -59832,8 +59832,8 @@ l'établissement, il fait l'objet d'un bilan médical.
 
 Les résultats de ces examens figurent sur sa fiche médicale et sur son carnet de santé mis à jour.
 
-Tout enfant qui, à son entrée dans l'établissement, n'a pas reçu les vaccinations obligatoires ou recommandées pour les
-enfants hébergés en collectivité, doit les recevoir, le plus tôt possible après son admission, sauf contre-indication.
+Tout enfant qui, à son entrée dans l'établissement, n'a pas reçu les vaccinations obligatoires doit les recevoir, le plus tôt
+possible après son admission, sauf contre-indication.
 
 **Liens relatifs à cet article**
 
@@ -59845,6 +59845,10 @@ enfants hébergés en collectivité, doit les recevoir, le plus tôt possible ap
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-331 du 21 mars 2006 - art. 2 () JORF 22 mars 2006
 
 	**Cité par**:
 
@@ -59932,8 +59936,8 @@ l'opportunité de l'hospitalisation de l'enfant.
 En cas de maladie contagieuse survenant dans l'établissement, le médecin responsable envisage les mesures à prendre avec le
 médecin inspecteur départemental de santé publique. Il peut procéder à l'éviction des malades et à l'isolement immédiat des
 suspects, suspendre les admissions, procéder à la recherche des porteurs de germe parmi les enfants et le personnel, imposer
-des mesures de désinfection des locaux ou de vaccination des enfants et, d'une manière générale, exiger toute mesure utile
-déterminée en fonction des instructions générales du ministre chargé de la santé.
+des mesures de désinfection des locaux et, d'une manière générale, exiger toute mesure utile déterminée en fonction des
+instructions générales du ministre chargé de la santé.
 
 Des mesures analogues sont prises si des cas de maladie contagieuse surviennent dans la commune où se trouve l'établissement
 et dans des conditions telles qu'elles font craindre la pénétration de cette maladie dans l'établissement.
@@ -59948,6 +59952,10 @@ et dans des conditions telles qu'elles font craindre la pénétration de cette m
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-331 du 21 mars 2006 - art. 3 () JORF 22 mars 2006
 
 
 ###### Article D312-145
