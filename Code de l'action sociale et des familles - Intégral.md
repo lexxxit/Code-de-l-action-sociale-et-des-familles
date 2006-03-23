@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-03-22
+Version Consolidée au 2006-03-24
 
 # Partie législative
 
@@ -2927,20 +2927,24 @@ réglementaire.
 
 Pour la garantie des recours prévus à l'article L. 132-8, les immeubles appartenant aux bénéficiaires de l'aide sociale sont
 grevés d'une hypothèque légale, dont l'inscription est requise par le représentant de l'Etat ou le président du conseil
-général dans les conditions prévues à l'article 2148 du code civil.
+général dans les conditions prévues à l'article 2428 du code civil. 
 
-Les bordereaux d'inscription doivent mentionner le montant des prestations allouées au bénéficiaire de l'aide sociale.
+Les bordereaux d'inscription doivent mentionner le montant des prestations allouées au bénéficiaire de l'aide sociale. 
 
-L'hypothèque prend rang, à l'égard de chaque somme inscrite, à compter de la date de l'inscription correspondante.
+L'hypothèque prend rang, à l'égard de chaque somme inscrite, à compter de la date de l'inscription correspondante. 
 
 Aucune inscription ne pourra être prise lorsque la valeur globale des biens de l'allocataire est inférieure à une somme fixée
-par voie réglementaire.
+par voie réglementaire. 
 
 Les formalités relatives à l'inscription de l'hypothèque mentionnée ci-dessus, ainsi qu'à sa radiation, ne donnent lieu à
-aucune perception au profit du Trésor.
+aucune perception au profit du Trésor. 
 
 Les prestations d'aide sociale à domicile et la prise en charge du forfait journalier mentionnées à l'article L. 132-8 ne
 sont pas garanties par l'inscription d'une hypothèque légale.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -2962,12 +2966,12 @@ sont pas garanties par l'inscription d'une hypothèque légale.
 
 	**Modifié par**:
 
-	  - Loi n°2001-647 du 20 juillet 2001 - art. 2 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
 
 	**Cite**:
 
-	  - Code civil - art. 2148 (M)
-	  - Code de l'action sociale et des familles - art. L132-8 (M)
+	  - Code civil - art. 2428 (V)
+	  - Code de l'action sociale et des familles - art. L132-8 (V)
 
 	**Anciens textes**:
 
@@ -6790,6 +6794,53 @@ leur information sur leurs droits et obligations.
 	  - Code de l'action sociale et des familles - art. R421-1 (VD)
 
 
+###### Article L214-7
+
+Le projet d'établissement et le règlement intérieur des établissements et services d'accueil des enfants de moins de six ans
+mentionnés aux deux premiers alinéas de l'article L. 2324-1 du code de la santé publique prévoient les modalités selon
+lesquelles ces établissements garantissent l'accueil d'un nombre déterminé d'enfants non scolarisés âgés de moins de six ans
+à la charge des bénéficiaires de l'allocation de revenu minimum d'insertion, de l'allocation de parent isolé, de l'allocation
+de solidarité spécifique ou des primes forfaitaires instituées respectivement par les articles L. 262-11 du présent code, L.
+524-5 du code de la sécurité sociale et L. 351-20 du code du travail qui vivent seuls ou avec une personne travaillant ou
+suivant une formation rémunérée et qui ont une activité professionnelle ou suivent une formation rémunérée. 
+
+Ils prévoient également les conditions dans lesquelles des places d'accueil peuvent être mobilisées en faveur des enfants non
+scolarisés âgés de moins de six ans à la charge des bénéficiaires des allocations susmentionnées inscrits sur la liste visée
+à l'article L. 311-5 du code du travail, pour leur permettre d'accomplir les démarches nécessaires à une recherche active
+d'emploi. 
+
+Un décret définit les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2006-339 du 23 mars 2006 - art. 8 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code du travail - art. L311-5 (Ab)
+	  - Code du travail - art. L351-20 (Ab)
+	  - Code de la santé publique - art. L2324-1 (V)
+	  - Code de la sécurité sociale. - art. L524-5 (VT)
+	  - Code de l'action sociale et des familles - art. L262-11 (VT)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D214-1 (V)
+	  - Code de l'action sociale et des familles - art. D214-2 (V)
+	  - Code de l'action sociale et des familles - art. D214-7 (V)
+	  - Code de l'action sociale et des familles - art. D214-7-1 (V)
+	  - Code de l'action sociale et des familles - art. D214-8 (V)
+	  - Code de la santé publique - art. R2324-29 (V)
+	  - Code de la santé publique - art. R2324-30 (V)
+
+
 #### Chapitre V : Dispositions diverses en faveur des familles.
 
 ###### Article L215-1
@@ -8184,13 +8235,7 @@ le département avait perçus.
 Lorsque aucun héritier ne se présente, les biens des pupilles de l'Etat décédés sont recueillis par le département et
 utilisés pour l'attribution de dons ou de prêts aux pupilles et anciens pupilles de l'Etat.
 
-Les biens du tuteur ne sont pas soumis à l'hypothèque légale instituée à l'article 2121 du code civil.
-
-**Nota:**
-
-Code de l'action sociale et des familles L543-1, L551-1, L561-1, L571-1 : les dispositions du présent article sont
-applicables à Mayotte, dans le territoire des îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie sous
-réserve d'adaptations.
+Les biens du tuteur ne sont pas soumis à l'hypothèque légale instituée à l'article 2400 du code civil.
 
 **Liens relatifs à cet article**
 
@@ -8199,9 +8244,13 @@ réserve d'adaptations.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
+
 	**Cite**:
 
-	  - Code civil - art. 2121 (T)
+	  - Code civil - art. 2400 (V)
 
 	**Anciens textes**:
 
@@ -15044,7 +15093,7 @@ minimum d'insertion.
 	  - Code du travail - art. L322-4-15-1
 
 
-##### Section 2 : Conditions d'ouverture du droit à l'allocation.
+##### Section 2 : Conditions d'ouverture du droit à l'allocation et prime forfaitaire
 
 ###### Article L262-7
 
@@ -15061,6 +15110,10 @@ dépôt de la demande.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2006-339 du 23 mars 2006 - art. 4 () JORF 24 mars 2006
 
 	**Cite**:
 
@@ -15093,6 +15146,10 @@ formation qu'elles suivent constitue une activité d'insertion prévue dans le c
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2006-339 du 23 mars 2006 - art. 4 () JORF 24 mars 2006
+
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L262-37 (M)
@@ -15117,11 +15174,6 @@ régulières à compter de cette même date.
 
 Les dispositions du présent article ne sont pas applicables aux ressortissants des Etats membres de l'Union européenne et des
 autres Etats parties à l'accord sur l'Espace économique européen.
-
-**Nota:**
-
-Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
-l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -15173,19 +15225,25 @@ l'entrée en vigueur à cette date des dispositions de la loi de finances mentio
 
 	**Modifié par**:
 
-	  - Loi n°2003-1200 du 18 décembre 2003 - art. 7 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+	  - Loi n°2006-339 du 23 mars 2006 - art. 4 () JORF 24 mars 2006
 
 
 ###### Article L262-9-1
 
-Pour le bénéfice du revenu minimum d'insertion, les ressortissants des Etats membres de l'Union européenne et des autres
-Etats parties à l'accord sur l'Espace économique européen doivent remplir les conditions exigées pour bénéficier d'un droit
-au séjour.
+Pour l'ouverture du droit à l'allocation, les ressortissants des Etats membres de l'Union européenne et des autres Etats
+parties à l'accord sur l'Espace économique européen doivent remplir les conditions exigées pour bénéficier d'un droit de
+séjour et avoir résidé en France durant les trois mois précédant la demande. Cependant, cette condition de résidence n'est
+pas opposable :
 
-**Nota:**
+- aux personnes qui exercent une activité professionnelle déclarée conformément à la législation en vigueur ;
 
-Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
-l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
+- aux personnes qui ont exercé une telle activité en France et soit sont en incapacité temporaire de travailler pour raisons
+médicales, soit suivent une formation professionnelle au sens des articles L. 900-2 et L. 900-3 du code du travail, soit sont
+inscrites sur la liste visée à l'article L. 311-5 du même code ;
+
+- aux ascendants, descendants et conjoints des personnes mentionnées aux deux alinéas précédents.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -15194,9 +15252,16 @@ l'entrée en vigueur à cette date des dispositions de la loi de finances mentio
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-1200 2003-12-18 art. 7 2° JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+	  - Loi n°2006-339 du 23 mars 2006 - art. 4 () JORF 24 mars 2006
+	  - Loi n°2006-339 du 23 mars 2006 - art. 9 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code du travail - art. L311-5 (M)
+	  - Code du travail - art. L900-2 (M)
+	  - Code du travail - art. L900-3 (M)
 
 	**Cité par**:
 
@@ -15208,7 +15273,9 @@ l'entrée en vigueur à cette date des dispositions de la loi de finances mentio
 L'ensemble des ressources des personnes retenues pour la détermination du montant du revenu minimum d'insertion est pris en
 compte pour le calcul de l'allocation.
 
-Toutefois, certaines prestations sociales à objet spécialisé peuvent, selon des modalités fixées par voie réglementaire, être
+Toutefois, certaines prestations sociales à objet spécialisé ainsi que la prime instituée par l'article L. 322-12 du code du
+travail et les primes forfaitaires instituées respectivement par les articles L. 262-11 du présent code, L. 524-5 du code de
+la sécurité sociale et L. 351-20 du code du travail, peuvent, selon des modalités fixées par voie réglementaire, être
 exclues, en tout ou en partie, du montant des ressources servant au calcul de l'allocation. Il en est ainsi des aides
 personnelles au logement mentionnées au code de la sécurité sociale et au code de la construction et de l'habitation sous
 réserve de montants forfaitaires déterminés en pourcentage du montant du revenu minimum d'insertion, dans la limite du
@@ -15221,21 +15288,37 @@ Sont également exclus du montant des ressources servant au calcul de l'allocati
 mentionnées à l'article 22 de la loi n° 99-894 du 22 octobre 1999 portant organisation de la réserve militaire et du service
 de défense.
 
+**Nota:**
+
+Aux termes de l'article 5 de la loi n° 2010-1127 du 28 septembre 2010, l'article L. 262-10 dans sa rédaction maintenue en
+vigueur en application de l'article 29 de la loi n° 2008-1249 du 1er décembre 2008 aux départements d'outre-mer, Saint-
+Martin, Saint-Barthélemy et Saint-Pierre-et-Miquelon au plus tard jusqu'au premier janvier 2011 est complété par un alinéa
+ainsi rédigé :
+
+"Toutefois, la part des allocations familiales dont le versement fait l'objet d'une mesure de suspension ou de suppression en
+application de l'article L. 131-8 du code de l'éducation demeure prise en compte pour déterminer le montant des ressources
+servant au calcul de l'allocation."
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°88-1088 du 1 décembre 1988 - art. 9 (P)
 	  - Loi n°88-1088 du 1 décembre 1988 - art. 9 (Ab)
 
 	**Cite**:
 
 	  - Loi n°99-894 du 22 octobre 1999 - art. 22 (Ab)
+	  - Code du travail - art. L322-12 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2006-339 2006-03-23 art. 4 I, III JORF 24 mars 2006
+	  - Loi n°2006-339 du 23 mars 2006 - art. 4 () JORF 24 mars 2006
 
 	**Cité par**:
 
@@ -15255,7 +15338,129 @@ de défense.
 
 Les rémunérations tirées d'activités professionnelles ou de stages de formation qui ont commencé au cours de la période de
 versement de l'allocation peuvent, selon des modalités fixées par voie réglementaire, être exclues, en tout ou partie, du
-montant des ressources servant au calcul de l'allocation.
+montant des ressources servant au calcul de l'allocation. 
+
+Les dispositions du premier alinéa s'appliquent notamment au cas des revenus tirés de travaux saisonniers. 
+
+Les bénéficiaires qui débutent ou reprennent une activité professionnelle ou un stage de formation rémunéré ont droit à une
+prime forfaitaire. Cette prime est versée chaque mois pendant une période dont la durée est définie par voie réglementaire, y
+compris s'il a été mis fin au droit au revenu minimum d'insertion. 
+
+La prime constitue une prestation légale d'aide sociale à la charge du département ayant attribué l'allocation de revenu
+minimum d'insertion. 
+
+La prime n'est pas due lorsque :
+
+- l'activité a lieu dans le cadre d'un contrat d'avenir ou d'un contrat insertion-revenu minimum d'activité conclu en
+application respectivement des articles L. 322-4-10 et L. 322-4-15 du code du travail ;
+
+- le bénéficiaire perçoit la prime prévue par le II de l'article L. 524-5 du code de la sécurité sociale ou par l'article L.
+351-20 du code du travail. 
+
+Un décret en Conseil d'Etat détermine les conditions d'attribution de la prime, notamment la durée de travail minimale et le
+nombre de mois d'activité consécutifs auxquels son versement est subordonné, ainsi que son montant qui tient compte de la
+composition du foyer.
+
+**Nota:**
+
+Il a été dérogé aux dispositions du présent article par la délibération du 20 juin 2007 du conseil général de l'Eure publiée
+au Journal officiel du 19 septembre 2007 (NOR : CTRD0765597X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 28 juin 2007 du conseil général de Loir-et-Cher
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769620X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 1er octobre 2007 du conseil général de la Côte-
+d'Or publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769632X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 5 octobre 2007 du conseil général des Charentes
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769622X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 15 octobre 2007 du conseil général de la Vienne
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769621X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 19 octobre 2007 du conseil général du Val-d'Oise
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769635X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 22 octobre 2007 du conseil général de la Loire-
+Atlantique publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769619X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 25 octobre 2007 du conseil général de l'Oise
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769633X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 26 octobre 2007 du conseil général des bouches-du-
+Rhône publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703359X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 8 novembre 2007 du conseil général d'Ille-et-
+Vilaine publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703345X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 15 novembre 2007 du conseil général de la Haute-
+Corse publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703371X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 19 novembre 2007 du conseil général de l'Hérault
+publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703347X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 7 décembre 2007 du conseil général du Gers publiée
+au Journal officiel du 1er janvier 2008 (NOR : CTRX0703373X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 10 décembre 2007 du conseil général du Nord
+publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703344). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 11 décembre 2007 du conseil général de la Seine-
+Maritime publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703376X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 13 décembre 2007 du conseil général du Doub
+publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703379X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 14 décembre 2007 du conseil général de l'Allier
+publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703369X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 14 décembre 2007 du conseil général de la
+Charente-Maritime publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703372X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 17 décembre 2007 du conseil général du Pas-de-
+Calais publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703375X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 20 décembre 2007 du conseil général des Deux-
+Sèvres publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703377X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 21 décembre 2007 du conseil général des Alpes-
+Maritimes publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703370X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 12 novembre 2007 du conseil général des Côtes-
+d'Armor publiée au Journal officiel du 6 janvier 2008 (NOR : CTRX0800014X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 12 novembre 2007 du conseil général de la Haute-
+Saône publiée au Journal officiel du 6 janvier 2008 (NOR : CTRX0800015X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 10 décembre 2007 du conseil général de l'Eure
+publiée au Journal officiel du 6 janvier 2008 (NOR : CTRX0800134X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 14 janvier 2008 du conseil général du Calvados
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800290X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 18 janvier 2008 du conseil général de la Creuse
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800291X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 18 janvier 2008 du conseil général de la Dordogne
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800288X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 23 janvier 2008 du conseil général du Gard publiée
+au Journal officiel du 1er février 2008 (NOR : CTRX0800289X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 23 janvier 2008 du conseil général du Morbihan
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800292X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 6 janvier 2008 du conseil général de la Seine-
+Saint-Denis publiée au Journal officiel du 1er mars 2008 (NOR : CTRX0800008X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 25 janvier 2008 du conseil général de la Mayenne
+publiée au Journal officiel du 1er mars 2008 (NOR : CTRX0800006X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 1er février 2008 du conseil général du Rhône
+publiée au Journal officiel du 1er mars 2008 (NOR : CTRX0800005X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 7 avril 2008 du conseil général de la Loire-
+Atlantique publiée au Journal officiel du 26 avril 2008 (NOR : CTRX0801250X).
 
 **Liens relatifs à cet article**
 
@@ -15318,6 +15523,20 @@ montant des ressources servant au calcul de l'allocation.
 	  - Code du travail - art. R5423-3 (VD)
 	  - Code général des collectivités territoriales - art. L3334-16-2 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2006-339 2006-03-23 art. 4 I, II JORF 24 mars 2006
+	  - Loi n°2006-339 du 23 mars 2006 - art. 4 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Délibération du 20 juin 2007
+	  - Délibération du 17 décembre 2007, v. init.
+	  - Code du travail - art. L322-4-10 (T)
+	  - Code du travail - art. L322-4-15 (M)
+	  - Code du travail - art. L351-20 (P)
+	  - Code de la sécurité sociale. - art. L524-5 (V)
+
 
 ###### Article L262-12
 
@@ -15336,6 +15555,10 @@ réglementaire.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2006-339 du 23 mars 2006 - art. 4 () JORF 24 mars 2006
+
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. L262-1 (VD)
@@ -15352,15 +15575,107 @@ Pendant la durée du contrat insertion-revenu minimum d'activité conclu en appl
 322-4-15-1 du code du travail ou du contrat d'avenir conclu en application de l'article L. 322-4-10 du même code, le
 bénéficiaire de ce contrat continue de bénéficier de l'allocation de revenu minimum d'insertion. Son montant est alors égal à
 celui résultant de l'application des dispositions de la présente section, diminué du montant de l'aide à l'employeur définie
-au premier alinéa du II de l'article L. 322-4-12 ou à l'article L. 322-4-15-6 du même code.
+au premier alinéa du II de l'article L. 322-4-12 ou à l'article L. 322-4-15-6 du même code. 
 
 En cas de rupture de ce contrat pour un motif autre que celui visé à l'article L. 322-4-15-5 ou au IV de l'article L.
 322-4-12 du code du travail ou lorsque ce contrat n'est pas renouvelé et que son bénéficiaire n'exerce pas d'activité
-professionnelle rémunérée, celui-ci continue de percevoir l'allocation de revenu minimum d'insertion à hauteur du montant de
-l'aide du département versée à l'employeur jusqu'à son réexamen sur le fondement des dispositions de la présente section.
+professionnelle rémunérée, l'allocation de revenu minimum d'insertion est rétablie dans des conditions fixées par voie
+réglementaire. 
 
 Les organismes chargés du service de l'allocation de revenu minimum d'insertion sont destinataires des informations relatives
-au contrat insertion-revenu minimum d'activité, dans des conditions fixées par décret.
+au contrat insertion-revenu minimum d'activité et au contrat d'avenir, dans des conditions fixées par décret.
+
+**Nota:**
+
+Il a été dérogé aux dispositions du présent article par la délibération du 28 juin 2007 du conseil général de Loir-et-Cher
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769620X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 1er octobre 2007 du conseil général de la Côte-
+d'Or publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769632X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 5 octobre 2007 du conseil général des Charentes
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769622X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 15 octobre 2007 du conseil général de la Vienne
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769621X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 19 octobre 2007 du conseil général du Val-d'Oise
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769635X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 22 octobre 2007 du conseil général de la Loire-
+Atlantique publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769619X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 25 octobre 2007 du conseil général de l'Oise
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769633X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 26 octobre 2007 du conseil général des bouches-du-
+Rhône publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703359X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 8 novembre 2007 du conseil général d'Ille-et-
+Vilaine publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703345X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 15 novembre 2007 du conseil général de la Haute-
+Corse publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703371X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 19 novembre 2007 du conseil général de l'Hérault
+publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703347X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 7 décembre 2007 du conseil général du Gers publiée
+au Journal officiel du 1er janvier 2008 (NOR : CTRX0703373X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 13 décembre 2007 du conseil général du Doub
+publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703379X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 14 décembre 2007 du conseil général de l'Allier
+publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703369X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 14 décembre 2007 du conseil général de la
+Charente-Maritime publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703372X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 17 décembre 2007 du conseil général du Pas-de-
+Calais publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703375X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 20 décembre 2007 du conseil général des Deux-
+Sèvres publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703377X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 21 décembre 2007 du conseil général des Alpes-
+Maritimes publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703370X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 12 novembre 2007 du conseil général des Côtes-
+d'Armor publiée au Journal officiel du 6 janvier 2008 (NOR : CTRX0800014X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 12 novembre 2007 du conseil général de la Haute-
+Saône publiée au Journal officiel du 6 janvier 2008 (NOR : CTRX0800015X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 10 décembre 2007 du conseil général de l'Eure
+publiée au Journal officiel du 6 janvier 2008 (NOR : CTRX0800134X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 14 janvier 2008 du conseil général du Calvados
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800290X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 18 janvier 2008 du conseil général de la Creuse
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800291X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 18 janvier 2008 du conseil général de la Dordogne
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800288X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 23 janvier 2008 du conseil général du Morbihan
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800292X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 6 janvier 2008 du conseil général de la Seine-
+Saint-Denis publiée au Journal officiel du 1er mars 2008 (NOR : CTRX0800008X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 17 janvier 2008 du conseil général de la Marne
+publiée au Journal officiel du 1er mars 2008 (NOR : CTRX0800003X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 25 janvier 2008 du conseil général de la Mayenne
+publiée au Journal officiel du 1er mars 2008 (NOR : CTRX0800006X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 1er février 2008 du conseil général du Rhône
+publiée au Journal officiel du 1er mars 2008 (NOR : CTRX0800005X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 7 avril 2008 du conseil général de la Loire-
+Atlantique publiée au Journal officiel du 26 avril 2008 (NOR : CTRX0801250X).
 
 **Liens relatifs à cet article**
 
@@ -15371,7 +15686,8 @@ au contrat insertion-revenu minimum d'activité, dans des conditions fixées par
 
 	**Modifié par**:
 
-	  - Loi n°2005-32 2005-01-18 art. 50 2° JORF 19 janvier 2005
+	  - Loi n°2006-339 du 23 mars 2006 - art. 10 () JORF 24 mars 2006
+	  - Loi n°2006-339 du 23 mars 2006 - art. 4 () JORF 24 mars 2006
 
 	**Cité par**:
 
@@ -15379,12 +15695,17 @@ au contrat insertion-revenu minimum d'activité, dans des conditions fixées par
 
 	**Cite**:
 
+	  - Délibération du 28 juin 2007, v. init.
 	  - Code du travail - art. L322-4-10 (T)
 	  - Code du travail - art. L322-4-12 (T)
 	  - Code du travail - art. L322-4-15 (M)
 	  - Code du travail - art. L322-4-15-1 (M)
-	  - Code du travail - art. L322-4-15-5 (M)
 	  - Code du travail - art. L322-4-15-6 (M)
+	  - Code de l'action sociale et des familles L322-4-12, L322-4-15-5
+
+	**Abrogé par**:
+
+	  - Loi n°2008-1249 du 1er décembre 2008 - art. 3
 
 
 ##### Section 3 : Attribution de l'allocation
@@ -16162,27 +16483,15 @@ fixées par voie réglementaire.
 
 ###### Article L262-30
 
-Le service de l'allocation est assuré dans chaque département par les caisses d'allocations familiales et, pour leurs
-ressortissants, par les caisses de mutualité sociale agricole, avec lesquelles le département passe, à cet effet, convention.
+Le service de l'allocation et de la prime forfaitaire instituée par l'article L. 262-11 est assuré dans chaque département
+par les caisses d'allocations familiales et, pour leurs ressortissants, par les caisses de mutualité sociale agricole, avec
+lesquelles le département passe, à cet effet, convention.
 
 Ces conventions, dont les règles générales sont déterminées par décret, fixent les conditions dans lesquelles le service de
-l'allocation est assuré et les compétences sont déléguées en application de l'article L. 262-32.
+l'allocation et de la prime forfaitaire est assuré et les compétences sont déléguées en application de l'article L. 262-32.
 
-En l'absence de cette convention, le service de l'allocation et ses modalités de financement sont assurés dans des conditions
-définies par décret.
-
-Dans la période qui précède l'entrée en vigueur du décret visé à l'alinéa précédent, les organismes payeurs assurent le
-service de l'allocation, pour le compte du président du conseil général, dans les conditions qui prévalaient avant le 1er
-janvier 2004. Pendant cette même période, le département verse chaque mois à chacun de ces organismes un acompte provisionnel
-équivalant au tiers des dépenses comptabilisées par l'organisme au titre de l'allocation de revenu minimum d'insertion au
-cours du dernier trimestre civil connu. Ce versement est effectué, au plus tard, le dernier jour du mois. Dans le mois qui
-suit l'entrée en vigueur du décret visé à l'alinéa précédent, la différence entre les acomptes versés et les dépenses
-effectivement comptabilisées au cours de la période donne lieu à régularisation.
-
-**Nota:**
-
-Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
-l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
+En l'absence de cette convention, le service de l'allocation et de la prime forfaitaire ainsi que leurs modalités de
+financement sont assurés dans des conditions définies par décret.
 
 **Liens relatifs à cet article**
 
@@ -16232,7 +16541,11 @@ l'entrée en vigueur à cette date des dispositions de la loi de finances mentio
 
 	**Modifié par**:
 
-	  - Loi n°2003-1200 du 18 décembre 2003 - art. 18 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+	  - Loi n°2006-339 du 23 mars 2006 - art. 4 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L262-11 (M)
 
 
 ###### Article L262-31
@@ -16274,14 +16587,10 @@ l'entrée en vigueur à cette date des dispositions de la loi de finances mentio
 
 Le département peut déléguer aux organismes payeurs mentionnés à l'article L. 262-30 tout ou partie des compétences du
 président du conseil général à l'égard des décisions individuelles relatives à l'allocation, à l'exception des décisions de
-suspension du versement de celle-ci prises en application des articles L. 262-19, L. 262-21 et L. 262-23.
+suspension prises en application des articles L. 262-19, L. 262-21 et L. 262-23, ainsi qu'à la prime forfaitaire instituée
+par l'article L. 262-11.
 
 La convention prévue à l'article L. 262-30 détermine les conditions de mise en oeuvre et de contrôle de cette délégation.
-
-**Nota:**
-
-Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
-l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -16293,10 +16602,6 @@ l'entrée en vigueur à cette date des dispositions de la loi de finances mentio
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Modifié par**:
-
-	  - Loi n°2003-1200 du 18 décembre 2003 - art. 20 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
 
 	**Cité par**:
 
@@ -16314,8 +16619,13 @@ l'entrée en vigueur à cette date des dispositions de la loi de finances mentio
 	  - Code du travail applicable à Mayotte. - art. R326-69 (V)
 	  - Code du travail applicable à Mayotte. - art. R326-71 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2006-339 du 23 mars 2006 - art. 4 () JORF 24 mars 2006
+
 	**Cite**:
 
+	  - Code de l'action sociale et des familles - art. L262-11 (M)
 	  - Code de l'action sociale et des familles - art. L262-19 (M)
 	  - Code de l'action sociale et des familles - art. L262-21 (M)
 	  - Code de l'action sociale et des familles - art. L262-23 (M)
@@ -16331,13 +16641,15 @@ ou versant des rémunérations au titre de l'aide à l'emploi, qui sont tenus de
 
 Les informations demandées tant par les organismes instructeurs mentionnés aux articles L. 262-14 et L. 262-15 que par les
 organismes payeurs mentionnés à l'article L. 262-30 doivent être limitées aux données nécessaires à l'identification de la
-situation du demandeur en vue de l'attribution de l'allocation et de la conduite des actions d'insertion.
+situation du demandeur en vue de l'attribution de l'allocation et de la prime forfaitaire instituée par l'article L. 262-11
+ainsi que de la conduite des actions d'insertion.
 
 Les personnels des organismes précités ne peuvent communiquer les informations recueillies dans l'exercice de leur mission
 qu'au président du conseil général et au président de la commission locale d'insertion définie à l'article L. 263-10.
 
 Les organismes payeurs transmettent à ceux-ci ainsi qu'aux présidents des centres communaux d'action sociale et aux
-organismes instructeurs concernés la liste des personnes percevant une allocation de revenu minimum d'insertion.
+organismes instructeurs concernés la liste des personnes percevant une allocation de revenu minimum d'insertion ou une prime
+forfaitaire.
 
 Lorsqu'elles sont conservées sur support informatique, les informations mentionnées au présent article peuvent faire l'objet
 de transmission entre les organismes susmentionnés, dans les conditions prévues au chapitre IV de la loi n° 78-17 du 6
@@ -16349,6 +16661,7 @@ bénéficiaires qui font l'objet d'un contrôle défini dans le présent article
 	**Cite**:
 
 	  - Loi n°78-17 1978-01-06
+	  - Code de l'action sociale et des familles - art. L262-11 (M)
 	  - Code de l'action sociale et des familles - art. L262-14 (M)
 	  - Code de l'action sociale et des familles - art. L262-15 (M)
 	  - Code de l'action sociale et des familles - art. L262-30 (M)
@@ -16375,17 +16688,54 @@ bénéficiaires qui font l'objet d'un contrôle défini dans le présent article
 
 	**Modifié par**:
 
-	  - Loi n°2004-801 du 6 août 2004 - art. 17 () JORF 7 août 2004
+	  - Loi n°2006-339 du 23 mars 2006 - art. 13 () JORF 24 mars 2006
+
+
+###### Article L262-33-1
+
+Lorsqu'il apparaît, au cours d'un contrôle accompli dans l'entreprise par l'un des agents de contrôle mentionnés à l'article
+L. 325-1 du code du travail, que le salarié a, de manière intentionnelle, accepté de travailler sans que les formalités
+prévues aux articles L. 143-3 et L. 320 du même code aient été accomplies par son ou ses employeurs, cette information est
+portée à la connaissance du président du conseil général, afin de mettre en oeuvre les dispositions prévues aux articles L.
+262-23, L. 262-27, L. 262-41, L. 262-46 et L. 262-47-1 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2006-339 du 23 mars 2006 - art. 13 () JORF 24 mars 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2008-1249 du 1er décembre 2008 - art. 3
+
+	**Cite**:
+
+	  - Code du travail - art. L143-3
+	  - Code du travail - art. L320
+	  - Code du travail - art. L325-1
+	  - Code de l'action sociale et des familles - art. L262-23
+	  - Code de l'action sociale et des familles - art. L262-27
+	  - Code de l'action sociale et des familles - art. L262-41
+	  - Code de l'action sociale et des familles - art. L262-46
+	  - Code de l'action sociale et des familles - art. L262-47-1
 
 
 ###### Article L262-34
 
-Toute personne appelée à intervenir dans l'instruction des demandes ou l'attribution de l'allocation ainsi que dans
-l'élaboration, l'approbation et la mise en oeuvre du contrat d'insertion est tenue au secret professionnel dans les termes
-des articles 226-13 et 226-14 du code pénal et passible des peines prévues à l'article 226-13.
+Toute personne appelée à intervenir dans l'instruction des demandes ou l'attribution de l'allocation ou de la prime
+forfaitaire instituée par l'article L. 262-11 ainsi que dans l'élaboration, l'approbation et la mise en oeuvre du contrat
+d'insertion est tenue au secret professionnel dans les termes des articles 226-13 et 226-14 du code pénal et passible des
+peines prévues à l'article 226-13.
 
 Toute personne à laquelle a été transmise, en application de l'article L. 262-33, la liste des personnes percevant une
-allocation de revenu minimum d'insertion est tenue au secret professionnel dans les mêmes conditions.
+allocation de revenu minimum d'insertion ou une prime forfaitaire est tenue au secret professionnel dans les mêmes
+conditions.
 
 **Liens relatifs à cet article**
 
@@ -16398,6 +16748,10 @@ allocation de revenu minimum d'insertion est tenue au secret professionnel dans 
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2006-339 du 23 mars 2006 - art. 13 () JORF 24 mars 2006
 
 	**Cité par**:
 
@@ -16413,7 +16767,9 @@ allocation de revenu minimum d'insertion est tenue au secret professionnel dans 
 
 	  - Code pénal - art. 226-13 (M)
 	  - Code pénal - art. 226-14 (M)
+	  - Code de l'action sociale et des familles - art. L262-11 (M)
 	  - Code de l'action sociale et des familles - art. L262-33 (M)
+	  - Code de l'action sociale et des familles L262-11, 226-13, L262-33
 
 
 ###### Article L262-35
@@ -16422,7 +16778,7 @@ Le versement de l'allocation est subordonné à la condition que l'intéressé f
 légales, réglementaires et conventionnelles, à l'exception des allocations mensuelles mentionnées à l'article L. 222-3.
 
 En outre, il est subordonné à la condition que l'intéressé fasse valoir ses droits aux créances d'aliments qui lui sont dues
-au titre des obligations instituées par les articles 203, 212, 214, 255 et 342 du code civil ainsi qu'à la prestation
+au titre des obligations instituées par les articles 203, 212, 214, 255, 342 et 371-2 du code civil ainsi qu'à la prestation
 compensatoire due au titre de l'article 270 dudit code et aux pensions alimentaires accordées par le tribunal à l'époux ayant
 obtenu le divorce dont la requête initiale a été présentée avant l'entrée en vigueur de la loi n° 75-617 du 11 juillet 1975
 portant réforme du divorce.
@@ -16444,27 +16800,22 @@ l'intéressé, assisté le cas échéant de la personne de son choix, a été en
 assortir sa décision d'une réduction de l'allocation de revenu minimum d'un montant au plus égal à celui de la créance
 alimentaire lorsqu'elle est fixée ou à celui de l'allocation de soutien familial.
 
-**Nota:**
-
-La loi 2004-439 du 26 mai 2004 entre en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33 II.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°75-617 1975-07-11
-	  - Loi n°2003-1200 2003-12-18
 	  - Code civil - art. 203 (V)
 	  - Code civil - art. 212 (M)
 	  - Code civil - art. 214 (V)
 	  - Code civil - art. 255 (M)
 	  - Code civil - art. 270 (M)
 	  - Code civil - art. 342 (M)
+	  - Code civil - art. 371-2 (M)
 	  - Code de l'action sociale et des familles - art. L222-3 (M)
 	  - Code de l'action sociale et des familles - art. L262-14 (M)
 	  - Code de l'action sociale et des familles - art. L262-15 (M)
 	  - Code de l'action sociale et des familles - art. L262-30 (M)
-	  - Code de l'action sociale et des familles L222-3, L262-30, L262-14, L262-15, 4
 
 	**Anciens textes**:
 
@@ -16489,13 +16840,9 @@ La loi 2004-439 du 26 mai 2004 entre en vigueur le 1er janvier 2005 sauf pour le
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
-
 	**Modifié par**:
 
-	  - Loi n°2004-439 du 26 mai 2004 - art. 24 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2006-339 du 23 mars 2006 - art. 11 () JORF 24 mars 2006
 
 
 ###### Article L262-36
@@ -16696,9 +17043,9 @@ l'entrée en vigueur à cette date des dispositions de la loi de finances mentio
 
 ###### Article L262-39
 
-Un recours contentieux contre les décisions relatives à l'allocation de revenu minimum peut être formé par toute personne qui
-y a intérêt devant la commission départementale d'aide sociale, mentionnée à l'article L. 134-6, dans le ressort de laquelle
-a été prise la décision.
+Un recours contentieux contre les décisions relatives à l'allocation de revenu minimum et à la prime forfaitaire instituée
+par l'article L. 262-11 peut être formé par toute personne qui y a intérêt devant la commission départementale d'aide
+sociale, mentionnée à l'article L. 134-6, dans le ressort de laquelle a été prise la décision.
 
 La décision de la commission départementale est susceptible d'appel devant la commission centrale d'aide sociale instituée
 par l'article L. 134-2.
@@ -16707,12 +17054,8 @@ Les dispositions de l'article L. 133-3 sont applicables.
 
 Les associations régulièrement constituées depuis cinq ans au moins pour oeuvrer dans le domaine de l'insertion et de la
 lutte contre la pauvreté et l'exclusion peuvent exercer les recours et appels prévus au présent article en faveur d'un
-demandeur ou bénéficiaire de l'allocation de revenu minimum d'insertion, sous réserve de l'accord écrit de l'intéressé.
-
-**Nota:**
-
-Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
-l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
+demandeur ou bénéficiaire de l'allocation de revenu minimum d'insertion ou de la prime forfaitaire, sous réserve de l'accord
+écrit de l'intéressé.
 
 **Liens relatifs à cet article**
 
@@ -16727,7 +17070,7 @@ l'entrée en vigueur à cette date des dispositions de la loi de finances mentio
 
 	**Modifié par**:
 
-	  - Loi n°2003-1200 du 18 décembre 2003 - art. 26 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+	  - Loi n°2006-339 du 23 mars 2006 - art. 4 () JORF 24 mars 2006
 
 	**Cité par**:
 
@@ -16747,13 +17090,14 @@ l'entrée en vigueur à cette date des dispositions de la loi de finances mentio
 	  - Code de l'action sociale et des familles - art. L133-3 (M)
 	  - Code de l'action sociale et des familles - art. L134-2 (M)
 	  - Code de l'action sociale et des familles - art. L134-6 (M)
+	  - Code de l'action sociale et des familles - art. L262-11 (M)
 
 
 ###### Article L262-40
 
-L'action du bénéficiaire pour le paiement de l'allocation se prescrit par deux ans. Cette prescription est également
-applicable, sauf en cas de fraude ou de fausse déclaration, à l'action intentée par un organisme payeur en recouvrement des
-sommes indûment payées.
+L'action du bénéficiaire pour le paiement de l'allocation ou de la prime forfaitaire instituée par l'article L. 262-11 se
+prescrit par deux ans. Cette prescription est également applicable, sauf en cas de fraude ou de fausse déclaration, à
+l'action intentée par un organisme payeur en recouvrement des sommes indûment payées.
 
 **Liens relatifs à cet article**
 
@@ -16778,19 +17122,28 @@ sommes indûment payées.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2006-339 du 23 mars 2006 - art. 4 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L262-11 (M)
+
 
 ###### Article L262-41
 
-Tout paiement indu d'allocations est récupéré par retenue sur le montant des allocations à échoir ou, si le bénéficiaire opte
-pour cette solution ou s'il n'est plus éligible au revenu minimum d'insertion, par remboursement de la dette en un ou
-plusieurs versements.
+Tout paiement indu d'allocations ou de la prime forfaitaire instituée par l'article L. 262-11 est récupéré par retenue sur le
+montant des allocations ou de cette prime à échoir ou par remboursement de la dette selon des modalités fixées par voie
+réglementaire.
 
 Toutefois, le bénéficiaire peut contester le caractère indu de la récupération devant la commission départementale d'aide
 sociale dans les conditions définies à l'article L. 262-39.
 
 Les retenues ne peuvent dépasser un pourcentage déterminé par voie réglementaire.
 
-En cas de précarité de la situation du débiteur, la créance peut être remise ou réduite par le président du conseil général.
+La créance peut être remise ou réduite par le président du conseil général en cas de précarité de la situation du débiteur,
+sauf en cas de manoeuvre frauduleuse ou de fausse déclaration.
 
 **Liens relatifs à cet article**
 
@@ -16806,7 +17159,8 @@ En cas de précarité de la situation du débiteur, la créance peut être remis
 
 	**Modifié par**:
 
-	  - Loi n°2004-809 du 13 août 2004 - art. 58 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2006-339 du 23 mars 2006 - art. 29 () JORF 24 mars 2006
+	  - Loi n°2006-339 du 23 mars 2006 - art. 4 () JORF 24 mars 2006
 
 	**Cité par**:
 
@@ -16819,6 +17173,7 @@ En cas de précarité de la situation du débiteur, la créance peut être remis
 
 	**Cite**:
 
+	  - Code de l'action sociale et des familles - art. L262-11 (M)
 	  - Code de l'action sociale et des familles - art. L262-39 (M)
 
 
@@ -16860,23 +17215,8 @@ d'aide sociale.
 
 ###### Article L262-43
 
-Les sommes servies au titre de l'allocation sont récupérées en cas de décès du bénéficiaire ou de cession de son actif.
-Toutefois, la récupération n'est opérée que sur la fraction de l'actif net qui excède un seuil dont le montant est fixé par
-décret.
-
-Le recouvrement est fait dans les conditions prévues à l'article L. 132-11.
-
-Les sommes recouvrables peuvent être garanties par une hypothèque légale prenant rang à la date de son inscription et pour
-laquelle il n'est pas perçu de frais. Lorsque le bénéficiaire est propriétaire d'un fonds de commerce, il s'engage à
-accepter, en garantie des sommes recouvrables, un nantissement sur fonds de commerce prévu au chapitre II du titre IV du
-livre premier du code de commerce.
-
-L'action en récupération se prescrit par cinq ans à compter du jour du décès du bénéficiaire ou de la cession de son actif.
-
-**Nota:**
-
-Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
-l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
+Les dispositions de l'article L. 132-8 ne sont pas applicables aux sommes servies au titre de l'allocation et de la prime
+forfaitaire instituée par l'article L. 262-11.
 
 **Liens relatifs à cet article**
 
@@ -16891,11 +17231,12 @@ l'entrée en vigueur à cette date des dispositions de la loi de finances mentio
 
 	**Modifié par**:
 
-	  - Loi n°2003-1200 du 18 décembre 2003 - art. 27 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+	  - Loi n°2006-339 du 23 mars 2006 - art. 12 () JORF 24 mars 2006
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L132-11 (V)
+	  - Code de l'action sociale et des familles - art. L132-8 (M)
+	  - Code de l'action sociale et des familles - art. L262-11 (M)
 
 	**Cité par**:
 
@@ -16906,29 +17247,25 @@ l'entrée en vigueur à cette date des dispositions de la loi de finances mentio
 
 ###### Article L262-44
 
-L'allocation est incessible et insaisissable.
+L'allocation et la prime forfaitaire instituée par l'article L. 262-11 sont incessibles et insaisissables.
 
 Les blocages de comptes courants de dépôts ou d'avances ne peuvent avoir pour effet de faire obstacle à l'insaisissabilité de
-l'allocation.
+l'allocation et de la prime forfaitaire.
 
-Nonobstant toute opposition, les allocataires dont le revenu minimum d'insertion est servi par versement à un compte courant
-de dépôts ou d'avances peuvent effectuer mensuellement des retraits de ce compte dans la limite du montant de l'allocation de
-revenu minimum d'insertion.
+Nonobstant toute opposition, les allocataires dont le revenu minimum d'insertion et la prime forfaitaire sont servis par
+versement à un compte courant de dépôts ou d'avances peuvent effectuer mensuellement des retraits de ce compte dans la limite
+du montant de l'allocation de revenu minimum d'insertion.
 
 Toutefois, le président du conseil général peut demander à l'organisme payeur, le cas échéant après avis de la personne
-mentionnée au deuxième alinéa de l'article L. 262-37 et avec l'accord du bénéficiaire, de mandater l'allocation au nom d'un
-organisme agréé à cet effet, à charge pour celui-ci de la reverser au bénéficiaire, éventuellement de manière fractionnée, et
-le cas échéant d'acquitter le montant du loyer restant imputable à l'allocataire.
+mentionnée au deuxième alinéa de l'article L. 262-37 et avec l'accord du bénéficiaire, de mandater l'allocation et la prime
+forfaitaire au nom d'un organisme agréé à cet effet, à charge pour celui-ci de les reverser au bénéficiaire, éventuellement
+de manière fractionnée, et le cas échéant d'acquitter le montant du loyer restant imputable à l'allocataire.
 
 Sur demande de l'allocataire, les cotisations d'assurance maladie mentionnées à l'article L. 731-35 du code rural ou à
-l'article L. 612-4 du code de la sécurité sociale sont recouvrées sur l'allocation de revenu minimum d'insertion.
+l'article L. 612-4 du code de la sécurité sociale sont recouvrées sur l'allocation de revenu minimum d'insertion et la prime
+forfaitaire.
 
 Un décret précise les conditions d'application du présent article.
-
-**Nota:**
-
-Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
-l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -16936,6 +17273,7 @@ l'entrée en vigueur à cette date des dispositions de la loi de finances mentio
 
 	  - Code rural L731-35
 	  - Code de la sécurité sociale. - art. L612-4 (M)
+	  - Code de l'action sociale et des familles - art. L262-11 (M)
 	  - Code de l'action sociale et des familles - art. L262-37 (M)
 
 	**Anciens textes**:
@@ -16950,8 +17288,7 @@ l'entrée en vigueur à cette date des dispositions de la loi de finances mentio
 
 	**Modifié par**:
 
-	  - Loi n°2003-1200 du 18 décembre 2003 - art. 28 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
-	  - Loi n°2003-1200 du 18 décembre 2003 - art. 6 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+	  - Loi n°2006-339 du 23 mars 2006 - art. 4 () JORF 24 mars 2006
 
 
 ###### Article L262-45
@@ -16987,11 +17324,59 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	  - Code du travail applicable à Mayotte. - art. R326-71 (V)
 
 
+###### Article L262-46
+
+Sous réserve de la constitution éventuelle du délit défini et sanctionné aux articles 313-1 et 313-3 du code pénal, le fait
+de bénéficier frauduleusement ou de tenter de bénéficier frauduleusement de l'allocation de revenu minimum d'insertion ou de
+la prime forfaitaire instituée par l'article L. 262-11 est passible d'une amende de 4 000 Euros. En cas de récidive, ce
+montant est porté au double.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°88-1088 1988-12-01 art. 33 I
+	  - Loi n°88-1088 du 1 décembre 1988 - art. 33 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2006-339 2006-03-23 art. 14 1° JORF 24 mars 2006
+
+	**Cité par**:
+
+	  - Loi n°2008-1249 du 1er décembre 2008 - art. 31 (V)
+	  - Ordonnance n°2016-160 du 18 février 2016 - art. 1 (V)
+	  - Code de l'action sociale et des familles - art. D262-61 (V)
+	  - Code de l'action sociale et des familles - art. L262-33-1 (VT)
+	  - Code de l'action sociale et des familles - art. L262-45 (VD)
+	  - Code de l'action sociale et des familles - art. L549-1 (T)
+	  - Code de l'action sociale et des familles - art. R262-92 (V)
+	  - Code de l'action sociale et des familles - art. R262-94-1 (VD)
+	  - Code de la construction et de l'habitation. - art. L351-11 (V)
+	  - Code de la sécurité sociale. - art. D553-4 (V)
+	  - Code de la sécurité sociale. - art. L114-17 (VD)
+	  - Code de la sécurité sociale. - art. L553-1 (VD)
+	  - Code de la sécurité sociale. - art. L553-2 (VD)
+	  - Code de la sécurité sociale. - art. L821-5 (V)
+	  - Code de la sécurité sociale. - art. L835-3 (VD)
+
+	**Cite**:
+
+	  - Code pénal - art. 313-1 (M)
+	  - Code pénal - art. 313-3 (V)
+	  - Code de l'action sociale et des familles - art. L262-11 (M)
+
+
 ###### Article L262-47
 
 Le fait d'offrir ou de faire offrir ses services à une personne en qualité d'intermédiaire et moyennant émoluments, en vue de
-lui faire obtenir l'allocation de revenu minimum d'insertion est puni des peines prévues par l'article L. 554-2 du code de la
-sécurité sociale.
+lui faire obtenir l'allocation de revenu minimum d'insertion ou la prime forfaitaire instituée par l'article L. 262-11 est
+puni des peines prévues par l'article L. 554-2 du code de la sécurité sociale.
 
 **Liens relatifs à cet article**
 
@@ -17005,9 +17390,14 @@ sécurité sociale.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2006-339 2006-03-23 art. 14 2° JORF 24 mars 2006
+
 	**Cite**:
 
 	  - Code de la sécurité sociale. - art. L554-2 (M)
+	  - Code de l'action sociale et des familles - art. L262-11 (M)
 
 	**Cité par**:
 
@@ -17016,14 +17406,65 @@ sécurité sociale.
 	  - Code de l'action sociale et des familles - art. R262-91 (V)
 
 
+###### Article L262-47-1
+
+Sans préjudice des actions en récupération de l'allocation indûment versée et des poursuites pénales, l'inexactitude ou le
+caractère incomplet, lorsqu'ils sont délibérés, des déclarations faites pour le bénéfice de l'allocation ou de la prime
+forfaitaire instituée par l'article L. 262-11, ainsi que l'absence de déclaration d'un changement dans la situation
+justifiant ce bénéfice, ayant abouti à des versements indus, peuvent être sanctionnés par une amende administrative prononcée
+par le président du conseil général, après avis de la commission locale d'insertion mentionnée à l'article L. 263-10, et dont
+le montant ne peut excéder 3 000 Euros.
+
+Le président du conseil général informe préalablement l'intéressé des faits qui lui sont reprochés et de l'amende envisagée.
+Il l'invite à présenter ses observations écrites ou orales, le cas échéant assisté d'une personne de son choix, dans un délai
+qui ne peut être inférieur à un mois. L'amende peut être prononcée à l'issue de ce délai et est alors notifiée à l'intéressé.
+La décision est motivée.
+
+Cette décision est susceptible de recours devant le tribunal administratif. Le produit de l'amende est versé aux comptes du
+département.
+
+Aucune amende ne peut être prononcée à raison de faits remontant à plus de deux ans, ni lorsque la personne concernée a, pour
+les mêmes faits, déjà été définitivement condamnée par le juge pénal ou a bénéficié d'une décision définitive de non-lieu ou
+de relaxe déclarant que la réalité de l'infraction n'est pas établie ou que cette infraction ne lui est pas imputable. Si une
+telle décision de non-lieu ou de relaxe intervient postérieurement au prononcé d'une amende administrative par le président
+du conseil général, la révision de cette amende est de droit. Si, à la suite du prononcé d'une amende administrative par le
+président du conseil général, une amende pénale est infligée pour les mêmes faits, la première s'impute sur la seconde.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2006-339 2006-03-23 art. 14 3° JORF 24 mars 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2008-1249 du 1er décembre 2008 - art. 3
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L262-11
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L262-33-1 (VT)
+	  - Code de l'action sociale et des familles - art. L263-10 (VT)
+	  - Code de l'action sociale et des familles - art. R262-48-1 (VT)
+	  - Code de la sécurité sociale. - art. L114-17 (VT)
+
+
 ##### Section 6 : Suivi statistique, évaluation et contrôle
 
 ###### Article L262-48
 
 Le président du conseil général transmet au représentant de l'Etat dans le département, dans des conditions fixées par voie
-réglementaire, toute information relative au dispositif d'insertion lié à l'allocation de revenu minimum d'insertion, au
-contrat insertion-revenu minimum d'activité régi par les articles L. 322-4-15 et suivants du code du travail et au contrat
-d'avenir régi par les articles L. 322-4-10 et suivants du même code.
+réglementaire, toute information relative au dispositif d'insertion lié à l'allocation de revenu minimum d'insertion, à la
+prime forfaitaire instituée par l'article L. 262-11, au contrat insertion-revenu minimum d'activité régi par les articles L.
+322-4-15 et suivants du code du travail et au contrat d'avenir régi par les articles L. 322-4-10 et suivants du même code.
 
 Ces informations comprennent notamment :
 
@@ -17047,12 +17488,13 @@ Ces informations comprennent notamment :
 
 	**Modifié par**:
 
-	  - Loi n°2005-32 2005-01-18 art. 50 5° JORF 19 janvier 2005
+	  - Loi n°2006-339 du 23 mars 2006 - art. 13 () JORF 24 mars 2006
 
 	**Cite**:
 
 	  - Code du travail - art. L322-4-10 (T)
 	  - Code du travail - art. L322-4-15 (M)
+	  - Code de l'action sociale et des familles - art. L262-11 (M)
 
 	**Nouveaux textes**:
 
@@ -17063,7 +17505,8 @@ Ces informations comprennent notamment :
 
 La Caisse nationale des allocations familiales et la Caisse centrale de mutualité sociale agricole transmettent au ministre
 chargé de l'action sociale, dans des conditions fixées par voie réglementaire, toute information relative aux dépenses liées
-à l'allocation de revenu minimum d'insertion et à l'exécution des contrats d'insertion.
+à l'allocation de revenu minimum d'insertion et à la prime forfaitaire instituée par l'article L. 262-11 ainsi qu'à
+l'exécution des contrats d'insertion.
 
 Ces informations comprennent notamment :
 
@@ -17075,11 +17518,6 @@ allocataires et des ayants droit.
 Les caisses d'allocations familiales et les caisses de mutualité sociale agricole transmettent aux départements, dans des
 conditions fixées par voie réglementaire, toute information nécessaire à l'actualisation des fichiers sociaux départementaux.
 
-**Nota:**
-
-Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
-l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -17087,15 +17525,19 @@ l'entrée en vigueur à cette date des dispositions de la loi de finances mentio
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Créé par**:
-
-	  - Loi n°2003-1200 du 18 décembre 2003 - art. 48 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
-
 	**Cité par**:
 
 	  - Décret n°2004-301 du 29 mars 2004 - art. 5 (Ab)
 	  - Code de l'action sociale et des familles - art. L262-52 (V)
 	  - Code de l'action sociale et des familles - art. R262-22-7 (VT)
+
+	**Modifié par**:
+
+	  - Loi n°2006-339 du 23 mars 2006 - art. 13 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L262-11 (M)
 
 
 ###### Article L262-50
@@ -17534,7 +17976,9 @@ d'insertion ;
 6° De proposer les mesures propres à favoriser ou à conforter l'insertion ;
 
 7° De donner un avis sur les suspensions du versement de l'allocation envisagées au titre des articles L. 262-19, L. 262-21
-et L. 262-23.
+et L. 262-23 ;
+
+8° De donner un avis sur les amendes administratives envisagées au titre de l'article L. 262-47-1.
 
 La commission locale d'insertion peut formuler des propositions relatives à l'ensemble de la lutte contre la pauvreté et
 l'exclusion et de l'action en faveur de l'insertion dans son ressort.
@@ -17547,6 +17991,12 @@ des bassins d'emploi et des données relatives à l'habitat.
 **Nota:**
 
 Code de l'action sociale et des familles L522-7 : le présent article n'est pas applicable dans les départements d'outre-mer.
+
+Il a été dérogé aux dispositions du présent article par la délibération du 1er octobre 2007 du conseil général de la Côte-
+d'Or publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769632X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 10 décembre 2007 du conseil général de l'Eure
+publiée au Journal officiel du 6 janvier 2008 (NOR : CTRX0800134X).
 
 **Liens relatifs à cet article**
 
@@ -17561,7 +18011,11 @@ Code de l'action sociale et des familles L522-7 : le présent article n'est pas 
 
 	**Modifié par**:
 
-	  - Loi n°2003-1200 du 18 décembre 2003 - art. 35 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+	  - Loi n°2006-339 2006-03-23 art. 14 4° JORF 24 mars 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2008-1249 du 1er décembre 2008 - art. 15
 
 	**Cité par**:
 
@@ -17575,8 +18029,8 @@ Code de l'action sociale et des familles L522-7 : le présent article n'est pas 
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L262-21 (M)
-	  - Code de l'action sociale et des familles - art. L262-23 (M)
+	  - Code de l'action sociale et des familles - art. L262-21
+	  - Code de l'action sociale et des familles - art. L262-23
 
 
 ###### Article L263-11
@@ -28940,14 +29394,9 @@ les conditions prévues à l'article L. 522-8.
 
 L'agence se substitue au conseil départemental d'insertion.
 
-Les compétences relatives aux décisions individuelles concernant l'allocation de revenu minimum d'insertion dévolues au
-département par le chapitre II du titre VI du livre II sont exercées, dans les départements d'outre-mer, par l'agence
-départementale d'insertion.
-
-**Nota:**
-
-Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
-l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
+Les compétences relatives aux décisions individuelles concernant l'allocation de revenu minimum d'insertion et la prime
+forfaitaire instituée par l'article L. 262-11 dévolues au département par le chapitre II du titre VI du livre II sont
+exercées, dans les départements d'outre-mer, par l'agence départementale d'insertion.
 
 **Liens relatifs à cet article**
 
@@ -28963,7 +29412,7 @@ l'entrée en vigueur à cette date des dispositions de la loi de finances mentio
 
 	**Modifié par**:
 
-	  - Loi n°2003-1200 du 18 décembre 2003 - art. 40 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+	  - Loi n°2006-339 du 23 mars 2006 - art. 4 () JORF 24 mars 2006
 
 	**Cité par**:
 
@@ -28981,6 +29430,7 @@ l'entrée en vigueur à cette date des dispositions de la loi de finances mentio
 
 	**Cite**:
 
+	  - Code de l'action sociale et des familles - art. L262-11 (M)
 	  - Code de l'action sociale et des familles - art. L263-3 (M)
 
 
@@ -29429,8 +29879,9 @@ l'entrée en vigueur à cette date des dispositions de la loi de finances mentio
 ###### Article L522-14
 
 Dans les départements d'outre-mer et à Saint-Pierre-et-Miquelon, un revenu de solidarité est versé aux bénéficiaires du
-revenu minimum d'insertion âgés d'au moins cinquante ans qui s'engagent à quitter définitivement le marché du travail et de
-l'insertion après avoir été depuis deux ans au moins bénéficiaires du revenu minimum d'insertion.
+revenu minimum d'insertion ou de la prime forfaitaire instituée par l'article L. 262-11 âgés d'au moins cinquante ans qui
+s'engagent à quitter définitivement le marché du travail et de l'insertion après avoir été depuis deux ans au moins
+bénéficiaires du revenu minimum d'insertion ou de ladite prime forfaitaire.
 
 Le montant du revenu de solidarité est fixé par décret.
 
@@ -29481,11 +29932,11 @@ Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités d'a
 
 	**Modifié par**:
 
-	  - Loi n°2003-1200 du 18 décembre 2003 - art. 51 (V) JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+	  - Loi n°2006-339 du 23 mars 2006 - art. 4 () JORF 24 mars 2006
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L522-15 (M)
+	  - Code de l'action sociale et des familles - art. L262-11 (M)
 
 
 ###### Article L522-15
@@ -29567,16 +30018,11 @@ fixées par décret en Conseil d'Etat, après consultation des collectivités lo
 Ces modalités doivent permettre notamment de mieux prendre en compte les spécificités économiques et sociales de ces
 départements afin d'améliorer :
 
-1° Les modalités de fixation de l'allocation et de détermination des ressources prises en compte pour le calcul de
-l'allocation de revenu minimum d'insertion notamment en ce qui concerne les personnes non salariées des professions
-agricoles ;
+1° Les modalités de fixation de l'allocation et de la prime forfaitaire instituée par l'article L. 262-11 et de détermination
+des ressources prises en compte pour le calcul de l'allocation de revenu minimum d'insertion notamment en ce qui concerne les
+personnes non salariées des professions agricoles ;
 
 2° Alinéa abrogé.
-
-**Nota:**
-
-Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
-l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
 
 **Liens relatifs à cet article**
 
@@ -29595,7 +30041,11 @@ l'entrée en vigueur à cette date des dispositions de la loi de finances mentio
 
 	**Modifié par**:
 
-	  - Loi n°2003-1200 du 18 décembre 2003 - art. 40 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+	  - Loi n°2006-339 du 23 mars 2006 - art. 4 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L262-11 (M)
 
 
 ###### Article L522-18
@@ -51445,29 +51895,37 @@ minimum d'insertion fixé pour un allocataire.
 application des articles L. 322-4-10 et L. 322-4-15 du code du travail, il n'est pas tenu compte, pour la détermination du
 montant de l'allocation, des rémunérations procurées à l'intéressé au titre de ce contrat. Sous cette réserve, ce montant est
 égal à celui résultant de l'application des dispositions du présent chapitre, diminué du montant de l'aide à l'employeur
-définie au troisième alinéa du I de l'article L. 322-4-15-6 pour le contrat insertion-revenu minimum d'activité et au premier
-alinéa du II de l'article L. 322-4-12 du même code pour le contrat d'avenir.
+définie au troisième alinéa du I de l'article L. 322-4-15-6 du même code pour le contrat insertion-revenu minimum d'activité
+et au premier alinéa du II de l'article L. 322-4-12 du même code pour le contrat d'avenir.
 
 Toutefois, cette diminution n'est pas opérée lorsqu'un de ces contrats de travail est suspendu en application du deuxième
-alinéa du IV de l'article L. 322-4-12 pour le contrat d'avenir ou du deuxième alinéa de l'article L. 322-4-15-5 pour le
-contrat insertion-revenu minimum d'activité.
+alinéa du IV de l'article L. 322-4-12 du même code pour le contrat d'avenir ou du deuxième alinéa de l'article L. 322-4-15-5
+du même code pour le contrat insertion-revenu minimum d'activité.
 
 En cas de suspension de l'un de ces contrats, et lorsque le salarié ne remplit pas la condition requise pour une prise en
 charge par un régime de sécurité sociale et que le maintien de son salaire n'est pas assuré, il perçoit son allocation
-augmentée d'un montant journalier égal à un trentième du montant mensuel de l'allocation de revenu minimum d'insertion.
+augmentée d'un montant journalier égal à un trentième du montant mensuel de l'allocation de revenu minimum d'insertion
+garantie à une personne isolée.
 
 Lorsque l'allocataire perçoit également l'allocation de solidarité spécifique définie à l'article L. 351-10 du même code et
 que le contrat d'avenir ou le contrat insertion-revenu minimum d'activité est signé avec l'intéressé en sa qualité de
 bénéficiaire de l'allocation de solidarité spécifique, le montant de l'aide à l'employeur n'est déduit du montant de
 l'allocation de revenu minimum d'insertion qu'à compter de la prochaine révision trimestrielle du droit à cette dernière
-allocation. Lorsqu'un autre membre du foyer pris en compte pour la détermination du montant de l'allocation est aussi salarié
-en contrat insertion-revenu minimum d'activité ou en contrat d'avenir, ce montant est également diminué du même montant
-d'aide à l'employeur.
+allocation suivant le début du contrat insertion-revenu minimum d'activité ou du contrat d'avenir. Lorsqu'un autre membre du
+foyer pris en compte pour la détermination du montant de l'allocation est aussi salarié en contrat insertion-revenu minimum
+d'activité ou en contrat d'avenir, ce montant est également diminué du même montant d'aide à l'employeur.
 
-Dans le cas où le bénéficiaire d'un contrat insertion-revenu minimum d'activité, son conjoint, le partenaire lié par un pacte
-civil de solidarité ou le concubin, ou l'une des personnes à sa charge définies à l'article R. 262-2, exerce une autre
-activité dans les conditions prévues au troisième alinéa de l'article L. 322-4-15-5 du code du travail, il est fait
-application, pour les revenus procurés par cette activité, des dispositions du présent article et de l'article R. 262-9.
+Lorsque l'allocataire perçoit également l'allocation de parent isolé définie à l'article L. 524-1 du code de la sécurité
+sociale ou l'allocation aux adultes handicapés définie aux articles L. 821-1 et L. 821-2 du même code et que le contrat
+d'avenir ou le contrat insertion-revenu minimum d'activité est signé avec l'intéressé en sa qualité de bénéficiaire de
+l'allocation de parent isolé ou de l'allocation aux adultes handicapés, le montant de l'aide à l'employeur est déduit du
+montant de l'allocation de revenu minimum d'insertion dès le début du contrat d'avenir ou du contrat insertion-revenu minimum
+d'activité.
+
+Dans le cas où le bénéficiaire d'un contrat insertion-revenu minimum d'activité ou d'un contrat d'avenir, son conjoint, le
+partenaire lié par un pacte civil de solidarité ou le concubin, ou l'une des personnes à sa charge définies à l'article R.
+262-2, exerce une autre activité, il est fait application, pour les revenus procurés par cette activité, des dispositions du
+présent article et de l'article R. 262-9.
 
 **Liens relatifs à cet article**
 
@@ -51483,7 +51941,11 @@ application, pour les revenus procurés par cette activité, des dispositions du
 
 	**Modifié par**:
 
-	  - Décret n°2005-242 du 17 mars 2005 - art. 3 () JORF 18 mars 2005
+	  - Décret n°2006-342 du 22 mars 2006 - art. 4 () JORF 24 mars 2006
+
+	**Transféré par**:
+
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 9 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
 
 	**Cité par**:
 
@@ -51504,16 +51966,20 @@ application, pour les revenus procurés par cette activité, des dispositions du
 	  - Code du travail - art. L322-4-12 (T)
 	  - Code du travail - art. L322-4-15 (M)
 	  - Code du travail - art. L322-4-15-5 (M)
+	  - Code du travail - art. L322-4-15-6 (M)
 	  - Code du travail - art. L322-4-7 (M)
 	  - Code du travail - art. L351-10 (M)
+	  - Code de la sécurité sociale. - art. L524-1 (M)
+	  - Code de la sécurité sociale. - art. L821-1 (M)
+	  - Code de la sécurité sociale. - art. L821-2 (M)
 	  - Code de l'action sociale et des familles - art. L262-2 (M)
 	  - Code de l'action sociale et des familles - art. L522-8 (M)
 	  - Code de l'action sociale et des familles - art. R262-2 (V)
 	  - Code de l'action sociale et des familles - art. R262-9 (M)
-	  - Code de l'action sociale et des familles R262-2, R262-12, L522-8, L262-2, L322-4-15-6, L322-4-12, L322-4-15-5, R262-9
 
 	**Nouveaux textes**:
 
+	  - Code de l'action sociale et des familles - art. R262-12 (M)
 	  - Code de l'action sociale et des familles - art. R262-12 (V)
 
 
