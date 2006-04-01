@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-03-24
+Version Consolidée au 2006-04-02
 
 # Partie législative
 
@@ -1705,7 +1705,7 @@ individuel et collectif, dans le cadre de la politique fixée par le conseil. "
 	  - PILOTE_SUIVEUR: Code rural - art. L726-1 (V)
 
 
-##### Section 5 : Etablissements publics
+##### Section 5 : Agence nationale de l'accueil des étrangers et des migrations.
 
 ###### Article L121-13
 
@@ -1719,9 +1719,9 @@ exerce les missions définies à l'article L. 341-9 du code du travail.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2005-32 du 18 janvier 2005 - art. 148 () JORF 19 janvier 2005
+	  - Loi n°2006-396 2006-03-31 art. 38 1° JORF 2 avril 2006
 
 	**Cité par**:
 
@@ -1735,14 +1735,30 @@ exerce les missions définies à l'article L. 341-9 du code du travail.
 	  - Code du travail - art. L341-9 (M)
 
 
+##### Section 6 : Agence nationale pour la cohésion sociale et l'égalité des chances.
+
 ###### Article L121-14
 
-Le Fonds d'action et de soutien pour l'intégration et la lutte contre les discriminations met en oeuvre des actions visant à
-l'intégration des populations immigrées et issues de l'immigration résidant en France et concourt à la lutte contre les
-discriminations dont elles pourraient être victimes.
+L'Agence nationale pour la cohésion sociale et l'égalité des chances est un établissement public national à caractère
+administratif. Elle contribue à des actions en faveur des personnes rencontrant des difficultés d'insertion sociale ou
+professionnelle.
 
-A ce titre, il participe au service public de l'accueil assuré par l'Agence nationale de l'accueil des étrangers et des
-migrations dans les conditions prévues à l'article L. 341-9 du code du travail.
+Elle met en oeuvre, d'une part, sur le territoire national, des actions visant à l'intégration des populations immigrées et
+issues de l'immigration résidant en France. Elle concourt à la lutte contre les discriminations. Elle contribue également à
+la lutte contre l'illettrisme et à la mise en oeuvre du service civil volontaire.
+
+Elle participe, d'autre part, aux opérations en faveur des habitants des quartiers prioritaires de la politique de la ville.
+Dans le cadre de ces actions, elle promeut l'accessibilité au savoir et à la culture. En outre, dans ses interventions,
+l'agence prend en compte les spécificités des départements d'outre-mer.
+
+L'agence mène directement des actions ou accorde des concours financiers, après optimisation des crédits de droit commun,
+notamment dans le cadre d'engagements pluriannuels, aux collectivités territoriales, aux établissements publics de
+coopération intercommunale compétents et aux organismes publics ou privés, notamment les associations, qui conduisent des
+opérations concourant à ces objectifs. Elle veille à une mise en oeuvre équitable de ces crédits sur l'ensemble du territoire
+national.
+
+Elle participe, par la conclusion de conventions pluriannuelles, au financement des contrats passés entre les collectivités
+territoriales et l'Etat pour la mise en oeuvre d'actions en faveur des quartiers visés au troisième alinéa.
 
 **Liens relatifs à cet article**
 
@@ -1751,9 +1767,9 @@ migrations dans les conditions prévues à l'article L. 341-9 du code du travail
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2005-32 du 18 janvier 2005 - art. 148 () JORF 19 janvier 2005
+	  - Loi n°2006-396 2006-03-31 art. 38 2° JORF 2 avril 2006
 
 	**Cité par**:
 
@@ -1773,16 +1789,19 @@ migrations dans les conditions prévues à l'article L. 341-9 du code du travail
 	  - Code de la sécurité intérieure - art. D132-7 (V)
 	  - Code général des collectivités territoriales - art. D2211-1 (V)
 
-	**Cite**:
-
-	  - Code du travail - art. L341-9 (M)
-
 
 ###### Article L121-15
 
-Le Fonds d'action et de soutien pour l'intégration et la lutte contre les discriminations est un établissement public
-administratif de l'Etat. Pour l'exercice de ses missions, cet établissement peut recruter des agents non titulaires sur des
-contrats à durée indéterminée.
+L'Agence nationale pour la cohésion sociale et l'égalité des chances est administrée par un conseil d'administration et un
+directeur général nommé par l'Etat. Le conseil d'administration est composé pour moitié de représentants de l'Etat et pour
+moitié de représentants des organisations syndicales d'employeurs et de salariés représentatives au plan national, de
+représentants du Parlement, de représentants des communes et de leurs établissements publics de coopération intercommunale
+compétents, des départements, des régions, des caisses nationales de sécurité sociale, des organismes régis par le code de la
+mutualité, des associations et des chambres consulaires ainsi que de personnalités qualifiées. Le président du conseil
+d'administration est désigné par l'Etat parmi ces dernières.
+
+Le représentant de l'Etat dans le département y est le délégué de l'agence. Il signe les conventions passées pour son compte
+et concourt à leur mise en oeuvre, à leur évaluation et à leur suivi.
 
 **Liens relatifs à cet article**
 
@@ -1791,9 +1810,9 @@ contrats à durée indéterminée.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2005-32 du 18 janvier 2005 - art. 148 () JORF 19 janvier 2005
+	  - Loi n°2006-396 2006-03-31 art. 38 2° JORF 2 avril 2006
 
 	**Cité par**:
 
@@ -1805,6 +1824,108 @@ contrats à durée indéterminée.
 	  - Code de l'action sociale et des familles - art. L573-1 (VT)
 	  - Code de l'action sociale et des familles - art. R121-20 (V)
 	  - Code de l'action sociale et des familles - art. R121-21 (V)
+
+
+###### Article L121-16
+
+Pour l'exercice de ses missions, l'Agence nationale pour la cohésion sociale et l'égalité des chances peut recruter des
+agents non titulaires sur des contrats à durée indéterminée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-1249 du 21 décembre 2000
+	  - Loi n°2002-2 du 2 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2006-396 2006-03-31 art. 38 2° JORF 2 avril 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2012-347 du 12 mars 2012 - art. 10 (V)
+
+
+###### Article L121-17
+
+Les ressources de l'Agence nationale pour la cohésion sociale et l'égalité des chances sont constituées notamment par :
+
+1° Les subventions de l'Etat ;
+
+2° Les concours des fonds structurels de la Communauté européenne ;
+
+3° Les subventions de la Caisse des dépôts et consignations ;
+
+4° Les produits divers, dons et legs.
+
+L'agence peut, en outre, recevoir, dans le cadre de conventions, des contributions d'organismes nationaux ou locaux des
+régimes obligatoires de sécurité sociale ou de la mutualité sociale agricole, ou d'établissements publics.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2006-396 2006-03-31 art. 38 2° JORF 2 avril 2006
+
+
+###### Article L121-18
+
+Les règles d'organisation et de fonctionnement de l'Agence nationale pour la cohésion sociale et l'égalité des chances sont
+fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2006-396 2006-03-31 art. 38 2° JORF 2 avril 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2014-173 du 21 février 2014 - art. 14 (V)
+
+
+###### Article L121-19
+
+Un agrément de service civil volontaire est délivré par l'Agence nationale pour la cohésion sociale et l'égalité des chances
+aux missions d'accueil, sous contrat, d'un ou plusieurs jeunes âgés de seize à vingt-cinq ans révolus justifiant d'une
+résidence régulière et continue de plus d'un an en France, exercées par des personnes morales de droit public ou de droit
+privé ayant une mission d'intérêt général ou d'insertion professionnelle.
+
+Dans le cadre de la mission agréée, l'organisme d'accueil s'engage à former le jeune, notamment aux valeurs civiques, et à
+l'accompagner tout au long de son contrat en désignant, dès la conclusion de celui-ci, un tuteur chargé d'assurer le suivi du
+jeune. A la fin du contrat, l'organisme accompagne le jeune dans sa recherche d'un emploi ou d'une formation.
+
+Un décret précise les conditions d'application du présent article et notamment celles dans lesquelles les organismes
+bénéficient, pour les missions agréées, de subventions accordées par l'Agence nationale pour la cohésion sociale et l'égalité
+des chances, en vue de prendre en charge tout ou partie des dépenses d'accompagnement et de formation ainsi que les
+conditions de prise en charge financière des jeunes volontaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2006-396 du 31 mars 2006 - art. 52 () JORF 2 avril 2006
+
+	**Cité par**:
+
+	  - Loi n°2010-241 du 10 mars 2010 - art. 21 (V)
+	  - Code de l'action sociale et des familles - art. R121-17 (V)
 
 
 #### Chapitre II : Domicile de secours.
@@ -7371,6 +7492,64 @@ applicables à Mayotte.
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. L543-4 (V)
+
+
+###### Article L222-4-1
+
+En cas d'absentéisme scolaire, tel que défini à l'article L. 131-8 du code de l'éducation, de trouble porté au fonctionnement
+d'un établissement scolaire ou de toute autre difficulté liée à une carence de l'autorité parentale, le président du conseil
+général, de sa propre initiative ou sur saisine de l'inspecteur d'académie, du chef d'établissement d'enseignement, du maire
+de la commune de résidence du mineur, du directeur de l'organisme débiteur des prestations familiales ou du préfet, propose
+aux parents ou au représentant légal du mineur un contrat de responsabilité parentale ou prend toute autre mesure d'aide
+sociale à l'enfance adaptée à la situation. Ce contrat rappelle les obligations des titulaires de l'autorité parentale et
+comporte toute mesure d'aide et d'action sociales de nature à remédier à la situation. Son contenu, sa durée et les modalités
+selon lesquelles il est procédé à la saisine du président du conseil général et à la conclusion du contrat sont fixés par
+décret en Conseil d'Etat. Ce décret fixe aussi les conditions dans lesquelles les autorités de saisine sont informées par le
+président du conseil général de la conclusion d'un contrat de responsabilité parentale et de sa mise en oeuvre.
+
+Lorsqu'il constate que les obligations incombant aux parents ou au représentant légal du mineur n'ont pas été respectées ou
+lorsque, sans motif légitime, le contrat n'a pu être signé de leur fait, le président du conseil général peut :
+
+1° Demander au directeur de l'organisme débiteur des prestations familiales la suspension du versement de tout ou partie des
+prestations afférentes à l'enfant, en application de l'article L. 552-3 du code de la sécurité sociale ;
+
+2° Saisir le procureur de la République de faits susceptibles de constituer une infraction pénale ;
+
+3° Saisir l'autorité judiciaire pour qu'il soit fait application, s'il y a lieu, des dispositions de l'article L. 552-6 du
+code de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2006-396 du 31 mars 2006 - art. 48 (V) JORF 2 avril 2006
+
+	**Cité par**:
+
+	  - Loi n°2006-396 du 31 mars 2006 - art. 48 (V)
+	  - Décret n°2008-1486 du 30 décembre 2008 (V)
+	  - Loi n°2011-267 du 14 mars 2011 - art. 43 (VD)
+	  - Code de l'action sociale et des familles - art. L141-1 (VD)
+	  - Code de l'action sociale et des familles - art. L141-2 (VD)
+	  - Code de l'action sociale et des familles - art. R222-4-1 (Ab)
+	  - Code de l'action sociale et des familles - art. R222-4-4 (Ab)
+	  - Code de l'action sociale et des familles - art. R222-4-5 (Ab)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-9-1 (VT)
+	  - Code de l'éducation - art. L131-8 (VD)
+	  - Code de l'éducation - art. R131-10-1 (M)
+	  - Code de l'éducation - art. R222-24-1 (VD)
+	  - Code de la sécurité sociale. - art. L552-3 (Ab)
+	  - Code général des collectivités territoriales - art. L3221-9 (VD)
+	  - Code pénal - art. R131-49 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L552-6 (M)
 
 
 ###### Article L222-5
@@ -29036,7 +29215,7 @@ employeurs ou subventions des collectivités publiques.
 ###### Article L451-3
 
 La région est compétente pour attribuer des aides aux étudiants inscrits dans les établissements mentionnés à l'article L.
-451-1. La nature, le montant et les conditions d'attribution de ces aides sont fixés par délibération du conseil régional.
+451-2-1. La nature, le montant et les conditions d'attribution de ces aides sont fixés par délibération du conseil régional. 
 
 Un décret fixe les règles minimales de taux et de barème de ces aides.
 
@@ -29048,7 +29227,6 @@ Un décret fixe les règles minimales de taux et de barème de ces aides.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
 	**Cité par**:
@@ -29062,11 +29240,11 @@ Un décret fixe les règles minimales de taux et de barème de ces aides.
 
 	**Modifié par**:
 
-	  - Loi n°2004-809 du 13 août 2004 - art. 55 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2006-396 du 31 mars 2006 - art. 37 () JORF 2 avril 2006
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L451-1 (M)
+	  - Code de l'action sociale et des familles - art. L451-2-1 (V)
 
 
 ###### Article L451-4
