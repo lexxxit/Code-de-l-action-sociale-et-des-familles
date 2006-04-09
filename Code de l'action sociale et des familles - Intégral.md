@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-04-09
+Version Consolidée au 2006-04-10
 
 # Partie législative
 
@@ -92455,12 +92455,12 @@ TOTAL
 Produits pharmaceutiques et produits à usage médical 
 
 </td>
-      <td width="98" valign="top">
+      <td valign="top" width="98">
 
 ●
 
 </td>
-      <td valign="top" width="91">
+      <td width="91" valign="top">
 
 ●
 
@@ -92478,7 +92478,7 @@ Produits pharmaceutiques et produits à usage médical
 60226
 
 </td>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 Fournitures hôtelières sauf 602261 "couches, alèses et produits absorbants" 
 
@@ -92493,7 +92493,7 @@ Fournitures hôtelières sauf 602261 "couches, alèses et produits absorbants"
 30% 
 
 </td>
-      <td valign="top" width="53">
+      <td width="53" valign="top">
 
 ●
 
@@ -92523,7 +92523,7 @@ Couches, alèses et produits absorbants
 100% 
 
 </td>
-      <td width="53" valign="top">
+      <td valign="top" width="53">
 
 ●
 
@@ -92538,7 +92538,7 @@ Couches, alèses et produits absorbants
 60321
 
 </td>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 Produits pharmaceutiques et produits à usage médical 
 
@@ -92548,12 +92548,12 @@ Produits pharmaceutiques et produits à usage médical
 ●
 
 </td>
-      <td width="91" valign="top">
+      <td valign="top" width="91">
 
 ●
 
 </td>
-      <td valign="top" width="53">
+      <td width="53" valign="top">
 
 </td>
       <td width="64" valign="top">
@@ -92566,7 +92566,7 @@ Produits pharmaceutiques et produits à usage médical
 603226
 
 </td>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 Fournitures hôtelières sauf 6032261"couches, alèses et produits absorbants" 
 
@@ -92581,12 +92581,12 @@ Fournitures hôtelières sauf 6032261"couches, alèses et produits absorbants"
 30% 
 
 </td>
-      <td valign="top" width="53">
+      <td width="53" valign="top">
 
 ●
 
 </td>
-      <td width="64" valign="top">
+      <td valign="top" width="64">
 
 </td>
     </tr>
@@ -92611,7 +92611,7 @@ Couches, alèses et produits absorbants
 100% 
 
 </td>
-      <td valign="top" width="53">
+      <td width="53" valign="top">
 
 ●
 
@@ -92656,7 +92656,7 @@ Produits d'entretien
 60626
 
 </td>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 Fournitures hôtelières sauf compte 606261"couches, alèses et produits absorbants" 
 
@@ -92671,7 +92671,7 @@ Fournitures hôtelières sauf compte 606261"couches, alèses et produits absorba
 30% 
 
 </td>
-      <td valign="top" width="53">
+      <td width="53" valign="top">
 
 ●
 
@@ -92706,7 +92706,7 @@ Couches, alèses et produits absorbants
 ●
 
 </td>
-      <td width="64" valign="top">
+      <td valign="top" width="64">
 
 </td>
     </tr>
@@ -92754,15 +92754,15 @@ Prestations à caractère médical
 ●
 
 </td>
-      <td width="91" valign="top">
+      <td valign="top" width="91">
 
 ●
 
 </td>
-      <td width="53" valign="top">
+      <td valign="top" width="53">
 
 </td>
-      <td width="64" valign="top">
+      <td valign="top" width="64">
 
 </td>
     </tr>
@@ -92782,15 +92782,15 @@ Ergothérapie
 ●
 
 </td>
-      <td width="91" valign="top">
+      <td valign="top" width="91">
 
 ●
 
 </td>
-      <td width="53" valign="top">
+      <td valign="top" width="53">
 
 </td>
-      <td valign="top" width="64">
+      <td width="64" valign="top">
 
 </td>
     </tr>
@@ -92805,7 +92805,7 @@ Ergothérapie
 Entretien et réparation sur biens mobiliers: matériel et outillage médicaux 
 
 </td>
-      <td width="98" valign="top">
+      <td valign="top" width="98">
 
 ●
 
@@ -92846,7 +92846,7 @@ Maintenance du matériel médical
       <td valign="top" width="53">
 
 </td>
-      <td valign="top" width="64">
+      <td width="64" valign="top">
 
 </td>
     </tr>
@@ -92856,18 +92856,18 @@ Maintenance du matériel médical
 61681
 
 </td>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 Primes d'assurance maladie, maternité, accident du travail 
 
 </td>
-      <td valign="top" width="98">
+      <td width="98" valign="top">
 
 </td>
-      <td width="91" valign="top">
+      <td valign="top" width="91">
 
 </td>
-      <td width="53" valign="top">
+      <td valign="top" width="53">
 
 </td>
       <td valign="top" width="64">
@@ -92885,7 +92885,7 @@ Primes d'assurance maladie, maternité, accident du travail
 PERSONNEL EXTERIEUR A L'ETABLISSEMENT 
 
 </td>
-      <td width="98" valign="top">
+      <td valign="top" width="98">
 
 </td>
       <td width="91" valign="top">
@@ -92914,15 +92914,15 @@ Personnel et paramédical Personnel intérimaire: médical
 ●
 
 </td>
-      <td valign="top" width="91">
+      <td width="91" valign="top">
 
 ●
 
 </td>
-      <td width="53" valign="top">
+      <td valign="top" width="53">
 
 </td>
-      <td valign="top" width="64">
+      <td width="64" valign="top">
 
 </td>
     </tr>
@@ -92937,7 +92937,7 @@ Personnel et paramédical Personnel intérimaire: médical
 Médecins 
 
 </td>
-      <td width="98" valign="top">
+      <td valign="top" width="98">
 
 ●
 
@@ -92950,7 +92950,7 @@ Médecins
       <td width="53" valign="top">
 
 </td>
-      <td valign="top" width="64">
+      <td width="64" valign="top">
 
 </td>
     </tr>
@@ -92975,12 +92975,12 @@ Blanchissage à l'extérieur
 30% 
 
 </td>
-      <td width="53" valign="top">
+      <td valign="top" width="53">
 
 ●
 
 </td>
-      <td valign="top" width="64">
+      <td width="64" valign="top">
 
 </td>
     </tr>
@@ -93005,12 +93005,12 @@ Nettoyage à l'extérieur
 30% 
 
 </td>
-      <td valign="top" width="53">
+      <td width="53" valign="top">
 
 ●
 
 </td>
-      <td width="64" valign="top">
+      <td valign="top" width="64">
 
 </td>
     </tr>
@@ -93020,21 +93020,21 @@ Nettoyage à l'extérieur
 631
 
 </td>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 IMPÔTS, TAXES ET VERSEMENTS ASSIMILES SUR REMUNERATIONS (administrations des impôts) 
 
 </td>
-      <td valign="top" width="98">
+      <td width="98" valign="top">
 
 </td>
-      <td valign="top" width="91">
+      <td width="91" valign="top">
 
 </td>
-      <td width="53" valign="top">
+      <td valign="top" width="53">
 
 </td>
-      <td valign="top" width="64">
+      <td width="64" valign="top">
 
 </td>
     </tr>
@@ -93058,7 +93058,7 @@ IMPÔTS, TAXES ET VERSEMENTS ASSIMILES SUR REMUNERATIONS (autres organismes)
       <td width="53" valign="top">
 
 </td>
-      <td width="64" valign="top">
+      <td valign="top" width="64">
 
 </td>
     </tr>
@@ -93073,7 +93073,7 @@ IMPÔTS, TAXES ET VERSEMENTS ASSIMILES SUR REMUNERATIONS (autres organismes)
 AUTRES IMPÔTS, TAXES ET VERSEMENTS ASSIMILES (administrations des impôts) 
 
 </td>
-      <td valign="top" width="98">
+      <td width="98" valign="top">
 
 </td>
       <td width="91">
@@ -93086,7 +93086,7 @@ AUTRES IMPÔTS, TAXES ET VERSEMENTS ASSIMILES (administrations des impôts)
 ●
 
 </td>
-      <td width="64" valign="top">
+      <td valign="top" width="64">
 
 </td>
     </tr>
@@ -93096,7 +93096,7 @@ AUTRES IMPÔTS, TAXES ET VERSEMENTS ASSIMILES (administrations des impôts)
 637
 
 </td>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 autres impôts, taxes et versements assimilés (autres organismes) 
 
@@ -93124,15 +93124,15 @@ autres impôts, taxes et versements assimilés (autres organismes)
 64
 
 </td>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 CHARGES DE PERSONNEL 
 
 </td>
-      <td width="98" valign="top">
+      <td valign="top" width="98">
 
 </td>
-      <td width="91" valign="top">
+      <td valign="top" width="91">
       </td><td width="53" valign="top">
 
 </td>
@@ -93147,7 +93147,7 @@ CHARGES DE PERSONNEL
 
 </td>
       <td width="98" valign="top">
-      </td><td valign="top" width="91">
+      </td><td width="91" valign="top">
 
 </td>
       <td width="53">
@@ -93155,12 +93155,12 @@ CHARGES DE PERSONNEL
 ●
 
 </td>
-      <td width="64" valign="top">
+      <td valign="top" width="64">
 
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="380">
+      <td width="380" colspan="2">
 
 Dotations aux amortissements du matériel médical
 
@@ -93183,7 +93183,7 @@ Dotations aux amortissements du matériel médical
 </td>
     </tr>
     <tr>
-      <td width="380" colspan="2">
+      <td colspan="2" width="380">
 
 681518: Dotations aux provisions: autres provisions pour risques (pathologies lourdes)
 
@@ -93206,7 +93206,7 @@ Dotations aux amortissements du matériel médical
 </td>
     </tr>
     <tr>
-      <td width="380" colspan="2">
+      <td colspan="2" width="380">
 
 TOTAL DES CHARGES D'EXPLOITATION : 
 
@@ -93250,7 +93250,7 @@ PRODUITS AUTRES QUE CEUX RELATIFS A LA TARIFICATION
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="380">
+      <td width="380" colspan="2">
 
 "dépendance" = B 2, "soins" = C 3
 
@@ -93271,7 +93271,7 @@ PRODUITS AUTRES QUE CEUX RELATIFS A LA TARIFICATION
 </td>
     </tr>
     <tr>
-      <td width="380" colspan="2">
+      <td colspan="2" width="380">
 
 734-3: Contribution de l'assurance maladie au titre 
 
@@ -93296,13 +93296,20 @@ de l'article R. 314-188 = B 4
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="380" rowspan="3">
+      <td colspan="2">  incorporation des résultats des exercices antérieurs "dépendance" = C 2, soins = C3</td>
+      <td> </td>
+      <td> </td>
+      <td>
+      </td><td> </td>
+    </tr>
+    <tr>
+      <td width="380" colspan="2" rowspan="3">
 
 BASE DE CALCUL DES TARIFS JOURNALIERS / 
 
-"dépendance" = D 2 soit A 2 - (B 2 + B4) 
+"dépendance" = D 2 soit [A 2 - (B 2 + B4)] 
 
-"soins" = D 3 soit A3 - B 3
++ C2 "soins" = D 3 soit A3 - B 3 + C3
 
 </td>
       <td width="98" rowspan="3">
@@ -93315,12 +93322,12 @@ BASE DE CALCUL DES TARIFS JOURNALIERS /
 ●
 
 </td>
-      <td width="53" rowspan="2">
+      <td rowspan="2" width="53">
 
 ●
 
 </td>
-      <td rowspan="3" width="64">
+      <td width="64" rowspan="3">
 
 ●
 
@@ -93367,7 +93374,7 @@ QUOTE PART DES CHARGES NETTES RELATIVES AUX AIDES-SOIGNANTES ET AUX AMP IMPUTEE 
 </td>
     </tr>
     <tr>
-      <td width="380" colspan="2">
+      <td colspan="2" width="380">
 
 PRODUCTION TOTALE DE POINTS GIR DE L'ETABLISSEMENT = F
 
@@ -93392,7 +93399,7 @@ PRODUCTION TOTALE DE POINTS GIR DE L'ETABLISSEMENT = F
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="380">
+      <td width="380" colspan="2">
 
 VALEUR NETTE DU POINT GIR "Aides soignantes et AMP" = 
 
@@ -93419,7 +93426,7 @@ E /(GMP multiplié par la capacité occupée)
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="380">
+      <td width="380" colspan="2">
 
 VALEUR NETTE DU POINT GIR "Dépendance" = (A 2 - B 2) / F
 
@@ -93444,7 +93451,7 @@ VALEUR NETTE DU POINT GIR "Dépendance" = (A 2 - B 2) / F
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="380">
+      <td width="380" colspan="2">
 
 PRODUCTION DE POINTS GIR DANS LES GROUPES ISO-RESSOURCES 1 ET 2 = G 1
 
@@ -93494,7 +93501,7 @@ PRODUCTION DE POINTS GIR DANS LES GROUPES ISO-RESSOURCES 3 ET 4 = G 2
 </td>
     </tr>
     <tr>
-      <td width="380" colspan="2">
+      <td colspan="2" width="380">
 
 PRODUCTION DE POINTS GIR DANS LES GROUPES ISO-RESSOURCES 5 ET 6 = G 3
 
@@ -93569,7 +93576,7 @@ PROPORTION DE LA PRODUCTION EN POINTS GIR DANS LE GROUPES ISO-RESSOURCES 3 ET 4 
 </td>
     </tr>
     <tr>
-      <td width="380" colspan="2">
+      <td colspan="2" width="380">
 
 PROPORTION DE LA PRODUCTION EN POINTS GIR DANS LE GROUPES ISO-RESSOURCES 5 ET 6 = IG 3/ F = H 3
 
@@ -93619,7 +93626,7 @@ PERSONNES CLASSEES DANS LES GROUPES ISO-RESSOURCES 1 à 6 = J
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="380">
+      <td width="380" colspan="2">
 
 NOMBRE DE JOURNEES PREVISIONNELLES "dépendance" et "soins" pour les 
 
@@ -93692,7 +93699,7 @@ NOMBRE DE JOURNEES PREVISIONNELLES "dépendance" et "soins" pour les PERSONNES C
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="380">
+      <td width="380" colspan="2">
 
 Pourcentage du nombre de journées prévisionnelles "dépendance" et "soins" des personnes classées dans les groupes iso-
 ressources 1 et 2 : K 1/J = L 1
@@ -93716,7 +93723,7 @@ ressources 1 et 2 : K 1/J = L 1
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="380">
+      <td width="380" colspan="2">
 
 Pourcentage du nombre de journées prévisionnelles "dépendance" et "soins" des personnes classées dans les groupes iso-
 ressources 3 et 4 : K 2/J = L 2
@@ -93791,7 +93798,7 @@ D 2 X H 1 / K 1
 </td>
     </tr>
     <tr>
-      <td width="380" colspan="2">
+      <td colspan="2" width="380">
 
 CALCUL DU TARIF JOURNALIER "DEPENDANCE" POUR LES GIR 3 ET 4 
 
@@ -93818,7 +93825,7 @@ D 2 X H 2 / K 2
 </td>
     </tr>
     <tr>
-      <td width="380" colspan="2">
+      <td colspan="2" width="380">
 
 CALCUL DU TARIF JOURNALIER "DEPENDANCE" POUR LES GIR 5 ET 6 
 
@@ -93845,7 +93852,7 @@ D 2 X H 3 / K 3
 </td>
     </tr>
     <tr>
-      <td width="380" colspan="2">
+      <td colspan="2" width="380">
 
 CALCUL DU TARIF JOURNALIER "SOINS" POUR LES GIR 1 ET 2
 
@@ -93926,7 +93933,7 @@ CALCUL DU TARIF JOURNALIER "SOINS" POUR LES GIR 5 ET 6
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="380">
+      <td width="380" colspan="2">
 
 DOTATION GLOBALE DE FINANCEMENT "SOINS" = D3 + B 4
 
@@ -94013,7 +94020,7 @@ IMPUTATION
 </td>
     </tr>
     <tr>
-      <td width="97" valign="top">
+      <td valign="top" width="97">
 
 Direction administration (pour information)
 
@@ -94058,7 +94065,7 @@ Direction administration (pour information)
 </td>
     </tr>
     <tr>
-      <td width="97" valign="top">
+      <td valign="top" width="97">
 
 Diététicien 
 
@@ -94105,7 +94112,7 @@ cuisine-services généraux (pour information)
 </td>
     </tr>
     <tr>
-      <td width="97" valign="top">
+      <td valign="top" width="97">
 
 Animation- service social (pour information) 
 
@@ -94228,7 +94235,7 @@ Aide soignante-AMP
 </td>
     </tr>
     <tr>
-      <td valign="top" width="97">
+      <td width="97" valign="top">
 
 Psychologue
 
@@ -94269,7 +94276,7 @@ Psychologue
 </td>
     </tr>
     <tr>
-      <td width="97" valign="top">
+      <td valign="top" width="97">
 
 Infirmière
 
@@ -94310,7 +94317,7 @@ Infirmière
 </td>
     </tr>
     <tr>
-      <td width="97" valign="top">
+      <td valign="top" width="97">
 
 Autres auxiliaires médicaux
 
@@ -94351,7 +94358,7 @@ Autres auxiliaires médicaux
 </td>
     </tr>
     <tr>
-      <td width="97" valign="top">
+      <td valign="top" width="97">
 
 Pharmacien préparateur en pharmacie 
 
@@ -94392,7 +94399,7 @@ Pharmacien préparateur en pharmacie
 </td>
     </tr>
     <tr>
-      <td width="97" valign="top">
+      <td valign="top" width="97">
 
 Médecin
 
@@ -94433,7 +94440,7 @@ Médecin
 </td>
     </tr>
     <tr>
-      <td width="97" valign="top">
+      <td valign="top" width="97">
 
 Total 
 
@@ -94529,7 +94536,7 @@ IMPUTATION
 </td>
     </tr>
     <tr>
-      <td valign="top" width="97">
+      <td width="97" valign="top">
 
 ASH-agent de service affectés aux fonctions de blanchissage, nettoyage et service des repas 
 
@@ -94568,7 +94575,7 @@ ASH-agent de service affectés aux fonctions de blanchissage, nettoyage et servi
 </td>
     </tr>
     <tr>
-      <td width="97" valign="top">
+      <td valign="top" width="97">
 
 Aide soignante-AMP
 
@@ -94851,7 +94858,7 @@ Total
 
 	**Modifié par**:
 
-	  - Décret n°2007-828 du 11 mai 2007 - art. 5
+	  - Décret n°2006-422 du 7 avril 2006 - art. 23
 
 	**Cite**:
 
