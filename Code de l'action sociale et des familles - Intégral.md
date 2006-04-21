@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-04-10
+Version Consolidée au 2006-04-22
 
 # Partie législative
 
@@ -79369,6 +79369,9 @@ L'attestation de formation délivrée par l'établissement de formation est remi
 Sont dispensés de suivre la formation prévue au troisième alinéa du présent article les assistants familiaux titulaires d'un
 diplôme d'auxiliaire de puériculture, d'éducateur de jeunes enfants, d'éducateur spécialisé ou de puéricultrice.
 
+La rémunération prévue au premier alinéa de l'article L. 421-15 ne peut être inférieure à 50 fois le salaire minimum de
+croissance par mois.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -79377,7 +79380,11 @@ diplôme d'auxiliaire de puériculture, d'éducateur de jeunes enfants, d'éduca
 
 	**Modifié par**:
 
-	  - Décret n°2005-1772 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005
+	  - Décret n°2006-464 du 20 avril 2006 - art. 5 () JORF 22 avril 2006
+
+	**Transféré par**:
+
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
 
 	**Nouveaux textes**:
 
