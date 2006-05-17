@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-04-22
+Version Consolidée au 2006-05-18
 
 # Partie législative
 
@@ -61762,6 +61762,122 @@ sociale et des services d'accompagnement médico-social pour adultes handicapés
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. R543-1 (V)
+
+
+##### Paragraphe 11 : Structures dénommées "lits halte soins santé".
+
+###### Article D312-176-1
+
+Les structures dénommées "lits halte soins santé", mentionnées au 9° du I de l'article L. 312-1 du code de l'action sociale
+et des familles, assurent, sans interruption, des prestations de soins, d'hébergement temporaire et d'accompagnement social.
+Elles ne sont pas dédiées à une pathologie donnée.
+
+Les bénéficiaires de ces prestations sont des personnes sans domicile fixe, quelle que soit leur situation administrative,
+dont l'état de santé nécessite une prise en charge sanitaire et un accompagnement social.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-556 du 17 mai 2006 - art. 1 () JORF 18 mai 2006
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L312-1 (M)
+
+
+###### Article D312-176-2
+
+Les structures dénommées "lits halte soins santé" sont gérées par une personne morale publique ou privée.
+
+En fonction des besoins et des moyens locaux, les lits halte soins santé peuvent être regroupés en un lieu unique sans
+excéder le nombre de trente ou être installés, sous la responsabilité du gestionnaire de la structure "lits halte soins
+santé", dans différents sites, que ces derniers soient ou non exclusivement dédiés à cette activité.
+
+Lorsque les lits halte soins santé sont installés dans les locaux d'un autre établissement ou service social ou médico-
+social, ils ne doivent pas représenter plus de 15 % de l'ensemble des places autorisées de cette structure, sans jamais
+dépasser le nombre de trente.
+
+Il est cependant possible, sur avis motivé du comité régional d'organisation sociale et médico-sociale, de déroger aux règles
+de capacités définies aux alinéas précédents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-556 du 17 mai 2006 - art. 1 () JORF 18 mai 2006
+
+
+###### Article D312-176-3
+
+Les structures dénommées "lits halte soins santé" disposent de locaux adaptés et d'une équipe pluridisciplinaire composée de
+personnels administratifs et techniques sanitaires et sociaux. Cette équipe comprend obligatoirement au moins un médecin et
+une infirmière.
+
+Les personnels peuvent être des salariés de la structure ou des intervenants extérieurs, mis à disposition, ou des
+professionnels libéraux rémunérés par la structure, et dont les prestations font l'objet d'un contrat, d'une convention ou
+d'un protocole.
+
+Une convention entre la structure dénommée "lits halte soins santé" et les établissements de santé généraux et les
+établissements de santé ayant une activité spécifique de psychiatrie dans la zone géographique d'implantation précise les
+conditions de mise en oeuvre des interventions des professionnels de santé des établissements de santé au sein de la
+structure "lits halte soins santé". Elle indique également les modalités selon lesquelles cette structure peut avoir recours,
+s'il y a lieu, à des consultations hospitalières ou à des hospitalisations pour des personnes accueillies, dont l'état
+sanitaire l'exige, notamment dans les situations d'urgence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-556 du 17 mai 2006 - art. 1 () JORF 18 mai 2006
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D312-176-4 (M)
+
+
+###### Article D312-176-4
+
+L'admission est prononcée, sur demande de la personne, par le directeur responsable de la structure "lits halte soins santé",
+après un avis d'un médecin de cette structure qui en évalue la pertinence médicale. En cas de nécessité d'une prise en charge
+hospitalière, l'admission ne peut être prononcée.
+
+La durée prévisionnelle du séjour est inférieure à deux mois.
+
+La sortie du dispositif d'une personne accueillie est soumise à avis médical, rendu après concertation avec l'équipe
+sanitaire et sociale mentionnée à l'article D. 312-176-3.
+
+La régulation des places disponibles doit être organisée, en fonction du contexte local, dans le cadre du dispositif de
+veille sociale.
+
+Un protocole est établi entre le dispositif de veille sociale responsable de la régulation et les directeurs responsables des
+structures "lits halte soins santé", afin que soient définies les règles d'orientation, de régulation et d'accueil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-556 du 17 mai 2006 - art. 1 () JORF 18 mai 2006
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D312-176-3 (V)
 
 
 ##### Section 2 : Organismes consultatifs
