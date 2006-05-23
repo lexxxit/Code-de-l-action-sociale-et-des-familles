@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-05-18
+Version Consolidée au 2006-05-24
 
 # Partie législative
 
@@ -67299,10 +67299,10 @@ ont choisi leurs prestataires et leurs fournisseurs les plus importants.
 
 ###### Article R314-59
 
-Lorsqu'il doit être établi en application de l'article L. 612-5 du code de commerce, le rapport relatif aux conventions
-passées directement ou par personne interposée entre la personne gestionnaire d'un établissement ou service et l'un de ses
-administrateurs ou l'une des personnes assurant un rôle de mandataire social, est transmis dès son établissement à l'autorité
-de tarification.
+Lorsqu'il doit être établi en application de l'article L. 612-5 du code de commerce et du I de l'article L. 313-25 du présent
+code, le rapport relatif aux conventions passées directement ou par personne interposée entre la personne gestionnaire d'un
+établissement ou service et l'un de ses administrateurs ou l'une des personnes assurant un rôle de mandataire social, est
+transmis dès son établissement à l'autorité de tarification.
 
 **Liens relatifs à cet article**
 
@@ -67315,41 +67315,18 @@ de tarification.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-584 du 23 mai 2006 - art. 1 () JORF 24 mai 2006
+
 	**Cite**:
 
 	  - Code de commerce. - art. L612-5 (M)
+	  - Code de l'action sociale et des familles - art. L313-25 (T)
 
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. R314-61 (V)
-
-
-###### Article R314-60
-
-Lorsque les recettes de la tarification servent à subventionner un autre organisme, soit par apport d'espèces, soit par
-apport en nature sous forme, notamment, de mise à disposition de locaux, de personnel ou de moyens techniques,
-l'établissement ou le service tient à la disposition des autorités de tarification ou de contrôle toute information sur la
-nature et l'activité de l'organisme subventionné et sur l'emploi exact des moyens affectés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2003-1010 2003-10-22 art. 59
-	  - Décret n°2003-1010 du 22 octobre 2003 - art. 59 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
-
-	  - Décret n°2006-584 du 23 mai 2006 - art. 1 () JORF 24 mai 2006
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. R314-61 (M)
-	  - Code de l'action sociale et des familles - art. R543-1 (V)
 
 
 ##### Sous-paragraphe 2 : Opérations d'évaluation et de contrôle
@@ -67436,8 +67413,9 @@ La mission d'enquête propose des mesures de nature à remédier aux difficulté
 constaté.
 
 Elle saisit, le cas échéant, l'autorité qui a délivré l'autorisation, afin qu'elle puisse notamment exercer les pouvoir de
-contrôle et d'injonction prévus aux articles L. 313-13 et L. 313-14, et le préfet du département, afin qu'il puisse exercer
-les pouvoirs qu'il tient notamment de l'article L. 313-16 et du titre III du livre III du présent code.
+contrôle et d'injonction prévus à la section 4 du chapitre III du titre Ier du livre III du présent code, et le préfet du
+département, afin qu'il puisse exercer les pouvoirs qu'il tient notamment de l'article L. 313-16 et du titre III du livre III
+du présent code.
 
 **Liens relatifs à cet article**
 
@@ -67450,6 +67428,10 @@ les pouvoirs qu'il tient notamment de l'article L. 313-16 et du titre III du liv
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-584 du 23 mai 2006 - art. 1 () JORF 24 mai 2006
+
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. D316-6 (V)
@@ -67460,7 +67442,6 @@ les pouvoirs qu'il tient notamment de l'article L. 313-16 et du titre III du liv
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L313-13 (M)
-	  - Code de l'action sociale et des familles - art. L313-14 (M)
 	  - Code de l'action sociale et des familles - art. L313-16 (M)
 
 
@@ -67688,6 +67669,34 @@ territoriales sont applicables aux établissements publics sociaux et médico-so
 	  - Code général des collectivités territoriales - art. L1612-1 (V)
 	  - Code général des collectivités territoriales - art. L1612-11 (V)
 	  - Code général des collectivités territoriales - art. L1612-15 (V)
+
+
+###### Article R314-69
+
+Sans préjudice des délégations de signature consenties par application de l'article L. 315-17, le directeur est seul
+compétent pour passer les marchés de travaux, fournitures ou services pour l'établissement. Ces derniers sont exécutoires dès
+leur réception par le représentant de l'Etat et sont soumis en matière de contrôle de légalité aux dispositions de l'article
+L. 6145-6 du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2003-1010 2003-10-22 art. 69
+	  - Décret n°2003-1010 du 22 octobre 2003 - art. 69 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-584 du 23 mai 2006 - art. 2 () JORF 24 mai 2006
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L6145-6 (M)
+	  - Code de l'action sociale et des familles - art. L315-17 (V)
 
 
 ###### Article R314-72
@@ -68262,7 +68271,9 @@ qui sont nécessaires à l'établissement des indicateurs mentionnés à l'artic
 5° A la conduite des études mentionnées à l'article R. 314-61 ;
 
 6° A la réalisation de prestations de service ou d'étude pour les établissements et services sociaux et médico-sociaux qui
-concourent à des économies d'échelle.
+concourent à des économies d'échelle ;
+
+7° A l'élaboration des contrats prévus à l'article R. 314-43-1.
 
 II. - L'autorisation est en outre subordonnée à l'existence de délégations de pouvoirs précises entre les administrateurs de
 l'organisme gestionnaire, les membres de sa direction générale et les agents de direction des établissements et services. Ces
@@ -68292,7 +68303,7 @@ Les demandes de révision de l'autorisation sont présentées dans les mêmes fo
 
 	**Modifié par**:
 
-	  - Décret n°2006-422 du 7 avril 2006 - art. 17 () JORF 9 avril 2006
+	  - Décret n°2006-584 du 23 mai 2006 - art. 3 () JORF 24 mai 2006
 
 	**Cite**:
 
@@ -68300,6 +68311,7 @@ Les demandes de révision de l'autorisation sont présentées dans les mêmes fo
 	  - Code de l'action sociale et des familles - art. L312-7 (M)
 	  - Code de l'action sociale et des familles - art. L312-9 (M)
 	  - Code de l'action sociale et des familles - art. R314-28 (V)
+	  - Code de l'action sociale et des familles - art. R314-43-1 (V)
 	  - Code de l'action sociale et des familles - art. R314-61 (M)
 	  - Code de l'action sociale et des familles - art. R314-87 (V)
 
@@ -68967,15 +68979,21 @@ sous réserve de l'habilitation mentionnée à l'article L. 313-6, prises en cha
 
 I. - Pour les établissements et services mentionnés au 1° de l'article L. 312-1 :
 
-1° Pour ceux des services d'aide à domicile qui relèvent également du 8° du même article, par le département, sous la forme
-de tarifs horaires établis et versés conformément aux dispositions du paragraphe 5 de la sous-section 4 de la section 2 ;
+1° Pour ceux des services d'aide à domicile qui relèvent également des 6° et 7° du même article, par le département, sous la
+forme de tarifs horaires établis et versés conformément aux dispositions du paragraphe 5 de la sous-section 4 de la section
+2 ;
 
 2° Pour les autres établissements et services, par le département, sous la forme d'un prix de journée éventuellement
 globalisé, établi et versé dans les conditions prévues aux sous-paragraphes 3 et 4 du paragraphe 2 de la sous-section 3 de la
 présente section ;
 
 3° Pour les équipes de prévention spécialisée relevant du 1° du I de l'article L. 312-1 et du 2° de l'article L. 221-1, sous
-la forme d'une dotation globale versée par le département dans les conditions précisées aux articles R. 314-106 à R. 314-109.
+la forme d'une dotation globale versée par le département dans les conditions précisées aux articles R. 314-106 à R.
+314-109 ;
+
+4° Pour les services assurant une action d'aide à domicile prévue au deuxième alinéa de l'article L. 222-3, par le
+département sous forme d'une dotation globale de financement versée dans les conditions précisées aux articles R. 314-106 à
+R. 314-109.
 
 II. - Pour les établissements et services mentionnés au 2° de l'article L. 312-1 :
 
@@ -69051,12 +69069,12 @@ pour les dépenses afférentes aux soins médicaux, en vertu des articles L. 174
 sociale, sous la forme d'un forfait journalier établi et versé dans les conditions fixées aux articles R. 314-142 et R.
 314-143 ;
 
-3° Pour les services de soins infirmiers à domicile, par l'assurance maladie, sous la forme d'une dotation globale établie
+3° Pour les services d'aide à domicile ne dispensant pas de soins, par le département, sous la forme de tarifs horaires
+établis et versés dans les conditions fixées au paragraphe 5 de la sous-section 4 de la présente section ;
+
+4° Pour les services de soins infirmiers à domicile, par l'assurance maladie, sous la forme d'une dotation globale établie
 dans les conditions fixées au paragraphe 6 de la sous-section 4 de la présente section et versée dans les conditions fixées
 aux articles R. 174-16-1 à R. 174-16-5 du code de la sécurité sociale.
-
-4° Pour les services de soins infirmiers à domicile, par l'assurance maladie, sous la forme d'un forfait annuel global de
-soins établi et versé dans les conditions fixées au paragraphe 6 de la sous-section 4 de la présente section  ;
 
 5° Pour les autres établissements et services, par le département sous la forme d'un prix de journée établi et versé
 conformément aux dispositions du sous-paragraphe 3 du paragraphe 2 de la sous-section 3 de la présente section.
@@ -69067,9 +69085,8 @@ IX. - Pour les établissements et services mentionnés au 8° de l'article L. 31
 dotation globale de financement établie et versée dans les conditions fixées au sous-paragraphe 1 du paragraphe 2 de la
 présente sous-section et au paragraphe 9 de la sous-section 4 de la présente section ;
 
-2° Pour les services d'aide à domicile qui relèvent simultanément du 1° du I de l'article L. 312-1, par le département, sous
-la forme de tarifs horaires établis et versés conformément aux dispositions du paragraphe 5 de la sous-section 4 de la
-présente section ;
+2° Pour les services d'aide à domicile qui relèvent simultanément du 1° du I de l'article L. 312-1, par le département sous
+forme d'une dotation globale de financement versée dans les conditions précisées aux articles R. 314-106 à R. 314-109 ;
 
 3° Pour les centres maternels et hôtels maternels qui accueillent des femmes isolées, enceintes ou accompagnées d'enfants de
 moins de trois ans, par le département sous la forme de prix de journées éventuellement globalisés, dans les conditions
@@ -69129,6 +69146,7 @@ sous la forme de tarifs journaliers établis dans les conditions prévues à l'a
 	  - Code de la sécurité sociale. - art. R174-7 (Ab)
 	  - Code de la sécurité sociale. - art. R174-8 (Ab)
 	  - Code de l'action sociale et des familles - art. L221-1 (M)
+	  - Code de l'action sociale et des familles - art. L222-3 (M)
 	  - Code de l'action sociale et des familles - art. L228-3 (V)
 	  - Code de l'action sociale et des familles - art. L312-1 (M)
 	  - Code de l'action sociale et des familles - art. L313-12 (M)
@@ -69147,7 +69165,7 @@ sous la forme de tarifs journaliers établis dans les conditions prévues à l'a
 	  - Code de l'action sociale et des familles - art. R314-145 (V)
 	  - Code de l'action sociale et des familles - art. R314-146 (V)
 	  - Code de l'action sociale et des familles - art. R314-192 (M)
-	  - Code de l'action sociale et des familles L313-6, L312-1, L221-1, R314-106 à R314-109, R314-123, L314-1, L228-3, R314-125, R314-126, L344-4, L313-12, R314-192, R232-21, L344-1, R314-145, R314-146, R314-142, R314-143, L345-1, L314-8
+	  - Code de l'action sociale et des familles L313-6, L312-1, L221-1, R314-106 à R314-109, L222-3, R314-123, L314-1, L228-3, R314-125, R314-126, L344-4, L313-12, R314-192, R232-21, L344-1, R314-145, R314-146, R314-142, R314-143, L345-1, L314-8
 	  - Nouveau code de procédure civile 1181 à 1200
 
 	**Anciens textes**:
@@ -69161,7 +69179,7 @@ sous la forme de tarifs journaliers établis dans les conditions prévues à l'a
 
 	**Modifié par**:
 
-	  - Décret n°2006-422 du 7 avril 2006 - art. 25 () JORF 9 avril 2006
+	  - Décret n°2006-584 du 23 mai 2006 - art. 4 () JORF 24 mai 2006
 
 	**Cité par**:
 
@@ -69576,11 +69594,12 @@ Les établissements et services qui offrent divers modes de prise en charge tels
 6° Des journées d'intégration en milieu ordinaire ;
 
 peuvent demander, soit dans le cadre de leurs propositions budgétaires, soit dans les quinze jours qui suivent la
-notification de leur prix de journée, que celui-ci soit modulé selon le mode d'accueil retenu pour l'enfant ou le jeune
-adulte pris en charge.
+notification du montant des dépenses autorisées, que leur prix de journée soit modulé selon le mode d'accueil retenu pour
+l'enfant ou le jeune adulte pris en charge.
 
-Lorsque la demande est formulée postérieurement à la notification d'un prix de journée unique, elle ne peut aboutir à des
-dépenses prévisionnelles plus élevées que celles qui auraient résulté de l'application de ce prix de journée.
+Lorsque la demande est formulée postérieurement à la notification de ces dépenses assorties d'un prix de journée unique, elle
+ne peut aboutir à des dépenses prévisionnelles plus élevées que celles qui auraient résulté de l'application de ce prix de
+journée.
 
 La décision d'autorisation budgétaire et de tarification ou, si la demande de l'établissement ou du service lui est
 postérieure, la décision qui accepte le principe de la modulation fixe le montant de chacun des tarifs.
@@ -69595,6 +69614,10 @@ postérieure, la décision qui accepte le principe de la modulation fixe le mont
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-584 du 23 mai 2006 - art. 5 () JORF 24 mai 2006
 
 	**Cité par**:
 
@@ -71954,27 +71977,12 @@ correspondant aux tarifs journaliers afférents à l'hébergement.
 ###### Article R314-183
 
 Pour les établissements relevant du 2° de l'article L. 342-1, le tarif journalier afférent à l'hébergement des personnes qui
-sont bénéficiaires de l'aide sociale est arrêté par le président du conseil général du lieu d'implantation de
-l'établissement.
+sont bénéficiaires de l'aide sociale est arrêté par le président du conseil général du lieu d'implantation de l'établissement
+dans le cadre d'une convention d'aide sociale et dans les conditions prévues à l'article L. 342-3-1.
 
-Ce tarif est obtenu en considérant la fraction de capacité de l'établissement qui est habilitée à recevoir des bénéficiaires
-de l'aide sociale, et en divisant la part des charges de la section tarifaire hébergement obtenue proportionnellement à cette
-fraction par le nombre annuel de journées prévisionnelles des personnes bénéficiaires de l'aide sociale.
+**Nota:**
 
-Les modalités de fixation de ce tarif journalier afférent à l'hébergement pour les bénéficiaires de l'aide sociale peuvent
-être précisées dans le cadre d'une annexe à la convention prévue au I de l'article L. 313-12 ou dans le cadre d'une
-convention spécifique passée entre le président du conseil général et l'établissement.
 
-Cette convention fixe le montant de la participation de l'aide sociale départementale au titre du tarif afférent à
-l'hébergement. Le montant de cette participation peut être déterminé sur la base de la moyenne des tarifs journaliers
-mentionnés au 1° de l'article R. 314-181 tels qu'ils ont été fixés par le président du conseil général lors de l'exercice en
-cours.
-
-Le montant de la participation est majoré pour l'exercice suivant dans les limites du pourcentage fixé en application de
-l'article L. 342-3.
-
-Le choix du mode de fixation du tarif journalier afférent à l'hébergement des bénéficiaires de l'aide sociale prévu au
-présent article est arrêté dans la convention prévue au I de l'article L. 313-12.
 
 **Liens relatifs à cet article**
 
@@ -71986,6 +71994,10 @@ présent article est arrêté dans la convention prévue au I de l'article L. 31
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-584 du 23 mai 2006 - art. 6 () JORF 24 mai 2006
+
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. D232-21 (V)
@@ -71993,18 +72005,39 @@ présent article est arrêté dans la convention prévue au I de l'article L. 31
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L313-12 (M)
-	  - Code de l'action sociale et des familles - art. L342-1 (M)
-	  - Code de l'action sociale et des familles - art. L342-3 (M)
-	  - Code de l'action sociale et des familles - art. R314-181 (V)
+	  - Code de l'action sociale et des familles - art. L342-1 (V)
+	  - Code de l'action sociale et des familles - art. L342-3-1 (VT)
+
+
+###### Article R314-183-1
+
+L'évolution des prix moyens de revient de l'hébergement qui vont servir de références pour la fixation des tarifs opposables
+à l'aide sociale départementale est calculée en appliquant la formule de calcul prévue au a bis) de l'annexe 3.1 du présent
+code. Le cas échéant, il est aussi pris en compte les conséquences de la taxe à la valeur ajoutée applicable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-584 du 23 mai 2006 - art. 6 () JORF 24 mai 2006
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. Annexe 3-1 (V)
 
 
 ###### Article R314-184
 
 Les tarifs journaliers afférents à la dépendance sont arrêtés en appliquant les formules de calcul précisées à l'annexe 3-1.
 
-Pour les établissements volontaires, la dotation budgétaire globale afférente à la dépendance prévue au II de l'article L.
-232-8 est arrêtée par le président du conseil général en appliquant les formules de calcul précisées à l'annexe 3-7.
+La dotation budgétaire globale afférente à la dépendance prévue au II de l'article L. 232-8 est arrêtée par le président du
+conseil général en appliquant les formules de calcul précisées à l'annexe 3-7. Cette dotation globale prend en compte
+l'évolution du groupe iso-ressources moyen pondéré dès lors que ce dernier connaît, par rapport à l'année précédente, une
+évolution supérieure à un nombre de points fixé par arrêté du ministre chargé des personnes âgées.
 
 Le règlement de la dotation budgétaire globale afférente à la dépendance est effectué par acomptes mensuels correspondant au
 douzième du montant de cette dotation budgétaire globale arrêtée par le président du conseil général. Ces acomptes sont
@@ -72033,6 +72066,10 @@ alinéa du I de l'article L. 232-8. Cette dernière est calculée en appliquant 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-584 du 23 mai 2006 - art. 6 () JORF 24 mai 2006
 
 	**Cité par**:
 
@@ -72716,10 +72753,11 @@ les tableaux de service, sans que sa durée puisse excéder douze heures.
 
 ###### Article R314-204
 
-Dans les établissements hébergeant des personnes âgées dépendantes, le tarif journalier afférent à l'hébergement est, en cas
-d'absence de plus de soixante-douze heures, minoré des charges variables relatives à la restauration et à l'hôtellerie pour
-un montant fixé dans le règlement départemental d'aide sociale. Pour les absences de plus de soixante-douze heures pour cause
-d'hospitalisation, cette minoration doit tenir compte du montant du forfait hospitalier.
+Dans les établissements relevant du 6° et du 7° du I de l'article L. 312-1 ou du 2° de l'article L. 6111-2 du code de la
+santé publique, le tarif journalier afférent à l'hébergement est, en cas d'absence de plus de soixante-douze heures, minoré
+des charges variables relatives à la restauration et à l'hôtellerie pour un montant fixé dans le règlement départemental
+d'aide sociale. Pour les absences de plus de soixante-douze heures pour cause d'hospitalisation, cette minoration doit tenir
+compte du montant du forfait hospitalier.
 
 **Liens relatifs à cet article**
 
@@ -72731,6 +72769,15 @@ d'hospitalisation, cette minoration doit tenir compte du montant du forfait hosp
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-584 du 23 mai 2006 - art. 7 () JORF 24 mai 2006
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L6111-2 (V)
+	  - Code de l'action sociale et des familles - art. L312-1 (M)
 
 
 #### Chapitre V : Dispositions propres aux établissements et services sociaux et médico-sociaux relevant de personnes morales de droit public
@@ -75921,14 +75968,20 @@ Le registre prévu à l'article L. 331-2 est coté et paraphé par le maire.
 	  - Code de l'action sociale et des familles - art. L331-2 (V)
 
 
-##### Section 3 : Fermeture des établissements.
+##### Section 3 : Administration provisoire et fermeture des établissements et services.
 
 ###### Article R331-6
+
+L'administrateur provisoire est choisi en raison de ses compétences en matière médico-sociale ou sociale. Il doit satisfaire
+aux conditions définies aux 1° à 4° de l'article L. 811-5 du code de commerce. Dans le cas où une rémunération est prévue par
+l'autorité qui l'a désigné, cette dernière est assurée par l'établissement ou le service sur lequel il est désigné. Pour ses
+missions, il contracte une assurance couvrant les conséquences financières de sa responsabilité conformément aux dispositions
+de l'article L. 814-5 du code de commerce. Cette dernière est prise en charge dans les mêmes conditions que la rémunération. 
 
 L'administrateur provisoire désigné par le préfet dans le cas prévu à l'article L. 331-6 a à sa disposition l'ensemble des
 locaux et du personnel de l'établissement, ainsi que les fonds de l'établissement. La personne physique ou morale
 gestionnaire de l'établissement est tenue de lui remettre le registre coté et paraphé prévu à l'article L. 331-2, les
-dossiers des mineurs ou pensionnaires, les livres de comptabilité et l'état des stocks.
+dossiers des mineurs ou pensionnaires, les livres de comptabilité et l'état des stocks. 
 
 L'administrateur provisoire est habilité à recouvrer les créances et à acquitter les dettes de l'établissement.
 
@@ -75942,14 +75995,46 @@ L'administrateur provisoire est habilité à recouvrer les créances et à acqui
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-584 du 23 mai 2006 - art. 8 () JORF 24 mai 2006
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L331-2 (M)
-	  - Code de l'action sociale et des familles - art. L331-6 (M)
+	  - Code de commerce - art. L811-5 (V)
+	  - Code de commerce - art. L814-5 (VT)
+	  - Code de l'action sociale et des familles - art. L331-2 (V)
+	  - Code de l'action sociale et des familles - art. L331-6 (V)
 
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. R331-7 (V)
+
+
+###### Article R331-7
+
+L'administrateur provisoire désigné en application de l'article L. 313-14 exerce sa mission dans les conditions prévues à
+l'article R. 331-6.
+
+Dans le cadre de la mise en oeuvre des injonctions faites en application de l'article L. 313-14, l'administrateur provisoire
+procède, en matière de gestion des personnels, au licenciement individuel, à la remise à disposition ou à la mutation des
+personnels si ces mesures sont urgentes ou nécessaires, afin de permettre le retour à un fonctionnement normal de
+l'établissement ou du service.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-584 du 23 mai 2006 - art. 8 () JORF 24 mai 2006
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L313-14 (M)
+	  - Code de l'action sociale et des familles - art. R331-6 (M)
 
 
 ### Titre IV : Dispositions spécifiques à certaines catégories d'établissements
@@ -76111,6 +76196,41 @@ par les articles D. 312-123 à D. 312-152.
 
 
 #### Chapitre II : Hébergement de personnes âgées.
+
+###### Article D342-2
+
+La convention d'aide sociale prévue à l'article L. 342-3-1 définit la nature et les conditions de mise en oeuvre des missions
+assurées par l'établissement accueillant des personnes âgées par référence au schéma gérontologique départemental. 
+
+Cette convention mentionne notamment :
+
+- les catégories de publics que l'établissement s'engage à accueillir ;
+
+- la nature des actions qu'il conduit au bénéfice de ces publics ;
+
+- les conditions d'admission et de réservation des places des bénéficiaires de l'aide sociale ;
+
+- les modalités de coordination avec les services sociaux aux fins de faciliter l'admission des bénéficiaires de l'aide
+sociale ;
+
+- les modalités selon lesquelles sont assurés les soutiens sociaux aux bénéficiaires de l'aide sociale ;
+
+- les montants des tarifs pris en charge par l'aide sociale, leurs règles de calcul et de revalorisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-584 du 23 mai 2006 - art. 9 () JORF 24 mai 2006
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L342-3-1 (V)
+
 
 ###### Article R342-1
 
@@ -81610,22 +81730,12 @@ Le préfet de région décide de la recevabilité des demandes de validation des
 
 ###### Article R451-26
 
-Le jury décide de la validation prévue aux articles 5 et 6 du décret n° 2002-615 du 26 avril 2002 pris pour l'application de
-l'article L. 900-1 du code du travail et des articles L. 335-5 et L. 335-6 du code de l'éducation relatif à la validation des
-acquis de l'expérience pour la délivrance d'une certification professionnelle.
+Le jury décide de la validation prévue aux articles R. 335-9 et R. 335-10 du code de l'éducation. 
 
 Il arrête la liste des candidats admis au certificat d'aptitude aux fonctions d'encadrement et de responsable d'unité
 d'intervention sociale.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°2002-615 du 26 avril 2002 - art. 5, v. init.
-	  - Décret n°2002-615 du 26 avril 2002 - art. 6, v. init.
-	  - Code de l'éducation - art. L335-5 (M)
-	  - Code de l'éducation - art. L335-6 (M)
-	  - Code du travail - art. L900-1 (M)
 
 	**Anciens textes**:
 
@@ -81635,6 +81745,14 @@ d'intervention sociale.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-583 du 23 mai 2006 - art. 2 (V) JORF 24 mai 2006
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R335-9 (V)
 
 	**Cité par**:
 
