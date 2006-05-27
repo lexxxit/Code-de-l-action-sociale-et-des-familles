@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-05-25
+Version Consolidée au 2006-05-28
 
 # Partie législative
 
@@ -39180,12 +39180,34 @@ Conformément à l'article 1 du décret n° 2014-1618 du 24 décembre 2014, le C
 
 ###### Article D149-2
 
-Le comité national peut être consulté par le ministre chargé des personnes âgées sur tout projet, programme ou étude
-intéressant les personnes âgées. Il peut également examiner de sa propre initiative toute autre question relative à la
-politique sociale ou médico-sociale concernant les retraités et les personnes âgées. Il remet au ministre chargé des
-personnes âgées avant le 1er octobre de chaque année, un rapport sur l'application de la politique relative aux prestations
-de services et aux équipements sociaux et médico-sociaux intéressant les retraités et personnes âgées pendant l'année
-écoulée.
+Le comité national est consulté par le ministre chargé des personnes âgées sur les projets de textes réglementaires
+concernant les personnes âgées et relatifs aux politiques de prévention de la perte d'autonomie, de soutien à la dépendance,
+de maintien à domicile, de coordination gérontologique ainsi qu'à la qualité des prises en charge par les services et
+établissements. Il peut également être consulté par le ministre chargé des personnes âgées sur toute question, étude ou tout
+programme concernant les retraités et les personnes âgées. L'avis est notifié au ministre dans le délai d'un mois, réduit à
+huit jours en cas d'urgence dans la lettre de saisine.
+
+Le comité national peut débattre de sa propre initiative de toute question concernant les retraités et les personnes âgées et
+se voir, par ailleurs, confier des missions d'expertise, définies par lettre de saisine signée du ministre chargé des
+personnes âgées.
+
+Le comité national constitue et anime des commissions régionales.
+
+Il remet au ministre chargé des personnes âgées, avant le 1er octobre de chaque année, un rapport sur les évolutions du rôle
+et de la place des retraités et des personnes âgées au sein de la société. Ce rapport est rendu public. Il organise
+annuellement une journée nationale de réflexion sur ce thème.
+
+**Nota:**
+
+Décret n° 2009-624 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Comité national
+des retraités et des personnes âgées).
+
+Conformément à l'article 2 du décret n° 2014-594 du 6 juin 2014, le Comité national des retraités et des personnes âgées est
+renouvelé jusqu'au 31 décembre 2014.
+
+Conformément à l'article 1 du décret n° 2014-1618 du 24 décembre 2014, le Comité national des retraités et des personnes
+âgées est renouvelé jusqu'au 31 décembre 2015.
 
 **Liens relatifs à cet article**
 
@@ -39196,6 +39218,10 @@ de services et aux équipements sociaux et médico-sociaux intéressant les retr
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-609 du 26 mai 2006 - art. 1 () JORF 28 mai 2006
 
 
 ###### Article D149-3
@@ -39302,8 +39328,20 @@ auxquels elles appartiennent, soit à raison de leurs compétences dans le domai
 
 ###### Article D149-5
 
-Les membres du comité national sont nommés pour une durée de trois ans par arrêté du ministre chargé des personnes âgées. Le
-ministre désigne également un vice-président, chargé de présider le comité en son absence.
+Les membres du comité national sont nommés pour une durée de trois ans par arrêté du ministre chargé des personnes âgées. Ils
+élisent parmi eux un vice-président, chargé de présider le comité en l'absence du président.
+
+**Nota:**
+
+Décret n° 2009-624 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Comité national
+des retraités et des personnes âgées).
+
+Conformément à l'article 2 du décret n° 2014-594 du 6 juin 2014, le Comité national des retraités et des personnes âgées est
+renouvelé jusqu'au 31 décembre 2014.
+
+Conformément à l'article 1 du décret n° 2014-1618 du 24 décembre 2014, le Comité national des retraités et des personnes
+âgées est renouvelé jusqu'au 31 décembre 2015.
 
 **Liens relatifs à cet article**
 
@@ -39315,6 +39353,10 @@ ministre désigne également un vice-président, chargé de présider le comité
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-609 du 26 mai 2006 - art. 2 () JORF 28 mai 2006
 
 
 ###### Article D149-6
@@ -39346,120 +39388,6 @@ Conformément à l'article 1 du décret n° 2014-1618 du 24 décembre 2014, le C
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
-
-
-##### Section 2 : Comités départementaux des retraités et des personnes âgées.
-
-###### Article D149-7
-
-Le comité départemental des retraités et des personnes âgées, constitue un lieu de dialogue, d'information et de réflexion.
-Il est consulté sur l'élaboration et l'application des mesures de toute nature les concernant, en concertation avec les
-professionnels et les principaux organismes chargés de mettre en oeuvre les actions en leur faveur au sein du département.
-
-Il établit, avant le 1er juin de chaque année, un rapport sur la mise en oeuvre des programmes relatifs aux prestations de
-services et aux équipements sociaux intéressant les retraités et les personnes âgées dans le département pendant l'année
-écoulée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-697 du 4 août 1982 - art. 7, v. init.
-	  - Décret n°82-697 du 4 août 1982 - art. 7 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
-
-	  - Décret n°2006-609 du 26 mai 2006 - art. 3 () JORF 28 mai 2006
-
-
-###### Article D149-8
-
-Le comité départemental est présidé par le préfet ou son représentant. Il comprend :
-
-1° Les seize représentants départementaux des associations et organisations mentionnés au 2° de l'article D. 149-4 ; le
-préfet procède à la nomination des membres titulaires et suppléants, sur proposition des associations et organismes
-concernés. Si des sièges ne sont pas pourvus, il peut, dans la limite des vacances et après consultation du président du
-conseil général du département, désigner les représentants d'associations ou d'organisations de personnes âgées, non
-mentionnées au 2° de l'article D. 149-4, et représentatives localement ;
-
-2° Dix personnes en activité au sein des principales professions concernées par l'action sanitaire et sociale en faveur des
-personnes âgées ; la désignation des membres titulaires et suppléants incombe au préfet et au président du conseil général, à
-raison de cinq pour chaque autorité.
-
-3° Dix personnes représentant les collectivités territoriales et les principaux organismes qui, par leurs interventions et
-leurs financements, apportent une contribution significative à l'action en faveur des personnes âgées au sein du département.
-
-La désignation des membres titulaires et suppléants incombe, à raison de cinq, au préfet sur proposition des organismes
-concernés, de quatre, au président du conseil général, d'une au président de l'association départementale des maires de
-France ou, à défaut, au collège des maires du département.
-
-Dans la limite de six, le comité départemental peut en outre faire appel à des personnalités qualifiées désignées en nombre
-égal par le préfet et le président du conseil général.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-697 du 4 août 1982 - art. 8 (M)
-	  - Décret n°82-697 du 4 août 1982 - art. 8 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
-
-	  - Décret n°2006-609 du 26 mai 2006 - art. 3 () JORF 28 mai 2006
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. D149-4 (M)
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. D149-9 (Ab)
-
-
-###### Article D149-9
-
-Le comité départemental élit, chaque année, en son sein, les membres du bureau.
-
-Il se réunit au moins trois fois par an sur convocation du président ou à la demande d'un tiers au moins de ses membres.
-
-Le comité comprend deux vice-présidents.
-
-Le premier vice-président est le président du conseil général ou son représentant.
-
-Le second vice-président est élu par les membres du comité parmi les représentants mentionnés au 1° de l'article D. 149-8.
-
-Le mandat des membres titulaires et suppléants des comités départementaux est de trois ans. Il prend fin s'ils perdent la
-qualité au titre de laquelle ils ont été désignés. Le mandat des membres représentant les conseils généraux désignés au 3° de
-l'article D. 149-8 expire lors de chaque renouvellement de ces assemblées. Lorsqu'un membre cesse d'appartenir au comité
-départemental avant l'expiration de son mandat, il est pourvu dans un délai d'un mois à son remplacement. Dans ce cas, les
-fonctions du nouveau membre prennent fin à la date à laquelle auraient cessé celles du membre qu'il a remplacé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-697 du 4 août 1982 - art. 9 (M)
-	  - Décret n°82-697 du 4 août 1982 - art. 9 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
-
-	  - Décret n°2006-609 du 26 mai 2006 - art. 3 () JORF 28 mai 2006
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. D149-8 (Ab)
 
 
 #### Chapitre X : Caisse nationale de solidarité pour l'autonomie
