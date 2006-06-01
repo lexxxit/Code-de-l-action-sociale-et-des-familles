@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-05-28
+Version Consolidée au 2006-06-02
 
 # Partie législative
 
@@ -65701,35 +65701,37 @@ articles R. 314-51 à R. 314-53.
 
 ###### Article R314-23
 
-Les propositions de modifications budgétaires mentionnées à l'article R. 314-22 sont motivées.
+Les propositions de modifications budgétaires mentionnées à l'article R. 314-22 sont motivées. 
 
-L'autorité de tarification peut les justifier au regard, notamment :
+L'autorité de tarification peut les justifier au regard, notamment : 
 
-1° Des règles d'imputation des dépenses mentionnées au sous-paragraphe 3 du paragraphe 3 de la présente sous-section  ;
+1° Des règles d'imputation des dépenses mentionnées au sous-paragraphe 3 du paragraphe 3 de la présente sous-section ; 
 
-2° Des dépenses réelles constatées au cours des exercices antérieurs, lorsqu'elles correspondent à des dépenses autorisées ;
+2° Des dépenses réelles constatées au cours des exercices antérieurs, lorsqu'elles correspondent à des dépenses autorisées ; 
 
 3° Du classement des personnes accueillies dans l'établissement ou le service par groupes iso-ressources, mentionnés au 2° du
-I de l'article R. 314-17, lorsque la réglementation applicable à l'établissement ou au service prévoit un tel classement ;
+I de l'article R. 314-17, lorsque la réglementation applicable à l'établissement ou au service prévoit un tel classement ; 
 
 4° Des besoins sociaux et médico-sociaux de la population ou de certaines catégories de la population, telles qu'elles sont
 notamment appréciées par le schéma d'organisation sociale et médico-sociale, mentionné à l'article L. 312-4, dont relève
-l'établissement ou service ;
+l'établissement ou service ; 
 
 5° Des stipulations d'un contrat d'objectifs et de moyens mentionné à l'article L. 313-11, d'une convention mentionnée au I
-de l'article L. 313-12 ou de l'une des formules de coopération énumérées à l'article L. 312-7 ;
+de l'article L. 313-12 ou de l'une des formules de coopération énumérées à l'article L. 312-7 ; 
 
 6° Des coûts des établissements et services qui fournissent des prestations comparables, et notamment des coûts moyens et
 médians de certaines activités ou de certaines prestations, en vue de réduire les inégalités de dotation entre établissements
-et services ;
+et services ; 
 
 7° De la valeur des indicateurs calculés dans les conditions fixées à l'article R. 314-30, rapprochée des valeurs de ces
-mêmes indicateurs dans les établissements ou services qui fournissent des prestations comparables ;
+mêmes indicateurs dans les établissements ou services qui fournissent des prestations comparables ; 
 
 8° Des priorités qu'elle se fixe en matière d'action sociale, notamment celles mentionnées au deuxième alinéa de l'article L.
-313-8 ;
+313-8 ; 
 
-9° Des résultats des études diligentées conformément aux dispositions de l'article R. 314-61.
+9° Des résultats des études diligentées conformément aux dispositions de l'article R. 314-61 ; 
+
+10° des indicateurs de référence arrêtés en application de l'article R. 314-33-1.
 
 **Liens relatifs à cet article**
 
@@ -65742,6 +65744,10 @@ mêmes indicateurs dans les établissements ou services qui fournissent des pres
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-642 du 31 mai 2006 - art. 3 () JORF 2 juin 2006
+
 	**Cité par**:
 
 	  - Arrêté du 26 mars 2009 - art. 2 (V)
@@ -65750,14 +65756,14 @@ mêmes indicateurs dans les établissements ou services qui fournissent des pres
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L312-4 (M)
-	  - Code de l'action sociale et des familles - art. L312-7 (M)
-	  - Code de l'action sociale et des familles - art. L313-11 (M)
-	  - Code de l'action sociale et des familles - art. L313-12 (M)
-	  - Code de l'action sociale et des familles - art. L313-8 (M)
-	  - Code de l'action sociale et des familles - art. R314-17 (M)
-	  - Code de l'action sociale et des familles - art. R314-22 (V)
-	  - Code de l'action sociale et des familles - art. R314-61 (M)
+	  - Code de l'action sociale et des familles - art. L312-4 (V)
+	  - Code de l'action sociale et des familles - art. L312-7 (V)
+	  - Code de l'action sociale et des familles - art. L313-11 (V)
+	  - Code de l'action sociale et des familles - art. L313-12 (V)
+	  - Code de l'action sociale et des familles - art. L313-8 (V)
+	  - Code de l'action sociale et des familles - art. R314-17 (V)
+	  - Code de l'action sociale et des familles - art. R314-33-1 (V)
+	  - Code de l'action sociale et des familles - art. R314-61 (V)
 
 
 ###### Article R314-24
@@ -66161,10 +66167,9 @@ particulier de l'établissement ou du service.
 
 ###### Article R314-33
 
-Lorsque, sur trois exercices successifs, la valeur d'un indicateur du tableau de bord s'écarte de la valeur moyenne ou
-médiane de cet indicateur au niveau national, régional ou départemental, au delà d'un certain pourcentage fixé par l'arrêté
-mentionné à l'article R. 314-29, l'autorité de tarification peut demander à l'établissement ou au service d'exposer les
-raisons qui justifient cet écart.
+Lorsque, la valeur d'un indicateur du tableau de bord s'écarte de la valeur moyenne ou médiane de cet indicateur au niveau
+national, régional ou départemental, au delà d'un certain pourcentage fixé par l'arrêté mentionné à l'article R. 314-29,
+l'autorité de tarification peut demander à l'établissement ou au service d'exposer les raisons qui justifient cet écart.
 
 Compte tenu de la réponse de l'établissement ou du service, ou à défaut de réponse dans un délai d'un mois, l'autorité de
 tarification peut préciser à l'établissement ou au service la nature et l'ampleur des écarts dont elle requiert la réduction,
@@ -66185,6 +66190,10 @@ cette communication.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-642 du 31 mai 2006 - art. 3 () JORF 2 juin 2006
+
 	**Cité par**:
 
 	  - Arrêté du 28 novembre 2013 - art. 9 (V)
@@ -66195,6 +66204,34 @@ cette communication.
 
 	  - Code de l'action sociale et des familles - art. R314-24 (M)
 	  - Code de l'action sociale et des familles - art. R314-29 (V)
+
+
+###### Article R314-33-1
+
+Pour des catégories d'établissements et de services analogues, les ministres chargés de l'action sociale et de la sécurité
+sociale peuvent fixer par arrêté des indicateurs nationaux de référence assortis, le cas échéant, d'une marge de tolérance.
+
+Ces indicateurs de référence sont calculés sur la base d'un échantillon national représentatif d'établissement et services.
+
+Les établissements ou les services dont les coûts se situent au-dessus de ces indicateurs nationaux de référence doivent
+préciser les raisons qui expliquent et justifient ces écarts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-642 du 31 mai 2006 - art. 3 () JORF 2 juin 2006
+
+	**Cité par**:
+
+	  - Arrêté du 4 janvier 2010 - art. 2 (V)
+	  - Arrêté du 15 novembre 2013 - art. 1 (V)
+	  - Code de l'action sociale et des familles - art. R314-150 (V)
+	  - Code de l'action sociale et des familles - art. R314-23 (V)
 
 
 ##### Sous-paragraphe 5 : Décision d'autorisation budgétaire et de tarification.
@@ -66242,12 +66279,26 @@ Dans le cas où la tarification n'a pas été fixée avant le 1er janvier de l'e
 tarification de l'établissement ou du service continuent d'être liquidées et perçues dans les conditions applicables à
 l'exercice précédent, sous réserve des dispositions de l'article R. 314-38.
 
-Lorsque la nouvelle tarification entre en vigueur, il est procédé, sur les sommes versées par l'Etat, l'assurance maladie ou
-les départements financeurs, à une régularisation des versements dûs au titre de la période allant du 1er janvier de
-l'exercice à la date d'effet du nouveau tarif.
+Lorsque les tarifs journaliers sont fixés après le 1er janvier de l'exercice en cause, les nouveaux tarifs dont la date
+d'effet est précisée dans l'arrêté tarifaire sont calculés en prenant en compte, en application du précédent alinéa, les
+produits encaissés et à encaisser entre le 1er janvier et ladite date d'effet.
 
-Pour les prestations acquittées par l'usager, la régularisation s'effectue dans les conditions prévues par le contrat de
-séjour ou par le document individuel de prise en charge mentionnées à l'article L. 311-4.
+Le calcul des tarifs journaliers prend en compte les données suivantes :
+
+TB, tarif qui aurait été applicable au 1er janvier de l'exercice en cours si l'arrêté de tarification avait été pris avant
+cette date ;
+
+TA n - 1, tarif fixé pour l'exercice précédent (n - 1) ;
+
+Y, nombre de journées calendaires écoulées du 1er janvier jusqu'à la veille de la date fixée par l'arrêté ;
+
+et Z, nombre de journées prévisionnelles retenu pour l'exercice en cours,
+
+et la formule de calcul du tarif TA n applicable à l'exercice en cours à partir de la date fixée par l'arrêté est alors :
+
+Formule non reproduite, consulter le fac-similé.
+
+https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000000243550
 
 **Liens relatifs à cet article**
 
@@ -66264,9 +66315,12 @@ séjour ou par le document individuel de prise en charge mentionnées à l'artic
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-642 du 31 mai 2006 - art. 4 () JORF 2 juin 2006
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L311-4 (M)
 	  - Code de l'action sociale et des familles - art. R314-38 (M)
 
 
@@ -67940,15 +67994,20 @@ chapitre sont complétées par les dispositions du présent paragraphe.
 
 L'arrêté prévu à l'article R. 314-5 est établi par référence :
 
-1° Au plan comptable des établissements publics sociaux et médico-sociaux, pour ce qui concerne les comptes de charges, les
-comptes de produits et les comptes d'affectation des résultats excédentaires ;
+1° Au plan comptable des établissements publics sociaux et médico-sociaux, pour ce qui concerne les comptes d'immobilisation
+les comptes de charges et les comptes de charges à répartir, les comptes de produits et les comptes d'affectation des
+résultats excédentaires ;
 
-2° Au plan comptable des associations et des fondations, pour ce qui concerne les comptes de capitaux, les comptes
-d'immobilisations, les comptes de stocks, les comptes de tiers, les comptes financiers, la prise en compte des frais de siège
-et le compte relatif à l'impôt sur les sociétés des personnes morales à but non lucratif.
+2° Au plan comptable des associations et des fondations, pour ce qui concerne les comptes de capitaux, les comptes de stocks,
+les comptes de tiers, les comptes financiers, la prise en compte des frais de siège et le compte relatif à l'impôt sur les
+sociétés des personnes morales à but non lucratif.
 
 Il comporte en outre des comptes de provisions réglementées relatifs à la réserve de trésorerie, ainsi que des comptes de
 plus values nettes sur cessions d'éléments d'actifs immobilisés et d'éléments d'actifs circulants.
+
+L'organisme gestionnaire dont les produits de la tarification des établissements et services relevant de l'article R. 314-1
+représentent plus de 50 % de ses produits d'exploitation applique au niveau consolidé le plan comptable des établissements et
+services sociaux et médico-sociaux fixé par l'arrêté prévu à l'article R. 314-5.
 
 **Liens relatifs à cet article**
 
@@ -67961,6 +68020,10 @@ plus values nettes sur cessions d'éléments d'actifs immobilisés et d'élémen
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-642 du 31 mai 2006 - art. 5 () JORF 2 juin 2006
+
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. R211-15 (V)
@@ -67969,6 +68032,7 @@ plus values nettes sur cessions d'éléments d'actifs immobilisés et d'élémen
 
 	**Cite**:
 
+	  - Code de l'action sociale et des familles - art. R314-1 (V)
 	  - Code de l'action sociale et des familles - art. R314-5 (V)
 
 
@@ -69029,9 +69093,11 @@ X. - Pour les établissements et services mentionnés au 9° de l'article L. 312
 3311-1 du code de la santé publique, sous la forme d'une dotation globale établie et versée dans les conditions fixée par les
 articles R. 174-16-1 à R. 174-16-5 du code de la sécurité sociale ;
 
-2° Pour les centres spécialisés de soins aux toxicomanes, par l'assurance maladie, en vertu des dispositions de l'article L.
-314-8, sous la forme d'une dotation globale établie et versée dans les conditions fixée par les articles R. 174-7 et R. 174-8
-du code de la sécurité sociale ;
+2° Pour les centres spécialisés de soins aux toxicomanes, les centres d'accueil et d'accompagnement à la réduction des
+risques pour usagers de drogues, et les structures dénommées "lits halte soins santé" par l'assurance maladie, en vertu des
+dispositions de l'article L. 314-8 du présent code et de l'article L. 3121-5 du code de la santé publique, sous la forme
+d'une dotation globale établie et versée dans les conditions fixée par les articles R. 174-7 et R. 174-8 du code de la
+sécurité sociale ;
 
 3° Pour les appartements de coordination thérapeutique, par l'assurance maladie, en vertu des dispositions de l'article L.
 314-8, sous la forme d'une dotation globale établie et versée dans les conditions fixée par les articles R. 174-16-1 à R.
@@ -69065,6 +69131,7 @@ sous la forme de tarifs journaliers établis dans les conditions prévues à l'a
 	  - Loi n°2001-647 du 20 juillet 2001 - art. 5 (MMN)
 	  - Code civil 375 à 375-8
 	  - Code de la santé publique - art. L2112-8 (V)
+	  - Code de la santé publique - art. L3121-5 (M)
 	  - Code de la santé publique - art. L3311-1 (V)
 	  - Code de la santé publique - art. L6111-2 (V)
 	  - Code de la sécurité sociale L321-1, R174-16-1 à R174-16-5, R174-9 à R174-16, L174-7, L162-24-1, R174-7, R174-8
@@ -69107,7 +69174,7 @@ sous la forme de tarifs journaliers établis dans les conditions prévues à l'a
 
 	**Modifié par**:
 
-	  - Décret n°2006-584 du 23 mai 2006 - art. 4 () JORF 24 mai 2006
+	  - Décret n°2006-642 du 31 mai 2006 - art. 6 () JORF 2 juin 2006
 
 	**Cité par**:
 
