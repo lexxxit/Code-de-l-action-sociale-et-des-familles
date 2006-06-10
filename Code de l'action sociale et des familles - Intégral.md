@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-06-08
+Version Consolidée au 2006-06-11
 
 # Partie législative
 
@@ -37070,9 +37070,10 @@ Des représentants des ministres chargés de l'action sociale, des affaires euro
 de la culture, de l'éducation, de l'équipement, de la fonction publique, du ministre de la justice, du ministre chargé de
 l'industrie, du ministre de l'intérieur, des ministres chargés du logement, de l'outre-mer, des personnes handicapées, de la
 recherche, de la santé, des sports, des transports, du travail, de l'emploi et de la formation professionnelle, désignés par
-ceux-ci, ainsi que le délégué interministériel aux personnes handicapées, sont invités à participer aux séances du Conseil.
-Les représentants d'autres ministres sont, en fonction de l'ordre du jour, invités par le président du conseil national
-consultatif à participer aux travaux prévus. Les représentants des administrations n'ont pas voix délibérative.
+ceux-ci, ainsi que le délégué interministériel aux personnes handicapées et le directeur général de l'action sociale,
+participent aux séances du conseil. Les représentants d'autres ministres sont, en fonction de l'ordre du jour, invités par le
+président du conseil national consultatif à participer aux travaux prévus. Les représentants des administrations n'ont pas
+voix délibérative.
 
 **Liens relatifs à cet article**
 
@@ -37084,6 +37085,10 @@ consultatif à participer aux travaux prévus. Les représentants des administra
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-683 du 9 juin 2006 - art. 1 () JORF 11 juin 2006
 
 	**Cité par**:
 
@@ -37168,7 +37173,7 @@ Il tient au moins deux réunions par an.
 
 ###### Article D146-5
 
-Le secrétariat du conseil national est assuré par la direction générale de l'action sociale.
+Le secrétariat du conseil national est assuré par le délégué interministériel aux personnes handicapées.
 
 **Liens relatifs à cet article**
 
@@ -37180,6 +37185,10 @@ Le secrétariat du conseil national est assuré par la direction générale de l
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-683 du 9 juin 2006 - art. 2 () JORF 11 juin 2006
 
 
 ###### Article D146-6
