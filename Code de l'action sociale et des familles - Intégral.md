@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-06-11
+Version Consolidée au 2006-06-17
 
 # Partie législative
 
@@ -50880,12 +50880,8 @@ arrêté du ministre chargé des personnes handicapées.
 
 ###### Article R245-40
 
-Pour l'appréciation des charges du demandeur, la commission des droits et de l'autonomie des personnes handicapées tient
-compte des aides de toute nature ayant pour effet de réduire ces charges.
-
-Pour fixer les montants attribués au titre des divers éléments de cette prestation, la commission déduit les tarifs
-applicables au titre d'une prestation en nature ou en espèces de sécurité sociale ainsi que toute autre aide versée à ce
-titre par des collectivités publiques ou des organismes de protection sociale.
+Pour fixer les montants attribués au titre des divers éléments de cette prestation, la commission déduit les sommes versées
+correspondant à un droit de même nature ouvert au titre d'un régime de sécurité sociale.
 
 **Liens relatifs à cet article**
 
@@ -50895,7 +50891,7 @@ titre par des collectivités publiques ou des organismes de protection sociale.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1588 du 19 décembre 2005 - art. 1 () JORF 20 décembre 2005
+	  - Décret n°2006-703 du 16 juin 2006 - art. 9 () JORF 17 juin 2006
 
 	**Cité par**:
 
