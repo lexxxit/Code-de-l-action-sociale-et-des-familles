@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-07-02
+Version Consolidée au 2006-07-08
 
 # Partie législative
 
@@ -44523,6 +44523,143 @@ L'Etat aide à la mise en place d'un réseau structuré d'organismes autorisés 
 
 	  - Code de la famille et de l'aide sociale art. 100-2-1 al. 1
 	  - Code de la famille et de l'aide sociale. - art. 100-2-1 (Ab)
+
+
+##### Section 3 : Agence française de l'adoption
+
+###### Article R225-47
+
+L'Agence française de l'adoption exerce les activités prévues aux 1° et 2° de l'article R. 225-12 et à l'article R. 225-13. 
+
+L'activité prévue au 3° de l'article R. 225-12 est exercée par le service de l'aide sociale à l'enfance du département où
+réside l'enfant dans les conditions fixées à l'article L. 225-18.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-811 du 6 juillet 2006 - art. 1 () JORF 8 juillet 2006
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L225-18 (V)
+	  - Code de l'action sociale et des familles - art. R225-12 (V)
+	  - Code de l'action sociale et des familles - art. R225-13 (V)
+
+
+###### Article R225-48
+
+En vue d'obtenir l'habilitation prévue à l'article L. 225-12, l'Agence française pour l'adoption doit fournir les pièces
+prévues aux 4°, 7°, 8°, 9°, 10° et 11° de l'article R. 225-33.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-811 du 6 juillet 2006 - art. 1 () JORF 8 juillet 2006
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L225-12 (V)
+	  - Code de l'action sociale et des familles - art. R225-33 (V)
+
+
+###### Article R225-49
+
+Pour l'exercice de ses missions, l'agence s'appuie sur des correspondants départementaux désignés conformément à l'article L.
+225-16. 
+
+Les correspondants départementaux exercent une mission d'information et de conseil, notamment sur les aspects techniques et
+juridiques de la procédure d'adoption.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-811 du 6 juillet 2006 - art. 1 () JORF 8 juillet 2006
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L225-16 (V)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R225-52 (V)
+
+
+###### Article R225-50
+
+Les dispositions des articles R. 225-34 à R. 225-37, R. 225-38, à l'exception du 1°, R. 225-39, du premier alinéa de
+l'article R. 225-41 et de l'article R. 225-44 sont applicables à l'Agence française de l'adoption.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-811 du 6 juillet 2006 - art. 1 () JORF 8 juillet 2006
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. R225-38 (V)
+	  - Code de l'action sociale et des familles - art. R225-41 (V)
+	  - Code de l'action sociale et des familles - art. R225-44 (V)
+	  - Code de l'action sociale et des familles R225-34 à R225-37, R225-38, R225-41, R225-44
+
+
+###### Article R225-51
+
+Les personnes souhaitant adopter un enfant définissent avec l'agence les éléments essentiels de leur projet d'adoption, en ce
+qui concerne notamment le pays d'origine et l'âge du ou des enfants qui pourraient leur être confiés. Une copie du projet
+d'adoption leur est remis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-811 du 6 juillet 2006 - art. 1 () JORF 8 juillet 2006
+
+
+###### Article R225-52
+
+L'Etat contribue sous la forme d'une dotation financière annuelle au fonctionnement de l'Agence française de l'adoption.
+
+Les départements contribuent à l'exercice des missions de l'agence par la désignation au sein de leurs services d'au moins un
+correspondant local qui assure les fonctions définies à l'article R. 225-49. Ils peuvent apporter, le cas échéant, des moyens
+complémentaires de fonctionnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-811 du 6 juillet 2006 - art. 1 () JORF 8 juillet 2006
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. R225-49 (V)
 
 
 #### Chapitre VI : Protection des mineurs maltraités
