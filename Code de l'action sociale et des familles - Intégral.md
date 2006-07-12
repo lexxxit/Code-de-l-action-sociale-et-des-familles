@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-07-08
+Version Consolidée au 2006-07-13
 
 # Partie législative
 
@@ -33772,6 +33772,284 @@ la loi du 6 janvier 1978 ci-dessus mentionnée.
 	**Créé par**:
 
 	  - Décret n°2005-1135 du 7 septembre 2005 - art. 2 () JORF 10 septembre 2005
+
+
+##### Section 7 : Service civil volontaire
+
+##### Sous-section 1 : Agrément au titre du service civil volontaire.
+
+###### Article D121-27
+
+L'agrément est délivré par l'Agence nationale pour la cohésion sociale et l'égalité des chances à la personne morale de droit
+public ou privé ayant une mission d'intérêt général ou d'insertion professionnelle qui :
+
+1° Est reconnue pour son expérience et la qualité de son intervention dans des actions d'intérêt général ;
+
+2° Dispose d'une activité ou d'un programme d'activités d'intérêt général susceptibles d'être confiées à des jeunes âgés de
+seize à vingt-cinq ans révolus justifiant d'une résidence régulière et continue de plus d'un an en France et conformes à la
+nature de sa mission générale ;
+
+3° Présente les garanties nécessaires à un accompagnement individualisé des jeunes accueillis, au regard des obligations
+attachées au service civil volontaire, notamment en ce qui concerne la formation aux valeurs civiques et le tutorat, définies
+respectivement aux articles D. 121-30 et D. 121-31 ;
+
+4° Dispose d'au moins un salarié chargé de l'encadrement de la structure ;
+
+5° Est à jour de ses cotisations sociales et fiscales et offre des garanties financières suffisantes au bon déroulement des
+missions agréées ;
+
+6° S'engage à respecter la charte du service civil volontaire définie par arrêté du ministre en charge de la cohésion
+sociale.
+
+La composition du dossier d'agrément est fixée par décision du directeur général de l'Agence nationale pour la cohésion
+sociale et l'égalité des chances.
+
+L'agrément est accordé pour une durée de trois ans et pour un nombre maximal de jeunes accueillis simultanément au sein de la
+structure. Il est renouvelable par décision expresse.
+
+L'Agence nationale pour la cohésion sociale et l'égalité des chances peut à tout moment contrôler les conditions d'exercice
+du service civil volontaire au sein de l'organisme agréé. Celui-ci doit tenir à cet effet à la disposition de cette autorité
+les documents probants ou les pièces justificatives nécessaires à ce contrôle.
+
+L'agrément peut être retiré suivant les mêmes formes que la délivrance lorsque l'organisme agréé cesse de remplir l'une des
+conditions énoncées ci-dessus.
+
+La décision portant retrait d'agrément ne peut intervenir qu'après que l'organisme a été mis à même de présenter ses
+observations dans un délai de trois mois à compter de la réception de la notification des griefs formulés par l'Agence
+nationale pour la cohésion sociale et l'égalité des chances.
+
+Les décisions d'agrément et de retrait d'agrément sont publiées au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-838 du 12 juillet 2006 - art. 1 () JORF 13 juillet 2006
+
+	**Cité par**:
+
+	  - Arrêté du 21 août 2006 - art. 1 (V)
+	  - Code de l'action sociale et des familles - art. R541-2 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D121-30 (V)
+	  - Code de l'action sociale et des familles - art. D121-31 (V)
+
+
+##### Sous-section 2 : Conditions d'exercice du service civil volontaire.
+
+###### Article D121-28
+
+Le service civil volontaire a une durée minimale continue de six, neuf ou douze mois. 
+
+La durée hebdomadaire de la mission agréée au titre du service civil volontaire est au moins égale à vingt-six heures. 
+
+A l'exception des cas dans lesquels le service civil volontaire est accompli dans le cadre des dispositifs et volontariats
+mentionnés à l'article D. 121-34, le contrat qui lie le jeune et la structure agréée est un contrat de volontariat
+associatif, un contrat de volontariat civil de cohésion sociale et de solidarité, un contrat de volontariat civil à l'aide
+technique ou un contrat d'accompagnement dans l'emploi. 
+
+Au début du service civil volontaire, il est remis au jeune une carte nominative portant la mention : " Service civil
+volontaire ". 
+
+La structure agréée ne peut confier à un jeune relevant du service civil volontaire une mission accomplie préalablement par
+un salarié ayant été licencié ou ayant démissionné durant les six derniers mois. 
+
+La structure d'accueil informe l'Agence nationale pour la cohésion sociale et l'égalité des chances de toute interruption ou
+fin anticipée du service civil volontaire avant la date d'échéance prévue.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-838 du 12 juillet 2006 - art. 1 () JORF 13 juillet 2006
+
+	**Cité par**:
+
+	  - Décret n°2006-838 du 12 juillet 2006 - art. 2 (V)
+	  - Arrêté du 21 août 2006 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D121-34 (V)
+
+
+###### Article D121-29
+
+Pour chaque jeune, la structure d'accueil établit un programme de service civil volontaire, qui définit les activités
+d'intérêt général, le programme de formation, notamment aux valeurs civiques, et les modalités du tutorat. Il lui est remis
+un livret explicitant les valeurs et l'organisation institutionnelle de la République française.
+
+Dans le dernier mois du service civil volontaire et en tant que de besoin, l'organisme accompagne le jeune dans sa recherche
+d'un emploi ou d'une formation qualifiante.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-838 du 12 juillet 2006 - art. 1 () JORF 13 juillet 2006
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D121-32 (V)
+
+
+###### Article D121-30
+
+La structure d'accueil est tenue d'assurer la formation des jeunes aux valeurs civiques, telle qu'elle est définie dans la
+charte du service civil volontaire. L'Agence nationale pour la cohésion sociale et l'égalité des chances vérifie
+l'effectivité et la qualité de la formation dispensée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-838 du 12 juillet 2006 - art. 1 () JORF 13 juillet 2006
+
+	**Cité par**:
+
+	  - Arrêté du 21 août 2006 - art. 1 (V)
+	  - Décret n°2006-1024 du 21 août 2006 - art. 1 (V)
+	  - Code de l'action sociale et des familles - art. D121-27 (V)
+	  - Code de l'action sociale et des familles - art. D121-33 (V)
+
+
+###### Article D121-31
+
+La structure agréée désigne un tuteur du jeune effectuant un service civil volontaire.
+
+Le tuteur assure un suivi individualisé et régulier du jeune dans l'accomplissement de son service civil volontaire. Ce
+tutorat a également pour objectif d'aider et d'accompagner le jeune à accéder à un emploi ou à une formation qualifiante à
+l'issue du service civil volontaire. Si, à l'issue du service civil volontaire, le jeune n'a pu accéder à un emploi ou à une
+formation qualifiante, le tutorat se poursuit pendant les deux mois suivants afin notamment d'assurer une prise en charge du
+jeune par le service public de l'emploi.
+
+La charte du service civil volontaire fixe le nombre maximal de jeunes placés sous la responsabilité d'un tuteur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-838 du 12 juillet 2006 - art. 1 () JORF 13 juillet 2006
+
+	**Cité par**:
+
+	  - Arrêté du 21 août 2006 - art. 1 (V)
+	  - Décret n°2006-1024 du 21 août 2006 - art. 1 (V)
+	  - Code de l'action sociale et des familles - art. D121-27 (M)
+	  - Code de l'action sociale et des familles - art. D121-33 (M)
+
+
+###### Article D121-32
+
+Un brevet de service civil volontaire atteste de l'accomplissement du programme défini à l'article D. 121-29.
+
+Ce brevet de service civil volontaire, conforme à un modèle fixé par un arrêté du ministre en charge de la cohésion sociale,
+est délivré à l'intéressé par la structure d'accueil. 
+
+L'Agence nationale pour la cohésion sociale et l'égalité des chances tient un registre de tous les jeunes ayant effectué un
+service civil volontaire. 
+
+Le refus de délivrer le brevet de service civil volontaire peut faire l'objet d'un recours auprès de l'Agence nationale pour
+la cohésion sociale et l'égalité des chances.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-838 du 12 juillet 2006 - art. 1 () JORF 13 juillet 2006
+
+	**Cité par**:
+
+	  - Décret n°2006-838 du 12 juillet 2006 - art. 2 (V)
+	  - Arrêté du 21 août 2006 - art. 2 (V)
+	  - Code de l'action sociale et des familles - art. D121-34 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D121-29 (V)
+
+
+##### Sous-section 3 : Financement du service civil volontaire.
+
+###### Article D121-33
+
+L'accueil de chaque jeune au titre du service civil volontaire ouvre droit à un financement de l'Agence nationale pour la
+cohésion sociale et l'égalité des chances permettant de prendre en charge tout ou partie de l'allocation versée au volontaire
+et des obligations inhérentes au service civil volontaire que sont la formation aux valeurs civiques et l'accompagnement du
+jeune, tels que définis respectivement aux articles D. 121-30 et D. 121-31.
+
+Un décret fixe le montant et les modalités du concours financier alloué en fonction du contrat qui lie le jeune et la
+structure d'accueil.
+
+L'attribution de ce financement est exclusive de tout autre concours financier des services de l'Etat ou de ses
+établissements publics au titre du service civil volontaire.
+
+Les organismes bénéficiant de financements au titre du service civil volontaire rendent compte chaque année de l'activité des
+jeunes accueillis, auprès de l'Agence nationale pour la cohésion sociale et l'égalité des chances, au plus tard le 31 mars de
+l'année suivante.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-838 du 12 juillet 2006 - art. 1 () JORF 13 juillet 2006
+
+	**Cité par**:
+
+	  - Décret n°2006-1024 du 21 août 2006 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D121-30 (V)
+	  - Code de l'action sociale et des familles - art. D121-31 (V)
+
+
+##### Sous-section 4 : Agrément de droit au titre du service civil volontaire.
+
+###### Article D121-34
+
+Sur la demande des structures d'accueil, sont agréées de droit au titre du service civil volontaire et pour une durée
+indéterminée les missions proposées aux jeunes dans les dispositifs suivants : 
+
+a) Le volontariat de prévention, sécurité et défense civile ; 
+
+b) Le volontariat international en administration ; 
+
+c) Le volontariat de solidarité internationale ; 
+
+d) Le volontariat pour l'insertion ; 
+
+e) Les cadets de la République, option police nationale. 
+
+A l'issue de la mission, le brevet de service civil volontaire mentionné à l'article D. 121-32 est délivré à l'intéressé par
+la structure d'accueil. 
+
+Les missions accueillant des jeunes dans les dispositifs énumérés ci-dessus ne peuvent bénéficier de financement de l'Agence
+nationale pour la cohésion sociale et l'égalité des chances au titre du service civil volontaire. 
+
+Les structures accueillant des jeunes dans le cadre de ces dispositifs agréés sont tenues de communiquer, à l'issue du
+service civil volontaire, à l'Agence nationale pour la cohésion sociale et l'égalité des chances, les informations
+suivantes : 
+
+1° L'état civil des jeunes auxquels a été remis un brevet de service civil volontaire ; 
+
+2° La durée du service civil volontaire accompli.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-838 du 12 juillet 2006 - art. 1 () JORF 13 juillet 2006
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D121-28 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D121-32 (V)
 
 
 #### Chapitre III : Organisation administrative
