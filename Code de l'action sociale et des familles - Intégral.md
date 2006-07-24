@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-07-16
+Version Consolidée au 2006-07-25
 
 # Partie législative
 
@@ -39,27 +39,23 @@ les conditions légales d'attribution, des formes de l'aide sociale telles qu'el
 
 ###### Article L111-2
 
-Les personnes de nationalité étrangère bénéficient dans les conditions propres à chacune de ces prestations :
+Les personnes de nationalité étrangère bénéficient dans les conditions propres à chacune de ces prestations : 
 
-1° Des prestations d'aide sociale à l'enfance ;
+1° Des prestations d'aide sociale à l'enfance ; 
 
-2° De l'aide sociale en cas d'admission dans un centre d'hébergement et de réinsertion sociale ;
+2° De l'aide sociale en cas d'admission dans un centre d'hébergement et de réinsertion sociale ou dans un centre d'accueil
+pour demandeurs d'asile ; 
 
-3° De l'aide médicale de l'Etat ;
+3° De l'aide médicale de l'Etat ; 
 
 4° Des allocations aux personnes âgées prévues à l'article L. 231-1 à condition qu'elles justifient d'une résidence
-ininterrompue en France métropolitaine depuis au moins quinze ans avant soixante-dix ans.
+ininterrompue en France métropolitaine depuis au moins quinze ans avant soixante-dix ans. 
 
 Elles bénéficient des autres formes d'aide sociale, à condition qu'elles justifient d'un titre exigé des personnes de
-nationalité étrangère pour séjourner régulièrement en France.
+nationalité étrangère pour séjourner régulièrement en France. 
 
 Pour tenir compte de situations exceptionnelles, il peut être dérogé aux conditions fixées à l'alinéa ci-dessus par décision
 du ministre chargé de l'action sociale. Les dépenses en résultant sont à la charge de l'Etat.
-
-**Nota:**
-
-Loi 2002-1576 2002-12-30 finances rectificative pour 2002 art. 57 IV : les dispositions du présent article sont applicables à
-compter de la date d'entrée en vigueur du décret d'application.
 
 **Liens relatifs à cet article**
 
@@ -82,7 +78,7 @@ compter de la date d'entrée en vigueur du décret d'application.
 
 	**Modifié par**:
 
-	  - Loi - art. 57 (V) JORF 31 décembre 2002
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 95 () JORF 25 juillet 2006
 
 	**Cite**:
 
@@ -135,18 +131,11 @@ Les dispositions du présent article ne sont pas opposables au dépôt d'une dem
 
 ###### Article L111-3-1
 
-La demande d'admission à l'aide sociale dans les centres d'hébergement et de réinsertion sociale est réputée acceptée lorsque
-le représentant de l'Etat dans le département n'a pas fait connaître sa réponse dans un délai d'un mois qui suit la date de
-sa réception.
+La demande d'admission à l'aide sociale dans les centres d'hébergement et de réinsertion sociale et les centres d'accueil
+pour demandeurs d'asile est réputée acceptée lorsque le représentant de l'Etat dans le département n'a pas fait connaître sa
+réponse dans un délai d'un mois qui suit la date de sa réception.
 
 Lorsque la durée d'accueil prévisible n'excède pas cinq jours, l'admission à l'aide sociale de l'Etat est réputée acquise.
-
-Dans les centres d'hébergement et de réinsertion sociale spécialisés dans l'accueil des demandeurs d'asile et des réfugiés,
-l'admission à l'aide sociale de l'Etat est prononcée dans les conditions prévues au premier alinéa, sur proposition d'une
-commission nationale présidée par le ministre chargé de l'intégration ou son représentant.
-
-Un arrêté du ministre chargé de l'intégration fixe la composition et les modalités d'organisation et de fonctionnement de
-cette commission.
 
 **Liens relatifs à cet article**
 
@@ -155,9 +144,9 @@ cette commission.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 84 () JORF 3 janvier 2002
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 95 () JORF 25 juillet 2006
 
 	**Cité par**:
 
@@ -1123,21 +1112,8 @@ Il prend en compte, le cas échéant, la situation des personnes les plus vulné
 
 ###### Article L117-1
 
-Il est proposé, dans une langue qu'il comprend, à tout étranger admis pour la première fois au séjour en France en vue d'une
-installation durable de conclure, individuellement, avec l'Etat un contrat d'accueil et d'intégration. Ce contrat a pour
-objet de préciser les conditions dans lesquelles l'étranger signataire bénéficie d'actions, tenant compte de sa situation et
-de son parcours personnel et destinées à favoriser son intégration dans le respect des lois et des valeurs fondamentales de
-la République française. Ces actions comprennent notamment, lorsque le besoin en est établi, une formation linguistique
-sanctionnée par une validation des acquis.
-
-Pour l'appréciation de la condition d'intégration républicaine de l'étranger dans la société française prévue au premier
-alinéa de l'article L. 314-2 du code de l'entrée et du séjour des étrangers et du droit d'asile, il est tenu compte de la
-signature par l'étranger d'un contrat d'accueil et d'intégration ainsi que du respect de ce contrat.
-
-Un décret en Conseil d'Etat fixe les conditions d'application du présent article. Il détermine les catégories d'étrangers
-bénéficiaires du contrat d'accueil et d'intégration, la durée du contrat et ses conditions de renouvellement, les actions
-prévues au contrat et les conditions de suivi et de validation de ces actions, dont la reconnaissance de l'acquisition d'un
-niveau satisfaisant de maîtrise de la langue française.
+Les règles relatives au contrat d'accueil et d'intégration sont fixées à l'article L. 311-9 du code de l'entrée et du séjour
+des étrangers et du droit d'asile.
 
 **Liens relatifs à cet article**
 
@@ -1154,9 +1130,13 @@ niveau satisfaisant de maîtrise de la langue française.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2005-32 du 18 janvier 2005 - art. 146 () JORF 19 janvier 2005 en vigueur le 1er janvier 2006
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 5 () JORF 25 juillet 2006
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L311-9 (V)
 
 
 ###### Article L117-2
@@ -1474,33 +1454,31 @@ modalités fixées par décret en Conseil d'Etat pris après avis de la Commissi
 
 ###### Article L121-7
 
-Sont à la charge de l'Etat au titre de l'aide sociale :
+Sont à la charge de l'Etat au titre de l'aide sociale : 
 
-1° Les dépenses d'aide sociale engagées en faveur des personnes mentionnées aux articles L. 111-3 et L. 232-6 ;
+1° Les dépenses d'aide sociale engagées en faveur des personnes mentionnées aux articles L. 111-3 et L. 232-6 ; 
 
-2° Les frais d'aide médicale de l'Etat, mentionnée au titre V du livre II ;
+2° Les frais d'aide médicale de l'Etat, mentionnée au titre V du livre II ; 
 
-3° Alinéa abrogé.
+3° Alinéa abrogé. 
 
-4° L'allocation simple aux personnes âgées, mentionnée à l'article L. 231-1 ;
+4° L'allocation simple aux personnes âgées, mentionnée à l'article L. 231-1 ; 
 
-5° L'allocation différentielle aux adultes handicapés, mentionnée à l'article L. 241-2 ;
+5° L'allocation différentielle aux adultes handicapés, mentionnée à l'article L. 241-2 ; 
 
 6° Les frais d'hébergement, d'entretien et de formation professionnelle des personnes handicapées dans les établissements de
-rééducation professionnelle, mentionnés aux articles L. 344-3 à L. 344-6 ;
+rééducation professionnelle, mentionnés aux articles L. 344-3 à L. 344-6 ; 
 
-7° Les frais de fonctionnement des centres d'aide par le travail, mentionnés aux articles L. 344-2 à L. 344-6 ;
+7° Les frais de fonctionnement des centres d'aide par le travail, mentionnés aux articles L. 344-2 à L. 344-6 ; 
 
 8° Les mesures d'aide sociale en matière de logement, d'hébergement et de réinsertion, mentionnées aux articles L. 345-1 à L.
-345-3 ;
+345-3 ; 
 
 9° L'allocation aux familles dont les soutiens indispensables accomplissent le service national, mentionnée à l'article L.
-212-1.
+212-1 ; 
 
-**Nota:**
-
-Les dispositions de la loi 2003-1200 du 18 décembre 2003 sont applicables à compter du 1er janvier 2004, sous réserve de
-l'entrée en vigueur à cette date des dispositions de la loi de finances mentionnée à l'article 4.
+10° Les frais d'accueil et d'hébergement des étrangers dans les centres d'accueil pour demandeurs d'asile mentionnés à
+l'article L. 348-1.
 
 **Liens relatifs à cet article**
 
@@ -1515,16 +1493,19 @@ l'entrée en vigueur à cette date des dispositions de la loi de finances mentio
 
 	**Modifié par**:
 
-	  - Loi n°2003-1200 2003-12-18 art. 2 1° JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 95 () JORF 25 juillet 2006
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L111-3 (M)
+	  - Code de l'action sociale et des familles - art. L111-3 (V)
 	  - Code de l'action sociale et des familles - art. L212-1 (V)
 	  - Code de l'action sociale et des familles - art. L231-1 (V)
-	  - Code de l'action sociale et des familles - art. L232-6 (M)
+	  - Code de l'action sociale et des familles - art. L232-6 (V)
 	  - Code de l'action sociale et des familles - art. L241-2 (V)
-	  - Code de l'action sociale et des familles L111-3, L232-6, L231-1, L241-2, L344-3 à L344-6, L344-2 à L344-6, L345-1 à L345-3, L212-1
+	  - Code de l'action sociale et des familles - art. L344-2 (V)
+	  - Code de l'action sociale et des familles - art. L344-3 (V)
+	  - Code de l'action sociale et des familles - art. L345-1 (V)
+	  - Code de l'action sociale et des familles - art. L348-1 (V)
 
 	**Cité par**:
 
@@ -2509,7 +2490,9 @@ Le représentant de l'Etat dans le département décide :
 
 2° De l'admission dans un centre d'hébergement et de réinsertion sociale, mentionnée à l'article L. 345-1 ;
 
-3° De l'octroi de l'aide aux familles dont les soutiens accomplissent le service national, mentionnée à l'article L. 212-1.
+3° De l'octroi de l'aide aux familles dont les soutiens accomplissent le service national, mentionnée à l'article L. 212-1 ;
+
+4° De l'admission dans un centre d'accueil pour demandeurs d'asile mentionné à l'article L. 348-1.
 
 Le président du conseil général décide :
 
@@ -2556,7 +2539,7 @@ l'article L. 111-3.
 
 	**Modifié par**:
 
-	  - Loi n°2005-102 du 11 février 2005 - art. 12 () JORF 12 février 2005
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 95 () JORF 25 juillet 2006
 
 	**Anciens textes**:
 
@@ -2574,7 +2557,8 @@ l'article L. 111-3.
 	  - Code de l'action sociale et des familles - art. L231-5 (V)
 	  - Code de l'action sociale et des familles - art. L241-1 (V)
 	  - Code de l'action sociale et des familles - art. L345-1 (M)
-	  - Code de l'action sociale et des familles L131-5, L345-1, L212-1, L222-1 à L222-6, L121-4, L231-1, L231-4, L231-5, L241-1, L111-3
+	  - Code de l'action sociale et des familles - art. L348-1 (V)
+	  - Code de l'action sociale et des familles L131-5, L345-1, L212-1, L348-1, L222-1 à L222-6, L121-4, L231-1, L231-4, L231-5, L241-1, L111-3
 
 
 ###### Article L131-3
@@ -19034,10 +19018,10 @@ cas échéant, après mise en oeuvre d'une autre forme de participation.
 ###### Article L311-9
 
 En vue d'assurer le respect du droit à une vie familiale des membres des familles accueillies dans les établissements ou
-services mentionnés aux 1° et 8° de l'article L. 312-1, ces établissements ou services doivent rechercher une solution
-évitant la séparation de ces personnes ou, si une telle solution ne peut être trouvée, établir, de concert avec les personnes
-accueillies, un projet propre à permettre leur réunion dans les plus brefs délais, et assurer le suivi de ce projet jusqu'à
-ce qu'il aboutisse.
+services mentionnés aux 1°, 8° et 13° du I de l'article L. 312-1, ces établissements ou services doivent rechercher une
+solution évitant la séparation de ces personnes ou, si une telle solution ne peut être trouvée, établir, de concert avec les
+personnes accueillies, un projet propre à permettre leur réunion dans les plus brefs délais, et assurer le suivi de ce projet
+jusqu'à ce qu'il aboutisse.
 
 Dans ce but, chaque schéma départemental des centres d'hébergement et de réinsertion sociale évalue les besoins en accueil
 familial du département et prévoit les moyens pour y répondre.
@@ -19051,7 +19035,7 @@ familial du département et prévoit les moyens pour y répondre.
 
 	**Modifié par**:
 
-	  - Loi n°2002-303 du 4 mars 2002 - art. 40 () JORF 5 mars 2002
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 95 () JORF 25 juillet 2006
 
 	**Cité par**:
 
@@ -19119,7 +19103,9 @@ construction et de l'habitation ;
 centres prestataires de services de proximité, mettant en oeuvre des actions de dépistage, d'aide, de soutien, de formation
 ou d'information, de conseil, d'expertise ou de coordination au bénéfice d'usagers, ou d'autres établissements et services ;
 
-12° Les établissements ou services à caractère expérimental.
+12° Les établissements ou services à caractère expérimental ;
+
+13° Les centres d'accueil pour demandeurs d'asile mentionnés à l'article L. 348-1.
 
 Les établissements et services sociaux et médico-sociaux délivrent des prestations à domicile, en milieu de vie ordinaire, en
 accueil familial ou dans une structure de prise en charge. Ils assurent l'accueil à titre permanent, temporaire ou selon un
@@ -19132,7 +19118,7 @@ sociale du Comité national de l'organisation sanitaire et sociale.
 Les établissements mentionnés aux 1°, 2°, 6° et 7° du I s'organisent en unités de vie favorisant le confort et la qualité de
 séjour des personnes accueillies, dans des conditions et des délais fixés par décret.
 
-Les prestations délivrées par les établissements et services mentionnés aux 1° à 12° du I sont réalisées par des équipes
+Les prestations délivrées par les établissements et services mentionnés aux 1° à 13° du I sont réalisées par des équipes
 pluridisciplinaires qualifiées. Ces établissements et services sont dirigés par des professionnels dont le niveau de
 qualification est fixé par décret et après consultation de la branche professionnelle ou, à défaut, des fédérations ou
 organismes représentatifs des organismes gestionnaires d'établissements et services sociaux et médico-sociaux concernés.
@@ -19163,7 +19149,8 @@ délinquante.
 	  - Code de la santé publique - art. L2132-4 (V)
 	  - Code de l'action sociale et des familles - art. L221-1 (M)
 	  - Code de l'action sociale et des familles - art. L222-3 (M)
-	  - Code de l'action sociale et des familles L221-1, L222-3, L222-5, L311-4 à L311-8, L313-1, L313-13 à L313-25, L311-4 à L311-7
+	  - Code de l'action sociale et des familles - art. L348-1 (V)
+	  - Code de l'action sociale et des familles L221-1, L222-3, L222-5, L348-1, L311-4 à L311-8, L313-1, L313-13 à L313-25, L311-4 à L311-7
 	  - Code de la construction et de l'habitation. - art. L351-2 (M)
 	  - Code de la construction et de l'habitation. - art. L353-2 (M)
 
@@ -19984,7 +19971,7 @@ délinquante.
 
 	**Modifié par**:
 
-	  - Loi n°2005-1579 du 19 décembre 2005 - art. 50 (V) JORF 20 décembre 2005
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 95 () JORF 25 juillet 2006
 
 
 ##### Section 2 : Organismes consultatifs
@@ -20200,7 +20187,10 @@ avis du comité régional de l'organisation sociale et médico-sociale ;
 
 b) Aux centres de rééducation professionnelle mentionnés au b du 5° du I de l'article L. 312-1 après avis du comité régional
 de l'organisation sociale et médico-sociale, du comité de coordination régional de l'emploi et de la formation
-professionnelle et du conseil régional.
+professionnelle et du conseil régional ;
+
+c) Aux centres d'accueil pour demandeurs d'asile mentionnés au 13° du I de l'article L. 312-1, après avis du comité régional
+de l'organisation sociale et médico-sociale.
 
 Ces schémas sont intégrés au schéma régional précité.
 
@@ -20209,6 +20199,10 @@ sociale et aux comités régionaux de l'organisation sanitaire.
 
 Les schémas départementaux et les schémas régionaux sont transmis pour information au comité régional de l'organisation
 sanitaire et au comité régional de l'organisation sociale et médico-sociale.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -20264,7 +20258,7 @@ sanitaire et au comité régional de l'organisation sociale et médico-sociale.
 
 	**Modifié par**:
 
-	  - Loi n°2005-102 du 11 février 2005 - art. 62 () JORF 12 février 2005
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 95 () JORF 25 juillet 2006
 
 	**Cite**:
 
@@ -21001,7 +20995,7 @@ sont susceptibles d'être prises en charge par l'aide sociale départementale ou
 compétence dévolue par la loi au département ;
 
 b) Par l'autorité compétente de l'Etat, pour les établissements et services mentionnés aux 2°, 5°, 9° et 10° du I de
-l'article L. 312-1 ainsi que pour ceux mentionnés aux 4°, 6°, 7°, 8°, 11° et 12° du I et au III du même article lorsque les
+l'article L. 312-1 ainsi que pour ceux mentionnés aux 4°, 6°, 7°, 8°, 11° à 13° du I et au III du même article lorsque les
 prestations qu'ils dispensent sont susceptibles d'être prises en charge par l'Etat ou l'assurance maladie au titre de
 l'article L. 162-24-1 du code de la sécurité sociale ;
 
@@ -21009,6 +21003,10 @@ Conjointement par l'autorité compétente de l'Etat et le président du conseil 
 mentionnés aux 3°, 4°, 6°, 7°, 8°, 11° et 12° du I et au III de l'article L. 312-1 lorsque les prestations qu'ils dispensent
 sont susceptibles d'être prises en charge pour partie par l'Etat ou les organismes de sécurité sociale et pour partie par le
 département.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -21080,7 +21078,7 @@ département.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 4 () JORF 2 décembre 2005
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 95 () JORF 25 juillet 2006
 
 	**Cite**:
 
@@ -21447,30 +21445,34 @@ toute personne qui s'adresse à lui.
 
 ###### Article L313-9
 
-L'habilitation à recevoir des bénéficiaires de l'aide sociale peut être retirée pour des motifs fondés sur :
+L'habilitation à recevoir des bénéficiaires de l'aide sociale peut être retirée pour des motifs fondés sur : 
 
-1° L'évolution des besoins ;
+1° L'évolution des besoins ; 
 
-2° La méconnaissance d'une disposition substantielle de l'habilitation ou de la convention ;
+2° La méconnaissance d'une disposition substantielle de l'habilitation ou de la convention ; 
 
-3° La disproportion entre le coût de fonctionnement et les services rendus ;
+3° La disproportion entre le coût de fonctionnement et les services rendus ; 
 
 4° La charge excessive, au sens des dispositions de l'article L. 313-8, qu'elle représente pour la collectivité publique ou
-les organismes assurant le financement.
+les organismes assurant le financement ; 
+
+5° Pour les centres d'accueil pour demandeurs d'asile mentionnés au 13° du I de l'article L. 312-1, la méconnaissance des
+dispositions de l'article L. 348-1 et du I de l'article L. 348-2 relatives aux personnes pouvant être accueillies dans ces
+centres. 
 
 Dans le cas prévu au 1°, l'autorité qui a délivré l'habilitation doit, préalablement à toute décision, demander à
-l'établissement ou au service de modifier sa capacité en fonction de l'évolution des besoins. Dans les cas prévus aux 2°, 3°
-et 4°, l'autorité doit demander à l'établissement ou au service de prendre les mesures nécessaires pour respecter
-l'habilitation ou la convention ou réduire les coûts ou charges au niveau moyen. La demande, notifiée à l'intéressé, est
-motivée. Elle précise le délai dans lequel l'établissement ou le service est tenu de prendre les dispositions requises. Ce
-délai ne peut être inférieur à six mois.
+l'établissement ou au service de modifier sa capacité en fonction de l'évolution des besoins. Dans les cas prévus aux 2° à
+5°, l'autorité doit demander à l'établissement ou au service de prendre les mesures nécessaires pour respecter l'habilitation
+ou la convention ou réduire les coûts ou charges au niveau moyen. La demande, notifiée à l'intéressé, est motivée. Elle
+précise le délai dans lequel l'établissement ou le service est tenu de prendre les dispositions requises. Ce délai ne peut
+être inférieur à six mois. 
 
-A l'expiration du délai, l'habilitation peut être retirée à l'établissement ou au service pour tout ou partie de la capacité
-dont l'aménagement était demandé. Cette décision prend effet au terme d'un délai de six mois.
+A l'expiration du délai, l'habilitation peut être retirée à l'établissement ou au service en tout ou partie. Cette décision
+prend effet au terme d'un délai de six mois. 
 
 Il est tenu compte des conséquences financières de cette décision dans la fixation des moyens alloués à l'établissement ou au
 service. Les catégories de dépenses imputables à cette décision et leur niveau de prise en charge par l'autorité compétente
-sont fixées par voie réglementaire.
+sont fixées par voie réglementaire. 
 
 L'autorisation de dispenser des soins remboursables aux assurés sociaux peut être retirée pour les mêmes motifs que ceux
 énumérés aux 1°, 3° et 4°.
@@ -21501,11 +21503,14 @@ L'autorisation de dispenser des soins remboursables aux assurés sociaux peut ê
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 4 () JORF 2 décembre 2005
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 95 () JORF 25 juillet 2006
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L313-8 (M)
+	  - Code de l'action sociale et des familles - art. L312-1 (V)
+	  - Code de l'action sociale et des familles - art. L313-8 (V)
+	  - Code de l'action sociale et des familles - art. L348-1 (V)
+	  - Code de l'action sociale et des familles - art. L348-2 (V)
 
 
 ##### Section 2 : Habilitation à recevoir des mineurs confiés par l'autorité judiciaire
@@ -22198,10 +22203,10 @@ poursuivant un but similaire, lorsque la fermeture définitive a été prononcé
 
 ###### Article L313-19
 
-En cas de fermeture définitive d'un établissement ou d'un service géré par une association privée, celle-ci reverse à une
-collectivité publique ou à un établissement privé poursuivant un but similaire les sommes affectées à l'établissement ou
-service fermé, apportées par l'Etat, les collectivités territoriales et leurs établissements publics ou par les organismes de
-sécurité sociale, énumérées ci-après :
+En cas de fermeture définitive d'un établissement ou d'un service géré par une personne morale de droit public ou de droit
+privé celle-ci reverse à une collectivité publique ou à un établissement privé poursuivant un but similaire les sommes
+affectées à l'établissement ou service fermé, apportées par l'Etat, les collectivités territoriales et leurs établissements
+publics ou par les organismes de sécurité sociale, énumérées ci-après :
 
 1° Les subventions d'investissement non amortissables, grevées de droits, ayant permis le financement de l'actif immobilisé
 de l'établissement ou du service. Ces subventions sont revalorisées selon des modalités fixées par décret ;
@@ -22217,10 +22222,10 @@ circulant constituées grâce aux produits de la tarification et non employées 
 
 La collectivité publique ou l'établissement privé attributaire des sommes précitées peut être :
 
-a) Choisi par l'association gestionnaire de l'établissement ou du service fermé, avec l'accord du préfet du département du
-lieu d'implantation de cet établissement ou service ;
+a) Choisi par le gestionnaire de l'établissement ou du service fermé, avec l'accord du préfet du département du lieu
+d'implantation de cet établissement ou service ;
 
-b) Désigné par le préfet du département, en cas d'absence de choix de l'association ou du refus par le préfet du choix
+b) Désigné par le préfet du département, en cas d'absence de choix du gestionnaire ou de refus par le préfet du choix
 mentionné au a.
 
 L'organisme gestionnaire de l'établissement ou du service fermé peut, avec l'accord de l'autorité de tarification concernée,
@@ -22234,13 +22239,6 @@ du service.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Créé par**:
-
-	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, V, art. 44 JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 44 () JORF 3 janvier 2002
-
 	**Cité par**:
 
 	  - Décret n°2004-125 du 9 février 2004 - art. 1 (Ab)
@@ -22252,6 +22250,10 @@ du service.
 	  - Code de l'action sociale et des familles - art. D313-28 (V)
 	  - Code de l'action sociale et des familles - art. R314-65-1 (V)
 	  - Code de l'action sociale et des familles - art. R314-97 (VD)
+
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 95 () JORF 25 juillet 2006
 
 
 ###### Article L313-20
@@ -23091,12 +23093,13 @@ la sécurité sociale.
 
 ###### Article L314-4
 
-Le montant total annuel des dépenses des établissements et services mentionnés aux a des 5° et 8° du I de l'article L. 312-1,
-imputables aux prestations prises en charge par l'aide sociale de l'Etat, et, corrélativement, le montant total annuel des
-dépenses prises en compte pour le calcul des dotations globales de fonctionnement de ces établissements et services sont
-déterminés par le total du montant limitatif inscrit à ce titre dans la loi de finances de l'année de l'exercice considéré
-et, à titre complémentaire, s'agissant des établissements et services mentionnés au a du 5° du I de l'article L. 312-1, des
-crédits inscrits à ce titre dans le budget du même exercice de la Caisse nationale de solidarité pour l'autonomie.
+Le montant total annuel des dépenses des établissements et services mentionnés aux a du 5° et aux 8° et 13° du I de l'article
+L. 312-1, imputables aux prestations prises en charge par l'aide sociale de l'Etat, et, corrélativement, le montant total
+annuel des dépenses prises en compte pour le calcul des dotations globales de fonctionnement de ces établissements et
+services sont déterminés par le total du montant limitatif inscrit à ce titre dans la loi de finances de l'année de
+l'exercice considéré et, à titre complémentaire, s'agissant des établissements et services mentionnés au a du 5° du I de
+l'article L. 312-1, des crédits inscrits à ce titre dans le budget du même exercice de la Caisse nationale de solidarité pour
+l'autonomie.
 
 Ce montant total annuel est constitué en dotations régionales limitatives. Le montant de ces dotations régionales est fixé
 par le ministre chargé de l'action sociale, en fonction des besoins de la population, des priorités définies au niveau
@@ -23108,6 +23111,10 @@ l'Etat dans les départements, en dotations départementales limitatives, dont l
 des orientations des schémas prévus à l'article L. 312-5, de l'activité et des coûts moyens des établissements et services,
 et d'un objectif de réduction des inégalités dans l'allocation des ressources entre départements et établissements et
 services.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -23159,7 +23166,7 @@ services.
 
 	**Modifié par**:
 
-	  - Loi n°2004-1484 du 30 décembre 2004 - art. 131 () JORF 31 décembre 2004
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 95 () JORF 25 juillet 2006
 
 	**Cite**:
 
@@ -23594,9 +23601,9 @@ le règlement départemental d'aide sociale lorsqu'il s'agit d'établissements d
 ###### Article L314-11
 
 Les dépenses de soins paramédicaux dispensés par des professionnels de statut libéral ou salarié dans le cadre d'une action
-de maintien à domicile par les établissements et services mentionnés aux 8°, 9° et 11° du I de l'article L. 312-1 peuvent
-être prises en charge par les organismes d'assurance maladie suivant une formule forfaitaire et, dans ce cas, réglées
-directement par ces organismes aux institutions dans les conditions fixées par voie réglementaire.
+de maintien à domicile par les établissements et services mentionnés aux 8°, 9°, 11° et 13° du I de l'article L. 312-1
+peuvent être prises en charge par les organismes d'assurance maladie suivant une formule forfaitaire et, dans ce cas, réglées
+directement par ces organismes aux institutions dans les conditions fixées par voie réglementaire. 
 
 La participation de l'assuré social aux dépenses de soins paramédicaux dispensées par les établissements et services précités
 peut être réduite ou supprimée dans des conditions fixées par voie réglementaire.
@@ -23614,13 +23621,11 @@ peut être réduite ou supprimée dans des conditions fixées par voie réglemen
 
 	**Modifié par**:
 
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 50 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 58 () JORF 3 janvier 2002
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 95 () JORF 25 juillet 2006
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L312-1 (M)
+	  - Code de l'action sociale et des familles - art. L312-1 (V)
 
 	**Cité par**:
 
@@ -23939,13 +23944,13 @@ provisoire ou définitif, pour les motifs énoncés à l'article L. 313-16, par 
 ###### Article L315-7
 
 Sans préjudice de l'application des dispositions de l'article L. 6111-3 du code de la santé publique, les établissements
-mentionnés aux 2°, a du 5°, 6°, 7° et 8° du I de l'article L. 312-1 du présent code, ainsi que les maisons d'enfants à
+mentionnés aux 2°, a du 5°, 6°, 7°, 8° et 13° du I de l'article L. 312-1 du présent code, ainsi que les maisons d'enfants à
 caractère social, qui relèvent des personnes morales de droit public à l'exception des établissements relevant de l'Office
 national des anciens combattants, de l'institution de gestion sociale des armées et des maisons de retraite rattachées au
-centre d'action sociale de la ville de Paris, constituent des établissements publics.
+centre d'action sociale de la ville de Paris, constituent des établissements publics. 
 
 Ceux de ces établissements qui, à la date du 30 juin 1975, fonctionnaient comme des services non personnalisés des personnes
-morales de droit public sont érigés en établissements publics ou rattachés à un établissement public de même nature.
+morales de droit public sont érigés en établissements publics ou rattachés à un établissement public de même nature. 
 
 Les dispositions des alinéas précédents ne s'appliquent pas aux établissements qui sont créés ou gérés par des centres
 communaux ou intercommunaux d'action sociale, ni aux établissements qui sont gérés par des établissements publics de santé.
@@ -23971,14 +23976,12 @@ des conventions de gestion avec des établissements publics.
 
 	**Modifié par**:
 
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 60 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 64 () JORF 3 janvier 2002
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 95 () JORF 25 juillet 2006
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L6111-3 (M)
-	  - Code de l'action sociale et des familles - art. L312-1 (M)
+	  - Code de la santé publique - art. L6111-3 (V)
+	  - Code de l'action sociale et des familles - art. L312-1 (V)
 
 
 ###### Article L315-8
@@ -26304,16 +26307,18 @@ et un encadrement en vue de leur réinsertion sociale.
 Bénéficient, sur leur demande, de l'aide sociale pour être accueillies dans des centres d'hébergement et de réinsertion
 sociale publics ou privés les personnes et les familles qui connaissent de graves difficultés, notamment économiques,
 familiales, de logement, de santé ou d'insertion, en vue de les aider à accéder ou à recouvrer leur autonomie personnelle et
-sociale.
+sociale. Les étrangers s'étant vu reconnaître la qualité de réfugié ou accorder le bénéfice de la protection subsidiaire en
+application du livre VII du code de l'entrée et du séjour des étrangers et du droit d'asile peuvent être accueillis dans des
+centres d'hébergement et de réinsertion sociale dénommés " centres provisoires d'hébergement ". 
 
 Les centres d'hébergement et de réinsertion sociale, dont les conditions de fonctionnement et de financement sont prévues par
 voie réglementaire, assurent tout ou partie des missions définies au 8° du I de l'article L. 312-1, en vue de faire accéder
-les personnes qu'ils prennent en charge à l'autonomie sociale.
+les personnes qu'ils prennent en charge à l'autonomie sociale. 
 
 Ce règlement précise, d'une part, les modalités selon lesquelles les personnes accueillies participent à proportion de leurs
 ressources à leurs frais d'hébergement et d'entretien et, d'autre part, les conditions dans lesquelles elles perçoivent la
 rémunération mentionnée à l'article L. 241-12 du code de la sécurité sociale lorsqu'elles prennent part aux activités
-d'insertion professionnelle prévues à l'alinéa précédent.
+d'insertion professionnelle prévues à l'alinéa précédent. 
 
 Des places en centres d'hébergement et de réinsertion sociale sont ouvertes à l'accueil des victimes de la traite des êtres
 humains dans des conditions sécurisantes.
@@ -26363,11 +26368,12 @@ humains dans des conditions sécurisantes.
 
 	**Modifié par**:
 
-	  - Loi n°2003-239 du 18 mars 2003 - art. 43 () JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 43
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 95 () JORF 25 juillet 2006
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L312-1 (M)
+	  - Code de l'action sociale et des familles - art. L312-1 (V)
 
 	**Anciens textes**:
 
@@ -26624,6 +26630,155 @@ commerce.
 	  - Code de commerce. - art. L470-5 (V)
 	  - Code de l'action sociale et des familles - art. L347-1 (V)
 	  - Code de l'action sociale et des familles L347-1, L450-1
+
+
+#### Chapitre VIII : Centres d'accueil pour demandeurs d'asile.
+
+###### Article L348-1
+
+Bénéficient, sur leur demande, de l'aide sociale pour être accueillis dans les centres d'accueil pour demandeurs d'asile les
+étrangers en possession d'un des documents de séjour mentionnés à l'article L. 742-1 du code de l'entrée et du séjour des
+étrangers et du droit d'asile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 95 () JORF 25 juillet 2006
+
+	**Cité par**:
+
+	  - Loi n°2015-925 du 29 juillet 2015 - art. 35 (V)
+	  - Décret n°2015-1166 du 21 septembre 2015 - art. 30 (VD)
+	  - Code de l'action sociale et des familles - art. L121-7 (VT)
+	  - Code de l'action sociale et des familles - art. L131-2 (M)
+	  - Code de l'action sociale et des familles - art. L312-1 (V)
+	  - Code de l'action sociale et des familles - art. L312-5-3 (V)
+	  - Code de l'action sociale et des familles - art. L313-1-1 (V)
+	  - Code de l'action sociale et des familles - art. L313-9 (VD)
+	  - Code de l'action sociale et des familles - art. R314-105 (VD)
+	  - Code de l'action sociale et des familles - art. R314-150 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L744-3 (VD)
+	  - Code de la construction et de l'habitation. - art. L302-5 (V)
+	  - Code de la construction et de l'habitation. - art. L411-10 (VT)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L742-1 (V)
+
+
+###### Article L348-2
+
+I. - Les centres d'accueil pour demandeurs d'asile ont pour mission d'assurer l'accueil, l'hébergement ainsi que
+l'accompagnement social et administratif des demandeurs d'asile en possession de l'un des documents de séjour mentionnés à
+l'article L. 742-1 du code de l'entrée et du séjour des étrangers et du droit d'asile, pendant la durée d'instruction de leur
+demande d'asile.
+
+Cette mission prend fin à l'expiration du délai de recours contre la décision de l'Office français de protection des réfugiés
+et apatrides ou à la date de la notification de la décision de la Commission des recours des réfugiés.
+
+Un décret en Conseil d'Etat détermine les conditions dans lesquelles les personnes s'étant vu reconnaître la qualité de
+réfugié ou accorder le bénéfice de la protection subsidiaire et les personnes ayant fait l'objet d'une décision de rejet
+définitive peuvent être maintenues dans un centre d'accueil pour demandeurs d'asile à titre exceptionnel et temporaire.
+
+II. - Les conditions de fonctionnement et de financement des centres d'accueil pour demandeurs d'asile sont fixées par décret
+en Conseil d'Etat. Ce décret précise notamment les modalités selon lesquelles les personnes accueillies participent à
+proportion de leurs ressources à leurs frais d'hébergement, de restauration et d'entretien.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 95 () JORF 25 juillet 2006
+
+	**Cité par**:
+
+	  - Loi n°2015-925 du 29 juillet 2015 - art. 35 (V)
+	  - Décret n°2015-1166 du 21 septembre 2015 - art. 30 (VD)
+	  - Arrêté du 29 octobre 2015 - art. (V)
+	  - Code de l'action sociale et des familles - art. D348-6 (V)
+	  - Code de l'action sociale et des familles - art. L313-9 (V)
+
+
+###### Article L348-3
+
+I. - Les décisions d'admission dans un centre d'accueil pour demandeurs d'asile et de sortie de ce centre sont prises par le
+gestionnaire dudit centre avec l'accord de l'autorité administrative compétente de l'Etat.
+
+II. - Dans le cadre de sa mission d'accueil des demandeurs d'asile définie à l'article L. 341-9 du code du travail, l'Agence
+nationale de l'accueil des étrangers et des migrations coordonne la gestion de l'hébergement dans les centres d'accueil pour
+demandeurs d'asile. A cette fin, elle conçoit, met en oeuvre et gère, dans les conditions prévues par la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, un traitement automatisé de données relatives aux
+capacités d'hébergement des centres d'accueil pour demandeurs d'asile, à l'utilisation de ces capacités et aux demandeurs
+d'asile qui y sont accueillis.
+
+III. - Les personnes morales chargées de la gestion des centres d'accueil pour demandeurs d'asile sont tenues de déclarer,
+dans le cadre du traitement automatisé de données mentionné au II, les places disponibles dans les centres d'accueil à
+l'Agence nationale de l'accueil des étrangers et des migrations et à l'autorité administrative compétente de l'Etat et de
+leur transmettre les informations, qu'elles tiennent à jour, concernant les personnes accueillies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 1978-01-06
+	  - Code du travail - art. L341-9 (M)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 95 () JORF 25 juillet 2006
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R348-2 (VT)
+	  - Code du travail - art. R5223-1 (V)
+
+
+###### Article L348-4
+
+Le bénéfice de l'aide sociale ne peut être accordé ou maintenu aux personnes ou familles accueillies dans un centre d'accueil
+pour demandeurs d'asile que si une convention a été conclue à cette fin entre le centre et l'Etat.
+
+Cette convention doit être conforme à une convention type dont les stipulations sont déterminées par décret et qui prévoient
+notamment les objectifs, les moyens, les activités et les modalités de contrôle d'un centre d'accueil pour demandeurs
+d'asile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 95 () JORF 25 juillet 2006
+
+	**Cité par**:
+
+	  - Décret n°2007-1300 du 31 août 2007 - art. 4 (Ab)
+	  - Décret n°2007-1300 du 31 août 2007 - art. Annexe (Ab)
+	  - Décret n°2011-861 du 20 juillet 2011 - art. 1 (Ab)
+	  - Loi n°2015-925 du 29 juillet 2015 - art. 35 (V)
+	  - Décret n°2015-1166 du 21 septembre 2015 - art. 30 (VD)
+	  - Code de l'action sociale et des familles - art. D348-6 (V)
+	  - Code de l'action sociale et des familles - art. R314-150 (V)
+	  - Code de l'action sociale et des familles - art. R348-6-1 (V)
 
 
 ### Titre V : Contentieux de la tarification sanitaire et sociale
@@ -78083,6 +78238,102 @@ de Nanterre.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+
+#### Chapitre VII : Services d'aide et d'accompagnement non soumis à autorisation.
+
+###### Article D347-1
+
+Les services relevant du 2° de l'article L. 313-1-2 font procéder, tous les cinq ans, à l'évaluation de leurs activités et de
+la qualité des prestations qu'ils délivrent, par un organisme extérieur, habilité à y procéder conformément aux dispositions
+de l'article L. 312-8. L'organisme est soumis aux obligations prévues à cet article. L'évaluation est conduite dans chacun
+des établissements gérés par l'organisme agréé au sens de l'article L. 129-1 du code du travail.
+
+Ses résultats sont communiqués au préfet qui a délivré l'agrément six mois au moins avant l'expiration du délai de
+renouvellement de l'agrément. Le préfet les transmet aux présidents des conseils généraux dont l'avis est sollicité pour le
+renouvellement de l'agrément.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-912 du 24 juillet 2006 - art. 1 () JORF 25 juillet 2006
+
+	**Cité par**:
+
+	  - Décret n°2006-912 du 24 juillet 2006 - art. 2 (V)
+	  - Décret n°2017-705 du 2 mai 2017 - art. 3 (V)
+	  - Code de l'action sociale et des familles - art. D347-3 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L129-1 (M)
+	  - Code de l'action sociale et des familles - art. L312-8 (M)
+	  - Code de l'action sociale et des familles - art. L313-1-2
+
+
+###### Article D347-2
+
+Pour les services relevant du 2° de l'article L. 313-1-2, le respect des dispositions du cahier des charges mentionné au 5°
+de l'article R. 129-3 du code du travail relatives au suivi et à l'évaluation des interventions dispense de l'évaluation
+interne mentionnée au premier alinéa de l'article L. 312-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-912 du 24 juillet 2006 - art. 1 () JORF 25 juillet 2006
+
+	**Cite**:
+
+	  - Code du travail - art. R129-3 (M)
+	  - Code de l'action sociale et des familles - art. L312-8 (M)
+	  - Code de l'action sociale et des familles - art. L313-1-2
+
+
+###### Article D347-3
+
+Les services relevant du 2° de l'article L. 313-1-2, qui auront fait l'objet d'une certification volontaire au sens de
+l'article R. 129-4 du code du travail définie à l'article L. 115-27 ainsi qu'aux articles R. 115-1 à R. 115-9 du code de la
+consommation, sont dispensés de l'évaluation prévue à l'article D. 347-1, si la certification répond aux conditions
+suivantes : 
+
+1° Le champ de la certification couvre l'activité relevant de l'article L. 313-1-1 ; 
+
+2° Le référentiel utilisé est élaboré et validé conformément à l'article R. 115-8 du code de la consommation ; 
+
+3° L'organisme certificateur bénéficie d'une accréditation par une instance reconnue à cet effet et selon les normes
+européennes de la série 45000 ; 
+
+4° La certification répond à la périodicité prévue au premier alinéa de l'article D. 347-1 ; 
+
+5° Les résultats de la certification sont communiqués selon les modalités prévues au second alinéa de l'article D. 347-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-912 du 24 juillet 2006 - art. 1 () JORF 25 juillet 2006
+
+	**Cite**:
+
+	  - Code de la consommation - art. L115-27 (M)
+	  - Code du travail - art. R129-4 (M)
+	  - Code de l'action sociale et des familles - art. D347-1 (V)
+	  - Code de l'action sociale et des familles - art. L313-1-1 (M)
+	  - Code de l'action sociale et des familles - art. L313-1-2 (V)
 
 
 ### Titre V : Contentieux de la tarification sanitaire et sociale
