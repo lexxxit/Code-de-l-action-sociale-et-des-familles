@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-07-25
+Version Consolidée au 2006-07-29
 
 # Partie législative
 
@@ -41036,6 +41036,140 @@ titre de l'année suivante.
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. R14-10-36 (M)
+
+
+##### Section 7 : Conventions entre la Caisse nationale de solidarité pour l'autonomie et les organismes d'assurance maladie vieillesse
+
+###### Article D14-10-55
+
+Les organismes nationaux d'assurance maladie et d'assurance vieillesse avec lesquels la Caisse nationale de solidarité pour
+l'autonomie conclut des conventions, en application des dispositions du III de l'article L. 14-10-1, sont les caisses
+nationales mentionnées aux articles L. 221-1, L. 222-1 et L. 611-4 du code de la sécurité sociale et la Caisse centrale de la
+mutualité sociale agricole mentionnée à l'article L. 723-1 du code rural.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-939 du 27 juillet 2006 - art. 1 () JORF 29 juillet 2006
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L221-1 (M)
+	  - Code de la sécurité sociale. - art. L222-1 (M)
+	  - Code de la sécurité sociale. - art. L611-4 (M)
+	  - Code de l'action sociale et des familles - art. L14-10-1 (V)
+	  - Code rural L723-1
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D14-10-56 (V)
+	  - Code de l'action sociale et des familles - art. D14-10-57 (V)
+
+
+###### Article D14-10-56
+
+Le terme des conventions mentionnées à l'article D. 14-10-55 est identique à celui de la convention d'objectifs et de gestion
+conclue entre l'Etat et la Caisse nationale de solidarité pour l'autonomie en application du II de l'article L. 14-10-1,
+quelle que soit leur date d'entrée en vigueur.
+
+Les conventions conclues en application du III de l'article L. 14-10-1 ne peuvent comporter des dispositions contraires à
+celles de la convention d'objectifs et de gestion mentionnée au II du même article ou à celles des conventions d'objectifs et
+de gestion mentionnées aux articles L. 227-1 et L. 611-7 du code de la sécurité sociale et au II de l'article L. 723-12 du
+code rural au titre de la branche maladie et de la branche vieillesse.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L227-1 (M)
+	  - Code de la sécurité sociale. - art. L611-7 (M)
+	  - Code de l'action sociale et des familles - art. D14-10-55 (V)
+	  - Code de l'action sociale et des familles - art. L14-10-1 (V)
+	  - Code rural L723-12
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-939 du 27 juillet 2006 - art. 1 () JORF 29 juillet 2006
+
+
+###### Article D14-10-57
+
+Le contenu des conventions mentionnées à l'article D. 14-10-55 porte sur les missions de la Caisse nationale de solidarité
+pour l'autonomie prévues au I de l'article L. 14-10-1.
+
+Ces conventions organisent les relations et définissent les actions communes ou complémentaires, déterminées dans le respect
+des compétences de chacune des caisses mentionnées à l'article D. 14-10-55. Leurs dispositions portent notamment sur :
+
+1° La coordination des actions sanitaires et sociales et de prévention, relevant du champ du handicap et de la perte
+d'autonomie, respectivement financées sur la section du budget de la Caisse nationale de solidarité pour l'autonomie
+mentionnée au V de l'article L. 14-10-5 et sur les fonds des autres caisses respectivement mentionnés aux articles R. 262-1,
+R. 262-1-1 et R. 264-1 du code de la sécurité sociale ainsi qu'aux articles R. 726-1 et R. 732-31 du code rural ;
+
+2° La coordination des actions relatives, d'une part, aux programmes de prévention de la perte d'autonomie à destination des
+retraités socialement fragilisés relevant de la mission des régimes de retraite et, d'autre part, aux programmes d'aide et
+d'accompagnement à domicile des personnes âgées en perte d'autonomie, dont ceux relevant de la responsabilité des
+départements. Ces actions concernent notamment celles respectivement financées sur le fonds mentionné à l'article R. 264-1 du
+code de la sécurité sociale, au titre de la branche vieillesse, et sur la section du budget de la Caisse nationale de
+solidarité pour l'autonomie mentionnée au IV de l'article L. 14-10-5 ;
+
+3° La coordination des actions relatives à la définition, l'évaluation, la qualité, la distribution et le financement des
+aides techniques mentionnées au 5° du I de l'article L. 14-10-1 ;
+
+4° La coordination des contributions au fonctionnement des maisons départementales des personnes handicapées mentionnées à
+l'article L. 146-3 et au fonds départemental de compensation prévu à l'article L. 146-5 ;
+
+5° La coordination des opérations d'aide à l'investissement et à l'équipement des établissements et services mentionnés à
+l'article L. 314-3-1 ;
+
+6° La coordination des interventions contribuant à la mise en oeuvre des actions expérimentales et au développement des
+réseaux en application des dispositions prévues aux articles L. 162-31 et L. 162-43 du code de la sécurité sociale ;
+
+7° Les échanges d'informations nécessaires à la coordination concernant :
+
+a) Les données financières, budgétaires et comptables des établissements et services mentionnés à l'article L. 314-3-1 y
+compris celui concernant, le cas échéant, l'activité des professionnels de santé libéraux ;
+
+b) L'élaboration, la répartition et le suivi de la réalisation de l'objectif global de dépenses mentionné au premier alinéa
+du I de l'article L. 314-3 ;
+
+8° Des analyses et études communes sur les données socio-démographiques, physiques et financières relatives aux actions de
+prévention de la perte d'autonomie ainsi qu'aux prises en charge sanitaires, sociales et médico-sociales des personnes
+handicapées, des personnes âgées en perte d'autonomie et des retraités socialement fragilisés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-939 du 27 juillet 2006 - art. 1 () JORF 29 juillet 2006
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L162-31 (V)
+	  - Code de la sécurité sociale. - art. L162-43 (M)
+	  - Code de la sécurité sociale. - art. R262-1 (M)
+	  - Code de la sécurité sociale. - art. R262-1-1 (M)
+	  - Code de la sécurité sociale. - art. R264-1 (V)
+	  - Code de l'action sociale et des familles - art. D14-10-55 (V)
+	  - Code de l'action sociale et des familles - art. L14-10-1 (V)
+	  - Code de l'action sociale et des familles - art. L14-10-5 (M)
+	  - Code de l'action sociale et des familles - art. L146-3 (V)
+	  - Code de l'action sociale et des familles - art. L146-5 (V)
+	  - Code de l'action sociale et des familles - art. L314-3 (M)
+	  - Code de l'action sociale et des familles - art. L314-3-1 (M)
+	  - Code rural R726-1, R732-31
 
 
 ## Livre II : Différentes formes d'aide et d'action sociales
