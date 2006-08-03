@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-08-01
+Version Consolidée au 2006-08-04
 
 # Partie législative
 
@@ -44189,6 +44189,30 @@ Les demandeurs sont entendus par le conseil s'ils le souhaitent. Ils peuvent êt
 
 ##### Sous-section 1 : Dispositions relatives à l'agrément
 
+###### Article D225-6
+
+L'arrêté du président du conseil général délivrant l'agrément est établi selon le modèle figurant à l'annexe 2-5. La notice
+jointe à cet agrément est établie selon le modèle figurant à l'annexe 2-6.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles annexe 2-5, annexe 2-6
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-981 du 1 août 2006 - art. 1 () JORF 4 août 2006
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. R225-6 (Ab)
+
+
 ###### Article R225-1
 
 Toute personne qui sollicite l'agrément prévu aux articles L. 225-2 et L. 225-15 doit en faire la demande au président du
@@ -44224,41 +44248,48 @@ attaches.
 
 ###### Article R225-2
 
-Les personnes doivent être informées, dans un délai de deux mois après s'être adressées au président du conseil général :
+Les personnes doivent être informées, dans un délai de deux mois après s'être adressées au président du conseil général : 
 
-1° Des dimensions psychologiques, éducatives et culturelles de l'adoption pour l'enfant et les parents adoptifs ;
+1° Des dimensions psychologiques, éducatives et culturelles de l'adoption pour l'enfant et les parents adoptifs ; 
 
 2° De la procédure judiciaire de l'adoption et de la procédure administrative préalable fixée par la présente sous-section,
-et notamment des dispositions relatives :
+et notamment des dispositions relatives : 
 
-a) Au droit d'accès des intéressés à leur dossier ;
+a) Au droit d'accès des intéressés à leur dossier ; 
 
-b) Au fonctionnement de la commission d'agrément ;
+b) Au fonctionnement de la commission d'agrément ; 
 
 c) À la possibilité de demander que tout ou partie des investigations soit accompli une seconde fois conformément au deuxième
-alinéa de l'article L. 225-3.
+alinéa de l'article L. 225-3. 
 
-Un document récapitulant ces informations doit être remis aux personnes ;
+Un document récapitulant ces informations doit être remis aux personnes ; 
 
 3° De l'effectif, de l'âge, de la situation au regard de l'adoption des pupilles de l'Etat du département ainsi que des
-conditions d'admission dans ce statut ;
+conditions d'admission dans ce statut ; 
 
 4° Des principes régissant l'adoption internationale et résultant notamment de la convention de La Haye du 29 mai 1993 sur la
 protection des enfants et la coopération en matière d'adoption internationale, des spécificités afférentes à l'adoption
-d'enfants étrangers et des institutions françaises compétentes en matière d'adoption internationale ;
+d'enfants étrangers et des institutions françaises compétentes en matière d'adoption internationale ; 
 
-5° Des conditions de fonctionnement des organismes autorisés et habilités pour servir d'intermédiaires pour l'adoption ou le
-placement en vue d'adoption d'enfants, et de la liste des organismes autorisés ou ayant régulièrement déposé une déclaration
-de fonctionnement dans le département ;
+5° Des conditions de fonctionnement de l'Agence française de l'adoption et des organismes autorisés et habilités pour servir
+d'intermédiaires pour l'adoption ou le placement en vue d'adoption d'enfants, et de la liste des organismes autorisés ou
+ayant régulièrement déposé une déclaration de fonctionnement dans le département ; 
 
-6° Du nombre de demandeurs et de personnes agréées dans le département ;
+6° Du nombre de demandeurs et de personnes agréées dans le département ; 
 
 7° De l'existence et du type de renseignements contenus dans le fichier des décisions relatives à l'agrément mis en place par
-le ministre chargé de la famille.
+le ministre chargé de la famille. 
 
-Au reçu de ces informations, l'intéressé fait parvenir au président du conseil général la confirmation de sa demande. Il peut
-préciser ses souhaits, notamment en ce qui concerne le nombre et l'âge de pupilles de l'Etat ou d'enfants étrangers qu'il
-désire accueillir.
+Lors du premier entretien, il est remis aux intéressés un questionnaire établi selon un modèle type fixé par arrêté du
+ministre chargé de la famille. 
+
+Au reçu de ces informations, l'intéressé fait parvenir au président du conseil général la confirmation de sa demande par
+lettre recommandée avec demande d'avis de réception. Il peut y préciser ses souhaits, notamment en ce qui concerne le nombre
+et l'âge de pupilles de l'Etat ou d'enfants étrangers qu'il désire accueillir.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -44270,9 +44301,13 @@ désire accueillir.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-981 du 1 août 2006 - art. 1 () JORF 4 août 2006
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L225-3 (M)
+	  - Code de l'action sociale et des familles - art. L225-3 (V)
 
 	**Cité par**:
 
@@ -44281,17 +44316,23 @@ désire accueillir.
 
 ###### Article R225-3
 
-Au moment de la confirmation de sa demande, l'intéressé doit communiquer au président du conseil général :
+Au moment de la confirmation de sa demande, l'intéressé doit communiquer au président du conseil général : 
 
-1° Une copie intégrale de son acte de naissance et, s'il a un ou des enfants, de son livret de famille ;
+1° Une copie intégrale de son acte de naissance et, s'il a un ou des enfants, de son livret de famille ; 
 
-2° Un bulletin n° 3 de casier judiciaire ;
+2° Un bulletin n° 3 de casier judiciaire ; 
 
 3° Un certificat médical datant de moins de trois mois, établi par un médecin figurant sur une liste établie par le président
 du conseil général attestant que son état de santé, ainsi que celui des personnes résidant à son foyer, ne présente pas de
-contre-indication à l'accueil d'enfants en vue d'adoption ;
+contre-indication à l'accueil d'enfants en vue d'adoption ; 
 
-4° Tout document attestant les ressources dont il dispose.
+4° Tout document attestant les ressources dont il dispose ; 
+
+5° Le questionnaire mentionné à l'article R. 225-2 dûment complété.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -44303,11 +44344,19 @@ contre-indication à l'accueil d'enfants en vue d'adoption ;
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-981 du 1 août 2006 - art. 1 () JORF 4 août 2006
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L225-2 (V)
+
 
 ###### Article R225-4
 
 Avant de délivrer l'agrément, le président du conseil général doit s'assurer que les conditions d'accueil offertes par le
-demandeur sur les plans familial, éducatif et psychologique correspondent aux besoins et à l'intérêt d'un enfant adopté.
+demandeur sur les plans familial, éducatif et psychologique correspondent aux besoins et à l'intérêt d'un enfant adopté. 
 
 A cet effet, il fait procéder, auprès du demandeur, à des investigations comportant notamment :
 
@@ -44315,14 +44364,22 @@ A cet effet, il fait procéder, auprès du demandeur, à des investigations comp
 d'un enfant pupille de l'Etat ou d'un enfant étranger ; cette évaluation est confiée à des assistants de service social, à
 des éducateurs spécialisés ou à des éducateurs de jeunes enfants, diplômés d'Etat ;
 
-- une évaluation, confiée à des psychologues territoriaux ou à des médecins psychiatres, du contexte psychologique dans
-lequel est formé le projet d'adopter.
+- une évaluation, confiée à des psychologues territoriaux aux mêmes professionnels relevant d'organismes publics ou privés
+habilités mentionnés au septième alinéa de l'article L. 221-1 ou ou à des médecins psychiatres, du contexte psychologique
+dans lequel est formé le projet d'adopter. 
+
+Les évaluations sociale et psychologique donnent lieu chacune à deux rencontres au moins entre le demandeur et le
+professionnel concerné. Pour l'évaluation sociale, une des rencontres au moins a lieu au domicile du demandeur. 
 
 Le demandeur est informé, au moins quinze jours avant la consultation prévue à l'article R. 225-5, qu'il peut prendre
 connaissance des documents établis à l'issue des investigations menées en application des alinéas précédents. Les erreurs
 matérielles figurant dans ces documents sont rectifiées de droit à sa demande écrite. Il peut, à l'occasion de cette
 consultation, faire connaître par écrit ses observations sur ces documents et préciser son projet d'adoption. Ces éléments
 sont portés à la connaissance de la commission.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -44334,8 +44391,13 @@ sont portés à la connaissance de la commission.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-981 du 1 août 2006 - art. 1 () JORF 4 août 2006
+
 	**Cite**:
 
+	  - Code de l'action sociale et des familles - art. L221-1 (V)
 	  - Code de l'action sociale et des familles - art. R225-5 (V)
 
 	**Cité par**:
@@ -44382,16 +44444,23 @@ La commission rend son avis hors la présence du demandeur et, le cas échéant,
 
 Toute personne titulaire de l'agrément doit confirmer au président du conseil général de son département de résidence, chaque
 année et pendant la durée de validité de l'agrément, qu'elle maintient son projet d'adoption, en précisant si elle souhaite
-accueillir un pupille de l'Etat en vue d'adoption.
+accueillir un pupille de l'Etat en vue d'adoption. 
 
 Lors de la confirmation prévue au premier alinéa, l'intéressé transmet au président du conseil général une déclaration sur
 l'honneur indiquant si sa situation matrimoniale ou la composition de sa famille se sont modifiées et précisant le cas
-échéant quelles ont été les modifications.
+échéant quelles ont été les modifications. 
 
-En cas de modification de la situation matrimoniale ou de la composition de la famille ou lorsque la confirmation ou la
-déclaration sur l'honneur prévues aux alinéas précédents n'ont pas été effectuées, le président du conseil général peut faire
-procéder à des investigations complémentaires sur les conditions d'accueil et, le cas échéant, retirer l'agrément. Lorsqu'il
-envisage de retirer l'agrément ou de le modifier, il saisit pour avis la commission prévue à l'article R. 225-9.
+Au plus tard au terme de la deuxième année de validité de l'agrément, le président du conseil général procède à un entretien
+avec la personne titulaire de l'agrément en vue de l'actualisation du dossier. 
+
+En cas de modification des conditions d'accueil constatées lors de la délivrance de l'agrément, notamment de la situation
+matrimoniale, ou en l'absence de déclaration sur l'honneur, le président du conseil général peut faire procéder à des
+investigations complémentaires sur les conditions d'accueil et, le cas échéant, retirer l'agrément. Lorsqu'il envisage de
+retirer l'agrément ou de le modifier, il saisit pour avis la commission prévue à l'article R. 225-9.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -44403,6 +44472,10 @@ envisage de retirer l'agrément ou de le modifier, il saisit pour avis la commis
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-981 du 1 août 2006 - art. 1 () JORF 4 août 2006
+
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. R225-9 (V)
@@ -44411,11 +44484,15 @@ envisage de retirer l'agrément ou de le modifier, il saisit pour avis la commis
 ###### Article R225-8
 
 La personne agréée qui change de département de résidence doit, par lettre recommandée avec demande d'avis de réception,
-déclarer son adresse au président du conseil général du département de sa nouvelle résidence au plus tard dans le mois
-suivant son emménagement, en joignant une copie de la décision d'agrément.
+déclarer son adresse au président du conseil général du département de sa nouvelle résidence au plus tard dans le délai de
+deux mois suivant son emménagement, en joignant une copie de la décision d'agrément.
 
 Le président du conseil général du département où résidait antérieurement la personne agréée transmet au président du conseil
 général qui a reçu la déclaration prévue au premier alinéa, sur sa demande, le dossier de la personne concernée.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -44426,6 +44503,10 @@ général qui a reçu la déclaration prévue au premier alinéa, sur sa demande
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-981 du 1 août 2006 - art. 1 () JORF 4 août 2006
 
 	**Cité par**:
 
