@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-08-04
+Version Consolidée au 2006-09-01
 
 # Partie législative
 
@@ -45971,17 +45971,44 @@ l'article L. 226-6.
 
 ###### Article R227-1
 
-Constituent un placement de vacances les accueils de mineurs avec hébergement organisés par une personne physique ou morale
-dans une ou plusieurs familles pendant les périodes de vacances des classes mentionnées à l'article L. 521-1 du code de
-l'éducation, dès lors que ces accueils excèdent une durée de cinq nuits consécutives.
+Les accueils mentionnés à l'article L. 227-4 sont ceux qui sont organisés par toute personne morale, tout groupement de fait
+ou par une personne physique si cette dernière perçoit une rétribution. Ils sont répartis dans les catégories ainsi
+définies :
 
-Constituent un centre de vacances les accueils collectifs de mineurs avec hébergement, autres que ceux mentionnés à l'alinéa
-précédent, pendant les périodes de vacances mentionnées à l'article L. 521-1 du code de l'éducation, dès lors que le nombre
-de mineurs accueillis est au moins égal à douze et que la durée de leur hébergement est supérieure à cinq nuits consécutives.
+I. - Les accueils avec hébergement comprenant :
 
-Constituent un centre de loisirs les accueils collectifs d'au moins huit mineurs sans hébergement, en dehors d'une famille,
-pendant quinze jours au moins au cours d'une même année. Le nombre des mineurs accueillis dans un même centre de loisirs ne
-peut être supérieur à 300.
+1° Le séjour de vacances d'au moins sept mineurs, dès lors que la durée de leur hébergement est supérieure à trois nuits
+consécutives ;
+
+2° Le séjour court d'au moins sept mineurs, en dehors d'une famille, pour une durée d'hébergement d'une à trois nuits ;
+
+3° Le séjour spécifique avec hébergement d'au moins sept mineurs, âgés de six ans ou plus, dès lors qu'il est organisé par
+des personnes morales dont l'objet essentiel est le développement d'activités particulières. Un arrêté du ministre chargé de
+la jeunesse précise la liste de ces personnes morales et des activités concernées ;
+
+4° Le séjour de vacances dans une famille de deux à six mineurs, pendant leurs vacances, se déroulant dans une famille, dès
+lors que la durée de leur hébergement est au moins égale à quatre nuits consécutives. Lorsque ce type de séjour est organisé
+par une personne morale dans plusieurs familles, les conditions d'effectif minimal ne sont pas prises en compte.
+
+II. - Les accueils sans hébergement comprenant :
+
+1° L'accueil de loisirs de sept à trois cents mineurs, en dehors d'une famille, pendant au moins quatorze jours consécutifs
+ou non au cours d'une même année sur le temps extrascolaire ou périscolaire pour une durée minimale de deux heures par
+journée de fonctionnement. Il se caractérise par une fréquentation régulière des mineurs inscrits auxquels il offre une
+diversité d'activités organisées ;
+
+2° L'accueil de jeunes de sept à quarante mineurs, âgés de quatorze ans ou plus, en dehors d'une famille, pendant au moins
+quatorze jours consécutifs ou non au cours d'une même année et répondant à un besoin social particulier explicité dans le
+projet éducatif mentionné à L'article R. 227-23.
+
+III. - L'accueil de scoutisme d'au moins sept mineurs, avec et sans hébergement, organisé par une association dont l'objet
+est la pratique du scoutisme et bénéficiant d'un agrément national délivré par le ministre chargé de la jeunesse.
+
+**Nota:**
+
+Décret 2006-923 du 26 juillet 2006 art. 24 : Les dispositions du présent décret entrent en vigueur à compter du 1er septembre
+2006, à l'exception des dispositions relatives à la déclaration des accueils de mineurs et des locaux hébergeant ces derniers
+qui entrent en vigueur à compter de la publication des textes nécessaires à l'application de l'article 3.
 
 **Liens relatifs à cet article**
 
@@ -45993,6 +46020,10 @@ peut être supérieur à 300.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-923 du 26 juillet 2006 - art. 2 () JORF 27 juillet 2006 en vigueur le 1er septembre 2006
 
 	**Cité par**:
 
@@ -46031,34 +46062,48 @@ peut être supérieur à 300.
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L521-1 (V)
+	  - Code de l'action sociale et des familles - art. L227-4 (M)
 
 
 ###### Article R227-2
 
-1° Les personnes organisant l'accueil en France de mineurs mentionné à l'article R. 227-1 doivent en faire préalablement la
-déclaration au représentant de l'Etat dans le département. A moins qu'il ne s'oppose à l'organisation de cet accueil, celui-
-ci délivre un récépissé, lequel vaut autorisation.
+1° Toute personne organisant l'accueil en France de mineurs mentionné à l'article R. 227-1 doit en faire préalablement la
+déclaration au représentant de l'Etat dans le département.
 
 Dans le cas où la personne qui organise un accueil de mineurs est établie en France, la déclaration est effectuée auprès du
 préfet du département du lieu du domicile ou du siège social.
 
-Celui-ci en transmet copie au préfet du département où l'accueil doit se dérouler.
+Celui-ci en informe le préfet du département où l'accueil doit se dérouler.
 
 Dans le cas où la personne qui organise l'accueil de mineurs est établie à l'étranger, la déclaration est effectuée auprès du
 préfet du département où cet accueil doit se dérouler.
 
-Les modalités de cette déclaration et de la délivrance du récépissé sont fixées par arrêté du ministre de l'intérieur, du
-ministre chargé de l'action sociale et du ministre chargé de la jeunesse.
+2° Toute personne établie en France et organisant à l'étrange r un accueil avec hébergement défini à l'article R. 227-1 doit
+en faire préalablement la déclaration au représentant de l'Etat dans le département du lieu de son domicile ou de son siège
+social.
 
-2° Toute personne établie dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur
-l'Espace économique européen organisant sur le territoire de l'un de ces Etats l'accueil de mineurs de nationalité française
-ou résidant habituellement en France peut effectuer une déclaration auprès de l'autorité administrative selon des modalités
-prévues par un arrêté conjoint du ministre de l'intérieur et du ministre chargé de la jeunesse.
+3° Toute personne établie dans un autre Etat membre de l'Union européenne ou dans un Etat partie à l'accord sur l'Espace
+économique européen organisant sur le territoire de l'un de ces Etats l'accueil de mineurs de nationalité française ou
+résidant habituellement en France peut effectuer une déclaration.
 
-Cette déclaration donne lieu à la délivrance d'une attestation si la personne concernée est soumise de la part de l'Etat
-membre où elle est établie à des règles équivalentes à celles résultant des articles L. 227-4 à L. 227-12 et des textes pris
-pour leur application.
+4° Ces déclarations comprennent, notamment, des informations relatives aux organisateurs, aux modalités d'accueil, au public
+accueilli, aux personnes concourant à l'accueil, aux obligations relatives au projet éducatif, au contrat d'assurance et aux
+locaux.
+
+Un arrêté conjoint du ministre chargé de la jeunesse, du ministre de l'intérieur et du ministre chargé de la famille précise
+les dispositions du précédent alinéa et les modalités d'envoi ou de dépôt de ces déclarations.
+
+5° Toute personne assurant la gestion de locaux hébergeant des mineurs accueillis dans le cadre de l'article R. 227-1 doit en
+faire préalablement la déclaration au représentant de l'Etat dans le département de leur implantation. Cette déclaration
+comprend, notamment, des informations relatives à l'exploitant des locaux, aux locaux, et au public hébergé, fixées par
+arrêté conjoint du ministre chargé de la jeunesse, du ministre de l'intérieur et du ministre chargé de la santé. Les
+modalités de cette déclaration sont précisées par le même arrêté.
+
+**Nota:**
+
+Décret 2006-923 du 26 juillet 2006 art. 24 : Les dispositions du présent décret entrent en vigueur à compter du 1er septembre
+2006, à l'exception des dispositions relatives à la déclaration des accueils de mineurs et des locaux hébergeant ces derniers
+qui entrent en vigueur à compter de la publication des textes nécessaires à l'application de l'article 3.
 
 **Liens relatifs à cet article**
 
@@ -46071,6 +46116,10 @@ pour leur application.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-923 du 26 juillet 2006 - art. 3 () JORF 27 juillet 2006 en vigueur le 1er septembre 2006
+
 	**Cité par**:
 
 	  - Arrêté du 3 novembre 2014 - art. 12 (V)
@@ -46078,7 +46127,6 @@ pour leur application.
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. R227-1 (M)
-	  - Code de l'action sociale et des familles R227-1, L227-4 à L227-12
 
 
 ###### Article R227-3
@@ -46114,13 +46162,25 @@ et des libertés.
 
 ###### Article R227-4
 
-L'injonction mentionnée à l'article L. 227-11 est adressée par le préfet du lieu du déroulement de l'accueil et précise le ou
-les motifs pour lesquels elle est prononcée ainsi que le délai accordé à l'intéressé pour mettre fin aux manquements et
-risques signalés. Elle est notifiée à l'organisateur de l'accueil ainsi qu'au responsable de l'accueil des mineurs mentionné
-à l'article R. 227-1 ou à l'exploitant des locaux les accueillant.
+L'injonction mentionnée au premier alinéa du I de l'article L. 227-11 est adressée par le préfet du lieu du déroulement de
+l'accueil et précise le ou les motifs pour lesquels elle est prononcée ainsi que le délai accordé à l'intéressé pour mettre
+fin aux manquements et risques signalés. Elle est notifiée à l'organisateur de l'accueil ainsi que, le cas échéant, au
+responsable de l'accueil des mineurs mentionné à l'article R. 227-1 ou à l'exploitant des locaux ou du terrain les
+accueillant. 
 
-L'arrêté préfectoral interrompant ou mettant fin à cet accueil ou prononçant la fermeture du centre de vacances ou du centre
-de loisirs est notifié dans les mêmes conditions. Il est motivé.
+Les décisions mentionnées au sixième alinéa du I de l'article L. 227-11 sont notifiées dans les mêmes conditions. 
+
+L'injonction mentionnée au premier alinéa du II de l'article L. 227-11 est notifiée à l'organisateur par le préfet du lieu de
+son siège ; elle précise le ou les motifs pour lesquels elle est prononcée ainsi que le délai accordé à l'intéressé pour
+mettre fin aux manquements et risques signalés. 
+
+Les décisions mentionnées au deuxième alinéa du II de l'article L. 227-11 sont notifiées dans les mêmes conditions.
+
+**Nota:**
+
+Décret 2006-923 du 26 juillet 2006 art. 24 : Les dispositions du présent décret entrent en vigueur à compter du 1er septembre
+2006, à l'exception des dispositions relatives à la déclaration des accueils de mineurs et des locaux hébergeant ces derniers
+qui entrent en vigueur à compter de la publication des textes nécessaires à l'application de l'article 3.
 
 **Liens relatifs à cet article**
 
@@ -46133,25 +46193,31 @@ de loisirs est notifié dans les mêmes conditions. Il est motivé.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-923 du 26 juillet 2006 - art. 4 () JORF 27 juillet 2006 en vigueur le 1er septembre 2006
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L227-11 (M)
-	  - Code de l'action sociale et des familles - art. R227-1 (M)
+	  - Code de l'action sociale et des familles - art. L227-11 (V)
 
 
 ##### Paragraphe 1 : Dispositions relatives à l'hygiène et à la sécurité
 
 ###### Article R227-5
 
-Les centres mentionnés à l'article R. 227-1, sauf ceux organisant des loisirs itinérants, doivent disposer de lieux
-d'activités abrités, adaptés aux conditions climatiques. Ils doivent être organisés de façon à permettre une utilisation
-distincte par les filles et par les garçons de plus de six ans d'installations sanitaires en nombre suffisant, eu égard à
-l'effectif accueilli. Ils doivent respecter les conditions hygiéniques applicables aux établissements de restauration
-collective à caractère social. Ils doivent disposer d'un lieu permettant d'isoler les malades.
+Les accueils mentionnés à l'article R. 227-1 doivent disposer de lieux d'activités adaptés aux conditions climatiques. En
+matière de restauration, ils doivent respecter les conditions d'hygiène conformes à la réglementation en vigueur.
 
-Lorsque ces centres sont organisés dans des bâtiments, ceux-ci doivent satisfaire aux conditions techniques d'hygiène et de
+Lorsque ces accueils sont organisés dans des bâtiments, ceux-ci doivent satisfaire aux conditions techniques d'hygiène et de
 sécurité requises notamment par les règles de sécurité contre les risques d'incendie et de panique dans les établissements
 recevant du public, par les règles générales de construction et par le règlement sanitaire départemental en vigueur.
+
+**Nota:**
+
+Décret 2006-923 du 26 juillet 2006 art. 24 : Les dispositions du présent décret entrent en vigueur à compter du 1er septembre
+2006, à l'exception des dispositions relatives à la déclaration des accueils de mineurs et des locaux hébergeant ces derniers
+qui entrent en vigueur à compter de la publication des textes nécessaires à l'application de l'article 3.
 
 **Liens relatifs à cet article**
 
@@ -46164,6 +46230,10 @@ recevant du public, par les règles générales de construction et par le règle
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-923 du 26 juillet 2006 - art. 5 () JORF 27 juillet 2006 en vigueur le 1er septembre 2006
+
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. R227-1 (M)
@@ -46171,9 +46241,20 @@ recevant du public, par les règles générales de construction et par le règle
 
 ###### Article R227-6
 
-Les centres de vacances mentionnés à l'article R. 227-1 doivent être organisés de façon à permettre aux filles et aux garçons
-âgés de plus de six ans de dormir dans des lieux séparés. Chaque mineur hébergé doit disposer d'un moyen de couchage
+Les accueils avec hébergement mentionnés à l'article R. 227-1 doivent être organisés de façon à permettre aux filles et aux
+garçons âgés de plus de six ans de dormir dans des lieux séparés. Chaque mineur hébergé doit disposer d'un moyen de couchage
 individuel.
+
+L'hébergement des personnes qui assurent la direction ou l'animation de ces accueils doit permettre les meilleures conditions
+de sécurité des mineurs.
+
+Ces accueils doivent disposer d'un lieu permettant d'isoler les malades.
+
+**Nota:**
+
+Décret 2006-923 du 26 juillet 2006 art. 24 : Les dispositions du présent décret entrent en vigueur à compter du 1er septembre
+2006, à l'exception des dispositions relatives à la déclaration des accueils de mineurs et des locaux hébergeant ces derniers
+qui entrent en vigueur à compter de la publication des textes nécessaires à l'application de l'article 3.
 
 **Liens relatifs à cet article**
 
@@ -46186,6 +46267,10 @@ individuel.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-923 du 26 juillet 2006 - art. 6 () JORF 27 juillet 2006 en vigueur le 1er septembre 2006
+
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. R227-1 (M)
@@ -46195,11 +46280,17 @@ individuel.
 
 L'admission d'un mineur selon l'une des modalités prévues à l'article R. 227-1 est subordonnée à la production d'un document
 attestant qu'il a satisfait aux obligations fixées par la législation relative aux vaccinations. Elle est également soumise à
-la fourniture par les responsables légaux du mineur de renseignements d'ordre médical dont la liste est fixée par arrêté du
-ministre chargé de la santé et du ministre chargé de la jeunesse.
+la fourniture par les responsables légaux du mineur de renseignements d'ordre médical dont la liste est fixée par arrêté
+conjoint du ministre chargé de la santé et du ministre chargé de la jeunesse.
 
 Ce document est adressé à l'organisateur de l'accueil ou à son représentant qui s'assure du respect de la confidentialité des
 informations.
+
+**Nota:**
+
+Décret 2006-923 du 26 juillet 2006 art. 24 : Les dispositions du présent décret entrent en vigueur à compter du 1er septembre
+2006, à l'exception des dispositions relatives à la déclaration des accueils de mineurs et des locaux hébergeant ces derniers
+qui entrent en vigueur à compter de la publication des textes nécessaires à l'application de l'article 3.
 
 **Liens relatifs à cet article**
 
@@ -46211,6 +46302,10 @@ informations.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-923 du 26 juillet 2006 - art. 7 () JORF 27 juillet 2006 en vigueur le 1er septembre 2006
 
 	**Cite**:
 
@@ -46245,16 +46340,22 @@ fonction, un document attestant qu'elles ont satisfait aux obligations légales 
 
 ###### Article R227-9
 
-L'organisateur d'un centre mentionné à l'article R. 227-1 met à la disposition du directeur du centre et de son équipe :
+L'organisateur d'un accueil mentionné à l'article R. 227-1 met à la disposition du directeur de l'accueil et de son équipe :
 
 1° Des moyens de communication permettant d'alerter rapidement les secours ;
 
 2° La liste des personnes et organismes susceptibles d'intervenir en cas d'urgence.
 
-Un registre mentionnant les soins donnés aux mineurs est tenu par le directeur du centre.
+Un registre mentionnant les soins donnés aux mineurs est tenu.
 
-Le suivi sanitaire est assuré, dans des conditions fixées par arrêté du ministre chargé de la santé et du ministre chargé de
-la jeunesse, par une personne désignée par le directeur du centre.
+Le suivi sanitaire est assuré, dans des conditions fixées par arrêté conjoint du ministre chargé de la santé et du ministre
+chargé de la jeunesse, par une personne désignée par le directeur de l'accueil.
+
+**Nota:**
+
+Décret 2006-923 du 26 juillet 2006 art. 24 : Les dispositions du présent décret entrent en vigueur à compter du 1er septembre
+2006, à l'exception des dispositions relatives à la déclaration des accueils de mineurs et des locaux hébergeant ces derniers
+qui entrent en vigueur à compter de la publication des textes nécessaires à l'application de l'article 3.
 
 **Liens relatifs à cet article**
 
@@ -46266,6 +46367,10 @@ la jeunesse, par une personne désignée par le directeur du centre.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-923 du 26 juillet 2006 - art. 8 () JORF 27 juillet 2006 en vigueur le 1er septembre 2006
 
 	**Cite**:
 
@@ -46314,20 +46419,30 @@ Elles informent également sans délai de tout accident ou maladie les représen
 
 ###### Article R227-12
 
-Les fonctions d'animation en centres de vacances et en centres de loisirs peuvent être exercées :
+Les fonctions d'animation en séjours de vacances et en accueils de loisirs sont exercées :
 
 1° Par les titulaires du brevet d'aptitude aux fonctions d'animateur ou d'un diplôme, titre ou certificat de qualification
-figurant sur une liste arrêtée par le ministre chargé de la jeunesse après avis du Conseil national de l'éducation populaire
-et de la jeunesse ;
+figurant sur une liste pouvant tenir compte de la durée de l'accueil, du nombre et de l'âge des mineurs. Cette liste est
+arrêtée par le ministre chargé de la jeunesse après avis du Conseil national de l'éducation populaire et de la jeunesse ;
 
-2° Par les personnes qui, dans le cadre de la préparation du brevet d'aptitude aux fonctions d'animateur ou de l'un des
-diplômes ou titres figurant sur la liste mentionnée au 1° , effectuent un stage ou une période de formation en milieu
-professionnel dans un centre de vacances ou un centre de loisirs ;
+2° Par les agents de la fonction publique dans le cadre de leurs missions et relevant des corps ou des cadres d'emploi dont
+la liste est fixée par arrêté conjoint du ministre chargé de la jeunesse et des ministres dont ils relèvent ;
 
-3° A titre subsidiaire, par des personnes autres que celles mentionnées aux 1° et 2° ci-dessus.
+3° Par les personnes qui, dans le cadre de la préparation du brevet d'aptitude aux fonctions d'animateur ou de l'un des
+diplômes ou titres figurant sur la liste mentionnée au premier alinéa, effectuent un stage pratique ou une période de
+formation ;
 
-Le nombre des personnes titulaires des qualifications mentionnées au 1° ne peut être inférieur à la moitié de l'effectif
-requis. Celui des personnes mentionnées au 3° ne peut être supérieur à 20 % dudit effectif.
+4° A titre subsidiaire, par des personnes autres que celles mentionnées aux alinéas précédents.
+
+Le nombre des personnes mentionnées aux 1° et 2° ne peut être inférieur à la moitié de l'effectif requis. Celui des personnes
+mentionnées au 4° ne peut être supérieur à 20 % dudit effectif, ou à une personne lorsque cet effectif est de trois ou
+quatre.
+
+**Nota:**
+
+Décret 2006-923 du 26 juillet 2006 art. 24 : Les dispositions du présent décret entrent en vigueur à compter du 1er septembre
+2006, à l'exception des dispositions relatives à la déclaration des accueils de mineurs et des locaux hébergeant ces derniers
+qui entrent en vigueur à compter de la publication des textes nécessaires à l'application de l'article 3.
 
 **Liens relatifs à cet article**
 
@@ -46339,6 +46454,10 @@ requis. Celui des personnes mentionnées au 3° ne peut être supérieur à 20 %
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-923 du 26 juillet 2006 - art. 9 () JORF 27 juillet 2006 en vigueur le 1er septembre 2006
 
 	**Cité par**:
 
@@ -46356,8 +46475,20 @@ requis. Celui des personnes mentionnées au 3° ne peut être supérieur à 20 %
 
 ###### Article R227-13
 
-Des diplômes ou titres spécifiques peuvent être exigés pour certaines activités physiques dont la liste est fixée par arrêté
-du ministre chargé de la jeunesse.
+En séjours de vacances et en accueils de loisirs, les conditions d'encadrement et de pratique des activités physiques peuvent
+être aménagées selon les risques encourus, en tenant compte du lieu de déroulement de l'activité et, le cas échéant, du
+niveau de pratique et de l'âge des mineurs. Un arrêté du ministre chargé de la jeunesse précise les modalités d'application
+de ces dispositions.
+
+Les dispositions du premier alinéa ne s'appliquent qu'aux seules personnes faisant partie de l'effectif de l'encadrement
+préalablement déclaré de ces types d'accueil. Dans les autres cas, les conditions d'encadrement et de pratique relèvent des
+dispositions des articles L. 363-1 à L. 363-3 du code de l'éducation.
+
+**Nota:**
+
+Décret 2006-923 du 26 juillet 2006 art. 24 : Les dispositions du présent décret entrent en vigueur à compter du 1er septembre
+2006, à l'exception des dispositions relatives à la déclaration des accueils de mineurs et des locaux hébergeant ces derniers
+qui entrent en vigueur à compter de la publication des textes nécessaires à l'application de l'article 3.
 
 **Liens relatifs à cet article**
 
@@ -46369,6 +46500,10 @@ du ministre chargé de la jeunesse.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-923 du 26 juillet 2006 - art. 10 () JORF 27 juillet 2006 en vigueur le 1er septembre 2006
 
 	**Cité par**:
 
@@ -46400,29 +46535,39 @@ du ministre chargé de la jeunesse.
 	  - Arrêté du 8 juillet 2016 - art. 3
 	  - Code du sport. - art. A322-3-1 (V)
 
+	**Cite**:
+
+	  - Code de l'éducation L363-1 à L363-3
+
 
 ###### Article R227-14
 
-Les fonctions de direction des centres de vacances et des centres de loisirs peuvent être exercées :
+I. - Les fonctions de direction des séjours de vacances et des accueils de loisirs sont exercées :
 
 1° Par les personnes titulaires du brevet d'aptitude aux fonctions de directeur ou d'un diplôme, titre ou certificat de
 qualification figurant sur une liste arrêtée par le ministre chargé de la jeunesse après avis du Conseil national de
 l'éducation populaire et de la jeunesse ;
 
-2° Les personnes qui, dans le cadre de la préparation du brevet d'aptitude aux fonctions de directeur ou de l'un des diplômes
-ou titres figurant sur la liste mentionnée au 1° , effectuent un stage ou une période de formation en milieu professionnel
-dans un centre de vacances ou un centre de loisirs.
+2° Par les agents de la fonction publique dans le cadre de leurs missions et relevant des corps ou des cadres d'emploi dont
+la liste est fixée par arrêté conjoint du ministre chargé de la jeunesse et des ministres dont ils relèvent ;
 
-Dans les centres de loisirs accueillant pendant plus de quatre-vingts jours un effectif supérieur à quatre-vingts mineurs,
-peuvent seules exercer les fonctions de direction :
+3° Par les personnes qui, dans le cadre de la préparation du brevet d'aptitude aux fonctions de directeur ou de l'un des
+diplômes ou titres figurant sur la liste mentionnée au 1° du I, effectuent un stage pratique ou une période de formation.
 
-- les personnes titulaires d'un diplôme, titre ou certificat de qualification figurant à la fois sur la liste mentionnée au
-1° du présent article et au répertoire national des certifications professionnelles prévu à l'article L. 335-6 du code de
-l'éducation ;
+II. - Toutefois, à titre exceptionnel, pour satisfaire un besoin auquel il ne peut être répondu par ailleurs et durant une
+période limitée, le représentant de l'Etat dans le département du domicile de l'organisateur peut aménager les conditions
+d'exercice de ces fonctions, selon des dispositions fixées par arrêté du ministre chargé de la jeunesse et tenant compte de
+la durée de l'accueil, du nombre et de l'âge des mineurs.
 
-- les personnes titulaires du brevet d'aptitude aux fonctions de directeur qui justifient, à la date du 19 février 2004,
-avoir exercé ces fonctions dans un ou plusieurs centres de vacances ou centres de loisirs pendant une période cumulée
-correspondant à vingt-quatre mois au moins à compter du 1er janvier 1997.
+III. - Dans les accueils de loisirs organisés pour un nombre de mineurs et une durée supérieure à des seuils fixés par arrêté
+du ministre chargé de la jeunesse, les fonctions de direction sont réservées aux personnes répondant aux exigences de
+qualification professionnelle dont la liste est fixée par l'arrêté mentionné au 1° du I..
+
+**Nota:**
+
+Décret 2006-923 du 26 juillet 2006 art. 24 : Les dispositions du présent décret entrent en vigueur à compter du 1er septembre
+2006, à l'exception des dispositions relatives à la déclaration des accueils de mineurs et des locaux hébergeant ces derniers
+qui entrent en vigueur à compter de la publication des textes nécessaires à l'application de l'article 3.
 
 **Liens relatifs à cet article**
 
@@ -46437,7 +46582,7 @@ correspondant à vingt-quatre mois au moins à compter du 1er janvier 1997.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1554 du 9 décembre 2005 - art. 1 () JORF 13 décembre 2005
+	  - Décret n°2006-923 du 26 juillet 2006 - art. 11 () JORF 27 juillet 2006 en vigueur le 1er septembre 2006
 
 	**Cité par**:
 
@@ -46457,21 +46602,21 @@ correspondant à vingt-quatre mois au moins à compter du 1er janvier 1997.
 	  - Code de l'action sociale et des familles - art. R227-21 (V)
 	  - Code de l'action sociale et des familles - art. R227-22 (V)
 
-	**Cite**:
-
-	  - Code de l'éducation - art. L335-6 (M)
-
 
 ###### Article R227-15
 
-Sous réserve des dispositions de l'article R. 227-16, l'effectif minimum des personnes exerçant des fonctions d'animation
-dans les centres de loisirs est fixé comme suit :
+Sous réserve des dispositions de l'article R. 227-16, l'effectif minimum des personnes exerçant des fonctions d'animation en
+séjours de vacances et en accueils de loisirs est fixé comme suit :
 
-1° Centres de loisirs accueillant des mineurs de moins de six ans : un animateur pour huit mineurs ;
+1° Un animateur pour huit mineurs âgés de moins de six ans ;
 
-2° Centres de loisirs accueillant des mineurs de six ans et plus :
+2° Un animateur pour douze mineurs âgés de six ans ou plus.
 
-un animateur pour douze mineurs.
+**Nota:**
+
+Décret 2006-923 du 26 juillet 2006 art. 24 : Les dispositions du présent décret entrent en vigueur à compter du 1er septembre
+2006, à l'exception des dispositions relatives à la déclaration des accueils de mineurs et des locaux hébergeant ces derniers
+qui entrent en vigueur à compter de la publication des textes nécessaires à l'application de l'article 3.
 
 **Liens relatifs à cet article**
 
@@ -46483,6 +46628,10 @@ un animateur pour douze mineurs.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-923 du 26 juillet 2006 - art. 12 () JORF 27 juillet 2006 en vigueur le 1er septembre 2006
 
 	**Cité par**:
 
@@ -46498,9 +46647,19 @@ un animateur pour douze mineurs.
 
 ###### Article R227-16
 
-Pour l'accueil des enfants scolarisés aux heures qui précèdent et suivent la classe, l'effectif minimum des personnes
-exerçant des fonctions d'animation est fixé à un animateur pour quatorze mineurs sauf pour les accueils concernant
-exclusivement les mineurs de moins de six ans, pour lesquels cet effectif est fixé à un animateur pour dix mineurs.
+Pour l'encadrement des enfants scolarisés pendant les heures qui précèdent et suivent la classe, lorsqu'il relève des
+dispositions de l'article L. 227-4, l'effectif minimum des personnes exerçant des fonctions d'animation est fixé comme
+suit : 
+
+1° Un animateur pour dix mineurs âgés de moins de six ans ; 
+
+2° Un animateur pour quatorze mineurs âgés de six ans ou plus.
+
+**Nota:**
+
+Décret 2006-923 du 26 juillet 2006 art. 24 : Les dispositions du présent décret entrent en vigueur à compter du 1er septembre
+2006, à l'exception des dispositions relatives à la déclaration des accueils de mineurs et des locaux hébergeant ces derniers
+qui entrent en vigueur à compter de la publication des textes nécessaires à l'application de l'article 3.
 
 **Liens relatifs à cet article**
 
@@ -46513,6 +46672,10 @@ exclusivement les mineurs de moins de six ans, pour lesquels cet effectif est fi
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-923 du 26 juillet 2006 - art. 13 () JORF 27 juillet 2006 en vigueur le 1er septembre 2006
+
 	**Cité par**:
 
 	  - Décret n°2013-707 du 2 août 2013 - art. 2 (VT)
@@ -46520,11 +46683,22 @@ exclusivement les mineurs de moins de six ans, pour lesquels cet effectif est fi
 	  - Code de l'action sociale et des familles - art. R227-15 (V)
 	  - Code de l'action sociale et des familles - art. R227-20 (M)
 
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L227-4 (V)
+
 
 ###### Article R227-17
 
-Dans les centres de loisirs accueillant quatre-vingts mineurs au plus pendant une durée égale au plus à quatre-vingts jours,
-le directeur est inclus dans l'effectif des personnes exerçant des fonctions d'animation.
+En accueil de loisirs, lorsque le nombre de mineurs ou la durée de l'accueil sont inférieurs à un seuil fixé par arrêté du
+ministre chargé de la jeunesse, le directeur peut être inclus dans l'effectif des personnes exerçant des fonctions
+d'animation.
+
+**Nota:**
+
+Décret 2006-923 du 26 juillet 2006 art. 24 : Les dispositions du présent décret entrent en vigueur à compter du 1er septembre
+2006, à l'exception des dispositions relatives à la déclaration des accueils de mineurs et des locaux hébergeant ces derniers
+qui entrent en vigueur à compter de la publication des textes nécessaires à l'application de l'article 3.
 
 **Liens relatifs à cet article**
 
@@ -46536,6 +46710,10 @@ le directeur est inclus dans l'effectif des personnes exerçant des fonctions d'
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-923 du 26 juillet 2006 - art. 14 () JORF 27 juillet 2006 en vigueur le 1er septembre 2006
 
 	**Cité par**:
 
@@ -46549,13 +46727,23 @@ le directeur est inclus dans l'effectif des personnes exerçant des fonctions d'
 
 ###### Article R227-18
 
-L'effectif minimum des personnes exerçant des fonctions d'animation dans les centres de vacances est fixé comme suit :
+En séjour de vacances : 
 
-1° En ce qui concerne les centres de vacances accueillant des mineurs âgés de moins de six ans : un animateur pour huit
-mineurs ;
+1° L'effectif de l'encadrement ne peut être inférieur à deux personnes ; 
 
-2° En ce qui concerne les centres de vacances accueillant des mineurs âgés de six ans et plus : un animateur pour douze
-mineurs.
+2° Lorsque l'effectif accueilli est supérieur à cent mineurs, le directeur doit être assisté d'un ou plusieurs adjoints, qui
+doivent satisfaire aux conditions de qualification mentionnées à l'article R. 227-14, à raison d'un adjoint supplémentaire
+par tranche de cinquante mineurs au-delà de cent ; 
+
+3° Lorsque les mineurs accueillis sont âgés de quatorze ans ou plus et que l'effectif est inférieur au seuil prévu par arrêté
+du ministre chargé de la jeunesse, le directeur peut être inclus dans l'effectif des personnes exerçant des fonctions
+d'animation.
+
+**Nota:**
+
+Décret 2006-923 du 26 juillet 2006 art. 24 : Les dispositions du présent décret entrent en vigueur à compter du 1er septembre
+2006, à l'exception des dispositions relatives à la déclaration des accueils de mineurs et des locaux hébergeant ces derniers
+qui entrent en vigueur à compter de la publication des textes nécessaires à l'application de l'article 3.
 
 **Liens relatifs à cet article**
 
@@ -46568,6 +46756,10 @@ mineurs.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-923 du 26 juillet 2006 - art. 15 () JORF 27 juillet 2006 en vigueur le 1er septembre 2006
+
 	**Cité par**:
 
 	  - Arrêté du 12 décembre 2013 (Ab)
@@ -46576,12 +46768,52 @@ mineurs.
 	  - Arrêté du 28 février 2017 (V)
 	  - Code de l'action sociale et des familles - art. R227-20 (M)
 
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. R227-14 (V)
+
 
 ###### Article R227-19
 
-Lorsque l'effectif d'un centre de vacances est supérieur à cent mineurs, le directeur doit être assisté d'un ou plusieurs
-adjoints, qui doivent satisfaire aux conditions de qualification mentionnées à l'article R. 227-14, à raison d'un adjoint
-supplémentaire par tranche de cinquante mineurs au-delà de cent.
+I. - En séjour spécifique :
+
+1° Une personne majeure est désignée par l'organisateur comme directeur du séjour ;
+
+2° L'effectif de l'encadrement ne peut être inférieur à deux personnes, sauf dispositions contraires fixées par l'arrêté
+mentionné à l'article R. 227-1 ;
+
+3° Les conditions de qualification et le taux de l'encadrement sont ceux prévus par les normes ou la réglementation relatives
+à l'activité principale du séjour.
+
+II. - En séjour court :
+
+1° Une personne majeure s'assure des conditions d'hygiène et de sécurité dans lesquelles l'hébergement se déroule ;
+
+2° L'effectif de l'encadrement ne peut être inférieur à deux personnes ;
+
+3° Les conditions de qualification et d'effectifs d'encadrement mentionnées aux articles R. 227-12, R. 227-14 et R. 227-15 ne
+sont pas requises sauf lorsque ces séjours représentent un élément accessoire d'un accueil sans hébergement mentionné au R.
+227-1 et qu'ils s'adressent aux mêmes mineurs dans le cadre du même projet éducatif.
+
+III. - En accueil de jeunes :
+
+1° Les conditions d'encadrement sont définies par convention entre l'organisateur et le représentant de l'Etat dans le
+département pour répondre aux besoins identifiés ;
+
+2° L'organisateur désigne un animateur qualifié comme référent de cet accueil ou, lorsque l'action se déroule sur plusieurs
+sites, un directeur qualifié qui coordonne l'action de référents locaux.
+
+IV. - En accueil de scoutisme :
+
+1° Les dispositions des articles R. 227-12 à R. 227-15 s'appliquent ;
+
+2° L'effectif d'encadrement peut être modifié par arrêté du ministre chargé de la jeunesse en fonction du public accueilli.
+
+**Nota:**
+
+Décret 2006-923 du 26 juillet 2006 art. 24 : Les dispositions du présent décret entrent en vigueur à compter du 1er septembre
+2006, à l'exception des dispositions relatives à la déclaration des accueils de mineurs et des locaux hébergeant ces derniers
+qui entrent en vigueur à compter de la publication des textes nécessaires à l'application de l'article 3.
 
 **Liens relatifs à cet article**
 
@@ -46594,6 +46826,10 @@ supplémentaire par tranche de cinquante mineurs au-delà de cent.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-923 du 26 juillet 2006 - art. 16 () JORF 27 juillet 2006 en vigueur le 1er septembre 2006
+
 	**Cité par**:
 
 	  - Arrêté du 21 mai 2007 - art. 2 (V)
@@ -46601,14 +46837,22 @@ supplémentaire par tranche de cinquante mineurs au-delà de cent.
 
 	**Cite**:
 
+	  - Code de l'action sociale et des familles - art. R227-1 (M)
+	  - Code de l'action sociale et des familles - art. R227-12 (M)
 	  - Code de l'action sociale et des familles - art. R227-14 (M)
+	  - Code de l'action sociale et des familles - art. R227-15 (M)
 
 
 ###### Article R227-20
 
-Ne sont pas compris dans les effectifs minima mentionnés aux articles R. 227-15, R. 227-16, R. 227-17 et R. 227-18 les
-personnes qui, sans être titulaires de la qualification requise pour exercer des fonctions d'animation, interviennent dans le
-cadre des objectifs pédagogiques développés par le centre de vacances ou le centre de loisirs.
+Les personnes prenant part ponctuellement à l'encadrement ne sont pas comprises dans les effectifs minima mentionnés aux
+articles R. 227-15 à R. 227-19.
+
+**Nota:**
+
+Décret 2006-923 du 26 juillet 2006 art. 24 : Les dispositions du présent décret entrent en vigueur à compter du 1er septembre
+2006, à l'exception des dispositions relatives à la déclaration des accueils de mineurs et des locaux hébergeant ces derniers
+qui entrent en vigueur à compter de la publication des textes nécessaires à l'application de l'article 3.
 
 **Liens relatifs à cet article**
 
@@ -46621,28 +46865,35 @@ cadre des objectifs pédagogiques développés par le centre de vacances ou le c
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-923 du 26 juillet 2006 - art. 17 () JORF 27 juillet 2006 en vigueur le 1er septembre 2006
+
 	**Cité par**:
 
 	  - Décret n°2013-707 du 2 août 2013 - art. 2 (VT)
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. R227-15 (M)
-	  - Code de l'action sociale et des familles - art. R227-16 (M)
-	  - Code de l'action sociale et des familles - art. R227-17 (M)
-	  - Code de l'action sociale et des familles - art. R227-18 (M)
+	  - Code de l'action sociale et des familles - art. R227-15 (V)
+	  - Code de l'action sociale et des familles R227-15 à R227-19
 
 
 ###### Article R227-21
 
 Des titres et diplômes étrangers peuvent être reconnus équivalents aux titres et diplômes français permettant d'exercer des
 fonctions d'animation ou des fonctions de direction dans les centres de vacances et dans les centres de loisirs. Ils sont
-inscrits par arrêté du ministre chargé de la jeunesse sur les listes mentionnées aux articles R. 227-12 et R. 227-14, après
-avis du Conseil national de l'éducation populaire et de la jeunesse.
+inscrits par arrêté du ministre chargé de la jeunesse sur les listes mentionnées aux articles R. 227-12 et R. 227-14.
 
-Le directeur régional de la jeunesse, des sports et des loisirs du lieu de domicile du demandeur délivre l'attestation
-d'équivalence à toute personne titulaire d'un diplôme ou d'un titre étranger inscrit sur les listes mentionnées à l'alinéa
-précédent.
+Le directeur régional de la jeunesse, des sports et de la vie associative du lieu de domicile du demandeur délivre
+l'attestation d'équivalence à toute personne titulaire d'un diplôme ou d'un titre étranger inscrit sur les listes mentionnées
+à l'alinéa précédent.
+
+**Nota:**
+
+Décret 2006-923 du 26 juillet 2006 art. 24 : Les dispositions du présent décret entrent en vigueur à compter du 1er septembre
+2006, à l'exception des dispositions relatives à la déclaration des accueils de mineurs et des locaux hébergeant ces derniers
+qui entrent en vigueur à compter de la publication des textes nécessaires à l'application de l'article 3.
 
 **Liens relatifs à cet article**
 
@@ -46654,6 +46905,10 @@ précédent.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-923 du 26 juillet 2006 - art. 18 () JORF 27 juillet 2006 en vigueur le 1er septembre 2006
 
 	**Cite**:
 
@@ -46667,7 +46922,7 @@ précédent.
 
 ###### Article R227-22
 
-Peuvent être autorisés à exercer en France les fonctions d'animation ou de direction d'un centre de vacances ou d'un centre
+Peuvent être autorisés à exercer en France les fonctions d'animation ou de direction d'un séjour de vacances ou d'un accueil
 de loisirs les ressortissants d'un autre Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace
 économique européen qui, sans être titulaires d'un diplôme figurant sur les listes mentionnées aux articles R. 227-12 et R.
 227-14, possèdent :
@@ -46691,12 +46946,18 @@ auxquelles donne accès la possession du diplôme national, l'autorité compéte
 de se soumettre à une épreuve d'aptitude, soit d'accomplir un stage d'adaptation dont la durée ne peut excéder deux ans et
 qui fait l'objet d'une évaluation.
 
-La décision est notifiée par le directeur régional de la jeunesse, des sports et des loisirs du lieu de domicile du
+La décision est notifiée par le directeur régional de la jeunesse, des sports et de la vie associative du lieu de domicile du
 demandeur, après avis du Conseil national de l'éducation populaire et de la jeunesse, dans un délai de quatre mois à compter
 du dépôt de la demande dans ses services.
 
 Un arrêté du ministre chargé de la jeunesse précise la composition du dossier de demande d'équivalence et détermine les
 modalités du dépôt de la demande.
+
+**Nota:**
+
+Décret 2006-923 du 26 juillet 2006 art. 24 : Les dispositions du présent décret entrent en vigueur à compter du 1er septembre
+2006, à l'exception des dispositions relatives à la déclaration des accueils de mineurs et des locaux hébergeant ces derniers
+qui entrent en vigueur à compter de la publication des textes nécessaires à l'application de l'article 3.
 
 **Liens relatifs à cet article**
 
@@ -46708,6 +46969,10 @@ modalités du dépôt de la demande.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-923 du 26 juillet 2006 - art. 19 () JORF 27 juillet 2006 en vigueur le 1er septembre 2006
 
 	**Cite**:
 
@@ -46724,13 +46989,19 @@ modalités du dépôt de la demande.
 ###### Article R227-23
 
 Le projet éducatif mentionné au deuxième alinéa de l'article L. 227-4 est décrit dans un document élaboré par la personne
-physique ou morale organisant l'accueil de mineurs dans des centres de vacances et des centres de loisirs sans hébergement.
+physique ou morale organisant un des accueils mentionnés à l'article R. 227-1. 
 
 Ce document prend en compte, dans l'organisation de la vie collective et lors de la pratique des diverses activités, et
-notamment des activités physiques et sportives, les besoins psychologiques et physiologiques des mineurs.
+notamment des activités physiques et sportives, les besoins psychologiques et physiologiques des mineurs. 
 
-Lorsque l'organisateur accueille en centre de vacances ou en centre de loisirs sans hébergement des mineurs valides et des
-mineurs atteints de troubles de la santé ou de handicaps, le projet éducatif prend en compte les spécificités de cet accueil.
+Lorsque l'organisateur accueille des mineurs valides et des mineurs atteints de troubles de la santé ou de handicaps, le
+projet éducatif prend en compte les spécificités de cet accueil.
+
+**Nota:**
+
+Décret 2006-923 du 26 juillet 2006 art. 24 : Les dispositions du présent décret entrent en vigueur à compter du 1er septembre
+2006, à l'exception des dispositions relatives à la déclaration des accueils de mineurs et des locaux hébergeant ces derniers
+qui entrent en vigueur à compter de la publication des textes nécessaires à l'application de l'article 3.
 
 **Liens relatifs à cet article**
 
@@ -46743,9 +47014,13 @@ mineurs atteints de troubles de la santé ou de handicaps, le projet éducatif p
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-923 du 26 juillet 2006 - art. 20 () JORF 27 juillet 2006 en vigueur le 1er septembre 2006
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L227-4 (M)
+	  - Code de l'action sociale et des familles - art. L227-4 (V)
 
 	**Cité par**:
 
@@ -46754,14 +47029,20 @@ mineurs atteints de troubles de la santé ou de handicaps, le projet éducatif p
 
 ###### Article R227-24
 
-Le projet éducatif définit les objectifs de l'action éducative des personnes qui dirigent et animent les centres de vacances
-et les centres de loisirs sans hébergement et précise les mesures prises par la personne physique ou morale organisant
-l'accueil pour être informée des conditions de déroulement de celui-ci.
+Le projet éducatif définit les objectifs de l'action éducative des personnes qui assurent la direction ou l'animation des
+accueils mentionnés à l'article R. 227-1 et précise les mesures prises par la personne physique ou morale organisant
+l'accueil pour être informée des conditions de déroulement de celui-ci. 
 
-Les personnes qui dirigent et animent le séjour dans un centre de vacances ou dans un centre de loisirs sans hébergement
-prennent connaissance du projet éducatif avant leur entrée en fonctions.
+Les personnes qui assurent la direction ou l'animation de l'un de ces accueils prennent connaissance du projet éducatif avant
+leur entrée en fonctions. 
 
 Elles sont informées des moyens matériels et financiers mis à leur disposition.
+
+**Nota:**
+
+Décret 2006-923 du 26 juillet 2006 art. 24 : Les dispositions du présent décret entrent en vigueur à compter du 1er septembre
+2006, à l'exception des dispositions relatives à la déclaration des accueils de mineurs et des locaux hébergeant ces derniers
+qui entrent en vigueur à compter de la publication des textes nécessaires à l'application de l'article 3.
 
 **Liens relatifs à cet article**
 
@@ -46774,32 +47055,49 @@ Elles sont informées des moyens matériels et financiers mis à leur dispositio
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-923 du 26 juillet 2006 - art. 21 () JORF 27 juillet 2006 en vigueur le 1er septembre 2006
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. R227-1 (V)
+
 
 ###### Article R227-25
 
-La personne qui dirige le séjour dans un centre de vacances ou dans un centre de loisirs sans hébergement met en oeuvre le
-projet éducatif et en précise les conditions de réalisation dans un document, élaboré en concertation avec les personnes qui
-animent le séjour.
+La personne qui assure la direction d'un des accueils mention nés à l'article R. 227-1 met en oeuvre le projet éducatif sauf
+lorsqu'il s'agit de séjours définis au 4° du I du même article, dans les conditions qu'il définit dans un document, élaboré
+en concertation avec les personnes qui assurent l'animation de cet accueil. 
 
-Ce document prend en considération l'âge des mineurs accueillis.
+La personne physique ou morale organisant l'accueil est tenue de s'assurer de la mise en oeuvre des dispositions mentionnées
+à l'alinéa précédent. 
 
-Il précise notamment :
+Ce document prend en considération l'âge des mineurs accueillis. 
+
+Il précise notamment : 
 
 1° La nature des activités proposées en fonction des modalités d'accueil, et, lorsqu'il s'agit d'activités physiques ou
-sportives, les conditions dans lesquelles celles-ci sont mises en oeuvre ;
+sportives, les conditions dans lesquelles celles-ci sont mises en oeuvre ; 
 
-2° La répartition des temps respectifs d'activité et de repos ;
+2° La répartition des temps respectifs d'activité et de repos ; 
 
-3° Les modalités de participation des mineurs ;
+3° Les modalités de participation des mineurs ; 
 
-4° Le cas échéant, les mesures envisagées pour les mineurs atteints de troubles de la santé ou de handicaps ;
+4° Le cas échéant, les mesures envisagées pour les mineurs atteints de troubles de la santé ou de handicaps ; 
 
 5° Les modalités de fonctionnement de l'équipe constituée du directeur mentionné au premier alinéa, des animateurs et de ceux
-qui participent à l'accueil des mineurs ;
+qui participent à l'accueil des mineurs ; 
 
-6° Les modalités d'évaluation de l'accueil ;
+6° Les modalités d'évaluation de l'accueil ; 
 
 7° Les caractéristiques des locaux et des espaces utilisés.
+
+**Nota:**
+
+Décret 2006-923 du 26 juillet 2006 art. 24 : Les dispositions du présent décret entrent en vigueur à compter du 1er septembre
+2006, à l'exception des dispositions relatives à la déclaration des accueils de mineurs et des locaux hébergeant ces derniers
+qui entrent en vigueur à compter de la publication des textes nécessaires à l'application de l'article 3.
 
 **Liens relatifs à cet article**
 
@@ -46812,17 +47110,31 @@ qui participent à l'accueil des mineurs ;
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-923 du 26 juillet 2006 - art. 22 () JORF 27 juillet 2006 en vigueur le 1er septembre 2006
+
 	**Cité par**:
 
 	  - Arrêté du 25 avril 2012 - art. 1 (V)
 	  - Code de l'action sociale et des familles - art. R227-26 (M)
 
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. R227-1 (V)
+
 
 ###### Article R227-26
 
-Le projet éducatif ainsi que le document mentionné à l'article R. 227-25 sont communiqués aux représentants légaux des
-mineurs avant l'accueil de ces derniers. Ils sont communiqués, dans des conditions fixées par arrêté du ministre chargé de la
-jeunesse, aux agents mentionnés à l'article L. 227-9.
+Le projet éducatif et le document mentionné à l'article R. 227-25 sont communiqués aux représentants légaux des mineurs avant
+l'accueil de ces derniers ainsi qu'aux agents mentionnés à l'article L. 227-9 dans des conditions fixées par arrêté du
+ministre chargé de la jeunesse.
+
+**Nota:**
+
+Décret 2006-923 du 26 juillet 2006 art. 24 : Les dispositions du présent décret entrent en vigueur à compter du 1er septembre
+2006, à l'exception des dispositions relatives à la déclaration des accueils de mineurs et des locaux hébergeant ces derniers
+qui entrent en vigueur à compter de la publication des textes nécessaires à l'application de l'article 3.
 
 **Liens relatifs à cet article**
 
@@ -46835,10 +47147,13 @@ jeunesse, aux agents mentionnés à l'article L. 227-9.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-923 du 26 juillet 2006 - art. 23 () JORF 27 juillet 2006 en vigueur le 1er septembre 2006
+
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L227-9 (V)
-	  - Code de l'action sociale et des familles - art. R227-25 (M)
 
 
 ##### Section 3 : Obligation d'assurance de responsabilité civile relative aux accueils de mineurs
@@ -84629,53 +84944,6 @@ des ministres mentionnés à l'article D. 451-59.
 	  - Code de l'action sociale et des familles - art. D451-59
 
 
-###### Article D451-61
-
-La commission nationale pour la formation à l'animation est chargée de mener des études générales sur la formation. Elle est
-consultée sur l'évolution du diplôme et sur les demandes d'équivalence avec d'autres diplômes.
-
-Dans chaque région une commission régionale pour la formation à l'animation placée auprès du directeur régional des affaires
-sanitaires et sociales et du directeur régional de la jeunesse et des sports est une instance de réflexion, de conseil, de
-concertation en matière de formation. La région Rhône-Alpes et la région Provence-Alpes-Côte d'Azur comptent deux
-commissions.
-
-Un arrêté interministériel fixe la composition et les modalités d'organisation de la commission nationale pour la formation à
-l'animation et des commissions régionales pour la formation à l'animation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-240 du 9 mars 1970 - art. 1 (Ab)
-	  - Décret n°70-240 du 9 mars 1970 - art. 2 (Ab)
-	  - Code de l'action sociale et des familles - art. D451-49 (T)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Modifié par**:
-
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-1101 du 31 août 2006 - art. 1 (V) JORF 1er septembre 2006
-
-	**Cité par**:
-
-	  - Décret n°2006-1101 du 31 août 2006 - art. 1 (V)
-	  - Code de l'action sociale et des familles - art. D451-62 (T)
-	  - Code de l'action sociale et des familles - art. D451-63 (T)
-	  - Code de l'action sociale et des familles - art. D451-64 (T)
-	  - Code de l'action sociale et des familles - art. D451-65 (M)
-	  - Code de l'action sociale et des familles - art. D451-67 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. D451-73 (V)
-
-
 ###### Article D451-62
 
 Les candidats ayant acquis une formation préalable dans des disciplines correspondant au programme de la formation générale
@@ -84742,9 +85010,8 @@ ministre chargé de la jeunesse par le préfet de région sur proposition conjoi
 
 ###### Article D451-64
 
-Des arrêtés des ministres mentionnés à l'article D. 451-59, pris après consultation de la commission nationale pour la
-formation à l'animation, précisent les diplômes reconnus partiellement ou totalement équivalents au diplôme d'Etat relatif
-aux fonctions d'animation.
+Des arrêtés des ministres mentionnés à l'article D. 451-59, précisent les diplômes reconnus partiellement ou totalement
+équivalents au diplôme d'Etat relatif aux fonctions d'animation.
 
 **Liens relatifs à cet article**
 
@@ -84759,12 +85026,15 @@ aux fonctions d'animation.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1135 2005-09-07 art. 4 I, III JORF 10 septembre 2005
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 4 () JORF 10 septembre 2005
+	  - Décret n°2006-1101 du 31 août 2006 - art. 2 () JORF 1er septembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1153 du 29 septembre 2009 - art. 1
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. D451-59 (V)
+	  - Code de l'action sociale et des familles - art. D451-59
 
 	**Nouveaux textes**:
 
