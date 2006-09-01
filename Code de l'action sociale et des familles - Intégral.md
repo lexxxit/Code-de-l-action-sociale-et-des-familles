@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-09-01
+Version Consolidée au 2006-09-02
 
 # Partie législative
 
@@ -43080,6 +43080,191 @@ interventions.
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. R222-3 (V)
+
+
+##### Section 1 bis : Contrat de responsabilité parentale
+
+###### Article R222-4-1
+
+Le contrat de responsabilité parentale prévu à l'article L. 222-4-1 comporte notamment :
+
+1° Les motifs et les circonstances de fait justifiant le recours à un tel contrat ainsi qu'une présentation de la situation
+de l'enfant et des parents ou du représentant légal du mineur ;
+
+2° Un rappel des obligations des titulaires de l'autorité parentale ;
+
+3° Des engagements des parents ou du représentant légal du mineur pour remédier aux difficultés identifiées dans le contrat ;
+
+4° Des mesures d'aide et d'action sociales relevant du président du conseil général de nature à contribuer à résoudre ces
+difficultés ;
+
+5° Sa durée initiale, qui ne peut excéder six mois ; lorsque le contrat est renouvelé, la durée totale ne peut être
+supérieure à un an ;
+
+6° Les modalités du réexamen de la situation de l'enfant et des parents ou du représentant légal du mineur durant la mise en
+oeuvre du contrat ;
+
+7° Le rappel des sanctions prévues aux 1°, 2° et 3° de l'article L. 222-4-1.
+
+Ce contrat peut également rappeler les mesures d'aide déjà mises en place par les autorités ayant saisi le président du
+conseil général, notamment par le responsable du dispositif de réussite éducative ou par d'autres autorités concourant à
+l'accompagnement de la famille et dont le président du conseil général veille à la coordination avec les mesures prévues par
+le contrat de responsabilité parentale.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1104 du 1 septembre 2006 - art. 1 () JORF 2 septembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2014-918 du 18 août 2014 - art. 2
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L222-4-1
+
+
+###### Article R222-4-2
+
+Le contrat de responsabilité parentale peut être proposé aux parents ou au représentant légal du mineur par le président du
+conseil général de sa propre initiative ou sur saisine :
+
+1° De l'inspecteur d'académie en cas d'absentéisme scolaire tel que défini à l'article L. 131-8 du code de l'éducation ;
+
+2° Du chef d'établissement en cas de trouble porté au fonctionnement d'un établissement scolaire ;
+
+3° Du préfet, du maire de la commune où réside le mineur, de l'inspecteur d'académie, du chef de l'établissement scolaire ou
+du directeur de l'organisme débiteur des prestations familiales pour toute autre difficulté liée à une carence de l'autorité
+parentale.
+
+Les autorités qui saisissent le président du conseil général lui indiquent les motifs et circonstances de fait qui les
+conduisent à lui proposer de conclure avec les parents ou le représentant légal du mineur un contrat de responsabilité
+parentale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1104 du 1 septembre 2006 - art. 1 () JORF 2 septembre 2006
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L131-8 (M)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R131-7 (MMN)
+
+
+###### Article R222-4-3
+
+Lorsque le président du conseil général envisage de recourir à un contrat de responsabilité parentale, il notifie une
+proposition de contrat, lors d'un entretien ou par voie postale, aux parents ou au représentant légal du mineur.
+
+Les parents ou le représentant légal disposent d'un délai de quinze jours à compter de cette notification pour donner leur
+accord au contrat et le signer, ou, en cas de désaccord, pour faire part de leurs observations et, le cas échéant, de leurs
+propositions ainsi que des motifs justifiant leur refus.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1104 du 1 septembre 2006 - art. 1 () JORF 2 septembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2014-918 du 18 août 2014 - art. 2
+
+
+###### Article R222-4-4
+
+Dans le cas où il a été saisi par une autorité mentionnée à l'article L. 222-4-1, le président du conseil général l'informe
+de la conclusion du contrat de responsabilité parentale et de sa mise en oeuvre. Cette autorité peut lui faire également
+connaître les informations dont elle dispose sur l'exécution de ce contrat.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 du 21 octobre 2004
+
+	**Créé par**:
+
+	  - Décret n°2006-1104 du 1 septembre 2006 - art. 1 () JORF 2 septembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2014-918 du 18 août 2014 - art. 2
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L222-4-1
+
+
+###### Article R222-4-5
+
+Le président du conseil général ne peut faire suspendre, dans les conditions prévues par le 1° de l'article L. 222-4-1 et par
+l'article L. 552-3 du code de la sécurité sociale, le versement de tout ou partie des prestations familiales afférentes au
+mineur dont le comportement a été à l'origine de la proposition et, le cas échéant, de la conclusion d'un contrat de
+responsabilité parentale, qu'après avoir informé de son projet et des motifs qui le fondent les parents ou le représentant
+légal du mineur. Ceux-ci doivent être mis à même de présenter des observations et, s'ils le souhaitent, de se faire assister,
+dans les conditions fixées par l'article 24 de la loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans
+leurs relations avec les administrations. La décision de suspension qu'il prend, le cas échéant, à l'issue de cette
+procédure, doit être motivée et notifiée aux intéressés.
+
+Ces dispositions sont également applicables lorsque le président du conseil général envisage soit de demander le
+renouvellement d'une précédente mesure de suspension de tout ou partie de ces prestations, soit de s'opposer, à l'issue d'une
+période de suspension de douze mois, à leur rétablissement avec effet rétroactif.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2000-321 du 12 avril 2000 - art. 24
+	  - Code de la sécurité sociale. - art. L552-3
+	  - Code de l'action sociale et des familles - art. L222-4-1
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1104 du 1 septembre 2006 - art. 1 () JORF 2 septembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2014-918 du 18 août 2014 - art. 2
 
 
 ##### Section 2 : Information des mères de naissance
