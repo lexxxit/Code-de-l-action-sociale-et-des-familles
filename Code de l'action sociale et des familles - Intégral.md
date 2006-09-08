@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-09-02
+Version Consolidée au 2006-09-09
 
 # Partie législative
 
@@ -5190,12 +5190,8 @@ Les modalités d'application du présent article sont fixées par décret.
 
 ###### Article L148-2
 
-Il est institué auprès du Premier ministre une Autorité centrale pour l'adoption chargée d'orienter et de coordonner l'action
-des administrations et des autorités compétentes en matière d'adoption internationale.
-
-L'Autorité centrale pour l'adoption est composée de représentants de l'Etat et des conseils généraux ainsi que de
-représentants des organismes agréés pour l'adoption et des associations de familles adoptives, ces derniers ayant voix
-consultative.
+Il est institué une Autorité centrale pour l'adoption chargée d'orienter et de coordonner l'action des administrations et des
+autorités compétentes en matière d'adoption internationale.
 
 Un décret en Conseil d'Etat précise les conditions d'application du présent article.
 
@@ -5206,13 +5202,13 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Créé par**:
-
-	  - Loi n°2002-93 du 22 janvier 2002 - art. 12 () JORF 23 janvier 2002
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°2002-1052 du 6 août 2002
+
+	**Modifié par**:
+
+	  - Décret n°2006-1128 du 8 septembre 2006 - art. 1 () JORF 9 septembre 2006
 
 	**Cité par**:
 
@@ -40142,19 +40138,45 @@ Le secrétariat du conseil est assuré par la direction générale de l'action s
 
 ##### Section 2 : Autorité centrale pour l'adoption internationale
 
-###### Article R*148-4
+###### Article R148-4
 
-L'autorité centrale pour l'adoption internationale prévue à l'article L. 148-2 est composée de son président, de deux
-représentants du ministre de la justice, de deux représentants du ministre des affaires étrangères, de deux représentants du
-ministre chargé de la famille, de deux représentants des conseils généraux désignés par l'assemblée des départements de
-France, ainsi que de deux représentants des organismes habilités pour l'adoption et de deux représentants des associations de
-familles adoptives. Les représentants des organismes habilités pour l'adoption et les représentants des associations de
-familles adoptives ont voix consultative et sont désignés pour trois ans par arrêté du ministre chargé de la famille, du
-ministre de la justice et du ministre des affaires étrangères.
+L'Autorité centrale pour l'adoption internationale prévue à l'article L. 148-2 est placée auprès du ministre des affaires
+étrangères. Elle est composée de huit membres :
 
-Le président de l'autorité centrale est nommé par décret pour une durée de trois ans renouvelable une fois.
+1° Deux représentants du ministre des affaires étrangères ;
+
+2° Deux représentants du ministre de la justice ;
+
+3° Deux représentants du ministre chargé de la famille ;
+
+4° Deux représentants des conseils généraux.
+
+Les représentants de chacun des ministres, ainsi que leurs suppléants, sont nommés pour une durée de trois ans par arrêté du
+ministre concerné parmi les agents relevant de son autorité dont les fonctions sont en rapport avec l'élaboration ou la mise
+en oeuvre de la politique de l'adoption internationale. Leur mandat est renouvelable. Ces agents cessent de siéger au sein de
+l'Autorité centrale pour l'adoption internationale lorsqu'ils n'exercent plus les fonctions au titre desquelles ils ont été
+nommés. La désignation de leur remplaçant porte sur la durée du mandat restant à courir.
+
+Les représentants des conseils généraux, ainsi que leurs suppléants, sont désignés par l'assemblée des départements de France
+pour trois ans. Leur mandat est renouvelé après chaque renouvellement triennal des conseils généraux. Le remplacement de tout
+représentant de conseil général démissionnaire ou ayant perdu la qualité en raison de laquelle il a été désigné s'effectue
+dans les mêmes conditions de désignation. La désignation du remplaçant porte sur la durée du mandat restant à courir.
+
+Un président et un vice-président sont nommés parmi les membres de l'Autorité centrale pour l'adoption internationale par
+arrêté conjoint du ministre des affaires étrangères, du ministre de la justice et du ministre chargé de la famille.
+
+Les membres de l'Autorité centrale pour l'adoption internationale exercent leurs fonctions à titre gratuit. Leurs frais de
+déplacement ainsi que ceux des personnes mentionnées au deuxième alinéa de l'article R. 148-5 peuvent être pris en charge
+dans les conditions fixées par le décret n° 90-437 du 28 mai 1990 et le décret n° 86-416 du 12 mars 1986.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°86-416 1986-03-12
+	  - Décret n°90-437 1990-05-28
+	  - Code de l'action sociale et des familles - art. L148-2 (M)
+	  - Code de l'action sociale et des familles L148-2, R148-5
 
 	**Anciens textes**:
 
@@ -40165,15 +40187,19 @@ Le président de l'autorité centrale est nommé par décret pour une durée de 
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'action sociale et des familles - art. L148-2 (M)
+	  - Décret n°2006-1128 du 8 septembre 2006 - art. 2 () JORF 9 septembre 2006
 
 
-###### Article R*148-5
+###### Article R148-5
 
-L'autorité centrale se réunit au moins deux fois par an. Elle peut en outre se réunir à l'initiative de son président ou à la
-demande de trois de ses membres. Elle est convoquée par son président.
+L'Autorité centrale pour l'adoption internationale se réunit au moins trois fois par an. Elle peut en outre se réunir à
+l'initiative de son président, à la demande de trois de ses membres, ainsi qu'à celle du ministre des affaires étrangères.
+Elle est convoquée par son président ou, en cas d'empêchement, par son vice-président, qui fixe l'ordre du jour.
+
+Pour l'examen de tout ou partie de l'ordre du jour, le président peut autoriser l'audition de toute personne dont l'avis ou
+l'expertise lui paraît utile.
 
 **Liens relatifs à cet article**
 
@@ -40185,10 +40211,20 @@ demande de trois de ses membres. Elle est convoquée par son président.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
 
-###### Article R*148-6
+	  - Décret n°2006-1128 du 8 septembre 2006 - art. 2 () JORF 9 septembre 2006
 
-Le secrétariat de l'autorité centrale est assuré par le ministère des affaires étrangères.
+
+###### Article R148-6
+
+L'Autorité centrale pour l'adoption internationale bénéficie en tant que de besoin du concours des services des ministères
+compétents, ainsi que de celui des postes diplomatiques et consulaires.
+
+Un secrétaire général nommé par le ministre des affaires étrangères prépare les travaux de l'Autorité centrale pour
+l'adoption internationale. Il assiste à ses réunions et en assure le compte rendu. Il suit la mise en oeuvre de ses avis et
+recommandations. Il rend compte à l'Autorité centrale pour l'adoption internationale de l'ensemble de son activité à ce
+titre.
 
 **Liens relatifs à cet article**
 
@@ -40200,13 +40236,23 @@ Le secrétariat de l'autorité centrale est assuré par le ministère des affair
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
 
-###### Article R*148-7
+	  - Décret n°2006-1128 du 8 septembre 2006 - art. 2 () JORF 9 septembre 2006
 
-L'autorité centrale concourt à la définition de la politique de coopération internationale dans le domaine de l'adoption
-d'enfants étrangers.
+
+###### Article R148-7
+
+L'Autorité centrale pour l'adoption internationale veille au respect par la France de ses obligations au regard de la
+convention de La Haye du 29 mai 1993. Elle exerce les compétences et les fonctions prévues par les stipulations des articles
+7 à 9 et 33 de ladite convention. Ces fonctions sont assurées dans l'intervalle de ses réunions par son président qui peut
+déléguer ses compétences au secrétaire général.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Convention de la Haye 1993-05-29 art. 7 à 9, 33
 
 	**Anciens textes**:
 
@@ -40216,14 +40262,45 @@ d'enfants étrangers.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
 
-###### Article R*148-8
+	  - Décret n°2006-1128 du 8 septembre 2006 - art. 2 () JORF 9 septembre 2006
 
-L'autorité centrale exerce les fonctions et détient les compétences prévues par les stipulations des articles 7, 8, 9 d et 33
-de la convention de La Haye du 29 mai 1993 sur la protection des enfants et la coopération en matière d'adoption
-internationale.
+
+###### Article R148-8
+
+L'Autorité centrale pour l'adoption internationale examine les questions relevant de sa compétence et peut formuler des
+recommandations au ministre des affaires étrangères, notamment sur :
+
+1° L'application de la convention de La Haye du 29 mai 1993 par la France ou ses conditions d'application dans tout autre
+Etat partie à ladite convention ;
+
+2° L'application des conventions bilatérales entre la France et un pays tiers relatives à l'adoption internationale ;
+
+3° Les conditions de l'adoption internationale dans les différents pays d'origine, en particulier au regard du respect des
+droits des enfants ;
+
+4° L'implantation et l'activité dans les différents pays d'origine des organismes autorisés et habilités pour l'adoption
+internationale en application de l'article L. 225-12 ;
+
+5° La coopération internationale en matière d'adoption ou de protection de l'enfance ;
+
+6° L'harmonisation des programmes de subventions des administrations représentées en son sein aux organismes autorisés et
+habilités pour l'adoption internationale ;
+
+7° Les autres crédits et moyens consacrés à la politique française d'adoption internationale.
+
+L'Autorité centrale pour l'adoption internationale peut saisir le Conseil supérieur de l'adoption mentionné à l'article L.
+148-1 de toute question relative à l'adoption internationale. Elle reçoit communication des avis et propositions de ce
+conseil.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Convention de La Haye 1993-05-29
+	  - Code de l'action sociale et des familles - art. L148-1 (M)
+	  - Code de l'action sociale et des familles - art. L225-12 (V)
 
 	**Anciens textes**:
 
@@ -40233,17 +40310,26 @@ internationale.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
 
-###### Article R*148-9
+	  - Décret n°2006-1128 du 8 septembre 2006 - art. 2 () JORF 9 septembre 2006
 
-Dans le cadre de la politique définie dans les conditions prévues à l'article R. 148-7, le ministre des affaires étrangères
-exerce les fonctions prévues par les stipulations des articles 9 a, b, c, e, 14, 15, 16, 17, 18, 19, 20, 21, 23, 30-1 et 30-2
-de la convention de La Haye du 29 mai 1993 sur la protection des enfants et la coopération en matière d'adoption
-internationale.
 
-Les organismes autorisés et habilités pour l'adoption internationale conformément à la section 2 du chapitre 5 du titre II du
-livre II peuvent également exercer les fonctions prévues par les articles 9 a, b, c, e, 14, 15, 16, 17, 19, 20 et 30-1 de la
-convention de La Haye du 29 mai 1993 sur la protection des enfants et la coopération en matière d'adoption internationale.
+###### Article R148-9
+
+L'Autorité centrale pour l'adoption internationale émet des avis à la demande du ministre des affaires étrangères sur :
+
+1° L'habilitation des organismes privés autorisés pour l'adoption internationale prévue à l'article L. 225-12, sans préjudice
+des dispositions de l'article R. 225-34 ;
+
+2° L'habilitation de l'Agence française de l'adoption dans les Etats non parties à la convention de La Haye du 29 mai 1993
+conformément aux dispositions de l'article L. 225-15 ;
+
+3° Le cas échéant, la suspension, la cessation ou la reprise de l'activité de l'Agence française de l'adoption dans les Etats
+parties à la convention de La Haye du 29 mai 1993 dans les conditions prévues à l'article L. 225-15 ;
+
+4° La suspension ou la reprise des adoptions en fonction des circonstances et des garanties apportées par les procédures
+effectivement mises en oeuvre par les pays d'origine des enfants.
 
 **Liens relatifs à cet article**
 
@@ -40255,15 +40341,22 @@ convention de La Haye du 29 mai 1993 sur la protection des enfants et la coopér
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1128 du 8 septembre 2006 - art. 2 () JORF 9 septembre 2006
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles R148-7
+	  - Code de l'action sociale et des familles - art. L225-12 (V)
+	  - Code de l'action sociale et des familles - art. L225-15 (T)
+	  - Code de l'action sociale et des familles - art. R225-34 (V)
+	  - Convention de La Haye 1993-05-29
 
 
-###### Article R*148-10
+###### Article R148-10
 
-L'autorité centrale adresse au Premier ministre un rapport annuel sur son activité et formule toute proposition de réforme
-qui lui paraît opportune.
+L'Autorité centrale pour l'adoption internationale remet chaque année au ministre des affaires étrangères un rapport
+d'activité qui est communiqué au Conseil supérieur de l'adoption.
 
 **Liens relatifs à cet article**
 
@@ -40275,9 +40368,37 @@ qui lui paraît opportune.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1128 du 8 septembre 2006 - art. 2 () JORF 9 septembre 2006
+
 	**Cité par**:
 
 	  - Décret n°2014-1268 du 23 octobre 2014 - art. (V)
+
+
+###### Article R148-11
+
+Les compétences prévues par les stipulations des articles 14 à 21 et 23 et le 1 et le 2 de l'article 30 de la convention de
+La Haye du 29 mai 1993 sont exercées par le ministre des affaires étrangères.
+
+Les organismes publics ou privés exerçant une activité d'intermédiaire pour l'adoption internationale selon les dispositions
+prévues par le présent code peuvent également se voir confier les fonctions prévues par les stipulations des a, b, c et e de
+l'article 9, des articles 14 à 17, 19 et 20 et par le 1 de l'article 30 de ladite convention.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Convention de La Haye 1993-05-29 art. 14 à 21, 23, 30, 9
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1128 du 8 septembre 2006 - art. 3 () JORF 9 septembre 2006
 
 
 #### Chapitre IX : Comité national et comités départementaux des retraités et des personnes âgées
