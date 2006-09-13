@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-09-09
+Version Consolidée au 2006-09-14
 
 # Partie législative
 
@@ -41733,6 +41733,168 @@ titre de l'année suivante.
 	  - Code de l'action sociale et des familles - art. R14-10-36 (M)
 
 
+##### Section 6 : Ressources et charges
+
+##### Sous-section 1 : Modernisation des services d'aide à domicile, promotion des actions innovantes et professionnalisation des métiers de service concernant les personnes âgées.
+
+###### Article R14-10-49
+
+Les dépenses mentionnées au b du IV de l'article L. 14-10-5 sont :
+
+1° Les dépenses de modernisation des services gérés par :
+
+a) Les associations d'aide à domicile ou les entreprises ayant obtenu l'autorisation prévue à l'article L. 313-1 ou
+l'agrément prévu au premier alinéa du I de l'article L. 129-1 du code du travail ;
+
+b) Les centres communaux ou intercommunaux d'action sociale, les communes ou les établissements publics de coopération
+intercommunale ;
+
+2° Les dépenses assurant la promotion d'actions innovantes permettant de faciliter le maintien à domicile des personnes âgées
+dépendantes, notamment par la création de structures d'accueil à temps partiel ;
+
+3° Les dépenses relatives aux formations d'adaptation à l'emploi et de mise à jour des connaissances professionnelles :
+
+a) Des personnels de l'aide à domicile des organismes mentionnés au 1° ;
+
+b) Résultant d'actions mises en oeuvre par les organisations professionnelles des particuliers qui emploient sans but
+lucratif des salariés à domicile ;
+
+4° Les dépenses relatives à la qualification :
+
+a) Des personnels de l'aide à domicile des organismes mentionnés au 1° ;
+
+b) Résultant d'actions mises en oeuvre par des organisations professionnelles des particuliers qui emploient sans but
+lucratif des salariés à domicile ;
+
+5° Les dépenses de qualification préparant au diplôme d'Etat d'infirmier, au diplôme professionnel d'aide-soignant et au
+diplôme d'Etat d'aide médico-psychologique des personnels des établissements d'hébergement pour personnes âgées mentionnés
+aux I, I bis et II de l'article L. 313-12, des services de soins infirmiers à domicile et des services polyvalents d'aide et
+de soins à domicile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1144 du 12 septembre 2006 - art. 1 () JORF 14 septembre 2006
+
+	**Cite**:
+
+	  - Code du travail - art. L129-1 (M)
+	  - Code de l'action sociale et des familles - art. L14-10-5 (M)
+	  - Code de l'action sociale et des familles - art. L313-1 (M)
+	  - Code de l'action sociale et des familles - art. L313-12 (M)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R14-10-50 (V)
+	  - Code de l'action sociale et des familles - art. R14-10-51 (V)
+	  - Code de l'action sociale et des familles - art. R541-4 (V)
+
+
+###### Article R14-10-50
+
+Les dépenses mentionnées au b du IV de l'article L. 14-10-5 sont des dépenses à caractère non permanent. Elles peuvent faire
+l'objet d'une programmation pluriannuelle. En matière de formation professionnelle, elles ne peuvent se substituer aux
+dépenses que les employeurs sont tenus d'engager au titre de leurs obligations légales et conventionnelles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1144 du 12 septembre 2006 - art. 1 () JORF 14 septembre 2006
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L14-10-5 (M)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R14-10-51 (V)
+	  - Code de l'action sociale et des familles - art. R541-4 (V)
+
+
+###### Article R14-10-51
+
+I. - Les projets relatifs aux actions mentionnées aux 1°, 2° et 3° de l'article R. 14-10-49 sont agréés par le ministre
+chargé des personnes âgées ou par le préfet de département du lieu d'implantation de l'organisme.
+
+II. - Les projets relatifs aux actions mentionnées au 4° et au 5° de l'article R. 14-10-49 sont agréés par le ministre chargé
+des personnes âgées ou par le préfet de région du lieu d'implantation de l'organisme.
+
+III. - Les projets mentionnés au I et au II sont transmis par l'autorité administrative qui les a agréés à la Caisse
+nationale de solidarité pour l'autonomie. Cette dernière assure leur financement dans la limite des crédits disponibles.
+
+IV. - Les projets qui engagent une subvention de la Caisse nationale de solidarité pour l'autonomie d'un montant au moins
+égal à 5 % du montant des ressources annuelles mentionnées au a du IV de l'article L. 14-10-5 font l'objet, avant leur
+agrément, dans un délai d'un mois, d'un avis de la Caisse nationale de solidarité pour l'autonomie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1144 du 12 septembre 2006 - art. 1 () JORF 14 septembre 2006
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L14-10-5 (M)
+	  - Code de l'action sociale et des familles - art. R14-10-49 (M)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R14-10-52 (Ab)
+
+
+###### Article R14-10-52
+
+La demande d'agrément des projets mentionnés aux I et II de l'article R. 14-10-51 est établie sur un formulaire dont le
+modèle est fixé par le ministre chargé des personnes âgées.
+
+La demande est adressée, pour les actions à caractère local, soit au préfet du département du lieu d'implantation de
+l'organisme demandeur pour les actions mentionnées au I de l'article R. 14-10-51, soit au préfet de la région du lieu
+d'implantation de l'organisme demandeur pour les actions mentionnées au II de l'article R. 14-10-51. Pour les actions à
+caractère national, la demande est adressée au ministre chargé des personnes âgées.
+
+Ces autorités disposent d'un délai de trois semaines pour en accuser réception ou, si la demande est incomplète, pour
+indiquer, dans les conditions prévues par le décret n° 2001-492 du 6 juin 2001 pris pour l'application du chapitre II du
+titre II de la loi n° 2000-312 du 12 avril 2000 et relatif à l'accusé de réception des demandes présentées aux autorités
+administratives, les pièces manquantes dont la production est indispensable à l'instruction de la demande et fixer un délai
+pour la production de ces pièces.
+
+A compter de la date à laquelle l'autorité administrative a accusé réception du dossier complet, le silence gardé pendant
+plus de quatre mois sur la demande d'agrément vaut décision de rejet de celle-ci.
+
+L'agrément mentionne la nature, le coût et le calendrier d'exécution de l'action concernée, ainsi que le montant de la
+subvention à verser par la Caisse nationale de solidarité pour l'autonomie.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2001-492 2001-06-06
+	  - Code de l'action sociale et des familles - art. R14-10-51 (M)
+	  - Loi n°2000-312 2000-04-12
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1144 du 12 septembre 2006 - art. 1 () JORF 14 septembre 2006
+
+
 ##### Section 7 : Conventions entre la Caisse nationale de solidarité pour l'autonomie et les organismes d'assurance maladie vieillesse
 
 ###### Article D14-10-55
@@ -68455,8 +68617,8 @@ https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000000243550
 I. - La décision d'autorisation budgétaire est notifiée par l'autorité de tarification à l'établissement ou au service dans
 un délai de 60 jours qui court à compter :
 
-1° De la publication de l'arrêté fixant les dotations régionales limitatives en application de l'article L. 314-3, pour les
-établissements et services financés en tout ou partie par l'assurance maladie ;
+1° De la publication de l'arrêté fixant les dotations régionales limitatives en application des articles L. 314-3-2 et L.
+314-3-3, pour les établissements et services financés en tout ou partie par l'assurance maladie ;
 
 2° De la publication de l'arrêté fixant les dotations régionales limitatives en application de l'article L. 314-4, pour les
 établissements et services mentionnés au a) du 5° et au 8° du I de l'article L. 312-1 ;
@@ -68466,7 +68628,11 @@ de l'article L. 313-8, pour les tarifs fixés par le président du conseil gén�
 
 4° De la publication du décret portant répartition des crédits ouverts pour le ministère de la justice au titre de la loi de
 finances de l'année, pour les établissements et services mentionnés au 4° du I de l'article L. 312-1 et financés en tout ou
-partie par le budget de l'Etat.
+partie par le budget de l'Etat ;
+
+5° De la publication de la décision du directeur de la Caisse nationale de solidarité pour l'autonomie fixant les dotations
+départementales limitatives en application du III de l'article L. 314-3, pour les établissements et services relevant de
+l'article L. 314-3-1.
 
 Dans le cas d'une tarification arrêtée conjointement par le préfet et le président du conseil général, le délai court à
 compter de la plus tardive des dates opposables à chacune des deux autorités.
@@ -68492,7 +68658,7 @@ conjointement avec le préfet, sont publiés au recueil des actes administratifs
 
 	**Modifié par**:
 
-	  - Décret n°2006-422 du 7 avril 2006 - art. 7 () JORF 9 avril 2006
+	  - Décret n°2006-1144 du 12 septembre 2006 - art. 2 () JORF 14 septembre 2006
 
 	**Cité par**:
 
@@ -68512,6 +68678,9 @@ conjointement avec le préfet, sont publiés au recueil des actes administratifs
 	  - Code de l'action sociale et des familles - art. L312-1 (M)
 	  - Code de l'action sociale et des familles - art. L313-8 (M)
 	  - Code de l'action sociale et des familles - art. L314-3 (M)
+	  - Code de l'action sociale et des familles - art. L314-3-1 (M)
+	  - Code de l'action sociale et des familles - art. L314-3-2 (M)
+	  - Code de l'action sociale et des familles - art. L314-3-3 (M)
 	  - Code de l'action sociale et des familles - art. L314-4 (M)
 
 
