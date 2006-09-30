@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-09-14
+Version Consolidée au 2006-10-01
 
 # Partie législative
 
@@ -53983,9 +53983,39 @@ montant du revenu minimum.
 	  - Code de l'action sociale et des familles - art. R542-6 (VD)
 
 
-##### Section 2 : Conditions d'ouverture du droit à l'allocation
+###### Article R262-2-1
 
-##### Sous-section 1 : Détermination des ressources.
+Pour l'application de l'article L. 262-1, est considéré comme résidant en France la personne qui y réside de façon
+permanente.
+
+Est également considéré comme y résidant effectivement le bénéficiaire du revenu minimum d'insertion qui accomplit hors de
+France un ou plusieurs séjours dont la durée totale n'excède pas trois mois au cours de l'année civile.
+
+En cas de séjour hors de France de plus de trois mois, soit de date à date, soit sur une année civile, l'allocation n'est
+versée que pour les seuls mois civils complets de présence sur le territoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 8 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2009-404 du 15 avril 2009 - art. 2
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L262-1
+
+
+##### Section 2 : Conditions d'ouverture du droit à l'allocation et prime forfaitaire
+
+##### Sous-section 1 : Détermination des ressources
 
 ###### Article R262-3
 
@@ -54003,6 +54033,10 @@ avantages en nature, ainsi que les revenus procurés par des biens mobiliers et 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 9 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
 
 	**Cité par**:
 
@@ -54042,6 +54076,14 @@ pacte civil de solidarité, ni concubin, ni personne à charge au sens de l'arti
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 9 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2009-404 du 15 avril 2009 - art. 2
+
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. R262-2 (V)
@@ -54059,6 +54101,11 @@ pacte civil de solidarité, ni concubin, ni personne à charge au sens de l'arti
 Sont applicables à l'allocation prévue au présent chapitre, les dispositions de l'article R. 132-1. Toutefois, ces
 dispositions ne s'appliquent pas aux avantages mentionnés à l'article R. 262-4.
 
+**Nota:**
+
+Il a été dérogé aux dispositions du présent article par la délibération du 14 décembre 2007 du conseil général de la
+Charente-Maritime publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703372X).
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -54069,6 +54116,10 @@ dispositions ne s'appliquent pas aux avantages mentionnés à l'article R. 262-4
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 9 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
 
 	**Cite**:
 
@@ -54141,7 +54192,20 @@ que l'allocation forfaitaire instituée par le second alinéa de l'article L. 52
 18° l'allocation de reconnaissance instituée par l'article 47 de la loi de finances rectificative pour 1999 (n° 99-1173 du 30
 décembre 1999) modifiée ;
 
-19° La prime de retour à l'emploi.
+19° La prime instituée par le décret n° 2005-1054 du 29 août 2005 créant une prime exceptionnelle de retour à l'emploi en
+faveur de certains bénéficiaires de minima sociaux ;
+
+20° La prime de retour à l'emploi instituée par l'article L. 322-12 du code du travail ;
+
+21° Les primes forfaitaires instituées par les articles L. 351-20 du code du travail, L. 262-11 du présent code et L. 524-5
+du code de la sécurité sociale. ;
+
+22° Les mesures de réparation mentionnées à l'article 2 du décret n° 2000-657 du 13 juillet 2000 instituant une mesure de
+réparation pour les orphelins dont les parents ont été victimes de persécutions antisémites ;
+
+23° Les mesures de réparation mentionnées à l'article 2 du décret n° 2004-751 du 27 juillet 2004 instituant une aide
+financière en reconnaissance des souffrances endurées par les orphelins dont les parents ont été victimes d'actes de barbarie
+durant la Deuxième Guerre mondiale.
 
 **Liens relatifs à cet article**
 
@@ -54164,11 +54228,17 @@ décembre 1999) modifiée ;
 	  - Loi n°91-1322 1991-12-30 art. 125
 	  - Loi n°94-488 du 11 juin 1994 - art. 10 (V)
 	  - Loi n°99-1173 1999-12-30 art. 47 Finances rectificative pour 1999
+	  - Décret n°2000-657 du 13 juillet 2000 - art. 2 (V)
 	  - Loi n°2003-1199 2003-12-18 art. 60
+	  - Décret n°2004-751 du 27 juillet 2004 - art. 2, v. init.
+	  - Décret n°2005-1054 2005-08-29
+	  - Code du travail - art. L322-12 (M)
+	  - Code du travail - art. L351-20 (P)
 	  - Code de la sécurité sociale. - art. L434-1 (M)
 	  - Code de la sécurité sociale. - art. L435-1 (V)
 	  - Code de la sécurité sociale. - art. L521-1 (M)
 	  - Code de la sécurité sociale. - art. L521-3 (V)
+	  - Code de la sécurité sociale. - art. L524-5 (V)
 	  - Code de la sécurité sociale. - art. L531-1 (M)
 	  - Code de la sécurité sociale. - art. L531-2 (M)
 	  - Code de la sécurité sociale. - art. L531-3 (Ab)
@@ -54185,6 +54255,7 @@ décembre 1999) modifiée ;
 	  - Code de la sécurité sociale. - art. L842-1 (M)
 	  - Code de la sécurité sociale. - art. R432-10 (V)
 	  - Code de l'action sociale et des familles - art. L245-1 (M)
+	  - Code de l'action sociale et des familles - art. L262-11 (M)
 	  - Code de l'action sociale et des familles - art. R262-2 (V)
 	  - Code de la construction et de l'habitation. - art. L351-5 (V)
 
@@ -54194,7 +54265,8 @@ décembre 1999) modifiée ;
 
 	**Modifié par**:
 
-	  - Décret n°2005-1053 du 29 août 2005 - art. 1 () JORF 30 août 2005
+	  - Décret n°2006-1197 2006-09-29 art. 9 I, II JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 9 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
 
 
 ###### Article R262-7
@@ -54227,6 +54299,10 @@ logement, le forfait est de 12 %.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 9 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
 	**Cite**:
 
 	  - Code de la sécurité sociale. - art. L542-1 (M)
@@ -54250,82 +54326,17 @@ logement, le forfait est de 12 %.
 
 ###### Article R262-8
 
-Lorsqu'en cours de versement de l'allocation, l'allocataire, son conjoint, le partenaire lié par un pacte civil de solidarité
-ou le concubin ou l'une des personnes à charge définies à l'article R. 262-2 commence à exercer une activité salariée ou non
-salariée ou à suivre une formation rémunérée, les revenus ainsi procurés à l'intéressé sont intégralement cumulables avec
-l'allocation jusqu'à la première révision trimestrielle, telle que prévue au premier alinéa de l'article R. 262-12, qui suit
-ce changement de situation.
-
-Lors de la première révision trimestrielle, un abattement de 100 % est appliqué sur la moyenne mensuelle des revenus du
-trimestre précédent.
-
-Ces revenus sont ensuite affectés d'un abattement de 50 % pour la liquidation de l'allocation des trois trimestres de droit
-suivant la deuxième révision trimestrielle.
-
-Toutefois, lorsque au terme de la période définie à l'alinéa précédent le total des heures travaillées à compter du début de
-l'activité n'atteint pas 750 heures, le président du conseil général peut décider le maintien de l'abattement en faveur de
-bénéficiaires dont la situation au regard de leur parcours d'insertion le nécessite. L'abattement est alors appliqué pour les
-trimestres de droits suivants, et prend fin lors de la révision trimestrielle consécutive à la date à laquelle a été atteint
-le plafond de 750 heures.
-
-Le cas échéant, les abattements sont appliqués à un bénéficiaire en cas de cessation puis de reprise d'activité ou de
-formation à la condition que le trimestre de référence précédant la reprise ne comprenne aucun revenu d'activité ou de
-formation.
-
-Par dérogation aux dispositions des alinéas précédents :
-
-1° Dans le cas où l'activité est exercée dans le cadre d'un contrat emploi-solidarité conclu en application de l'article L.
-322-4-7 du code du travail ou d'un contrat d'insertion par l'activité conclu en application de l'article L. 522-8 du présent
-code, les rémunérations procurées à l'intéressé sont affectées d'un abattement de 33 % du montant mensuel de l'allocation de
-revenu minimum d'insertion fixé pour un allocataire isolé tel qu'il est défini à l'article L. 262-2 du présent code. Cet
-abattement s'applique à compter de la première révision trimestrielle suivant la prise d'effet du contrat emploi-solidarité
-ou du contrat d'insertion par l'activité et continue à s'appliquer jusqu'au dernier jour du trimestre suivant celui où
-survient la fin desdits contrats.
-
-En outre, il n'est pas tenu compte des indemnités représentatives de frais dans la limite de 35 % du montant du revenu
-minimum d'insertion fixé pour un allocataire.
-
-2° Pendant la durée d'un contrat d'avenir ou d'un contrat insertion-revenu minimum d'activité conclu respectivement en
-application des articles L. 322-4-10 et L. 322-4-15 du code du travail, il n'est pas tenu compte, pour la détermination du
-montant de l'allocation, des rémunérations procurées à l'intéressé au titre de ce contrat. Sous cette réserve, ce montant est
-égal à celui résultant de l'application des dispositions du présent chapitre, diminué du montant de l'aide à l'employeur
-définie au troisième alinéa du I de l'article L. 322-4-15-6 du même code pour le contrat insertion-revenu minimum d'activité
-et au premier alinéa du II de l'article L. 322-4-12 du même code pour le contrat d'avenir.
-
-Toutefois, cette diminution n'est pas opérée lorsqu'un de ces contrats de travail est suspendu en application du deuxième
-alinéa du IV de l'article L. 322-4-12 du même code pour le contrat d'avenir ou du deuxième alinéa de l'article L. 322-4-15-5
-du même code pour le contrat insertion-revenu minimum d'activité.
-
-En cas de suspension de l'un de ces contrats, et lorsque le salarié ne remplit pas la condition requise pour une prise en
-charge par un régime de sécurité sociale et que le maintien de son salaire n'est pas assuré, il perçoit son allocation
-augmentée d'un montant journalier égal à un trentième du montant mensuel de l'allocation de revenu minimum d'insertion
-garantie à une personne isolée.
-
-Lorsque l'allocataire perçoit également l'allocation de solidarité spécifique définie à l'article L. 351-10 du même code et
-que le contrat d'avenir ou le contrat insertion-revenu minimum d'activité est signé avec l'intéressé en sa qualité de
-bénéficiaire de l'allocation de solidarité spécifique, le montant de l'aide à l'employeur n'est déduit du montant de
-l'allocation de revenu minimum d'insertion qu'à compter de la prochaine révision trimestrielle du droit à cette dernière
-allocation suivant le début du contrat insertion-revenu minimum d'activité ou du contrat d'avenir. Lorsqu'un autre membre du
-foyer pris en compte pour la détermination du montant de l'allocation est aussi salarié en contrat insertion-revenu minimum
-d'activité ou en contrat d'avenir, ce montant est également diminué du même montant d'aide à l'employeur.
-
-Lorsque l'allocataire perçoit également l'allocation de parent isolé définie à l'article L. 524-1 du code de la sécurité
-sociale ou l'allocation aux adultes handicapés définie aux articles L. 821-1 et L. 821-2 du même code et que le contrat
-d'avenir ou le contrat insertion-revenu minimum d'activité est signé avec l'intéressé en sa qualité de bénéficiaire de
-l'allocation de parent isolé ou de l'allocation aux adultes handicapés, le montant de l'aide à l'employeur est déduit du
-montant de l'allocation de revenu minimum d'insertion dès le début du contrat d'avenir ou du contrat insertion-revenu minimum
-d'activité.
-
-Dans le cas où le bénéficiaire d'un contrat insertion-revenu minimum d'activité ou d'un contrat d'avenir, son conjoint, le
-partenaire lié par un pacte civil de solidarité ou le concubin, ou l'une des personnes à sa charge définies à l'article R.
-262-2, exerce une autre activité, il est fait application, pour les revenus procurés par cette activité, des dispositions du
-présent article et de l'article R. 262-9.
+Si l'allocataire, son conjoint, le partenaire lié par un pacte civil de solidarité ou le concubin ou l'une des personnes à
+charge définies à l'article R. 262-2 exerce un travail saisonnier et si le montant de ses ressources, telles que définies à
+l'article R. 531-10 du code de la sécurité sociale pour la dernière année civile, est supérieur à douze fois le montant
+mensuel de l'allocation de revenu minimum d'insertion fixé pour un allocataire isolé au 1er janvier de ladite année, le droit
+à l'allocation n'est pas ouvert ou cesse sauf si l'intéressé justifie d'une modification effective de sa situation
+professionnelle.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°88-1111 du 12 décembre 1988 - art. 10 (M)
 	  - Décret n°88-1111 du 12 décembre 1988 - art. 10 (Ab)
 	  - Code de l'action sociale et des familles - art. R262-11 (T)
 
@@ -54335,10 +54346,7 @@ présent article et de l'article R. 262-9.
 
 	**Modifié par**:
 
-	  - Décret n°2006-342 du 22 mars 2006 - art. 4 () JORF 24 mars 2006
-
-	**Transféré par**:
-
+	  - Décret n°2006-1197 2006-09-29 art. 9 I, II JORF 30 septembre 2006 en vigueur le 1er octobre 2006
 	  - Décret n°2006-1197 du 29 septembre 2006 - art. 9 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
 
 	**Cité par**:
@@ -54356,37 +54364,54 @@ présent article et de l'article R. 262-9.
 
 	**Cite**:
 
-	  - Code du travail - art. L322-4-10 (T)
-	  - Code du travail - art. L322-4-12 (T)
-	  - Code du travail - art. L322-4-15 (M)
-	  - Code du travail - art. L322-4-15-5 (M)
-	  - Code du travail - art. L322-4-15-6 (M)
-	  - Code du travail - art. L322-4-7 (M)
-	  - Code du travail - art. L351-10 (M)
-	  - Code de la sécurité sociale. - art. L524-1 (M)
-	  - Code de la sécurité sociale. - art. L821-1 (M)
-	  - Code de la sécurité sociale. - art. L821-2 (M)
-	  - Code de l'action sociale et des familles - art. L262-2 (M)
-	  - Code de l'action sociale et des familles - art. L522-8 (M)
+	  - Code de la sécurité sociale. - art. R531-10 (M)
 	  - Code de l'action sociale et des familles - art. R262-2 (V)
-	  - Code de l'action sociale et des familles - art. R262-9 (M)
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. R262-12 (M)
 	  - Code de l'action sociale et des familles - art. R262-12 (V)
 
 
 ###### Article R262-9
 
-Pour les personnes admises au bénéfice des dispositions de l'article L. 351-24 du code du travail au cours de la période de
-versement du revenu minimum d'insertion, il n'est pas tenu compte des revenus d'activité professionnelle procurés par la
-création ou la reprise d'entreprise lors des deux révisions trimestrielles suivant la date de la création ou de la reprise
-d'entreprise.
+Les ressources prises en compte pour le calcul de l'allocation sont égales à la moyenne trimestrielle des ressources perçues
+au cours des trois mois précédant la demande ou la révision. Les revenus professionnels des non-salariés pris en compte sont
+égaux à 25 % des revenus annuels fixés en application de l'article R. 262-17.
 
-Lors des troisième et quatrième révisions trimestrielles suivant la date de la création ou de la reprise d'entreprise, les
-revenus procurés par la nouvelle activité sont déterminés par le président du conseil général conformément à l'article R.
-262-17 et font l'objet d'un abattement de 50 %.
+Toutefois, il est tenu compte, sous réserve des dispositions des articles R. 262-6 et R. 262-7, du montant des prestations
+servies par l'organisme payeur qui sont dues pour le mois en cours.
+
+**Nota:**
+
+Il a été dérogé aux dispositions du présent article par la délibération du 15 octobre 2007 du conseil général de la Vienne
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769621X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 7 décembre 2007 du conseil général du Gers publiée
+au Journal officiel du 1er janvier 2008 (NOR : CTRX0703373X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 14 décembre 2007 du conseil général de l'Allier
+publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703369X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 14 décembre 2007 du conseil général de la
+Charente-Maritime publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703372X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 10 décembre 2007 du conseil général de l'Eure
+publiée au Journal officiel du 6 janvier 2008 (NOR : CTRX0800134X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 14 janvier 2008 du conseil général du Calvados
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800290X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 23 janvier 2008 du conseil général du Gard publiée
+au Journal officiel du 1er février 2008 (NOR : CTRX0800289X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 23 janvier 2008 du conseil général du Morbihan
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800292X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 25 janvier 2008 du conseil général de la Mayenne
+publiée au Journal officiel du 1er mars 2008 (NOR : CTRX0800006X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 28 janvier 2008 du conseil général de la Seine
+Maritime publiée au Journal officiel du 1er mars 2008 (NOR : CTRX0800002X).
 
 **Liens relatifs à cet article**
 
@@ -54398,6 +54423,11 @@ revenus procurés par la nouvelle activité sont déterminés par le président 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1197 2006-09-29 art. 9 I, II JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 9 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
 
 	**Cité par**:
 
@@ -54416,15 +54446,133 @@ revenus procurés par la nouvelle activité sont déterminés par le président 
 
 	**Cite**:
 
-	  - Code du travail - art. L351-24 (M)
 	  - Code de l'action sociale et des familles - art. R262-17 (M)
+	  - Code de l'action sociale et des familles - art. R262-6 (M)
+	  - Code de l'action sociale et des familles - art. R262-7 (M)
 
+
+##### Sous-section 2 : Dispositions propres aux revenus d'activité et prime forfaitaire.
 
 ###### Article R262-10
 
-Le droit au cumul prévu en application du 5° du deuxième alinéa et des alinéas 3 et suivants de l'article R. 524-3 du code de
-la sécurité sociale se poursuit, le cas échéant, pour les anciens bénéficiaires de l'allocation de parent isolé titulaires du
-revenu minimum d'insertion, dans les conditions et limites définies aux articles R. 262-8 et R. 262-9.
+Lorsqu'en cours de droit à l'allocation, le bénéficiaire exerce une activité salariée ou non salariée ou suit une formation
+rémunérée, le revenu minimum d'insertion n'est pas réduit pendant les trois premiers mois d'activité professionnelle du fait
+des rémunérations ainsi perçues.
+
+Du quatrième au douzième mois d'activité professionnelle, le montant de l'allocation est diminué, dans les conditions fixées
+par l'article R. 262-9, des revenus d'activité perçus par le bénéficiaire et qui sont pris en compte :
+
+1° A concurrence de 50 % lorsque le bénéficiaire exerce une activité salariée ou suit une formation rémunérée dont la durée
+contractuelle est inférieure à soixante-dix-huit heures par mois ;
+
+2° En totalité lorsque le bénéficiaire soit exerce une activité non salariée, soit exerce une activité salariée ou suit une
+formation rémunérée dont la durée contractuelle est au moins égale à soixante-dix-huit heures par mois. Le bénéficiaire
+perçoit mensuellement la prime forfaitaire mentionnée à l'article L. 262-11. Le montant de cette prime est de 150 euros si
+l'intéressé est isolé et de 225 euros s'il est en couple ou avec des personnes à charge.
+
+Pour la détermination de la durée contractuelle, il est tenu compte le cas échéant des différents contrats conclus par
+l'intéressé au cours du même mois.
+
+**Nota:**
+
+Il a été dérogé aux dispositions du présent article par la délibération du 20 juin 2007 du conseil général de l'Eure publiée
+au Journal officiel du 19 septembre 2007 (NOR : CTRD0765597X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 28 juin 2007 du conseil général de Loir-et-Cher
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769620X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 1er octobre 2007 du conseil général de la Côte-
+d'Or publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769632X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 5 octobre 2007 du conseil général des Charentes
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769622X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 15 octobre 2007 du conseil général de la Vienne
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769621X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 19 octobre 2007 du conseil général du Val-d'Oise
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769635X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 22 octobre 2007 du conseil général de la Loire-
+Atlantique publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769619X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 25 octobre 2007 du conseil général de l'Oise
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769633X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 8 novembre 2007 du conseil général d'Ille-et-
+Vilaine publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703345X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 15 novembre 2007 du conseil général de la Haute-
+Corse publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703371X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 19 novembre 2007 du conseil général de l'Hérault
+publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703347X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 7 décembre 2007 du conseil général du Gers publiée
+au Journal officiel du 1er janvier 2008 (NOR : CTRX0703373X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 10 décembre 2007 du conseil général du Nord
+publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703344). 
+
+_Conseil général du Nord : arret de l'expérimentation du RSA : Délibération n° DLES/2008/1968 du 3 décembre 2008 (NOR :
+CTRD0830824X)._
+
+Il a été dérogé aux dispositions du présent article par la délibération du 11 décembre 2007 du conseil général de la Seine-
+Maritime publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703376X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 13 décembre 2007 du conseil général du Doub
+publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703379X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 14 décembre 2007 du conseil général de l'Allier
+publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703369X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 14 décembre 2007 du conseil général de la
+Charente-Maritime publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703372X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 17 décembre 2007 du conseil général du Pas-de-
+Calais publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703375X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 20 décembre 2007 du conseil général des Deux-
+Sèvres publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703377X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 21 décembre 2007 du conseil général des Alpes-
+Maritimes publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703370X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 12 novembre 2007 du conseil général des Côtes-
+d'Armor publiée au Journal officiel du 6 janvier 2008 (NOR : CTRX0800014X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 12 novembre 2007 du conseil général de la Haute-
+Saône publiée au Journal officiel du 6 janvier 2008 (NOR : CTRX0800015X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 10 décembre 2007 du conseil général de l'Eure
+publiée au Journal officiel du 6 janvier 2008 (NOR : CTRX0800134X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 14 janvier 2008 du conseil général du Calvados
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800290X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 18 janvier 2008 du conseil général de la Creuse
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800291X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 18 janvier 2008 du conseil général de la Dordogne
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800288X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 23 janvier 2008 du conseil général du Morbihan
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800292X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 6 janvier 2008 du conseil général de la Seine-
+Saint-Denis publiée au Journal officiel du 1er mars 2008 (NOR : CTRX0800008X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 17 janvier 2008 du conseil général de la Marne
+publiée au Journal officiel du 1er mars 2008 (NOR : CTRX0800003X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 25 janvier 2008 du conseil général de la Mayenne
+publiée au Journal officiel du 1er mars 2008 (NOR : CTRX0800006X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 1er février 2008 du conseil général du Rhône
+publiée au Journal officiel du 1er mars 2008 (NOR : CTRX0800005X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 7 avril 2008 du conseil général de la Loire-
+Atlantique publiée au Journal officiel du 26 avril 2008 (NOR : CTRX0801250X).
 
 **Liens relatifs à cet article**
 
@@ -54435,6 +54583,11 @@ revenu minimum d'insertion, dans les conditions et limites définies aux article
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1197 2006-09-29 art. 9 I, IV JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 9 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
 
 	**Cité par**:
 
@@ -54452,25 +54605,122 @@ revenu minimum d'insertion, dans les conditions et limites définies aux article
 
 	**Cite**:
 
-	  - Code de la sécurité sociale. - art. R524-3 (M)
-	  - Code de l'action sociale et des familles - art. R262-8 (M)
+	  - Délibération 2007-06-20 conseil général de l'Eure (NOR:
+	  - Code de l'action sociale et des familles - art. L262-11 (M)
 	  - Code de l'action sociale et des familles - art. R262-9 (M)
 
 
 ###### Article R262-11
 
-Si l'allocataire, son conjoint, le partenaire lié par un pacte civil de solidarité ou le concubin ou l'une des personnes à
-charge définies à l'article R. 262-2 exerce un travail saisonnier et si le montant de ses ressources, telles que définies à
-l'article R. 531-10 du code de la sécurité sociale pour la dernière année civile, est supérieur à douze fois le montant
-mensuel de l'allocation de revenu minimum d'insertion fixé pour un allocataire isolé au 1er janvier de ladite année, le droit
-à l'allocation n'est pas ouvert ou cesse sauf si l'intéressé justifie d'une modification effective de sa situation
-professionnelle.
+Un arrêté des ministres chargés de l'action sociale et des collectivités territoriales fixe la liste des pièces
+justificatives exigées, le cas échéant, pour chaque mois d'activité professionnelle, pour le bénéfice de la prime
+forfaitaire.
+
+**Nota:**
+
+Il a été dérogé aux dispositions du présent article par la délibération du 20 juin 2007 du conseil général de l'Eure publiée
+au Journal officiel du 19 septembre 2007 (NOR : CTRD0765597X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 28 juin 2007 du conseil général de Loir-et-Cher
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769620X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 1er octobre 2007 du conseil général de la Côte-
+d'Or publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769632X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 5 octobre 2007 du conseil général des Charentes
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769622X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 15 octobre 2007 du conseil général de la Vienne
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769621X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 19 octobre 2007 du conseil général du Val-d'Oise
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769635X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 22 octobre 2007 du conseil général de la Loire-
+Atlantique publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769619X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 25 octobre 2007 du conseil général de l'Oise
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769633X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 8 novembre 2007 du conseil général d'Ille-et-
+Vilaine publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703345X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 15 novembre 2007 du conseil général de la Haute-
+Corse publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703371X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 19 novembre 2007 du conseil général de l'Hérault
+publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703347X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 7 décembre 2007 du conseil général du Gers publiée
+au Journal officiel du 1er janvier 2008 (NOR : CTRX0703373X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 10 décembre 2007 du conseil général du Nord
+publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703344). 
+
+_Conseil général du Nord : arret de l'expérimentation du RSA : Délibération n° DLES/2008/1968 du 3 décembre 2008 (NOR :
+CTRD0830824X)._
+
+Il a été dérogé aux dispositions du présent article par la délibération du 11 décembre 2007 du conseil général de la Seine-
+Maritime publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703376X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 13 décembre 2007 du conseil général du Doub
+publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703379X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 14 décembre 2007 du conseil général de l'Allier
+publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703369X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 14 décembre 2007 du conseil général de la
+Charente-Maritime publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703372X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 17 décembre 2007 du conseil général du Pas-de-
+Calais publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703375X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 20 décembre 2007 du conseil général des Deux-
+Sèvres publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703377X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 21 décembre 2007 du conseil général des Alpes-
+Maritimes publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703370X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 12 novembre 2007 du conseil général des Côtes-
+d'Armor publiée au Journal officiel du 6 janvier 2008 (NOR : CTRX0800014X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 12 novembre 2007 du conseil général de la Haute-
+Saône publiée au Journal officiel du 6 janvier 2008 (NOR : CTRX0800015X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 10 décembre 2007 du conseil général de l'Eure
+publiée au Journal officiel du 6 janvier 2008 (NOR : CTRX0800134X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 14 janvier 2008 du conseil général du Calvados
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800290X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 18 janvier 2008 du conseil général de la Creuse
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800291X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 18 janvier 2008 du conseil général de la Dordogne
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800288X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 23 janvier 2008 du conseil général du Morbihan
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800292X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 6 janvier 2008 du conseil général de la Seine-
+Saint-Denis publiée au Journal officiel du 1er mars 2008 (NOR : CTRX0800008X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 17 janvier 2008 du conseil général de la Marne
+publiée au Journal officiel du 1er mars 2008 (NOR : CTRX0800003X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 25 janvier 2008 du conseil général de la Mayenne
+publiée au Journal officiel du 1er mars 2008 (NOR : CTRX0800006X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 1er février 2008 du conseil général du Rhône
+publiée au Journal officiel du 1er mars 2008 (NOR : CTRX0800005X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 7 avril 2008 du conseil général de la Loire-
+Atlantique publiée au Journal officiel du 26 avril 2008 (NOR : CTRX0801250X).
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°88-1111 du 12 décembre 1988 - art. 11 (M)
 	  - Décret n°88-1111 du 12 décembre 1988 - art. 11 (Ab)
 
 	**Cité par**:
@@ -54485,44 +54735,737 @@ professionnelle.
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Modifié par**:
+
+	  - Décret n°2006-1197 2006-09-29 art. 9 I, IV JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 9 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
+	**Cite**:
+
+	  - Délibération 2007-06-20 conseil général de l'Eure (NOR:
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. R262-8 (V)
+
+
+###### Article R262-11-1
+
+Lorsque, au terme de la période de douze mois d'activité professionnelle définie à l'article R. 262-10, le nombre total des
+heures contractuelles n'atteint pas sept cent cinquante heures, le bénéfice du revenu minimum d'insertion ou de la prime
+forfaitaire, calculés dans les conditions prévues à cet article, peut être maintenu par décision du président du conseil
+général en faveur des bénéficiaires qui exercent une activité professionnelle et dont la situation au regard de leur parcours
+d'insertion le nécessite.
+
+Le maintien de l'allocation ou de la prime forfaitaire prend alors fin à compter du premier jour du mois qui suit celui au
+cours duquel a été atteint le plafond de sept cent cinquante heures.
+
+**Nota:**
+
+Il a été dérogé aux dispositions du présent article par la délibération du 28 juin 2007 du conseil général de Loir-et-Cher
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769620X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 1er octobre 2007 du conseil général de la Côte-
+d'Or publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769632X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 5 octobre 2007 du conseil général des Charentes
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769622X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 15 octobre 2007 du conseil général de la Vienne
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769621X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 19 octobre 2007 du conseil général du Val-d'Oise
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769635X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 22 octobre 2007 du conseil général de la Loire-
+Atlantique publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769619X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 25 octobre 2007 du conseil général de l'Oise
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769633X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 8 novembre 2007 du conseil général d'Ille-et-
+Vilaine publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703345X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 15 novembre 2007 du conseil général de la Haute-
+Corse publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703371X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 19 novembre 2007 du conseil général de l'Hérault
+publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703347X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 7 décembre 2007 du conseil général du Gers publiée
+au Journal officiel du 1er janvier 2008 (NOR : CTRX0703373X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 13 décembre 2007 du conseil général du Doub
+publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703379X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 14 décembre 2007 du conseil général de l'Allier
+publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703369X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 14 décembre 2007 du conseil général de la
+Charente-Maritime publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703372X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 17 décembre 2007 du conseil général du Pas-de-
+Calais publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703375X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 20 décembre 2007 du conseil général des Deux-
+Sèvres publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703377X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 21 décembre 2007 du conseil général des Alpes-
+Maritimes publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703370X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 12 novembre 2007 du conseil général des Côtes-
+d'Armor publiée au Journal officiel du 6 janvier 2008 (NOR : CTRX0800014X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 12 novembre 2007 du conseil général de la Haute-
+Saône publiée au Journal officiel du 6 janvier 2008 (NOR : CTRX0800015X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 10 décembre 2007 du conseil général de l'Eure
+publiée au Journal officiel du 6 janvier 2008 (NOR : CTRX0800134X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 14 janvier 2008 du conseil général du Calvados
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800290X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 18 janvier 2008 du conseil général de la Creuse
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800291X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 18 janvier 2008 du conseil général de la Dordogne
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800288X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 23 janvier 2008 du conseil général du Morbihan
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800292X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 6 janvier 2008 du conseil général de la Seine-
+Saint-Denis publiée au Journal officiel du 1er mars 2008 (NOR : CTRX0800008X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 25 janvier 2008 du conseil général de la Mayenne
+publiée au Journal officiel du 1er mars 2008 (NOR : CTRX0800006X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 1er février 2008 du conseil général du Rhône
+publiée au Journal officiel du 1er mars 2008 (NOR : CTRX0800005X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 7 avril 2008 du conseil général de la Loire-
+Atlantique publiée au Journal officiel du 26 avril 2008 (NOR : CTRX0801250X).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 9 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2009-404 du 15 avril 2009 - art. 2
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. R262-10
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R262-11-5 (VT)
+
+
+###### Article R262-11-2
+
+Il n'est tenu compte ni des revenus d'activité ou issus d'un stage professionnel, ni des allocations instituées par les
+articles L. 351-3, L. 351-9 et L. 351-10 du code du travail, ni des prestations d'aide sociale à l'enfance mentionnées au
+chapitre II du titre II du livre II du présent code, lorsqu'il est justifié que la perception de ces revenus est interrompue
+de manière certaine et que l'intéressé ne peut prétendre à un revenu de substitution.
+
+En ce qui concerne les autres ressources perçues pendant les trois derniers mois, lorsqu'il est justifié que la perception de
+celles-ci est interrompue de manière certaine et que l'intéressé ne peut prétendre à un revenu de substitution, le président
+du conseil général peut décider de ne pas les prendre en compte, dans la limite mensuelle d'une fois le montant du revenu
+minimum d'insertion fixé pour un allocataire.
+
+**Nota:**
+
+Il a été dérogé aux dispositions du présent article par la délibération du 15 octobre 2007 du conseil général de la Vienne
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769621X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 20 décembre 2007 du conseil général des Deux-
+Sèvres publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703377X).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 9 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2009-404 du 15 avril 2009 - art. 2
+
+	**Cite**:
+
+	  - Code du travail - art. L351-10
+	  - Code du travail - art. L351-3
+	  - Code du travail - art. L351-9
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R262-11-5 (VT)
+
+
+###### Article R262-11-3
+
+Lorsque le bénéficiaire interrompt son activité professionnelle ou sa formation rémunérée pendant une durée minimale de six
+mois, il peut bénéficier à nouveau et dans leur intégralité des dispositions prévues à l'article R. 262-10.
+
+**Nota:**
+
+Il a été dérogé aux dispositions du présent article par la délibération du 20 juin 2007 du conseil général de l'Eure publiée
+au Journal officiel du 19 septembre 2007 (NOR : CTRD0765597X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 28 juin 2007 du conseil général de Loir-et-Cher
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769620X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 1er octobre 2007 du conseil général de la Côte-
+d'Or publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769632X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 5 octobre 2007 du conseil général des Charentes
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769622X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 15 octobre 2007 du conseil général de la Vienne
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769621X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 19 octobre 2007 du conseil général du Val-d'Oise
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769635X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 22 octobre 2007 du conseil général de la Loire-
+Atlantique publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769619X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 25 octobre 2007 du conseil général de l'Oise
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769633X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 8 novembre 2007 du conseil général d'Ille-et-
+Vilaine publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703345X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 15 novembre 2007 du conseil général de la Haute-
+Corse publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703371X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 19 novembre 2007 du conseil général de l'Hérault
+publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703347X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 7 décembre 2007 du conseil général du Gers publiée
+au Journal officiel du 1er janvier 2008 (NOR : CTRX0703373X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 10 décembre 2007 du conseil général du Nord
+publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703344). 
+
+_Conseil général du Nord : arret de l'expérimentation du RSA : Délibération n° DLES/2008/1968 du 3 décembre 2008 (NOR :
+CTRD0830824X)._
+
+Il a été dérogé aux dispositions du présent article par la délibération du 11 décembre 2007 du conseil général de la Seine-
+Maritime publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703376X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 13 décembre 2007 du conseil général du Doub
+publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703379X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 14 décembre 2007 du conseil général de l'Allier
+publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703369X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 14 décembre 2007 du conseil général de la
+Charente-Maritime publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703372X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 17 décembre 2007 du conseil général du Pas-de-
+Calais publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703375X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 21 décembre 2007 du conseil général des Alpes-
+Maritimes publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703370X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 12 novembre 2007 du conseil général des Côtes-
+d'Armor publiée au Journal officiel du 6 janvier 2008 (NOR : CTRX0800014X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 12 novembre 2007 du conseil général de la Haute-
+Saône publiée au Journal officiel du 6 janvier 2008 (NOR : CTRX0800015X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 10 décembre 2007 du conseil général de l'Eure
+publiée au Journal officiel du 6 janvier 2008 (NOR : CTRX0800134X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 14 janvier 2008 du conseil général du Calvados
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800290X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 18 janvier 2008 du conseil général de la Creuse
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800291X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 18 janvier 2008 du conseil général de la Dordogne
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800288X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 23 janvier 2008 du conseil général du Morbihan
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800292X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 6 janvier 2008 du conseil général de la Seine-
+Saint-Denis publiée au Journal officiel du 1er mars 2008 (NOR : CTRX0800008X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 25 janvier 2008 du conseil général de la Mayenne
+publiée au Journal officiel du 1er mars 2008 (NOR : CTRX0800006X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 1er février 2008 du conseil général du Rhône
+publiée au Journal officiel du 1er mars 2008 (NOR : CTRX0800005X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 7 avril 2008 du conseil général de la Loire-
+Atlantique publiée au Journal officiel du 26 avril 2008 (NOR : CTRX0801250X).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
 
 	  - Décret n°2006-1197 du 29 septembre 2006 - art. 9 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
 
 	**Cite**:
 
-	  - Code de la sécurité sociale. - art. R531-10 (M)
-	  - Code de l'action sociale et des familles - art. R262-2 (V)
+	  - Délibération 2007-06-20 conseil général de l'Eure (NOR:
+	  - Code de l'action sociale et des familles - art. R262-10
 
-	**Nouveaux textes**:
+	**Abrogé par**:
 
-	  - Code de l'action sociale et des familles - art. R262-8 (M)
-	  - Code de l'action sociale et des familles - art. R262-8 (V)
+	  - Décret n°2009-404 du 15 avril 2009 - art. 2
 
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R262-11-5 (VT)
+
+
+###### Article R262-11-4
+
+Le droit au cumul et à la prime forfaitaire prévu en application des dispositions de l'article R. 524-6 du code de la
+sécurité sociale se poursuit, le cas échéant, pour les anciens bénéficiaires de l'allocation de parent isolé titulaires du
+revenu minimum d'insertion, dans les conditions et limites définies aux articles R. 262-10 à R. 262-11-3. La prime
+forfaitaire reste due au titre de l'allocation de parent isolé.
+
+**Nota:**
+
+Il a été dérogé aux dispositions du présent article par la délibération du 28 juin 2007 du conseil général de Loir-et-Cher
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769620X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 1er octobre 2007 du conseil général de la Côte-
+d'Or publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769632X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 5 octobre 2007 du conseil général des Charentes
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769622X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 15 octobre 2007 du conseil général de la Vienne
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769621X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 19 octobre 2007 du conseil général du Val-d'Oise
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769635X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 22 octobre 2007 du conseil général de la Loire-
+Atlantique publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769619X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 25 octobre 2007 du conseil général de l'Oise
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769633X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 8 novembre 2007 du conseil général d'Ille-et-
+Vilaine publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703345X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 15 novembre 2007 du conseil général de la Haute-
+Corse publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703371X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 19 novembre 2007 du conseil général de l'Hérault
+publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703347X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 7 décembre 2007 du conseil général du Gers publiée
+au Journal officiel du 1er janvier 2008 (NOR : CTRX0703373X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 11 décembre 2007 du conseil général de la Seine-
+Maritime publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703376X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 13 décembre 2007 du conseil général du Doub
+publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703379X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 14 décembre 2007 du conseil général de l'Allier
+publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703369X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 14 décembre 2007 du conseil général de la
+Charente-Maritime publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703372X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 17 décembre 2007 du conseil général du Pas-de-
+Calais publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703375X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 21 décembre 2007 du conseil général des Alpes-
+Maritimes publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703370X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 12 novembre 2007 du conseil général des Côtes-
+d'Armor publiée au Journal officiel du 6 janvier 2008 (NOR : CTRX0800014X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 12 novembre 2007 du conseil général de la Haute-
+Saône publiée au Journal officiel du 6 janvier 2008 (NOR : CTRX0800015X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 10 décembre 2007 du conseil général de l'Eure
+publiée au Journal officiel du 6 janvier 2008 (NOR : CTRX0800134X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 14 janvier 2008 du conseil général du Calvados
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800290X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 18 janvier 2008 du conseil général de la Creuse
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800291X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 18 janvier 2008 du conseil général de la Dordogne
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800288X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 23 janvier 2008 du conseil général du Morbihan
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800292X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 6 janvier 2008 du conseil général de la Seine-
+Saint-Denis publiée au Journal officiel du 1er mars 2008 (NOR : CTRX0800008X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 25 janvier 2008 du conseil général de la Mayenne
+publiée au Journal officiel du 1er mars 2008 (NOR : CTRX0800006X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 1er février 2008 du conseil général du Rhône
+publiée au Journal officiel du 1er mars 2008 (NOR : CTRX0800005X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 7 avril 2008 du conseil général de la Loire-
+Atlantique publiée au Journal officiel du 26 avril 2008 (NOR : CTRX0801250X).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 9 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2009-404 du 15 avril 2009 - art. 2
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. R524-6
+	  - Code de l'action sociale et des familles
+
+
+###### Article R262-11-5
+
+La prime forfaitaire et les mesures d'abattement prévues aux articles R. 262-10 à R. 262-11-4 sont dues à compter du premier
+jour du mois au cours duquel les conditions de droit sont réunies.
+
+Elles cessent d'être dues à compter du premier jour du mois qui suit celui au cours duquel les conditions cessent d'être
+réunies.
+
+Lorsque au cours d'un même mois interviennent successivement la cessation d'une activité ou d'une formation, puis la reprise
+d'une activité ou d'une formation, il est fait application des dispositions mentionnées au premier alinéa, à l'exclusion de
+celles de l'article R. 262-11-2, à compter du premier jour du mois au cours duquel se produisent ces événements.
+
+Lorsqu'en application du premier alinéa de l'article R. 262-11-2, intervient la cessation d'une activité ou d'une formation
+rémunérée et que le bénéficiaire ne peut prétendre à un revenu de substitution, la prime forfaitaire n'est pas due pour le
+mois de cessation d'activité ou de formation.
+
+**Nota:**
+
+Il a été dérogé aux dispositions du présent article par la délibération du 20 juin 2007 du conseil général de l'Eure publiée
+au Journal officiel du 19 septembre 2007 (NOR : CTRD0765597X).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 9 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
+	**Cite**:
+
+	  - Délibération 2007-06-20 conseil général de l'Eure (NOR:
+	  - Code de l'action sociale et des familles - art. R262-11-2 (V)
+	  - Code de l'action sociale et des familles R262-10 à R262-11-4, R262-11-2
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R262-11-5 (VT)
+
+
+###### Article R262-11-6
+
+En cas d'incapacité physique médicalement constatée de continuer ou de reprendre le travail, d'accident du travail ou de
+maladie professionnelle, de congé légal de maternité, de paternité ou d'adoption et sous réserve de l'article R. 262-45, le
+bénéficiaire qui exerçait une activité ou suivait une formation a droit, à compter de son arrêt de travail, au maintien des
+abattements ou de la prime forfaitaire mentionnés à l'article R. 262-10 pour une durée qui ne peut excéder trois mois.
+
+Les indemnités journalières de sécurité sociale sont assimilées pour le calcul de l'allocation à des salaires.
+
+**Nota:**
+
+Il a été dérogé aux dispositions du présent article par la délibération du 28 juin 2007 du conseil général de Loir-et-Cher
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769620X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 1er octobre 2007 du conseil général de la Côte-
+d'Or publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769632X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 5 octobre 2007 du conseil général des Charentes
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769622X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 15 octobre 2007 du conseil général de la Vienne
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769621X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 19 octobre 2007 du conseil général du Val-d'Oise
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769635X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 22 octobre 2007 du conseil général de la Loire-
+Atlantique publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769619X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 25 octobre 2007 du conseil général de l'Oise
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769633X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 8 novembre 2007 du conseil général d'Ille-et-
+Vilaine publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703345X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 15 novembre 2007 du conseil général de la Haute-
+Corse publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703371X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 19 novembre 2007 du conseil général de l'Hérault
+publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703347X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 7 décembre 2007 du conseil général du Gers publiée
+au Journal officiel du 1er janvier 2008 (NOR : CTRX0703373X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 11 décembre 2007 du conseil général de la Seine-
+Maritime publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703376X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 13 décembre 2007 du conseil général du Doub
+publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703379X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 14 décembre 2007 du conseil général de l'Allier
+publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703369X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 14 décembre 2007 du conseil général de la
+Charente-Maritime publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703372X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 17 décembre 2007 du conseil général du Pas-de-
+Calais publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703375X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 21 décembre 2007 du conseil général des Alpes-
+Maritimes publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703370X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 12 novembre 2007 du conseil général des Côtes-
+d'Armor publiée au Journal officiel du 6 janvier 2008 (NOR : CTRX0800014X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 12 novembre 2007 du conseil général de la Haute-
+Saône publiée au Journal officiel du 6 janvier 2008 (NOR : CTRX0800015X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 10 décembre 2007 du conseil général de l'Eure
+publiée au Journal officiel du 6 janvier 2008 (NOR : CTRX0800134X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 14 janvier 2008 du conseil général du Calvados
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800290X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 18 janvier 2008 du conseil général de la Creuse
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800291X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 18 janvier 2008 du conseil général de la Dordogne
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800288X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 23 janvier 2008 du conseil général du Morbihan
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800292X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 6 janvier 2008 du conseil général de la Seine-
+Saint-Denis publiée au Journal officiel du 1er mars 2008 (NOR : CTRX0800008X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 25 janvier 2008 du conseil général de la Mayenne
+publiée au Journal officiel du 1er mars 2008 (NOR : CTRX0800006X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 1er février 2008 du conseil général du Rhône
+publiée au Journal officiel du 1er mars 2008 (NOR : CTRX0800005X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 7 avril 2008 du conseil général de la Loire-
+Atlantique publiée au Journal officiel du 26 avril 2008 (NOR : CTRX0801250X).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 9 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2009-404 du 15 avril 2009 - art. 2
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. R262-10
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R262-45 (V)
+
+
+##### Sous-section 3 : Dispositions propres aux revenus perçus dans le cadre de contrats insertion-revenu minimum d'activité et de contrats d'avenir.
 
 ###### Article R262-12
 
-Les ressources prises en compte sont celles qui ont été effectivement perçues au cours des trois mois civils précédant la
-demande ou la révision ; les revenus professionnels des non-salariés pris en compte sont égaux à 25 % des revenus annuels
-fixés en application de l'article R. 262-17.
+I. - Pour la détermination du montant de l'allocation, il n'est pas tenu compte des rémunérations procurées à l'intéressé au
+titre d'un contrat d'avenir ou d'un contrat insertion-revenu minimum d'activité conclus respectivement en application des
+articles L. 322-4-10 et L. 322-4-15 du code du travail.
 
-Toutefois, il est tenu compte, sous réserve des dispositions des articles R. 262-6 et R. 262-7, du montant des prestations
-servies par l'organisme payeur qui sont dues pour le mois en cours.
+II. - En cas de suspension de l'un de ces contrats, et lorsque le salarié ne remplit pas la condition requise pour une prise
+en charge par un régime de sécurité sociale et que le maintien de son salaire n'est pas assuré, il perçoit son allocation
+augmentée d'un montant journalier égal à un trentième du montant mensuel de l'allocation de revenu minimum d'insertion
+garantie à une personne isolée.
+
+La diminution du montant de l'aide à l'employeur définie au premier alinéa du II de l'article L. 322-4-12 ou à l'article L.
+322-4-15-6 du même code n'est pas opérée lorsqu'un de ces contrats de travail est suspendu en application du deuxième alinéa
+du IV de l'article L. 322-4-12 du même code pour le contrat d'avenir ou du deuxième alinéa de l'article L. 322-4-15-5 du même
+code pour le contrat insertion-revenu minimum d'activité.
+
+III. - Lorsque l'allocataire perçoit également l'allocation de solidarité spécifique définie à l'article L. 351-10 du même
+code et que le contrat d'avenir ou le contrat insertion-revenu minimum d'activité est signé avec l'intéressé en sa qualité de
+bénéficiaire de l'allocation de solidarité spécifique, le montant de l'aide à l'employeur n'est déduit du montant de
+l'allocation de revenu minimum d'insertion qu'à compter de la prochaine révision trimestrielle du droit à cette dernière
+allocation suivant le début du contrat insertion-revenu minimum d'activité ou du contrat d'avenir. Lorsqu'un autre membre du
+foyer pris en compte pour la détermination du montant de l'allocation est aussi salarié en contrat insertion-revenu minimum
+d'activité ou en contrat d'avenir, ce montant est également diminué du même montant d'aide à l'employeur.
+
+Lorsque l'allocataire perçoit également l'allocation de parent isolé définie à l'article L. 524-1 du code de la sécurité
+sociale ou l'allocation aux adultes handicapés définie aux articles L. 821-1 et L. 821-2 du même code et que le contrat
+d'avenir ou le contrat insertion-revenu minimum d'activité est signé avec l'intéressé en sa qualité de bénéficiaire de
+l'allocation de parent isolé ou de l'allocation aux adultes handicapés, le montant de l'aide à l'employeur est déduit du
+montant de l'allocation de revenu minimum d'insertion dès le début du contrat d'avenir ou du contrat insertion-revenu minimum
+d'activité.
+
+Dans le cas où le bénéficiaire d'un contrat insertion-revenu minimum d'activité ou d'un contrat d'avenir, son conjoint, le
+partenaire lié par un pacte civil de solidarité ou le concubin, ou l'une des personnes à sa charge définies à l'article R.
+262-2, exerce une autre activité, il est fait application, pour les revenus procurés par cette activité, des dispositions de
+l'article R. 262-10.
+
+**Nota:**
+
+Il a été dérogé aux dispositions du présent article par la délibération du 28 juin 2007 du conseil général de Loir-et-Cher
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769620X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 1er octobre 2007 du conseil général de la Côte-
+d'Or publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769632X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 5 octobre 2007 du conseil général des Charentes
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769622X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 15 octobre 2007 du conseil général de la Vienne
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769621X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 19 octobre 2007 du conseil général du Val-d'Oise
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769635X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 22 octobre 2007 du conseil général de la Loire-
+Atlantique publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769619X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 25 octobre 2007 du conseil général de l'Oise
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769633X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 8 novembre 2007 du conseil général d'Ille-et-
+Vilaine publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703345X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 15 novembre 2007 du conseil général de la Haute-
+Corse publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703371X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 19 novembre 2007 du conseil général de l'Hérault
+publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703347X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 7 décembre 2007 du conseil général du Gers publiée
+au Journal officiel du 1er janvier 2008 (NOR : CTRX0703373X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 13 décembre 2007 du conseil général du Doub
+publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703379X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 14 décembre 2007 du conseil général de l'Allier
+publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703369X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 14 décembre 2007 du conseil général de la
+Charente-Maritime publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703372X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 17 décembre 2007 du conseil général du Pas-de-
+Calais publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703375X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 20 décembre 2007 du conseil général des Deux-
+Sèvres publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703377X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 21 décembre 2007 du conseil général des Alpes-
+Maritimes publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703370X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 12 novembre 2007 du conseil général des Côtes-
+d'Armor publiée au Journal officiel du 6 janvier 2008 (NOR : CTRX0800014X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 12 novembre 2007 du conseil général de la Haute-
+Saône publiée au Journal officiel du 6 janvier 2008 (NOR : CTRX0800015X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 10 décembre 2007 du conseil général de l'Eure
+publiée au Journal officiel du 6 janvier 2008 (NOR : CTRX0800134X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 14 janvier 2008 du conseil général du Calvados
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800290X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 18 janvier 2008 du conseil général de la Creuse
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800291X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 18 janvier 2008 du conseil général de la Dordogne
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800288X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 23 janvier 2008 du conseil général du Morbihan
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800292X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 6 janvier 2008 du conseil général de la Seine-
+Saint-Denis publiée au Journal officiel du 1er mars 2008 (NOR : CTRX0800008X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 25 janvier 2008 du conseil général de la Mayenne
+publiée au Journal officiel du 1er mars 2008 (NOR : CTRX0800006X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 1er février 2008 du conseil général du Rhône
+publiée au Journal officiel du 1er mars 2008 (NOR : CTRX0800005X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 7 avril 2008 du conseil général de la Loire-
+Atlantique publiée au Journal officiel du 26 avril 2008 (NOR : CTRX0801250X).
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°88-1111 du 12 décembre 1988 - art. 12 (Ab)
+	  - Code de l'action sociale et des familles - art. R262-8 (M)
 	  - Code de l'action sociale et des familles - art. R262-8 (T)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1197 2006-09-29 art. 9 I, II, V JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 9 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. R262-17 (M)
+	  - Code du travail - art. L322-4-10 (T)
+	  - Code du travail - art. L322-4-12 (T)
+	  - Code du travail - art. L322-4-15 (M)
+	  - Code du travail - art. L322-4-15-5 (M)
+	  - Code du travail - art. L322-4-15-6 (M)
+	  - Code du travail - art. L351-10 (M)
+	  - Code de la sécurité sociale. - art. L524-1 (M)
+	  - Code de la sécurité sociale. - art. L821-1 (M)
+	  - Code de la sécurité sociale. - art. L821-2 (M)
+	  - Code de l'action sociale et des familles - art. R262-10 (M)
+	  - Code de l'action sociale et des familles - art. R262-2 (V)
+	  - Code de l'action sociale et des familles L322-4-12, R262-2, R262-10
 
 	**Cité par**:
 
@@ -54534,26 +55477,13 @@ servies par l'organisme payeur qui sont dues pour le mois en cours.
 
 ###### Article R262-13
 
-Il n'est pas tenu compte des prestations et rémunérations de stage, qu'elles soient légales, réglementaires ou
-conventionnelles, perçues pendant les trois derniers mois lorsqu'il est justifié que la perception de celles-ci est
-interrompue de manière certaine et que l'intéressé ne peut prétendre à un revenu de substitution. La liste de ces prestations
-et rémunérations est fixée par arrêté du ministre chargé de l'action sociale.
-
-En ce qui concerne les autres prestations et les revenus d'activité perçus pendant les trois derniers mois, lorsqu'il est
-justifié que la perception de ceux-ci est interrompue de manière certaine et que l'intéressé ne peut prétendre à un revenu de
-substitution, le président du conseil général peut décider de ne pas les prendre en compte dans la limite mensuelle d'une
-fois le montant du revenu minimum d'insertion fixé pour un allocataire.
-
 En cas de rupture d'un contrat insertion-revenu minimum d'activité pour un motif autre que celui prévu au premier alinéa de
 l'article L. 322-4-15-5 du code du travail, ou en cas de rupture d'un contrat d'avenir pour un motif autre que celui
 mentionné au IV de l'article L. 322-4-12 du même code, ou lorsque le contrat n'est pas renouvelé et que son bénéficiaire
-n'exerce pas d'activité professionnelle rémunérée, celui-ci continue de percevoir l'allocation de revenu minimum d'insertion
-d'un montant égal à celui du montant mensuel de l'aide du département à l'employeur jusqu'à son réexamen dans les conditions
-prévues à l'article R. 262-41.
-
-Lors de ce réexamen, il n'est pas tenu compte, pour la détermination du montant de l'allocation de revenu minimum
-d'insertion, des ressources perçues au cours du trimestre précédent au titre du revenu minimum d'activité "ou du contrat
-d'avenir".
+n'exerce pas d'activité professionnelle rémunérée, la diminution du montant de l'aide à l'employeur définie au troisième
+alinéa du I de l'article L. 322-4-15-6 du même code pour le contrat insertion-revenu minimum d'activité et au premier alinéa
+du II de l'article L. 322-4-12 du même code pour le contrat d'avenir n'est plus opérée à compter du premier jour du mois au
+cours duquel intervient la rupture ou la fin du contrat.
 
 **Liens relatifs à cet article**
 
@@ -54568,14 +55498,14 @@ d'avenir".
 
 	**Modifié par**:
 
-	  - Décret n°2005-242 2005-03-17 art. 3 II, III JORF 18 mars 2005
-	  - Décret n°2005-242 du 17 mars 2005 - art. 3 () JORF 18 mars 2005
+	  - Décret n°2006-1197 2006-09-29 art. 9 I, V JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 9 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
 
 	**Cite**:
 
 	  - Code du travail - art. L322-4-12 (T)
 	  - Code du travail - art. L322-4-15-5 (M)
-	  - Code de l'action sociale et des familles - art. R262-41 (M)
+	  - Code du travail - art. L322-4-15-6 (M)
 
 	**Cité par**:
 
@@ -54585,7 +55515,7 @@ d'avenir".
 	  - Code de la sécurité sociale. - art. D553-1 (V)
 
 
-##### Sous-section 2 : Dispositions propres aux ressources professionnelles des non-salariés
+##### Sous-section 4 : Dispositions propres aux non-salariés
 
 ##### Paragraphe 1 : Conditions d'accès à l'allocation.
 
@@ -54616,9 +55546,13 @@ revenu minimum d'insertion défini au premier alinéa est majoré de 40 % à par
 	**Cite**:
 
 	  - CGI 64, 76
-	  - Code rural L722-10, L321-6 à L321-12
 	  - Code de l'action sociale et des familles - art. L262-1 (V)
 	  - Code de l'action sociale et des familles - art. R262-2 (V)
+	  - Code rural L722-10, L321-6 à L321-12
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R262-16 (V)
 
 	**Anciens textes**:
 
@@ -54629,9 +55563,10 @@ revenu minimum d'insertion défini au premier alinéa est majoré de 40 % à par
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Cité par**:
+	**Modifié par**:
 
-	  - Code de l'action sociale et des familles - art. R262-16 (V)
+	  - Décret n°2006-1197 2006-09-29 art. 9 I, III JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 9 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
 
 
 ###### Article R262-15
@@ -54650,6 +55585,11 @@ cette année et celle à laquelle le chiffre d'affaires se rapporte, tel que ce 
 
 **Liens relatifs à cet article**
 
+	**Cité par**:
+
+	  - Arrêté du 17 décembre 2009 - art. 1 (V)
+	  - Code de l'action sociale et des familles - art. R262-16 (V)
+
 	**Cite**:
 
 	  - CGI 50-0, 102 ter
@@ -54663,10 +55603,10 @@ cette année et celle à laquelle le chiffre d'affaires se rapporte, tel que ce 
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Cité par**:
+	**Modifié par**:
 
-	  - Arrêté du 17 décembre 2009 - art. 1 (V)
-	  - Code de l'action sociale et des familles - art. R262-16 (V)
+	  - Décret n°2006-1197 2006-09-29 art. 9 I, III JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 9 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
 
 
 ###### Article R262-16
@@ -54685,6 +55625,11 @@ l'allocation de revenu minimum d'insertion seront examinés.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1197 2006-09-29 art. 9 I, III JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 9 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
 
 	**Cite**:
 
@@ -54722,6 +55667,11 @@ d'appréciation fournis par le demandeur.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1197 2006-09-29 art. 9 I, III JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 9 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
 
 	**Cité par**:
 
@@ -54762,6 +55712,11 @@ communication de cet arrêté.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1197 2006-09-29 art. 9 I, III JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 9 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
 	**Cité par**:
 
 	  - Décret n°2017-811 du 5 mai 2017 - art. 3 (VD)
@@ -54794,6 +55749,11 @@ fait application du troisième alinéa de l'article R. 262-17. S'y ajoutent les 
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1197 2006-09-29 art. 9 I, III JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 9 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
 	**Cité par**:
 
 	  - Décret n°2017-811 du 5 mai 2017 - art. 3 (VD)
@@ -54822,6 +55782,11 @@ avant déduction pour frais professionnels.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1197 2006-09-29 art. 9 I, III JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 9 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. R541-1 (T)
@@ -54848,6 +55813,11 @@ finances.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1197 2006-09-29 art. 9 I, III JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 9 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
 
 	**Cité par**:
 
@@ -54879,8 +55849,13 @@ de prétendre du fait de cette activité.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
 
-##### Section 3 : Attribution de l'allocation
+	  - Décret n°2006-1197 2006-09-29 art. 9 I, III JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 9 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
+
+##### Section 3 : Attribution de l'allocation et de la prime forfaitaire
 
 ##### Sous-section 1 : Agrément pour le recueil des demandes d'allocation.
 
@@ -54902,6 +55877,10 @@ l'article L. 262-30.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
 
 	**Cite**:
 
@@ -54928,6 +55907,10 @@ cinq ans. Cet agrément peut être renouvelé sur demande de l'organisme.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
 
 
 ###### Article R262-25
@@ -54963,6 +55946,10 @@ ou créances dans les conditions prévues par l'article L. 262-35 ;
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L262-18 (M)
@@ -54987,6 +55974,10 @@ demandes en instance.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
 
 	**Cité par**:
 
@@ -55014,6 +56005,10 @@ l'occasion de l'exercice de ses fonctions.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
 
 	**Cite**:
 
@@ -55048,6 +56043,14 @@ de revenu minimum d'insertion les organismes à but non lucratif agréés à cet
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 15 mai 2007 en vigueur le 1er juillet 2007
+
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. R262-35 (VD)
@@ -55071,6 +56074,14 @@ cinq ans. Cet agrément peut être renouvelé sur demande de l'organisme.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 15 mai 2007 en vigueur le 1er juillet 2007
+
 
 ###### Article R262-30
 
@@ -55088,6 +56099,14 @@ Il précise, le cas échéant, si l'organisme est tenu de recevoir toute déclar
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 15 mai 2007 en vigueur le 1er juillet 2007
 
 	**Cité par**:
 
@@ -55114,6 +56133,14 @@ Cette liste est établie suivant le modèle annexé à l'agrément.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 15 mai 2007 en vigueur le 1er juillet 2007
+
 
 ###### Article R262-32
 
@@ -55129,6 +56156,14 @@ dépose une nouvelle déclaration auprès d'un autre organisme agréé.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 15 mai 2007 en vigueur le 1er juillet 2007
 
 
 ###### Article R262-33
@@ -55152,6 +56187,14 @@ Il prend les dispositions nécessaires pour assurer la continuité du versement 
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 15 mai 2007 en vigueur le 1er juillet 2007
+
 
 ###### Article R262-34
 
@@ -55169,6 +56212,14 @@ demeure reste sans résultat dans le délai fixé, le représentant de l'État d
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 15 mai 2007 en vigueur le 1er juillet 2007
 
 	**Cité par**:
 
@@ -55190,6 +56241,14 @@ quelque nature que ce soit, notamment sur le montant des allocations de revenu m
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 15 mai 2007 en vigueur le 1er juillet 2007
+
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. R262-28 (M)
@@ -55199,11 +56258,11 @@ quelque nature que ce soit, notamment sur le montant des allocations de revenu m
 	  - Code de l'action sociale et des familles - art. R262-40 (VD)
 
 
-##### Sous-section 3 : Liquidation, versement et révision de l'allocation.
+##### Sous-section 3 : Liquidation, versement et révision.
 
 ###### Article D262-40
 
-Le montant mentionné au 1° de l'article L. 262-22, au-dessous duquel l'allocation n'est pas versée, est fixé à 6 Euros.
+Le montant mentionné au 1° de l'article L. 262-22, au-dessous duquel l'allocation n'est pas versée, est fixé à 6 euros.
 
 **Liens relatifs à cet article**
 
@@ -55215,6 +56274,11 @@ Le montant mentionné au 1° de l'article L. 262-22, au-dessous duquel l'allocat
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1197 2006-09-29 art. 10 I, II JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
 
 	**Cite**:
 
@@ -55228,8 +56292,8 @@ Le montant mentionné au 1° de l'article L. 262-22, au-dessous duquel l'allocat
 
 ###### Article R262-36
 
-Les organismes payeurs de l'allocation sont les caisses d'allocations familiales et les caisses de mutualité sociale
-agricole.
+Les organismes payeurs de l'allocation et de la prime forfaitaire sont les caisses d'allocations familiales et les caisses de
+mutualité sociale agricole.
 
 Ces dernières sont compétentes :
 
@@ -55251,12 +56315,17 @@ une caisse d'allocations familiales.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1197 2006-09-29 art. 10 I, II JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
 
 ###### Article R262-37
 
 La caisse nationale des allocations familiales et la caisse centrale de la mutualité sociale agricole centralisent les
-opérations financières et comptables réalisées, au titre du revenu minimum d'insertion, respectivement par les caisses
-d'allocations familiales et les caisses de mutualité sociale agricole.
+opérations financières et comptables réalisées, au titre du revenu minimum d'insertion et de la prime forfaitaire,
+respectivement par les caisses d'allocations familiales et les caisses de mutualité sociale agricole.
 
 **Liens relatifs à cet article**
 
@@ -55268,6 +56337,11 @@ d'allocations familiales et les caisses de mutualité sociale agricole.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1197 2006-09-29 art. 10 I, II JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
 
 
 ###### Article R262-38
@@ -55284,6 +56358,11 @@ L'allocation est liquidée par l'organisme payeur pour des périodes successives
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1197 2006-09-29 art. 10 I, II JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
 	**Cité par**:
 
 	  - Décret n°2007-1433 du 5 octobre 2007 - art. 13 (VT)
@@ -55291,10 +56370,10 @@ L'allocation est liquidée par l'organisme payeur pour des périodes successives
 
 ###### Article R262-39
 
-L'allocation est due à compter du premier jour du mois civil au cours duquel la demande dûment remplie et signée a été
-déposée auprès de l'organisme mentionné à l'article L. 262-14. Elle cesse d'être due à partir du premier jour du mois civil
-au cours duquel les conditions d'ouverture du droit cessent d'être réunies sauf en cas de décès de l'allocataire, auquel cas
-elle cesse, d'être due au premier jour du mois civil qui suit le décès.
+L'allocation est due à compter du premier jour du mois civil au cours duquel la demande a été déposée auprès de l'organisme
+mentionné à l'article L. 262-14. Elle cesse d'être due à partir du premier jour du mois civil au cours duquel les conditions
+d'ouverture du droit cessent d'être réunies sauf en cas de décès de l'allocataire, auquel cas elle cesse, d'être due au
+premier jour du mois civil qui suit le décès.
 
 Elle est versée mensuellement à terme échu.
 
@@ -55312,6 +56391,11 @@ Dans le cas où le président du conseil général décide d'accorder un acompte
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1197 2006-09-29 art. 10 I, II JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L262-14 (M)
@@ -55328,10 +56412,8 @@ Dans le cas où le président du conseil général décide d'accorder un acompte
 Pour l'application de l'article L. 262-27, le montant de l'allocation de revenu minimum d'insertion est révisé à compter du
 premier jour du mois suivant celui au cours duquel s'est produit l'événement modifiant la situation de l'intéressé.
 
-Le service de l'allocation cesse au premier jour du mois qui suit la demande de révision si les revenus d'activité de
-l'intéressé au titre du mois de la demande portent, pour ce mois, les ressources du foyer bénéficiaire, sous réserve des
-dispositions de l'article R. 262-8, à un montant supérieur à celui du revenu minimum d'insertion auquel le foyer peut
-prétendre pour ce même mois.
+Le service de l'allocation cesse au premier jour du mois qui suit la demande de révision si les ressources du foyer
+bénéficiaire sont d'un montant supérieur à celui du revenu minimum d'insertion auquel le foyer peut prétendre.
 
 **Liens relatifs à cet article**
 
@@ -55344,10 +56426,14 @@ prétendre pour ce même mois.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1197 2006-09-29 art. 10 I, II JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L262-27 (M)
-	  - Code de l'action sociale et des familles - art. R262-8 (M)
 
 	**Cité par**:
 
@@ -55373,6 +56459,11 @@ articles L. 262-19, L. 262-20 et L. 262-21.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1197 2006-09-29 art. 10 I, II JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
 
 	**Cite**:
 
@@ -55406,6 +56497,11 @@ d'ouverture du droit ; dans ce cas, l'autre membre du couple est allocataire.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1197 2006-09-29 art. 10 I, II JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. R262-44 (V)
@@ -55413,10 +56509,10 @@ d'ouverture du droit ; dans ce cas, l'autre membre du couple est allocataire.
 
 ###### Article R262-44
 
-Le bénéficiaire de l'allocation de revenu minimum d'insertion est tenu de faire connaître à l'organisme payeur toutes
-informations relatives à sa résidence, à sa situation de famille, aux activités, aux ressources et aux biens des membres du
-foyer tel que défini à l'article R. 262-1 ; il doit faire connaître à cet organisme tout changement intervenu dans l'un ou
-l'autre de ces éléments.
+Le bénéficiaire de l'allocation de revenu minimum d'insertion ou de la prime forfaitaire est tenu de faire connaître à
+l'organisme payeur toutes informations relatives à sa résidence, à sa situation de famille, aux activités, aux ressources et
+aux biens des membres du foyer tel que défini à l'article R. 262-1 ; il doit faire connaître à cet organisme tout changement
+intervenu dans l'un ou l'autre de ces éléments.
 
 En cas de non-retour de la déclaration trimestrielle de ressources dans les délais nécessaires pour procéder au calcul de
 l'allocation, le président du conseil général peut décider qu'une avance d'un montant égal à 50 % de la précédente mensualité
@@ -55433,12 +56529,17 @@ sera versée.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1197 2006-09-29 art. 10 I, II JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. R262-1 (V)
 
 
-##### Sous-section 4 : Suspension ou réduction de l'allocation.
+##### Sous-section 4 : Suspension ou réduction.
 
 ###### Article R262-45
 
@@ -55448,6 +56549,8 @@ l'assurance maladie, le montant de son allocation est réduit de 50 %.
 
 La réduction de l'allocation n'est opérée que pendant les périodes où l'allocataire est effectivement accueilli dans un
 établissement de santé, à l'exclusion des périodes de suspension de prise en charge par l'assurance maladie.
+
+L'article R. 262-11-6 n'est pas applicable.
 
 **Liens relatifs à cet article**
 
@@ -55460,9 +56563,17 @@ La réduction de l'allocation n'est opérée que pendant les périodes où l'all
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1197 2006-09-29 art. 10 I, III JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. R262-11-6 (V)
+
 	**Cité par**:
 
-	  - Code de l'action sociale et des familles - art. R262-11-6 (VT)
 	  - Code de l'action sociale et des familles - art. R262-46 (V)
 	  - Code de l'action sociale et des familles - art. R541-1 (T)
 	  - Code de l'action sociale et des familles - art. R542-6 (VD)
@@ -55487,6 +56598,11 @@ duquel l'intéressé n'est plus hospitalisé dans un établissement de santé.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1197 2006-09-29 art. 10 I, III JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
 
 	**Cite**:
 
@@ -55524,6 +56640,11 @@ l'administration pénitentiaire.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1197 2006-09-29 art. 10 I, III JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. R262-2 (V)
@@ -55533,8 +56654,9 @@ l'administration pénitentiaire.
 
 ###### Article D262-49
 
-Tout imprimé relatif au revenu minimum d'insertion fait mention de la possibilité pour les organismes payeurs du revenu
-minimum d'insertion d'effectuer les vérifications des déclarations des bénéficiaires prévues à l'article L. 262-33.
+Tout imprimé relatif au revenu minimum d'insertion et à la prime forfaitaire fait mention de la possibilité pour les
+organismes payeurs du revenu minimum d'insertion et de la prime forfaitaire d'effectuer les vérifications des déclarations
+des bénéficiaires prévues à l'article L. 262-33.
 
 **Liens relatifs à cet article**
 
@@ -55545,6 +56667,10 @@ minimum d'insertion d'effectuer les vérifications des déclarations des bénéf
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1198 du 29 septembre 2006 - art. 1 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
 
 	**Cite**:
 
@@ -55560,8 +56686,9 @@ minimum d'insertion d'effectuer les vérifications des déclarations des bénéf
 
 Dans le cadre des demandes et des transmissions d'informations prévues au premier alinéa de l'article L. 262-33, le numéro
 d'inscription au répertoire national d'identification des personnes physiques peut être utilisé par les organismes payeurs du
-revenu minimum d'insertion, par les organismes d'indemnisation du chômage et par les organismes publics ou privés qui versent
-des rémunérations ou des aides à l'emploi ou à la formation relevant des dispositifs d'insertion.
+revenu minimum d'insertion et de la prime forfaitaire, par les organismes d'indemnisation du chômage et par les organismes
+publics ou privés qui versent des rémunérations ou des aides à l'emploi ou à la formation relevant des dispositifs
+d'insertion.
 
 **Liens relatifs à cet article**
 
@@ -55573,17 +56700,52 @@ des rémunérations ou des aides à l'emploi ou à la formation relevant des dis
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1197 2006-09-29 art. 10 I, IV JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L262-33 (M)
 
 
-##### Sous-section 6 : Réception et reversement de l'allocation par des organismes agréés.
+###### Article R262-48-1
+
+Le président du conseil général, lorsqu'il envisage de prononcer, pour des faits présentant un caractère délibéré et selon
+les modalités fixées par l'article L. 262-47-1, la pénalité prévue à cet article, informe préalablement par écrit la personne
+concernée des faits qui lui sont reprochés et de la pénalité envisagée, en lui indiquant qu'elle dispose d'un délai d'un mois
+pour présenter ses observations écrites ou pour demander à être entendue par la commission locale d'insertion mentionnée à
+l'article L. 263-10, le cas échéant assistée d'une personne de son choix.
+
+La commission émet son avis dans un délai de trente jours à compter de la réception du dossier complet. Si elle ne s'est pas
+prononcée au terme de ce délai, son avis est réputé rendu.
+
+Le président du conseil général se prononce dans un délai de quinze jours à compter de la réception de l'avis de la
+commission ou de l'expiration du délai mentionné à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L262-47-1 (V)
+	  - Code de l'action sociale et des familles - art. L263-10 (M)
+
+
+##### Sous-section 6 : Réception et reversement par des organismes agréés.
 
 ###### Article R262-50
 
 Les organismes à but non lucratif agréés à cette fin par le président du conseil général peuvent recevoir et reverser à leurs
-bénéficiaires les allocations de revenu minimum d'insertion.
+bénéficiaires les allocations de revenu minimum d'insertion et les primes forfaitaires.
 
 **Liens relatifs à cet article**
 
@@ -55595,6 +56757,11 @@ bénéficiaires les allocations de revenu minimum d'insertion.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1197 2006-09-29 art. 10 I, V JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
 
 	**Cité par**:
 
@@ -55619,16 +56786,21 @@ Il précise les modalités de contrôle auquel l'organisme agréé est soumis.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1197 2006-09-29 art. 10 I, V JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
 
 ###### Article R262-52
 
-L'organisme agréé tient, de manière distincte, la comptabilité des allocations qui lui ont été mandatées et de celles qu'il a
-reversées, conformément à des règles fixées par la décision d'agrément.
+L'organisme agréé tient, de manière distincte, la comptabilité des allocations et des primes forfaitaires qui lui ont été
+mandatées et de celles qu'il a reversées, conformément à des règles fixées par la décision d'agrément.
 
-Il établit chaque semestre civil, ainsi que lorsque le bénéficiaire de l'allocation cesse de relever de sa compétence, un
-état détaillant les sommes encaissées au nom de l'intéressé ainsi que celles qui ont été reversées à ce dernier et précisant
-les dates auxquelles ces opérations ont été effectuées. Cet état est remis à l'intéressé. Il est communiqué au président du
-conseil général sur sa demande.
+Il établit chaque semestre civil, ainsi que lorsque le bénéficiaire de l'allocation ou de la prime forfaitaire cesse de
+relever de sa compétence, un état détaillant les sommes encaissées au nom de l'intéressé ainsi que celles qui ont été
+reversées à ce dernier et précisant les dates auxquelles ces opérations ont été effectuées. Cet état est remis à l'intéressé.
+Il est communiqué au président du conseil général sur sa demande.
 
 **Liens relatifs à cet article**
 
@@ -55640,6 +56812,11 @@ conseil général sur sa demande.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1197 2006-09-29 art. 10 I, V JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
 
 
 ###### Article R262-53
@@ -55657,13 +56834,19 @@ minimum le quart des sommes encaissées en moyenne chaque année.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1197 2006-09-29 art. 10 I, V JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
 
 ###### Article R262-54
 
 En cas de manquements graves de l'organisme agréé à ses obligations, et après que celui-ci a été mis en mesure de présenter
 ses observations, le président du conseil général peut prononcer le retrait d'agrément.
 
-Il prend alors les dispositions nécessaires pour assurer la continuité du versement des allocations à leurs bénéficiaires.
+Il prend alors les dispositions nécessaires pour assurer la continuité du versement des allocations et des primes
+forfaitaires à leurs bénéficiaires.
 
 **Liens relatifs à cet article**
 
@@ -55676,13 +56859,19 @@ Il prend alors les dispositions nécessaires pour assurer la continuité du vers
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1197 2006-09-29 art. 10 I, V JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
 
 ###### Article R262-55
 
-Le président du conseil général désigne l'organisme agréé auquel l'allocation est mandatée par l'organisme payeur.
+Le président du conseil général désigne l'organisme agréé auquel l'allocation et la prime forfaitaire sont mandatées par
+l'organisme payeur.
 
 Sa décision précise, en accord avec le bénéficiaire, la durée de la mesure ainsi que les principales modalités du reversement
-de l'allocation.
+de l'allocation ou de la prime forfaitaire.
 
 Elle est notifiée à l'organisme payeur, à l'organisme agréé et au bénéficiaire. Les organismes chargés de l'insertion du
 bénéficiaire en sont également informés.
@@ -55697,6 +56886,11 @@ bénéficiaire en sont également informés.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1197 2006-09-29 art. 10 I, V JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
 
 	**Cité par**:
 
@@ -55723,6 +56917,11 @@ l'organisme payeur.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1197 2006-09-29 art. 10 I, V JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. D262-58 (Ab)
@@ -55730,9 +56929,9 @@ l'organisme payeur.
 
 ###### Article R262-57
 
-Lorsque durant une période de trois mois consécutifs l'organisme agréé n'a pu procéder au reversement de l'allocation à son
-bénéficiaire, il en informe immédiatement le président du conseil général. Sauf décision contraire de celui-ci dans le délai
-d'un mois, la mesure est réputée caduque et les sommes dues sont reversées à l'organisme payeur.
+Lorsque durant une période de trois mois consécutifs l'organisme agréé n'a pu procéder au reversement de l'allocation ou de
+la prime forfaitaire à son bénéficiaire, il en informe immédiatement le président du conseil général. Sauf décision contraire
+de celui-ci dans le délai d'un mois, la mesure est réputée caduque et les sommes dues sont reversées à l'organisme payeur.
 
 **Liens relatifs à cet article**
 
@@ -55745,6 +56944,11 @@ d'un mois, la mesure est réputée caduque et les sommes dues sont reversées à
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1197 2006-09-29 art. 10 I, V JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. R542-6 (VD)
@@ -55753,7 +56957,8 @@ d'un mois, la mesure est réputée caduque et les sommes dues sont reversées à
 ###### Article R262-58
 
 Les fonctions mentionnées à l'article R. 262-50 sont exercées par l'organisme agréé à titre gratuit. Elles ne peuvent donner
-lieu à aucune retenue, de quelque nature que ce soit, notamment sur le montant des allocations reçues.
+lieu à aucune retenue, de quelque nature que ce soit, notamment sur le montant des allocations et des primes forfaitaires
+reçues.
 
 **Liens relatifs à cet article**
 
@@ -55764,6 +56969,11 @@ lieu à aucune retenue, de quelque nature que ce soit, notamment sur le montant 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1197 2006-09-29 art. 10 I, V JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
 
 	**Cite**:
 
@@ -55782,6 +56992,8 @@ textes législatifs et réglementaires auxdits organismes antérieurement à l'e
 décembre 2003 portant décentralisation en matière de revenu minimum d'insertion et créant un revenu minimum d'activité, y
 compris celles qui pouvaient leur être déléguées par le représentant de l'Etat dans le département jusqu'à cette date.
 
+Le service de la prime forfaitaire est exercé à titre gratuit par les organismes payeurs.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -55797,6 +57009,10 @@ compris celles qui pouvaient leur être déléguées par le représentant de l'E
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1198 du 29 septembre 2006 - art. 1 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
 
 	**Cité par**:
 
@@ -55819,12 +57035,16 @@ décisions relevant de leurs compétences respectives et conditionnant la liquid
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
 
 ###### Article D262-61
 
 Les conventions prévoient l'établissement d'un plan de contrôle des conditions de liquidation de l'allocation de revenu
-minimum d'insertion, tenant compte notamment des outils nationaux développés dans les systèmes d'information respectifs des
-gestionnaires.
+minimum d'insertion et de la prime forfaitaire, tenant compte notamment des outils nationaux développés dans les systèmes
+d'information respectifs des gestionnaires.
 
 **Liens relatifs à cet article**
 
@@ -55836,6 +57056,10 @@ gestionnaires.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1198 du 29 septembre 2006 - art. 1 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
 
 
 ###### Article D262-62
@@ -55853,6 +57077,10 @@ Les conventions précisent les modalités pratiques de la transmission d'informa
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. R262-78 (V)
@@ -55867,7 +57095,8 @@ général dans les conditions et limites définies à l'article L. 262-32, la li
 dans la convention.
 
 Cette liste distingue parmi les compétences déléguées celles qui se rattachent au service de l'allocation de revenu minimum
-d'insertion exercé à titre gratuit, tel que défini à l'article D. 262-59.
+d'insertion et de la prime forfaitaire mentionnée à l'article L. 262-11 exercé à titre gratuit, tel que défini à l'article D.
+262-59.
 
 **Liens relatifs à cet article**
 
@@ -55880,9 +57109,14 @@ d'insertion exercé à titre gratuit, tel que défini à l'article D. 262-59.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1198 du 29 septembre 2006 - art. 1 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. D262-59 (M)
+	  - Code de l'action sociale et des familles - art. L262-11 (M)
 	  - Code de l'action sociale et des familles - art. L262-32 (M)
 
 	**Cité par**:
@@ -55893,7 +57127,7 @@ d'insertion exercé à titre gratuit, tel que défini à l'article D. 262-59.
 ###### Article D262-64
 
 Les conventions fixent la liste des missions supplémentaires que le département souhaite confier aux organismes payeurs au
-titre du service de l'allocation de revenu minimum d'insertion.
+titre du service de l'allocation de revenu minimum d'insertion et de la prime forfaitaire.
 
 **Liens relatifs à cet article**
 
@@ -55906,12 +57140,16 @@ titre du service de l'allocation de revenu minimum d'insertion.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1198 du 29 septembre 2006 - art. 1 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
 
 ###### Article D262-65
 
-L'exercice des compétences déléguées qui ne se rattachent pas au service de l'allocation de revenu minimum d'insertion exercé
-à titre gratuit et le service des missions supplémentaires peut donner lieu à une rémunération des organismes payeurs. Cette
-rémunération est, le cas échéant, fixée dans la convention.
+L'exercice des compétences déléguées qui ne se rattachent pas au service de l'allocation de revenu minimum d'insertion et de
+la prime forfaitaire exercé à titre gratuit et le service des missions supplémentaires peut donner lieu à une rémunération
+des organismes payeurs. Cette rémunération est, le cas échéant, fixée dans la convention.
 
 **Liens relatifs à cet article**
 
@@ -55923,6 +57161,10 @@ rémunération est, le cas échéant, fixée dans la convention.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1198 du 29 septembre 2006 - art. 1 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
 
 	**Cité par**:
 
@@ -55946,6 +57188,10 @@ confiées par le département.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. R262-104 (V)
@@ -55960,9 +57206,9 @@ En application de l'article L. 262-31, les conventions définies à l'article L.
 
 1° Le versement par le département d'acomptes mensuels aux organismes payeurs. Ces acomptes sont versés au plus tard le
 dernier jour de chaque mois. Ils sont égaux au montant des dépenses comptabilisées par les organismes au titre de
-l'allocation de revenu minimum d'insertion au cours du dernier mois civil connu. Ils donnent lieu à régulation à la fin de
-chaque exercice, la différence entre la somme des acomptes versés et les dépenses effectivement comptabilisées par
-l'organisme au cours de l'exercice s'imputant sur l'acompte mensuel le plus proche ;
+l'allocation de revenu minimum d'insertion et de la prime forfaitaire au cours du dernier mois civil connu. Ils donnent lieu
+à régulation à la fin de chaque exercice, la différence entre la somme des acomptes versés et les dépenses effectivement
+comptabilisées par l'organisme au cours de l'exercice s'imputant sur l'acompte mensuel le plus proche ;
 
 2° Les modalités de remboursement des charges financières résultant pour les organismes payeurs des retards de versement des
 acomptes mensuels par le département. Cette opération s'effectue au moins une fois par an.
@@ -55977,6 +57223,10 @@ acomptes mensuels par le département. Cette opération s'effectue au moins une 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1198 du 29 septembre 2006 - art. 1 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
 
 	**Cité par**:
 
@@ -56013,6 +57263,10 @@ relations avec l'ensemble de leurs usagers ;
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. R262-40 (VD)
@@ -56032,6 +57286,10 @@ Les conventions précisent les modalités de règlement amiable des litiges entr
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
 
 
 ###### Article D262-70
@@ -56059,6 +57317,10 @@ Les conventions précisent :
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
 
 ###### Article D262-71
 
@@ -56067,10 +57329,13 @@ En l'absence de convention :
 1° L'organisme payeur assure le service de l'allocation pour le compte du département dans les conditions qui prévalaient
 antérieurement au 1er janvier 2004 ;
 
-2° Le département assure le financement de la prestation dans les conditions prévues au 1° et au 2° de l'article D. 262-67.
-Pour l'application du 2° de l'article D. 262-67, le taux d'intérêt retenu pour le calcul des charges financières est le taux
-moyen pondéré du marché monétaire au jour le jour en euro plus un point. Le remboursement de ces charges est effectué dans le
-mois qui suit la fin de chaque trimestre civil.
+1° bis L'organisme payeur assure le service de la prime forfaitaire mentionnée à l'article L. 262-11 dans les conditions
+définies au même article ;
+
+2° Le département assure le financement de la prestation et de la prime forfaitaire dans les conditions prévues au 1° et au
+2° de l'article D. 262-67. Pour l'application du 2° de l'article D. 262-67, le taux d'intérêt retenu pour le calcul des
+charges financières est le taux moyen pondéré du marché monétaire au jour le jour en euro plus un point. Le remboursement de
+ces charges est effectué dans le mois qui suit la fin de chaque trimestre civil.
 
 **Liens relatifs à cet article**
 
@@ -56083,9 +57348,14 @@ mois qui suit la fin de chaque trimestre civil.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1198 du 29 septembre 2006 - art. 1 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. D262-67 (M)
+	  - Code de l'action sociale et des familles - art. L262-11 (M)
 
 
 ##### Section 5 : Recours et récupération
@@ -56119,14 +57389,17 @@ répétition, est fixé à 77 Euros.
 ###### Article R262-73
 
 Sauf si l'allocataire opte pour le remboursement de l'indu en une seule fois ou si un échéancier a été établi avec son
-accord, l'organisme payeur procède au recouvrement de tout paiement indu d'allocation par retenue sur le montant des
-allocations à échoir dans la limite de 20 % des dites allocations.
+accord, l'organisme payeur procède au recouvrement de tout paiement indu d'allocation ou de prime forfaitaire par retenue sur
+le montant des allocations ou des primes forfaitaires à échoir dans la limite de 20 % de ces allocations ou primes
+forfaitaires.
 
-A défaut de récupération sur les allocations à échoir, le président du conseil général constate l'indu et transmet au payeur
-départemental le titre de recettes correspondant pour le recouvrement.
+A défaut de récupération sur les allocations ou primes forfaitaires à échoir, le président du conseil général constate l'indu
+et transmet au payeur départemental le titre de recettes correspondant pour le recouvrement.
 
-Dans le cas où le droit à l'allocation a cessé, le remboursement doit être fait en une seule fois ou selon un échéancier
-établi par le payeur départemental.
+Dans le cas où le droit à l'allocation ou à la prime forfaitaire a cessé, le remboursement doit être fait en une seule fois
+ou selon un échéancier établi par le payeur départemental. Toutefois, si le débiteur est à nouveau bénéficiaire du revenu
+minimum d'insertion ou de la prime forfaitaire, le payeur départemental peut procéder au recouvrement du titre de recettes
+par précompte sur les allocations ou primes forfaitaires à échoir, dans les conditions et limites prévues au premier alinéa.
 
 **Liens relatifs à cet article**
 
@@ -56139,6 +57412,10 @@ Dans le cas où le droit à l'allocation a cessé, le remboursement doit être f
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 11 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
 
 ##### Section 6 : Suivi statistique, évaluation et contrôle
 
@@ -56147,8 +57424,9 @@ Dans le cas où le droit à l'allocation a cessé, le remboursement doit être f
 ###### Article D262-74
 
 La présente sous-section fixe la nature des informations que les départements et les organismes associés à la gestion du
-revenu minimum d'insertion et du contrat insertion-revenu minimum d'activité sont tenus de fournir à l'autorité compétente de
-l'Etat aux fins d'établissement de statistiques. Il fixe les modalités de transmission de ces informations.
+revenu minimum d'insertion, de la prime forfaitaire et du contrat insertion-revenu minimum d'activité sont tenus de fournir à
+l'autorité compétente de l'Etat aux fins d'établissement de statistiques. Il fixe les modalités de transmission de ces
+informations.
 
 **Liens relatifs à cet article**
 
@@ -56160,6 +57438,10 @@ l'Etat aux fins d'établissement de statistiques. Il fixe les modalités de tran
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1198 du 29 septembre 2006 - art. 1 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
 
 	**Cité par**:
 
@@ -56197,8 +57479,8 @@ Avant la fin du premier trimestre de chaque année, le président du conseil gé
 département et au service statistique du ministère chargé de l'action sociale des données agrégées portant sur l'année
 précédente et relatives :
 
-1° Aux effectifs et aux caractéristiques des bénéficiaires du revenu minimum d'insertion ou du contrat insertion-revenu
-minimum d'activité ;
+1° Aux effectifs et aux caractéristiques des bénéficiaires du revenu minimum d'insertion, de la prime forfaitaire ou du
+contrat insertion-revenu minimum d'activité ;
 
 2° À la nature et à la répartition des actions d'insertion ;
 
@@ -56218,6 +57500,10 @@ revenu minimum d'activité.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1198 du 29 septembre 2006 - art. 1 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
 
 ###### Article D262-77
 
@@ -56225,13 +57511,14 @@ Avant la fin de chaque trimestre, la Caisse nationale des allocations familiales
 agricole transmettent au ministre chargé de l'action sociale des données agrégées aux niveaux départemental et national
 portant sur le trimestre précédent, relatives :
 
-1° Aux effectifs et aux caractéristiques des bénéficiaires du revenu minimum d'insertion et de leurs ayants droit à la fin du
-trimestre, en distinguant ceux qui sont bénéficiaires du contrat insertion-revenu minimum d'activité ;
+1° Aux effectifs et aux caractéristiques des bénéficiaires du revenu minimum d'insertion, de la prime forfaitaire et de leurs
+ayants droit à la fin du trimestre, en distinguant ceux qui sont bénéficiaires du contrat insertion-revenu minimum
+d'activité ;
 
-2° Aux caractéristiques des bénéficiaires du revenu minimum d'insertion et de leurs ayants droit entrés et sortis au cours du
-trimestre ;
+2° Aux caractéristiques des bénéficiaires du revenu minimum d'insertion ou de la prime forfaitaire et de leurs ayants droit
+entrés et sortis au cours du trimestre ;
 
-3° Aux dépenses afférentes à l'allocation du revenu minimum d'insertion.
+3° Aux dépenses afférentes à l'allocation du revenu minimum d'insertion ou de la prime forfaitaire.
 
 **Liens relatifs à cet article**
 
@@ -56244,6 +57531,10 @@ trimestre ;
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1198 du 29 septembre 2006 - art. 1 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
 
 ###### Article D262-79
 
@@ -56251,14 +57542,15 @@ Avant la fin du premier trimestre de chaque année, la Caisse nationale des allo
 mutualité sociale agricole transmettent au ministre chargé de l'action sociale des données agrégées aux niveaux départemental
 et national portant sur l'année précédente, relatives :
 
-1° Aux caractéristiques des bénéficiaires du revenu minimum d'insertion et de leurs ayants droit au 31 décembre de l'année
-précédente, en distinguant ceux qui sont bénéficiaires du contrat insertion-revenu minimum d'activité ;
+1° Aux caractéristiques des bénéficiaires de la prime forfaitaire du revenu minimum d'insertion et de leurs ayants droit au
+31 décembre de l'année précédente, en distinguant ceux qui sont bénéficiaires du contrat insertion-revenu minimum
+d'activité ;
 
-2° Aux caractéristiques des bénéficiaires entrés dans le dispositif du revenu minimum d'insertion et de leurs ayants droit au
-cours de l'année précédente ;
+2° Aux caractéristiques des bénéficiaires entrés dans le dispositif de la prime forfaitaire, du revenu minimum d'insertion et
+de leurs ayants droit au cours de l'année précédente ;
 
-3° Aux caractéristiques des bénéficiaires sortis du dispositif du revenu minimum d'insertion et de leurs ayants droit au
-cours de l'année précédente.
+3° Aux caractéristiques des bénéficiaires sortis du dispositif de la prime forfaitaire, du revenu minimum d'insertion et de
+leurs ayants droit au cours de l'année précédente.
 
 **Liens relatifs à cet article**
 
@@ -56271,6 +57563,10 @@ cours de l'année précédente.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1198 du 29 septembre 2006 - art. 1 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
 
 ###### Article D262-80
 
@@ -56279,8 +57575,8 @@ secret en matière de statistique, les départements, la Caisse nationale des al
 mutualité sociale agricole et les autres organismes associés à la gestion du contrat insertion-revenu minimum d'activité
 transmettent au service statistique du ministère chargé de l'action sociale des informations individuelles relatives à la
 situation sociale, professionnelle et financière ainsi que des informations individuelles relatives à l'existence éventuelle
-de difficultés de santé des personnes physiques bénéficiaires du revenu minimum d'insertion en vue de l'étude de leur
-situation et de leur parcours d'insertion.
+de difficultés de santé des personnes physiques bénéficiaires du revenu minimum d'insertion ou de la prime forfaitaire en vue
+de l'étude de leur situation et de leur parcours d'insertion.
 
 **Liens relatifs à cet article**
 
@@ -56296,6 +57592,10 @@ situation et de leur parcours d'insertion.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1198 du 29 septembre 2006 - art. 1 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
 
 
 ###### Article D262-81
@@ -56396,7 +57696,8 @@ conditions suivantes :
 3° Être âgées de plus de seize ans et de moins de soixante-cinq ans ;
 
 4° Être bénéficiaires ou avoir été bénéficiaires, à titre personnel ou à titre familial, soit du revenu minimum d'insertion,
-soit de l'allocation d'adulte handicapé, soit de l'allocation de solidarité spécifique, soit de l'allocation de parent isolé.
+soit de la prime forfaitaire, soit de l'allocation d'adulte handicapé, soit de l'allocation de solidarité spécifique, soit de
+l'allocation de parent isolé.
 
 **Liens relatifs à cet article**
 
@@ -56408,6 +57709,10 @@ soit de l'allocation d'adulte handicapé, soit de l'allocation de solidarité sp
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 12 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
 
 	**Cité par**:
 
@@ -87060,7 +88365,7 @@ premier alinéa est majorée de 40 % à partir de la troisième personne.
 
 ###### Article R522-3
 
-Les organismes payeurs de l'allocation sont les caisses d'allocations familiales.
+Les organismes payeurs de l'allocation ou de la prime forfaitaire sont les caisses d'allocations familiales.
 
 **Liens relatifs à cet article**
 
@@ -87071,6 +88376,10 @@ Les organismes payeurs de l'allocation sont les caisses d'allocations familiales
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 18 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
 
 
 ##### Section 2 : Organismes instructeurs de l'allocation de revenu minimum d'insertion
@@ -88734,9 +90043,9 @@ code du travail.
 
 ###### Article R522-64
 
-Le droit au revenu de solidarité est ouvert à sa demande à tout bénéficiaire du revenu minimum d'insertion qui a perçu
-l'allocation de façon continue depuis deux ans au moins et s'engage sur l'honneur à n'exercer aucune activité professionnelle
-rémunérée durant la perception du revenu de solidarité.
+Le droit au revenu de solidarité est ouvert à sa demande à tout bénéficiaire du revenu minimum d'insertion ou de la prime
+forfaitaire qui a perçu de façon continue, pendant deux ans au moins, soit l'une ou l'autre prestation, soit les deux et
+s'engage sur l'honneur à n'exercer aucune activité professionnelle rémunérée durant la perception du revenu de solidarité.
 
 Le droit est ouvert à compter du premier jour du mois qui suit la demande, ou du mois où toutes les conditions sont remplies
 si ce mois est postérieur à celui de la demande.
@@ -88745,8 +90054,8 @@ Il est ouvert jusqu'à ce que l'intéressé bénéficie d'une retraite à taux p
 cesse à la fin du mois qui précède celui de l'ouverture du droit à pension de vieillesse dans les conditions prévues par les
 articles L. 351-1 et suivants du code de la sécurité sociale.
 
-Le droit au revenu de solidarité met fin de plein droit au droit au revenu minimum d'insertion à la fin du mois précédant
-l'ouverture du droit au revenu de solidarité.
+Le droit au revenu de solidarité met fin de plein droit au droit au revenu minimum d'insertion et à la prime forfaitaire à la
+fin du mois précédant l'ouverture du droit au revenu de solidarité.
 
 **Liens relatifs à cet article**
 
@@ -88757,6 +90066,10 @@ l'ouverture du droit au revenu de solidarité.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1197 du 29 septembre 2006 - art. 18 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
 
 	**Cité par**:
 
