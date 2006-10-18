@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-10-18
+Version Consolidée au 2006-10-19
 
 # Partie législative
 
@@ -44659,22 +44659,23 @@ Les demandeurs sont entendus par le conseil s'ils le souhaitent. Ils peuvent êt
 
 ###### Article D225-6
 
-L'arrêté du président du conseil général délivrant l'agrément est établi selon le modèle figurant à l'annexe 2-5. La notice
-jointe à cet agrément est établie selon le modèle figurant à l'annexe 2-6.
+L'arrêté du président du conseil général délivrant l'agrément est établi selon le modèle figurant à l'annexe 2-6. La notice
+jointe à cet agrément est établie selon le modèle figurant à l'annexe 2-7.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles annexe 2-5, annexe 2-6
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-981 du 1 août 2006 - art. 1 () JORF 4 août 2006
+	  - Décret n°2006-1272 du 17 octobre 2006 - art. 1
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. Annexe 2-6 (V)
+	  - Code de l'action sociale et des familles - art. Annexe 2-7 (V)
 
 	**Anciens textes**:
 
