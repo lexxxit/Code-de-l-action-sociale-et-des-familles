@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-10-19
+Version Consolidée au 2006-10-26
 
 # Partie législative
 
@@ -40527,9 +40527,11 @@ Le comité national est présidé par le ministre. Il est composé de membres ti
 
 un sénateur désigné par le président du Sénat ;
 
-deux représentants des départements désignés par l'assemblée des départements de France ;
+trois représentants des départements désignés par l'assemblée des départements de France ;
 
 un représentant des communes désigné par l'association des maires de France ;
+
+Un membre du Conseil économique et social désigné par son président ;
 
 un membre de l'inspection générale des affaires sociales désigné par le ministre ;
 
@@ -40570,6 +40572,12 @@ la confédération nationale des retraités des professions libérales ;
 3° Huit personnes qualifiées désignées par le ministre soit à raison de la représentativité des associations ou organismes
 auxquels elles appartiennent, soit à raison de leurs compétences dans le domaine des personnes âgées.
 
+**Nota:**
+
+Décret n° 2009-624 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Comité national
+des retraités et des personnes âgées).
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -40583,7 +40591,7 @@ auxquels elles appartiennent, soit à raison de leurs compétences dans le domai
 
 	**Modifié par**:
 
-	  - Décret n°2006-662 du 7 juin 2006 - art. 9 () JORF 8 juin 2006 en vigueur le 1er août 2006
+	  - Décret n°2006-1305 du 24 octobre 2006 - art. 1 () JORF 26 octobre 2006
 
 	**Cité par**:
 
