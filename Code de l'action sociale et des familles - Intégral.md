@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-10-26
+Version Consolidée au 2006-10-27
 
 # Partie législative
 
@@ -51961,7 +51961,7 @@ auprès d'une association ou d'un organisme à but non lucratif agréés à cett
 
 La limite d'âge maximale pour solliciter la prestation de compensation est fixée à soixante ans. Toutefois, les personnes
 dont le handicap répondait avant l'âge de soixante ans aux critères du I de l'article L. 245-1 peuvent solliciter la
-prestation jusqu'à soixante-cinq ans.
+prestation jusqu'à soixante-quinze ans. 
 
 Cette limite d'âge ne s'applique pas aux bénéficiaires de l'allocation compensatrice optant pour le bénéfice de la prestation
 de compensation en application de l'article 95 de la loi n° 2005-102 du 11 février 2005 pour l'égalité des droits et des
@@ -51975,12 +51975,12 @@ chances, la participation et la citoyenneté des personnes handicapées.
 
 	**Cite**:
 
-	  - Loi n°2005-102 2005-02-11 art. 95
-	  - Code de l'action sociale et des familles - art. L245-1 (M)
+	  - Loi n°2005-102 du 11 février 2005 - art. 95 (V)
+	  - Code de l'action sociale et des familles - art. L245-1 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1591 du 19 décembre 2005 - art. 1 () JORF 20 décembre 2005
+	  - Décret n°2006-1311 du 25 octobre 2006 - art. 4 () JORF 27 octobre 2006
 
 
 ##### Sous-section 3 : Critères de handicaps
@@ -52017,9 +52017,6 @@ définitives, ou d'une durée prévisible d'au moins un an.
 La prestation de compensation prend en charge le besoin d'aides humaines apprécié au moyen du référentiel figurant à l'annexe
 2-5 du code de l'action sociale et des familles.
 
-Lorsque l'aide apportée, pour tout ou partie des actes essentiels, est prise en charge financièrement à un autre titre, le
-temps d'aide correspondant est décompté du temps d'aide humaine pris en compte au titre de la prestation de compensation.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -52030,9 +52027,9 @@ temps d'aide correspondant est décompté du temps d'aide humaine pris en compte
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1591 du 19 décembre 2005 - art. 1 () JORF 20 décembre 2005
+	  - Décret n°2006-1311 du 25 octobre 2006 - art. 3 () JORF 27 octobre 2006
 
 
 ###### Article D245-8
@@ -52042,9 +52039,10 @@ de l'élément lié à un besoin d'aide humaine de la prestation de compensation
 son conjoint, son concubin ou la personne avec laquelle elle a conclu un pacte civil de solidarité ou autre qu'un obligé
 alimentaire du premier degré, à condition que ce dernier n'ait pas fait valoir ses droits à la retraite et qu'il ait cessé ou
 renoncé totalement ou partiellement à une activité professionnelle pour être employé par la personne handicapée. Toutefois,
-lorsque son état nécessite à la fois une aide totale pour la plupart des actes essentiels et une présence due à un besoin de
-soins constants ou quasi constants, la personne handicapée peut utiliser ces sommes pour salarier son conjoint, son concubin
-ou la personne avec laquelle elle a conclu un pacte civil de solidarité.
+lorsque son état nécessite à la fois une aide totale pour la plupart des actes essentiels et une présence constante ou quasi
+constante due à un besoin de soins ou d'aide pour les gestes de la vie quotidienne, la personne handicapée peut utiliser ces
+sommes pour salarier son conjoint, son concubin, la personne avec laquelle elle a conclu un pacte civil de solidarité ou un
+obligé alimentaire du premier degré.
 
 Dans le cas où le membre de la famille salarié par la personne handicapée est son tuteur, le contrat de travail est conclu
 par le subrogé tuteur ou, à défaut de subrogé tuteur, par un tuteur ad hoc nommé par le juge des tutelles. Le contrat de
@@ -52058,13 +52056,9 @@ contrat de travail avec son tuteur ou lorsque le membre de la famille salarié p
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1591 du 19 décembre 2005 - art. 1 () JORF 20 décembre 2005
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L245-12 (V)
+	  - Décret n°2006-1311 du 25 octobre 2006 - art. 1 () JORF 27 octobre 2006
 
 
 ###### Article D245-9
@@ -52448,26 +52442,6 @@ congés.
 	**Créé par**:
 
 	  - Décret n°2005-1591 du 19 décembre 2005 - art. 1 () JORF 20 décembre 2005
-
-
-###### Article D245-21
-
-Sont déduites de l'évaluation des dépenses prises en compte pour l'attribution de la prestation de compensation au titre des
-surcoûts liés au transport les dépenses ouvrant droit à une prise en charge par d'autres organismes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Créé par**:
-
-	  - Décret n°2005-1591 du 19 décembre 2005 - art. 1 () JORF 20 décembre 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-1311 du 25 octobre 2006 - art. 3 () JORF 27 octobre 2006
 
 
 ###### Article D245-22
