@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-10-27
+Version Consolidée au 2006-11-01
 
 # Partie législative
 
@@ -58077,50 +58077,41 @@ Elle peut également tenir informé la personne ou l'organisme gestionnaire.
 
 ###### Article R311-2
 
-Les frais de déplacement, engagés le cas échéant par la personne qualifiée, peuvent être remboursés :
+Les frais de déplacement, engagés le cas échéant par la personne qualifiée, peuvent être remboursés : 
 
 1° Soit en application du décret n° 2001-654 du 19 juillet 2001 fixant les conditions et les modalités de règlement des frais
 occasionnés par les déplacements des personnels des collectivités locales et établissements publics mentionnés à l'article 2
 de la loi n° 84-53 du 26 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique territoriale
 et abrogeant le décret n° 91-573 du 19 juin 1991, pour les personnes accueillies dans des établissements et services
-autorisés par le président du conseil général en application du a) de l'article L. 313-3 ;
+autorisés par le président du conseil général en application du a) de l'article L. 313-3 ; 
 
-2° Soit en application du décret n° 90-437 du 28 mai 1990 fixant les conditions et les modalités de règlement des frais
-occasionnés par les déplacements des personnels civils sur le territoire métropolitain de la France lorsqu'ils sont à la
-charge des budgets de l'Etat, des établissements publics nationaux à caractère administratif et de certains organismes
-subventionnés, pour les personnes accueillies dans des établissements et services autorisés par le représentant de l'Etat en
-application du b) de l'article L. 313-3 ;
+2° Soit en application du décret n° 2006-781 du 3 juillet 2006 fixant les conditions et les modalités de règlement des frais
+occasionnés par les déplacements temporaires des personnels civils de l'Etat, pour les personnes accueillies dans des
+établissements et services autorisés par le représentant de l'Etat en application du b) de l'article L. 313-3 ; 
 
 3° À parts égales, en application de ces mêmes décrets, pour les personnes accueillies dans des établissements et services
-autorisés conjointement par ces mêmes autorités publiques en application du dernier alinéa de l'article L. 313-3.
+autorisés conjointement par ces mêmes autorités publiques en application du dernier alinéa de l'article L. 313-3. 
 
 Les frais de timbres et de téléphone peuvent aussi faire l'objet d'un remboursement sur la base de justificatifs. Le
 remboursement de ces frais est pris en charge selon les cas énoncés aux alinéas précédents par l'Etat ou le département.
-
-**Nota:**
-
-Décret 2006-781 2006-07-03 art. 12 X : Dans tous les textes où il est fait mention, pour les déplacements temporaires, des
-décrets des 12 mars 1986,12 avril 1989,28 mai 1990 et 22 septembre 1998, ces références sont remplacées par celle du présent
-décret à compter du 1er novembre 2006.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°84-53 1984-01-26 art. 2
-	  - Décret n°90-437 1990-05-28
 	  - Décret n°91-573 1991-06-19
 	  - Décret n°2001-654 2001-07-19
+	  - Décret n°2006-781 du 3 juillet 2006 (V)
 	  - Code de l'action sociale et des familles - art. L313-3 (M)
 
 	**Anciens textes**:
 
-	  - Décret n°2003-1094 du 14 novembre 2003 - art. 2, v. init.
 	  - Décret n°2003-1094 du 14 novembre 2003 - art. 2 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2004-1136 2004-10-21
+	  - Décret n°2006-781 du 3 juillet 2006 - art. 12 (V)
 
 
 ##### Sous-section 3 : Conseil de la vie sociale et autres formes de participation
@@ -88671,33 +88662,26 @@ administratifs du département.
 
 ###### Article R522-14
 
-Les fonctions de membre du conseil d'administration sont exercées à titre gratuit.
+Les fonctions de membre du conseil d'administration sont exercées à titre gratuit. 
 
 Toutefois, les membres du conseil d'administration bénéficient du remboursement des frais de déplacement ou de séjour
-effectivement supportés par eux à l'occasion des réunions du conseil, conformément aux dispositions du décret n° 89-271 du 12
-avril 1989 fixant les conditions et les modalités de règlement des frais de déplacement des personnels civils à l'intérieur
-des départements d'outre-mer, entre la métropole et ces départements, et pour se rendre d'un département d'outre-mer à un
-autre.
-
-**Nota:**
-
-Décret 2006-781 2006-07-03 art. 12 X : Dans tous les textes où il est fait mention, pour les déplacements temporaires, des
-décrets des 12 mars 1986,12 avril 1989,28 mai 1990 et 22 septembre 1998, ces références sont remplacées par celle du présent
-décret à compter du 1er novembre 2006.
+effectivement supportés par eux à l'occasion des réunions du conseil, conformément aux dispositions du décret n° 2006-781 du
+3 juillet 2006 fixant les conditions et les modalités de règlement des frais occasionnés par les déplacements temporaires des
+personnels civils de l'Etat.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°89-271 1989-04-12
 
 	**Anciens textes**:
 
 	  - Décret n°95-710 du 9 mai 1995 - art. 8 (Ab)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2004-1136 2004-10-21
+	  - Décret n°2006-781 du 3 juillet 2006 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2006-781 du 3 juillet 2006 - art. 12 (V)
 
 
 ###### Article R522-15
