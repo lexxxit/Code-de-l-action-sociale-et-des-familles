@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-11-03
+Version Consolidée au 2006-11-15
 
 # Partie législative
 
@@ -81013,9 +81013,9 @@ handicapés, ni de toute autre pension ou allocation perçue par ailleurs.
 	  - Code de l'action sociale et des familles - art. D344-38 (M)
 
 
-#### Chapitre V : Centres d'hébergement et de réinsertion sociale
+#### Chapitre V : Centres d'hébergement et de réinsertion sociale et centres d'accueil pour demandeurs d'asile
 
-##### Section 1 : Activités et organisation
+##### Section 1 : Activités et organisation.
 
 ###### Article R345-1
 
@@ -81051,7 +81051,7 @@ La convention précise également les modalités du concours que le centre appor
 
 	**Modifié par**:
 
-	  - Décret n°2006-422 du 7 avril 2006 - art. 30 () JORF 9 avril 2006
+	  - Décret n°2006-1380 du 13 novembre 2006 - art. 1 () JORF 15 novembre 2006
 
 	**Cite**:
 
@@ -81082,6 +81082,10 @@ les conditions prévues à l'article R. 345-3 ainsi que les conditions de leur r
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1380 du 13 novembre 2006 - art. 1 () JORF 15 novembre 2006
 
 	**Cite**:
 
@@ -81115,6 +81119,10 @@ dominante productive ou à dominante occupationnelle. La durée mensuelle de l'a
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1380 du 13 novembre 2006 - art. 1 () JORF 15 novembre 2006
+
 	**Cité par**:
 
 	  - Décret n°2015-1709 du 21 décembre 2015 - art. 1
@@ -81131,7 +81139,7 @@ dominante productive ou à dominante occupationnelle. La durée mensuelle de l'a
 	  - Code du travail - art. L322-4-16 (M)
 
 
-##### Section 2 : Accueil et séjour
+##### Section 2 : Accueil et séjour.
 
 ###### Article R345-4
 
@@ -81169,6 +81177,10 @@ de leurs droits sociaux, en particulier en matière de ressources et de couvertu
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1380 du 13 novembre 2006 - art. 1 () JORF 15 novembre 2006
+
 	**Cité par**:
 
 	  - Décret n°2015-1461 du 10 novembre 2015 - art. (V)
@@ -81202,6 +81214,14 @@ départementale sont définies par arrêté du ministre chargé de l'intégratio
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1380 du 13 novembre 2006 - art. 1 () JORF 15 novembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2007-399 du 23 mars 2007 - art. 3 () JORF 24 mars 2007
+
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. R345-4 (M)
@@ -81221,6 +81241,10 @@ le nombre et la nature de leurs places vacantes au dispositif de veille sociale 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1380 du 13 novembre 2006 - art. 1 () JORF 15 novembre 2006
 
 	**Cite**:
 
@@ -81255,10 +81279,46 @@ La personne accueillie acquitte directement sa contribution à l'établissement 
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1380 du 13 novembre 2006 - art. 1 () JORF 15 novembre 2006
+
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. R314-151 (V)
 	  - Code de l'action sociale et des familles - art. R349-3 (V)
+
+
+##### Section 3 : Centres d'accueil pour demandeurs d'asile.
+
+###### Article R345-8
+
+L'offre de prise en charge dans un centre d'accueil pour demandeurs d'asile mentionné à l'article L. 111-3-1 est faite par le
+préfet compétent pour l'examen de la demande d'admission au séjour du demandeur d'asile.
+
+A Paris, cette offre est faite par le préfet de région Ile-de-France, préfet de Paris.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1380 du 13 novembre 2006 - art. 1 () JORF 15 novembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2007-399 du 23 mars 2007 - art. 3 () JORF 24 mars 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L111-3-1 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R351-6 (VT)
 
 
 #### Chapitre VI : Centre d'accueil et de soins hospitaliers de Nanterre.
