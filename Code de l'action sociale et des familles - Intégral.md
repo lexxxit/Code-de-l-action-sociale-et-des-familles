@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-11-15
+Version Consolidée au 2006-12-22
 
 # Partie législative
 
@@ -3329,6 +3329,39 @@ professionnel dans les termes des articles 226-13 et 226-14 du code pénal et pa
 	  - Code de l'action sociale et des familles - art. L232-26 (V)
 
 
+###### Article L133-5-1
+
+Lorsqu'elles instruisent les demandes d'admission au bénéfice des prestations régies par le présent code ou qu'elles exercent
+leurs missions de contrôle et d'évaluation, les autorités attribuant ces prestations échangent, avec les personnes morales de
+droit public ou les personnes morales de droit privé gérant un service public, les informations ou les pièces justificatives
+ayant pour objet d'apprécier la situation des demandeurs ou des bénéficiaires au regard des conditions d'attribution. De
+même, les personnes morales de droit public et les personnes morales de droit privé gérant un service public tiennent ces
+autorités informées, périodiquement ou sur demande de celles-ci, des changements de situation ou des événements affectant les
+bénéficiaires et pouvant avoir une incidence sur le versement des prestations. 
+
+Ces échanges d'informations ou de pièces justificatives peuvent prendre la forme de transmissions de données par voie
+électronique. Les traitements automatisés de données qui se limitent à l'organisation de ces échanges, notamment en vue de
+garantir l'authenticité et la fiabilité des données échangées, sont soumis aux dispositions de la loi n° 78-17 du 6 janvier
+1978 relative à l'informatique, aux fichiers et aux libertés, dès lors que les informations et pièces justificatives
+échangées au titre d'une prestation sont celles définies par les dispositions législatives et réglementaires relatives à
+cette prestation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2006-1640 du 21 décembre 2006 - art. 139 () JORF 22 décembre 2006
+
+
 ###### Article L133-6
 
 Nul ne peut exploiter ni diriger l'un quelconque des établissements, services ou lieux de vie et d'accueil régis par le
@@ -5538,8 +5571,8 @@ recouvrée dans les mêmes conditions et sous les mêmes garanties que lesdites 
 
 2° Une contribution additionnelle au prélèvement social mentionné à l'article L. 245-14 du code de la sécurité sociale et une
 contribution additionnelle au prélèvement social mentionné à l'article L. 245-15 du même code. Ces contributions
-additionnelles sont assises, contrôlées, recouvrées et exigibles dans les mêmes conditions que celles applicables à ces
-prélèvements sociaux. Leur taux est fixé à 0,3 % ;
+additionnelles sont assises, contrôlées, recouvrées et exigibles dans les mêmes conditions et sous les mêmes sanctions que
+celles applicables à ces prélèvements sociaux. Leur taux est fixé à 0,3 % ;
 
 3° Une fraction de 0,1 point du produit des contributions sociales mentionnées aux articles L. 136-1, L. 136-6, L. 136-7 et
 L. 136-7-1 du même code ;
@@ -5567,14 +5600,9 @@ est répartie entre les régimes au prorata  des charges qui leur sont imputable
 	  - Loi n°2004-626 2004-06-30 art. 11
 	  - Loi n°2004-626 du 30 juin 2004 - art. 11 (Ab)
 
-	**Créé par**:
-
-	  - Loi n°2005-102 du 11 février 2005 - art. 55 (V) JORF 12 février 2005
-	  - Loi n°2005-102 du 11 février 2005 - art. 60 () JORF 12 février 2005
-
 	**Modifié par**:
 
-	  - Loi n°2005-102 du 11 février 2005 - art. 55 (V)
+	  - Loi n°2006-1640 du 21 décembre 2006 - art. 20 (V) JORF 22 décembre 2006
 
 	**Cité par**:
 
@@ -5659,6 +5687,9 @@ b) En charges, le remboursement aux régimes d'assurance maladie des charges aff
 Les opérations comptables relatives aux produits et aux charges de la présente section sont effectuées simultanément à la
 clôture des comptes de l'exercice.
 
+La dotation globale versée à l'agence mentionnée à l'article L. 312-8 est imputée sur le financement à la charge des
+organismes de sécurité sociale soumis à l'objectif de dépenses mentionné à l'article L. 314-3.
+
 II. - Une section consacrée à la prestation d'allocation personnalisée d'autonomie mentionnée à l'article L. 232-1. Elle
 retrace :
 
@@ -5670,6 +5701,9 @@ b) En charges, un concours versé aux départements dans la limite des ressource
 partie du coût de l'allocation personnalisée d'autonomie. Le montant de ce concours est réparti selon les modalités prévues à
 l'article L. 14-10-6.
 
+Est également retracée en charges la subvention due à la Caisse nationale des allocations familiales en application de
+l'article L. 381-1 du code de la sécurité sociale lorsque la personne aidée est une personne âgée.
+
 III. - Une section consacrée à la prestation de compensation mentionnée à l'article L. 245-1. Elle retrace :
 
 a) En ressources, une fraction au moins égale à 26 % et au plus égale à 30 % du produit des contributions visées aux 1° et 2°
@@ -5680,26 +5714,39 @@ partie du coût de la prestation de compensation et un concours versé pour l'in
 départementales des personnes handicapées. Les montants de ces concours sont répartis selon les modalités prévues à l'article
 L. 14-10-7.
 
-Est également retracée en charges la subvention due à la Caisse nationale d'allocations familiales en application de
-l'article L. 541-4 du code de la sécurité sociale.
+Sont également retracées en charges les subventions dues à la Caisse nationale d'allocations familiales en application des
+articles L. 381-1 du code de la sécurité sociale, lorsque la personne aidée est une personne handicapée, et L. 541-4 du même
+code.
 
 Avant imputation des contributions aux sections mentionnées aux V et VI, l'ensemble des ressources destinées aux personnes
 handicapées, soit au titre des établissements et services financés par la sous-section mentionnée au 1 du I, soit au titre de
 la présente section, doit totaliser 40 % du produit des contributions visées aux 1° et 2° de l'article L. 14-10-4.
 
 IV. - Une section consacrée à la promotion des actions innovantes et au renforcement de la professionnalisation des métiers
-de service en faveur des personnes âgées. Elle retrace :
+de service, qui est divisée en deux sous-sections.
 
-a) En ressources, une fraction du produit visé au 3° de l'article L. 14-10-4, fixée par arrêté conjoint des ministres chargés
-de l'action sociale, de la sécurité sociale et du budget, qui ne peut être inférieure à 5 % ni supérieure à 12 % de ce
-produit ;
+1. La première sous-section, consacrée aux personnes âgées, retrace :
+
+a) En ressources, une fraction du produit mentionné au 3° de l'article L. 14-10-4, fixée par arrêté conjoint des ministres
+chargés de l'action sociale, de la sécurité sociale et du budget, qui ne peut être inférieure à 5 % ni supérieure à 12 % de
+ce produit ;
 
 b) En charges, le financement de dépenses de modernisation des services ou de professionnalisation des métiers qui apportent
 au domicile des personnes âgées dépendantes une assistance dans les actes quotidiens de la vie, ainsi que de dépenses de
 formation et de qualification des personnels soignants recrutés dans le cadre des mesures de médicalisation des
 établissements et services mentionnés au 3° de l'article L. 314-3-1.
 
-Les projets financés par cette section doivent être agréés par l'autorité compétente de l'Etat, qui recueille le cas échéant,
+2. La deuxième sous-section, consacrée aux personnes handicapées, retrace :
+
+a) En ressources, une part de la fraction du produit des contributions mentionnées aux 1° et 2° de l'article L. 14-10-4
+affectée au a du 1 du I du présent article ; cette part est fixée par arrêté conjoint des ministres chargés de l'action
+sociale, de la sécurité sociale et du budget dans la limite de 12 % de cette fraction ;
+
+b) En charges, le financement de dépenses de modernisation des services ou de professionnalisation des métiers qui apportent
+au domicile des personnes handicapées une assistance dans les actes quotidiens de la vie, ainsi que de dépenses de formation
+et de qualification des personnels soignants des établissements et services mentionnés au 1° de l'article L. 314-3-1.
+
+Les projets financés par cette section doivent être agréés par l'autorité compétente de l'Etat qui recueille, le cas échéant,
 dans les cas et conditions fixés par voie réglementaire, l'avis préalable de la Caisse nationale de solidarité pour
 l'autonomie.
 
@@ -5803,15 +5850,19 @@ de la Caisse nationale de solidarité pour l'autonomie.
 
 	**Modifié par**:
 
-	  - Loi n°2005-1579 du 19 décembre 2005 - art. 51 (V) JORF 20 décembre 2005
+	  - Loi n°2006-1640 du 21 décembre 2006 - art. 125 () JORF 22 décembre 2006
+	  - Loi n°2006-1640 du 21 décembre 2006 - art. 85 () JORF 22 décembre 2006
+	  - Loi n°2006-1640 du 21 décembre 2006 - art. 89 () JORF 22 décembre 2006
 
 	**Cite**:
 
+	  - Code de la sécurité sociale. - art. L381-1 (M)
 	  - Code de la sécurité sociale. - art. L541-4 (V)
 	  - Code de l'action sociale et des familles - art. L114-1-1 (V)
 	  - Code de l'action sociale et des familles - art. L14-10-8 (V)
 	  - Code de l'action sociale et des familles - art. L232-1 (M)
 	  - Code de l'action sociale et des familles - art. L245-1 (M)
+	  - Code de l'action sociale et des familles - art. L312-8 (M)
 	  - Code de l'action sociale et des familles - art. L314-3-1 (M)
 
 
@@ -15509,6 +15560,40 @@ servant au calcul de l'allocation."
 	  - Code du travail - art. L322-4-15-6 (M)
 
 
+###### Article L262-10-1
+
+Lorsqu'il est constaté par l'organisme local de sécurité sociale, à l'occasion de l'instruction d'une demande ou lors d'un
+contrôle, une disproportion marquée entre, d'une part, le train de vie du demandeur ou du bénéficiaire et, d'autre part, les
+ressources qu'il déclare, une évaluation forfaitaire des éléments de train de vie est effectuée. Cette évaluation forfaitaire
+est prise en compte pour la détermination du droit à la prestation.
+
+Les éléments de train de vie à prendre en compte, qui comprennent notamment le patrimoine mobilier ou immobilier, sont ceux
+dont la personne a disposé au cours de la période correspondant à la déclaration de ses ressources, en quelque lieu que ce
+soit, en France ou à l'étranger, et à quelque titre que ce soit.
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2006-1640 du 21 décembre 2006 - art. 132 () JORF 22 décembre 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2008-1249 du 1er décembre 2008 - art. 3
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R262-22-1 (VT)
+	  - Code de l'action sociale et des familles - art. R262-22-4 (VT)
+
+
 ###### Article L262-11
 
 Les rémunérations tirées d'activités professionnelles ou de stages de formation qui ont commencé au cours de la période de
@@ -20524,28 +20609,47 @@ Les mesures d'application du présent article sont, en tant que de besoin, déte
 
 Les établissements et services mentionnés à l'article L. 312-1 procèdent à l'évaluation de leurs activités et de la qualité
 des prestations qu'ils délivrent, au regard notamment de procédures, de références et de recommandations de bonnes pratiques
-professionnelles validées ou, en cas de carence, élaborées, selon les catégories d'établissements ou de services, par un
-Conseil national de l'évaluation sociale et médico-sociale, placé auprès du ministre chargé de l'action sociale. Les
-résultats de l'évaluation sont communiqués tous les cinq ans à l'autorité ayant délivré l'autorisation.
+professionnelles validées ou, en cas de carence, élaborées, selon les catégories d'établissements ou de services, par
+l'Agence nationale de l'évaluation et de la qualité des établissements et services sociaux et médico-sociaux. Les résultats
+de l'évaluation sont communiqués tous les cinq ans à l'autorité ayant délivré l'autorisation.
 
 Les établissements et services font procéder à l'évaluation de leurs activités et de la qualité des prestations qu'ils
 délivrent par un organisme extérieur. Les organismes habilités à y procéder doivent respecter un cahier des charges fixé par
-décret. La liste de ces organismes est établie par arrêté du ministre chargé de l'action sociale, après avis du Conseil
-national de l'évaluation sociale et médico-sociale. Les résultats de cette évaluation sont également communiqués à l'autorité
-ayant délivré l'autorisation.
+décret. La liste de ces organismes est établie par l'Agence nationale de l'évaluation et de la qualité des établissements et
+services sociaux et médico-sociaux. Les résultats de cette évaluation sont également communiqués à l'autorité ayant délivré
+l'autorisation.
 
 Elle doit être effectuée au cours des sept années suivant l'autorisation ou son renouvellement et au moins deux ans avant la
 date de celui-ci.
 
 Un organisme ne peut procéder à des évaluations que pour les catégories d'établissements et de services pour lesquels les
-procédures, références et recommandations de bonnes pratiques professionnelles ont été validées ou élaborées par le Conseil
-national de l'évaluation sociale et médico-sociale.
+procédures, références et recommandations de bonnes pratiques professionnelles ont été validées ou élaborées par l'Agence
+nationale de l'évaluation et de la qualité des établissements et services sociaux et médico-sociaux.
 
-Ce conseil, dont les missions et les modalités de fonctionnement sont fixées par décret en Conseil d'Etat, est composé de
-représentants de l'Etat, des collectivités territoriales, des organismes de protection sociale, des usagers, des institutions
-sociales et médico-sociales, des personnels et de personnalités qualifiées, dont un représentant du Conseil national
-représentatif des personnes âgées, du Conseil national consultatif des personnes handicapées et du Conseil national des
-politiques de lutte contre la pauvreté et l'exclusion sociale.
+L'Agence nationale de l'évaluation et de la qualité des établissements et services sociaux et médico-sociaux prend ses
+décisions après avis d'un conseil scientifique indépendant dont la composition est fixée par décret. Elle est un groupement
+d'intérêt public constitué entre l'Etat, la Caisse nationale de solidarité pour l'autonomie et d'autres personnes morales
+conformément aux articles L. 341-1 à L. 341-4 du code de la recherche, sous réserve des dispositions suivantes :
+
+1° Les ressources de l'agence sont notamment constituées par :
+
+a) Des subventions de l'Etat ;
+
+b) Une dotation globale versée par la Caisse nationale de solidarité pour l'autonomie ;
+
+c) Une contribution financière perçue en contrepartie des services rendus par l'agence aux organismes gérant des
+établissements et services sociaux et médico-sociaux relevant du I de l'article L. 312-1.
+
+Un décret en Conseil d'Etat détermine les modalités d'application du présent 1° ;
+
+2° Outre les personnes mentionnées à l'article L. 341-4 du code de la recherche, le personnel de l'agence peut comprendre des
+fonctionnaires régis par le statut général de la fonction publique de l'Etat, de la fonction publique territoriale ou de la
+fonction publique hospitalière, placés en position de détachement, des agents contractuels de droit public régis par les
+dispositions applicables aux agents non titulaires de la fonction publique de l'Etat, de la fonction publique territoriale ou
+de la fonction publique hospitalière, recrutés par l'agence, ainsi que des agents contractuels de droit privé également
+recrutés par l'agence ;
+
+3° Le directeur de l'agence est nommé par décret.
 
 **Liens relatifs à cet article**
 
@@ -20638,13 +20742,11 @@ politiques de lutte contre la pauvreté et l'exclusion sociale.
 
 	**Modifié par**:
 
-	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 14 I, VI, art. 22 JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 14 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 22 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2006-1640 du 21 décembre 2006 - art. 85 () JORF 22 décembre 2006
 
 	**Cite**:
 
+	  - Code de la recherche L341-1 à L341-4
 	  - Code de l'action sociale et des familles - art. L312-1 (M)
 
 
@@ -20699,33 +20801,33 @@ Les modalités d'application du présent article sont fixées par décret en Con
 ###### Article L313-1
 
 La création, la transformation ou l'extension des établissements et services mentionnés à l'article L. 312-1 sont soumises à
-autorisation, sous réserve des dispositions de l'article L. 313-1-1.
+autorisation, sous réserve des dispositions de l'article L. 313-1-1. 
 
 La section sociale du Comité national de l'organisation sanitaire et sociale ou le comité régional de l'organisation sociale
 et médico-sociale compétent émet un avis sur tous les projets de création ainsi que sur les projets de transformation et
 d'extension portant sur une capacité supérieure à un seuil fixé par décret en Conseil d'Etat d'établissements ou de services
-de droit public ou privé. Cet avis peut être rendu selon une procédure simplifiée.
+de droit public ou privé. Cet avis peut être rendu selon une procédure simplifiée. 
 
 En outre, le comité de coordination régional de l'emploi et de la formation professionnelle et le conseil régional émettent
 un avis sur tous les projets de création, d'extension ou de transformation des établissements visés au b du 5° du I de
-l'article L. 312-1.
+l'article L. 312-1. 
 
 Sauf pour les établissements et services mentionnés au 4° du I de l'article L. 312-1, l'autorisation est accordée pour une
 durée de quinze ans. Le renouvellement, total ou partiel, est exclusivement subordonné aux résultats de l'évaluation externe
 mentionnée au deuxième alinéa de l'article L. 312-8.
 
-A titre transitoire, la première autorisation délivrée aux centres spécialisés de soins aux toxicomanes et aux centres
-d'accueil et d'accompagnement à la réduction des risques pour usagers de drogue conformément aux dispositions du présent
-article a une durée de trois ans.
+A titre transitoire, la première autorisation délivrée aux centres de soins, d'accompagnement et de prévention en
+addictologie et aux centres d'accueil et d'accompagnement à la réduction des risques pour usagers de drogue conformément aux
+dispositions du présent article a une durée de trois ans. 
 
 Toute autorisation est caduque si elle n'a pas reçu un commencement d'exécution dans un délai de trois ans à compter de sa
-date de notification.
+date de notification. 
 
 Lorsque l'autorisation est accordée à une personne physique ou morale de droit privé, elle ne peut être cédée qu'avec
-l'accord de l'autorité compétente concernée.
+l'accord de l'autorité compétente concernée. 
 
 Tout changement important dans l'activité, l'installation, l'organisation, la direction ou le fonctionnement d'un
-établissement ou d'un service soumis à autorisation doit être porté à la connaissance de l'autorité compétente.
+établissement ou d'un service soumis à autorisation doit être porté à la connaissance de l'autorité compétente. 
 
 Les dispositions du présent article sont applicables aux couples ou aux personnes qui accueillent habituellement de manière
 temporaire ou permanente, à temps complet ou partiel, à leur domicile, à titre onéreux, plus de trois personnes âgées ou
@@ -20846,12 +20948,11 @@ handicapées adultes.
 
 	**Modifié par**:
 
-	  - Loi n°2005-1579 2005-12-19 art. 50 IV, V JORF 20 décembre 2005
-	  - Loi n°2005-1579 du 19 décembre 2005 - art. 50 (V) JORF 20 décembre 2005
+	  - Loi n°2006-1640 du 21 décembre 2006 - art. 92 (V) JORF 22 décembre 2006
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L312-8 (M)
+	  - Code de l'action sociale et des familles - art. L312-8 (V)
 
 
 ###### Article L313-1-1
@@ -20861,8 +20962,7 @@ du I de l'article L. 312-1 sont soumises, à la demande de l'organisme gestionna
 
 1° Soit à l'autorisation prévue à la présente section  ;
 
-2° Soit, à condition qu'ils remplissent la condition d'activité exclusive prévue par les dispositions de l'article L. 129-1
-du code du travail, à l'agrément prévu par ce même article.
+2° Soit à l'agrément prévu à l'article L. 129-1 du code du travail.
 
 Les services auxquels un agrément est délivré en vertu du 2° sont tenus de conclure un contrat dans les mêmes conditions que
 celles prévues au premier alinéa de l'article L. 342-2. Les dispositions des articles L. 311-3 et L. 311-4 relatives au
@@ -20879,9 +20979,13 @@ sociale, intervenir auprès des bénéficiaires de l'allocation personnalisée d
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 4 () JORF 2 décembre 2005
+	  - Loi n°2006-1640 du 21 décembre 2006 - art. 14 () JORF 22 décembre 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2009-879 du 21 juillet 2009 - art. 124 (V)
 
 	**Cité par**:
 
@@ -20928,6 +21032,10 @@ sociale, intervenir auprès des bénéficiaires de l'allocation personnalisée d
 	  - Code de l'action sociale et des familles - art. L312-8 (M)
 	  - Code de l'action sociale et des familles - art. L331-1 (M)
 	  - Code de l'action sociale et des familles - art. L342-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. L313-1-2 (VD)
 
 
 ###### Article L313-2
@@ -21686,9 +21794,12 @@ chargé des personnes âgées fixe les conditions dans lesquelles sera recueilli
 l'organisation sanitaire ou celui du comité régional de l'organisation sociale et médico-sociale nécessaire à la délivrance
 de l'autorisation de dispenser des soins.
 
-V. - Le personnel des établissements publics mentionnés au I peut comprendre des médecins, des biologistes, des
-odontologistes et des pharmaciens visés par l'article L. 6152-1 du code de la santé publique. Les établissements privés
-mentionnés au I peuvent faire appel à ces praticiens dans les conditions prévues par les statuts de ces derniers.
+V. -  Le personnel des établissements mentionnés au I comprend un médecin coordonnateur dont les missions sont définies par
+décret. Le médecin coordonnateur de l'établissement est associé à l'élaboration et à la mise en oeuvre des contrats prévus à
+l'article L. 183-1-1 du code de la sécurité sociale. Le personnel des établissements publics mentionnés au I peut comprendre
+des médecins, des biologistes, des odontologistes et des pharmaciens visés par l'article L. 6152-1 du code de la santé
+publique. Les établissements privés mentionnés au I peuvent faire appel à ces praticiens dans les conditions prévues par les
+statuts de ces derniers.
 
 **Liens relatifs à cet article**
 
@@ -21899,12 +22010,13 @@ mentionnés au I peuvent faire appel à ces praticiens dans les conditions prév
 
 	**Modifié par**:
 
-	  - Loi n°2005-1579 du 19 décembre 2005 - art. 48 () JORF 20 décembre 2005
+	  - Loi n°2006-1640 du 21 décembre 2006 - art. 88 () JORF 22 décembre 2006
 
 	**Cite**:
 
 	  - Code de la santé publique - art. L6111-2 (V)
 	  - Code de la santé publique - art. L6152-1 (M)
+	  - Code de la sécurité sociale. - art. L183-1-1 (M)
 	  - Code de l'action sociale et des familles - art. L232-2 (M)
 	  - Code de l'action sociale et des familles - art. L312-1 (M)
 	  - Code de l'action sociale et des familles L312-1, L232-2, L314-2, L232-3 à L232-7
@@ -22792,15 +22904,15 @@ charge des organismes de sécurité sociale est soumis à un objectif de dépens
 Cet objectif est fixé chaque année par arrêté des ministres chargés de la sécurité sociale, de l'action sociale, de
 l'économie et du budget en fonction, d'une part, d'une contribution des régimes d'assurance maladie fixée par le même arrêté
 au sein de l'objectif national de dépenses d'assurance maladie voté par le Parlement et, d'autre part, du montant
-prévisionnel des produits mentionnés aux 1° et 2° de l'article L. 14-10-4.
+prévisionnel des produits mentionnés aux 1° et 2° de l'article L. 14-10-4 ainsi, le cas échéant, que de tout ou partie du
+montant prévisionnel de l'excédent de la section mentionnée au I de l'article L. 14-10-5.
 
 Il prend en compte l'impact des éventuelles modifications des règles de tarification des prestations, ainsi que celui des
 changements de régime de financement des établissements et services concernés.
 
-Sur la base de cet objectif, et après imputation de la part mentionnée à l'article L. 162-43 du code de la sécurité sociale,
-les mêmes ministres arrêtent, dans les quinze jours qui suivent la publication de la loi de financement de la sécurité
-sociale, le montant total annuel des dépenses prises en compte pour le calcul des dotations globales, forfaits, prix de
-journée et tarifs afférents aux prestations mentionnées au premier alinéa.
+Sur la base de cet objectif, les mêmes ministres arrêtent, dans les quinze jours qui suivent la publication de la loi de
+financement de la sécurité sociale, le montant total annuel des dépenses prises en compte pour le calcul des dotations
+globales, forfaits, prix de journée et tarifs afférents aux prestations mentionnées au premier alinéa.
 
 II. - Le montant total annuel mentionné au dernier alinéa du I est réparti par la Caisse nationale de solidarité pour
 l'autonomie en dotations régionales limitatives.
@@ -22884,7 +22996,8 @@ de bénéficiaires ou à certaines prestations.
 
 	**Modifié par**:
 
-	  - Loi n°2005-102 du 11 février 2005 - art. 59 () JORF 12 février 2005
+	  - Loi n°2006-1640 du 21 décembre 2006 - art. 89 () JORF 22 décembre 2006
+	  - Loi n°2006-1640 du 21 décembre 2006 - art. 94 (V) JORF 22 décembre 2006
 
 	**Cite**:
 
@@ -22958,10 +23071,9 @@ expérimentales mentionnés à l'article L. 314-3-3 et, d'autre part, le montant
 le calcul des dotations globales, forfaits, prix de journée et tarifs afférents aux prestations servies par ces mêmes
 établissements.
 
-L'objectif susmentionné est fixé en fonction de l'objectif national de dépenses d'assurance maladie voté par le Parlement et
-après imputation de la part mentionnée à l'article L. 162-43 du code de la sécurité sociale. Il prend en compte l'impact des
-éventuelles modifications des règles de tarification des prestations, ainsi que celui des changements de régime de
-financement des établissements et services concernés.
+L'objectif susmentionné est fixé en fonction de l'objectif national de dépenses d'assurance maladie voté par le Parlement. Il
+prend en compte l'impact des éventuelles modifications des règles de tarification des prestations, ainsi que celui des
+changements de régime de financement des établissements et services concernés.
 
 Le montant total annuel susmentionné est constitué en dotations régionales limitatives. Le montant de ces dotations est fixé
 par les ministres chargés de l'action sociale et de la sécurité sociale, en fonction des besoins de la population, des
@@ -22981,9 +23093,9 @@ dans le département en dotations affectées par catégories de bénéficiaires 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2005-1579 du 19 décembre 2005 - art. 50 (V) JORF 20 décembre 2005
+	  - Loi n°2006-1640 du 21 décembre 2006 - art. 94 (V) JORF 22 décembre 2006
 
 	**Cité par**:
 
@@ -23014,13 +23126,9 @@ dans le département en dotations affectées par catégories de bénéficiaires 
 
 Relèvent de l'objectif et du montant total mentionnés à l'article L. 314-3-2 les établissements suivants :
 
-1° Les centres spécialisés de soins aux toxicomanes mentionnés à l'article L. 314-8 ;
-
-2° Les centres de cure ambulatoire en alcoologie mentionnés à l'article L. 3311-2 du code de la santé publique ;
-
-3° Les appartements de coordination thérapeutique, les centres d'accueil et d'accompagnement à la réduction des risques pour
-usagers de drogue et les structures dénommées lits halte soins santé mentionnés au 9° du I de l'article L. 312-1 du présent
-code.
+Les appartements de coordination thérapeutique, les centres d'accueil et d'accompagnement à la réduction des risques pour
+usagers de drogue, les centres de soins, d'accompagnement et de prévention en addictologie et les structures dénommées lits
+halte soins santé mentionnés au 9° du I de l'article L. 312-1 du présent code.
 
 Relèvent également du même objectif les actions expérimentales de caractère médical et social mentionnées à l'article L.
 162-31 du code de la sécurité sociale.
@@ -23032,9 +23140,9 @@ Relèvent également du même objectif les actions expérimentales de caractère
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2005-1579 du 19 décembre 2005 - art. 50 (V) JORF 20 décembre 2005
+	  - Loi n°2006-1640 du 21 décembre 2006 - art. 92 (V) JORF 22 décembre 2006
 
 	**Cité par**:
 
@@ -23052,10 +23160,8 @@ Relèvent également du même objectif les actions expérimentales de caractère
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L3311-2 (M)
 	  - Code de la sécurité sociale. - art. L162-31 (V)
 	  - Code de l'action sociale et des familles - art. L312-1 (M)
-	  - Code de l'action sociale et des familles - art. L314-8 (M)
 
 
 ###### Article L314-3-4
@@ -23421,34 +23527,35 @@ décret en Conseil d'Etat.
 ###### Article L314-8
 
 Les modalités de fixation de la tarification des établissements et services mentionnés au I de l'article L. 312-1 sont
-déterminées par un décret en Conseil d'Etat qui prévoit notamment :
+déterminées par un décret en Conseil d'Etat qui prévoit notamment : 
 
 1° Les conditions et modalités de la tarification de certains établissements ou services, sous forme de prix de journée,
 tarifs de prestations ou forfaits journaliers et les modalités de globalisation des financements sous forme de forfaits
-annuels ou de dotations globales ;
+annuels ou de dotations globales ; 
 
 2° Les conditions dans lesquelles les personnes accueillies temporairement peuvent être dispensées d'acquitter tout ou partie
-des frais afférents à leur prise en charge.
+des frais afférents à leur prise en charge. 
 
-L'accueil temporaire est défini par voie réglementaire.
+L'accueil temporaire est défini par voie réglementaire. 
 
 Les dépenses de fonctionnement des appartements de coordination thérapeutique mentionnés au 9° du I de l'article L. 312-1
-sont prises en charge par les régimes d'assurance maladie, sans préjudice d'une participation des collectivités locales.
+sont prises en charge par les régimes d'assurance maladie, sans préjudice d'une participation des collectivités locales. 
 
-Les dépenses médico-sociales des centres spécialisés de soins aux toxicomanes et des structures dénommées "lits halte soins
-santé" relevant des catégories d'établissements mentionnées au 9° du I de l'article L. 312-1 sont prises en charge par
-l'assurance maladie sans préjudice d'autres participations, notamment des collectivités locales, et sans qu'il soit fait
-application des dispositions du code de la sécurité sociale et du code rural relatives à l'ouverture du droit aux prestations
-couvertes par les régimes de base, au remboursement de la part garantie par l'assurance maladie, à la participation de
-l'assuré aux tarifs servant de base aux remboursements, ainsi qu'au forfait mentionné à l'article L. 174-4 du code de la
-sécurité sociale.
+Les dépenses médico-sociales des centres de soins, d'accompagnement et de prévention en addictologie et des structures
+dénommées " lits halte soins santé " relevant des catégories d'établissements mentionnées au 9° du I de l'article L. 312-1
+sont prises en charge par l'assurance maladie sans préjudice d'autres participations, notamment des collectivités locales, et
+sans qu'il soit fait application des dispositions du code de la sécurité sociale et du code rural relatives à l'ouverture du
+droit aux prestations couvertes par les régimes de base, au remboursement de la part garantie par l'assurance maladie, à la
+participation de l'assuré aux tarifs servant de base aux remboursements, ainsi qu'au forfait mentionné à l'article L. 174-4
+du code de la sécurité sociale. 
 
 Dans les établissements et services mentionnés au 6° du I de l'article L. 312-1 qui ne disposent pas de pharmacie à usage
 intérieur ou qui ne sont pas membres d'un groupement de coopération sanitaire, les prestations de soins mentionnées au 1° de
 l'article L. 314-2 ne comprennent pas l'achat, la fourniture, la prise en charge et l'utilisation de médicaments inscrits sur
 la liste des spécialités pharmaceutiques remboursables mentionnées à l'article, L. 162-17 du code de la sécurité sociale, ni
 ceux des produits et prestations mentionnés à l'article L. 165-1 du même code, à l'exception de certains dispositifs médicaux
-dont la liste est fixée par arrêté. Ces dispositions sont applicables à compter du 1er janvier 2007.
+dont la liste est fixée par arrêté. Ces dispositions s'appliquent à compter du 1er janvier 2008. Elles sont applicables aux
+conventions mentionnées au I de l'article L. 313-12 en cours à cette date.
 
 **Liens relatifs à cet article**
 
@@ -23488,15 +23595,16 @@ dont la liste est fixée par arrêté. Ces dispositions sont applicables à comp
 
 	**Modifié par**:
 
-	  - Loi n°2005-1579 2005-12-19 art. 48 II, art. 50 IV, V JORF 20 décembre 2005
-	  - Loi n°2005-1579 du 19 décembre 2005 - art. 48 () JORF 20 décembre 2005
-	  - Loi n°2005-1579 du 19 décembre 2005 - art. 50 (V) JORF 20 décembre 2005
+	  - Loi n°2006-1640 du 21 décembre 2006 - art. 88 () JORF 22 décembre 2006
+	  - Loi n°2006-1640 du 21 décembre 2006 - art. 92 (V) JORF 22 décembre 2006
 
 	**Cite**:
 
-	  - Code de la sécurité sociale. - art. L165-1 (MMN)
+	  - Code de la sécurité sociale. - art. L162-17 (V)
+	  - Code de la sécurité sociale. - art. L165-1 (V)
 	  - Code de la sécurité sociale. - art. L174-4 (M)
-	  - Code de l'action sociale et des familles - art. L312-1 (M)
+	  - Code de l'action sociale et des familles - art. L312-1 (VT)
+	  - Code de l'action sociale et des familles - art. L313-12 (V)
 	  - Code de l'action sociale et des familles - art. L314-2 (M)
 
 
