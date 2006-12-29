@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-12-27
+Version Consolidée au 2006-12-30
 
 # Partie législative
 
@@ -42897,7 +42897,10 @@ plan national ;
 métiers et de l'artisanat et la chambre d'agriculture ;
 
 13° trois personnes qualifiées dans le domaine de l'accueil des jeunes enfants et de la conciliation de la vie familiale et
-de la vie professionnelle, sur proposition du préfet.
+de la vie professionnelle, sur proposition du préfet ;
+
+14° Deux représentants des particuliers employeurs d'assistants maternels et de gardes de jeunes enfants au domicile
+parental, désignés par la Fédération nationale des particuliers employeurs.
 
 En cas de pluralité de caisses d'allocations familiales dans le département, les présidents des conseils d'administration
 désignent d'un commun accord celui qui est chargé de les représenter. Les directeurs en font de même pour désigner les deux
@@ -42921,7 +42924,7 @@ La liste des membres de la commission est arrêtée par le président du conseil
 
 	**Modifié par**:
 
-	  - Décret n°2004-1164 du 2 novembre 2004 - art. 1 () JORF 4 novembre 2004
+	  - Décret n°2006-1753 du 23 décembre 2006 - art. 4 () JORF 30 décembre 2006
 
 	**Cité par**:
 
