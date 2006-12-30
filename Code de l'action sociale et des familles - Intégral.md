@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-12-30
+Version Consolidée au 2006-12-31
 
 # Partie législative
 
@@ -34813,60 +34813,72 @@ avis conforme de l'agent comptable.
 ###### Article D121-27
 
 L'agrément est délivré par l'Agence nationale pour la cohésion sociale et l'égalité des chances à la personne morale de droit
-public ou privé ayant une mission d'intérêt général ou d'insertion professionnelle qui :
+public ou privé ayant une mission d'intérêt général ou d'insertion professionnelle qui : 
 
-1° Est reconnue pour son expérience et la qualité de son intervention dans des actions d'intérêt général ;
+1° Est reconnue pour son expérience et la qualité de son intervention dans des actions d'intérêt général ; 
 
 2° Dispose d'une activité ou d'un programme d'activités d'intérêt général susceptibles d'être confiées à des jeunes âgés de
 seize à vingt-cinq ans révolus justifiant d'une résidence régulière et continue de plus d'un an en France et conformes à la
-nature de sa mission générale ;
+nature de sa mission générale ; 
 
 3° Présente les garanties nécessaires à un accompagnement individualisé des jeunes accueillis, au regard des obligations
 attachées au service civil volontaire, notamment en ce qui concerne la formation aux valeurs civiques et le tutorat, définies
-respectivement aux articles D. 121-30 et D. 121-31 ;
+respectivement aux articles D. 121-30 et D. 121-31 ; 
 
-4° Dispose d'au moins un salarié chargé de l'encadrement de la structure ;
+4° Dispose d'au moins un salarié chargé de l'encadrement de la structure ; 
 
 5° Est à jour de ses cotisations sociales et fiscales et offre des garanties financières suffisantes au bon déroulement des
-missions agréées ;
+missions agréées ; 
 
 6° S'engage à respecter la charte du service civil volontaire définie par arrêté du ministre en charge de la cohésion
-sociale.
+sociale. 
+
+Un groupement de personnes morales peut être agréé pour confier à des jeunes une activité ou un programme d'activité
+d'intérêt général. Cet agrément vaut pour chacun de ses membres, sous réserve que ceux-ci respectent les conditions
+mentionnées aux 4°, 5° et 6° du présent article au moment du dépôt du dossier de demande d'agrément. 
+
+Les membres du groupement mentionnés dans la décision d'agrément sont autorisés à accueillir des jeunes uniquement pour les
+activités d'intérêt général agréées dudit groupement, sous réserve qu'ils respectent la condition mentionnée au 3° du présent
+article. 
 
 La composition du dossier d'agrément est fixée par décision du directeur général de l'Agence nationale pour la cohésion
-sociale et l'égalité des chances.
+sociale et l'égalité des chances. 
 
 L'agrément est accordé pour une durée de trois ans et pour un nombre maximal de jeunes accueillis simultanément au sein de la
-structure. Il est renouvelable par décision expresse.
+structure. Il est renouvelable par décision expresse. L'agrément délivré à un groupement de personnes morales comporte la
+liste des membres qui en bénéficient et le nombre maximal de jeunes que chacun est autorisé à accueillir simultanément. 
 
 L'Agence nationale pour la cohésion sociale et l'égalité des chances peut à tout moment contrôler les conditions d'exercice
 du service civil volontaire au sein de l'organisme agréé. Celui-ci doit tenir à cet effet à la disposition de cette autorité
-les documents probants ou les pièces justificatives nécessaires à ce contrôle.
+les documents probants ou les pièces justificatives nécessaires à ce contrôle. Lorsqu'un groupement agréé a connaissance
+qu'un de ses membres ne satisfait plus aux conditions de l'agrément, il en informe l'agence. 
 
 L'agrément peut être retiré suivant les mêmes formes que la délivrance lorsque l'organisme agréé cesse de remplir l'une des
-conditions énoncées ci-dessus.
+conditions énoncées ci-dessus. 
 
 La décision portant retrait d'agrément ne peut intervenir qu'après que l'organisme a été mis à même de présenter ses
 observations dans un délai de trois mois à compter de la réception de la notification des griefs formulés par l'Agence
-nationale pour la cohésion sociale et l'égalité des chances.
+nationale pour la cohésion sociale et l'égalité des chances. La décision portant retrait d'agrément d'un membre d'un
+groupement de personnes morales modifie en conséquence la liste des membres mentionnée dans la décision d'agrément du
+groupement. 
 
-Les décisions d'agrément et de retrait d'agrément sont publiées au Journal officiel de la République française.
+Les décisions d'agrément, de modification d'agrément et de retrait d'agrément sont publiées au Journal officiel de la
+République française.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2006-838 du 12 juillet 2006 - art. 1 () JORF 13 juillet 2006
 
 	**Cité par**:
 
 	  - Arrêté du 21 août 2006 - art. 1 (V)
 	  - Code de l'action sociale et des familles - art. R541-2 (V)
 
+	**Créé par**:
+
+	  - Décret n°2006-1699 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. D121-30 (V)
-	  - Code de l'action sociale et des familles - art. D121-31 (V)
 
 
 ##### Sous-section 2 : Conditions d'exercice du service civil volontaire.
@@ -35008,15 +35020,16 @@ la cohésion sociale et l'égalité des chances.
 ###### Article D121-33
 
 L'accueil de chaque jeune au titre du service civil volontaire ouvre droit à un financement de l'Agence nationale pour la
-cohésion sociale et l'égalité des chances permettant de prendre en charge tout ou partie de l'allocation versée au volontaire
-et des obligations inhérentes au service civil volontaire que sont la formation aux valeurs civiques et l'accompagnement du
-jeune, tels que définis respectivement aux articles D. 121-30 et D. 121-31.
+cohésion sociale et l'égalité des chances fixé par convention conclue avec l'organisme agréé permettant de prendre en charge
+tout ou partie de l'allocation versée au volontaire et des obligations inhérentes au service civil volontaire que sont la
+formation aux valeurs civiques et l'accompagnement du jeune, tels que définis respectivement aux articles D. 121-30 et D.
+121-31.
 
 Un décret fixe le montant et les modalités du concours financier alloué en fonction du contrat qui lie le jeune et la
-structure d'accueil.
+structure d'accueil. 
 
 L'attribution de ce financement est exclusive de tout autre concours financier des services de l'Etat ou de ses
-établissements publics au titre du service civil volontaire.
+établissements publics au titre du service civil volontaire. 
 
 Les organismes bénéficiant de financements au titre du service civil volontaire rendent compte chaque année de l'activité des
 jeunes accueillis, auprès de l'Agence nationale pour la cohésion sociale et l'égalité des chances, au plus tard le 31 mars de
@@ -35024,18 +35037,17 @@ l'année suivante.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2006-838 du 12 juillet 2006 - art. 1 () JORF 13 juillet 2006
-
 	**Cité par**:
 
 	  - Décret n°2006-1024 du 21 août 2006 - art. 1 (V)
 
+	**Créé par**:
+
+	  - Décret n°2006-1699 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
+
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. D121-30 (V)
-	  - Code de l'action sociale et des familles - art. D121-31 (V)
 
 
 ##### Sous-section 4 : Agrément de droit au titre du service civil volontaire.
@@ -41775,6 +41787,8 @@ l'autonomie.
 
 ##### Section 5 : Concours versés aux départements
 
+##### Sous-section 1 : Concours au titre de la prestation de compensation et au titre des maisons départementales des personnes handicapées
+
 ###### Article R14-10-32
 
 Le concours mentionné au III de l'article L. 14-10-5 destiné à couvrir une partie du coût de la prestation de compensation
@@ -41851,9 +41865,9 @@ formule définie ci-dessus, par rapport au montant total du concours afférent �
 	  - Code de l'action sociale et des familles - art. L245-1 (M)
 	  - Code de l'action sociale et des familles - art. L541-1 (T)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1590 du 19 décembre 2005 - art. 1 () JORF 20 décembre 2005
+	  - Décret n°2006-1816 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
 
 	**Cité par**:
 
@@ -41873,9 +41887,9 @@ personnes handicapées, des collectivités territoriales et du budget. Il ne peu
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1590 du 19 décembre 2005 - art. 1 () JORF 20 décembre 2005
+	  - Décret n°2006-1816 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
 
 	**Cité par**:
 
@@ -41911,9 +41925,9 @@ que défini à l'article L. 3334-6 du code général des collectivités territor
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1590 du 19 décembre 2005 - art. 1 () JORF 20 décembre 2005
+	  - Décret n°2006-1816 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
 
 	**Cite**:
 
@@ -41947,9 +41961,9 @@ utilisant les données départementales disponibles au 31 décembre de l'année 
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1590 du 19 décembre 2005 - art. 1 () JORF 20 décembre 2005
+	  - Décret n°2006-1816 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
 
 	**Cite**:
 
@@ -41986,9 +42000,9 @@ de sa mission de versement des concours.
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1590 du 19 décembre 2005 - art. 1 () JORF 20 décembre 2005
+	  - Décret n°2006-1816 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
 
 	**Cité par**:
 
@@ -42019,9 +42033,9 @@ titre de l'année suivante.
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1590 du 19 décembre 2005 - art. 1 () JORF 20 décembre 2005
+	  - Décret n°2006-1816 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
 
 	**Cité par**:
 
@@ -42032,9 +42046,362 @@ titre de l'année suivante.
 	  - Code de l'action sociale et des familles - art. R14-10-36 (M)
 
 
+##### Sous-section 2 : Concours au titre de l'allocation personnalisée d'autonomie
+
+###### Article R14-10-38
+
+Le montant du concours mentionné au II de l'article L. 14-10-5 et à l'article L. 14-10-6 est réparti entre les départements
+en tenant compte :
+
+- du nombre de personnes âgées de plus de soixante-quinze ans, pour 50 % ;
+
+- de la dépense d'allocation personnalisée d'autonomie, pour 20 % ;
+
+- du potentiel fiscal, pour 25 % ;
+
+- du nombre de bénéficiaires de l'allocation de revenu minimum d'insertion, pour 5 %, selon la formule suivante :
+
+Fd = (PAd/S  PAd) x 50 % + (Dd/Dd)S  x 20 %) - (PFd/S PFd) x 25 % +  (RMI d/S RMId) x 5 %
+
+dans laquelle :
+
+a) Fd représente la fraction attribuée à un département ;
+
+b) PAd représente le nombre de personnes âgées de soixante-quinze ans ou plus du département tel qu'il figure dans les
+statistiques démographiques annuelles départementales produites par l'INSEE disponibles au 31 décembre de l'année au titre de
+laquelle la répartition est effectuée ;
+
+c) Dd représente les dépenses d'allocation personnalisée d'autonomie réalisées par le département au titre de l'année pour
+laquelle la répartition est effectuée ; sont seules prises en compte les dépenses consacrées à l'allocation personnalisée
+d'autonomie prévue à l'article L. 232-1, à l'exclusion de tout complément apporté à cette allocation par le département ;
+
+d) PFd représente, pour ce département, le potentiel fiscal de l'année précédant l'année au titre de laquelle la répartition
+est effectuée, tel que défini à l'article L. 3334-6 du code général des collectivités territoriales ;
+
+e) RMId représente le nombre de bénéficiaires de l'allocation de revenu minimum d'insertion depuis plus de trois mois,
+résidant dans ce département, de l'année précédant celle au titre de laquelle la répartition est effectuée, publié par la
+Caisse nationale des allocations familiales et la Caisse centrale de la mutualité sociale agricole.
+
+Le montant attribué à un département est égal à la fraction attribuée à ce département en application du calcul ci-dessus,
+rapportée à la somme des fractions et multipliée par le montant total des concours.
+
+Ce montant ne peut être supérieur au montant de la dépense d'allocation personnalisée d'autonomie du département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1816 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 rectificatif JORF 10 février 2007
+
+	**Cité par**:
+
+	  - Arrêté du 8 mars 2013 - art. 4 (V)
+	  - Arrêté du 25 avril 2014 - art. 4 (V)
+	  - Décret n°2015-1280 du 13 octobre 2015 - art. 9 (V)
+	  - Arrêté du 7 mars 2016 - art. 4 (V)
+	  - Arrêté du 23 décembre 2016 - art. 7 (V)
+	  - Code de l'action sociale et des familles - art. R14-10-40 (V)
+	  - Code de l'action sociale et des familles - art. R14-10-42 (V)
+	  - Code de l'action sociale et des familles - art. R541-4 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L3334-6 (M)
+	  - Code de l'action sociale et des familles - art. L14-10-5 (M)
+	  - Code de l'action sociale et des familles - art. L14-10-6 (V)
+	  - Code de l'action sociale et des familles - art. L232-1 (M)
+
+
+###### Article R14-10-39
+
+Le taux prévu au sixième alinéa de l'article L. 14-10-6 ne peut être supérieur à 30 %. Il est fixé par un arrêté conjoint des
+ministres chargés de la sécurité sociale, des personnes âgées, des collectivités territoriales et du budget.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1816 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L14-10-6 (V)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R14-10-42 (V)
+
+
+###### Article R14-10-40
+
+Les acomptes prévus au dernier alinéa de l'article L. 14-10-6 sont mensuels et versés aux départements au plus tard le
+dixième jour du mois suivant. Ils sont calculés sur la base de la répartition définie à l'article R. 14-10-38. Cette
+répartition est opérée par la Caisse nationale de solidarité pour l'autonomie pour l'année au titre de laquelle les acomptes
+sont versés en utilisant les données départementales annuelles disponibles au 31 décembre de l'année précédente relatives au
+nombre de personnes âgées de soixante quinze ans ou plus, à la dépense d'allocation personnalisée d'autonomie, au potentiel
+fiscal et au nombre de bénéficiaires de l'allocation de revenu minimum d'insertion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1816 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L14-10-6 (V)
+	  - Code de l'action sociale et des familles - art. R14-10-38 (V)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R541-4 (V)
+
+
+###### Article R14-10-41
+
+A l'issue de l'exercice, les départements communiquent à la Caisse nationale de solidarité pour l'autonomie, au plus tard le
+15 février, un état récapitulatif visé par le comptable du département du chapitre individualisé relatif à la dépense
+d'allocation personnalisée d'autonomie, faisant apparaître, par article budgétaire, pour l'exercice clos, les montants des
+mandats et des titres émis, diminués des mandats et titres d'annulation, ainsi que le nombre de bénéficiaires de l'allocation
+personnalisée d'autonomie au 31 décembre de l'année écoulée.
+
+Les départements communiquent également à la caisse, à sa demande, toute information complémentaire relative à l'allocation
+personnalisée d'autonomie nécessaire à l'exercice de sa mission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1816 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R14-10-42 (M)
+
+
+###### Article R14-10-42
+
+La Caisse nationale de solidarité pour l'autonomie procède au calcul du concours définitif dû à chaque département, tel qu'il
+résulte des opérations prévues aux articles R. 14-10-38 et R. 14-10-39, et au versement du solde dû au titre d'un exercice
+lorsque l'ensemble des états récapitulatifs mentionnés à l'article R. 14-10-41 lui est parvenu.
+
+Le solde du concours attribué au département est obtenu par déduction des acomptes versés en application de l'article R.
+14-10-40 du montant du concours définitif.
+
+Dans le cas où le solde d'un département est négatif, son montant est déduit des versements relatifs au concours versé au
+titre de l'année suivante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1816 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
+
+	**Cité par**:
+
+	  - Décret n°2015-1280 du 13 octobre 2015 - art. 12 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. R14-10-38 (V)
+	  - Code de l'action sociale et des familles - art. R14-10-39 (V)
+	  - Code de l'action sociale et des familles - art. R14-10-41 (V)
+
+
 ##### Section 6 : Ressources et charges
 
-##### Sous-section 1 : Modernisation des services d'aide à domicile, promotion des actions innovantes et professionnalisation des métiers de service concernant les personnes âgées.
+##### Sous-section 1 : Dispositions financières générales
+
+###### Article R14-10-43
+
+I. - Le produit de la contribution prévue au 1° de l'article L. 14-10-4 et la part du produit de la contribution sociale
+prévue à l'article L. 136-1 du code de la sécurité sociale et affectée à la Caisse nationale de solidarité pour l'autonomie
+sont centralisés par l'Agence centrale des organismes de sécurité sociale et versés par cette dernière à la caisse, dans les
+conditions fixées par la convention prévue à l'article R. 14-10-45, sous déduction d'une retenue pour frais de recouvrement
+fixée par arrêté conjoint des ministres chargés de la sécurité sociale, des personnes âgées, des personnes handicapées et du
+budget.
+
+II. - Le produit de la contribution prévue au 2° de l'article L. 14-10-4 et la part du produit des contributions sociales
+prévues aux articles L. 136-6, L. 136-7 et L. 136-7-1 du code de la sécurité sociale et affectées à la caisse nationale de
+solidarité pour l'autonomie sont versés par l'Etat à la caisse dans les conditions fixées par la convention prévue à
+l'article R. 14-10-45.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1816 du 23 décembre 2006 - art. 3 () JORF 31 décembre 2006
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L136-1 (M)
+	  - Code de la sécurité sociale. - art. L136-6 (M)
+	  - Code de la sécurité sociale. - art. L136-7 (M)
+	  - Code de la sécurité sociale. - art. L136-7-1 (M)
+	  - Code de l'action sociale et des familles - art. L14-10-4 (M)
+	  - Code de l'action sociale et des familles - art. R14-10-45 (V)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R541-4 (V)
+
+
+###### Article R14-10-44
+
+Le taux prévu au 4° de l'article L. 14-10-4 est fixé à 50 %. La participation prévue au même article et affectée à la Caisse
+nationale de solidarité pour l'autonomie est versée avant le 30 juin par les régimes obligatoires de base d'assurance
+vieillesse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1816 du 23 décembre 2006 - art. 3 () JORF 31 décembre 2006
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L14-10-4 (V)
+
+
+###### Article R14-10-45
+
+La Caisse nationale de solidarité pour l'autonomie conclut une convention avec l'Etat et l'Agence centrale des organismes de
+sécurité sociale, ayant notamment pour objet de préciser les modalités et la périodicité de versement des recettes prévues à
+l'article L. 14-10-4, ainsi que les informations et les pièces justificatives qui doivent être communiquées à la caisse. 
+
+A défaut de conclusion de la convention mentionnée à l'alinéa précédent, les relations financières entre la caisse et l'Etat,
+d'une part, et la caisse et l'Agence centrale des organismes de sécurité sociale, d'autre part, sont fixées par un arrêté
+conjoint des ministres chargés de la sécurité sociale et du budget.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1816 du 23 décembre 2006 - art. 3 () JORF 31 décembre 2006
+
+	**Cité par**:
+
+	  - Arrêté du 27 octobre 2015 - art. 5 (V)
+	  - Code de l'action sociale et des familles - art. R14-10-43 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L14-10-4 (V)
+
+
+###### Article R14-10-46
+
+La Caisse nationale de solidarité pour l'autonomie verse aux régimes obligatoires d'assurance maladie des acomptes, dans la
+limite de 90 % de la fraction des contributions visées aux 1° et 2° de l'article L. 14-10-4 affectée aux ressources de la
+section mentionnée au I de l'article L. 14-10-5. 
+
+Le taux appliqué pour la détermination des acomptes mentionnés à l'alinéa précédent est fixé par arrêté conjoint des
+ministres chargés de la sécurité sociale, des personnes âgées, des personnes handicapées et du budget. Ces acomptes sont
+répartis entre les régimes selon le même prorata que celui prévu en matière de charges par l'article L. 14-10-4. 
+
+Les modalités et la périodicité de versement aux régimes obligatoires d'assurance maladie sont définies par des conventions
+conclues avec la caisse. 
+
+A défaut de conclusion de convention, les relations financières entre la caisse et les régimes obligatoires d'assurance
+maladie sont fixées par un arrêté conjoint des ministres chargés de la sécurité sociale et du budget.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1816 du 23 décembre 2006 - art. 3 () JORF 31 décembre 2006
+
+	**Cité par**:
+
+	  - Décret n°2006-1816 du 23 décembre 2006 - art. 4 (V)
+	  - Code de l'action sociale et des familles - art. R14-10-47 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L14-10-4 (V)
+	  - Code de l'action sociale et des familles - art. L14-10-5 (V)
+
+
+###### Article R14-10-47
+
+Pour l'application des dispositions prévues aux b des 1 et 2 du I de l'article L. 14-10-5, les régimes d'assurance maladie
+notifient à la caisse les charges afférentes à l'accueil de leurs affiliés dans les établissements et services mentionnés aux
+1 et 2 du même article, dans des conditions définies dans les conventions mentionnées à l'article R. 14-10-46.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1816 du 23 décembre 2006 - art. 3 () JORF 31 décembre 2006
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L14-10-5 (V)
+	  - Code de l'action sociale et des familles - art. R14-10-46 (V)
+
+
+###### Article R14-10-48
+
+Les disponibilités excédant les besoins de trésorerie de la Caisse nationale de solidarité pour l'autonomie peuvent faire
+l'objet de placements en valeurs d'Etat et en valeurs garanties par l'Etat. Ces placements peuvent aussi être effectués dans
+le cadre de conventions conclues avec un établissement public ou la Caisse des dépôts et consignations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1816 du 23 décembre 2006 - art. 3 () JORF 31 décembre 2006
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R14-10-22 (VD)
+
+
+##### Sous-section 2 : Modernisation des services d'aide à domicile, promotion des actions innovantes et professionnalisation des métiers de service concernant les personnes âgées.
 
 ###### Article R14-10-49
 
@@ -42076,9 +42443,9 @@ de soins à domicile.
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1144 du 12 septembre 2006 - art. 1 () JORF 14 septembre 2006
+	  - Décret n°2006-1816 du 23 décembre 2006 - art. 3 () JORF 31 décembre 2006
 
 	**Cite**:
 
@@ -42106,9 +42473,9 @@ dépenses que les employeurs sont tenus d'engager au titre de leurs obligations 
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1144 du 12 septembre 2006 - art. 1 () JORF 14 septembre 2006
+	  - Décret n°2006-1816 du 23 décembre 2006 - art. 3 () JORF 31 décembre 2006
 
 	**Cite**:
 
@@ -42141,9 +42508,9 @@ agrément, dans un délai d'un mois, d'un avis de la Caisse nationale de solidar
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1144 du 12 septembre 2006 - art. 1 () JORF 14 septembre 2006
+	  - Décret n°2006-1816 du 23 décembre 2006 - art. 3 () JORF 31 décembre 2006
 
 	**Cite**:
 
@@ -42189,9 +42556,9 @@ subvention à verser par la Caisse nationale de solidarité pour l'autonomie.
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1144 du 12 septembre 2006 - art. 1 () JORF 14 septembre 2006
+	  - Décret n°2006-1816 du 23 décembre 2006 - art. 3 () JORF 31 décembre 2006
 
 
 ##### Section 7 : Conventions entre la Caisse nationale de solidarité pour l'autonomie et les organismes d'assurance maladie vieillesse
@@ -80741,32 +81108,6 @@ l'article R. 241-50 du code du travail ;
 	  - Code de l'action sociale et des familles - art. D344-25 (MMN)
 
 
-###### Article D344-24
-
-Le contrat mentionné à l'article D. 344-23 a une durée maximale d'un an ; il peut être renouvelé.
-
-Le directeur du centre d'aide par le travail est tenu de communiquer la convention, dans les quinze jours qui suivent sa
-signature, à la commission technique d'orientation et de reclassement professionnel.
-
-La prolongation au-delà d'un an de l'activité du travailleur handicapé à l'extérieur du centre est subordonnée, lorsque cette
-activité est exercée de manière individuelle, à l'accord de la commission technique d'orientation et de reclassement
-professionnel ; cet accord doit être demandé par le directeur du centre d'aide par le travail.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°86-510 du 14 mars 1986 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. D344-23 (M)
-
-
 ###### Article D344-25
 
 La rémunération versée par le centre d'aide par le travail au travailleur handicapé qui exerce, de manière individuelle, une
@@ -80843,6 +81184,44 @@ sont compris dans les effectifs des personnes accueillies par le centre d'aide p
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+
+##### Section 2 : Etablissements et services d'aide par le travail
+
+##### Sous-section 2 : Exercice d'une activité extérieure.
+
+###### Article D344-24
+
+Le contrat mentionné à l'article D. 344-23 a une durée maximale d'un an ; il peut être renouvelé.
+
+Le directeur du centre d'aide par le travail est tenu de communiquer la convention, dans les quinze jours qui suivent sa
+signature, à la commission technique d'orientation et de reclassement professionnel.
+
+La prolongation au-delà d'un an de l'activité du travailleur handicapé à l'extérieur du centre est subordonnée, lorsque cette
+activité est exercée de manière individuelle, à l'accord de la commission technique d'orientation et de reclassement
+professionnel ; cet accord doit être demandé par le directeur du centre d'aide par le travail.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-510 du 14 mars 1986 - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-703 du 16 juin 2006 - art. 3 () JORF 17 juin 2006 en vigueur le 1er janvier 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2007-874 du 14 mai 2007 - art. 5 () JORF 15 mai 2007 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D344-23 (M)
 
 
 ##### Section 3 : Dispositions applicables aux personnes accueillies dans les centres pour handicapés adultes
