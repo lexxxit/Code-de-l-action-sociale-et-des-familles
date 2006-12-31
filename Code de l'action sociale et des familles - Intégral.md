@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2006-12-31
+Version Consolidée au 2007-01-01
 
 # Partie législative
 
@@ -93,9 +93,15 @@ du ministre chargé de l'action sociale. Les dépenses en résultant sont à la 
 
 Les personnes dont la présence sur le territoire métropolitain résulte de circonstances exceptionnelles et qui n'ont pu
 choisir librement leur lieu de résidence, ou les personnes pour lesquelles aucun domicile fixe ne peut être déterminé, ont
-droit aux prestations d'aide sociale sur décision de la commission mentionnée à l'article L. 131-5.
+droit aux prestations d'aide sociale dans les conditions prévues pour chacune d'elles par le présent code.
 
 Les dispositions du présent article ne sont pas opposables au dépôt d'une demande d'allocation de revenu minimum d'insertion.
+
+**Nota:**
+
+Ordonnance n° 2005-1477 2005-12-01 art. 1 XIV : Les dispositions du présent article entrent en vigueur le 1er janvier 2007 et
+s'appliquent aux nouvelles demandes déposées à compter de cette date et à celles qui n'ont pas fait l'objet d'une décision à
+cette même date.
 
 **Liens relatifs à cet article**
 
@@ -121,7 +127,7 @@ Les dispositions du présent article ne sont pas opposables au dépôt d'une dem
 
 	**Modifié par**:
 
-	  - Loi n°2003-1200 du 18 décembre 2003 - art. 13 () JORF 19 décembre 2003 en vigueur le 1er janvier 2004
+	  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 1 (V) JORF 2 décembre 2005 en vigueur le 1er janvier 2007
 
 	**Anciens textes**:
 
@@ -259,7 +265,13 @@ Toute personne âgée de soixante-cinq ans privée de ressources suffisantes peu
 d'un placement chez des particuliers ou dans un établissement.
 
 Les personnes âgées de plus de soixante ans peuvent obtenir les mêmes avantages lorsqu'elles sont reconnues inaptes au
-travail par la commission d'admission complétée comme il est indiqué à l'article L. 134-7.
+travail.
+
+**Nota:**
+
+Ordonnance n° 2005-1477 2005-12-01 art. 1 XIV : Les dispositions du présent article entrent en vigueur le 1er janvier 2007 et
+s'appliquent aux nouvelles demandes déposées à compter de cette date et à celles qui n'ont pas fait l'objet d'une décision à
+cette même date.
 
 **Liens relatifs à cet article**
 
@@ -280,13 +292,13 @@ travail par la commission d'admission complétée comme il est indiqué à l'art
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 1 (V) JORF 2 décembre 2005 en vigueur le 1er janvier 2007
+
 	**Anciens textes**:
 
 	  - Code de la famille et de l'aide sociale. - art. 157 (Ab)
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L134-7 (M)
 
 
 ###### Article L113-2
@@ -2442,18 +2454,19 @@ Sauf disposition contraire, les modalités d'application du présent chapitre so
 
 Sous réserve de l'article L. 252-1, les demandes d'admission au bénéfice de l'aide sociale, à l'exception de celles
 concernant l'aide sociale à l'enfance, sont déposées au centre communal ou intercommunal d'action sociale ou, à défaut, à la
-mairie de résidence de l'intéressé.
+mairie de résidence de l'intéressé. 
 
 Les demandes donnent lieu à l'établissement d'un dossier par les soins du centre communal ou intercommunal d'action sociale.
-Celui-ci peut utiliser à cet effet des visiteurs-enquêteurs.
+Celui-ci peut utiliser à cet effet des visiteurs-enquêteurs. 
 
 Les demandes sont ensuite transmises, dans le mois de leur dépôt, au représentant de l'Etat ou au président du conseil
-général qui les instruit et les soumet à la commission d'admission prévue à l'article L. 131-5 avec l'avis du centre communal
-ou intercommunal d'action sociale et celui du conseil municipal, lorsque le maire ou le centre communal ou intercommunal
-d'action sociale a demandé la consultation de cette assemblée. Pour chaque demande le représentant de l'Etat ou le président
-du conseil général formule une proposition.
+général qui les instruit avec l'avis du centre communal ou intercommunal d'action sociale ou, à défaut, du maire et celui du
+conseil municipal, lorsque le maire ou le centre communal ou intercommunal d'action sociale a demandé la consultation de
+cette assemblée.
 
-Les dossiers soumis à la commission doivent contenir les pièces et précisions qui sont énumérées par arrêté.
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -2461,6 +2474,10 @@ Les dossiers soumis à la commission doivent contenir les pièces et précisions
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 1 (V) JORF 2 décembre 2005 en vigueur le 1er janvier 2007
 
 	**Anciens textes**:
 
@@ -2475,50 +2492,20 @@ Les dossiers soumis à la commission doivent contenir les pièces et précisions
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L131-5 (M)
 	  - Code de l'action sociale et des familles - art. L252-1 (V)
 
 
 ###### Article L131-2
 
-Les prestations légales d'aide sociale sont accordées par le représentant de l'Etat dans le département, le président du
-conseil général et la commission mentionnée à l'article L. 131-5.
+La décision d'admission à l'aide sociale est prise par le représentant de l'Etat dans le département pour les prestations qui
+sont à la charge de l'Etat en application de l'article L. 121-7 et par le président du conseil général pour les autres
+prestations prévues au présent code.
 
-Le représentant de l'Etat dans le département décide :
+**Nota:**
 
-1° De l'admission à l'aide médicale de l'Etat, mentionnée au chapitre 1 du titre V du livre II ;
-
-2° De l'admission dans un centre d'hébergement et de réinsertion sociale, mentionnée à l'article L. 345-1 ;
-
-3° De l'octroi de l'aide aux familles dont les soutiens accomplissent le service national, mentionnée à l'article L. 212-1 ;
-
-4° De l'admission dans un centre d'accueil pour demandeurs d'asile mentionné à l'article L. 348-1.
-
-Le président du conseil général décide :
-
-1° De l'octroi des prestations d'aide sociale à l'enfance, mentionnées aux articles L. 222-1 à L. 222-6 ;
-
-2° De l'octroi de la prestation spécifique dépendance mentionnée à la section 1 du chapitre 2 du titre III du livre II ;
-
-3° Paragraphe abrogé
-
-4° De l'octroi de l'allocation de revenu minimum d'insertion dans les conditions prévues au chapitre II du titre VI du livre
-II.
-
-Ces prestations peuvent être améliorées dans les conditions prévues à l'article L. 121-4.
-
-La commission d'admission à l'aide sociale décide, selon une procédure fixée par voie réglementaire :
-
-1° Des aides financières et en nature aux personnes âgées, mentionnées à l'article L. 231-1 ;
-
-2° De la participation aux frais de séjour des personnes âgées, mentionnée aux articles L. 231-4 et L. 231-5 ;
-
-3° De l'aide aux personnes handicapées, mentionnée à l'article L. 241-1.
-
-Ces prestations peuvent être améliorées dans les conditions prévues à l'article L. 121-4.
-
-La commission d'admission décide en outre de la prise en charge, au titre de l'aide sociale, des personnes mentionnées à
-l'article L. 111-3.
+Ordonnance n° 2005-1477 2005-12-01 art. 1 XIV : Les dispositions du présent article entrent en vigueur le 1er janvier 2007 et
+s'appliquent aux nouvelles demandes déposées à compter de cette date et à celles qui n'ont pas fait l'objet d'une décision à
+cette même date.
 
 **Liens relatifs à cet article**
 
@@ -2539,7 +2526,7 @@ l'article L. 111-3.
 
 	**Modifié par**:
 
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 95 () JORF 25 juillet 2006
+	  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 1 (V) JORF 2 décembre 2005 en vigueur le 1er janvier 2007
 
 	**Anciens textes**:
 
@@ -2548,17 +2535,7 @@ l'article L. 111-3.
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L111-3 (M)
-	  - Code de l'action sociale et des familles - art. L121-4 (M)
-	  - Code de l'action sociale et des familles - art. L131-5 (M)
-	  - Code de l'action sociale et des familles - art. L212-1 (V)
-	  - Code de l'action sociale et des familles - art. L231-1 (V)
-	  - Code de l'action sociale et des familles - art. L231-4 (V)
-	  - Code de l'action sociale et des familles - art. L231-5 (V)
-	  - Code de l'action sociale et des familles - art. L241-1 (V)
-	  - Code de l'action sociale et des familles - art. L345-1 (M)
-	  - Code de l'action sociale et des familles - art. L348-1 (V)
-	  - Code de l'action sociale et des familles L131-5, L345-1, L212-1, L348-1, L222-1 à L222-6, L121-4, L231-1, L231-4, L231-5, L241-1, L111-3
+	  - Code de l'action sociale et des familles - art. L121-7 (V)
 
 
 ###### Article L131-3
@@ -2567,7 +2544,7 @@ L'admission d'urgence à l'aide sociale des personnes handicapées et des person
 dans un établissement d'hébergement, ou l'attribution de la prestation en nature d'aide ménagère à une personne âgée privée
 brusquement de l'assistance de la personne dont l'aide était nécessaire au maintien au domicile, est prononcée par le maire.
 La décision est notifiée par le maire au représentant de l'Etat ou au président du conseil général, dans les trois jours avec
-demande d'avis de réception.
+demande d'avis de réception. 
 
 En cas de placement, le directeur de l'établissement est tenu de notifier au représentant de l'Etat ou au président du
 conseil général, dans les quarante-huit heures, l'entrée de toute personne ayant fait l'objet d'une décision d'admission
@@ -2575,13 +2552,17 @@ d'urgence à l'aide sociale ou sollicitant une telle admission.
 
 L'inobservation des délais prévus ci-dessus entraîne la mise à la charge exclusive de la commune, en matière d'aide à
 domicile, et de l'établissement, en matière de prise en charge des frais de séjour, des dépenses exposées jusqu'à la date de
-la notification.
+la notification. 
 
-La commission d'admission du domicile du postulant statue dans le délai de deux mois sur l'admission d'urgence. A cette fin,
-le maire transmet au représentant de l'Etat ou au président du conseil général dans le mois de sa décision, le dossier
-constitué dans les conditions prévues à l'article L. 131-1.
+Il est statué dans le délai de deux mois sur l'admission d'urgence.A cette fin, le maire transmet au représentant de l'Etat
+ou au président du conseil général dans le mois de sa décision, le dossier constitué dans les conditions prévues à l'article
+L. 131-1. 
 
 En cas de rejet de l'admission, les frais exposés antérieurement à cette décision sont dus par l'intéressé.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -2589,6 +2570,10 @@ En cas de rejet de l'admission, les frais exposés antérieurement à cette déc
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 1 (V) JORF 2 décembre 2005 en vigueur le 1er janvier 2007
 
 	**Cité par**:
 
@@ -2603,7 +2588,7 @@ En cas de rejet de l'admission, les frais exposés antérieurement à cette déc
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L131-1 (M)
+	  - Code de l'action sociale et des familles - art. L131-1 (V)
 
 
 ###### Article L131-4
@@ -2627,51 +2612,19 @@ de la date d'entrée dans l'établissement à condition que l'aide ait été dem
 	  - Code de la famille et de l'aide sociale. - art. 124-3 (Ab)
 
 
-###### Article L131-5
+###### Article L131-7
 
-La commission d'admission à l'aide sociale est présidée par un magistrat du siège en activité ou honoraire ou par une
-personnalité compétente, désigné par le premier président de la cour d'appel.
-
-Elle comprend, outre le président :
-
-1° Lorsqu'elle statue sur les demandes de prestations relevant du département en application de l'article L. 121-1, le
-conseiller général du canton comportant la commune où la demande a été déposée ou du canton du demandeur dans le cas où le
-dossier est transmis dans les conditions prévues à l'article L. 122-4, ou un conseiller général suppléant désigné par le
-conseil général et le maire de la commune concernée ou un conseiller municipal suppléant ;
-
-2° Lorsqu'elle statue sur les demandes de prestations relevant de l'Etat en application de l'article L. 121-7, deux
-fonctionnaires de l'Etat désignés par le représentant de l'Etat dans le département ou leurs suppléants désignés dans les
-mêmes conditions.
-
-Lorsque la commission siège dans la formation prévue au 1° ci-dessus, les personnes mentionnées au 2° peuvent siéger avec
-voix consultative. Lorsqu'elle siège dans la formation prévue au 2° , les personnes mentionnées au 1° peuvent siéger avec
-voix consultative.
-
-Lorsqu'elle statue en application de l'article L. 111-3, la commission siège en formation plénière.
-
-En cas d'égal partage des voix, le président a voix prépondérante.
-
-Peuvent siéger avec voix consultative un représentant des organismes de sécurité sociale ou de la mutualité sociale agricole
-et un représentant d'un centre communal ou intercommunal d'action sociale désignés conjointement par le président du conseil
-général et le représentant de l'Etat dans le département.
-
-Le demandeur, accompagné de la personne ou d'un représentant de l'organisme de son choix, est s'il le souhaite, entendu par
-la commission.
+Sauf disposition contraire, les modalités d'application du présent chapitre sont déterminées par décret en Conseil d'Etat, et
+notamment le point de départ des prestations accordées et les modalités des procédures d'admission à l'aide sociale et
+d'information des autorités communales.
 
 **Nota:**
 
-Ordonnance n° 2005-1477 2005-12-01 art. 1 XIV : Les dispositions du présent article entrent en vigueur le 1er janvier 2007.
+Ordonnance n° 2005-1477 2005-12-01 art. 1 XIV : Les dispositions du présent article entrent en vigueur le 1er janvier 2007 et
+s'appliquent aux nouvelles demandes déposées à compter de cette date et à celles qui n'ont pas fait l'objet d'une décision à
+cette même date.
 
 **Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 19 avril 1994 - art. Annexe (V)
-	  - Arrêté du 24 juillet 2015 - art. 1 (V)
-	  - Code de l'action sociale et des familles - art. L111-3 (M)
-	  - Code de l'action sociale et des familles - art. L131-1 (M)
-	  - Code de l'action sociale et des familles - art. L131-2 (M)
-	  - Code de l'action sociale et des familles - art. L134-7 (M)
 
 	**Codifié par**:
 
@@ -2680,65 +2633,7 @@ Ordonnance n° 2005-1477 2005-12-01 art. 1 XIV : Les dispositions du présent ar
 
 	**Modifié par**:
 
-	  - Loi n°2002-2 2002-01-02 art. 85 2° JORF 3 janvier 2002
-
-	**Abrogé par**:
-
 	  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 1 (V) JORF 2 décembre 2005 en vigueur le 1er janvier 2007
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L121-1 (M)
-	  - Code de l'action sociale et des familles - art. L121-7 (M)
-	  - Code de l'action sociale et des familles - art. L122-4 (V)
-
-	**Anciens textes**:
-
-	  - Code de la famille et de l'aide sociale. - art. 126 (Ab)
-
-
-###### Article L131-6
-
-Le ressort de la commission d'admission et la périodicité de ses réunions sont fixés par le conseil général après avis du
-représentant de l'Etat dans le département.
-
-**Nota:**
-
-Ordonnance n° 2005-1477 2005-12-01 art. 1 XIV : Les dispositions du présent article entrent en vigueur le 1er janvier 2007.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 1 (V) JORF 2 décembre 2005 en vigueur le 1er janvier 2007
-
-	**Anciens textes**:
-
-	  - Code de la famille et de l'aide sociale. - art. 127 (M)
-	  - Code de la famille et de l'aide sociale. - art. 127 (Ab)
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. L541-2 (T)
-	  - Code de l'action sociale et des familles - art. L542-2 (M)
-
-
-###### Article L131-7
-
-Sauf disposition contraire, les modalités d'application du présent chapitre sont déterminées par décret en Conseil d'Etat, et
-notamment le point de départ des prestations accordées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
 
 #### Chapitre II : Participation et récupération.
@@ -2914,12 +2809,17 @@ familial durant une période de trente-six mois cumulés au cours des douze prem
 
 Cette dispense s'étend aux descendants des enfants susvisés.
 
-La commission d'admission fixe, en tenant compte du montant de la participation éventuelle des personnes restant tenues à
-l'obligation alimentaire, la proportion de l'aide consentie par les collectivités publiques. La décision de la commission
-peut être révisée sur production par le bénéficiaire de l'aide sociale d'une décision judiciaire rejetant sa demande
-d'aliments ou limitant l'obligation alimentaire à une somme inférieure à celle qui avait été envisagée par l'organisme
-d'admission. La décision de la commission fait également l'objet d'une révision lorsque les débiteurs d'aliments ont été
-condamnés à verser des arrérages supérieurs à ceux qu'elle avait prévus.
+La proportion de l'aide consentie par les collectivités publiques est fixée en tenant compte du montant de la participation
+éventuelle des personnes restant tenues à l'obligation alimentaire. La décision peut être révisée sur production par le
+bénéficiaire de l'aide sociale d'une décision judiciaire rejetant sa demande d'aliments ou limitant l'obligation alimentaire
+à une somme inférieure à celle qui avait été envisagée par l'organisme d'admission. La décision fait également l'objet d'une
+révision lorsque les débiteurs d'aliments ont été condamnés à verser des arrérages supérieurs à ceux qu'elle avait prévus.
+
+**Nota:**
+
+Ordonnance n° 2005-1477 2005-12-01 art. 1 XIV : Les dispositions du présent article entrent en vigueur le 1er janvier 2007 et
+s'appliquent aux nouvelles demandes déposées à compter de cette date et à celles qui n'ont pas fait l'objet d'une décision à
+cette même date.
 
 **Liens relatifs à cet article**
 
@@ -2940,7 +2840,7 @@ condamnés à verser des arrérages supérieurs à ceux qu'elle avait prévus.
 
 	**Modifié par**:
 
-	  - Loi n°2004-1 du 2 janvier 2004 - art. 18 () JORF 3 janvier 2004
+	  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 1 (V) JORF 2 décembre 2005 en vigueur le 1er janvier 2007
 
 	**Cite**:
 
@@ -3239,12 +3139,18 @@ Le règlement départemental arrête les modalités de ce contrôle.
 ###### Article L133-3
 
 Par dérogation aux dispositions qui les assujettissent au secret professionnel, les agents des administrations fiscales sont
-habilités à communiquer aux commissions prévues aux chapitres Ier et IV du présent titre et aux autorités administratives
-compétentes les renseignements qu'ils détiennent et qui sont nécessaires pour instruire les demandes tendant à l'admission à
-une forme quelconque d'aide sociale ou à la radiation éventuelle du bénéficiaire de l'aide sociale.
+habilités à communiquer aux commissions prévues au chapitre IV du présent titre et aux autorités administratives compétentes
+les renseignements qu'ils détiennent et qui sont nécessaires pour instruire les demandes tendant à l'admission à une forme
+quelconque d'aide sociale ou à la radiation éventuelle du bénéficiaire de l'aide sociale.
 
 Les dispositions du présent article sont applicables aux agents des organismes de la sécurité sociale et de la mutualité
 sociale agricole, sauf en ce qui concerne les renseignements d'ordre médical.
+
+**Nota:**
+
+Ordonnance n° 2005-1477 2005-12-01 art. 1 XIV : Les dispositions du présent article entrent en vigueur le 1er janvier 2007 et
+s'appliquent aux nouvelles demandes déposées à compter de cette date et à celles qui n'ont pas fait l'objet d'une décision à
+cette même date.
 
 **Liens relatifs à cet article**
 
@@ -3266,6 +3172,10 @@ sociale agricole, sauf en ce qui concerne les renseignements d'ordre médical.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 1 (V) JORF 2 décembre 2005 en vigueur le 1er janvier 2007
 
 	**Anciens textes**:
 
@@ -3302,8 +3212,14 @@ Les règles régissant la communication des informations d'ordre sanitaire et so
 
 Toute personne appelée à intervenir dans l'instruction, l'attribution ou la révision des admissions à l'aide sociale, et
 notamment les membres des conseils d'administration des centres communaux ou intercommunaux d'action sociale, ainsi que toute
-personne dont ces établissements utilisent le concours et les membres des commissions d'admission sont tenus au secret
-professionnel dans les termes des articles 226-13 et 226-14 du code pénal et passibles des peines prévues à l'article 226-13.
+personne dont ces établissements utilisent le concours sont tenus au secret professionnel dans les termes des articles 226-13
+et 226-14 du code pénal et passibles des peines prévues à l'article 226-13.
+
+**Nota:**
+
+Ordonnance n° 2005-1477 2005-12-01 art. 1 XIV : Les dispositions du présent article entrent en vigueur le 1er janvier 2007 et
+s'appliquent aux nouvelles demandes déposées à compter de cette date et à celles qui n'ont pas fait l'objet d'une décision à
+cette même date.
 
 **Liens relatifs à cet article**
 
@@ -3312,21 +3228,23 @@ professionnel dans les termes des articles 226-13 et 226-14 du code pénal et pa
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 1 (V) JORF 2 décembre 2005 en vigueur le 1er janvier 2007
+
 	**Cite**:
 
-	  - Code pénal - art. 226-13 (M)
-	  - Code pénal - art. 226-14 (M)
-
-	**Anciens textes**:
-
-	  - Code de la famille et de l'aide sociale. - art. 135 (M)
-	  - Code de la famille et de l'aide sociale. - art. 135 (Ab)
+	  - Code pénal - art. 226-13 (V)
 
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. L133-7 (M)
 	  - Code de l'action sociale et des familles - art. L232-16 (T)
 	  - Code de l'action sociale et des familles - art. L232-26 (V)
+
+	**Anciens textes**:
+
+	  - Code de la famille et de l'aide sociale. - art. 135 (Ab)
 
 
 ###### Article L133-5-1
@@ -3664,8 +3582,14 @@ direct à la réformation de la décision.
 
 ###### Article L134-5
 
-Le ministre chargé de l'action sociale peut attaquer directement devant la commission centrale toute décision prise soit par
-les commissions d'admission, soit par les commissions départementales.
+Le ministre chargé de l'action sociale peut attaquer directement devant la commission centrale toute décision prise par les
+commissions départementales.
+
+**Nota:**
+
+Ordonnance n° 2005-1477 2005-12-01 art. 1 XIV : Les dispositions du présent article entrent en vigueur le 1er janvier 2007 et
+s'appliquent aux nouvelles demandes déposées à compter de cette date et à celles qui n'ont pas fait l'objet d'une décision à
+cette même date.
 
 **Liens relatifs à cet article**
 
@@ -3679,6 +3603,14 @@ les commissions d'admission, soit par les commissions départementales.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 1 (V) JORF 2 décembre 2005 en vigueur le 1er janvier 2007
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 12
 
 	**Anciens textes**:
 
@@ -3738,10 +3670,13 @@ activité ou à la retraite.
 
 ###### Article L134-7
 
-Les commissions prévues à l'article L. 131-5 et au présent chapitre sont, dans les cas prévus par voie réglementaire,
-complétées à titre consultatif par des médecins désignés par le président du conseil général pour les commissions
-d'admission, par le représentant de l'Etat dans le département pour les commissions départementales et par le ministre pour
-la commission centrale.
+Les commissions prévues au présent chapitre sont, dans les cas prévus par voie réglementaire, complétées à titre consultatif
+par des médecins désignés par le président du conseil général, par le représentant de l'Etat dans le département pour les
+commissions départementales et par le ministre pour la commission centrale.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -3756,28 +3691,41 @@ la commission centrale.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 1 (V) JORF 2 décembre 2005 en vigueur le 1er janvier 2007
+
 	**Anciens textes**:
 
 	  - Code de la famille et de l'aide sociale. - art. 130 (Ab)
 
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L131-5 (M)
-
 
 ###### Article L134-8
 
-Le recours formé contre la décision de la commission d'admission et l'appel contre la décision de la commission
-départementale sont suspensifs, dans les cas où lesdites décisions prononcent l'admission au bénéfice de l'aide sociale aux
-personnes âgées ou aux personnes handicapées d'une personne à laquelle cette admission aurait été refusée par suite d'une
-décision de la commission centrale d'aide sociale.
+L'appel contre la décision de la commission départementale est suspensif, dans les cas où cette décision prononce l'admission
+au bénéfice de l'aide sociale aux personnes âgées ou aux personnes handicapées d'une personne à laquelle cette admission
+aurait été refusée par suite d'une décision de la commission centrale d'aide sociale.
+
+**Nota:**
+
+Ordonnance n° 2005-1477 2005-12-01 art. 1 XIV : Les dispositions du présent article entrent en vigueur le 1er janvier 2007 et
+s'appliquent aux nouvelles demandes déposées à compter de cette date et à celles qui n'ont pas fait l'objet d'une décision à
+cette même date.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+	  - Loi n°2002-2 du 2 janvier 2002
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 1 (V) JORF 2 décembre 2005 en vigueur le 1er janvier 2007
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 12
 
 	**Anciens textes**:
 
@@ -43032,6 +42980,50 @@ et évaluations des actions qu'elles mettent en oeuvre dans le cadre de l'utilis
 	  - Loi n°1901-07-01
 
 
+###### Article R211-14
+
+La seconde part du fonds spécial, mentionnée au b du 1° de l'article L. 211-10, fait l'objet de conventions d'objectifs. Le
+modèle type en est fixé par arrêté des ministres chargés de la famille et de la sécurité sociale. 
+
+Sur cette seconde part, un montant fixé par arrêté du ministre chargé de la famille, après avis de la commission visée à
+l'article R. 211-16, est attribué à l'union nationale pour financer toutes actions qu'elle conduit au niveau national dans le
+cadre de sa convention d'objectifs et pour rémunérer sa fonction de suivi et d'évaluation de la mise en oeuvre par les unions
+départementales de leurs propres conventions d'objectifs. Le complément de la seconde part fait l'objet d'une répartition par
+l'union nationale entre les unions départementales qui ont conclu avec elle des conventions d'objectifs, après avis des
+directeurs départementaux des affaires sanitaires et sociales. Cette répartition est portée par l'union nationale à la
+connaissance des ministres chargés de la famille et de la sécurité sociale, ainsi que de la commission d'évaluation et de
+contrôle visée à l'article R. 211-16.
+
+**Nota:**
+
+Décret 2005-1715 2005-12-29 art. 3 b : spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2005-1715 du 29 décembre 2005 - art. 1 () JORF 30 décembre 2005 en vigueur le 1er janvier 2007
+
+	**Cité par**:
+
+	  - Décret n°2005-1715 du 29 décembre 2005 - art. 3 (V)
+	  - Arrêté du 22 mai 2013 - art. 1 (Ab)
+	  - Arrêté du 22 mai 2013 - art. Annexe (Ab)
+	  - Arrêté du 28 mai 2015 - art. (V)
+	  - Arrêté du 28 mai 2015 - art. 1 (V)
+	  - Arrêté du 24 août 2016 - art. 1 (V)
+	  - Code de l'action sociale et des familles - art. R542-1 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L211-10 (V)
+	  - Code de l'action sociale et des familles - art. R211-16 (V)
+
+
 ###### Article R211-15
 
 Avant le 15 mars de chaque année, chaque union départementale adresse au président de l'union nationale un dossier comprenant
@@ -51828,7 +51820,13 @@ respectivement aux articles L. 241-3 et L. 241-3-1 du présent code ;
 4° Reconnaissance de la qualité de travailleur handicapé répondant aux conditions définies par l'article L. 323-10 du code du
 travail ;
 
-5° Situations nécessitant qu'une décision soit prise en urgence.
+5° Situations nécessitant qu'une décision soit prise en urgence ;
+
+6° Prolongation ou interruption de la période d'essai d'un travailleur handicapé dans l'établissement ou le service d'aide
+par le travail au sein duquel il a été admis ;
+
+7° Maintien ou non, à l'issue d'une mesure conservatoire prise en application de l'article R. 243-4, d'un travailleur
+handicapé dans l'établissement ou le service d'aide par le travail au sein duquel il a été admis.
 
 Les membres de ces formations peuvent décider de transmettre une demande à la commission plénière.
 
@@ -51852,9 +51850,9 @@ concernant les demandes qu'elle formule, elle en fait expressément mention au m
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1589 du 19 décembre 2005 - art. 1 () JORF 20 décembre 2005
+	  - Décret n°2006-703 du 16 juin 2006 - art. 1 () JORF 17 juin 2006 en vigueur le 1er janvier 2007
 
 	**Cite**:
 
@@ -51864,6 +51862,7 @@ concernant les demandes qu'elle formule, elle en fait expressément mention au m
 	  - Code de l'action sociale et des familles - art. L241-3-1 (M)
 	  - Code de l'action sociale et des familles - art. L241-5 (V)
 	  - Code de l'action sociale et des familles - art. R241-27 (V)
+	  - Code de l'action sociale et des familles - art. R243-4 (T)
 
 	**Cité par**:
 
@@ -52166,16 +52165,16 @@ l'article R. 242-17.
 	  - Code de l'action sociale et des familles - art. R242-17
 
 
-#### Chapitre III : Travailleurs handicapés
+#### Chapitre III : Travailleurs handicapés admis en établissements et services d'aide par le travail
 
-##### Section 1 : Commission technique d'orientation et de reclassement professionnel.
+##### Section 1 : Orientation par la commission des droits et de l'autonomie des personnes handicapées
 
 ###### Article R243-1
 
-Sous réserve des dispositions prévues à l'article R. 243-4, les commissions techniques d'orientation et de reclassement
-professionnel orientent vers des centres d'aide par le travail les personnes handicapées ayant une capacité de travail
-inférieure à un tiers au sens de l'article R. 341-2 du code de la sécurité sociale, mais dont elles estiment que l'aptitude
-potentielle à travailler est suffisante pour justifier leur admission dans ces centres.
+Sous réserve des dispositions prévues à l'article R. 243-3, la commission des droits et de l'autonomie des personnes
+handicapées oriente vers les établissements et services d'aide par le travail les personnes handicapées ayant une capacité de
+travail inférieure à un tiers au sens de l'article R. 341-2 du code de la sécurité sociale, mais dont elle estime que
+l'aptitude potentielle à travailler est suffisante pour justifier leur admission dans ces établissements et services.
 
 **Liens relatifs à cet article**
 
@@ -52187,10 +52186,14 @@ potentielle à travailler est suffisante pour justifier leur admission dans ces 
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-703 2006-06-16 art. 2 I, II, III JORF 17 juin 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-703 du 16 juin 2006 - art. 2 () JORF 17 juin 2006 en vigueur le 1er janvier 2007
+
 	**Cite**:
 
 	  - Code de la sécurité sociale. - art. R341-2 (V)
-	  - Code de l'action sociale et des familles - art. R243-4 (T)
 
 	**Cité par**:
 
@@ -52199,8 +52202,16 @@ potentielle à travailler est suffisante pour justifier leur admission dans ces 
 
 ###### Article R243-2
 
-La commission technique d'orientation et de reclassement professionnel prend une décision provisoire valable pour une période
-d'essai. Celle-ci peut durer six mois au plus. Elle est renouvelable une fois.
+La commission des droits et de l'autonomie des personnes handicapées prend une décision d'orientation en établissement ou
+service d'aide par le travail qui peut prévoir une période d'essai dont la durée ne peut excéder six mois. Elle peut, sur
+proposition du directeur de l'établissement ou du service d'aide par le travail, prolonger la période d'essai de six mois au
+plus. A la demande de la personne handicapée ou du directeur de l'établissement ou du service d'aide par le travail, la
+commission peut, sur le fondement des informations qu'elle aura recueillies, décider l'interruption anticipée de la période
+d'essai.
+
+La commission prononce une nouvelle orientation lorsque le maintien dans l'établissement ou le service d'aide par le travail
+au sein duquel la personne handicapée a été admise cesse et que l'admission dans un autre établissement ou service d'aide par
+le travail n'est pas souhaitable.
 
 **Liens relatifs à cet article**
 
@@ -52212,6 +52223,11 @@ d'essai. Celle-ci peut durer six mois au plus. Elle est renouvelable une fois.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-703 2006-06-16 art. 2 I, II, IV JORF 17 juin 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-703 du 16 juin 2006 - art. 2 () JORF 17 juin 2006 en vigueur le 1er janvier 2007
+
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. R542-4 (M)
@@ -52219,10 +52235,19 @@ d'essai. Celle-ci peut durer six mois au plus. Elle est renouvelable une fois.
 
 ###### Article R243-3
 
-Au terme de la période d'essai, le directeur du centre informe la commission technique d'orientation et de reclassement
-professionnel de son déroulement et lui propose les enseignements à en tirer. La commission technique d'orientation et de
-reclassement professionnel se prononce soit pour le renouvellement de la période d'essai, soit pour l'admission au centre
-d'aide par le travail, soit pour une autre orientation souhaitable.
+La commission des droits et de l'autonomie des personnes handicapées peut décider d'orienter vers les établissements et
+services d'aide par le travail des personnes handicapées dont la capacité de travail est supérieure ou égale au tiers de la
+capacité normale lorsque leur besoin d'un ou de plusieurs soutiens médicaux, éducatifs, sociaux, psychologiques, expressément
+motivés dans la décision, le justifie et ne peut être satisfait par une orientation vers le marché du travail. 
+
+Le directeur de l'établissement ou du service d'aide par le travail doit saisir la maison départementale des personnes
+handicapées, dans les conditions prévues à l'article R. 146-25, du cas des travailleurs handicapés qui viendraient en cours
+d'activité et d'une façon durable à dépasser cette capacité de travail. La commission apprécie alors le bien-fondé du
+maintien de ces travailleurs handicapés dans un établissement ou un service d'aide par le travail en fonction des critères
+mentionnés à l'alinéa précédent. 
+
+Dans les mêmes conditions, il appartient au directeur de l'établissement ou du service d'aide par le travail de faire
+connaître toutes propositions de changement d'orientation des personnes handicapées qui apparaissent souhaitables.
 
 **Liens relatifs à cet article**
 
@@ -52235,34 +52260,41 @@ d'aide par le travail, soit pour une autre orientation souhaitable.
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Abrogé par**:
+	**Modifié par**:
 
+	  - Décret n°2006-703 2006-06-16 art. 2 I, II, VI JORF 17 juin 2006 en vigueur le 1er janvier 2007
 	  - Décret n°2006-703 du 16 juin 2006 - art. 2 () JORF 17 juin 2006 en vigueur le 1er janvier 2007
 
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. Annexe 3-9 (V)
 
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. R146-25 (V)
+
 
 ###### Article R243-4
 
-La commission technique d'orientation et de reclassement professionnel peut décider d'orienter vers les centres d'aide par le
-travail des personnes handicapées dont la capacité de travail est supérieure ou égale au tiers de la capacité normale,
-lorsque leur besoin d'un ou de plusieurs soutiens médicaux, éducatifs, sociaux et psychologiques ou leurs difficultés
-d'intégration au milieu ordinaire de travail ou en atelier protégé le justifient.
+Lorsque le directeur de l'établissement ou du service d'aide par le travail considère que le comportement d'un travailleur
+handicapé met gravement en danger sa santé ou sa sécurité, la santé ou la sécurité des autres travailleurs handicapés ou des
+personnels de l'établissement ou du service d'aide par le travail ou porte gravement atteinte aux biens de cet établissement
+ou service, celui-ci peut prendre une mesure conservatoire, valable pour une durée maximale d'un mois, qui suspend le
+maintien de ce travailleur handicapé au sein de l'établissement ou du service. 
 
-Elle peut prononcer pour les mêmes raisons le maintien en centre d'aide par le travail d'un travailleur handicapé qui aura
-manifesté, au terme de la période d'essai, une capacité de travail supérieure ou égale à celle mentionnée à l'alinéa
-précédent.
+La maison départementale des personnes handicapées est immédiatement saisie par le directeur de l'établissement ou du service
+d'aide par le travail de cette mesure. La commission des droits et de l'autonomie des personnes handicapées qui a prononcé
+l'orientation décide du maintien ou non du travailleur handicapé concerné dans l'établissement ou le service au sein duquel
+il était admis. Si la commission ne s'est pas encore prononcée à la date d'échéance de la mesure conservatoire, celle-ci est
+automatiquement prorogée jusqu'à la décision de la commission. 
 
-Le directeur du centre d'aide par le travail doit saisir la commission technique d'orientation et de reclassement
-professionnel du cas des travailleurs handicapés du centre qui viendraient en cours d'activité et d'une façon durable à
-dépasser cette même capacité de travail. La commission technique d'orientation et de reclassement professionnel apprécie
-alors l'opportunité du maintien de ces travailleurs handicapés dans un centre d'aide par le travail.
+Lorsque le maintien d'un travailleur handicapé au sein de l'établissement ou du service est suspendu, le travailleur
+handicapé peut faire valoir ses droits devant la commission en se faisant assister par un membre du personnel ou un usager de
+l'établissement ou du service, ou en faisant appel à une personne qualifiée extérieure à l'établissement telle que visée à
+l'article L. 311-5. La rémunération garantie est maintenue pendant toute la période de suspension. 
 
-D'une façon générale, il appartient au directeur du centre de soumettre à la commission technique d'orientation et de
-reclassement professionnel toutes propositions de changement d'orientation des personnes handicapées qui apparaissent
-souhaitables.
+La mesure conservatoire de suspension n'a pas pour effet de priver la personne concernée de la possibilité de continuer à
+être accueillie pendant cette période dans un établissement d'hébergement pour personnes handicapées.
 
 **Liens relatifs à cet article**
 
@@ -52274,9 +52306,14 @@ souhaitables.
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Modifié par**:
 
+	  - Décret n°2006-703 2006-06-16 art. 2 I, II, VII JORF 17 juin 2006 en vigueur le 1er janvier 2007
 	  - Décret n°2006-703 du 16 juin 2006 - art. 2 () JORF 17 juin 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L311-5 (V)
 
 	**Cité par**:
 
@@ -52286,22 +52323,27 @@ souhaitables.
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. R243-3 (Ab)
 	  - Code de l'action sociale et des familles - art. R243-3 (V)
 
 
-##### Section 2 : Dispositions favorisant le travail
+##### Section 2 : Droits des travailleurs handicapés admis dans un établissement ou un service d'aide par le travail
 
-##### Sous-section 1 : Dispositions générales.
+##### Sous-section 1 : Rémunération garantie
 
 ###### Article R243-5
 
-En application des articles L. 243-4 à L. 243-6, les dispositions de la présente section fixent :
+Dès la conclusion du contrat de soutien et d'aide par le travail mentionné à l'article L. 311-4, les travailleurs handicapés
+admis dans un établissement ou un service d'aide par le travail et qui exercent une activité à caractère professionnel à
+temps plein perçoivent une rémunération garantie dont le montant est compris entre 55 % et 110 % du salaire minimum de
+croissance. 
 
-- la garantie de ressources assurée à toute personne handicapée admise dans un centre d'aide par le travail ;
+Dans la limite de la durée du travail effectif mentionnée à l'article L. 212-1 du code du travail, les travailleurs
+handicapés sont réputés avoir exercé une activité à temps plein, qui englobe le temps consacré aux activités de soutien qui
+conditionnent son exercice, dès lors qu'ils effectuent la durée correspondante fixée dans le règlement de fonctionnement de
+l'établissement ou du service d'aide par le travail. 
 
-- les conditions dans lesquelles est prévu par convention un système de bonifications permettant de tenir compte du travail
-effectivement fourni par la personne handicapée.
+L'exercice d'une activité à temps partiel, quelle qu'en soit la durée, entraîne une réduction proportionnelle du montant de
+la rémunération garantie.
 
 **Liens relatifs à cet article**
 
@@ -52313,27 +52355,47 @@ effectivement fourni par la personne handicapée.
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Modifié par**:
-
-	  - Décret n°2006-150 du 13 février 2006 - art. 3 () JORF 14 février 2006 en vigueur le 1er janvier 2006
-
 	**Cité par**:
 
 	  - Décret n°2006-150 du 13 février 2006 - art. 4 (V)
 	  - Code de l'action sociale et des familles - art. R344-20 (V)
 	  - Code de l'action sociale et des familles - art. R542-4 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2006-703 2006-06-16 art. 2 I, VIII, IX, X JORF 17 juin 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-703 du 16 juin 2006 - art. 2 () JORF 17 juin 2006 en vigueur le 1er janvier 2007
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles L243-4 à L243-6
+	  - Code de l'action sociale et des familles - art. L311-4 (V)
 
-
-##### Sous-section 2 : Garantie de ressources.
 
 ###### Article R243-6
 
-Lorsqu'une personne handicapée perçoit une rémunération inférieure au montant de la garantie de ressources, elle reçoit un
-complément de rémunération égal à la différence entre le montant des ressources garanties et cette rémunération.
+La rémunération garantie se compose d'une part financée par l'établissement ou le service d'aide par le travail, qui ne peut
+être inférieure à 5 % du salaire minimum de croissance, et d'une aide au poste qui ne peut être supérieure à 50 % de ce même
+salaire. 
+
+Le montant de l'aide au poste s'élève à 50 % du salaire minimum de croissance lorsque la part de la rémunération financée par
+l'établissement ou le service d'aide par le travail est supérieure à 5 % et inférieure ou égale à 20 % du salaire minimum de
+croissance. 
+
+Lorsque la part de la rémunération garantie qui est financée par l'établissement ou le service d'aide par le travail dépasse
+le seuil de 20 % du salaire minimum de croissance, le pourcentage de 50 % mentionné à l'alinéa précédent est ensuite réduit
+de 0,5 % pour chaque hausse de 1 % de la part de la rémunération financée par l'établissement ou le service précités. 
+
+Il est fait mention du montant d'aide au poste sur le bulletin de paie de chacune des personnes handicapées admises en
+établissement ou service d'aide par le travail. 
+
+Si l'établissement ou le service d'aide par le travail décide, en application du 3° du II de l'article R. 314-51, d'affecter
+une partie de son excédent d'exploitation à l'intéressement des travailleurs handicapés, le montant de la prime versée à ce
+titre à chacun de ceux-ci est limité à un plafond égal à 10 % du montant total annuel de la part de rémunération garantie
+directement financée par l'établissement ou le service d'aide par le travail pour ce même travailleur au cours de l'exercice
+au titre duquel l'excédent d'exploitation est constaté. Cette prime d'intéressement à l'excédent d'exploitation, qui doit
+être portée sur le bulletin de paie correspondant au mois de son versement, est assujettie au versement des cotisations
+mentionnées au premier alinéa de l'article R. 243-9. La part de cotisations incombant à l'établissement ou au service d'aide
+par le travail ne donne pas lieu à compensation par l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -52345,6 +52407,10 @@ complément de rémunération égal à la différence entre le montant des resso
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2007-874 du 14 mai 2007 - art. 1 () JORF 15 mai 2007 en vigueur le 1er janvier 2007
+
 	**Cité par**:
 
 	  - Arrêté du 24 juillet 2015 - art. 1 (V)
@@ -52354,16 +52420,126 @@ complément de rémunération égal à la différence entre le montant des resso
 	  - Code de l'action sociale et des familles - art. R542-4 (V)
 	  - Code de la sécurité sociale. - art. R821-4 (V)
 
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. R314-51 (V)
+
+
+###### Article R243-7
+
+La rémunération garantie est due pendant toutes les périodes de suspension de l'exercice de l'activité à caractère
+professionnel prévues aux articles R. 243-4, R. 243-11, R. 243-12 et R. 243-13. 
+
+La rémunération garantie est maintenue en totalité pendant les périodes ouvrant droit à une indemnisation au titre de
+l'assurance maladie. 
+
+Lorsque la rémunération garantie est maintenue en application de l'alinéa ci-dessus, l'établissement ou le service d'aide par
+le travail est subrogé dans les droits du travailleur handicapé aux indemnités journalières. La part revenant à l'Etat, au
+prorata de sa participation à la rémunération garantie, vient en déduction de la compensation prévue à l'article L. 243-6.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°77-1465 du 28 décembre 1977 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2007-874 du 14 mai 2007 - art. 2 () JORF 15 mai 2007 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L243-6 (V)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R243-9 (V)
+
+
+###### Article R243-8
+
+Au plus tard le 30 avril de chaque année, les établissements ou les services d'aide par le travail doivent présenter au
+directeur départemental des affaires sanitaires et sociales un rapport sur leur politique en faveur des travailleurs
+handicapés qu'ils accueillent, en particulier en matière de rémunération garantie versée et de mise en oeuvre d'actions de
+formation. 
+
+Sur le fondement de ce rapport, une convention ou, le cas échéant, un avenant à la convention mentionnée à l'article R. 344-7
+est signé entre le représentant de l'Etat dans le département et l'organisation gestionnaire. 
+
+Cette convention est conclue pour une durée maximale de trois ans et peut être dénoncée chaque année dans des conditions
+prévues par la convention. 
+
+Elle peut fixer un objectif d'augmentation du taux moyen de financement de la rémunération garantie par l'établissement ou le
+service d'aide par le travail, en prenant en compte notamment l'amélioration constatée de la productivité moyenne des
+personnes accueillies et l'accroissement de la valeur ajoutée dégagée par l'exploitation. Elle définit des orientations en
+matière de formation des travailleurs handicapés. 
+
+Cet objectif d'augmentation doit demeurer compatible avec le projet de l'établissement ou du service d'aide par le travail.
+Il ne peut avoir pour effet de remettre en cause des investissements nécessaires à l'accomplissement de la mission qui lui
+est assignée par l'article L. 344-2.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°77-1465 du 28 décembre 1977 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-703 2006-06-16 art. 2 I, VIII, IX, XIII JORF 17 juin 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-703 du 16 juin 2006 - art. 2 () JORF 17 juin 2006 en vigueur le 1er janvier 2007
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. Annexe 3-9 (V)
+	  - Code de l'action sociale et des familles - art. D243-28 (V)
+	  - Code de l'action sociale et des familles - art. R542-4 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L344-2 (V)
+
 
 ###### Article R243-9
 
-Le montant des ressources garanties aux personnes handicapées admises en centre d'aide par le travail est fixé, à l'issue de
-leur période d'essai à 70 % du salaire minimum de croissance sans que la rémunération versée directement par l'établissement
-puisse être inférieure à 5 % de ce salaire.
+Les cotisations prévues à l'article L. 242-1 du code de la sécurité sociale et aux articles L. 741-3, L. 741-9, L. 751-10 à
+L. 751-13 du code rural ainsi que les cotisations de retraite complémentaire dues pour les travailleurs handicapés de
+l'établissement ou du service d'aide par le travail se répartissent ainsi qu'il suit : 
 
-Lorsque la rémunération du travail versée par l'établissement est comprise entre 5 et 20 % du salaire minimum de croissance,
-le complément de rémunération que les personnes handicapées reçoivent en application de l'article R. 243-6 ne peut être
-supérieur à 50 % du salaire minimum de croissance.
+a) Le travailleur handicapé acquitte la part de cotisations qui lui incombe sur le montant de ce qu'il perçoit au titre de la
+rémunération garantie ; 
+
+b) L'Etat assure à l'organisme gestionnaire de l'établissement ou du service d'aide par le travail la compensation de la part
+de cotisations incombant à l'employeur sur une base définie par arrêté du ministre chargé des personnes handicapées et du
+ministre chargé de la sécurité sociale ; 
+
+c) La part de cotisations incombant à l'employeur qui correspond au montant de la part de la rémunération garantie financée
+par l'établissement ou le service d'aide par le travail est prise en charge par ledit établissement ou service. 
+
+Les établissements et services d'aide par le travail ne sont pas assujettis au versement des cotisations d'assurance
+chômage. 
+
+Sous réserve de l'utilisation des fonds collectés aux actions de formation prévues à l'article L. 344-2-1, l'Etat assure à
+l'organisme gestionnaire de l'établissement ou du service d'aide par le travail la compensation de la participation au
+financement de la formation professionnelle continue. Cette compensation est calculée sur la base d'une assiette forfaitaire
+définie par arrêté du ministre chargé des handicapés et du ministre chargé de la formation professionnelle.
+
+L'Etat assure également à l'organisme gestionnaire la compensation d'une partie des cotisations payées au titre de
+l'affiliation des travailleurs handicapés accueillis dans cet établissement ou service à une institution de prévoyance agréée
+par l'Etat au sens de l'article L. 931-4 du code de la sécurité sociale, à une mutuelle régie par le code de la mutualité ou
+à une société d'assurances ou une entreprise d'assurances régie par le code des assurances afin de permettre la prise en
+charge de la part de rémunération garantie directement financée par l'établissement ou service d'aide par le travail
+notamment pendant les périodes mentionnées au deuxième alinéa de l'article R. 243-7 du présent code. Cette compensation est
+calculée sur la base d'une assiette forfaitaire définie par arrêté du ministre chargé des personnes handicapées et du
+ministre chargé de la sécurité sociale.
 
 **Liens relatifs à cet article**
 
@@ -52376,6 +52552,20 @@ supérieur à 50 % du salaire minimum de croissance.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2007-874 du 14 mai 2007 - art. 3 () JORF 15 mai 2007 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code rural - art. L741-3 (V)
+	  - Code rural - art. L741-9 (V)
+	  - Code rural - art. L751-10 (V)
+	  - Code de la sécurité sociale. - art. L242-1 (M)
+	  - Code de la sécurité sociale. - art. L931-4 (M)
+	  - Code de l'action sociale et des familles - art. L344-2-1 (V)
+	  - Code de l'action sociale et des familles - art. R243-7 (Ab)
+
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. D243-14 (V)
@@ -52383,26 +52573,13 @@ supérieur à 50 % du salaire minimum de croissance.
 	  - Code de l'action sociale et des familles - art. D243-31 (V)
 	  - Code de l'action sociale et des familles - art. R542-4 (V)
 
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. R243-6 (M)
-
 
 ###### Article R243-10
 
-Les ressources des personnes handicapées ne sont garanties qu'à concurrence de la durée du travail effectif, mentionnée à
-l'article L. 212-1 du code du travail et déterminée selon les modalités prévues par les décrets ou les conventions auxquels
-renvoient respectivement les articles L. 212-2 et L. 133-5 du même code.
-
-Pour le calcul du complément de rémunération, les personnes handicapées admises en centre d'aide par le travail sont réputées
-avoir travaillé pendant la durée du travail mentionnée au premier alinéa du présent article, à la condition d'avoir effectué
-la durée couramment appliquée, telle qu'elle figure au règlement intérieur de l'établissement. Les handicapés salariés en
-centre de distribution de travail à domicile sont réputés avoir travaillé pendant la durée du travail mentionnée au premier
-alinéa du présent article.
-
-Pour les périodes ayant donné lieu à indemnisation au titre de l'assurance maladie, le complément de rémunération est dû aux
-salariés handicapés qui bénéficient des avantages en matière d'indemnisation des absences pour maladie résultant de
-dispositions légales ou conventionnelles applicables à l'entreprise ou à l'atelier protégé dont ils sont les salariés.
+En vue de la compensation totale des charges et des cotisations afférentes à la partie de la rémunération garantie égale à
+l'aide au poste, telle que prévue à l'article L. 243-6, les organismes gestionnaires des établissements et des services
+d'aide par le travail adressent des états justificatifs mensuels à l'organisme compétent retenu par le ministre chargé des
+personnes handicapées.
 
 **Liens relatifs à cet article**
 
@@ -52417,28 +52594,29 @@ dispositions légales ou conventionnelles applicables à l'entreprise ou à l'at
 
 	**Modifié par**:
 
-	  - Décret n°2006-150 du 13 février 2006 - art. 3 () JORF 14 février 2006 en vigueur le 1er janvier 2006
-
-	**Cite**:
-
-	  - Code du travail - art. L133-5 (M)
-	  - Code du travail - art. L212-1 (M)
-	  - Code du travail - art. L212-2 (M)
+	  - Décret n°2006-703 2006-06-16 art. 2 I, VIII, IX, XV JORF 17 juin 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-703 du 16 juin 2006 - art. 2 () JORF 17 juin 2006 en vigueur le 1er janvier 2007
 
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. D243-15 (Ab)
 	  - Code de l'action sociale et des familles - art. R243-11 (M)
 
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L243-6 (V)
+
+
+##### Sous-section 2 : Autres droits sociaux
 
 ###### Article R243-11
 
-Les heures supplémentaires accomplies au-delà de la durée du travail mentionnée au premier alinéa de l'article R. 243-10
-n'ouvrent droit à aucun complément de rémunération au titre de la garantie de ressources.
-
-Toutefois, le complément de rémunération dû au titre de la garantie de ressources à raison des heures effectuées dans la
-limite de la durée du travail mentionnée au premier alinéa de l'article R. 243-10 ne peut être réduit du fait des majorations
-de salaire résultant des heures supplémentaires.
+Le travailleur handicapé qui a conclu un contrat de soutien et d'aide par le travail et qui justifie d'un mois de présence
+dans l'établissement ou le service d'aide par le travail a droit à un congé annuel, qui donne lieu au versement de la
+rémunération garantie et dont la durée est déterminée à raison de deux jours et demi ouvrables par mois d'accueil en
+établissement ou service d'aide par le travail. La durée totale de ce congé, qui ne peut excéder trente jours ouvrables, peut
+être augmentée de trois jours mobiles, dont l'attribution est laissée à l'appréciation du directeur de l'établissement ou du
+service d'aide par le travail.
 
 **Liens relatifs à cet article**
 
@@ -52452,7 +52630,8 @@ de salaire résultant des heures supplémentaires.
 
 	**Modifié par**:
 
-	  - Décret n°2006-150 du 13 février 2006 - art. 3 () JORF 14 février 2006 en vigueur le 1er janvier 2006
+	  - Décret n°2006-703 2006-06-16 art. 2 I, VIII, XVI, XVII JORF 17 juin 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-703 du 16 juin 2006 - art. 2 () JORF 17 juin 2006 en vigueur le 1er janvier 2007
 
 	**Cité par**:
 
@@ -52461,16 +52640,22 @@ de salaire résultant des heures supplémentaires.
 	  - Code de l'action sociale et des familles - art. D243-24 (V)
 	  - Code de l'action sociale et des familles - art. R243-7 (MMN)
 
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. R243-10 (M)
-
 
 ###### Article R243-12
 
-Le complément de rémunération est versé aux travailleurs handicapés par l'organisme gestionnaire du centre d'aide par le
-travail en même temps que la rémunération du travail accompli. Il est fait mention du complément de rémunération sur le
-bulletin de paie.
+Tout travailleur handicapé accueilli en établissement ou service d'aide par le travail bénéficie, sur justification et à
+l'occasion de certains événements familiaux, d'une autorisation exceptionnelle d'absence de :
+
+- quatre jours pour le mariage du travailleur ;
+
+- trois jours pour chaque naissance survenue à son foyer ou pour l'arrivée d'un enfant placé en vue de son adoption ;
+
+- deux jours pour le décès d'un conjoint, d'un concubin ou de la personne avec laquelle il aura conclu un pacte civil de
+solidarité, ou d'un enfant ;
+
+- un jour pour le mariage d'un enfant ;
+
+- un jour pour le décès du père, de la mère, du beau-père, de la belle-mère, d'un frère ou d'une soeur.
 
 **Liens relatifs à cet article**
 
@@ -52484,7 +52669,8 @@ bulletin de paie.
 
 	**Modifié par**:
 
-	  - Décret n°2006-150 du 13 février 2006 - art. 3 () JORF 14 février 2006 en vigueur le 1er janvier 2006
+	  - Décret n°2006-703 2006-06-16 art. 2 I, VIII, XVI, XVIII JORF 17 juin 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-703 du 16 juin 2006 - art. 2 () JORF 17 juin 2006 en vigueur le 1er janvier 2007
 
 	**Cité par**:
 
@@ -52495,9 +52681,9 @@ bulletin de paie.
 
 ###### Article R243-13
 
-En vue de la compensation des charges supportées au titre de la garantie de ressources et des cotisations y afférentes, telle
-qu'elle est prévue à l'article L. 243-6, les organismes gestionnaires des centres d'aide par le travail adressent des états
-justificatifs mensuels à l'organisme compétent retenu par le ministre chargé des personnes handicapées.
+Le travailleur handicapé bénéficie de l'autorisation d'absence prévue à l'article L. 122-25-3 du code du travail ainsi que
+des congés mentionnés aux articles L. 122-25-4, L. 122-26, L. 122-26-1, L. 122-28-1 et L. 225-15 du même code, dans les
+conditions et selon les modalités définies par ces articles.
 
 **Liens relatifs à cet article**
 
@@ -52511,11 +52697,17 @@ justificatifs mensuels à l'organisme compétent retenu par le ministre chargé 
 
 	**Modifié par**:
 
-	  - Décret n°2006-150 du 13 février 2006 - art. 3 () JORF 14 février 2006 en vigueur le 1er janvier 2006
+	  - Décret n°2006-703 2006-06-16 art. 2 I, VIII, XVI, XIX JORF 17 juin 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-703 du 16 juin 2006 - art. 2 () JORF 17 juin 2006 en vigueur le 1er janvier 2007
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L243-6 (M)
+	  - Code du travail - art. L122-25-3 (M)
+	  - Code du travail - art. L122-25-4 (M)
+	  - Code du travail - art. L122-26 (M)
+	  - Code du travail - art. L122-26-1 (M)
+	  - Code du travail - art. L122-28-1 (M)
+	  - Code du travail - art. L225-15 (M)
 
 	**Cité par**:
 
@@ -58706,6 +58898,34 @@ afin de pouvoir le cas échéant les produire pour l'application des articles L.
 
 
 ##### Section 2 : Droit des usagers
+
+##### Sous-section 1 : Contrat de séjour ou document individuel de prise en charge.
+
+###### Article D311-0-1
+
+Le contrat de séjour passé entre l'établissement ou le service d'aide par le travail et chaque travailleur handicapé, dénommé
+" contrat de soutien et d'aide par le travail ", doit prendre en compte l'expression des besoins et des attentes du
+travailleur handicapé ainsi que les conditions d'organisation et de fonctionnement propres à l'établissement ou au service
+d'aide par le travail. Le modèle de " contrat de soutien et d'aide par le travail " est défini à l'annexe 3-9.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1752 du 23 décembre 2006 - art. 1 () JORF 30 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. Annexe 3-9 (V)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D243-18 (V)
+
 
 ##### Sous-section 2 : Personne qualifiée.
 
@@ -74139,22 +74359,20 @@ du ministre de l'intérieur ;
 	  - Code de l'action sociale et des familles - art. L314-1 (V)
 
 
-##### Paragraphe 4 : Centres d'aide par le travail.
+##### Paragraphe 4 : Etablissements et services d'aide par le travail
 
 ###### Article R314-128
 
 A la fin de chaque exercice et avant le 30 avril de l'année qui suit l'exercice considéré, le compte de résultat propre au
-budget annexe de l'activité de production et de commercialisation d'un centre d'aide par le travail, défini à l'article R.
-344-11, est transmis au directeur départemental des affaires sanitaires et sociales et au directeur départemental du travail,
-de l'emploi et de la formation professionnelle.
+budget annexe de l'activité de production et de commercialisation d'un établissement ou d'un service d'aide par le travail,
+défini à l'article R. 344-11, est transmis au directeur départemental des affaires sanitaires et sociales. 
 
-Ceux-ci peuvent effectuer, conjointement ou séparément, des contrôles sur pièces et sur place afin de s'assurer que l'intérêt
-des travailleurs handicapés est pris en compte dans les décisions de l'établissement relatives à ce budget annexe, et
-notamment en ce qui concerne :
+Celui-ci peut effectuer des contrôles sur pièces et sur place afin de s'assurer que l'intérêt des travailleurs handicapés est
+pris en compte dans les décisions de l'établissement relatives à ce budget annexe, et notamment en ce qui concerne : 
 
-1° La nature des charges imputées à ce budget annexe  ;
+1° La nature des charges imputées à ce budget annexe ; 
 
-2° La justification et le niveau des différentes provisions ;
+2° La justification et le niveau des différentes provisions ; 
 
 3° L'affectation des résultats.
 
@@ -74169,6 +74387,11 @@ notamment en ce qui concerne :
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-703 2006-06-16 art. 4 I, II, III JORF 17 juin 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-703 du 16 juin 2006 - art. 4 () JORF 17 juin 2006 en vigueur le 1er janvier 2007
+
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. R314-153 (V)
@@ -74176,20 +74399,17 @@ notamment en ce qui concerne :
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. R344-11 (M)
-	  - Code de l'action sociale et des familles R344-11, annexe
+	  - Code de l'action sociale et des familles - art. R344-11 (V)
 
 
 ###### Article R314-129
 
-I. - La quote-part de frais de siège éventuellement imputée à l'établissement en vertu des dispositions du sous-paragraphe 3
-du paragraphe 4 de la sous-section 2 de la présente section est répartie sur le budget principal de l'activité sociale et sur
-le budget annexe de production et de commercialisation, au prorata de leurs charges brutes.
+I.-Par dérogation aux dispositions prévues à l'article R. 314-92, la quote-part des frais de siège du budget de production et
+de commercialisation d'un établissement ou service d'aide par le travail est calculée, à la demande de son gestionnaire, soit
+au prorata de ses charges brutes diminuées des aides au poste prévues à l'article L. 243-4, soit au prorata de sa valeur
+ajoutée. 
 
-Avec l'accord des financeurs des quotes-parts de frais de siège, ces dernières peuvent être réparties sur le budget annexe de
-production et de commercialisation au prorata de la valeur ajoutée.
-
-II. - Le résultat du budget annexe de l'activité de production et de commercialisation d'un centre d'aide par le travail est
+II.-Le résultat du budget annexe de l'activité de production et de commercialisation d'un centre d'aide par le travail est
 affecté conformément aux dispositions des II, III et IV de l'article R. 314-51.
 
 **Liens relatifs à cet article**
@@ -74212,11 +74432,14 @@ affecté conformément aux dispositions des II, III et IV de l'article R. 314-51
 
 	**Modifié par**:
 
-	  - Décret n°2006-422 du 7 avril 2006 - art. 27 () JORF 9 avril 2006
+	  - Décret n°2006-703 2006-06-16 art. 4 I, IV JORF 17 juin 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-703 du 16 juin 2006 - art. 4 () JORF 17 juin 2006 en vigueur le 1er janvier 2007
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. R314-51 (M)
+	  - Code de l'action sociale et des familles - art. L243-4 (V)
+	  - Code de l'action sociale et des familles - art. R314-51 (V)
+	  - Code de l'action sociale et des familles - art. R314-92 (V)
 
 
 ##### Paragraphe 5 : Services d'aide à domicile.
@@ -80573,17 +80796,16 @@ handicapées mentionnées à l'article R. 344-1.
 	  - Code de l'action sociale et des familles - art. R344-1 (M)
 
 
-##### Section 2 : Centres d'aide par le travail
+##### Section 2 : Etablissements et services d'aide par le travail
 
 ##### Sous-section 1 : Dispositions générales.
 
 ###### Article R344-6
 
-Les centres d'aide par le travail accueillent les personnes handicapées, quelle que soit la nature de leur handicap, sur
-décision de la commission technique d'orientation et de reclassement professionnel, à partir de l'âge de vingt ans. Ils
-peuvent également accueillir les personnes handicapées dont l'âge est compris entre seize et vingt ans ; dans ce cas la
-décision de la commission technique d'orientation et de reclassement professionnel est prise après avis de la commission
-départementale de l'éducation spéciale.
+Les établissements et services d'aide par le travail accueillent les personnes handicapées, quelle que soit la nature de leur
+handicap, sur décision de la commission des droits et de l'autonomie des personnes handicapées, à partir de l'âge de vingt
+ans. Ils peuvent également accueillir les personnes handicapées dont l'âge est compris entre seize et vingt ans ; dans ce
+cas, la commission des droits et de l'autonomie des personnes handicapées siège en formation plénière.
 
 **Liens relatifs à cet article**
 
@@ -80595,6 +80817,11 @@ départementale de l'éducation spéciale.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-703 2006-06-16 art. 3 I, II JORF 17 juin 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-703 du 16 juin 2006 - art. 3 () JORF 17 juin 2006 en vigueur le 1er janvier 2007
+
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. R344-20 (V)
@@ -80602,27 +80829,27 @@ départementale de l'éducation spéciale.
 
 ###### Article R344-7
 
-Tout centre d'aide par le travail géré par une personne de droit privé doit, pour obtenir l'autorisation de fonctionner
-prévue par l'article L. 313-1, passer une convention avec le représentant de l'Etat dans le département.
+Tout établissement ou service d'aide par le travail géré par une personne de droit privé doit, pour obtenir l'autorisation de
+fonctionner prévue par l'article L. 313-1, passer une convention avec le représentant de l'Etat dans le département. 
 
-Cette convention, qui entraîne la prise en charge au titre de l'aide sociale des dépenses du centre relevant de celle-ci,
-précise notamment :
+Cette convention, qui entraîne la prise en charge au titre de l'aide sociale des dépenses de l'établissement ou du service
+relevant de celle-ci, précise notamment : 
 
-1° Les catégories de personnes reçues ;
+1° Les catégories de personnes reçues ; 
 
-2° Le pourcentage maximum de personnes dont la capacité de travail est supérieure ou égale au tiers de la capacité normale ;
+2° Le pourcentage maximum de personnes dont la capacité de travail est supérieure ou égale au tiers de la capacité normale ; 
 
-3° La nature des activités professionnelles et extra professionnelles offertes par le centre ;
+3° La nature des activités à caractère professionnel et du soutien médico-social et éducatif afférent à ces activités,
+offerts par l'établissement ou le service ; 
 
-4° (Abrogé) ;
+4° (Abrogé) ; 
 
-5° Les modalités selon lesquelles sont assurés, en fonction des catégories de personnes accueillies, les soutiens médicaux,
-éducatifs, sociaux et psychologiques ainsi que le nombre et la qualification des personnels qui y contribuent ;
+5° Les modalités de détermination de la part de la rémunération garantie incombant à l'établissement ou au service d'aide par
+le travail ; 
 
-6° Les bases de rémunération des travailleurs handicapés à la charge de l'établissement.
-
-Elle prévoit, le cas échéant, la création d'une section d'atelier protégé ou d'un centre de distribution de travail à
-domicile ainsi que l'organisation d'un service technico-commercial commun à plusieurs centres d'aide par le travail.
+Elle peut prévoir l'organisation d'un service technico-commercial ainsi qu'un service d'appui aux travailleurs handicapés
+exerçant désormais leur activité en milieu ordinaire de travail, communs à plusieurs établissements ou services d'aide par le
+travail.
 
 **Liens relatifs à cet article**
 
@@ -80637,7 +80864,12 @@ domicile ainsi que l'organisation d'un service technico-commercial commun à plu
 
 	**Modifié par**:
 
-	  - Décret n°2006-422 du 7 avril 2006 - art. 30 () JORF 9 avril 2006
+	  - Décret n°2006-703 2006-06-16 art. 3 I, III JORF 17 juin 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-703 du 16 juin 2006 - art. 3 () JORF 17 juin 2006 en vigueur le 1er janvier 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2016-1815 du 21 décembre 2016 - art. 10
 
 	**Cité par**:
 
@@ -80647,15 +80879,16 @@ domicile ainsi que l'organisation d'un service technico-commercial commun à plu
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L313-1 (M)
+	  - Code de l'action sociale et des familles - art. L313-1
 
 
 ###### Article R344-8
 
-Les centres d'aide par le travail doivent répondre aux conditions d'hygiène et de sécurité prévues par les articles L. 231-1
-et suivants du code du travail.
+Les établissements et les services d'aide par le travail doivent répondre aux conditions d'hygiène et de sécurité prévues par
+les articles L. 231-1 et suivants du code du travail.
 
-Les centres d'aide par le travail sont soumis aux règles de la médecine du travail.
+Les établissements et les services d'aide par le travail sont soumis aux règles de la médecine du travail telles que prévues
+aux articles L. 241-2 et suivants du même code.
 
 **Liens relatifs à cet article**
 
@@ -80668,9 +80901,15 @@ Les centres d'aide par le travail sont soumis aux règles de la médecine du tra
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-703 2006-06-16 art. 3 I, IV JORF 17 juin 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-703 du 16 juin 2006 - art. 3 () JORF 17 juin 2006 en vigueur le 1er janvier 2007
+
 	**Cite**:
 
 	  - Code du travail - art. L231-1 (M)
+	  - Code du travail - art. L241-2 (M)
 
 	**Cité par**:
 
@@ -80679,8 +80918,8 @@ Les centres d'aide par le travail sont soumis aux règles de la médecine du tra
 
 ###### Article R344-9
 
-L'exploitation des centres d'aide par le travail est retracée au sein de deux budgets : le budget principal de l'activité
-sociale de l'établissement et le budget annexe de l'activité de production et de commercialisation.
+L'exploitation des établissements et les services d'aide par le travail est retracée au sein de deux budgets : le budget
+principal de l'activité sociale de l'établissement et le budget annexe de l'activité de production et de commercialisation.
 
 **Liens relatifs à cet article**
 
@@ -80694,6 +80933,11 @@ sociale de l'établissement et le budget annexe de l'activité de production et 
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-703 2006-06-16 art. 3 I, V JORF 17 juin 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-703 du 16 juin 2006 - art. 3 () JORF 17 juin 2006 en vigueur le 1er janvier 2007
+
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. R344-12 (V)
@@ -80704,10 +80948,11 @@ sociale de l'établissement et le budget annexe de l'activité de production et 
 
 Le budget principal de l'activité sociale comprend notamment en charges :
 
-1° Les frais entraînés par le soutien éducatif et médico-social des personnes handicapées dans leur activité de caractère
-professionnel ;
+1° Les frais entraînés par le soutien médico-social et éducatif des personnes handicapées afférents à leur activité à
+caractère professionnel et concourant à l'épanouissement personnel et social des travailleurs handicapés ;
 
-2° Les frais de transport collectif ;
+2° Les frais de transport collectif des travailleurs handicapés lorsque des contraintes tenant à l'environnement ou aux
+capacités des travailleurs handicapés l'exigent ;
 
 3° La part résultant de la ventilation des charges communes aux deux budgets ;
 
@@ -80728,6 +80973,11 @@ Ce budget comprend en produits notamment la dotation globale de financement.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-703 2006-06-16 art. 3 I, VI JORF 17 juin 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-703 du 16 juin 2006 - art. 3 () JORF 17 juin 2006 en vigueur le 1er janvier 2007
+
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. D243-29 (V)
@@ -80740,17 +80990,19 @@ Ce budget comprend en produits notamment la dotation globale de financement.
 ###### Article R344-11
 
 Le budget annexe de l'activité de production et de commercialisation comprend les seuls frais directement entraînés par
-l'activité de production et de commercialisation, au nombre desquels :
+l'activité de production et de commercialisation, au nombre desquels : 
 
-1° La rémunération des personnes handicapées et les charges sociales et fiscales afférentes ;
+1° La rémunération garantie des personnes handicapées et les charges sociales et fiscales afférentes y compris, les dépenses
+de service de santé au travail pour les travailleurs handicapés ; 
 
-2° Le coût d'achat des matières premières destinées à la production ;
+2° Le coût d'achat des matières premières destinées à la production ; 
 
-3° Les dotations aux comptes d'amortissement et de provision imputables à l'activité de production et de commercialisation ;
+3° Les dotations aux comptes d'amortissement et de provision imputables à l'activité de production et de commercialisation ; 
 
-4° La part résultant de la ventilation des charges communes aux deux budgets.
+4° La part résultant de la ventilation des charges communes aux deux budgets. 
 
-Ce budget comprend en produits l'intégralité des recettes dégagées par l'activité de production et de commercialisation.
+Ce budget comprend en produits le montant global des aides au poste versées en application de l'article L. 243-4 et suivants
+ainsi que l'intégralité des recettes dégagées par l'activité de production et de commercialisation. 
 
 Le budget annexe de l'activité de production et de commercialisation peut être établi conformément aux dispositions du plan
 comptable général.
@@ -80767,6 +81019,15 @@ comptable général.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-703 2006-06-16 art. 3 I, VII JORF 17 juin 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-703 du 16 juin 2006 - art. 3 () JORF 17 juin 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L243-4 (V)
+
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. R314-128 (VD)
@@ -80775,8 +81036,18 @@ comptable général.
 ###### Article R344-12
 
 Par dérogation aux dispositions de l'article R. 344-9, le budget de l'activité sociale et le budget de l'activité de
-production et de commercialisation peuvent, pour les centres d'aide par le travail gérés par des établissements publics,
-faire l'objet, l'un comme l'autre, d'un budget annexe de l'établissement gestionnaire.
+production et de commercialisation peuvent, pour les établissements ou les services d'aide par le travail gérés par des
+établissements publics, faire l'objet, l'un comme l'autre, d'un budget annexe de l'établissement gestionnaire.
+
+Par dérogation aux dispositions de l'article R. 323-61 du code du travail, les établissements publics qui gèrent des
+établissements ou services d'aide par le travail peuvent aussi gérer en budget annexe une entreprise adaptée conformément aux
+dispositions du plan comptable des établissements publics sociaux et médico-sociaux.
+
+Par dérogation aux dispositions de l'article R. 344-9 du présent code et de l'article R. 323-61 du code du travail, une
+entreprise adaptée dont l'organisme gestionnaire est une personne morale de droit privé à but non lucratif peut être gérée,
+conformément aux dispositions du plan comptable des établissements privés sociaux et médico-sociaux, en budget annexe d'un
+établissement ou service d'aide par le travail, si sa capacité d'accueil est inférieure à quinze places ou à la moitié de la
+capacité autorisée pour ledit établissement ou service.
 
 **Liens relatifs à cet article**
 
@@ -80788,9 +81059,15 @@ faire l'objet, l'un comme l'autre, d'un budget annexe de l'établissement gestio
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2007-874 du 14 mai 2007 - art. 4 () JORF 15 mai 2007 en vigueur le 1er janvier 2007
+
 	**Cite**:
 
+	  - Code du travail - art. R323-61 (P)
 	  - Code de l'action sociale et des familles - art. R344-9 (M)
+	  - Code de l'action sociale et des familles R344-9, annexe
 
 	**Cité par**:
 
@@ -80799,17 +81076,17 @@ faire l'objet, l'un comme l'autre, d'un budget annexe de l'établissement gestio
 
 ###### Article R344-13
 
-A l'exclusion des charges relatives à la rémunération des personnes handicapées, certaines charges ou fractions de charges
-directement entraînées par les activités de l'activité de production et de commercialisation peuvent, à titre exceptionnel,
-être inscrites dans les charges du budget prévisionnel de l'activité sociale.
+A l'exclusion des charges relatives à la rémunération garantie des personnes handicapées, certaines charges ou fractions de
+charges directement entraînées par l'activité de production et de commercialisation peuvent, à titre exceptionnel, être
+inscrites dans les charges du budget prévisionnel de l'activité sociale.
 
 Cette inscription n'est possible que lorsque le budget prévisionnel de l'activité de production et de commercialisation
 présente, pour l'exercice en cause, un déséquilibre lié soit au démarrage ou à la reconversion de cette activité, soit à une
 modification importante et imprévisible de ses conditions économiques, et susceptible de mettre en cause le fonctionnement
-normal de l'établissement.
+normal de l'établissement ou du service d'aide par le travail.
 
 Les dispositions du présent article relatives à cette inscription exceptionnelle ne peuvent recevoir application plus de
-trois années consécutives pour un même centre d'aide par le travail.
+trois années consécutives pour un même établissement ou service d'aide par le travail.
 
 **Liens relatifs à cet article**
 
@@ -80822,6 +81099,11 @@ trois années consécutives pour un même centre d'aide par le travail.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-703 2006-06-16 art. 3 I, IX JORF 17 juin 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-703 du 16 juin 2006 - art. 3 () JORF 17 juin 2006 en vigueur le 1er janvier 2007
+
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. R344-10 (V)
@@ -80831,10 +81113,11 @@ trois années consécutives pour un même centre d'aide par le travail.
 
 L'état récapitulatif des charges communes aux deux budgets mentionnés à l'article R. 344-9 ainsi que leur ventilation
 comptable et les critères selon lesquels elle a été opérée sont transmis au préfet du département lors de la soumission des
-prévisions budgétaires de l'établissement. Il en est de même lors de la transmission du compte administratif.
+prévisions budgétaires de l'établissement ou du service d'aide par le travail. Il en est de même lors de la transmission du
+compte administratif.
 
-Une convention passée entre le préfet et le centre d'aide par le travail peut fixer les critères selon lesquels est opérée la
-ventilation des charges communes.
+Une convention passée entre le préfet et l'établissement ou le service d'aide par le travail peut fixer les critères selon
+lesquels est opérée la ventilation des charges communes.
 
 **Liens relatifs à cet article**
 
@@ -80847,6 +81130,11 @@ ventilation des charges communes.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-703 2006-06-16 art. 3 I, X JORF 17 juin 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-703 du 16 juin 2006 - art. 3 () JORF 17 juin 2006 en vigueur le 1er janvier 2007
+
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. D344-25 (MMN)
@@ -80858,8 +81146,9 @@ ventilation des charges communes.
 
 ###### Article R344-15
 
-Lorsqu'un atelier protégé ou un centre de distribution de travail à domicile est adjoint au centre, il fait l'objet d'un
-budget et d'une comptabilité distincts.
+Les obligations de l'employeur prévues par la législation sur les accidents du travail du livre IV du code de la sécurité
+sociale et du chapitre Ier du titre III du livre VII du code rural incombent à la personne ou à l'organisme responsable de la
+gestion de l'établissement ou du service d'aide par le travail.
 
 **Liens relatifs à cet article**
 
@@ -80872,32 +81161,28 @@ budget et d'une comptabilité distincts.
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Abrogé par**:
+	**Modifié par**:
 
+	  - Décret n°2006-703 2006-06-16 art. 3 I, XII JORF 17 juin 2006 en vigueur le 1er janvier 2007
 	  - Décret n°2006-703 du 16 juin 2006 - art. 3 () JORF 17 juin 2006 en vigueur le 1er janvier 2007
 
 
+##### Sous-section 2 : Exercice d'une activité à caractère professionnel en milieu ordinaire de travail par des travailleurs handicapés admis en établissement ou service d'aide par le travail
+
 ###### Article R344-16
 
-Les cotisations prévues à l'article L. 242-1 du code de la sécurité sociale et aux articles L. 741-3, L. 741-9, L. 741-13 à
-L. 741-17, L. 741-19 à L. 741-23, L. 751-10 et L. 751-11 du code rural ainsi que les cotisations de retraite complémentaire
-dues pour les travailleurs handicapés du centre d'aide par le travail se répartissent ainsi qu'il suit :
+Lorsque l'exercice d'une activité à caractère professionnel en milieu ordinaire de travail est susceptible de favoriser
+l'épanouissement personnel et professionnel et de développer la capacité d'emploi de travailleurs handicapés admis dans un
+établissement ou un service d'aide par le travail, cet établissement ou ce service peut, avec l'accord des intéressés et dans
+les conditions définies par la présente sous-section, mettre une ou plusieurs personnes handicapées à la disposition d'une
+entreprise, d'une collectivité territoriale, d'un établissement public, d'une association ou de toute autre personne morale
+de droit public ou de droit privé ainsi qu'auprès d'une personne physique.
 
-1° Le travailleur acquitte la part de cotisations qui lui incombe sur le montant de ce qu'il perçoit, rémunération et
-complément de rémunération dû par l'Etat au titre de la garantie de ressources confondus ;
-
-2° L'Etat assure à l'organisme gestionnaire du centre d'aide par le travail compensation de la part de cotisations incombant
-à l'employeur qui correspond au montant du complément de rémunération versé au titre de la garantie de ressources ;
-
-3° La part de cotisations incombant à l'employeur qui correspond au montant de la rémunération à la charge de l'établissement
-est prise en charge par le centre d'aide par le travail.
+Quelles que soient les modalités d'exercice de cette activité à caractère professionnel en milieu ordinaire de travail, les
+travailleurs handicapés concernés continuent à bénéficier d'un accompagnement médico-social et professionnel assuré par
+l'établissement ou le service d'aide par le travail auquel ils demeurent rattachés.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural L741-3, L741-9, L741-13 à L741-17, L741-19 à L741-23, L751-10, L751-11
-	  - Code de la sécurité sociale. - art. L242-1 (M)
 
 	**Anciens textes**:
 
@@ -80907,16 +81192,42 @@ est prise en charge par le centre d'aide par le travail.
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Abrogé par**:
+	**Créé par**:
 
-	  - Décret n°2006-703 du 16 juin 2006 - art. 3 () JORF 17 juin 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2007-874 du 14 mai 2007 - art. 5 () JORF 15 mai 2007 en vigueur le 1er janvier 2007
 
 
 ###### Article R344-17
 
-Les centres d'aide par le travail ne sont pas assujettis au versement des cotisations d'assurance chômage.
+Un contrat écrit est passé entre l'établissement ou le service d'aide par le travail et la personne physique ou morale auprès
+de laquelle la mise à disposition est réalisée.
+
+Ce contrat précise notamment :
+
+1° Le nom du ou des travailleurs handicapés concernés et, en cas de mise à disposition d'équipes dont la composition est
+susceptible de varier, le nombre de travailleurs handicapés qui les composent ;
+
+2° La nature de l'activité ou des activités confiées aux travailleurs handicapés, ainsi que le lieu et les horaires de
+travail ;
+
+3° La base de facturation à l'utilisateur du travail fourni ou du service rendu et des dépenses correspondant aux charges
+particulières d'exploitation incombant à l'établissement ou au service d'aide par le travail entraînées par la mise à
+disposition ;
+
+4° Les conditions dans lesquelles l'établissement ou le service d'aide par le travail assure au travailleur handicapé l'aide
+et le soutien médico-social qui lui incombent ;
+
+5° Les conditions dans lesquelles est exercée la surveillance médicale du travailleur handicapé prévue par l'article R.
+241-50 du code du travail ou à l'article R. 717-16 du code rural ; 
+
+6° Les mesures prévues pour assurer l'adaptation du travailleur handicapé à son nouveau milieu de travail.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural R717-16
+	  - Code du travail - art. R241-50 (M)
 
 	**Anciens textes**:
 
@@ -80926,9 +81237,9 @@ Les centres d'aide par le travail ne sont pas assujettis au versement des cotisa
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Abrogé par**:
+	**Créé par**:
 
-	  - Décret n°2006-703 du 16 juin 2006 - art. 3 () JORF 17 juin 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2007-874 du 14 mai 2007 - art. 5 () JORF 15 mai 2007 en vigueur le 1er janvier 2007
 
 	**Cité par**:
 
@@ -80938,13 +81249,13 @@ Les centres d'aide par le travail ne sont pas assujettis au versement des cotisa
 
 ###### Article R344-18
 
-Les obligations de l'employeur prévues par la législation sur les accidents du travail du livre IV du code de la sécurité
-sociale et du chapitre Ier du titre III du livre VII du code rural incombent à la personne ou à l'organisme responsable de la
-gestion du centre d'aide par le travail.
+Lorsqu'il porte sur la mise à disposition individuelle d'un ou plusieurs travailleurs handicapés nommément désignés, le
+contrat mentionné à l'article R. 344-17 a une durée maximale de deux ans. Il est communiqué à la maison départementale des
+personnes handicapées dans les quinze jours qui suivent sa signature.
 
-Pour les personnes accueillies dans les centres d'aide par le travail en période d'essai, le gain à prendre en considération
-pour le calcul tant des cotisations que des prestations est égal au montant des ressources garanties en vertu des
-dispositions prévues par les articles L. 243-4 à L. 243-7.
+La prolongation au-delà de deux ans de cette mise à disposition du travailleur handicapé est subordonnée à l'accord de la
+commission des droits et de l'autonomie des personnes handicapées. Cet accord est demandé par le directeur de l'établissement
+ou du service d'aide par le travail.
 
 **Liens relatifs à cet article**
 
@@ -80956,26 +81267,35 @@ dispositions prévues par les articles L. 243-4 à L. 243-7.
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Créé par**:
 
-	  - Décret n°2006-703 du 16 juin 2006 - art. 3 () JORF 17 juin 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2007-874 du 14 mai 2007 - art. 5 () JORF 15 mai 2007 en vigueur le 1er janvier 2007
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. R344-15 (Ab)
 	  - Code de l'action sociale et des familles - art. R344-15 (M)
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles L243-4 à L243-7
+	  - Code de l'action sociale et des familles - art. R344-17 (Ab)
 
 
 ###### Article R344-19
 
-Sur la base d'un recensement des besoins effectué par les ministères chargés du travail et de la santé, le Gouvernement
-engage un programme d'équipement pour développer les centres d'aide par le travail et les ateliers protégés.
+Les dispositions concernant l'hygiène et la sécurité auxquelles est assujettie la personne physique ou morale qui a passé
+contrat avec l'établissement ou le service d'aide par le travail sont applicables aux travailleurs handicapés qui sont mis à
+sa disposition.
+
+Lorsque l'activité exercée par le travailleur handicapé nécessite une surveillance médicale renforcée ou particulière au sens
+de l'article R. 241-50 du code du travail ou de l'article R. 717-16 du code rural, les obligations correspondantes sont à la
+charge de l'utilisateur.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural R717-16
+	  - Code du travail - art. R241-50 (M)
 
 	**Anciens textes**:
 
@@ -80985,243 +81305,51 @@ engage un programme d'équipement pour développer les centres d'aide par le tra
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Abrogé par**:
+	**Créé par**:
 
-	  - Décret n°2006-703 du 16 juin 2006 - art. 3 () JORF 17 juin 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2007-874 du 14 mai 2007 - art. 5 () JORF 15 mai 2007 en vigueur le 1er janvier 2007
 
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. R543-4 (V)
 
 
-##### Sous-section 2 : Exercice d'une activité extérieure.
+###### Article R344-20
 
-###### Article D344-20
-
-Dans le cas où une activité à caractère professionnel exercée à l'extérieur de l'établissement est susceptible de favoriser
-l'épanouissement personnel et l'intégration sociale de travailleurs handicapés admis dans un centre d'aide par le travail, ce
-centre peut, avec l'accord des intéressés et dans les conditions définies par la présente sous-section, organiser l'exercice
-de cette activité extérieure soit en équipe, avec l'encadrement permanent du personnel du centre, soit de manière
-individuelle.
+Les dispositions des articles R. 243-5 à R. 243-13 et des articles R. 344-6 à R. 344-15 demeurent applicables aux
+établissements ou services d'aide par le travail dans le cas où des travailleurs handicapés exercent une activité dans les
+conditions définies par la présente sous-section.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°86-510 du 14 mars 1986 - art. 1 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. D344-21 (MMN)
-
-
-###### Article D344-21
-
-Un contrat écrit doit être passé entre le centre d'aide par le travail et la personne physique ou morale pour le compte de
-laquelle est exercée l'activité définie par l'article D. 344-20.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°86-510 du 14 mars 1986 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. D344-20 (M)
-
-
-###### Article D344-22
-
-Lorsque l'activité à l'extérieur du centre est exercée en équipe par des travailleurs handicapés le contrat doit préciser :
-
-1° La nature de l'activité, le lieu et les horaires de travail ;
-
-2° Le nombre de travailleurs handicapés concernés ;
-
-3° La somme versée en contrepartie au centre ;
-
-4° Les modalités de l'encadrement permanent des travailleurs handicapés par le personnel du centre ;
-
-5° Les conditions dans lesquelles sera exercée la surveillance médicale particulière des travailleurs handicapés prévue par
-l'article R. 241-50 du code du travail.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°86-510 du 14 mars 1986 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Cite**:
-
-	  - Code du travail - art. R241-50 (M)
-
-
-###### Article D344-23
-
-Lorsque l'activité à l'extérieur du centre est exercée par le travailleur handicapé de manière individuelle, le contrat doit
-préciser :
-
-1° Le nom du travailleur handicapé ;
-
-2° La nature de l'activité, le lieu et les horaires de travail ;
-
-3° La somme versée en contrepartie au centre ;
-
-4° Les conditions dans lesquelles le centre assure au travailleur handicapé l'aide et le soutien médico-social qui lui
-incombent ;
-
-5° Les conditions dans lesquelles sera exercée la surveillance médicale particulière du travailleur handicapé prévue par
-l'article R. 241-50 du code du travail ;
-
-6° Les mesures prévues pour assurer l'adaptation du travailleur handicapé au milieu de travail.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°86-510 du 14 mars 1986 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Cite**:
-
-	  - Code du travail - art. R241-50 (M)
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. D344-24 (Ab)
-	  - Code de l'action sociale et des familles - art. D344-25 (MMN)
-
-
-###### Article D344-25
-
-La rémunération versée par le centre d'aide par le travail au travailleur handicapé qui exerce, de manière individuelle, une
-activité à l'extérieur de l'établissement est égale à la somme fixée par le contrat défini à l'article D. 344-23 diminuée du
-montant des charges obligatoires supportées par le centre du fait de ce versement et, le cas échéant, de la provision pour
-rémunération définie par l'article R. 344-14.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°86-510 du 14 mars 1986 - art. 6 (M)
-	  - Décret n°86-510 du 14 mars 1986 - art. 6 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. D344-23 (M)
-	  - Code de l'action sociale et des familles - art. R344-14 (M)
-
-
-###### Article D344-26
-
-Les dispositions concernant l'hygiène et la sécurité auxquelles est assujettie la personne physique ou morale qui a passé
-contrat avec le centre d'aide par le travail sont applicables aux travailleurs handicapés qui exercent une activité à
-l'extérieur du centre pour le compte de cette personne.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°86-510 du 14 mars 1986 - art. 7 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-
-###### Article D344-27
-
-Les dispositions des articles R. 243-5 à D. 243-16 et des articles R. 344-6 à R. 344-18 demeurent applicables aux centres
-d'aide par le travail dans le cas où des travailleurs handicapés exercent une activité extérieure dans les conditions
-définies par la présente sous-section.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°86-510 du 14 mars 1986 - art. 8 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles R243-5 à D243-16, R344-6 à R344-18
-
-
-###### Article D344-28
-
-Les travailleurs handicapés qui exercent une activité extérieure dans les conditions définies par la présente sous-section
-sont compris dans les effectifs des personnes accueillies par le centre d'aide par le travail.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°86-510 du 14 mars 1986 - art. 9 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-
-##### Section 2 : Etablissements et services d'aide par le travail
-
-##### Sous-section 2 : Exercice d'une activité extérieure.
-
-###### Article D344-24
-
-Le contrat mentionné à l'article D. 344-23 a une durée maximale d'un an ; il peut être renouvelé.
-
-Le directeur du centre d'aide par le travail est tenu de communiquer la convention, dans les quinze jours qui suivent sa
-signature, à la commission technique d'orientation et de reclassement professionnel.
-
-La prolongation au-delà d'un an de l'activité du travailleur handicapé à l'extérieur du centre est subordonnée, lorsque cette
-activité est exercée de manière individuelle, à l'accord de la commission technique d'orientation et de reclassement
-professionnel ; cet accord doit être demandé par le directeur du centre d'aide par le travail.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°86-510 du 14 mars 1986 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Modifié par**:
-
-	  - Décret n°2006-703 du 16 juin 2006 - art. 3 () JORF 17 juin 2006 en vigueur le 1er janvier 2007
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Décret n°2007-874 du 14 mai 2007 - art. 5 () JORF 15 mai 2007 en vigueur le 1er janvier 2007
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. D344-23 (M)
+	  - Code de l'action sociale et des familles - art. R243-5 (V)
+	  - Code de l'action sociale et des familles - art. R344-6 (V)
+
+
+###### Article R344-21
+
+Les travailleurs handicapés qui exercent leur activité dans les conditions définies par la présente sous-section sont compris
+dans les effectifs des personnes accueillies par l'établissement ou le service d'aide par le travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-874 du 14 mai 2007 - art. 5 () JORF 15 mai 2007 en vigueur le 1er janvier 2007
 
 
 ##### Section 3 : Dispositions applicables aux personnes accueillies dans les centres pour handicapés adultes
@@ -81231,14 +81359,14 @@ professionnel ; cet accord doit être demandé par le directeur du centre d'aide
 ###### Article R344-29
 
 Toute personne handicapée qui est accueillie de façon permanente ou temporaire, à la charge de l'aide sociale, dans un
-établissement de rééducation professionnelle ou d'aide par le travail fonctionnant en internat, dans un foyer-logement ou
-dans tout autre établissement d'hébergement pour personnes handicapées doit s'acquitter d'une contribution qu'elle verse à
-l'établissement ou qu'elle donne pouvoir à celui-ci d'encaisser.
+établissement de rééducation professionnelle fonctionnant en internat, dans un foyer-logement ou dans tout autre
+établissement d'hébergement pour personnes handicapées doit s'acquitter d'une contribution qu'elle verse à l'établissement ou
+qu'elle donne pouvoir à celui-ci d'encaisser.
 
 Cette contribution, qui a pour seul objet de couvrir tout ou partie des frais d'hébergement et d'entretien de la personne
-handicapée, est fixée par la commission d'admission à l'aide sociale, au moment de la décision de prise en charge, compte
-tenu des ressources du pensionnaire, de telle sorte que celui-ci puisse conserver le minimum fixé en application du 1° de
-l'article L. 344-5. Elle peut varier ultérieurement selon l'évolution des ressources mensuelles de l'intéressé.
+handicapée, est fixée par le président du conseil général, au moment de la décision de prise en charge, compte tenu des
+ressources du pensionnaire, de telle sorte que celui-ci puisse conserver le minimum fixé en application du 1° de l'article L.
+344-5. Elle peut varier ultérieurement selon l'évolution des ressources mensuelles de l'intéressé.
 
 L'aide sociale prend en charge les frais d'hébergement et d'entretien qui dépassent la contribution du pensionnaire.
 
@@ -81252,6 +81380,10 @@ L'aide sociale prend en charge les frais d'hébergement et d'entretien qui dépa
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-703 du 16 juin 2006 - art. 6 () JORF 17 juin 2006 en vigueur le 1er janvier 2007
+
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L344-5 (M)
@@ -81263,8 +81395,8 @@ L'aide sociale prend en charge les frais d'hébergement et d'entretien qui dépa
 
 ###### Article R344-30
 
-La commission d'admission peut prévoir une exonération de la contribution pendant les périodes de vacances et, à cette fin,
-fragmenter la contribution en semaines, une semaine représentant trois treizièmes de la contribution mensuelle.
+Le président du conseil général peut prévoir une exonération de la contribution pendant les périodes de vacances et, à cette
+fin, fragmenter la contribution en semaines, une semaine représentant trois treizièmes de la contribution mensuelle.
 
 **Liens relatifs à cet article**
 
@@ -81275,6 +81407,10 @@ fragmenter la contribution en semaines, une semaine représentant trois treiziè
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-584 du 23 mai 2006 - art. 7 () JORF 24 mai 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article R344-31
@@ -81309,8 +81445,8 @@ L'organisme débiteur de l'allocation aux adultes handicapés ne peut refuser le
 
 Lorsque le pensionnaire est obligé, pour effectuer les actes ordinaires de la vie, d'avoir recours à l'assistance d'une
 tierce personne et qu'il bénéficie à ce titre de l'allocation compensatrice prévue à l'article L. 245-1, le paiement de cette
-allocation est suspendu à concurrence d'un montant fixé par la commission d'admission, en proportion de l'aide qui lui est
-assurée par le personnel de l'établissement pendant qu'il y séjourne et au maximum à concurrence de 90 %.
+allocation est suspendu à concurrence d'un montant fixé par le président du conseil général, en proportion de l'aide qui lui
+est assurée par le personnel de l'établissement pendant qu'il y séjourne et au maximum à concurrence de 90 %.
 
 **Liens relatifs à cet article**
 
@@ -81322,6 +81458,10 @@ assurée par le personnel de l'établissement pendant qu'il y séjourne et au ma
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-584 du 23 mai 2006 - art. 7 () JORF 24 mai 2006 en vigueur le 1er janvier 2007
 
 	**Cite**:
 
@@ -81337,7 +81477,7 @@ assurée par le personnel de l'établissement pendant qu'il y séjourne et au ma
 Lorsque le pensionnaire expose des frais supplémentaires liés à l'exercice d'une activité professionnelle et qu'il bénéficie
 à ce titre de l'allocation compensatrice, il garde la disposition de celle-ci. Toutefois, si l'établissement le décharge
 d'une partie de ces frais par des services et notamment par la mise à sa disposition de moyens de transports adaptés, le
-paiement de l'allocation est suspendu jusqu'à concurrence d'un montant fixé par la commission d'admission.
+paiement de l'allocation est suspendu jusqu'à concurrence d'un montant fixé par le président du conseil général.
 
 **Liens relatifs à cet article**
 
@@ -81349,6 +81489,10 @@ paiement de l'allocation est suspendu jusqu'à concurrence d'un montant fixé pa
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-584 du 23 mai 2006 - art. 7 () JORF 24 mai 2006 en vigueur le 1er janvier 2007
 
 
 ##### Sous-section 2 : Minimum de ressources
@@ -83247,37 +83391,79 @@ d'assistant ou d'auxiliaire de service social. En cas de récidive, la contraven
 	  - Code de l'action sociale et des familles - art. R411-10 (V)
 
 
-### Titre II : Assistants maternels
+### Titre II : Assistants maternels et assistants familiaux
 
 #### Chapitre Ier : Dispositions générales
 
-##### Section 1 : Procédures d'agrément
+###### Article D421-2
 
-##### Sous-section 1 : Conditions et modalités de délivrance de l'agrément.
+Le président du conseil général peut également organiser des séances d'information relatives à l'activité d'assistant
+familial, au cours desquelles sont évoqués notamment les modalités d'exercice de cette activité, les conditions de l'agrément
+prévues par l'article L. 421-3, les droits et obligations qui s'attachent à cet agrément, les besoins de l'enfant et les
+relations avec les parents ou les personnes responsables de l'enfant. 
+
+Des représentants d'associations et d'organisations représentatives d'assistants familiaux ainsi que des personnes morales
+employeurs peuvent être invités à participer à ces séances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
+	**Cité par**:
+
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 6 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L421-3 (V)
+
 
 ###### Article R421-1
 
-Pour obtenir l'agrément d'assistant maternel, la candidate ou le candidat doit :
+En application des dispositions de l'article L. 2112-2 (7°) du code de la santé publique et selon les modalités prévues à
+l'article L. 214-6, le président du conseil général organise de façon régulière des séances d'information relatives à
+l'activité d'assistant maternel à destination des candidats éventuels à cette profession, au cours desquelles sont présentés
+notamment le rôle et les responsabilités de l'assistant maternel, les modalités d'exercice de la profession, les conditions
+de l'agrément prévu par l'article L. 421-3, les droits et obligations qui s'attachent à cet agrément, les besoins de l'enfant
+et les relations avec les parents ou les personnes responsables de l'enfant. 
 
-1° Présenter les garanties nécessaires pour accueillir des mineurs dans des conditions propres à assurer leur développement
-physique, intellectuel et affectif ;
+Des représentants d'associations et d'organisations représentatives d'assistants maternels, des personnes morales et des
+particuliers employeurs peuvent être invités à participer à ces séances. 
 
-2° Passer un examen médical qui a pour objet de vérifier que son état de santé lui permet d'accueillir habituellement des
-mineurs et dont le contenu est fixé par arrêté des ministres chargés de la santé et de la famille ;
+Dans les communes ou leurs groupements dotés d'un relais assistants maternels tel que défini à l'article L. 214-2-1, le
+président du conseil général peut associer ce dernier à l'organisation des réunions d'information.
 
-3° Disposer d'un logement dont l'état, les dimensions et l'environnement permettent d'assurer le bien-être physique et la
-sécurité des mineurs compte tenu du nombre et de l'âge de ceux pour lesquels l'agrément est demandé.
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-1051 1992-09-29 art. 2
 	  - Décret n°92-1051 du 29 septembre 1992 - art. 2 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1153 2006-09-14 art. 1 I, II JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L2112-2 (M)
+	  - Code de l'action sociale et des familles - art. L214-2-1 (V)
+	  - Code de l'action sociale et des familles - art. L214-6 (V)
+	  - Code de l'action sociale et des familles - art. L421-3 (VT)
 
 	**Cité par**:
 
@@ -83286,42 +83472,334 @@ sécurité des mineurs compte tenu du nombre et de l'âge de ceux pour lesquels 
 	  - Code de l'action sociale et des familles - art. R422-2 (V)
 
 
-###### Article R421-2
+##### Section 1 : Procédures d'agrément
 
-Pour réunir les éléments d'appréciation relatifs aux conditions définies aux 1° et 3° de l'article R. 421-1, le président du
-conseil général peut faire appel à des personnes morales de droit public ou de droit privé ayant conclu à cet effet
-convention avec le département.
+##### Sous-section 1 : Conditions, modalités de délivrance, contenu et durée de l'agrément.
+
+###### Article D421-4
+
+L'instruction de la demande d'agrément d'assistant maternel ou d'assistant familial comporte : 
+
+1° L'examen du dossier mentionné à l'article L. 421-3 ; 
+
+2° Un ou des entretiens avec le candidat, associant, le cas échéant, les personnes résidant à son domicile ; 
+
+3° Une ou des visites au domicile du candidat ; 
+
+4° La vérification, dans le cadre des dispositions du 3° de l'article 776 du code de procédure pénale, que le candidat n'a
+pas fait l'objet de condamnations mentionnées à l'article L. 133-6.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°92-1051 1992-09-29 art. 3
-	  - Décret n°92-1051 du 29 septembre 1992 - art. 3 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Abrogé par**:
+	**Créé par**:
+
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
+	**Cité par**:
+
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 6 (V)
+	  - Code de l'action sociale et des familles - art. D421-27-7 (MMN)
+	  - Code de la sécurité sociale. - art. D542-35 (VD)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 776 (M)
+	  - Code de l'action sociale et des familles - art. L133-6 (V)
+	  - Code de l'action sociale et des familles - art. L421-3 (V)
+
+
+###### Article D421-7
+
+Le président du conseil général peut, pour réunir les éléments d'appréciation relatifs aux conditions définies aux 1° et 3°
+de l'article R. 421-3, faire appel à des personnes morales de droit public ou de droit privé ayant conclu à cet effet
+convention avec le département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
 
 	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. R421-1 (M)
+	  - Code de l'action sociale et des familles - art. L421-3 (V)
+	  - Code de l'action sociale et des familles - art. R421-3 (M)
+
+
+###### Article D421-8
+
+Peuvent être sollicitées, pour donner leur avis dans le cadre de la procédure d'instruction des demandes d'agrément
+d'assistant maternel, les personnes mentionnées au troisième alinéa de l'article L. 421-3, à condition d'être titulaires du
+certificat d'aptitude professionnelle petite enfance ou de l'un des diplômes mentionnés à l'article D. 421-49 dispensant de
+la formation d'assistant maternel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D421-49 (V)
+	  - Code de l'action sociale et des familles - art. L421-3 (V)
+
+
+###### Article D421-9
+
+Peuvent être sollicitées, pour donner leur avis au cours de la procédure d'instruction des demandes d'agrément d'assistant
+familial, les personnes mentionnées au troisième alinéa de l'article L. 421-3, à condition qu'elles soient titulaires du
+diplôme sanctionnant la formation prévue à l'article L. 421-15 ou de l'un des diplômes mentionnés à l'article D. 421-43
+dispensant de cette formation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D421-43 (V)
+	  - Code de l'action sociale et des familles - art. L421-15 (V)
+	  - Code de l'action sociale et des familles - art. L421-3 (V)
+
+
+###### Article D421-10
+
+Le dossier de demande d'agrément d'assistant maternel ou d'assistant familial est adressé au président du conseil général du
+département de résidence de l'intéressé par lettre recommandée avec demande d'avis de réception ou déposé auprès du service
+départemental compétent qui en donne récépissé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article D421-11
+
+Les délais mentionnés à l'article L. 421-6 courent à compter de la date de l'avis de réception postal ou du récépissé.
+Toutefois, si le dossier de la demande n'est pas complet, le service compétent demande sous quinzaine à l'intéressé de
+compléter celui-ci. Ces délais ne courent qu'à compter de la réception du dossier complet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L421-6 (V)
+
+
+###### Article D421-12
+
+L'agrément d'assistant maternel est accordé pour une durée de cinq ans, sauf dans les cas prévus à l'article D. 421-21. 
+
+La décision accordant l'agrément mentionne le nombre d'enfants que l'assistant maternel est autorisé à accueillir
+simultanément, ainsi que, le cas échéant, leur âge et les périodes durant lesquelles ils peuvent être accueillis. Elle
+précise notamment que la présence d'un enfant de moins de trois ans de l'assistant maternel rend indisponible une place
+d'accueil autorisée par l'agrément.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D421-21 (V)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R421-41 (VD)
+
+
+###### Article D421-13
+
+L'agrément d'assistant familial est accordé pour une durée de cinq ans, sauf dans les cas prévus à l'article D. 421-22. 
+
+La décision accordant l'agrément mentionne le nombre de mineurs et de jeunes majeurs que l'assistant familial est autorisé à
+accueillir.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D421-22 (V)
+
+
+###### Article D421-15
+
+Lorsqu'en application de l'article L. 421-6 l'agrément est réputé acquis, une attestation est délivrée sans délai par le
+président du conseil général à la personne intéressée. 
+
+L'attestation précise : 
+
+1° S'agissant d'un agrément d'assistant familial, le nombre de mineurs et de jeunes majeurs pour l'accueil desquels
+l'agrément est demandé ; 
+
+2° S'agissant d'un agrément d'assistant maternel, le nombre, l'âge des mineurs pour l'accueil desquels l'agrément est
+demandé, ainsi que les périodes d'accueil. 
+
+Le président du conseil général informe l'assistant maternel, lors de la remise de la décision ou de l'attestation
+d'agrément, que son nom, son adresse et son numéro de téléphone seront, sauf opposition de sa part, portés à la connaissance
+des personnes mentionnées aux articles L. 421-8 et D. 421-36. 
+
+Le président du conseil général remet à l'assistant maternel, en même temps que la décision ou l'attestation d'agrément, des
+documents d'information relatifs à la formation, au suivi et à l'accompagnement dont il pourra bénéficier, et aux conditions
+d'exercice de sa profession, notamment un référentiel du métier d'accueil de jeunes enfants par un assistant maternel, défini
+par arrêté du ministre chargé de la famille, précisant le rôle et les responsabilités de l'assistant maternel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D421-36 (V)
+	  - Code de l'action sociale et des familles - art. L421-6 (V)
+	  - Code de l'action sociale et des familles - art. L421-8 (V)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R421-41 (VD)
+
+
+###### Article D421-16
+
+Pour obtenir la dérogation prévue à l'article L. 421-4 ou à l'article L. 421-5 pour l'accueil d'un nombre de mineurs et de
+jeunes majeurs supérieur à trois, l'intéressé adresse une demande, distincte de celle mentionnée à l'article D. 421-10, au
+président du conseil général. 
+
+La décision de dérogation est valable pour une durée définie par le président du conseil général.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
+	**Cité par**:
+
+	  - Décret n°2015-1460 du 10 novembre 2015 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L421-4 (V)
+	  - Code de l'action sociale et des familles - art. L421-5 (V)
+
+
+###### Article D421-17
+
+A titre exceptionnel, à la demande de l'assistant maternel et avec l'accord préalable écrit du président du conseil général,
+le nombre d'enfants que l'assistant maternel est autorisé à accueillir peut être dépassé afin de lui permettre notamment de
+remplacer un autre assistant maternel indisponible pour une courte durée ou pendant la période d'adaptation d'un nouvel
+enfant confié. Dans ce cas, l'assistant maternel en informe les parents des enfants qui lui sont confiés habituellement.
+
+A titre exceptionnel, le nombre d'enfants que l'assistant maternel est autorisé à accueillir peut être dépassé pour assurer
+la continuité de l'accueil des enfants confiés dans des situations urgentes et imprévisibles. L'assistant maternel en informe
+sans délai le président du conseil général.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article D421-18
+
+A titre exceptionnel, à la demande de l'employeur et avec l'accord préalable écrit de l'assistant familial et du président du
+conseil général, le nombre d'enfants que l'assistant familial est autorisé à accueillir peut être dépassé afin de lui
+permettre notamment de remplacer un autre assistant familial indisponible pour une courte durée.
+
+Dans des situations exceptionnelles et imprévisibles, le nombre d'enfants que l'assistant familial est autorisé à accueillir
+peut être dépassé, sous la responsabilité de l'employeur, pour assurer la continuité de l'accueil. L'employeur en informe
+sans délai le président du conseil général.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
+	**Cité par**:
+
+	  - Décret n°2015-1460 du 10 novembre 2015 - art. (V)
 
 
 ###### Article R421-3
 
-La demande d'agrément, établie sur un formulaire dont le contenu est fixé par arrêté du ministre chargé de la famille, doit
-préciser notamment :
+Pour obtenir l'agrément d'assistant maternel ou d'assistant familial, le candidat doit :
 
-1° Le caractère permanent ou non permanent de l'accueil envisagé et, dans ce dernier cas, s'il s'agit d'un accueil à la
-journée ou à temps partiel ;
+1° Présenter les garanties nécessaires pour accueillir des mineurs dans des conditions propres à assurer leur développement
+physique, intellectuel et affectif ;
 
-2° Le nombre et l'âge des mineurs pour l'accueil desquels l'agrément est demandé, cet âge devant être inférieur de dix ans au
-moins à celui du candidat ou de la candidate.
+2° Passer un examen médical qui a pour objet de vérifier que son état de santé lui permet d'accueillir habituellement des
+mineurs et dont le contenu est fixé par arrêté des ministres chargés de la santé et de la famille ;
+
+3° Disposer d'un logement dont l'état, les dimensions, les conditions d'accès et l'environnement permettent d'assurer le
+bien-être et la sécurité des mineurs compte tenu du nombre et, s'agissant d'un candidat à l'agrément d'assistant maternel, de
+l'âge de ceux pour lesquels l'agrément est demandé.
 
 **Liens relatifs à cet article**
 
@@ -83334,6 +83812,11 @@ moins à celui du candidat ou de la candidate.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1153 2006-09-14 art. 1 I, IV JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. D421-20 (V)
@@ -83343,39 +83826,27 @@ moins à celui du candidat ou de la candidate.
 	  - Code de l'action sociale et des familles - art. R421-9 (Ab)
 
 
-###### Article R421-4
-
-La demande d'agrément, dûment remplie et accompagnée du certificat médical délivré à l'issue de l'examen prévu à l'article R.
-421-21, est adressée au président du conseil général du département de résidence de l'intéressé par lettre recommandée avec
-demande d'avis de réception ou déposée auprès du service départemental compétent qui en donne récépissé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°92-1051 1992-09-29 art. 5 al. 1, art. 6
-	  - Décret n°92-1051 du 29 septembre 1992 - art. 5 (Ab)
-	  - Décret n°92-1051 du 29 septembre 1992 - art. 6 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
-
-	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. R421-21 (Ab)
-
-
 ###### Article R421-5
 
-Les délais mentionnés à l'article L. 421-2 courent à compter de la date de l'avis de réception postal ou du récépissé.
+Les entretiens avec un candidat à des fonctions d'assistant maternel et les visites à son domicile doivent permettre de
+s'assurer :
 
-Toutefois, si le dossier de la demande n'est pas complet, le service demande sous huitaine à la personne intéressée de
-compléter celui-ci. Les délais mentionnés au premier alinéa ne courent qu'à compter de la réception du dossier complet.
+1° De sa disponibilité, de sa capacité d'organisation et d'adaptation à des situations variées ;
+
+2° De son aptitude à la communication et au dialogue ;
+
+3° De ses capacités d'observation et de prise en compte des besoins particuliers de chaque enfant et des attentes de ses
+parents ;
+
+4° De sa connaissance du rôle et des responsabilités de l'assistant maternel ;
+
+5° Que son habitation ait des dimensions et présente des conditions de confort, d'hygiène et de sécurité permettant
+d'accueillir de jeunes enfants, et de garantir leur santé, leur bien-être et leur sécurité ;
+
+6° Qu'il identifie les dangers potentiels de son habitation pour les jeunes enfants et prévoie les aménagements nécessaires
+pour prévenir les risques d'accidents ;
+
+7° Qu'il dispose de moyens de communication lui permettant de faire face aux situations d'urgence.
 
 **Liens relatifs à cet article**
 
@@ -83388,23 +83859,29 @@ compléter celui-ci. Les délais mentionnés au premier alinéa ne courent qu'à
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'action sociale et des familles - art. L421-2 (T)
+	  - Décret n°2006-1153 2006-09-14 art. 1 I, IV JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article R421-6
 
-L'agrément est accordé pour une durée de cinq ans.
+Les entretiens avec un candidat à des fonctions d'assistant familial et les visites à son domicile doivent permettre de
+s'assurer :
 
-Cette durée peut être inférieure à cinq ans lorsque le président du conseil général accorde la dérogation prévue par le
-deuxième alinéa de l'article L. 421-1 pour l'accueil d'un nombre d'enfants supérieur à trois.
+1° De sa disponibilité, de sa capacité d'organisation et d'adaptation à des situations variées ;
 
-La décision accordant l'agrément mentionne le nombre et l'âge des mineurs que l'assistant maternel est autorisé à accueillir
-soit à titre permanent, soit à titre non permanent, soit selon l'une et l'autre de ces modalités.
+2° De son aptitude à la communication et au dialogue ;
 
-En cas d'accueil à titre non permanent, la décision mentionne également le nombre de mineurs pouvant être accueillis soit à
-temps complet, soit à temps partiel, soit selon l'une et l'autre de ces modalités.
+3° De ses capacités d'observation et de prise en compte des besoins particuliers de chaque enfant ;
+
+4° De sa connaissance du rôle et des responsabilités de l'assistant familial ;
+
+5° Que son habitation présente des conditions de confort, d'hygiène et de sécurité permettant d'accueillir des enfants, et de
+garantir leur santé, leur bien-être et leur sécurité ;
+
+6° Que le candidat dispose de moyens de communication lui permettant de faire face aux situations d'urgence.
 
 **Liens relatifs à cet article**
 
@@ -83417,225 +83894,20 @@ temps complet, soit à temps partiel, soit selon l'une et l'autre de ces modalit
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'action sociale et des familles - art. L421-1 (M)
+	  - Décret n°2006-1153 2006-09-14 art. 1 I, IV JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
 
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. R421-25 (M)
 
-
-###### Article R421-7
-
-Lorsqu'en application de l'article L. 421-2 l'agrément est réputé acquis, une attestation est délivrée sans délai par le
-président du conseil général à la demande de la personne intéressée.
-
-L'attestation doit préciser l'objet de la demande d'agrément, tel qu'il est défini à l'article R. 421-3.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°92-1051 1992-09-29 art. 9
-	  - Décret n°92-1051 du 29 septembre 1992 - art. 9 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
-
-	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L421-2 (T)
-	  - Code de l'action sociale et des familles - art. R421-3 (M)
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. R421-25 (M)
-
-
-###### Article R421-8
-
-Tout refus d'agrément, total ou partiel, doit faire l'objet d'une notification par lettre recommandée avec demande d'avis de
-réception.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°92-1051 1992-09-29 art. 10
-	  - Décret n°92-1051 du 29 septembre 1992 - art. 10 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
-
-	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
-
-
-###### Article R421-9
-
-Pour obtenir la dérogation prévue par le deuxième alinéa de l'article L. 421-1 pour l'accueil d'un nombre de mineurs
-supérieur à trois, l'intéressé adresse une demande, distincte de celle mentionnée à l'article R. 421-3, au président du
-conseil général. L'absence de réponse à cette demande dans un délai de quatre mois vaut décision de refus de la dérogation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°92-1051 1992-09-29 art. 11
-	  - Décret n°92-1051 du 29 septembre 1992 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
-
-	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L421-1 (M)
-	  - Code de l'action sociale et des familles - art. R421-3 (M)
-
-
-##### Sous-section 2 : Renouvellement, suspension et retrait de l'agrément.
-
-###### Article R421-10
-
-Dans l'année qui précède la date d'échéance d'une décision d'agrément ou de renouvellement d'agrément, le président du
-conseil général indique à la personne intéressée, en lui transmettant un exemplaire du formulaire mentionné à l'article R.
-421-3, qu'elle doit présenter une demande de renouvellement d'agrément trois mois au moins avant cette date si elle entend
-continuer à bénéficier de cet agrément.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°92-1051 1992-09-29 art. 12
-	  - Décret n°92-1051 du 29 septembre 1992 - art. 12 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
-
-	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. R421-3 (M)
-
-
-###### Article R421-11
-
-Les dispositions des articles R. 421-1 à R. 421-10 sont applicables aux demandes de renouvellement d'agrément.
-
-Pour le premier renouvellement, la demande doit être accompagnée d'un document attestant que la personne intéressée a suivi
-soit la formation obligatoire prévue à l'article L. 2112-3 du code de la santé publique s'il s'agit du renouvellement d'un
-agrément pour l'accueil à titre non permanent, soit la formation obligatoire prévue à l'article L. 773-17 du code du travail
-s'il s'agit du renouvellement d'un agrément pour l'accueil à titre permanent.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°92-1051 1992-09-29 art. 5 al. 2
-	  - Décret n°92-1051 du 29 septembre 1992 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
-
-	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
-
-	**Cite**:
-
-	  - Code du travail - art. L773-17 (Ab)
-	  - Code de la santé publique - art. L2112-3 (M)
-	  - Code de l'action sociale et des familles R421-1 à R421-10
-
-
-###### Article R421-12
-
-Lorsque le président du conseil général envisage de retirer un agrément, d'y apporter une restriction ou de ne pas le
-renouveler, il saisit pour avis la commission consultative paritaire départementale mentionnée à l'article R. 421-14 en lui
-indiquant les motifs de la décision envisagée.
-
-L'assistant maternel concerné est informé, quinze jours au moins avant la date de la réunion de la commission, par lettre
-recommandée avec demande d'avis de réception, des motifs de la décision envisagée à son encontre et de la possibilité de
-présenter devant la commission ses observations écrites ou orales. L'intéressé peut se faire assister ou représenter par une
-personne de son choix.
-
-La commission délibère hors la présence de l'intéressé et de la personne qui l'assiste.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°92-1051 1992-09-29 art. 15
-	  - Décret n°92-1051 du 29 septembre 1992 - art. 15 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
-
-	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. R421-14 (M)
-
-
-###### Article R421-13
-
-Le président du conseil général informe sans délai la commission consultative paritaire départementale de toute décision de
-suspension d'agrément prise en application de l'article L. 421-2.
-
-La décision de suspension d'agrément fixe la durée pour laquelle elle est prise et qui ne peut en aucun cas excéder une
-période de trois mois.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°92-1051 1992-09-29 art. 16
-	  - Décret n°92-1051 du 29 septembre 1992 - art. 16 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
-
-	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L421-2 (T)
-
-
-##### Sous-section 3 : Commission consultative paritaire départementale.
 
 ###### Article R421-14
 
-La commission consultative paritaire départementale, prévue par l'article L. 421-2, comprend, en nombre égal, des membres
-représentant le département et des membres représentant les assistants maternels agréés résidant dans le département.
-
-Le président du conseil général fixe par arrêté le nombre des membres de la commission qui peut être de six, huit ou dix en
-fonction des effectifs des assistants maternels agréés du département.
+Lorsqu'une même personne obtient un agrément d'assistant maternel et un agrément d'assistant familial, le nombre des enfants
+qu'elle est autorisée à accueillir ne peut être au total, sauf dérogation, supérieur à trois.
 
 **Liens relatifs à cet article**
 
@@ -83648,323 +83920,255 @@ fonction des effectifs des assistants maternels agréés du département.
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'action sociale et des familles - art. L421-2 (T)
+	  - Décret n°2006-1153 2006-09-14 art. 1 I, IV JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
 
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. R421-12 (Ab)
 
 
-###### Article R421-15
+##### Sous-section 2 : Renouvellement, suspension et retrait de l'agrément.
 
-La présidence de la commission est assurée par le président du conseil général ou par la personne qu'il choisit pour le
-représenter parmi les conseillers généraux ou les fonctionnaires des services du département.
+###### Article D421-19
+
+Dans l'année qui précède la date d'échéance de l'agrément ou de son renouvellement, et au moins quatre mois avant celle-ci,
+le président du conseil général indique à la personne intéressée, en lui transmettant un exemplaire du formulaire mentionné à
+l'article L. 421-3, qu'elle doit présenter une demande de renouvellement d'agrément trois mois au moins avant cette date si
+elle entend continuer à bénéficier de cet agrément.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°92-1051 1992-09-29 art. 18
-	  - Décret n°92-1051 du 29 septembre 1992 - art. 18 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Abrogé par**:
-
-	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. R421-16 (Ab)
-	  - Code de l'action sociale et des familles - art. R421-18 (Ab)
-
-
-###### Article R421-16
-
-Les représentants du département comprennent :
-
-1° Le président du conseil général ou son représentant mentionné à l'article R. 421-15 ;
-
-2° Des conseillers généraux ou des fonctionnaires des services du département désignés, ainsi qu'un suppléant pour chacun
-d'eux, par le président du conseil général.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°92-1051 1992-09-29 art. 19
-	  - Décret n°92-1051 du 29 septembre 1992 - art. 19 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. R421-15 (Ab)
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. R421-20 (Ab)
+	  - Code de l'action sociale et des familles - art. L421-3 (V)
 
 
-###### Article R421-17
+###### Article D421-20
 
-Les assistants maternels agréés résidant dans le département élisent leurs représentants titulaires, ainsi qu'un nombre égal
-de suppléants, au scrutin de liste à la représentation proportionnelle suivant la règle de la plus forte moyenne.
-
-Les listes de candidats doivent comporter autant de noms que de sièges de titulaires et de suppléants à pourvoir.
-
-Les modalités d'établissement et de publication préalable des listes de candidatures ainsi que les modalités de déroulement
-des opérations électorales sont fixées par arrêté du président du conseil général.
-
-Le département organise et finance l'ensemble des opérations électorales.
+Les dispositions des articles R. 421-3, D. 421-4 à D. 421-16 sont applicables aux demandes de renouvellement d'agrément des
+assistants maternels et familiaux.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°92-1051 1992-09-29 art. 20
-	  - Décret n°92-1051 du 29 septembre 1992 - art. 20 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Abrogé par**:
-
-	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
-
-
-###### Article R421-18
-
-Les bulletins de vote sont recensés et dépouillés dans chaque département par une commission électorale présidée par le
-président du conseil général ou son représentant, mentionné à l'article R. 421-15, et comprenant un représentant de chaque
-liste en présence.
-
-Pour l'accomplissement de ces tâches, la commission électorale se fait assister en tant que de besoin de fonctionnaires des
-services du département.
-
-Les opérations de dépouillement des votes sont publiques. La commission électorale proclame les résultats.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°92-1051 1992-09-29 art. 21
-	  - Décret n°92-1051 du 29 septembre 1992 - art. 21 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. R421-15 (Ab)
+	  - Code de l'action sociale et des familles - art. R421-3 (V)
 
 
-###### Article R421-19
+###### Article D421-21
 
-Il est attribué à chaque liste un nombre de sièges de représentants suppléants égal à celui des représentants titulaires.
+La première demande de renouvellement de l'agrément d'un assistant maternel est accompagnée d'un document attestant que la
+personne intéressée a suivi la formation obligatoire prévue à l'article L. 421-14 et s'est présentée à l'épreuve qui la
+sanctionne dans les conditions prévues à l'article D. 421-52 et précisant si elle a réussi cette épreuve. 
 
-Les élus sont désignés dans l'ordre de présentation de la liste.
+L'agrément de l'assistant maternel employé par un service d'accueil d'enfant de moins de six ans est, à compter de son
+premier renouvellement, accordé pour une durée de dix ans à condition que l'assistant maternel ait réussi l'épreuve
+mentionnée au premier alinéa. 
+
+Si l'assistant maternel dont l'agrément a été renouvelé depuis moins de cinq ans cesse d'être employé par un service
+d'accueil d'enfants de moins de six ans, la durée de l'agrément est ramenée à cinq ans. S'il cesse d'être employé par un
+service d'accueil d'enfants de moins de six ans et si le dernier renouvellement de son agrément date de plus de cinq ans, la
+durée de cet agrément est ramenée à six mois. 
+
+Pour statuer sur la demande de renouvellement d'un assistant maternel exerçant sa profession comme salarié d'un service
+d'accueil familial, le président du conseil général sollicite l'avis motivé de son employeur. A défaut de réponse dans un
+délai de deux mois, l'avis est réputé avoir été donné.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°92-1051 1992-09-29 art. 22
-	  - Décret n°92-1051 du 29 septembre 1992 - art. 22 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Abrogé par**:
-
-	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
-
-
-###### Article R421-20
-
-Le mandat des membres de la commission est d'une durée de six ans, renouvelable.
-
-En cas de vacance, pour quelque cause que ce soit, du siège d'un représentant du département, un nouveau représentant est
-désigné pour la durée du mandat en cours dans les conditions prévues à l'article R. 421-16.
-
-En cas de vacance, pour quelque cause que ce soit, du siège d'un représentant des assistants maternels, le suppléant de
-celui-ci devient titulaire et est remplacé par le premier candidat non élu de la même liste.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°92-1051 1992-09-29 art. 23
-	  - Décret n°92-1051 du 29 septembre 1992 - art. 23 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
-
-	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. R421-16 (Ab)
-
-
-###### Article R421-21
-
-La commission se réunit sur convocation de son président et au moins une fois par an.
-
-Elle émet ses avis à la majorité des membres présents ; en cas de partage égal des voix, la voix du président est
-prépondérante.
-
-La commission établit son règlement intérieur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°92-1051 1992-09-29 art. 24
-	  - Décret n°92-1051 du 29 septembre 1992 - art. 24 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
 
 	**Cité par**:
 
-	  - Code de l'action sociale et des familles - art. R421-4 (Ab)
+	  - Décret n°2015-1460 du 10 novembre 2015 - art. (V)
+	  - Code de l'action sociale et des familles - art. D421-12 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D421-52 (V)
+	  - Code de l'action sociale et des familles - art. L421-14 (V)
 
 
-###### Article R421-22
+###### Article D421-22
 
-Les membres de la commission sont soumis à l'obligation de discrétion professionnelle en ce qui concerne tous les faits et
-documents dont ils ont connaissance en cette qualité.
+La première demande de renouvellement de l'agrément d'un assistant familial est accompagnée d'un document attestant que la
+personne intéressée a suivi la formation obligatoire prévue à l'article L. 421-15 et précisant si elle a obtenu le diplôme
+mentionné à l'article D. 451-100. 
+
+Le renouvellement de l'agrément des assistants familiaux qui ont obtenu le diplôme mentionné à l'article D. 451-100 est
+accordé automatiquement et sans limitation de durée. 
+
+Dans les autres cas, l'agrément est renouvelé pour une durée de cinq ans, après communication par l'employeur d'éléments
+d'appréciation des pratiques professionnelles de l'assistant familial. En cas de silence de l'employeur dans un délai de deux
+mois suivant la demande de ces éléments, ces derniers sont réputés avoir été donnés.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°92-1051 1992-09-29 art. 25
-	  - Décret n°92-1051 du 29 septembre 1992 - art. 25 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
 
+	**Cité par**:
 
-##### Section 2 : Modalités particulières relatives à l'activité.
+	  - Code de l'action sociale et des familles - art. D421-13 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D451-100 (V)
+	  - Code de l'action sociale et des familles - art. L421-15 (V)
+
 
 ###### Article R421-23
 
-Le président du conseil général organise de façon régulière des séances d'information relatives à l'activité d'assistant
-maternel, au cours desquelles sont évoqués notamment les modalités d'exercice de cette activité, les conditions de l'agrément
-prévu par l'article L. 421-1, les droits et obligations qui s'attachent à cet agrément, les besoins de l'enfant et les
-relations avec les parents ou les personnes responsables de l'enfant.
+Lorsque le président du conseil général envisage de retirer un agrément, d'y apporter une restriction ou de ne pas le
+renouveler, il saisit pour avis la commission consultative paritaire départementale mentionnée à l'article R. 421-27 en lui
+indiquant les motifs de la décision envisagée. 
 
-Des représentants d'associations et d'organisations représentatives d'assistants maternels peuvent être invités à participer
-à ces séances.
+L'assistant maternel ou l'assistant familial concerné est informé, quinze jours au moins avant la date de la réunion de la
+commission, par lettre recommandée avec demande d'avis de réception, des motifs de la décision envisagée à son encontre, de
+la possibilité de consulter son dossier administratif et de présenter devant la commission ses observations écrites ou
+orales. La liste des représentants élus des assistants maternels et des assistants familiaux à la commission lui est
+communiquée dans les mêmes délais. L'intéressé peut se faire assister ou représenter par une personne de son choix. 
+
+Les représentants élus des assistants maternels et des assistants familiaux à la commission sont informés, quinze jours au
+moins avant la date de la réunion de la commission, des dossiers qui y seront examinés et des coordonnées complètes des
+assistants maternels et des assistants familiaux dont le président du conseil général envisage de retirer, restreindre ou ne
+pas renouveler l'agrément. Sauf opposition de ces personnes, ils ont accès à leur dossier administratif. 
+
+La commission délibère hors la présence de l'intéressé et de la personne qui l'assiste.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-1051 1992-09-29 art. 1
 	  - Décret n°92-1051 du 29 septembre 1992 - art. 1 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'action sociale et des familles - art. L421-1 (M)
+	  - Décret n°2006-1153 2006-09-14 art. 1 I, IV JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
 
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. R421-25 (VD)
 	  - Code de l'action sociale et des familles - art. R544-2 (V)
 
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. R421-27 (VT)
+
 
 ###### Article R421-24
 
-L'assistant maternel accueillant des mineurs à titre non permanent est tenu de déclarer au président du conseil général, dans
-les huit jours suivant leur accueil, le nombre et l'âge des mineurs accueillis ainsi que les modalités de cet accueil. Toute
-modification de l'un de ces éléments est déclarée dans les huit jours.
+Le président du conseil général informe sans délai la commission consultative paritaire départementale de toute décision de
+suspension d'agrément prise en application de l'article L. 421-6. 
 
-L'assistant maternel est tenu de déclarer au président du conseil général sans délai tout décès et tout accident grave
-survenu à un mineur qui lui est confié.
+La décision de suspension d'agrément fixe la durée pour laquelle elle est prise qui ne peut en aucun cas excéder une période
+de quatre mois.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-1051 1992-09-29 art. 13
 	  - Décret n°92-1051 du 29 septembre 1992 - art. 13 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1153 2006-09-14 art. 1 I, IV JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L421-6 (VT)
+
 
 ###### Article R421-25
 
-En cas de changement de résidence à l'intérieur du département, l'assistant maternel notifie, par lettre recommandée avec
-demande d'avis de réception, sa nouvelle adresse au président du conseil général quinze jours au moins avant son
-emménagement.
+Lorsqu'il y a refus de suivre la formation obligatoire prévue à l'article L. 421-14 pour un assistant maternel ou à l'article
+L. 421-15 pour un assistant familial, l'agrément est retiré. La procédure prévue à l'article R. 421-23 ne s'applique pas
+lorsque le président du conseil général envisage de retirer l'agrément pour ce motif. 
 
-Lorsque l'assistant maternel change de département de résidence, il notifie, dans les mêmes formes et délais, son adresse au
-président du conseil général du département de sa nouvelle résidence en joignant une copie de la décision mentionnée à
-l'article R. 421-6 ou de l'attestation mentionnée à l'article R. 421-7.
+La commission consultative paritaire départementale est informée, dans le cadre de la consultation prévue à l'article L.
+421-6, du nombre d'agréments retirés au motif du refus par l'assistant maternel ou familial de suivre la formation mentionnée
+au premier alinéa.
 
-Le président du conseil général du département d'origine transmet le dossier de l'intéressé au président du conseil général
-du nouveau département de résidence dès que celui-ci en fait la demande.
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-1051 1992-09-29 art. 14
 	  - Décret n°92-1051 du 29 septembre 1992 - art. 14 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1153 2006-09-14 art. 1 I, IV JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. R421-6 (M)
-	  - Code de l'action sociale et des familles - art. R421-7 (Ab)
+	  - Code de l'action sociale et des familles - art. L421-14 (V)
+	  - Code de l'action sociale et des familles - art. L421-15 (V)
+	  - Code de l'action sociale et des familles - art. L421-6 (VT)
+	  - Code de l'action sociale et des familles - art. R421-23 (VT)
 
 
 ###### Article R421-26
 
-Le contrat d'accueil mentionné à l'article L. 421-10 indique notamment les conditions dans lesquelles le service ou
-l'organisme qui a confié un mineur peut être joint en cas d'urgence.
+Un manquement grave ou des manquements répétés aux obligations de déclaration et de notification prévues aux articles R.
+421-38, R. 421-39, R. 421-40 et R. 421-41 ainsi que des dépassements du nombre d'enfants mentionnés dans l'agrément et ne
+répondant pas aux conditions prévues par l'article R. 421-17 peuvent justifier, après avertissement, un retrait d'agrément.
 
 **Liens relatifs à cet article**
 
@@ -83977,31 +84181,469 @@ l'organisme qui a confié un mineur peut être joint en cas d'urgence.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1153 2006-09-14 art. 1 I, IV JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L421-10 (M)
+	  - Code de l'action sociale et des familles - art. R421-38 (V)
 
 
-##### Section 3 : Formation des assistants maternels.
+##### Sous-section 3 : Commission consultative paritaire départementale.
 
-###### Article D421-27
+###### Article R421-27
 
-Le stage préparatoire à l'accueil d'enfant prévu au premier alinéa de l'article L. 421-15 est d'une durée de soixante heures.
+La commission consultative paritaire départementale, prévue par l'article L. 421-6, comprend, en nombre égal, des membres
+représentant le département et des membres représentant les assistants maternels et les assistants familiaux agréés résidant
+dans le département. 
+
+Le président du conseil général fixe par arrêté le nombre des membres de la commission qui peut être de six, huit ou dix en
+fonction des effectifs des assistants maternels et des assistants familiaux agréés résidant dans le département.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L421-6 (VT)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R421-23 (VD)
+	  - Code de l'action sociale et des familles - art. R544-2 (V)
+
+
+###### Article R421-28
+
+La présidence de la commission est assurée par le président du conseil général ou par un représentant qu'il désigne parmi les
+conseillers généraux ou les agents des services du département.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°92-1051 du 29 septembre 1992 - art. 27 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1153 2006-09-14 art. 1 I, IV JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R421-31 (VD)
+
+
+###### Article R421-29
+
+Les représentants du département, outre le président du conseil général ou son représentant, sont des conseillers généraux ou
+des agents des services du département désignés par le président du conseil général. Chacun d'eux dispose d'un suppléant
+désigné dans les mêmes conditions.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°92-1051 du 29 septembre 1992 - art. 28 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1153 2006-09-14 art. 1 I, IV JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R421-33 (V)
+
+
+###### Article R421-30
+
+Les assistants maternels et les assistants familiaux agréés résidant dans le département élisent leurs représentants
+titulaires, ainsi qu'un nombre égal de suppléants, au scrutin de liste à la représentation proportionnelle suivant la règle
+de la plus forte moyenne.
+
+Les listes de candidats doivent comporter autant de noms que de sièges de titulaires et de suppléants à pourvoir.
+
+Les modalités d'établissement et de publication préalable des listes de candidatures ainsi que les modalités de déroulement
+des opérations électorales sont fixées par arrêté du président du conseil général.
+
+Le département organise et finance l'ensemble des opérations électorales.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article R421-31
+
+Les bulletins de vote sont recensés et dépouillés par une commission électorale présidée par le président du conseil général
+ou son représentant, mentionné à l'article R. 421-28, et comprenant un représentant de chaque liste en présence. 
+
+Pour l'accomplissement de ces tâches, la commission électorale se fait assister en tant que de besoin par des agents des
+services du département. 
+
+Les opérations de dépouillement des votes sont publiques. La commission électorale proclame les résultats.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. R421-28 (VT)
+
+
+###### Article R421-32
+
+Il est attribué à chaque liste un nombre de sièges de représentants suppléants égal à celui des représentants titulaires.
+
+Les élus sont désignés dans l'ordre de présentation de la liste.
+
+Le président du conseil général rend publics les résultats des élections.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article R421-33
+
+Le mandat des membres de la commission est d'une durée de six ans, renouvelable.
+
+En cas de vacance, pour quelque cause que ce soit, du siège d'un représentant du département, un nouveau représentant est
+désigné, pour la durée du mandat en cours, dans les conditions prévues à l'article R. 421-29.
+
+En cas de vacance, pour quelque cause que ce soit, du siège d'un représentant des assistants maternels et des assistants
+familiaux, le suppléant de celui-ci devient titulaire et est remplacé par le premier candidat non élu de la même liste.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. R421-29 (T)
+
+
+###### Article R421-34
+
+La commission se réunit sur convocation de son président et au moins une fois par an.
+
+Elle émet ses avis à la majorité des membres présents ; en cas de partage égal des voix, la voix du président est
+prépondérante.
+
+La commission établit son règlement intérieur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article R421-35
+
+Les membres de la commission sont soumis à l'obligation de discrétion professionnelle en ce qui concerne tous les faits et
+documents dont ils ont connaissance en cette qualité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
+
+##### Section 2 : Suivi et contrôle des assistants maternels et des assistants familiaux.
+
+###### Article D421-36
+
+La liste des assistants maternels agréés mentionnée à l'article L. 421-8 est mise par le président du conseil général à la
+disposition des relais assistants maternels mentionnés à l'article L. 214-2-1 et des organismes et services désignés par la
+commission départementale d'accueil des jeunes enfants mentionnée à l'article L. 214-6, des organisations syndicales et des
+associations professionnelles déclarées. 
+
+Sauf opposition des personnes concernées, cette liste comprend les adresses et les numéros de téléphone des assistants
+maternels et est communiquée aux organismes et associations mentionnés au premier alinéa sous forme électronique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
+	**Cité par**:
+
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 6 (V)
+	  - Code de l'action sociale et des familles - art. D421-15 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L214-2-1 (V)
+	  - Code de l'action sociale et des familles - art. L421-8 (V)
+
+
+###### Article D421-37
+
+Les personnes morales employant des assistants maternels ou des assistants familiaux adressent au président du conseil
+général, lorsqu'une situation individuelle est susceptible de comporter des conséquences sur le maintien de l'agrément d'un
+de ses assistants, tout élément lui permettant d'assurer l'exercice de sa mission de contrôle.
+
+Une fois par an, les personnes morales employeurs communiquent au président du conseil général le nom des assistants
+maternels ou des assistants familiaux qu'elles emploient ainsi que le nom de ceux dont le contrat de travail a pris fin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
+	**Cité par**:
+
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 6 (V)
+
+
+###### Article R421-38
+
+Les assistants maternels et les assistants familiaux agréés informent sans délai le président du conseil général de toute
+modification des informations figurant dans le formulaire de demande d'agrément mentionné à l'article L. 421-3 et relatives à
+leur situation familiale, aux personnes vivant à leur domicile et aux autres agréments dont ils disposent.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L421-3 (VT)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R421-26 (V)
+
+
+###### Article R421-39
+
+L'assistant maternel est tenu de déclarer au président du conseil général, dans les huit jours suivant leur accueil, le nom
+et la date de naissance des mineurs accueillis ainsi que les modalités de leur accueil et les noms, adresses et numéros de
+téléphone des représentants légaux des mineurs. Toute modification de l'un de ces éléments est déclarée dans les huit jours.
+
+L'assistant maternel tient à la disposition des services de protection maternelle et infantile des documents relatifs à son
+activité prévisionnelle, ainsi qu'à son activité effective, mentionnant les jours et horaires d'accueil des enfants qui lui
+sont confiés.
+
+Il informe le président du conseil général du départ définitif d'un enfant et, selon des modalités fixées par le conseil
+général, de ses disponibilités pour accueillir des enfants.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article R421-40
+
+L'assistant maternel employé par un particulier est tenu de déclarer sans délai au président du conseil général tout décès ou
+tout accident grave survenu à un mineur qui lui est confié.
+
+L'assistant maternel ou l'assistant familial employé par une personne morale est tenu de déclarer sans délai à son employeur
+tout décès ou tout accident grave survenu à un mineur qui lui est confié.
+
+L'employeur personne morale est tenu de déclarer au président du conseil général sans délai tout décès ou tout accident grave
+survenu à un mineur confié à un assistant maternel ou à un assistant familial qu'il emploie.
+
+Tout employeur d'un assistant maternel ou d'un assistant familial qui retire un enfant, en raison d'une suspicion de risque
+de danger pour celui-ci ou de comportements compromettant la qualité de l'accueil, en informe le président du conseil général
+qui a délivré l'agrément.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article R421-41
+
+En cas de changement de résidence à l'intérieur du département, l'assistant maternel ou l'assistant familial communique, par
+lettre recommandée avec demande d'avis de réception, sa nouvelle adresse au président du conseil général quinze jours au
+moins avant son emménagement. 
+
+Lorsque l'assistant maternel ou l'assistant familial change de département de résidence, il communique, dans les mêmes formes
+et délais, son adresse au président du conseil général du département de sa nouvelle résidence en joignant une copie de la
+décision mentionnée aux articles D. 421-12 ou D. 421-13 ou de l'attestation mentionnée à l'article D. 421-15.
+
+Le président du conseil général du département d'origine transmet le dossier de l'intéressé au président du conseil général
+du nouveau département de résidence dès que celui-ci en fait la demande.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D421-12 (V)
+	  - Code de l'action sociale et des familles - art. D421-15 (V)
+
+
+###### Article R421-42
+
+Le contrat d'accueil mentionné à l'article L. 421-16 indique notamment les conditions dans lesquelles le service ou
+l'organisme qui a confié un mineur ou un jeune majeur peut être joint en cas d'urgence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L421-16 (V)
+
+
+##### Section 3 : Formation des assistants maternels et des assistants familiaux.
+
+###### Article D421-43
+
+Le stage préparatoire à l'accueil d'enfant prévu au premier alinéa de l'article L. 421-15 est d'une durée de soixante
+heures. 
 
 Pour chaque assistant familial relevant des obligations de formation prévues à l'article L. 421-15, un référent professionnel
 est désigné au début du stage mentionné au premier alinéa du présent article et est chargé de le suivre jusqu'à la fin de la
 formation prévue à l'alinéa suivant du présent article. La personne désignée comme référent professionnel ne doit pas être en
-position d'exercer professionnellement le suivi d'enfants confiés à l'assistant familial.
+position d'exercer professionnellement le suivi d'enfants confiés à l'assistant familial. 
 
 La formation adaptée aux besoins spécifiques des enfants accueillis que doit suivre tout assistant familial dans le délai de
 trois ans après son premier contrat de travail, conformément au deuxième alinéa de l'article L. 421-15 est dispensée à partir
 de la pratique professionnelle des assistants familiaux sur une durée de 240 heures ; son contenu et ses conditions
-d'organisation sont fixés aux articles D. 451-100 à D. 451-104.
+d'organisation sont fixés aux articles D. 451-100 à D. 451-104. 
 
-L'attestation de formation délivrée par l'établissement de formation est remise à l'assistant familial et à son employeur.
+L'attestation de formation délivrée par l'établissement de formation est remise à l'assistant familial et à son employeur. 
 
 Sont dispensés de suivre la formation prévue au troisième alinéa du présent article les assistants familiaux titulaires d'un
-diplôme d'auxiliaire de puériculture, d'éducateur de jeunes enfants, d'éducateur spécialisé ou de puéricultrice.
+diplôme d'auxiliaire de puériculture, d'éducateur de jeunes enfants, d'éducateur spécialisé ou de puéricultrice. 
 
 La rémunération prévue au premier alinéa de l'article L. 421-15 ne peut être inférieure à 50 fois le salaire minimum de
 croissance par mois.
@@ -84012,114 +84654,499 @@ croissance par mois.
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Modifié par**:
-
-	  - Décret n°2006-464 du 20 avril 2006 - art. 5 () JORF 22 avril 2006
-
-	**Transféré par**:
+	**Créé par**:
 
 	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de l'action sociale et des familles - art. D421-43 (V)
+	  - Code de l'action sociale et des familles - art. D421-27 (M)
+	  - Code de l'action sociale et des familles - art. D421-27 (T)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D421-9 (V)
+	  - Code de l'action sociale et des familles - art. R544-2 (V)
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L421-15 (AbD)
-	  - Code de l'action sociale et des familles L421-15, D451-100 à D451-104
+	  - Code de l'action sociale et des familles - art. D451-100 (V)
+	  - Code de l'action sociale et des familles - art. L421-15 (V)
+
+
+###### Article D421-44
+
+La formation prévue à l'article L. 421-14, organisée et financée par le département, a une durée de cent vingt heures. 
+
+Les soixante premières heures sont assurées dans un délai de six mois à compter de la demande d'agrément de l'assistant
+maternel et avant tout accueil d'enfant par celui-ci. 
+
+La durée de formation restant à effectuer est assurée dans un délai de deux ans à compter du début de l'accueil du premier
+enfant par l'assistant maternel. 
+
+Toutefois, le délai prévu au deuxième alinéa est, pour les assistants maternels agréés avant le 1er janvier 2009, de neuf
+mois à compter de leur demande d'agrément. Pour les assistants maternels agréés à compter du 1er janvier 2009, ce délai peut
+être porté à huit mois pour les départements qui justifient, au cours de l'année qui précède la date de l'agrément, d'un
+nombre de nouveaux assistants maternels agréés au cours de cette même année inférieur à cent.
+
+**Nota:**
+
+Décret 2006-1153 du 14 septembre 2006 art. 2 II : les présentes dispositions sont applicables aux assistants maternels agréés
+à compter du 1er janvier 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. D421-27-1 (MMN)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L421-14 (V)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R544-2 (V)
+
+
+###### Article D421-45
+
+L'assistant maternel agréé est autorisé à accueillir un enfant dès la délivrance par l'organisme de formation ou le conseil
+général mentionnés à l'article D. 421-50 d'une attestation de suivi de la première partie de la formation prévue à l'article
+L. 421-14.
+
+**Nota:**
+
+Décret 2006-1153 du 14 septembre 2006 art. 2 II : les présentes dispositions sont applicables aux assistants maternels agréés
+à compter du 1er janvier 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. D421-27-2 (MMN)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L421-14 (V)
+
+
+###### Article D421-46
+
+La formation prévue à l'article L. 421-14 permet aux assistants maternels, en s'appuyant sur leur expérience personnelle et
+professionnelle, notamment auprès des enfants, d'acquérir les compétences suivantes : 
+
+1° Identifier les besoins des enfants ; 
+
+2° Installer et sécuriser des espaces de vie des enfants ; 
+
+3° Assurer les soins d'hygiène corporelle et le confort des enfants ; 
+
+4° Contribuer au développement et à la socialisation des enfants ; 
+
+5° Organiser les activités des enfants ; 
+
+6° Etablir des relations professionnelles ; 
+
+7° S'adapter à une situation non prévue.
+
+**Nota:**
+
+Décret 2006-1153 du 14 septembre 2006 art. 2 II : les présentes dispositions sont applicables aux assistants maternels agréés
+à compter du 1er janvier 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. D421-27-3 (MMN)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D421-48 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L421-14 (V)
+
+
+###### Article D421-47
+
+La formation prévue à l'article L. 421-14 permet en outre l'amélioration des connaissances des assistants maternels dans les
+domaines suivants : 
+
+1° Les besoins et les facteurs de développement de l'enfant ; 
+
+2° Les troubles et les maladies courantes de l'enfant ; 
+
+3° Le cadre juridique et institutionnel de l'enfant et de la famille, notamment en matière d'accueil individuel de
+l'enfant ; 
+
+4° La communication appliquée au secteur professionnel ; 
+
+5° L'organisation générale du corps humain et ses fonctions ; 
+
+6° La nutrition et l'alimentation ; 
+
+7° La qualité de vie dans le logement et la prévention des accidents domestiques.
+
+**Nota:**
+
+Décret 2006-1153 du 14 septembre 2006 art. 2 II : les présentes dispositions sont applicables aux assistants maternels agréés
+à compter du 1er janvier 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. D421-27-4 (MMN)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D421-48 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L421-14 (V)
+
+
+###### Article D421-48
+
+Les compétences et connaissances mentionnées aux articles D. 421-46 et D. 421-47 sont précisées par un arrêté des ministres
+chargés de la famille et de l'éducation.
+
+**Nota:**
+
+Décret 2006-1153 du 14 septembre 2006 art. 2 II : les présentes dispositions sont applicables aux assistants maternels agréés
+à compter du 1er janvier 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. D421-27-5 (MMN)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D421-46 (V)
+	  - Code de l'action sociale et des familles - art. D421-47 (V)
+
+
+###### Article D421-49
+
+Sont dispensés de suivre la formation prévue à l'article L. 421-14 : 
+
+1° Les assistants familiaux ayant suivi la formation prévue à l'article L. 421-15 ; 
+
+2° Les assistants maternels titulaires du diplôme professionnel d'auxiliaire de puéricultrice, du certificat d'aptitude
+professionnelle petite enfance, ou de tout autre diplôme intervenant dans le domaine de la petite enfance homologué ou
+inscrit au répertoire national des certifications professionnelles au moins au niveau III.
+
+**Nota:**
+
+Décret 2006-1153 du 14 septembre 2006 art. 2 II : les présentes dispositions sont applicables aux assistants maternels agréés
+à compter du 1er janvier 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. D421-27-6 (MMN)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D421-8 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L421-14 (V)
+	  - Code de l'action sociale et des familles - art. L421-15 (V)
+
+
+###### Article D421-50
+
+La mise en oeuvre de la formation prévue à l'article L. 421-14 peut être assurée directement par le conseil général, ou par
+un établissement de formation avec lequel le conseil général passe convention, ou selon ces deux modalités. 
+
+Le conseil général ou l'établissement de formation qui met en oeuvre la formation doit réunir les conditions suivantes : 
+
+1° Définir un projet de formation détaillant les objectifs de formation, le contenu des modules ou unités horaires et les
+outils pédagogiques ; les modules ou unités horaires doivent être équilibrés entre eux et conformes aux dispositions des
+articles D. 421-46 à D. 421-48 ; les modalités pédagogiques et les qualifications des formateurs doivent permettre que la
+formation soit dispensée en s'appuyant sur la pratique professionnelle des stagiaires ; 
+
+2° Disposer d'un responsable pédagogique titulaire : 
+
+a) Soit d'un diplôme ou d'un titre homologué ou enregistré au répertoire national des certifications professionnelles au
+moins au niveau II ou d'un titre autorisant l'accès au troisième cycle de l'enseignement supérieur ; 
+
+b) Soit d'un diplôme au moins de niveau III du secteur sanitaire et social ; dans ce cas, le responsable pédagogique doit
+avoir suivi une formation de formateur d'adultes d'au moins 300 heures. 
+
+Le responsable doit en outre avoir une expérience professionnelle de trois ans en matière d'accueil ou de prise en charge de
+la petite enfance ; 
+
+3° Disposer de formateurs ayant une qualification adaptée au contenu de la formation proposée, reconnue par un diplôme, et
+n'exerçant aucune fonction d'agrément, de contrôle et de suivi des assistants maternels dont ils assurent la formation ; 
+
+4° Prévoir l'accompagnement de chaque groupe de stagiaires par un formateur permanent pendant toute la durée de la formation
+assurée par l'organisme ; 
+
+5° Etablir un règlement intérieur applicable aux stagiaires. 
+
+Les établissements publics locaux d'enseignement, les établissements d'enseignement privés sous contrat et les centres de
+formation d'apprentis habilités ne sont pas soumis aux dispositions relatives à l'expérience professionnelle mentionnées dans
+la dernière phrase du 2° du présent article.
+
+**Nota:**
+
+Décret 2006-1153 du 14 septembre 2006 art. 2 II : les présentes dispositions sont applicables aux assistants maternels agréés
+à compter du 1er janvier 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. D421-27-7 (MMN)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D421-51 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L421-14 (V)
+
+
+###### Article D421-51
+
+La convention mentionnée au premier alinéa de l'article D. 421-50 précise notamment :
+
+1° Les statuts de l'organisme ;
+
+2° Le projet de formation détaillant les objectifs de formation, le contenu des modules ou unités horaires, les outils
+pédagogiques ;
+
+3° Le nombre de personnes à former ;
+
+4° Les modalités de formation ;
+
+5° Les moyens pédagogiques et techniques mis en oeuvre par l'établissement de formation ;
+
+6° Les diplômes, qualifications et expériences professionnelles des formateurs et des personnels d'encadrement et la relation
+entre ces diplômes, qualifications et expériences et la formation dispensée ;
+
+7° Les modalités d'encadrement et d'évaluation de la formation auprès des stagiaires ;
+
+8° Le coût prévisionnel de la formation par heure/stagiaire et par groupe ;
+
+9° Les modalités d'accompagnement des stagiaires pour la validation de leur formation.
+
+**Nota:**
+
+Décret 2006-1153 du 14 septembre 2006 art. 2 II : les présentes dispositions sont applicables aux assistants maternels agréés
+à compter du 1er janvier 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. D421-27-8 (MMN)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D421-50 (V)
+
+
+###### Article D421-52
+
+L'organisme de formation ou le président du conseil général du département ayant assuré la formation adresse à l'assistant
+maternel l'attestation de suivi, dans les conditions fixées par la présente section, de la formation prévue à l'article L.
+421-14 et, le cas échéant, l'évaluation des stages effectués dans ce cadre. 
+
+L'assistant maternel subit à l'issue de la formation une épreuve dans des conditions fixées par arrêté des ministres chargés
+de la famille et de l'éducation.
+
+**Nota:**
+
+Décret 2006-1153 du 14 septembre 2006 art. 2 II : les présentes dispositions sont applicables aux assistants maternels agréés
+à compter du 1er janvier 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D421-21 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'action sociale et des familles - art. D421-27-9 (MMN)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L421-14 (V)
 
 
 ##### Section 4 : Dispositions pénales.
 
-###### Article R421-28
+###### Article R421-53
 
 Le fait pour toute personne, informée par le président du conseil général de la mise en demeure mentionnée à l'article L.
-421-6 ou d'une mesure de refus, de suspension ou de retrait d'agrément, d'employer une personne en situation irrégulière est
+421-10 ou d'une mesure de refus, de suspension ou de retrait d'agrément, d'employer une personne en situation irrégulière est
 punie de la peine d'amende prévue pour les contraventions de la quatrième classe.
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°92-1051 1992-09-29 art. 27
-	  - Décret n°92-1051 du 29 septembre 1992 - art. 27 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L421-6 (T)
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. R421-31 (VD)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. R421-53 (V)
-
-
-###### Article R421-29
-
-Le fait pour un assistant maternel ou pour une personne visée à l'article L. 421-6 de ne pas fournir au président du conseil
-général les renseignements mentionnés à l'article L. 421-7 est puni de la peine d'amende prévue pour les contraventions de la
-quatrième classe.
-
-**Liens relatifs à cet article**
+	  - Code de l'action sociale et des familles - art. L421-10 (VT)
 
 	**Anciens textes**:
 
-	  - Décret n°92-1051 1992-09-29 art. 28
-	  - Décret n°92-1051 du 29 septembre 1992 - art. 28 (Ab)
+	  - Code de l'action sociale et des familles - art. R421-28 (T)
+
+
+###### Article R421-54
+
+Le fait pour un assistant maternel ou pour une personne visée à l'article L. 421-10 de ne pas fournir au président du conseil
+général les renseignements mentionnés à l'article L. 421-11 est puni de la peine d'amende prévue pour les contraventions de
+la quatrième classe.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L421-7 (T)
+	  - Code de l'action sociale et des familles - art. L421-10 (VT)
+	  - Code de l'action sociale et des familles - art. L421-11 (VT)
 
-	**Cité par**:
+	**Anciens textes**:
 
-	  - Code de l'action sociale et des familles - art. R421-33 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. R421-54 (V)
+	  - Code de l'action sociale et des familles - art. R421-29 (T)
 
 
-#### Chapitre II : Assistants maternels employés par des personnes morales de droit public
+#### Chapitre II : Assistants maternels et assistants familiaux employés par des personnes morales de droit public
 
 ###### Article R422-1
 
-Les assistants maternels des collectivités et établissements mentionnés à l'article 2 de la loi n° 84-53 du 26 janvier 1984
-portant dispositions statutaires relatives à la fonction publique territoriale sont soumis aux dispositions du présent
-chapitre et aux dispositions des articles 16, 19, 31, 37, 38 et 41 du décret n° 88-145 du 15 février 1988 pris pour
-l'application de l'article 136 de la loi du 26 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction
-publique territoriale et relatif aux agents non titulaires de la fonction publique territoriale.
+Les assistants maternels et les assistants familiaux des collectivités et établissements mentionnés à l'article 2 de la loi
+n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale sont soumis aux
+dispositions du présent chapitre et aux dispositions des articles 16,19,31,37,38 et 41 du décret n° 88-145 du 15 février 1988
+pris pour l'application de l'article 136 de la loi du 26 janvier 1984 modifiée portant dispositions statutaires relatives à
+la fonction publique territoriale et relatif aux agents non titulaires de la fonction publique territoriale. 
 
-S'appliquent également aux assistants maternels employés par des personnes morales de droit public les articles D. 773-1-1 à
-D. 773-1-5 du code du travail.
+S'appliquent également aux assistants maternels employés par des personnes morales de droit public les articles suivants du
+livre VII, titre VII, chapitre III du code du travail : D. 773-5, D. 773-7 à D. 773-11, D. 773-13 à D. 773-16. 
+
+S'appliquent également aux assistants familiaux employés par des personnes morales de droit public les articles suivants du
+livre VII, titre VII, chapitre III du code du travail : D. 773-6, D. 773-13 à D. 773-15, D. 773-17 à D. 773-20.
+
+**Nota:**
+
+Décret 2006-1153 du 14 septembre 2006 art. 2 I : les dispositions de l'article R422-1 sont applicables à compter du 1er
+janvier 2007, à l'exception de ses alinéas 2 et 3.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°84-53 1984-01-26 art. 2, art. 136
-	  - Décret n°88-145 1988-02-15 art. 16, art. 19, art. 31, art. 37, art. 38, art. 41
-	  - Code du travail D773-1-1 à D773-1-5
+	  - Loi n°84-53 du 26 janvier 1984 - art. 2 (V)
+	  - Décret n°88-145 du 15 février 1988 (V)
 
 	**Anciens textes**:
 
@@ -84130,6 +85157,11 @@ D. 773-1-5 du code du travail.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1153 2006-09-14 art. 1 I, VII, VIII JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
 
 	**Cité par**:
 
@@ -84156,9 +85188,14 @@ croissance pour chaque journée où aucun enfant n'est confié à l'assistant ma
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1153 2006-09-14 art. 1 I, VII JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L422-4 (M)
+	  - Code de l'action sociale et des familles - art. L422-4 (V)
 
 	**Cité par**:
 
@@ -84176,11 +85213,6 @@ l'activité d'accueil d'enfants et dans la limite fixée par l'agrément.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°1936-10-29 art. 7
-	  - Code de l'action sociale et des familles - art. R422-1 (M)
-
 	**Anciens textes**:
 
 	  - Décret n°94-909 du 14 octobre 1994 - art. 20 (Ab)
@@ -84189,22 +85221,27 @@ l'activité d'accueil d'enfants et dans la limite fixée par l'agrément.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1153 2006-09-14 art. 1 I, VII JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
 
 ###### Article R422-2
 
-Nul ne peut être recruté en qualité d'assistant maternel :
+Nul ne peut être recruté en qualité d'assistant maternel : 
 
-1° S'il n'est pas agréé dans les conditions prévues par l'article L. 421-1 ;
+1° S'il n'est pas agréé dans les conditions prévues par l'article L. 421-1 ; 
 
 2° Si, étant de nationalité française ou ressortissant d'un Etat membre de la Communauté européenne ou partie à l'accord sur
 l'Espace économique européen, il ne jouit pas de ses droits civiques et ne se trouve pas en position régulière au regard du
-code du service national ;
+code du service national ; 
 
-3° Si, étant de nationalité étrangère, il n'est pas en situation régulière vis-à-vis des lois régissant l'immigration ;
+3° Si, étant de nationalité étrangère, il n'est pas en situation régulière vis-à-vis des lois régissant l'immigration ; 
 
-4° Si les mentions portées au bulletin n° 2 de son casier judiciaire sont incompatibles avec l'exercice de l'activité ;
+4° Si les mentions portées au bulletin n° 2 de son casier judiciaire sont incompatibles avec l'exercice de l'activité ; 
 
-5° S'il ne possède pas les conditions d'aptitude physique requises pour l'exercice de l'activité.
+5° S'il ne possède pas les conditions d'aptitude physique requises pour l'exercice de l'activité. 
 
 Lorsque le recrutement d'un assistant maternel intervient plus de six mois après la date de l'examen médical passé
 conformément à l'article R. 421-1, les examens médicaux sont assurés par les médecins agréés mentionnés à l'article 1er du
@@ -84216,10 +85253,9 @@ d'aptitude physique et au régime des congés de maladie des fonctionnaires terr
 
 	**Cite**:
 
-	  - Loi n°84-53 1984-01-26
-	  - Décret n°87-602 du 30 juillet 1987 - art. 1 (V)
-	  - Code de l'action sociale et des familles - art. L421-1 (M)
-	  - Code de l'action sociale et des familles - art. R421-1 (M)
+	  - Décret n°87-602 du 30 juillet 1987 (V)
+	  - Code de l'action sociale et des familles - art. L421-1 (V)
+	  - Code de l'action sociale et des familles - art. R421-1 (V)
 
 	**Anciens textes**:
 
@@ -84228,6 +85264,11 @@ d'aptitude physique et au régime des congés de maladie des fonctionnaires terr
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1153 2006-09-14 art. 1 I, VII JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article R422-3
@@ -84245,6 +85286,11 @@ Si le contrat de travail est à durée déterminée, il précise la date à laqu
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1153 2006-09-14 art. 1 I, VII JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
 
 	**Cité par**:
 
@@ -84264,6 +85310,11 @@ Une période d'essai dont la durée est de trois mois est prévue par le contrat
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1153 2006-09-14 art. 1 I, VII JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
 
 	**Cite**:
 
@@ -84287,11 +85338,15 @@ ou de l'assistant maternel auprès de son ou de ses précédents employeurs lui 
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1153 2006-09-14 art. 1 I, VII JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L228-4 (V)
-	  - Code de l'action sociale et des familles - art. L421-10 (M)
-	  - Code de l'action sociale et des familles - art. R422-1 (M)
+	  - Code de l'action sociale et des familles - art. L421-10 (V)
 
 
 ##### Section 2 : Congés.
@@ -84311,6 +85366,11 @@ conditions prévues par l'article L. 773-11 du code du travail.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1153 2006-09-14 art. 1 I, VII JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
 	**Cite**:
 
 	  - Code du travail - art. L773-11 (M)
@@ -84325,19 +85385,15 @@ conditions prévues par l'article L. 773-11 du code du travail.
 Sans préjudice des formations obligatoires prévues par les articles L. 2112-3 du code de la santé publique et L. 773-17 du
 code du travail, l'assistant maternel peut bénéficier d'un congé pour formation syndicale prévu par le 7° de l'article 57 de
 la loi n° 84-53 du 26 janvier 1984 précitée et d'un congé pour formation professionnelle dans les conditions prévues par le
-décret n° 85-1076 du 9 octobre 1985 pris pour l'application des articles 4, 5 et 6 de la loi n° 84-594 du 12 juillet 1984 et
+décret n° 85-1076 du 9 octobre 1985 pris pour l'application des articles 4,5 et 6 de la loi n° 84-594 du 12 juillet 1984 et
 relatif à l'exercice du droit à la formation des agents de la fonction publique territoriale.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°84-53 1984-01-26 art. 57
-	  - Loi n°84-594 du 12 juillet 1984 - art. 4 (M)
-	  - Loi n°84-594 du 12 juillet 1984 - art. 5 (M)
-	  - Loi n°84-594 du 12 juillet 1984 - art. 6 (V)
-	  - Décret n°85-1076 1985-10-09
-	  - Code de la santé publique - art. L2112-3 (M)
+	  - Loi n°84-53 du 26 janvier 1984 - art. 57 (V)
+	  - Code de la santé publique - art. L2112-3 (V)
 
 	**Anciens textes**:
 
@@ -84346,6 +85402,11 @@ relatif à l'exercice du droit à la formation des agents de la fonction publiqu
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1153 2006-09-14 art. 1 I, VII JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
 
 	**Cité par**:
 
@@ -84363,11 +85424,6 @@ l'article R. 241-51 du code du travail sur le contrôle médical.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°78-49 1978-01-19 annexe
-	  - Code du travail - art. R241-51 (M)
-
 	**Anciens textes**:
 
 	  - Décret n°94-909 du 14 octobre 1994 - art. 7 (Ab)
@@ -84375,6 +85431,11 @@ l'article R. 241-51 du code du travail sur le contrôle médical.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1153 2006-09-14 art. 1 I, VII JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
 
 	**Cité par**:
 
@@ -84406,6 +85467,11 @@ Pour l'assistante ou l'assistant maternel accueillant des mineurs à titre perma
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1153 2006-09-14 art. 1 I, VII JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
 	**Cite**:
 
 	  - Code du travail - art. L773-12 (M)
@@ -84422,7 +85488,7 @@ Pour l'assistante ou l'assistant maternel accueillant des mineurs à titre perma
 L'assistante ou l'assistant maternel employé de manière continue qui justifie d'une ancienneté d'au moins un an à la date de
 naissance ou de l'arrivée au foyer d'un enfant de moins de trois ans confié en vue de son adoption a droit, sur sa demande, à
 un congé parental dans les conditions prévues par l'article 75 de la loi n° 84-53 du 26 janvier 1984 précitée, sous réserve
-des dispositions des articles R. 422-17 à R. 422-19.
+des dispositions des articles R. 422-17 à R. 422-19. 
 
 La durée du congé parental est prise en compte par moitié pour la détermination des avantages liés à l'ancienneté.
 
@@ -84430,8 +85496,7 @@ La durée du congé parental est prise en compte par moitié pour la déterminat
 
 	**Cite**:
 
-	  - Loi n°84-53 1984-01-26 art. 75
-	  - Code de l'action sociale et des familles R422-17 à R422-19
+	  - Loi n°84-53 du 26 janvier 1984 - art. 75 (V)
 
 	**Anciens textes**:
 
@@ -84441,12 +85506,17 @@ La durée du congé parental est prise en compte par moitié pour la déterminat
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1153 2006-09-14 art. 1 I, VII JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
 
 ###### Article R422-13
 
 Pour la détermination de la durée des services exigée pour obtenir un des congés prévus à la présente section, les congés
 énumérés aux articles R. 422-8 à R. 422-13 et au 7° de l'article 57 de la loi n° 84-53 du 26 janvier 1984 précitée sont
-assimilés à une période de travail effectif.
+assimilés à une période de travail effectif. 
 
 Les autres congés ne font pas perdre l'ancienneté acquise avant leur octroi.
 
@@ -84454,8 +85524,7 @@ Les autres congés ne font pas perdre l'ancienneté acquise avant leur octroi.
 
 	**Cite**:
 
-	  - Loi n°84-53 1984-01-26 art. 57
-	  - Code de l'action sociale et des familles R422-8 à R422-13
+	  - Loi n°84-53 du 26 janvier 1984 - art. 57 (V)
 
 	**Anciens textes**:
 
@@ -84464,6 +85533,11 @@ Les autres congés ne font pas perdre l'ancienneté acquise avant leur octroi.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1153 2006-09-14 art. 1 I, VII JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article R422-14
@@ -84486,6 +85560,11 @@ En cas de licenciement pour faute lourde, aucune indemnité de congé payé n'es
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1153 2006-09-14 art. 1 I, VII JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
 
 ###### Article R422-15
 
@@ -84503,6 +85582,11 @@ caractère administratif, ou de l'un des établissements publics à caractère a
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1153 2006-09-14 art. 1 I, VII JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
 
 ###### Article R422-16
 
@@ -84519,6 +85603,11 @@ d'engagement restant à courir, sauf à verser les indemnités de congé payé r
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1153 2006-09-14 art. 1 I, VII JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
 
 ###### Article R422-17
 
@@ -84527,7 +85616,7 @@ parental, ou pour formation professionnelle, est admis, s'il remplit toujours le
 emploi. Il en est de même de l'intéressé qui a bénéficié des dispositions de l'article 19 du décret n° 88-145 du 15 février
 1988 pris pour l'application de l'article 136 de la loi du 26 janvier 1984 modifiée portant dispositions statutaires
 relatives à la fonction publique territoriale et relatif aux agents non titulaires de la fonction publique territoriale, au
-terme du mandat mentionné à cet article, ou de l'assistant maternel libéré du service national.
+terme du mandat mentionné à cet article, ou de l'assistant maternel libéré du service national. 
 
 Pour les assistants maternels accueillant des mineurs à titre permanent, il est fait application de l'article L. 773-12 du
 code du travail à l'issue des congés prévus à l'alinéa ci-dessus.
@@ -84536,9 +85625,7 @@ code du travail à l'issue des congés prévus à l'alinéa ci-dessus.
 
 	**Cite**:
 
-	  - Loi n°84-53 1984-01-26 art. 136
-	  - Décret n°88-145 1988-02-15 art. 19
-	  - Code du travail - art. L773-12 (M)
+	  - Décret n°88-145 du 15 février 1988 (V)
 
 	**Anciens textes**:
 
@@ -84547,6 +85634,11 @@ code du travail à l'issue des congés prévus à l'alinéa ci-dessus.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1153 2006-09-14 art. 1 I, VII JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
 
 	**Cité par**:
 
@@ -84570,6 +85662,11 @@ l'engagement.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2006-1153 2006-09-14 art. 1 I, VII JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
 
 	**Cite**:
 
@@ -84598,6 +85695,11 @@ A défaut d'une demande présentée dans les délais indiqués ci-dessus, le con
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1153 2006-09-14 art. 1 I, VII JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
 
 ##### Section 3 : Discipline.
 
@@ -84621,6 +85723,11 @@ Les sanctions disciplinaires susceptibles d'être appliquées aux assistantes et
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1153 2006-09-14 art. 1 I, VII JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. D444-1 (V)
@@ -84632,13 +85739,13 @@ Les sanctions disciplinaires susceptibles d'être appliquées aux assistantes et
 
 Sauf lorsque le licenciement intervient soit pour faute grave ou lourde, soit au cours ou à l'expiration d'une période
 d'essai, une indemnité de licenciement calculée dans les conditions fixées par l'article D. 773-1-5 du code du travail est
-due à l'assistant maternel justifiant d'une ancienneté d'au moins deux ans au service du même employeur :
+due à l'assistant maternel justifiant d'une ancienneté d'au moins deux ans au service du même employeur : 
 
-1° Qui a fait l'objet d'un licenciement dans les conditions prévues aux articles L. 773-7 et L. 773-12 du code du travail ;
+1° Qui a fait l'objet d'un licenciement dans les conditions prévues aux articles L. 773-7 et L. 773-12 du code du travail ; 
 
-2° Qui, engagé à terme fixe, a été licencié avant ce terme ;
+2° Qui, engagé à terme fixe, a été licencié avant ce terme ; 
 
-3° Qui a été licencié dans les conditions prévues à l'article R. 422-11.
+3° Qui a été licencié dans les conditions prévues à l'article R. 422-11. 
 
 L'assistant maternel dont le contrat de travail a été rompu postérieurement à l'entrée en jouissance d'une pension au taux
 plein du régime général d'assurance vieillesse de la sécurité sociale bénéficie de l'indemnité prévue à l'alinéa précédent
@@ -84655,12 +85762,14 @@ pour faute grave ou lourde.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1153 2006-09-14 art. 1 I, VII JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2006-1153 du 14 septembre 2006 - art. 1 () JORF 16 septembre 2006 en vigueur le 1er janvier 2007
+
 	**Cite**:
 
-	  - Code du travail - art. D773-1-5 (Ab)
-	  - Code du travail - art. L773-12 (M)
-	  - Code du travail - art. L773-7 (T)
-	  - Code de l'action sociale et des familles - art. R422-11 (M)
+	  - Code de l'action sociale et des familles - art. R422-11 (V)
 
 	**Cité par**:
 
