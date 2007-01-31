@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2007-01-30
+Version Consolidée au 2007-02-01
 
 # Partie législative
 
@@ -43163,6 +43163,15 @@ ainsi que ceux dont les familles rencontrent des difficultés de tous ordres ;
 maternelle et de l'accueil périscolaire, afin de favoriser l'équilibre des rythmes de vie des enfants et la cohérence
 éducative.
 
+Dans le cadre du 4° du présent article, la commission, sur la base de données qui lui sont transmises par le département, la
+caisse d'allocations familiales, la caisse de mutualité sociale agricole, les agences locales pour l'emploi et les organismes
+chargés de l'insertion des publics rencontrant des difficultés particulières d'accès à l'emploi, élabore chaque année un
+diagnostic territorialisé des besoins d'accueil des familles rencontrant des difficultés d'accès à un mode d'accueil pour
+leurs jeunes enfants, notamment des familles bénéficiaires de l'une des allocations mentionnées à l'article L. 214-7.
+
+La commission formule, sur la base de ce diagnostic et des pratiques qui sont portées à sa connaissance, des propositions
+destinées à faciliter l'accès des enfants de ces familles à des modes d'accueil.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -43174,9 +43183,14 @@ maternelle et de l'accueil périscolaire, afin de favoriser l'équilibre des ryt
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1753 du 23 décembre 2006 - art. 3 () JORF 30 décembre 2006 en vigueur le 1er février 2007
+
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L214-5 (M)
+	  - Code de l'action sociale et des familles - art. L214-7 (V)
 
 	**Cité par**:
 
@@ -43191,7 +43205,10 @@ La commission examine chaque année :
 conseil général et de la caisse d'allocations familiales ;
 
 2° Un rapport du préfet sur les schémas de développement des services d'accueil des enfants de moins de six ans mentionnés à
-l'article L. 214-2, adoptés par les communes du département.
+l'article L. 214-2, adoptés par les communes du département ;
+
+3° Un bilan de la mise en oeuvre par les établissements et services d'accueil des enfants de moins de six ans des
+dispositions des articles L. 214-7 et D. 214-7, établi par le président du conseil général.
 
 Elle est informée par le président du conseil général des réalisations de type expérimental mentionnées à l'article R.
 2324-47 du code de la santé publique et en assure un suivi.
@@ -43207,10 +43224,16 @@ Elle est informée par le président du conseil général des réalisations de t
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2006-1753 du 23 décembre 2006 - art. 2 () JORF 30 décembre 2006 en vigueur le 1er février 2007
+
 	**Cite**:
 
 	  - Code de la santé publique - art. R2324-47 (M)
+	  - Code de l'action sociale et des familles - art. D214-7 (V)
 	  - Code de l'action sociale et des familles - art. L214-2 (V)
+	  - Code de l'action sociale et des familles - art. L214-7 (V)
 
 	**Cité par**:
 
@@ -43353,6 +43376,86 @@ Les membres de la commission exercent leur mandat à titre gratuit.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+
+###### Article D214-7
+
+Le nombre d'enfants mentionné au premier alinéa de l'article L. 214-7 est fixé chaque année par la personne physique ou
+morale gestionnaire de l'établissement ou du service. Ce nombre ainsi que les modalités selon lesquelles le gestionnaire
+s'organise pour garantir l'accueil de ces enfants figurent dans une annexe au projet d'établissement ou de service mentionné
+à l'article R. 2324-29 du code de la santé publique, qui est transmise au président du conseil général. 
+
+Le nombre mentionné au premier alinéa ne peut être inférieur, sauf pour les établissements et services mis en place par des
+employeurs pour l'accueil exclusif des enfants de leurs salariés, à un enfant par tranche de vingt places d'accueil. 
+
+Les enfants admis dans un établissement ou un service d'accueil au titre de l'obligation instituée par l'article L. 214-7 et
+dont l'accueil est poursuivi lorsque leurs parents cessent d'être bénéficiaires de l'une des allocations mentionnées audit
+article continuent d'être comptabilisés dans le nombre mentionné au premier alinéa. 
+
+La personne physique ou morale gestionnaire d'un établissement ou d'un service d'accueil peut également s'acquitter de son
+obligation : 
+
+1° Soit d'une manière globale sur l'ensemble des établissements et services dont elle assure la gestion ; 
+
+2° Soit en créant, gérant ou finançant un service de garde d'enfants au domicile parental agréé au titre de l'article L.
+129-1 du code du travail, avec lequel elle passe convention ; 
+
+3° Soit en passant convention à cette fin avec des assistants maternels.
+
+L'établissement ou le service accueillant un enfant au titre de l'article L. 214-7 veille à proposer à son ou ses parents
+ayant cessé l'activité professionnelle ou la formation rémunérée à l'origine de l'admission de leur enfant une solution
+d'accueil leur permettant d'accomplir les démarches nécessaires à une recherche active d'emploi. Cette proposition tient
+compte, dans les conditions fixées dans l'annexe au projet d'établissement prévue au premier alinéa, des autres demandes
+d'accueil reçues par le gestionnaire et des priorités qu'il détermine pour y répondre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1753 du 23 décembre 2006 - art. 1 () JORF 30 décembre 2006 en vigueur le 1er février 2007
+
+	**Cite**:
+
+	  - Code du travail - art. L129-1 (Ab)
+	  - Code de la santé publique - art. R2324-29 (V)
+	  - Code de l'action sociale et des familles - art. L214-7 (VD)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D214-2 (V)
+	  - Code de l'action sociale et des familles - art. D214-7-1 (VD)
+	  - Code de l'action sociale et des familles - art. R542-1 (V)
+
+
+###### Article D214-8
+
+Les personnes physiques ou morales de droit privé gestionnaires d'un ou de plusieurs établissements ou services informent le
+maire de la commune d'implantation de leurs établissements et services ou, le cas échéant, le président de l'établissement
+public de coopération intercommunale compétent en matière d'accueil des jeunes enfants, des actions qu'elles ont mises en
+place au titre de l'obligation instituée par l'article L. 214-7.
+
+Les autorités publiques mentionnées au premier alinéa veillent à faire connaître les actions mises en place par les
+établissements et services implantés sur leur territoire au titre de l'article L. 214-7 aux organismes et aux professionnels
+compétents en matière d'insertion professionnelle des bénéficiaires des allocations mentionnées à l'article L. 214-7 ou en
+matière d'accueil des jeunes enfants, ainsi qu'à la commission départementale de l'accueil des jeunes enfants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2006-1753 du 23 décembre 2006 - art. 1 () JORF 30 décembre 2006 en vigueur le 1er février 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L214-7 (V)
 
 
 #### Chapitre V : Dispositions diverses en faveur des familles
