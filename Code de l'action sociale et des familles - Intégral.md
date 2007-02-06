@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2007-02-01
+Version Consolidée au 2007-02-07
 
 # Partie législative
 
@@ -39343,6 +39343,67 @@ dans la suite de la procédure sans l'accord des parties, ni, en tout état de c
 	  - Code pénal - art. 226-13 (V)
 
 
+##### Sous-section 8 : Recueil des données sur les suites réservées par les établissements et services aux orientations prononcées par la commission des droits et de l'autonomie.
+
+###### Article R146-36
+
+Les établissements et services désignés par la commission des droits et de l'autonomie en application du 2° de l'article L.
+241-6 informent la maison départementale des personnes handicapées dont relève cette commission de la suite réservée aux
+désignations opérées par ladite commission.
+
+La transmission de cette information intervient dans le délai de quinze jours à compter de la date de réponse de
+l'établissement ou du service à la personne handicapée ou à son représentant. L'établissement ou le service doit également
+signaler à cette occasion la capacité d'accueil éventuellement disponible ainsi que le nombre de personnes en attente
+d'admission.
+
+Les données ainsi recueillies font l'objet d'un traitement selon les modalités définies par le décret prévu par l'article L.
+247-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-159 du 6 février 2007 - art. 1 () JORF 7 février 2007
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D312-35 (V)
+	  - Code de l'action sociale et des familles - art. D312-59-14 (V)
+	  - Code de l'action sociale et des familles - art. R541-4 (VD)
+	  - Code de l'action sociale et des familles - art. R545-2 (M)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L241-6 (V)
+	  - Code de l'action sociale et des familles - art. L247-2 (V)
+
+
+###### Article R146-37
+
+Le préfet ou le président du conseil général informent la maison départementale des personnes handicapées de tout nouvel
+établissement ou service autorisé à accueillir une personne handicapée dans le département, en précisant la nature de cet
+établissement ou service, sa spécialité et sa capacité d'accueil. En cas d'extension, de modification ou de retrait de
+l'autorisation, la maison départementale précitée en est informée par l'autorité ayant pris la décision.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-159 du 6 février 2007 - art. 1 () JORF 7 février 2007
+
+
 #### Chapitre VII : Conseil national pour l'accès aux origines personnelles
 
 ##### Section 1 : Composition et fonctionnement du conseil national pour l'accès aux origines personnelles
@@ -51532,8 +51593,8 @@ déplacement.
 Le préfet délivre la carte de stationnement pour personnes handicapées conformément à l'avis du médecin chargé de
 l'instruction de la demande.
 
-La carte de stationnement pour personnes handicapées est attribuée pour une période au minimum d'une année et ne pouvant
-excéder dix ans.
+La carte de stationnement pour personnes handicapées est attribuée à titre définitif ou pour une durée déterminée ne pouvant
+être inférieure à un an.
 
 Un arrêté des ministres chargés des personnes handicapées et des anciens combattants définit les modalités d'appréciation
 d'une mobilité pédestre réduite et de la perte d'autonomie dans le déplacement individuel, en tenant compte notamment de la
@@ -51553,7 +51614,7 @@ aides techniques ou à une aide humaine lors de tous ses déplacements à l'ext�
 
 	**Modifié par**:
 
-	  - Décret n°2005-1766 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005
+	  - Décret n°2007-156 du 5 février 2007 - art. 1 () JORF 7 février 2007
 
 	**Cite**:
 
@@ -54740,6 +54801,186 @@ de l'article L. 1617-5 du code général des collectivités territoriales.
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L1617-5 (V)
+
+
+#### Chapitre V-1 : La prestation de compensation en établissement
+
+###### Article D245-73
+
+Sauf dispositions contraires fixées par le présent chapitre, les dispositions du chapitre V du présent titre s'appliquent aux
+personnes handicapées hébergées ou accompagnées dans un établissement social on médico-social ou hospitalisées dans un
+établissement de santé ou à domicile. 
+
+Si le conseil général en a ainsi décidé sur le fondement de l'article L. 121-4, elles s'appliquent également, dans les mêmes
+conditions, aux personnes handicapées ayant fait l'objet, faute de possibilité d'accueil adapté plus proche, d'une
+orientation, dont la durée de validité est limitée conformément à l'article R. 241-31, vers un établissement situé dans un
+pays ayant une frontière commune avec la France, à la condition que leur accueil donne lieu à une prise en charge par
+l'assurance maladie ou par l'aide sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-158 du 5 février 2007 - art. 1 () JORF 7 février 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L121-4 (V)
+	  - Code de l'action sociale et des familles - art. R241-31 (V)
+
+
+###### Article D245-74
+
+En cas d'hospitalisation dans un établissement de santé ou d'hébergement dans un établissement social ou médico-social,
+donnant lieu à une prise en charge par l'assurance maladie ou par l'aide sociale, intervenant en cours de droit à la
+prestation de compensation, le versement de l'élément de la prestation de compensation mentionné au 1° de l'article L. 245-3
+est réduit à hauteur de 10 % du montant antérieurement versé dans les limites d'un montant minimum et d'un montant maximum
+fixés par arrêté du ministre chargé des personnes handicapées. Cette réduction intervient au-delà de quarante-cinq jours
+consécutifs de séjour ou de soixante jours lorsque la personne handicapée est dans l'obligation de licencier de ce fait son
+ou ses aides à domicile. Ce délai n'est pas interrompu en cas de sortie ne mettant pas un terme à la prise en charge. Le
+versement intégral est rétabli pendant les périodes d'interruption de l'hospitalisation ou de l'hébergement. 
+
+Lorsque la personne handicapée est hospitalisée dans un établissement de santé ou hébergée dans un établissement social ou
+médico-social au moment de la demande de prestation de compensation, la commission des droits et de l'autonomie des personnes
+handicapées décide de l'attribution de l'élément de la prestation de compensation mentionné au 1° de l'article L. 245-3 pour
+les périodes d'interruption de l'hospitalisation ou de l'hébergement et fixe le montant journalier correspondant. Le montant
+journalier réduit servi pendant les périodes d'hospitalisation ou d'hébergement est fixé à 10 % de ce montant dans les
+limites d'un montant journalier minimum et d'un montant journalier maximum fixés par arrêté du ministre chargé des personnes
+handicapées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-158 du 5 février 2007 - art. 1 () JORF 7 février 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L245-3 (V)
+
+
+###### Article D245-75
+
+Lorsque, au moment de sa demande de prestation de compensation, la personne handicapée est hospitalisée dans un établissement
+de santé ou hébergée dans un établissement social ou médico-social financé par l'assurance maladie ou par l'aide sociale, la
+commission des droits et de l'autonomie des personnes handicapées fixe le montant de l'élément de la prestation de
+compensation mentionné au 2° de l'article L. 245-3 à partir des besoins en aides techniques, telles que définies à l'article
+D. 245-10, que l'établissement ne couvre pas habituellement dans le cadre de ses missions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-158 du 5 février 2007 - art. 1 () JORF 7 février 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D245-10 (V)
+	  - Code de l'action sociale et des familles - art. L245-3 (V)
+
+
+###### Article D245-76
+
+Lorsque, au moment de sa demande de prestation de compensation, la personne handicapée est hospitalisée dans un établissement
+de santé, hébergée dans un établissement social ou médico-social, la commission des droits et de l'autonomie des personnes
+handicapées prend en compte les frais mentionnés à l'article D. 245-14 exposés par les bénéficiaires de l'allocation
+d'éducation de l'enfant handicapé et par les personnes qui séjournent au moins trente jours par an à leur domicile ou au
+domicile d'une personne visée à l'article D. 245-16.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-158 du 5 février 2007 - art. 1 () JORF 7 février 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D245-14 (V)
+	  - Code de l'action sociale et des familles - art. D245-16 (V)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R542-4 (V)
+
+
+###### Article D245-77
+
+Lorsque, au moment de sa demande de prestation de compensation, la personne handicapée est hospitalisée dans un établissement
+de santé, hébergée ou accueillie dans la journée dans un établissement ou service social ou médico-social et que la
+commission des droits et de l'autonomie constate la nécessité pour la personne handicapée soit d'avoir recours à un transport
+assuré par un tiers, soit d'effectuer un déplacement aller et retour supérieur à 50 kilomètres, le montant attribuable fixé
+en application de l'article R. 245-37 au titre de surcoûts liés aux transports est majoré dans des conditions fixées par
+arrêté du ministre chargé des personnes handicapées. Le conseil général peut autoriser la commission des droits et de
+l'autonomie des personnes handicapées à fixer, à titre exceptionnel et compte tenu de la longueur du trajet ou de
+l'importance des frais engagés en raison notamment de la lourdeur du handicap, un montant supérieur au montant attribuable
+mentionné au présent alinéa. 
+
+Le montant attribué au titre des surcoûts liés aux transports est fixé après application des articles R. 245-40 et R.
+245-42. 
+
+Les tarifs des trajets entre le domicile ou le lieu de résidence, permanent ou non, de la personne handicapée et
+l'établissement d'hospitalisation, d'hébergement ou d'accueil sont fixés par arrêté du ministre chargé des personnes
+handicapées. 
+
+Lorsque le transport est assuré par un tiers autre qu'une entreprise ou un organisme de transports, il est tenu compte de la
+distance accomplie par celui-ci pour aller chercher la personne handicapée sur le lieu où elle est hospitalisée ou hébergée
+et pour regagner le point de départ après avoir raccompagné cette personne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-158 du 5 février 2007 - art. 1 () JORF 7 février 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. R245-37 (V)
+	  - Code de l'action sociale et des familles - art. R245-40 (V)
+	  - Code de l'action sociale et des familles - art. R245-42 (V)
+
+
+###### Article D245-78
+
+Lorsque, au moment de sa demande de prestation de compensation, la personne handicapée est hospitalisée dans un établissement
+de santé ou hébergée dans un établissement social ou médico-social financé par l'assurance maladie ou par l'aide sociale, la
+commission des droits et de l'autonomie des personnes handicapées fixe le montant de l'élément de la prestation de
+compensation mentionné au 4° de l'article L. 245-3 en prenant en compte les charges spécifiques qui ne correspondent pas aux
+missions de l'établissement ou du service ou celles intervenant pendant les périodes d'interruption de l'hospitalisation ou
+de l'hébergement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-158 du 5 février 2007 - art. 1 () JORF 7 février 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L245-3 (V)
 
 
 ### Titre VI : Lutte contre la pauvreté et les exclusions
