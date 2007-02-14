@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2007-02-07
+Version Consolidée au 2007-02-15
 
 # Partie législative
 
@@ -36608,36 +36608,34 @@ Les fonctions de comptable du centre communal d'action sociale de Lyon sont exer
 
 ###### Article R131-1
 
-Sauf dispositions contraires, les demandes tendant à obtenir le bénéfice de l'aide sociale prévue aux titres III et IV du
-livre II prennent effet au premier jour de la quinzaine suivant la date à laquelle elles ont été présentées.
+Dans le cadre de l'instruction des demandes d'admission au bénéfice de l'aide sociale, le demandeur, accompagné, le cas
+échéant, d'une personne de son choix ou son représentant dûment mandaté à cet effet, est entendu, s'il le souhaite,
+préalablement à la décision du président du conseil général ou du préfet.
 
-Toutefois, pour la prise en charge des frais d'hébergement des personnes accueillies dans un établissement social ou médico-
-social, habilité à recevoir des bénéficiaires de l'aide sociale ou dans un établissement de santé dispensant des soins de
-longue durée, la décision d'attribution de l'aide sociale peut prendre effet à compter du jour d'entrée dans l'établissement
-si la demande a été déposée dans les deux mois qui suivent ce jour. Ce délai peut être prolongé une fois, dans la limite de
-deux mois, par le président du conseil général.
+Le président du conseil général ou le préfet informe le maire de la commune de résidence du demandeur, et, le cas échéant, le
+président du centre communal ou intercommunal d'action sociale où la demande a été déposée de toute décision d'admission ou
+de refus d'admission à l'aide sociale, ainsi que de suspension, de révision ou de répétition d'indu.
 
-Le jour d'entrée mentionné au deuxième alinéa s'entend, pour les pensionnaires payants, du jour où l'intéressé, faute de
-ressources suffisantes, n'est plus en mesure de s'acquitter de ses frais de séjour.
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°54-611 du 11 juin 1954 - art. 18 (M)
 	  - Décret n°54-611 du 11 juin 1954 - art. 18 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2007-198 du 13 février 2007 - art. 1 () JORF 15 février 2007
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. R131-2 (T)
 	  - Code de l'action sociale et des familles - art. R131-2 (V)
 
 	**Cité par**:
@@ -36646,6 +36644,49 @@ ressources suffisantes, n'est plus en mesure de s'acquitter de ses frais de séj
 
 
 ###### Article R131-2
+
+Sauf dispositions contraires, les demandes tendant à obtenir le bénéfice de l'aide sociale prévue aux titres III et IV du
+livre II prennent effet au premier jour de la quinzaine suivant la date à laquelle elles ont été présentées.
+
+Toutefois, pour la prise en charge des frais d'hébergement des personnes accueillies dans un établissement social ou médico-
+social, habilité à recevoir des bénéficiaires de l'aide sociale ou dans un établissement de santé dispensant des soins de
+longue durée, la décision d'attribution de l'aide sociale peut prendre effet à compter du jour d'entrée dans l'établissement
+si la demande a été déposée dans les deux mois qui suivent ce jour. Ce délai peut être prolongé une fois, dans la limite de
+deux mois, par le président du conseil général ou le préfet.
+
+Le jour d'entrée mentionné au deuxième alinéa s'entend, pour les pensionnaires payants, du jour où l'intéressé, faute de
+ressources suffisantes, n'est plus en mesure de s'acquitter de ses frais de séjour.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°54-883 du 2 septembre 1954 - art. 9 (Ab)
+	  - Code de l'action sociale et des familles - art. R131-1 (T)
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2007-198 2007-02-13 art. 1 I, II JORF 15 février 2007
+	  - Décret n°2007-198 du 13 février 2007 - art. 1 () JORF 15 février 2007
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R131-3 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. R131-3 (V)
+
+
+###### Article R131-3
 
 Sous réserve des dispositions des articles L. 232-25, L. 245-7 et L. 262-40, les décisions accordant le bénéfice de l'aide
 sociale peuvent faire l'objet, pour l'avenir, d'une révision lorsque des éléments nouveaux modifient la situation au vu de
@@ -36656,48 +36697,6 @@ sociale.
 
 	**Anciens textes**:
 
-	  - Décret n°54-883 1954-09-02 art. 9 al. 1
-	  - Décret n°54-883 du 2 septembre 1954 - art. 9 (Ab)
-	  - Code de l'action sociale et des familles - art. R131-1 (T)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Transféré par**:
-
-	  - Décret n°2007-198 du 13 février 2007 - art. 1 () JORF 15 février 2007
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L232-25 (M)
-	  - Code de l'action sociale et des familles - art. L245-7 (M)
-	  - Code de l'action sociale et des familles - art. L262-40 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. R131-3 (T)
-	  - Code de l'action sociale et des familles - art. R131-3 (V)
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. R131-3 (T)
-
-
-###### Article R131-3
-
-Lorsque les décisions administratives d'admission ont été prises sur la base de déclarations incomplètes ou erronées, il peut
-être procédé à leur révision, avec répétition de l'indu. Dans ce cas, la révision est poursuivie devant l'autorité qui a pris
-la décision.
-
-Dans les cas prévus à l'article R. 131-2 et au premier alinéa du présent article, la procédure de révision est engagée par le
-président du conseil général ou le préfet et l'intéressé est mis en mesure de présenter ses observations.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-883 1954-09-02 art. 9 al. 2 et 3
 	  - Décret n°54-883 du 2 septembre 1954 - art. 9 (Ab)
 	  - Code de l'action sociale et des familles - art. R131-2 (T)
 
@@ -36705,17 +36704,18 @@ président du conseil général ou le préfet et l'intéressé est mis en mesure
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2007-198 du 13 février 2007 - art. 1 () JORF 15 février 2007
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. R131-2 (T)
+	  - Code de l'action sociale et des familles - art. L232-25 (V)
+	  - Code de l'action sociale et des familles - art. L245-7 (V)
+	  - Code de l'action sociale et des familles - art. L262-40 (V)
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. R131-4 (T)
 	  - Code de l'action sociale et des familles - art. R131-4 (V)
 
 	**Cité par**:
@@ -36726,23 +36726,17 @@ président du conseil général ou le préfet et l'intéressé est mis en mesure
 
 ###### Article R131-4
 
-Les allocations d'aide sociale sont versées mensuellement et à terme échu à moins que les intéressés n'aient donné leur
-accord pour un terme plus long.
+Lorsque les décisions administratives d'admission ont été prises sur la base de déclarations incomplètes ou erronées, il peut
+être procédé à leur révision, avec répétition de l'indu. Dans ce cas, la révision est poursuivie devant l'autorité qui a pris
+la décision.
 
-Elles sont payées au lieu de résidence de l'intéressé, soit à lui-même, soit à une personne désignée par lui. A leur demande,
-elles sont payées aux personnes âgées ou handicapées ayant des problèmes de mobilité par un moyen leur évitant de se
-déplacer.
-
-La commission d'admission peut décider que le versement des allocations d'aide sociale sera fractionné par décisions
-spécialement motivées.
-
-Les allocations d'aide sociale ont un caractère alimentaire. Elles sont incessibles et insaisissables.
+Dans les cas prévus à l'article R. 131-3 et au premier alinéa du présent article, la procédure de révision est engagée par le
+président du conseil général ou le préfet et l'intéressé est mis en mesure de présenter ses observations.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°54-883 1954-09-02 art. 10 al. 1 à 4
 	  - Décret n°54-883 du 2 septembre 1954 - art. 10 (Ab)
 	  - Code de l'action sociale et des familles - art. R131-3 (T)
 
@@ -36750,13 +36744,17 @@ Les allocations d'aide sociale ont un caractère alimentaire. Elles sont incessi
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Modifié par**:
 
+	  - Décret n°2007-198 2007-02-13 art. 1 I, III JORF 15 février 2007
 	  - Décret n°2007-198 du 13 février 2007 - art. 1 () JORF 15 février 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. R131-3 (T)
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. R131-5 (T)
 	  - Code de l'action sociale et des familles - art. R131-5 (V)
 
 	**Cité par**:
@@ -36765,6 +36763,45 @@ Les allocations d'aide sociale ont un caractère alimentaire. Elles sont incessi
 
 
 ###### Article R131-5
+
+Les allocations d'aide sociale sont versées mensuellement et à terme échu à moins que les intéressés n'aient donné leur
+accord pour un terme plus long. 
+
+Elles sont payées au lieu de résidence de l'intéressé, soit à lui-même, soit à une personne désignée par lui. A leur demande,
+elles sont payées aux personnes âgées ou handicapées ayant des problèmes de mobilité par un moyen leur évitant de se
+déplacer. 
+
+L'autorité administrative compétente en application de l'article L. 131-2 peut décider que le versement des allocations
+d'aide sociale sera fractionné par décisions spécialement motivées. 
+
+Les allocations d'aide sociale ont un caractère alimentaire. Elles sont incessibles et insaisissables.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°54-883 du 2 septembre 1954 - art. 10 (Ab)
+	  - Code de l'action sociale et des familles - art. R131-4 (T)
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2007-198 2007-02-13 art. 1 I, IV JORF 15 février 2007
+	  - Décret n°2007-198 du 13 février 2007 - art. 1 () JORF 15 février 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L131-2 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. R131-6 (V)
+
+
+###### Article R131-6
 
 En cas de décès d'un bénéficiaire de l'aide sociale, le maire avise le service d'aide sociale chargé du mandatement des
 allocations dans le délai de dix jours à compter soit du décès, soit de la date à laquelle celui-ci est porté à sa
@@ -36777,15 +36814,14 @@ l'obligation prévue au premier alinéa incombe au directeur de l'établissement
 
 	**Anciens textes**:
 
-	  - Décret n°54-883 1954-09-02 art. 10 al. 5 et 6
-	  - Décret n°54-883 du 2 septembre 1954 - art. 10 (Ab)
-	  - Code de l'action sociale et des familles - art. R131-4 (T)
+	  - Décret n°54-883 du 2 septembre 1954 - art. 11 (Ab)
+	  - Code de l'action sociale et des familles - art. R131-5 (T)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2007-198 du 13 février 2007 - art. 1 () JORF 15 février 2007
 
@@ -36795,11 +36831,10 @@ l'obligation prévue au premier alinéa incombe au directeur de l'établissement
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. R131-6 (T)
-	  - Code de l'action sociale et des familles - art. R131-6 (V)
+	  - Code de l'action sociale et des familles - art. R131-7 (V)
 
 
-###### Article R131-6
+###### Article R131-7
 
 Les frais de visite occasionnés par la délivrance de certificats médicaux aux postulants à l'aide sociale sont à la charge de
 ces postulants ou à celle de l'aide médicale de l'Etat si les intéressés y ont été admis.
@@ -36813,55 +36848,6 @@ indispensables, sont compris dans les dépenses d'aide sociale.
 
 	**Anciens textes**:
 
-	  - Décret n°54-883 du 2 septembre 1954 - art. 11 (Ab)
-	  - Code de l'action sociale et des familles - art. R131-5 (T)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Transféré par**:
-
-	  - Décret n°2007-198 du 13 février 2007 - art. 1 () JORF 15 février 2007
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. R131-7 (Ab)
-	  - Code de l'action sociale et des familles - art. R131-7 (V)
-
-
-###### Article R131-7
-
-La commission d'admission à l'aide sociale de l'arrondissement mentionnée à l'article L. 2512-10 du code général des
-collectivités territoriales, à Paris, comprend :
-
-- un magistrat en activité ou honoraire, désigné par le premier président de la cour d'appel de Paris, président ;
-
-- deux fonctionnaires de l'administration des finances désignés par le préfet de Paris ;
-
-- un conseiller de Paris désigné par le conseil de Paris siégeant en formation de conseil général et un conseiller
-d'arrondissement désigné par le conseil d'arrondissement.
-
-Le magistrat et les fonctionnaires des finances peuvent être remplacés par des suppléants désignés dans les mêmes conditions.
-
-En cas de partage, la voix du président est prépondérante.
-
-Assistent à la commission avec voix consultative :
-
-- deux représentants des organismes de sécurité sociale dont un représentant du régime général de la sécurité sociale et un
-représentant du régime d'assurance maladie et maternité des travailleurs non-salariés des professions non-agricoles désignés
-par le préfet de Paris, sur une liste de quatre noms, présentée par le directeur régional des affaires sanitaires et
-sociales ;
-
-- un représentant du préfet de Paris.
-
-Le secrétariat de la commission est assuré par un secrétaire rapporteur désigné par le préfet de Paris.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°77-274 du 24 mars 1977 - art. 22 (M)
 	  - Décret n°77-274 du 24 mars 1977 - art. 22 (Ab)
 	  - Code de l'action sociale et des familles - art. R131-6 (T)
 
@@ -36869,13 +36855,44 @@ Le secrétariat de la commission est assuré par un secrétaire rapporteur dési
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Abrogé par**:
+	**Modifié par**:
+
+	  - Décret n°2007-198 du 13 février 2007 - art. 1 () JORF 15 février 2007
+
+
+###### Article R131-8
+
+I.-Lorsqu'un président de conseil général est saisi d'une demande d'admission à l'aide sociale, dont la charge financière au
+sens du 1° de l'article L. 121-7 lui paraît incomber à l'Etat, il transmet le dossier au préfet au plus tard dans le mois de
+la réception de la demande. Si ce dernier n'admet pas la compétence de l'Etat, il transmet le dossier au plus tard dans le
+mois de sa saisine à la commission d'aide sociale, qui statue dans les conditions de l'article L. 134-3. 
+
+II.-Lorsque le préfet est saisi d'une demande d'admission à l'aide sociale, dont la charge financière au sens de l'article L.
+121-1 lui paraît relever d'un département, il transmet le dossier au plus tard dans le mois de la réception de la demande au
+président du conseil général du département qu'il estime compétent. Si ce dernier n'admet pas la compétence de son
+département, il retourne le dossier au préfet au plus tard dans le mois de sa saisine. Si le préfet persiste à décliner la
+compétence de l'Etat, il transmet le dossier au plus tard dans le mois de sa saisine à la commission centrale d'aide sociale
+qui statue dans les conditions de l'article L. 134-3.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
 
 	  - Décret n°2007-198 du 13 février 2007 - art. 1 () JORF 15 février 2007
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L2512-10 (M)
+	  - Code de l'action sociale et des familles - art. L121-1 (V)
+	  - Code de l'action sociale et des familles - art. L121-7 (V)
+	  - Code de l'action sociale et des familles - art. L134-3 (V)
 
 
 #### Chapitre II : Participation et récupération
@@ -37065,31 +37082,39 @@ confiées par l'article R. 132-4 au président du conseil général sont exercé
 ###### Article R132-8
 
 Les participations exigées des familles, en vertu de l'article L. 132-5 sont calculées en tenant compte de la moyenne des
-allocations familiales versées pour les enfants à charge, quel que soit le rang de l'enfant bénéficiaires de l'aide sociale.
+allocations familiales versées pour les enfants à charge, quel que soit le rang de l'enfant bénéficiaires de l'aide sociale. 
 
 Sous réserve des dispositions de l'article L. 521-2 du code de la sécurité sociale, le service d'aide sociale reçoit
-directement et intégralement les allocations familiales dues au titre d'un enfant lorsque :
+directement et intégralement les allocations familiales dues au titre d'un enfant lorsque : 
 
 1° L'enfant étant hospitalisé ou placé dans un établissement de rééducation au titre de l'aide sociale, les parents ne se
-sont pas acquittés pendant la période de trois mois de la participation laissée à leur charge par la commission d'admission
-et que cette participation est au moins égale au montant des allocations dues au titre de l'enfant considéré ;
+sont pas acquittés pendant la période de trois mois de la participation laissée à leur charge par le président du conseil
+général ou le préfet et que cette participation est au moins égale au montant des allocations dues au titre de l'enfant
+considéré ; 
 
 2° L'enfant est confié au service d'aide sociale à l'enfance pour une durée supérieure à un mois.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°54-883 du 2 septembre 1954 - art. 3 (M)
 	  - Décret n°54-883 du 2 septembre 1954 - art. 3 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2007-198 du 13 février 2007 - art. 1 () JORF 15 février 2007
+
 	**Cite**:
 
-	  - Code de la sécurité sociale. - art. L521-2 (M)
+	  - Code de la sécurité sociale. - art. L521-2 (V)
 	  - Code de l'action sociale et des familles - art. L132-5 (V)
 
 	**Cité par**:
@@ -37163,19 +37188,24 @@ actes de procédure sont notifiés en la même forme. Les délais courent à com
 ###### Article R132-11
 
 Les recours prévus à l'article L. 132-8 sont exercés, dans tous les cas, dans la limite du montant des prestations allouées
-au bénéficiaire de l'aide sociale.
+au bénéficiaire de l'aide sociale. 
 
 En cas de donation, le recours est exercé jusqu'à concurrence de la valeur des biens donnés par le bénéficiaire de l'aide
 sociale, appréciée au jour de l'introduction du recours, déduction faite, le cas échéant, des plus-values résultant des
-impenses ou du travail du donataire.
+impenses ou du travail du donataire. 
 
 En cas de legs, le recours est exercé jusqu'à concurrence de la valeur des biens légués au jour de l'ouverture de la
-succession.
+succession. 
 
-Le montant des sommes à récupérer est fixé par la commission d'admission saisie par le président du conseil général ou le
-préfet.
+Le président du conseil général ou le préfet fixe le montant des sommes à récupérer. Il peut décider de reporter la
+récupération en tout ou partie. 
 
-La commission d'admission peut décider de reporter la récupération en tout ou en partie au décès du conjoint survivant.
+Les dispositions du premier alinéa de l'article R. 131-1 sont applicables aux actions en récupération introduites par le
+président du conseil général ou le préfet à l'encontre des personnes mentionnées aux 1° à 3° de l'article L. 132-8.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -37183,18 +37213,22 @@ La commission d'admission peut décider de reporter la récupération en tout ou
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°61-495 du 15 mai 1961 - art. 4 (M)
-	  - Décret n°61-495 du 15 mai 1961 - art. 4 (Ab)
+	  - Décret n°2007-198 du 13 février 2007 - art. 1 () JORF 15 février 2007
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L132-8 (M)
+	  - Code de l'action sociale et des familles - art. L132-8 (V)
+	  - Code de l'action sociale et des familles - art. R131-1 (VT)
 
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. R132-16 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°61-495 du 15 mai 1961 - art. 4 (Ab)
 
 
 ###### Article R132-12
@@ -37298,26 +37332,33 @@ inscription doit être prise dans un délai maximum de trois mois.
 ###### Article R132-16
 
 La mainlevée des inscriptions prises en conformité des articles R. 132-13 à R. 132-15 est donnée soit d'office soit à la
-requête du débiteur par décision du président du conseil général ou du préfet.
+requête du débiteur par décision du président du conseil général ou du préfet. 
 
-Cette décision intervient au vu de pièces justificatives, soit du remboursement de la créance soit d'une remise prononcée par
-la commission d'admission, en application du quatrième alinéa de l'article R. 132-11.
+Cette décision intervient au vu de pièces justificatives, soit du remboursement de la créance soit d'une remise, en
+application du quatrième alinéa de l'article R. 132-11.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°54-883 du 2 septembre 1954 - art. 8 (M)
 	  - Décret n°54-883 du 2 septembre 1954 - art. 8 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2007-198 du 13 février 2007 - art. 1 () JORF 15 février 2007
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. R132-11 (M)
-	  - Code de l'action sociale et des familles R132-13 à R132-15, R132-11
+	  - Code de l'action sociale et des familles - art. R132-11 (VT)
+	  - Code de l'action sociale et des familles - art. R132-13 (V)
 
 
 #### Chapitre IV : Contentieux
@@ -48692,27 +48733,29 @@ applicables avant cette entrée en vigueur.
 L'octroi des services ménagers mentionnés à l'article L. 231-1 peut être envisagé, dans les communes où un tel service est
 organisé, au profit des personnes ayant besoin, pour demeurer à leur domicile, d'une aide matérielle et ne disposant pas de
 ressources supérieures à celles prévues pour l'octroi de l'allocation simple, sans qu'il soit tenu compte des aides au
-logement.
+logement. 
 
-Sous réserve des dispositions de l'article L. 121-4, la commission d'admission fixe la nature des services et leur durée dans
-la limite mensuelle de trente heures. Lorsque deux ou plusieurs bénéficiaires vivent en commun, le nombre maximum d'heures
-est réduit d'un cinquième pour chacun des bénéficiaires.
+Le président du conseil général ou le préfet fixe la nature des services et leur durée dans la limite mensuelle de trente
+heures. Lorsque deux ou plusieurs bénéficiaires vivent en commun, le nombre maximum d'heures est réduit d'un cinquième pour
+chacun des bénéficiaires.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°54-1128 1954-11-15 art. 6 al. 1 et 2
 	  - Décret n°54-1128 du 15 novembre 1954 - art. 6 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2007-198 du 13 février 2007 - art. 1 () JORF 15 février 2007
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L121-4 (M)
-	  - Code de l'action sociale et des familles - art. L231-1 (V)
+	  - Code de l'action sociale et des familles - art. L231-1 (VT)
 
 	**Cité par**:
 
@@ -48727,12 +48770,11 @@ général font l'objet d'une prise en charge par les services de l'aide sociale 
 participation des intéressés et les ressources propres du foyer.
 
 La participation desdits services est limitée aux frais de repas servis aux personnes âgées mentionnées à l'article L. 113-1
-et ne disposant pas de ressources supérieures au plafond fixé pour l'octroi de l'allocation supplémentaire du fonds de
-solidarité vieillesse et prévu à l'article L. 815-8 du code de la sécurité sociale. Son montant est fixé par arrêté du
-président du conseil général en fonction du prix de revient des repas.
+et ne disposant pas de ressources supérieures au plafond fixé pour l'octroi de l'allocation de solidarité aux personnes âgées
+et prévu à l'article L. 815-9 du code de la sécurité sociale. Son montant est fixé par arrêté du président du conseil général
+en fonction du prix de revient des repas.
 
-La participation des intéressés est déterminée par la commission d'admission compte tenu de leurs ressources et du prix du
-repas.
+La participation des intéressés est déterminée compte tenu de leurs ressources et du prix du repas.
 
 **Liens relatifs à cet article**
 
@@ -48745,9 +48787,13 @@ repas.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2007-198 du 13 février 2007 - art. 1 () JORF 15 février 2007
+
 	**Cite**:
 
-	  - Code de la sécurité sociale. - art. L815-8 (M)
+	  - Code de la sécurité sociale. - art. L815-9 (M)
 	  - Code de l'action sociale et des familles - art. L113-1 (M)
 	  - Code de l'action sociale et des familles - art. L231-3 (V)
 
@@ -48758,13 +48804,12 @@ repas.
 
 ###### Article R231-4
 
-Le placement à titre onéreux chez un particulier au titre de l'aide sociale donne lieu à une prise en charge déterminée par
-la commission d'admission à l'aide sociale, compte tenu :
+Le placement à titre onéreux chez un particulier au titre de l'aide sociale donne lieu à une prise en charge compte tenu : 
 
 1° D'un plafond constitué par la rémunération et les indemnités mentionnées aux 1° et 2° de l'article L. 442-1, le cas
-échéant selon la convention accompagnant l'habilitation à recevoir des bénéficiaires de l'aide sociale ;
+échéant selon la convention accompagnant l'habilitation à recevoir des bénéficiaires de l'aide sociale ; 
 
-2° Des ressources de la personne accueillie, y compris celles résultant de l'obligation alimentaire.
+2° Des ressources de la personne accueillie, y compris celles résultant de l'obligation alimentaire. 
 
 Cette prise en charge doit garantir à l'intéressé la libre disposition d'une somme au moins égale au dixième de ses
 ressources, ainsi qu'au centième du montant annuel des prestations minimales de vieillesse arrondi à l'euro le plus proche.
@@ -48780,9 +48825,13 @@ ressources, ainsi qu'au centième du montant annuel des prestations minimales de
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2007-198 du 13 février 2007 - art. 1 () JORF 15 février 2007
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L442-1 (M)
+	  - Code de l'action sociale et des familles - art. L442-1 (V)
 
 
 ###### Article R231-5
@@ -81757,9 +81806,9 @@ Toute personne handicapée qui est accueillie de façon permanente ou temporaire
 qu'elle donne pouvoir à celui-ci d'encaisser.
 
 Cette contribution, qui a pour seul objet de couvrir tout ou partie des frais d'hébergement et d'entretien de la personne
-handicapée, est fixée par le président du conseil général, au moment de la décision de prise en charge, compte tenu des
-ressources du pensionnaire, de telle sorte que celui-ci puisse conserver le minimum fixé en application du 1° de l'article L.
-344-5. Elle peut varier ultérieurement selon l'évolution des ressources mensuelles de l'intéressé.
+handicapée, est fixée par le président du conseil général ou le préfet, au moment de la décision de prise en charge, compte
+tenu des ressources du pensionnaire, de telle sorte que celui-ci puisse conserver le minimum fixé en application du 1° de
+l'article L. 344-5. Elle peut varier ultérieurement selon l'évolution des ressources mensuelles de l'intéressé.
 
 L'aide sociale prend en charge les frais d'hébergement et d'entretien qui dépassent la contribution du pensionnaire.
 
@@ -81775,7 +81824,7 @@ L'aide sociale prend en charge les frais d'hébergement et d'entretien qui dépa
 
 	**Modifié par**:
 
-	  - Décret n°2006-703 du 16 juin 2006 - art. 6 () JORF 17 juin 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2007-198 du 13 février 2007 - art. 1 () JORF 15 février 2007
 
 	**Cite**:
 
@@ -81788,8 +81837,9 @@ L'aide sociale prend en charge les frais d'hébergement et d'entretien qui dépa
 
 ###### Article R344-30
 
-Le président du conseil général peut prévoir une exonération de la contribution pendant les périodes de vacances et, à cette
-fin, fragmenter la contribution en semaines, une semaine représentant trois treizièmes de la contribution mensuelle.
+Le président du conseil général ou le préfet peut prévoir une exonération de la contribution pendant les périodes de vacances
+et, à cette fin, fragmenter la contribution en semaines, une semaine représentant trois treizièmes de la contribution
+mensuelle.
 
 **Liens relatifs à cet article**
 
@@ -81803,7 +81853,7 @@ fin, fragmenter la contribution en semaines, une semaine représentant trois tre
 
 	**Modifié par**:
 
-	  - Décret n°2006-584 du 23 mai 2006 - art. 7 () JORF 24 mai 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2007-198 du 13 février 2007 - art. 1 () JORF 15 février 2007
 
 
 ###### Article R344-31
@@ -81838,8 +81888,8 @@ L'organisme débiteur de l'allocation aux adultes handicapés ne peut refuser le
 
 Lorsque le pensionnaire est obligé, pour effectuer les actes ordinaires de la vie, d'avoir recours à l'assistance d'une
 tierce personne et qu'il bénéficie à ce titre de l'allocation compensatrice prévue à l'article L. 245-1, le paiement de cette
-allocation est suspendu à concurrence d'un montant fixé par le président du conseil général, en proportion de l'aide qui lui
-est assurée par le personnel de l'établissement pendant qu'il y séjourne et au maximum à concurrence de 90 %.
+allocation est suspendu à concurrence d'un montant fixé par le président du conseil général ou le préfet, en proportion de
+l'aide qui lui est assurée par le personnel de l'établissement pendant qu'il y séjourne et au maximum à concurrence de 90 %.
 
 **Liens relatifs à cet article**
 
@@ -81854,7 +81904,7 @@ est assurée par le personnel de l'établissement pendant qu'il y séjourne et a
 
 	**Modifié par**:
 
-	  - Décret n°2006-584 du 23 mai 2006 - art. 7 () JORF 24 mai 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2007-198 du 13 février 2007 - art. 1 () JORF 15 février 2007
 
 	**Cite**:
 
@@ -81870,7 +81920,7 @@ est assurée par le personnel de l'établissement pendant qu'il y séjourne et a
 Lorsque le pensionnaire expose des frais supplémentaires liés à l'exercice d'une activité professionnelle et qu'il bénéficie
 à ce titre de l'allocation compensatrice, il garde la disposition de celle-ci. Toutefois, si l'établissement le décharge
 d'une partie de ces frais par des services et notamment par la mise à sa disposition de moyens de transports adaptés, le
-paiement de l'allocation est suspendu jusqu'à concurrence d'un montant fixé par le président du conseil général.
+paiement de l'allocation est suspendu jusqu'à concurrence d'un montant fixé par le président du conseil général ou le préfet.
 
 **Liens relatifs à cet article**
 
@@ -81885,7 +81935,7 @@ paiement de l'allocation est suspendu jusqu'à concurrence d'un montant fixé pa
 
 	**Modifié par**:
 
-	  - Décret n°2006-584 du 23 mai 2006 - art. 7 () JORF 24 mai 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2007-198 du 13 février 2007 - art. 1 () JORF 15 février 2007
 
 
 ##### Sous-section 2 : Minimum de ressources
@@ -82011,8 +82061,8 @@ Lorsque le pensionnaire doit assumer la responsabilité de l'entretien d'une fam
 l'établissement, il doit pouvoir disposer librement, chaque mois, en plus du minimum de ressources personnelles calculé comme
 il est dit aux articles D. 344-35 à D. 344-37 :
 
-1° S'il est marié, sans enfant et si son conjoint ne travaille pas pour un motif reconnu valable par la commission
-d'admission, de 35 % du montant mensuel de l'allocation aux adultes handicapés ;
+1° S'il est marié, sans enfant et si son conjoint ne travaille pas pour un motif reconnu valable par le président du conseil
+général ou le préfet, de 35 % du montant mensuel de l'allocation aux adultes handicapés ;
 
 2° De 30 % du montant mensuel de l'allocation aux adultes handicapés par enfant ou par ascendant à charge.
 
@@ -82025,6 +82075,10 @@ d'admission, de 35 % du montant mensuel de l'allocation aux adultes handicapés 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2007-198 du 13 février 2007 - art. 1 () JORF 15 février 2007
 
 	**Cité par**:
 
@@ -92739,73 +92793,41 @@ mots : "dans son département" et "dans le département" sont remplacés par les
 
 ###### Article D542-2
 
-Les demandes d'admission au bénéfice de l'une des prestations d'aide sociale créées par le conseil général de Mayotte en
-application du chapitre II du titre IV du livre V sont déposées à la mairie de résidence de l'intéressé.
+L'admission à l'aide sociale donne lieu à l'inscription sur la liste des bénéficiaires de l'aide sociale de la commune. Elle
+mentionne notamment la date et la durée d'admission, la nature et le montant de l'aide allouée au bénéficiaire.
 
-Elles donnent lieu à l'établissement par le maire d'un dossier d'aide sociale conforme à un modèle établi par le règlement
-territorial de l'aide sociale. Elles sont transmises dans le mois de leur dépôt au représentant du Gouvernement avec l'avis
-du conseil municipal.
+La décision est notifiée au demandeur par le maire de la commune de résidence.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°93-48 1993-01-11 art. 1
 	  - Décret n°93-48 du 11 janvier 1993 - art. 1 (Ab)
 	  - Code de l'action sociale et des familles - art. D542-3 (T)
 
 	**Codifié par**:
 
-	  - Décret n°2004-1136 2004-10-21
+	  - Décret n°2004-1136 du 21 octobre 2004
+
+	**Modifié par**:
+
+	  - Décret n°2007-198 2007-02-13 art. 1 XV, XVI JORF 15 février 2007
+	  - Décret n°2007-198 du 13 février 2007 - art. 1 () JORF 15 février 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1407 du 26 novembre 2014 - art. 3
 
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. D542-4 (T)
+	  - Code de l'action sociale et des familles - art. D542-5 (Ab)
 
 
 ###### Article D542-3
 
-L'admission à l'aide sociale prononcée par la commission d'admission mentionnée à l'article L. 542-3 donne lieu à
-l'inscription sur la liste des bénéficiaires de l'aide sociale de la commune. Elle est effectuée par le représentant du
-Gouvernement. Elle mentionne notamment la date et la durée d'admission, la nature et le montant de l'aide allouée au
-bénéficiaire.
-
-La décision de la commission d'admission est notifiée au demandeur par le maire de la commune de résidence.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°93-48 1993-01-11 art. 2
-	  - Décret n°93-48 du 11 janvier 1993 - art. 2 (Ab)
-	  - Code de l'action sociale et des familles - art. D542-4 (T)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Transféré par**:
-
-	  - Décret n°2007-198 du 13 février 2007 - art. 1 () JORF 15 février 2007
-
-	**Nouveaux textes**:
-
-	  - Code de l'action sociale et des familles - art. D542-2 (Ab)
-	  - Code de l'action sociale et des familles - art. D542-2 (M)
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. D542-6 (T)
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L542-3 (T)
-
-
-###### Article D542-4
-
 Sous réserve qu'ils remplissent les conditions légales et réglementaires d'attribution, peuvent bénéficier des prestations
-d'aide sociale dans les conditions prévues à l'article D. 542-2 les étrangers titulaires d'un titre de séjour exigé en vertu
+d'aide sociale dans les conditions prévues au présent chapitre les étrangers titulaires d'un titre de séjour exigé en vertu
 des dispositions législatives ou réglementaires ou de traités ou accords internationaux pour résider régulièrement sur le
 territoire de Mayotte.
 
@@ -92817,29 +92839,32 @@ et de la famille.
 
 	**Anciens textes**:
 
-	  - Décret n°93-48 1993-01-11 art. 3
-	  - Décret n°93-48 du 11 janvier 1993 - art. 3 (Ab)
-	  - Code de l'action sociale et des familles - art. D542-5 (T)
+	  - Décret n°93-48 du 11 janvier 1993 - art. 2 (Ab)
+	  - Code de l'action sociale et des familles - art. D542-4 (T)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Modifié par**:
 
+	  - Décret n°2007-198 2007-02-13 art. 1 XV, XVII JORF 15 février 2007
 	  - Décret n°2007-198 du 13 février 2007 - art. 1 () JORF 15 février 2007
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code de l'action sociale et des familles - art. D542-2 (M)
+	  - Décret n°2014-1407 du 26 novembre 2014 - art. 3
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. D542-3 (Ab)
-	  - Code de l'action sociale et des familles - art. D542-3 (T)
+	  - Code de l'action sociale et des familles - art. D542-2 (Ab)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D542-6 (T)
 
 
-###### Article D542-5
+###### Article D542-4
 
 La participation financière globale des communes aux dépenses d'aide sociale est fixée annuellement par le conseil général.
 
@@ -92847,29 +92872,31 @@ La participation financière globale des communes aux dépenses d'aide sociale e
 
 	**Anciens textes**:
 
-	  - Décret n°93-48 1993-01-11 art. 4
-	  - Décret n°93-48 du 11 janvier 1993 - art. 4 (Ab)
-	  - Code de l'action sociale et des familles - art. D542-6 (T)
+	  - Décret n°93-48 du 11 janvier 1993 - art. 3 (Ab)
+	  - Code de l'action sociale et des familles - art. D542-5 (T)
 
 	**Codifié par**:
 
-	  - Décret n°2004-1136 2004-10-21
+	  - Décret n°2004-1136 du 21 octobre 2004
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2007-198 du 13 février 2007 - art. 1 () JORF 15 février 2007
 
+	**Abrogé par**:
+
+	  - Décret n°2014-1407 du 26 novembre 2014 - art. 3
+
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. D542-4 (Ab)
-	  - Code de l'action sociale et des familles - art. D542-4 (T)
+	  - Code de l'action sociale et des familles - art. D542-3 (Ab)
 
 
-###### Article D542-6
+###### Article D542-5
 
 La contribution financière de chaque commune est égale à un pourcentage de la contribution globale des communes calculé par
 le conseil général en fonction des dépenses engagées au cours de l'exercice précédent en faveur des personnes ayant leur
-domicile dans la commune et inscrites sur la liste mentionnée à l'article D. 542-3.
+domicile dans la commune et inscrites sur la liste mentionnée à l'article D. 542-2.
 
 Toutefois, le montant annuel de la contribution d'une commune ne peut excéder 10 % de la dotation globale de fonctionnement
 qu'elle perçoit.
@@ -92878,29 +92905,32 @@ qu'elle perçoit.
 
 	**Anciens textes**:
 
-	  - Décret n°93-48 1993-01-11 art. 5
-	  - Décret n°93-48 du 11 janvier 1993 - art. 5 (Ab)
-	  - Code de l'action sociale et des familles - art. D542-7 (T)
+	  - Décret n°93-48 du 11 janvier 1993 - art. 4 (Ab)
+	  - Code de l'action sociale et des familles - art. D542-6 (T)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Modifié par**:
 
+	  - Décret n°2007-198 2007-02-13 art. 1 XV, XVIII JORF 15 février 2007
 	  - Décret n°2007-198 du 13 février 2007 - art. 1 () JORF 15 février 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1407 du 26 novembre 2014 - art. 3
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. D542-3 (T)
+	  - Code de l'action sociale et des familles - art. D542-2 (Ab)
 
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. D542-5 (Ab)
-	  - Code de l'action sociale et des familles - art. D542-5 (T)
+	  - Code de l'action sociale et des familles - art. D542-4 (Ab)
 
 
-###### Article D542-7
+###### Article D542-6
 
 Pour le financement de leur contribution aux dépenses d'aide sociale, les communes sont tenues d'inscrire chaque année dans
 un chapitre individualisé de leur budget un crédit correspondant au montant de leur contribution.
@@ -92909,25 +92939,27 @@ un chapitre individualisé de leur budget un crédit correspondant au montant de
 
 	**Anciens textes**:
 
-	  - Décret n°93-48 1993-01-11 art. 6
-	  - Décret n°93-48 du 11 janvier 1993 - art. 6 (Ab)
-	  - Code de l'action sociale et des familles - art. D542-8 (T)
+	  - Décret n°93-48 du 11 janvier 1993 - art. 5 (Ab)
+	  - Code de l'action sociale et des familles - art. D542-7 (T)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2007-198 du 13 février 2007 - art. 1 () JORF 15 février 2007
 
+	**Abrogé par**:
+
+	  - Décret n°2014-1407 du 26 novembre 2014 - art. 3
+
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. D542-6 (Ab)
-	  - Code de l'action sociale et des familles - art. D542-6 (T)
+	  - Code de l'action sociale et des familles - art. D542-5 (Ab)
 
 
-###### Article D542-8
+###### Article D542-7
 
 Une convention conclue entre l'Etat et la collectivité de Mayotte détermine les modalités du concours financier apporté par
 l'Etat au développement de la protection sociale en faveur de la population résidant à Mayotte.
@@ -92939,21 +92971,24 @@ départements et territoires d'outre-mer.
 
 	**Anciens textes**:
 
-	  - Décret n°93-48 1993-01-11 art. 8
-	  - Décret n°93-48 du 11 janvier 1993 - art. 8 (Ab)
+	  - Décret n°93-48 du 11 janvier 1993 - art. 6 (Ab)
+	  - Code de l'action sociale et des familles - art. D542-8 (T)
 
 	**Codifié par**:
 
-	  - Décret n°2004-1136 2004-10-21
+	  - Décret n°2004-1136 du 21 octobre 2004
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2007-198 du 13 février 2007 - art. 1 () JORF 15 février 2007
 
+	**Abrogé par**:
+
+	  - Décret n°2014-1407 du 26 novembre 2014 - art. 3
+
 	**Nouveaux textes**:
 
-	  - Code de l'action sociale et des familles - art. D542-7 (Ab)
-	  - Code de l'action sociale et des familles - art. D542-7 (T)
+	  - Code de l'action sociale et des familles - art. D542-6 (Ab)
 
 
 ###### Article R542-1
