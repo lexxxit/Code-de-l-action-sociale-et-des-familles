@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2007-02-21
+Version Consolidée au 2007-03-06
 
 # Partie législative
 
@@ -206,6 +206,9 @@ Sauf disposition contraire, les modalités d'application du présent chapitre so
 Le Gouvernement présente chaque année au Parlement un rapport relatif à l'évolution d'indicateurs figurant sur une liste
 établie par décret afin d'évaluer les résultats de la politique familiale.
 
+Le Gouvernement présente tous les trois ans au Parlement le rapport prévu à l'article 44 (b) de la convention relative aux
+droits de l'enfant signée à New York le 26 janvier 1990.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -216,6 +219,10 @@ Le Gouvernement présente chaque année au Parlement un rapport relatif à l'év
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 26 () JORF 6 mars 2007
 
 
 ###### Article L112-2
@@ -255,6 +262,51 @@ L. 531-5 du code de l'éducation ou des réductions sur les frais de scolarité 
 	**Anciens textes**:
 
 	  - Code de la famille et de l'aide sociale. - art. 20 (Ab)
+
+
+###### Article L112-3
+
+La protection de l'enfance a pour but de prévenir les difficultés auxquelles les parents peuvent être confrontés dans
+l'exercice de leurs responsabilités éducatives, d'accompagner les familles et d'assurer, le cas échéant, selon des modalités
+adaptées à leurs besoins, une prise en charge partielle ou totale des mineurs. Elle comporte à cet effet un ensemble
+d'interventions en faveur de ceux-ci et de leurs parents. Ces interventions peuvent également être destinées à des majeurs de
+moins de vingt et un ans connaissant des difficultés susceptibles de compromettre gravement leur équilibre. La protection de
+l'enfance a également pour but de prévenir les difficultés que peuvent rencontrer les mineurs privés temporairement ou
+définitivement de la protection de leur famille et d'assurer leur prise en charge.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 1 () JORF 6 mars 2007
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D221-20 (V)
+	  - Code de l'action sociale et des familles - art. L226-2-1 (V)
+	  - Code de l'action sociale et des familles - art. L226-2-2 (V)
+
+
+###### Article L112-4
+
+L'intérêt de l'enfant, la prise en compte de ses besoins fondamentaux, physiques, intellectuels, sociaux et affectifs ainsi
+que le respect de ses droits doivent guider toutes décisions le concernant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 1 () JORF 6 mars 2007
 
 
 #### Chapitre III : Personnes âgées.
@@ -916,15 +968,21 @@ maintenue jusqu'à ce qu'il ait été statué sur la demande d'aide. Le service 
 depuis un poste fixe, de recevoir des appels ainsi que de passer des communications locales et vers les numéros gratuits, et
 d'urgence.
 
-Du 1er novembre de chaque année au 15 mars de l'année suivante, les fournisseurs d'électricité, de chaleur, de gaz et les
-distributeurs d'eau ne peuvent procéder, dans une résidence principale, à l'interruption, pour non-paiement des factures, de
-la fourniture d'électricité, de chaleur ou de gaz ou de la distribution d'eau aux personnes ou familles mentionnées au
-premier alinéa et bénéficiant ou ayant bénéficié, dans les douze derniers mois, d'une décision favorable d'attribution d'une
-aide du fonds de solidarité pour le logement. Un décret définit les modalités d'application du présent alinéa.
+Du 1er novembre de chaque année au 15 mars de l'année suivante, les fournisseurs d'électricité, de chaleur, de gaz ne peuvent
+procéder, dans une résidence principale, à l'interruption, pour non-paiement des factures, de la fourniture d'électricité, de
+chaleur ou de gaz aux personnes ou familles mentionnées au premier alinéa et bénéficiant ou ayant bénéficié, dans les douze
+derniers mois, d'une décision favorable d'attribution d'une aide du fonds de solidarité pour le logement. Un décret définit
+les modalités d'application du présent alinéa. Ces dispositions s'appliquent aux distributeurs d'eau pour la distribution
+d'eau tout au long de l'année.
 
 Lorsqu'un consommateur n'a pas procédé au paiement de sa facture, le fournisseur d'électricité, de chaleur, de gaz ou le
 distributeur d'eau l'avise par courrier du délai et des conditions, définis par décret, dans lesquels la fourniture peut être
 réduite ou suspendue à défaut de règlement.
+
+**Nota:**
+
+Conformément à l'article 10 de l'ordonnance n° 2012-785 du 31 mai 2012, l'article L. 115-3 entre en vigueur à Mayotte le 1er
+janvier 2013.
 
 **Liens relatifs à cet article**
 
@@ -932,10 +990,6 @@ réduite ou suspendue à défaut de règlement.
 
 	  - Loi n°88-1088 du 1 décembre 1988 - art. 43-5 (M)
 	  - Loi n°88-1088 du 1 décembre 1988 - art. 43-5 (Ab)
-
-	**Cite**:
-
-	  - Loi n°90-449 1990-05-31
 
 	**Cité par**:
 
@@ -968,12 +1022,11 @@ réduite ou suspendue à défaut de règlement.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
 	**Modifié par**:
 
-	  - Loi n°2006-872 du 13 juillet 2006 - art. 75 () JORF 16 juillet 2006
+	  - Loi n°2007-290 du 5 mars 2007 - art. 36 () JORF 6 mars 2007
 
 
 ###### Article L115-4
@@ -1181,6 +1234,81 @@ publics visés aux articles L. 121-13 et L. 121-14 participent à l'élaboration
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 81 (M)
+
+
+###### Article L117-3
+
+Il est créé une aide à la réinsertion familiale et sociale des anciens migrants dans leur pays d'origine. Cette aide est à la
+charge de l'Etat.
+
+Elle est ouverte aux étrangers non ressortissants d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace
+économique européen, en situation régulière, vivant seuls :
+
+- âgés d'au moins soixante-cinq ans ou d'au moins soixante ans en cas d'inaptitude au travail ;
+
+- qui justifient d'une résidence régulière et ininterrompue en France pendant les quinze années précédant la demande d'aide ;
+
+- qui sont hébergés, au moment de la demande, dans un foyer de travailleurs migrants ou dans un logement à usage locatif dont
+les bailleurs s'engagent à respecter certaines obligations dans le cadre de conventions conclues avec l'Etat ;
+
+- dont les revenus sont inférieurs à un seuil fixé par décret en Conseil d'Etat ;
+
+- et qui effectuent des séjours de longue durée dans leur pays d'origine.
+
+Son montant est calculé en fonction des ressources du bénéficiaire. Elle est versée annuellement et révisée, le cas échéant,
+une fois par an, en fonction de l'évolution des prix hors tabac prévue dans le rapport sur la situation et les perspectives
+économiques, sociales et financières de la Nation annexé au projet de loi de finances de l'année.
+
+Elle n'est pas soumise à l'impôt sur le revenu.
+
+L'aide est supprimée lorsqu'il est constaté que l'une des conditions exigées pour son service n'est plus remplie.
+
+Le bénéfice de l'aide est supprimé à la demande des bénéficiaires, à tout moment, en cas de renonciation à effectuer des
+séjours de longue durée dans leur pays d'origine. En cas de renonciation au bénéfice de cette aide, les bénéficiaires sont
+réintégrés dans leurs droits liés à la résidence.
+
+L'aide est cessible et saisissable dans les mêmes conditions et limites que les salaires.
+
+Elle est servie par l'Agence nationale de l'accueil des étrangers et des migrations.
+
+Elle est exclusive de toute aide personnelle au logement et de tous minima sociaux.
+
+Elle ne constitue en aucun cas une prestation de sécurité sociale.
+
+Les conditions de résidence, de logement, de ressources et de durée des séjours dans le pays d'origine posées pour le
+bénéfice de l'aide, ainsi que ses modalités de calcul et de versement, sont définies par décret en Conseil d'Etat. Les autres
+modalités d'application, concernant notamment le contrôle des conditions requises, sont définies par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2007-290 2007-03-05 art. 58 II : Spécificités d'application
+
+	**Créé par**:
+
+	  - Loi n°2007-290 du 5 mars 2007 - art. 58 (V) JORF 6 mars 2007
+	  - Loi n°2007-290 du 5 mars 2007 - art. 58 (V)
+
+	**Cité par**:
+
+	  - Décret n°2015-1239 du 6 octobre 2015 (V)
+	  - Décret n°2017-240 du 24 février 2017 - art. 5
+	  - Code de l'action sociale et des familles - art. R117-1 (VD)
+	  - Code de l'action sociale et des familles - art. R117-10 (VD)
+	  - Code de l'action sociale et des familles - art. R117-2 (VD)
+	  - Code de l'action sociale et des familles - art. R117-3 (VD)
+	  - Code de l'action sociale et des familles - art. R117-5 (VD)
+	  - Code de l'action sociale et des familles - art. R117-6 (VD)
+	  - Code de l'action sociale et des familles - art. R117-9 (VD)
+	  - Code de la sécurité sociale. - art. D160-2 (V)
+	  - Code de la sécurité sociale. - art. L160-3 (V)
+	  - Code de la sécurité sociale. - art. L311-7 (V)
 
 
 ### Titre II : Compétences
@@ -2112,11 +2240,13 @@ Sauf disposition contraire, les modalités d'application du présent chapitre so
 
 ###### Article L123-1
 
-Le département est responsable des services suivants et en assure le financement :
+Le département est responsable des services suivants et en assure le financement : 
 
-1° Le service départemental d'action sociale prévu à l'article L. 123-2 ;
+1° Le service départemental d'action sociale prévu à l'article L. 123-2 ; 
 
-2° Le service de l'aide sociale à l'enfance prévu par le titre II du livre II.
+2° Le service de l'aide sociale à l'enfance prévu par le titre II du livre II ; 
+
+3° Le service de protection maternelle et infantile mentionné à l'article L. 2112-1 du code de la santé publique. 
 
 Le département organise ces services sur une base territoriale.
 
@@ -2126,6 +2256,10 @@ Le département organise ces services sur une base territoriale.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 1 () JORF 6 mars 2007
 
 	**Cité par**:
 
@@ -2138,7 +2272,9 @@ Le département organise ces services sur une base territoriale.
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L123-2 (V)
+	  - Code de la santé publique - art. L2112-1 (V)
+	  - Code de l'action sociale et des familles - art. L123-2 (VT)
+	  - Code de l'action sociale et des familles - art. L221-1 (V)
 
 
 ###### Article L123-2
@@ -2812,25 +2948,19 @@ pendant toute la durée de ceux-ci.
 
 Les personnes tenues à l'obligation alimentaire instituée par les articles 205 et suivants du code civil sont, à l'occasion
 de toute demande d'aide sociale, invitées à indiquer l'aide qu'elles peuvent allouer aux postulants et à apporter, le cas
-échéant, la preuve de leur impossibilité de couvrir la totalité des frais.
+échéant, la preuve de leur impossibilité de couvrir la totalité des frais. 
 
-Sous réserve d'une décision contraire du juge aux affaires familiales, sont de droit dispensés de fournir cette aide les
-enfants qui, après signalement de l'aide sociale à l'enfance, ont fait l'objet d'un retrait judiciaire de leur milieu
-familial durant une période de trente-six mois cumulés au cours des douze premières années de leur vie.
+Les enfants qui ont été retirés de leur milieu familial par décision judiciaire durant une période d'au moins trente-six mois
+cumulés au cours des douze premières années de leur vie sont, sous réserve d'une décision contraire du juge aux affaires
+familiales, dispensés de droit de fournir cette aide. 
 
-Cette dispense s'étend aux descendants des enfants susvisés.
+Cette dispense s'étend aux descendants des enfants susvisés. 
 
 La proportion de l'aide consentie par les collectivités publiques est fixée en tenant compte du montant de la participation
 éventuelle des personnes restant tenues à l'obligation alimentaire. La décision peut être révisée sur production par le
 bénéficiaire de l'aide sociale d'une décision judiciaire rejetant sa demande d'aliments ou limitant l'obligation alimentaire
 à une somme inférieure à celle qui avait été envisagée par l'organisme d'admission. La décision fait également l'objet d'une
 révision lorsque les débiteurs d'aliments ont été condamnés à verser des arrérages supérieurs à ceux qu'elle avait prévus.
-
-**Nota:**
-
-Ordonnance n° 2005-1477 2005-12-01 art. 1 XIV : Les dispositions du présent article entrent en vigueur le 1er janvier 2007 et
-s'appliquent aux nouvelles demandes déposées à compter de cette date et à celles qui n'ont pas fait l'objet d'une décision à
-cette même date.
 
 **Liens relatifs à cet article**
 
@@ -2851,7 +2981,7 @@ cette même date.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 1 (V) JORF 2 décembre 2005 en vigueur le 1er janvier 2007
+	  - Loi n°2007-293 du 5 mars 2007 - art. 4 () JORF 6 mars 2007
 
 	**Cite**:
 
@@ -4796,7 +4926,7 @@ Le Conseil national pour l'accès aux origines personnelles reçoit :
 
 - s'il est majeur, par celui-ci ;
 
-- s'il est mineur, par son ou ses représentants légaux ou par lui-même avec l'accord de ceux-ci ;
+- s'il est mineur, et qu'il a atteint l'âge de discernement, par celui-ci avec l'accord de ses représentants légaux ;
 
 - s'il et majeur placé sous tutelle, par son tuteur ;
 
@@ -4816,10 +4946,6 @@ secret de sa propre identité ;
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Créé par**:
-
-	  - Loi n°2002-93 du 22 janvier 2002 - art. 1 () JORF 23 janvier 2002
-
 	**Cité par**:
 
 	  - Décret n°2002-781 du 3 mai 2002 - art. 22 (Ab)
@@ -4833,6 +4959,10 @@ secret de sa propre identité ;
 	  - Code de l'action sociale et des familles - art. R147-22 (V)
 	  - Code de l'action sociale et des familles - art. R147-26 (V)
 	  - Code de l'action sociale et des familles - art. R147-28 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 11 () JORF 6 mars 2007
 
 
 ###### Article L147-3
@@ -7049,28 +7179,35 @@ Un même enfant ne peut ouvrir droit qu'au bénéfice de l'un ou de l'autre des 
 
 ###### Article L221-1
 
-Le service de l'aide sociale à l'enfance est un service non personnalisé du département chargé des missions suivantes :
+Le service de l'aide sociale à l'enfance est un service non personnalisé du département chargé des missions suivantes : 
 
-1° Apporter un soutien matériel, éducatif et psychologique aux mineurs, à leur famille, aux mineurs émancipés et aux majeurs
-âgés de moins de vingt et un ans confrontés à des difficultés sociales susceptibles de compromettre gravement leur
-équilibre ;
+1° Apporter un soutien matériel, éducatif et psychologique tant aux mineurs et à leur famille ou à tout détenteur de
+l'autorité parentale, confrontés à des difficultés risquant de mettre en danger la santé, la sécurité, la moralité de ces
+mineurs ou de compromettre gravement leur éducation ou leur développement physique, affectif, intellectuel et social, qu'aux
+mineurs émancipés et majeurs de moins de vingt et un ans confrontés à des difficultés familiales, sociales et éducatives
+susceptibles de compromettre gravement leur équilibre ; 
 
 2° Organiser, dans les lieux où se manifestent des risques d'inadaptation sociale, des actions collectives visant à prévenir
 la marginalisation et à faciliter l'insertion ou la promotion sociale des jeunes et des familles, notamment celles visées au
-2° de l'article L. 121-2 ;
+2° de l'article L. 121-2 ; 
 
-3° Mener en urgence des actions de protection en faveur des mineurs mentionnés au 1° du présent article ;
+3° Mener en urgence des actions de protection en faveur des mineurs mentionnés au 1° du présent article ; 
 
 4° Pourvoir à l'ensemble des besoins des mineurs confiés au service et veiller à leur orientation, en collaboration avec leur
-famille ou leur représentant légal ;
+famille ou leur représentant légal ; 
 
-5° Mener, notamment à l'occasion de l'ensemble de ces interventions, des actions de prévention des mauvais traitements à
-l'égard des mineurs et, sans préjudice des compétences de l'autorité judiciaire, organiser le recueil des informations
-relatives aux mineurs maltraités et participer à la protection de ceux-ci.
+5° Mener, notamment à l'occasion de l'ensemble de ces interventions, des actions de prévention des situations de danger à
+l'égard des mineurs et, sans préjudice des compétences de l'autorité judiciaire, organiser le recueil et la transmission,
+dans les conditions prévues à l'article L. 226-3, des informations préoccupantes relatives aux mineurs dont la santé, la
+sécurité, la moralité sont en danger ou risquent de l'être ou dont l'éducation ou le développement sont compromis ou risquent
+de l'être, et participer à leur protection ; 
+
+6° Veiller à ce que les liens d'attachement noués par l'enfant avec d'autres personnes que ses parents soient maintenus,
+voire développés, dans son intérêt supérieur. 
 
 Pour l'accomplissement de ses missions, et sans préjudice de ses responsabilités vis-à-vis des enfants qui lui sont confiés,
 le service de l'aide sociale à l'enfance peut faire appel à des organismes publics ou privés habilités dans les conditions
-prévues aux articles L. 313-8, L. 313-8-1 et L. 313-9 ou à des personnes physiques.
+prévues aux articles L. 313-8, L. 313-8-1 et L. 313-9 ou à des personnes physiques. 
 
 Le service contrôle les personnes physiques ou morales à qui il a confié des mineurs, en vue de s'assurer des conditions
 matérielles et morales de leur placement.
@@ -7084,8 +7221,7 @@ matérielles et morales de leur placement.
 
 	**Modifié par**:
 
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 75 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 82 () JORF 3 janvier 2002
+	  - Loi n°2007-293 2007-03-05 art. 3 1° JORF 6 mars 2007
 
 	**Cité par**:
 
@@ -7117,10 +7253,9 @@ matérielles et morales de leur placement.
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L121-2 (M)
-	  - Code de l'action sociale et des familles - art. L313-8 (M)
-	  - Code de l'action sociale et des familles - art. L313-8-1 (M)
-	  - Code de l'action sociale et des familles - art. L313-9 (M)
+	  - Code de l'action sociale et des familles - art. L121-2 (VT)
+	  - Code de l'action sociale et des familles - art. L313-8 (V)
+	  - Code de l'action sociale et des familles - art. L313-9 (V)
 
 	**Anciens textes**:
 
@@ -7197,12 +7332,25 @@ Lorsqu'il est avisé par le juge des enfants d'une mesure d'assistance éducativ
 du code civil, le président du conseil général lui communique les informations dont il dispose sur le mineur et sa situation
 familiale.
 
+Lorsqu'un enfant bénéficie d'une mesure prévue à l'article 375-2 ou aux 1°, 2°, 4° et 5° de l'article 375-3 du code civil, le
+président du conseil général organise, sans préjudice des prérogatives de l'autorité judiciaire, entre les services du
+département et les services chargés de l'exécution de la mesure, les modalités de coordination en amont, en cours et en fin
+de mesure, aux fins de garantir la continuité et la cohérence des actions menées. Le service qui a été chargé de l'exécution
+de la mesure transmet au président du conseil général un rapport circonstancié sur la situation et sur l'action ou les
+actions déjà menées. Il en avise, sauf en cas de danger pour l'enfant, le père, la mère, toute personne exerçant l'autorité
+parentale ou le tuteur.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2007-293 2007-03-05 art. 18 1° JORF 6 mars 2007
+	  - Loi n°2007-293 du 5 mars 2007 - art. 18
 
 	**Cité par**:
 
@@ -7212,7 +7360,9 @@ familiale.
 
 	**Cite**:
 
-	  - Code civil 375 à 375-8
+	  - Code civil - art. 375-3 (M)
+	  - Code civil 375 à 375-8, 375-3
+	  - Code de l'action sociale et des familles 375-2
 
 	**Anciens textes**:
 
@@ -7426,14 +7576,12 @@ L'aide à domicile comporte, ensemble ou séparément :
 
 - l'action d'un technicien ou d'une technicienne de l'intervention sociale et familiale ou d'une aide ménagère ;
 
+- un accompagnement en économie sociale et familiale ;
+
 - l'intervention d'un service d'action éducative ;
 
 - le versement d'aides financières, effectué sous forme soit de secours exceptionnels, soit d'allocations mensuelles, à titre
 définitif ou sous condition de remboursement, éventuellement délivrés en espèces.
-
-**Nota:**
-
-Code de l'action sociale et des familles L542-4 : les dispositions du présent article sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -7459,6 +7607,10 @@ Code de l'action sociale et des familles L542-4 : les dispositions du présent a
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 20 () JORF 6 mars 2007
+
 	**Anciens textes**:
 
 	  - Code de la famille et de l'aide sociale. - art. 43 (M)
@@ -7470,12 +7622,8 @@ Code de l'action sociale et des familles L542-4 : les dispositions du présent a
 Les secours et allocations mensuelles d'aide à domicile sont incessibles et insaisissables. Toutefois, à la demande du
 bénéficiaire, ils peuvent être versés à toute personne temporairement chargée de l'enfant.
 
-Lorsqu'un tuteur aux prestations sociales a été nommé, il reçoit de plein droit les allocations mensuelles d'aide à domicile.
-
-**Nota:**
-
-Code de l'action sociale et des familles L542-4 : les dispositions du présent article, à l'exception du 2e alinéa, sont
-applicables à Mayotte.
+Lorsqu'un délégué aux prestations familiales a été nommé, il reçoit de plein droit les allocations mensuelles d'aide à
+domicile.
 
 **Liens relatifs à cet article**
 
@@ -7483,6 +7631,10 @@ applicables à Mayotte.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 20 () JORF 6 mars 2007
 
 	**Anciens textes**:
 
@@ -7515,8 +7667,8 @@ prestations afférentes à l'enfant, en application de l'article L. 552-3 du cod
 
 2° Saisir le procureur de la République de faits susceptibles de constituer une infraction pénale ;
 
-3° Saisir l'autorité judiciaire pour qu'il soit fait application, s'il y a lieu, des dispositions de l'article L. 552-6 du
-code de la sécurité sociale.
+3° Saisir l'autorité judiciaire pour qu'il soit fait application, s'il y a lieu, des dispositions de l'article 375-9-1 du
+code civil.
 
 **Liens relatifs à cet article**
 
@@ -7524,10 +7676,6 @@ code de la sécurité sociale.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Créé par**:
-
-	  - Loi n°2006-396 du 31 mars 2006 - art. 48 (V) JORF 2 avril 2006
 
 	**Cité par**:
 
@@ -7547,26 +7695,62 @@ code de la sécurité sociale.
 	  - Code général des collectivités territoriales - art. L3221-9 (VD)
 	  - Code pénal - art. R131-49 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 21 () JORF 6 mars 2007
+
 	**Cite**:
 
-	  - Code de la sécurité sociale. - art. L552-6 (M)
+	  - Code civil - art. 375-9-1 (M)
+
+
+###### Article L222-4-2
+
+Sur décision du président du conseil général, le service de l'aide à l'enfance et les services habilités accueillent tout
+mineur, pendant tout ou partie de la journée, dans un lieu situé, si possible, à proximité de son domicile, afin de lui
+apporter un soutien éducatif, ainsi qu'un accompagnement à sa famille dans l'exercice de sa fonction parentale.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 22 () JORF 6 mars 2007
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L226-3-3 (V)
+	  - Code de l'action sociale et des familles - art. L226-4 (V)
 
 
 ###### Article L222-5
 
 Sont pris en charge par le service de l'aide sociale à l'enfance sur décision du président du conseil général :
 
-1° Les mineurs qui ne peuvent provisoirement être maintenus dans leur milieu de vie habituel ;
+1° Les mineurs qui ne peuvent demeurer provisoirement dans leur milieu de vie habituel et dont la situation requiert un
+accueil à temps complet ou partiel, modulable selon leurs besoins, en particulier de stabilité affective, ainsi que les
+mineurs rencontrant des difficultés particulières nécessitant un accueil spécialisé, familial ou dans un établissement ou
+dans un service tel que prévu au 12° du I de l'article L. 312-1 ;
 
 2° Les pupilles de l'Etat remis aux services dans les conditions prévues aux articles L. 224-4, L. 224-5, L. 224-6 et L.
 224-8 ;
 
-3° Les mineurs confiés au service en application du 4° de l'article 375-3 du code civil, des articles 375-5, 377, 377-1, 380,
+3° Les mineurs confiés au service en application du 3° de l'article 375-3 du code civil, des articles 375-5, 377, 377-1, 380,
 433 du même code ou du 4° de l'article 10 et du 4° de l'article 15 de l'ordonnance n° 45-174 du 2 février 1945 relative à
 l'enfance délinquante ;
 
 4° Les femmes enceintes et les mères isolées avec leurs enfants de moins de trois ans qui ont besoin d'un soutien matériel et
-psychologique.
+psychologique. Ces dispositions ne font pas obstacle à ce que les établissements ou services qui accueillent ces femmes
+organisent des dispositifs visant à préserver ou à restaurer des relations avec le père de l'enfant, lorsque celles-ci sont
+conformes à l'intérêt de celui-ci.
 
 Peuvent être également pris en charge à titre temporaire par le service chargé de l'aide sociale à l'enfance les mineurs
 émancipés et les majeurs âgés de moins de vingt et un ans qui éprouvent des difficultés d'insertion sociale faute de
@@ -7593,6 +7777,11 @@ ressources ou d'un soutien familial suffisants.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 17 () JORF 6 mars 2007
+	  - Loi n°2007-293 du 5 mars 2007 - art. 22 () JORF 6 mars 2007
 
 	**Cité par**:
 
@@ -7709,14 +7898,32 @@ Sauf disposition contraire, les modalités d'application du présent chapitre so
 
 Toute personne qui demande une prestation prévue au présent titre ou qui en bénéficie est informée par les services chargés
 de la protection de la famille et de l'enfance des conditions d'attribution et des conséquences de cette prestation sur les
-droits et obligations de l'enfant et de son représentant légal.
+droits et obligations de l'enfant et de son représentant légal. 
 
 Elle peut être accompagnée de la personne de son choix, représentant ou non une association, dans ses démarches auprès du
-service. Néanmoins, celui-ci a la possibilité de proposer également un entretien individuel dans l'intérêt du demandeur.
+service. Néanmoins, celui-ci a la possibilité de proposer également un entretien individuel dans l'intérêt du demandeur. 
+
+Le deuxième alinéa s'applique en outre aux démarches du père, de la mère, de toute autre personne exerçant l'autorité
+parentale ou du tuteur, auprès des services et établissements accueillant les mineurs mentionnés aux 1° et 3° de l'article L.
+222-5. 
+
+L'attribution d'une ou plusieurs prestations prévues au présent titre est précédée d'une évaluation de la situation prenant
+en compte l'état du mineur, la situation de la famille et les aides auxquelles elle peut faire appel dans son environnement. 
+
+Les services départementaux et les titulaires de l'autorité parentale établissent un document intitulé " projet pour l'enfant
+" qui précise les actions qui seront menées auprès de l'enfant, des parents et de son environnement, le rôle des parents, les
+objectifs visés et les délais de leur mise en oeuvre. Il mentionne l'institution et la personne chargées d'assurer la
+cohérence et la continuité des interventions. Ce document est cosigné par le président du conseil général et les
+représentants légaux du mineur ainsi que par un responsable de chacun des organismes chargés de mettre en oeuvre les
+interventions. Il est porté à la connaissance du mineur et, pour l'application de l'article L. 223-3-1, transmis au juge. 
+
+Sur la base des informations dont il dispose, le président du conseil général veille à assurer le suivi et, dans la mesure du
+possible, la continuité des interventions mises en oeuvre pour un enfant et sa famille au titre de la protection de
+l'enfance.
 
 **Nota:**
 
-Code de l'action sociale et des familles L542-4 : les dispositions du présent article sont applicables à Mayotte.
+
 
 **Liens relatifs à cet article**
 
@@ -7727,7 +7934,6 @@ Code de l'action sociale et des familles L542-4 : les dispositions du présent a
 	  - Code de l'action sociale et des familles - art. D223-13 (V)
 	  - Code de l'action sociale et des familles - art. D223-26 (V)
 	  - Code de l'action sociale et des familles - art. L121-11 (M)
-	  - Code de l'action sociale et des familles - art. L223-3-1 (M)
 	  - Code de l'action sociale et des familles - art. L223-6 (V)
 	  - Code de l'action sociale et des familles - art. L225-3 (VD)
 	  - Code de l'action sociale et des familles - art. L542-4 (T)
@@ -7742,6 +7948,10 @@ Code de l'action sociale et des familles L542-4 : les dispositions du présent a
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 19 () JORF 6 mars 2007
+
 	**Anciens textes**:
 
 	  - Code de la famille et de l'aide sociale. - art. 55 (M)
@@ -7749,30 +7959,43 @@ Code de l'action sociale et des familles L542-4 : les dispositions du présent a
 	  - Code de la famille et de l'aide sociale. - art. 55 (Ab)
 	  - Code de la famille et de l'aide sociale. - art. 55-1 (Ab)
 
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L222-5 (VT)
+	  - Code de l'action sociale et des familles - art. L223-3-1 (V)
+
 
 ###### Article L223-2
 
 Sauf si un enfant est confié au service par décision judiciaire ou s'il s'agit de prestations en espèces, aucune décision sur
 le principe ou les modalités de l'admission dans le service de l'aide sociale à l'enfance ne peut être prise sans l'accord
-écrit des représentants légaux ou du représentant légal du mineur ou du bénéficiaire lui-même s'il est mineur émancipé.
+écrit des représentants légaux ou du représentant légal du mineur ou du bénéficiaire lui-même s'il est mineur émancipé. 
 
-En cas d'urgence et lorsque les représentants légaux ou le représentant légal sont dans l'impossibilité de donner leur
-accord, l'enfant est recueilli provisoirement par le service qui en avise immédiatement le procureur de la République. Si, à
-l'issue d'un délai de cinq jours, l'enfant n'a pu être remis à sa famille ou si le représentant légal n'a pas donné son
-accord à l'admission de l'enfant dans le service, ce dernier saisit l'autorité judiciaire.
+En cas d'urgence et lorsque le représentant légal du mineur est dans l'impossibilité de donner son accord, l'enfant est
+recueilli provisoirement par le service qui en avise immédiatement le procureur de la République. 
+
+Si le représentant légal est en mesure de donner son accord mais le refuse, le service saisit l'autorité judiciaire en vue de
+l'application de l'article 375-5 du code civil. 
+
+Si, dans le cas prévu au deuxième alinéa du présent article, l'enfant n'a pas pu être remis à sa famille ou le représentant
+légal n'a pas pu ou a refusé de donner son accord dans un délai de cinq jours, le service saisit également l'autorité
+judiciaire en vue de l'application de l'article 375-5 du code civil. 
+
+En cas de danger immédiat ou de suspicion de danger immédiat concernant un mineur ayant abandonné le domicile familial, le
+service peut, dans le cadre des actions de prévention, pendant une durée maximale de soixante-douze heures, accueillir le
+mineur, sous réserve d'en informer sans délai les parents, toute autre personne exerçant l'autorité parentale ou le tuteur,
+ainsi que le procureur de la République. Si au terme de ce délai le retour de l'enfant dans sa famille n'a pas pu être
+organisé, une procédure d'admission à l'aide sociale à l'enfance ou, à défaut d'accord des parents ou du représentant légal,
+une saisine de l'autorité judiciaire est engagée. 
 
 Pour toutes les décisions relatives au lieu et au mode de placement des enfants déjà admis dans le service, l'accord des
 représentants légaux ou du représentant légal est réputé acquis si celui-ci n'a pas fait connaître son opposition dans un
 délai de quatre semaines à compter du jour où il a reçu la notification de la demande du service, ou de six semaines à
-compter de la date d'envoi s'il n'a pas accusé réception de la notification.
+compter de la date d'envoi s'il n'a pas accusé réception de la notification. 
 
 Sous réserve des pouvoirs reconnus à l'autorité judiciaire, les mesures prises dans le cadre du présent chapitre ne peuvent
 en aucun cas porter atteinte à l'autorité parentale que détiennent le ou les représentants légaux de l'enfant, et notamment
 au droit de visite et au droit d'hébergement.
-
-**Nota:**
-
-Code de l'action sociale et des familles L542-4 : les dispositions du présent article sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -7798,6 +8021,14 @@ Code de l'action sociale et des familles L542-4 : les dispositions du présent a
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 22 () JORF 6 mars 2007
+
+	**Cite**:
+
+	  - Code civil - art. 375-5 (V)
+
 	**Anciens textes**:
 
 	  - Code de la famille et de l'aide sociale. - art. 56 (M)
@@ -7807,7 +8038,7 @@ Code de l'action sociale et des familles L542-4 : les dispositions du présent a
 ###### Article L223-3
 
 Pour l'application des décisions judiciaires prises en vertu du 4° de l'article 10, du 4° de l'article 15 et du deuxième
-alinéa de l'article 17 de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante, du 4° de l'article 375-3
+alinéa de l'article 17 de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante, du 3° de l'article 375-3
 et des articles 377 à 380 du code civil, le représentant légal du mineur donne son avis par écrit préalablement au choix du
 mode et du lieu de placement et à toute modification apportée à cette décision.
 
@@ -7815,11 +8046,11 @@ mode et du lieu de placement et à toute modification apportée à cette décisi
 
 	**Cite**:
 
-	  - Ordonnance n°45-174 du 2 février 1945 - art. 10 (M)
-	  - Ordonnance n°45-174 du 2 février 1945 - art. 15 (M)
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 10 (V)
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 15 (V)
 	  - Ordonnance n°45-174 du 2 février 1945 - art. 17 (V)
-	  - Code civil - art. 375-3 (M)
-	  - Code civil 377 à 380, 375-3
+	  - Code civil - art. 375-3 (V)
+	  - Code civil - art. 377 (V)
 
 	**Cité par**:
 
@@ -7832,10 +8063,37 @@ mode et du lieu de placement et à toute modification apportée à cette décisi
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 17 () JORF 6 mars 2007
+
 	**Anciens textes**:
 
 	  - Code de la famille et de l'aide sociale. - art. 57 (M)
 	  - Code de la famille et de l'aide sociale. - art. 57 (Ab)
+
+
+###### Article L223-3-1
+
+Si l'enfant est confié au service départemental de l'aide sociale à l'enfance en application du 3° de l'article 375-3 du code
+civil, le juge fixe la nature et la fréquence des droits de visite et d'hébergement des parents et peut décider que leurs
+conditions d'exercice sont déterminées conjointement entre le service et les parents dans le cadre du document prévu à
+l'article L. 223-1 du présent code. Ce document lui est adressé. Il est saisi de tout désaccord.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 22 () JORF 6 mars 2007
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L223-1 (VD)
 
 
 ###### Article L223-4
@@ -7870,14 +8128,17 @@ Le service examine avec le mineur toute décision le concernant et recueille son
 ###### Article L223-5
 
 Sauf dans les cas où un enfant est confié au service par décision judiciaire, aucune mesure ne peut être prise pour une durée
-supérieure à un an. Elle est renouvelable dans les mêmes conditions.
+supérieure à un an. Elle est renouvelable dans les mêmes conditions. 
 
-Le service présente chaque année à l'autorité judiciaire un rapport sur la situation de l'enfant qui lui a été confié par
-décision judiciaire.
+Le service élabore au moins une fois par an un rapport, établi après une évaluation pluridisciplinaire, sur la situation de
+tout enfant accueilli ou faisant l'objet d'une mesure éducative. 
 
-**Nota:**
+Lorsque l'enfant est confié au service de l'aide sociale à l'enfance en application du 3° de l'article L. 222-5 du présent
+code et du 3° de l'article 375-3 du code civil, ce rapport est transmis à l'autorité judiciaire. 
 
-Code de l'action sociale et des familles L542-4 : les dispositions du présent article sont applicables à Mayotte.
+Sans préjudice des dispositions relatives à la procédure d'assistance éducative, le contenu et les conclusions de ce rapport
+sont portés à la connaissance du père, de la mère, de toute autre personne exerçant l'autorité parentale, du tuteur et du
+mineur, en fonction de son âge et de sa maturité.
 
 **Liens relatifs à cet article**
 
@@ -7885,6 +8146,11 @@ Code de l'action sociale et des familles L542-4 : les dispositions du présent a
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2007-293 2007-03-05 art. 18 2° JORF 6 mars 2007
+	  - Loi n°2007-293 du 5 mars 2007 - art. 18
 
 	**Cité par**:
 
@@ -7898,9 +8164,13 @@ Code de l'action sociale et des familles L542-4 : les dispositions du présent a
 	  - Code de l'action sociale et des familles - art. L543-4 (M)
 	  - Code de l'action sociale et des familles - art. R221-6 (VD)
 
+	**Cite**:
+
+	  - Code civil - art. 375-3 (V)
+	  - Code de l'action sociale et des familles - art. L222-5 (VT)
+
 	**Anciens textes**:
 
-	  - Code de la famille et de l'aide sociale. - art. 59 (M)
 	  - Code de la famille et de l'aide sociale. - art. 59 (Ab)
 
 
@@ -9349,7 +9619,7 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent chapi
 	  - Code de l'action sociale et des familles - art. L225-18 (T)
 
 
-#### Chapitre VI : Protection des mineurs maltraités.
+#### Chapitre VI : Protection des mineurs en danger et recueil des informations préoccupantes.
 
 ###### Article L226-1
 
@@ -9365,6 +9635,10 @@ publics compétents.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 3 () JORF 6 mars 2007
+
 	**Anciens textes**:
 
 	  - Code de la famille et de l'aide sociale. - art. 66 (M)
@@ -9372,9 +9646,9 @@ publics compétents.
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L2112-1 (M)
+	  - Code de la santé publique - art. L2112-1 (V)
 	  - Code de l'action sociale et des familles - art. L123-2 (V)
-	  - Code de l'action sociale et des familles - art. L221-1 (M)
+	  - Code de l'action sociale et des familles - art. L221-1 (V)
 
 	**Cité par**:
 
@@ -9386,10 +9660,15 @@ publics compétents.
 ###### Article L226-2
 
 Ces missions comportent notamment l'information et la sensibilisation de la population et des personnes concernées par les
-situations de mineurs maltraités ainsi que la publicité du dispositif de recueil d'informations prévu à l'article L. 226-3.
+situations de mineurs en danger ou qui risquent de l'être ainsi que la publicité du dispositif de recueil d'informations
+prévu à l'article L. 226-3.
 
 Le président du conseil général peut faire appel aux associations concourant à la protection de l'enfance et de la famille
 pour participer aux actions d'information et de sensibilisation prévues à l'alinéa précédent.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -9397,6 +9676,10 @@ pour participer aux actions d'information et de sensibilisation prévues à l'al
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 3 () JORF 6 mars 2007
 
 	**Anciens textes**:
 
@@ -9408,19 +9691,21 @@ pour participer aux actions d'information et de sensibilisation prévues à l'al
 	  - Code de l'action sociale et des familles - art. L226-3 (M)
 
 
-###### Article L226-3
+###### Article L226-2-1
 
-Le président du conseil général met en place, après concertation avec le représentant de l'Etat dans le département, un
-dispositif permettant de recueillir en permanence les informations relatives aux mineurs maltraités et de répondre aux
-situations d'urgence, selon des modalités définies en liaison avec l'autorité judiciaire et les services de l'Etat dans le
-département.
+Sans préjudice des dispositions du II de l'article L. 226-4, les personnes qui mettent en oeuvre la politique de protection
+de l'enfance définie à l'article L. 112-3 ainsi que celles qui lui apportent leur concours transmettent sans délai au
+président du conseil général ou au responsable désigné par lui, conformément à l'article L. 226-3, toute information
+préoccupante sur un mineur en danger ou risquant de l'être, au sens de l'article 375 du code civil. Lorsque cette information
+est couverte par le secret professionnel, sa transmission est assurée dans le respect de l'article L. 226-2-2 du présent
+code. Cette transmission a pour but de permettre d'évaluer la situation du mineur et de déterminer les actions de protection
+et d'aide dont ce mineur et sa famille peuvent bénéficier. Sauf intérêt contraire de l'enfant, le père, la mère, toute autre
+personne exerçant l'autorité parentale ou le tuteur sont préalablement informés de cette transmission, selon des modalités
+adaptées.
 
-L'ensemble des services et établissements publics et privés susceptibles de connaître des situations de mineurs maltraités
-participent à cette coordination. Le président du conseil général peut, dans les mêmes conditions, requérir la collaboration
-des professionnels et des associations concourant à la protection de l'enfance et de la famille.
+**Nota:**
 
-La collecte, la conservation et l'utilisation de ces informations ne peuvent être effectuées que pour assurer les missions
-prévues au 5° de l'article L. 221-1.
+
 
 **Liens relatifs à cet article**
 
@@ -9428,6 +9713,95 @@ prévues au 5° de l'article L. 221-1.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2007-293 2007-03-05 art. 12 1° JORF 6 mars 2007
+
+	**Cite**:
+
+	  - Code civil - art. 375 (M)
+	  - Code de l'action sociale et des familles - art. L112-3 (V)
+	  - Code de l'action sociale et des familles - art. L226-2-2 (V)
+	  - Code de l'action sociale et des familles - art. L226-3 (M)
+	  - Code de l'action sociale et des familles - art. L226-4 (M)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R221-5-2 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L741-3 (VD)
+
+
+###### Article L226-2-2
+
+Par exception à l'article 226-13 du code pénal, les personnes soumises au secret professionnel qui mettent en oeuvre la
+politique de protection de l'enfance définie à l'article L. 112-3 ou qui lui apportent leur concours sont autorisées à
+partager entre elles des informations à caractère secret afin d'évaluer une situation individuelle, de déterminer et de
+mettre en oeuvre les actions de protection et d'aide dont les mineurs et leur famille peuvent bénéficier. Le partage des
+informations relatives à une situation individuelle est strictement limité à ce qui est nécessaire à l'accomplissement de la
+mission de protection de l'enfance. Le père, la mère, toute autre personne exerçant l'autorité parentale, le tuteur, l'enfant
+en fonction de son âge et de sa maturité sont préalablement informés, selon des modalités adaptées, sauf si cette information
+est contraire à l'intérêt de l'enfant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 15 () JORF 6 mars 2007
+
+	**Cite**:
+
+	  - Code pénal - art. 226-13 (V)
+	  - Code de l'action sociale et des familles - art. L112-3 (V)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D226-2-5 (V)
+	  - Code de l'action sociale et des familles - art. L223-1 (V)
+	  - Code de l'action sociale et des familles - art. L226-2-1 (V)
+
+
+###### Article L226-3
+
+Le président du conseil général est chargé du recueil, du traitement et de l'évaluation, à tout moment et quelle qu'en soit
+l'origine, des informations préoccupantes relatives aux mineurs en danger ou qui risquent de l'être. Le représentant de
+l'Etat et l'autorité judiciaire lui apportent leur concours.
+
+Des protocoles sont établis à cette fin entre le président du conseil général, le représentant de l'Etat dans le département,
+les partenaires institutionnels concernés et l'autorité judiciaire en vue de centraliser le recueil des informations
+préoccupantes au sein d'une cellule de recueil, de traitement et d'évaluation de ces informations.
+
+Après évaluation, les informations individuelles font, si nécessaire, l'objet d'un signalement à l'autorité judiciaire.
+
+Les services publics, ainsi que les établissements publics et privés susceptibles de connaître des situations de mineurs en
+danger ou qui risquent de l'être, participent au dispositif départemental. Le président du conseil général peut requérir la
+collaboration d'associations concourant à la protection de l'enfance.
+
+Les informations mentionnées au premier alinéa ne peuvent être collectées, conservées et utilisées que pour assurer les
+missions prévues au 5° de l'article L. 221-1. Elles sont transmises sous forme anonyme à l'observatoire départemental de la
+protection de l'enfance prévu à l'article L. 226-3-1 et à l'Observatoire national de l'enfance en danger prévu à l'article L.
+226-6. La nature et les modalités de transmission de ces informations sont fixées par décret.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 12 () JORF 6 mars 2007
+	  - Loi n°2007-293 du 5 mars 2007 - art. 3 () JORF 6 mars 2007
 
 	**Cité par**:
 
@@ -9460,12 +9834,34 @@ prévues au 5° de l'article L. 221-1.
 	  - Code de la famille et de l'aide sociale. - art. 68 (Ab)
 
 
-###### Article L226-4
+###### Article L226-3-1
 
-Lorsqu'un mineur est victime de mauvais traitements ou lorsqu'il est présumé l'être, et qu'il est impossible d'évaluer la
-situation ou que la famille refuse manifestement d'accepter l'intervention du service de l'aide sociale à l'enfance, le
-président du conseil général avise sans délai l'autorité judiciaire et, le cas échéant, lui fait connaître les actions déjà
-menées auprès du mineur et de la famille concernés.
+Dans chaque département, un observatoire départemental de la protection de l'enfance, placé sous l'autorité du président du
+conseil général, a pour missions :
+
+1° De recueillir, d'examiner et d'analyser les données relatives à l'enfance en danger dans le département, au regard
+notamment des informations anonymes transmises dans les conditions prévues à l'article L. 226-3. Ces données sont ensuite
+adressées par chaque département à l'Observatoire national de l'enfance en danger ;
+
+2° D'être informé de toute évaluation des services et établissements intervenant dans le domaine de la protection de
+l'enfance et assurée en application de l'article L. 312-8 ;
+
+3° De suivre la mise en oeuvre du schéma départemental prévu à l'article L. 312-5 en tant qu'il concerne les établissements
+et services mentionnés aux 1° et 4° du I de l'article L. 312-1, et de formuler des avis ;
+
+4° De formuler des propositions et avis sur la mise en oeuvre de la politique de protection de l'enfance dans le département.
+
+L'observatoire départemental de la protection de l'enfance comprend notamment des représentants des services du conseil
+général, de l'autorité judiciaire dans le département et des autres services de l'Etat ainsi que des représentants de tout
+service et établissement dans ce département qui participe ou apporte son concours à la protection de l'enfance, et des
+représentants des associations concourant à la protection de l'enfance et de la famille.
+
+L'observatoire départemental de la protection de l'enfance établit des statistiques qui sont portées à la connaissance de
+l'assemblée départementale et transmises aux représentants de l'Etat et de l'autorité judiciaire.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -9473,6 +9869,77 @@ menées auprès du mineur et de la famille concernés.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 16 () JORF 6 mars 2007
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D223-27 (V)
+	  - Code de l'action sociale et des familles - art. D226-3-1 (V)
+	  - Code de l'action sociale et des familles - art. D226-3-3 (V)
+	  - Code de l'action sociale et des familles - art. L226-3 (VD)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L312-1 (M)
+	  - Code de l'action sociale et des familles - art. L312-5 (M)
+	  - Code de l'action sociale et des familles - art. L312-8 (M)
+
+
+###### Article L226-4
+
+I. - Le président du conseil général avise sans délai le procureur de la République lorsqu'un mineur est en danger au sens de
+l'article 375 du code civil et :
+
+1° Qu'il a déjà fait l'objet d'une ou plusieurs actions mentionnées aux articles L. 222-3 et L. 222-4-2 et au 1° de l'article
+L. 222-5, et que celles-ci n'ont pas permis de remédier à la situation ;
+
+2° Que, bien que n'ayant fait l'objet d'aucune des actions mentionnées au 1°, celles-ci ne peuvent être mises en place en
+raison du refus de la famille d'accepter l'intervention du service de l'aide sociale à l'enfance ou de l'impossibilité dans
+laquelle elle se trouve de collaborer avec ce service.
+
+Il avise également sans délai le procureur de la République lorsqu'un mineur est présumé être en situation de danger au sens
+de l'article 375 du code civil mais qu'il est impossible d'évaluer cette situation.
+
+Le président du conseil général fait connaître au procureur de la République les actions déjà menées, le cas échéant, auprès
+du mineur et de la famille intéressés.
+
+Le procureur de la République informe dans les meilleurs délais le président du conseil général des suites qui ont été
+données à sa saisine.
+
+II. - Toute personne travaillant au sein des organismes mentionnés au quatrième alinéa de l'article L. 226-3 qui avise
+directement, du fait de la gravité de la situation, le procureur de la République de la situation d'un mineur en danger
+adresse une copie de cette transmission au président du conseil général. Lorsque le procureur a été avisé par une autre
+personne, il transmet au président du conseil général les informations qui sont nécessaires à l'accomplissement de la mission
+de protection de l'enfance confiée à ce dernier et il informe cette personne des suites réservées à son signalement, dans les
+conditions prévues aux articles 40-1 et 40-2 du code de procédure pénale.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 12 () JORF 6 mars 2007
+	  - Loi n°2007-293 du 5 mars 2007 - art. 3 () JORF 6 mars 2007
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 40-1 (T)
+	  - CODE DE PROCEDURE PENALE - art. 40-2 (AbD)
+	  - Code de l'action sociale et des familles - art. L222-3 (M)
+	  - Code de l'action sociale et des familles - art. L222-4-2 (V)
+	  - Code de l'action sociale et des familles - art. L222-5 (M)
+	  - Code de l'action sociale et des familles - art. L226-3 (M)
 
 	**Anciens textes**:
 
@@ -9491,11 +9958,15 @@ menées auprès du mineur et de la famille concernés.
 ###### Article L226-5
 
 Le président du conseil général informe les personnes qui lui ont communiqué des informations dont elles ont eu connaissance
-à l'occasion de l'exercice de leur activité professionnelle des suites qui leur ont été données.
+à l'occasion de l'exercice de leur activité professionnelle ou d'un mandat électif des suites qui leur ont été données.
 
 Sur leur demande, il fait savoir aux autres personnes l'ayant informé si une suite a été donnée.
 
 En cas de saisine de l'autorité judiciaire, il en informe par écrit les parents de l'enfant ou son représentant légal.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -9503,6 +9974,11 @@ En cas de saisine de l'autorité judiciaire, il en informe par écrit les parent
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 12 () JORF 6 mars 2007
+	  - Loi n°2007-293 du 5 mars 2007 - art. 3 () JORF 6 mars 2007
 
 	**Anciens textes**:
 
@@ -9514,24 +9990,27 @@ En cas de saisine de l'autorité judiciaire, il en informe par écrit les parent
 
 L'Etat, les départements et des personnes morales de droit public ou privé constituent un groupement d'intérêt public pour
 gérer un service d'accueil téléphonique gratuit ainsi qu'un Observatoire de l'enfance en danger afin d'exercer, à l'échelon
-national, les missions d'observation, d'analyse et de prévention des mauvais traitements et de protection des mineurs
-maltraités prévues au présent chapitre.
+national, les missions d'observation, d'analyse et de prévention des mauvais traitements et de protection des mineurs en
+danger prévues au présent chapitre.
 
 Le service d'accueil téléphonique répond, à tout moment, aux demandes d'information ou de conseil concernant les situations
-de mineurs maltraités ou présumés l'être. Il transmet immédiatement au président du conseil général, selon le dispositif mis
+de mineurs en danger ou présumés l'être. Il transmet immédiatement au président du conseil général, selon le dispositif mis
 en place en application de l'article L. 226-3, les informations qu'il recueille et les appréciations qu'il formule à propos
 de ces mineurs. A cette fin, le président du conseil général informe le groupement des modalités de fonctionnement permanent
-du dispositif départemental. Ce service établit une étude épidémiologique annuelle au vu des informations qu'il a recueillies
-et de celles qui lui ont été transmises dans les conditions prévues à l'article L. 226-7.
+du dispositif départemental.
 
-L'Observatoire de l'enfance en danger contribue au recueil et à l'analyse des données et des études concernant la
-maltraitance envers les mineurs, en provenance de l'Etat, des collectivités territoriales, des établissements publics, des
-fondations et des associations oeuvrant en ce domaine. Il contribue à la mise en cohérence des différentes données et
-informations, à l'amélioration de la connaissance des phénomènes de maltraitance et recense les pratiques de prévention, de
-dépistage et de prise en charge médico-sociale et judiciaire de la maltraitance, dont les résultats évalués ont été jugés
-concluants, afin d'en assurer la promotion auprès de l'Etat, des collectivités territoriales, des établissements publics, des
-fondations et des associations oeuvrant dans ce domaine. Il présente au Gouvernement et au Parlement un rapport annuel rendu
-public.
+L'Observatoire de l'enfance en danger contribue au recueil et à l'analyse des données et des études concernant la protection
+de l'enfance, en provenance de l'Etat, des collectivités territoriales, des établissements publics, des fondations et des
+associations oeuvrant en ce domaine. Il contribue à la mise en cohérence des différentes données et informations, à
+l'amélioration de la connaissance des phénomènes de mise en danger des mineurs et recense les pratiques de prévention ainsi
+que de dépistage et de prise en charge médico-sociale et judiciaire des mineurs en danger, dont les résultats évalués ont été
+jugés concluants, afin d'en assurer la promotion auprès de l'Etat, des collectivités territoriales, des établissements
+publics, des fondations et des associations oeuvrant dans ce domaine. Il présente au Gouvernement et au Parlement un rapport
+annuel rendu public.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -9542,7 +10021,7 @@ public.
 
 	**Modifié par**:
 
-	  - Loi n°2004-1 du 2 janvier 2004 - art. 9 () JORF 3 janvier 2004
+	  - Loi n°2007-293 du 5 mars 2007 - art. 3 () JORF 6 mars 2007
 
 	**Cité par**:
 
@@ -9577,6 +10056,10 @@ l'article L. 226-6.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 3 () JORF 6 mars 2007
+
 	**Anciens textes**:
 
 	  - Code de la famille et de l'aide sociale 71 al. 4
@@ -9603,6 +10086,10 @@ recevant de façon habituelle des mineurs.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 3 () JORF 6 mars 2007
+
 	**Anciens textes**:
 
 	  - Code de la famille et de l'aide sociale 71 al. 8
@@ -9623,7 +10110,7 @@ danger dans les conditions prévues aux articles 226-13 et 226-14 du code pénal
 
 	**Modifié par**:
 
-	  - Loi n°2004-1 du 2 janvier 2004 - art. 10 () JORF 3 janvier 2004
+	  - Loi n°2007-293 du 5 mars 2007 - art. 3 () JORF 6 mars 2007
 
 	**Cite**:
 
@@ -9653,7 +10140,7 @@ de la population.
 
 	**Modifié par**:
 
-	  - Loi n°2004-1 du 2 janvier 2004 - art. 10 () JORF 3 janvier 2004
+	  - Loi n°2007-293 du 5 mars 2007 - art. 3 () JORF 6 mars 2007
 
 	**Cité par**:
 
@@ -9680,6 +10167,10 @@ Les dépenses résultant de l'application du présent chapitre constituent, pour
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 3 () JORF 6 mars 2007
+
 	**Anciens textes**:
 
 	  - Code de la famille et de l'aide sociale. - art. 72 (M)
@@ -9688,13 +10179,8 @@ Les dépenses résultant de l'application du présent chapitre constituent, pour
 
 ###### Article L226-12
 
-Les règles relatives à la formation à la prévention des mauvais traitements sont fixées par les dispositions de l'article L.
-542-1 du code de l'éducation ci-après reproduites :
-
-" Les médecins, ainsi que l'ensemble des personnels médicaux et paramédicaux, les travailleurs sociaux, les magistrats, les
-enseignants et les personnels de la police nationale et de la gendarmerie reçoivent une formation initiale et continue propre
-à leur permettre de répondre aux cas d'enfants maltraités et de prendre les mesures nécessaires de prévention et de
-protection qu'ils appellent. Cette formation est dispensée dans les conditions fixées par voie réglementaire. "
+Les règles relatives à la formation sur la protection de l'enfance sont fixées par les dispositions de l'article L. 542-1 du
+code de l'éducation.
 
 **Liens relatifs à cet article**
 
@@ -9703,9 +10189,41 @@ protection qu'ils appellent. Cette formation est dispensée dans les conditions 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 25 () JORF 6 mars 2007
+	  - Loi n°2007-293 du 5 mars 2007 - art. 3 () JORF 6 mars 2007
+
 	**Cite**:
 
-	  - Code de l'éducation - art. L542-1 (M)
+	  - Code de l'éducation - art. L542-1 (V)
+
+
+###### Article L226-12-1
+
+Les cadres territoriaux qui, par délégation du président du conseil général, prennent des décisions relatives à la protection
+de l'enfance et fixent les modalités de leur mise en oeuvre doivent avoir suivi une formation adaptée à l'exercice de ces
+missions. Cette formation, en partie commune aux différentes professions et institutions, est dispensée dans des conditions
+fixées par voie réglementaire.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 25 () JORF 6 mars 2007
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D226-1-1 (VD)
 
 
 ###### Article L226-13
@@ -9727,14 +10245,18 @@ d'informations et du service d'accueil téléphonique mentionnés aux articles L
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 3 () JORF 6 mars 2007
+
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. D112-6 (Ab)
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L226-3 (M)
-	  - Code de l'action sociale et des familles - art. L226-6 (M)
+	  - Code de l'action sociale et des familles - art. L226-3 (V)
+	  - Code de l'action sociale et des familles - art. L226-6 (V)
 
 
 #### Chapitre VII : Mineurs accueillis hors du domicile parental.
@@ -15447,7 +15969,9 @@ inscrites sur la liste visée à l'article L. 311-5 du même code ;
 
 - aux ascendants, descendants et conjoints des personnes mentionnées aux deux alinéas précédents.
 
-Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+Les ressortissants des Etats membres de la Communauté européenne et des autres Etats parties à l'accord sur l'Espace
+économique européen, entrés en France pour y chercher un emploi et qui s'y maintiennent à ce titre, ne bénéficient pas du
+revenu minimum d'insertion.
 
 **Liens relatifs à cet article**
 
@@ -15458,14 +15982,17 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 
 	**Modifié par**:
 
-	  - Loi n°2006-339 du 23 mars 2006 - art. 4 () JORF 24 mars 2006
-	  - Loi n°2006-339 du 23 mars 2006 - art. 9 () JORF 24 mars 2006
+	  - Loi n°2007-290 du 5 mars 2007 - art. 63 () JORF 6 mars 2007
+
+	**Abrogé par**:
+
+	  - Loi n°2008-1249 du 1er décembre 2008 - art. 3
 
 	**Cite**:
 
-	  - Code du travail - art. L311-5 (M)
-	  - Code du travail - art. L900-2 (M)
-	  - Code du travail - art. L900-3 (M)
+	  - Code du travail - art. L311-5
+	  - Code du travail - art. L900-2
+	  - Code du travail - art. L900-3
 
 	**Cité par**:
 
@@ -19107,6 +19634,27 @@ familial du département et prévoit les moyens pour y répondre.
 	  - Code de l'action sociale et des familles - art. L312-1 (M)
 
 
+###### Article L311-11
+
+Les dispositions du présent chapitre s'appliquent sans préjudice de celles qui figurent au chapitre III du titre III du livre
+VI du code de la construction et de l'habitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2007-290 2007-03-05 art. 39 1° JORF 6 mars 2007
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L633-1 (V)
+
+
 #### Chapitre II : Organisation de l'action sociale et médico-sociale
 
 ##### Section 1 : Etablissements et services sociaux et médico-sociaux
@@ -19177,6 +19725,9 @@ sociale du Comité national de l'organisation sanitaire et sociale.
 Les établissements mentionnés aux 1°, 2°, 6° et 7° du I s'organisent en unités de vie favorisant le confort et la qualité de
 séjour des personnes accueillies, dans des conditions et des délais fixés par décret.
 
+Les établissements et services mentionnés au 1° du même I s'organisent de manière à garantir la sécurité de chacun des
+mineurs ou des majeurs de moins de vingt et un ans qui y sont accueillis.
+
 Les prestations délivrées par les établissements et services mentionnés aux 1° à 13° du I sont réalisées par des équipes
 pluridisciplinaires qualifiées. Ces établissements et services sont dirigés par des professionnels dont le niveau de
 qualification est fixé par décret et après consultation de la branche professionnelle ou, à défaut, des fédérations ou
@@ -19196,6 +19747,10 @@ IV. - Les équipes de prévention spécialisée relevant du 1° du I ne sont pas
 L. 311-7. Ces dispositions ne s'appliquent pas non plus aux mesures d'investigation préalables aux mesures d'assistance
 éducative prévues au nouveau code de procédure civile et par l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance
 délinquante.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -20030,7 +20585,7 @@ délinquante.
 
 	**Modifié par**:
 
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 95 () JORF 25 juillet 2006
+	  - Loi n°2007-293 du 5 mars 2007 - art. 23 () JORF 6 mars 2007
 
 
 ##### Section 2 : Organismes consultatifs
@@ -23588,8 +24143,13 @@ conventions mentionnées au I de l'article L. 313-12 en cours à cette date.
 
 ###### Article L314-9
 
-Les montants des éléments de tarification afférents aux soins et à la dépendance mentionnés aux 1° et 2° de l'article L.
-314-2 sont modulés selon l'état de la personne accueillie au moyen de la grille nationale mentionnée à l'article L. 232-2.
+Les montants des éléments de tarification afférents aux soins mentionnés au 1° de l'article L. 314-2 sont modulés selon
+l'état de la personne accueillie au moyen de la grille nationale mentionnée à l'article L. 232-2 et du référentiel mentionné
+au deuxième alinéa du III de l'article 46 de la loi n° 2005-1579 du 19 décembre 2005 de financement de la sécurité sociale
+pour 2006.
+
+Les montants des éléments de tarification afférents à la dépendance mentionnés au 2° de l'article L. 314-2 sont modulés selon
+l'état de la personne accueillie au moyen de la grille nationale mentionnée à l'article L. 232-2.
 
 La convention pluriannuelle mentionnée au I de l'article L. 313-12 précise la périodicité de la révision du niveau de perte
 d'autonomie des résidents selon la grille nationale mentionnée à l'article L. 232-2.
@@ -23630,17 +24190,16 @@ devant le tribunal interrégional de la tarification sanitaire et sociale mentio
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Modifié par**:
-
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 50 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 57 () JORF 3 janvier 2002
-
 	**Cite**:
 
+	  - Loi n°2005-1579 2005-12-19 art. 46
 	  - Code de l'action sociale et des familles - art. L232-2 (M)
 	  - Code de l'action sociale et des familles - art. L313-12 (M)
 	  - Code de l'action sociale et des familles - art. L351-1 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2007-290 du 5 mars 2007 - art. 56 (M) JORF 6 mars 2007
 
 
 ##### Section 3 : Dispositions diverses
@@ -24543,6 +25102,10 @@ A la demande de l'ordonnateur, le comptable informe ce dernier de la situation d
 titres de recettes, de la situation de trésorerie et de tout élément utile à la bonne gestion de l'établissement. Il paie les
 mandats dans l'ordre de priorité indiqué par l'ordonnateur.
 
+Les établissements publics sociaux et médico-sociaux peuvent exercer leur recours, s'il y a lieu, contre les résidents,
+contre leurs débiteurs et contre les personnes désignées par les articles 205, 206, 207 et 212 du code civil. Ces recours
+relèvent de la compétence du juge aux affaires familiales.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -24552,7 +25115,14 @@ mandats dans l'ordre de priorité indiqué par l'ordonnateur.
 
 	**Modifié par**:
 
-	  - Loi n°2003-1311 2003-12-30 art. 116 III 2° finances pour 2004 JORF 31 décembre 2003
+	  - Loi n°2007-290 du 5 mars 2007 - art. 56 (M) JORF 6 mars 2007
+
+	**Cite**:
+
+	  - Code civil - art. 205 (V)
+	  - Code civil - art. 206 (V)
+	  - Code civil - art. 207 (V)
+	  - Code civil - art. 212 (M)
 
 	**Cité par**:
 
@@ -25817,6 +26387,35 @@ les conditions fixées par les premier et troisième alinéas de l'article L. 45
 
 	  - Code de la consommation - art. L141-1 (VT)
 	  - Code de la consommation - art. L511-7 (V)
+
+
+###### Article L342-6
+
+Les dispositions du présent chapitre s'appliquent sans préjudice de celles qui figurent au chapitre III du titre III du livre
+VI du code de la construction et de l'habitation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°90-600 du 6 juillet 1990 - art. 6 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2007-290 2007-03-05 art. 39 2° JORF 6 mars 2007
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. Annexe 3-3 (Ab)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L633-1 (V)
 
 
 #### Chapitre III : Centres d'action médico-sociale précoce.
@@ -28999,15 +29598,19 @@ accueillants familiaux et les modalités de remplacement de ceux-ci.
 
 ###### Article L443-4
 
-Le bénéficiaire de l'agrément est tenu de souscrire un contrat d'assurance garantissant les conséquences pécuniaires de sa
-responsabilité civile en raison des dommages subis par les personnes accueillies et d'en justifier auprès du président du
-conseil général.
+Le bénéficiaire de l'agrément ou, le cas échéant, la personne morale employeur est tenu de souscrire un contrat d'assurance
+garantissant les conséquences pécuniaires de sa responsabilité civile en raison des dommages subis par les personnes
+accueillies et d'en justifier auprès du président du conseil général.
 
 De même, la personne accueillie est tenue de justifier d'un contrat d'assurance garantissant les conséquences pécuniaires de
 sa responsabilité civile en raison des dommages subis par les tiers et leurs biens. Le bénéficiaire de l'agrément a la
 qualité de tiers au sens de cet alinéa.
 
 Un décret fixe les modalités d'application du présent article.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -29031,7 +29634,7 @@ Un décret fixe les modalités d'application du présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2002-73 du 17 janvier 2002 - art. 51 () JORF 18 janvier 2002
+	  - Loi n°2007-290 du 5 mars 2007 - art. 57 () JORF 6 mars 2007
 
 
 ###### Article L443-5
@@ -29241,15 +29844,25 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	  - Code de l'action sociale et des familles - art. L442-1 (M)
 
 
-###### Article L443-12
+#### Chapitre IV : Accueillants familiaux employés par des personnes morales de droit public ou de droit privé
 
-Les personnes morales de droit public ou de droit privé qui gèrent des établissements et services mentionnés aux 5° à 7° de
-l'article L. 312-1 peuvent, avec l'accord du président du conseil général, être employeurs des accueillants familiaux.
+###### Article L444-1
 
-Dans ce cas, il est conclu entre l'accueillant familial et son employeur pour chaque personne accueillie à titre permanent un
-contrat de travail distinct du contrat d'accueil. Dans le cadre de ce contrat de travail, la personne morale employeur peut
-bénéficier des exonérations de cotisations patronales d'assurances sociales, d'accidents du travail et d'allocations
-familiales dans les conditions du I de l'article L. 241-10 du code de la sécurité sociale.
+Les personnes morales de droit public ou de droit privé peuvent, après accord du président du conseil général du département
+de résidence de l'accueillant familial, être employeurs des accueillants familiaux mentionnés à l'article L. 441-1.
+
+Les accueillants familiaux employés par des collectivités territoriales ou leurs établissements publics administratifs sont
+des agents non titulaires de ces collectivités. Les accueillants familiaux employés par des établissements sociaux ou médico-
+sociaux publics sont des agents non titulaires de ces établissements.
+
+Les dispositions particulières qui leur sont applicables sont fixées par voie réglementaire.
+
+Le présent chapitre n'est pas applicable aux accueillants familiaux mentionnés à l'article L. 443-10 ayant passé un contrat
+avec un établissement ou service de soins pour accueillir des malades mentaux en accueil familial thérapeutique.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -29258,18 +29871,278 @@ familiales dans les conditions du I de l'article L. 241-10 du code de la sécuri
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Loi n°2005-1579 du 19 décembre 2005 - art. 12 () JORF 20 décembre 2005
+	  - Loi n°2007-290 du 5 mars 2007 - art. 57 () JORF 6 mars 2007
 
-	**Abrogé par**:
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D444-2 (V)
+	  - Code de l'action sociale et des familles - art. L14-10-5 (V)
+	  - Code de l'action sociale et des familles - art. R441-16 (VD)
+	  - Code de la construction et de l'habitation. - art. L442-8-1 (V)
+	  - Code de la santé publique - art. L1431-2 (V)
+	  - Code général des impôts, CGI. - art. 199 sexvicies (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L441-1 (M)
+	  - Code de l'action sociale et des familles - art. L443-10 (M)
+
+
+###### Article L444-2
+
+Sont applicables aux personnes relevant du présent chapitre les dispositions suivantes du code du travail :
+
+― la sous-section 1 de la section 1 et les sections 2, 3, 4-2, 5, 5-1, 5-2, 7 et 8 du chapitre II du titre II du livre Ier,
+ainsi que le dernier alinéa de l'article L. 123-1 ;
+
+― le titre III ainsi que les chapitres préliminaire, III, V et VI du titre IV du livre Ier ;
+
+― la section 2 du chapitre II, la section 2 du chapitre III, les chapitres V et VI du titre II, ainsi que le titre IV du
+livre II ;
+
+― la section 1 du chapitre Ier du titre V du livre III ;
+
+― les titres Ier, II, III et VI du livre IV ;
+
+― les livres V et IX, à l'exception du titre VII.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
 
 	  - Loi n°2007-290 du 5 mars 2007 - art. 57 () JORF 6 mars 2007
 
 	**Cite**:
 
-	  - Code de la sécurité sociale. - art. L241-10 (M)
-	  - Code de l'action sociale et des familles - art. L312-1 (M)
+	  - Code de l'action sociale et des familles - art. L123-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L544-4 (V)
+
+
+###### Article L444-3
+
+Il est conclu, pour chaque personne accueillie, entre l'accueillant familial et son employeur un contrat de travail écrit.
+
+Tout contrat de travail fait l'objet d'une période d'essai de trois mois, éventuellement renouvelable après accord écrit du
+salarié.
+
+Pour chaque personne accueillie, il est conclu entre la personne accueillie, l'accueillant familial et, si ce dernier le
+souhaite, l'employeur un contrat d'accueil conforme aux stipulations d'un contrat type établi par voie réglementaire après
+avis des représentants des présidents de conseil général.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2007-290 du 5 mars 2007 - art. 57 () JORF 6 mars 2007
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. Annexe 3-8-1 (V)
+	  - Code de l'action sociale et des familles - art. Annexe 3-8-2 (V)
+	  - Code de l'action sociale et des familles - art. D444-4 (VD)
+	  - Code de la sécurité sociale. - art. L241-10 (V)
+	  - Code rural - art. L741-27 (V)
+
+
+###### Article L444-4
+
+Les accueillants familiaux perçoivent une rémunération garantie dont le montant minimal est déterminé en référence au salaire
+minimum de croissance. Le montant de la rémunération est fonction du nombre de personnes accueillies et de la durée du
+travail. Cette rémunération est complétée des indemnités mentionnées aux 2° à 4° de l'article L. 442-1. Les montants des
+indemnités mentionnées aux 2° et 3° du même article L. 442-1 sont compris entre un minimum et un maximum fixés par décret. 
+
+Le nombre de journées travaillées ne peut excéder pour chaque salarié un plafond annuel de deux cent cinquante-huit jours.
+Les modalités de détermination de la durée et de suivi de l'organisation du travail sont fixées par accord collectif de
+travail ou, à défaut, par décret. 
+
+L'employeur doit tenir à la disposition de l'inspecteur du travail, pendant une durée de trois ans, le ou les documents
+permettant de comptabiliser le nombre de jours de travail effectués par le salarié. 
+
+Lorsque le nombre annuel de jours travaillés, sans excéder le plafond légal susmentionné, dépasse le plafond fixé par accord
+collectif de travail, après déduction, le cas échéant, des jours affectés à un compte épargne-temps et des congés reportés
+dans les conditions prévues à l'article L. 223-9 du code du travail, le salarié doit bénéficier, au cours des trois premiers
+mois de l'année suivante, d'un nombre de jours supplémentaires de congé égal au dépassement constaté et le plafond de jours
+travaillés afférent à cette année est réduit à due concurrence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2007-290 du 5 mars 2007 - art. 57 () JORF 6 mars 2007
+
+	**Cite**:
+
+	  - Code du travail - art. L223-9 (Ab)
+	  - Code de l'action sociale et des familles - art. L442-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D444-5 (V)
+	  - Code de l'action sociale et des familles - art. L544-4 (V)
+
+
+###### Article L444-5
+
+Lorsque, du fait de la personne accueillie, l'accueil d'une ou plusieurs personnes est provisoirement suspendu, notamment en
+cas d'hospitalisation ou de séjour dans la famille naturelle, l'accueillant familial a droit à une indemnité dont le montant
+et les conditions de versement sont définis par décret.
+
+L'employeur qui ne peut pas confier à un accueillant familial le nombre de personnes prévues contractuellement, pendant une
+durée de quatre mois consécutifs, est tenu soit de recommencer à verser la totalité du salaire à l'issue de cette période,
+soit de procéder au licenciement économique de l'accueillant familial, motivé par cette absence de personne à confier, ou à
+la modification d'un élément essentiel du contrat de travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2007-290 du 5 mars 2007 - art. 57 () JORF 6 mars 2007
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D444-4 (VD)
+	  - Code de l'action sociale et des familles - art. D444-5 (V)
+	  - Code de l'action sociale et des familles - art. D444-6 (V)
+
+
+###### Article L444-6
+
+Les accueillants familiaux ne peuvent se séparer de l'ensemble des personnes qu'ils accueillent pendant les repos
+hebdomadaires, jours fériés, congés payés et congés de formation sans l'autorisation préalable de leur employeur. L'employeur
+est tenu d'accorder le congé principal demandé pendant la période définie au troisième alinéa de l'article L. 223-8 du code
+du travail. Il est tenu d'accorder d'autres congés, répartis sur l'année, dont la durée minimale est définie par décret. 
+
+Pendant les congés des accueillants, l'employeur est tenu de prévoir les modalités d'accueil des personnes accueillies en
+leur garantissant un accueil temporaire de qualité par un autre accueillant familial ou dans un établissement social et
+médico-social. 
+
+La formation initiale et continue prévue à l'article L. 441-1 du présent code est à la charge de l'employeur qui organise et
+finance l'accueil de la ou des personnes accueillies pendant les heures de formation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2007-290 du 5 mars 2007 - art. 57 () JORF 6 mars 2007
+
+	**Cite**:
+
+	  - Code du travail - art. L223-8 (M)
+	  - Code de l'action sociale et des familles - art. L441-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D444-4 (VD)
+	  - Code de l'action sociale et des familles - art. D444-8 (VD)
+	  - Code de l'action sociale et des familles - art. L544-4 (V)
+
+
+###### Article L444-7
+
+Lorsque l'accueillant familial relevant du présent chapitre exerce un mandat de délégué syndical, de représentant syndical ou
+de représentant du personnel, l'employeur organise et finance, le cas échéant, l'accueil des personnes qui lui sont
+habituellement confiées pendant les temps correspondant à l'exercice de cette fonction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2007-290 du 5 mars 2007 - art. 57 () JORF 6 mars 2007
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L544-4 (V)
+
+
+###### Article L444-8
+
+En cas de retrait d'agrément, l'employeur est tenu de procéder au licenciement dans le respect des dispositions législatives
+et réglementaires en vigueur.
+
+Le président du conseil général informe la personne morale qui l'emploie du retrait ou de la modification du contenu de
+l'agrément d'un accueillant familial.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2007-290 du 5 mars 2007 - art. 57 () JORF 6 mars 2007
+
+
+###### Article L444-9
+
+En cas de rupture du contrat de travail à l'initiative de l'employeur, sauf en cas de faute grave ou lourde, ainsi qu'en cas
+de rupture à l'initiative du salarié, les parties respectent les délais de préavis suivants :
+
+1° Quinze jours pour une ancienneté comprise entre trois et six mois ;
+
+2° Un mois pour une ancienneté comprise entre six mois et moins de deux ans ;
+
+3° Deux mois pour une ancienneté d'au moins deux ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2007-290 du 5 mars 2007 - art. 57 () JORF 6 mars 2007
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. Annexe 3-8-2 (V)
+	  - Code de l'action sociale et des familles - art. D444-6 (V)
 
 
 ### Titre V : Formation des travailleurs sociaux
@@ -29280,25 +30153,26 @@ familiales dans les conditions du I de l'article L. 241-10 du code de la sécuri
 
 Les formations sociales contribuent à la qualification et à la promotion des professionnels et des personnels salariés et non
 salariés engagés dans la lutte contre les exclusions et contre la maltraitance, dans la prévention et la compensation de la
-perte d'autonomie, des handicaps ou des inadaptations et dans la promotion de la cohésion sociale et du développement social.
+perte d'autonomie, des handicaps ou des inadaptations et dans la promotion du droit au logement, de la cohésion sociale et du
+développement social. 
 
 Les diplômes et titres de travail social sont délivrés par l'Etat conformément aux dispositions du I de l'article L. 335-6 du
 code de l'éducation, dans le respect des orientations définies par le ministre chargé des affaires sociales après avis du
-Conseil supérieur du travail social.
+Conseil supérieur du travail social. 
 
 Les établissements publics ou privés dispensant des formations sociales initiales et continues participent au service public
 de la formation. Ils sont soumis à une obligation de déclaration préalable auprès du représentant de l'Etat dans la région
-ainsi qu'aux obligations et interdictions prévues aux 2 et 4 de l'article L. 920-4 du code du travail.
+ainsi qu'aux obligations et interdictions prévues aux 2 et 4 de l'article L. 920-4 du code du travail. 
 
 L'Etat contrôle, en outre, dans des conditions fixées par voie réglementaire, le respect des programmes, la qualification des
 formateurs et directeurs d'établissement et la qualité des enseignements délivrés par ces établissements pendant la durée des
-formations, préparant aux diplômes et titres de travail social.
+formations, préparant aux diplômes et titres de travail social. 
 
-Les départements sont consultés sur la définition et le contenu des formations.
+Les départements sont consultés sur la définition et le contenu des formations. 
 
 La Caisse nationale de solidarité pour l'autonomie mentionnée à l'article L. 14-10-1 participe aux travaux relatifs à la
 définition et au contenu des formations qui concernent les personnels salariés et non salariés engagés dans la prévention et
-la compensation des handicaps et de la perte d'autonomie.
+la compensation des handicaps et de la perte d'autonomie. 
 
 Un décret fixe les modalités d'application du présent article et, notamment, les sanctions encourues en cas de non-respect
 des prescriptions du présent article.
@@ -29373,12 +30247,11 @@ des prescriptions du présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2005-102 du 11 février 2005 - art. 62 () JORF 12 février 2005
+	  - Loi n°2007-290 du 5 mars 2007 - art. 6 () JORF 6 mars 2007
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L335-6 (M)
-	  - Code du travail - art. L920-4 (M)
+	  - Code de l'éducation - art. L335-6 (V)
 	  - Code de l'action sociale et des familles - art. L14-10-1 (V)
 
 
@@ -29519,6 +30392,116 @@ notamment celles prévues aux articles L. 451-1 et L. 451-2.
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L451-1 (V)
+
+
+### Titre VI : Reconnaissance des qualifications professionnelles
+
+###### Article L461-1
+
+Les conditions et modalités de reconnaissance des qualifications professionnelles des ressortissants d'un Etat membre de la
+Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant accéder à des
+activités professionnelles dans le champ couvert par une des conventions collectives mentionnées au premier alinéa de
+l'article L. 314-6 qui prévoient la détention d'un diplôme de travail social créé en vertu de l'article L. 451-1 sont fixées
+aux articles L. 461-2 à L. 461-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 28 () JORF 6 mars 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L314-6 (V)
+	  - Code de l'action sociale et des familles - art. L451-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L461-2 (V)
+
+
+###### Article L461-2
+
+Pour bénéficier de la reconnaissance de leurs qualifications professionnelles, les candidats visés à l'article L. 461-1
+doivent justifier : 
+
+1° D'un diplôme, certificat ou titre permettant l'exercice d'activités professionnelles similaires faisant l'objet d'une
+réglementation dans l'Etat membre ou autre Etat partie d'origine ou de provenance, et de niveau équivalent ou immédiatement
+inférieur, au regard des articles 11 et 13 de la directive 2005/36/ CE du Parlement européen et du Conseil, du 7 septembre
+2005, relative à la reconnaissance des qualifications professionnelles, à celui prévu par la convention collective,
+délivré : 
+
+a) Soit par l'autorité compétente de cet Etat et sanctionnant une formation acquise de façon prépondérante dans la Communauté
+européenne ou l'Espace économique européen ; 
+
+b) Soit par un pays tiers, à condition que l'autorité compétente de l'Etat membre ou autre Etat partie qui a reconnu le
+diplôme, certificat ou autre titre atteste que son titulaire a une expérience professionnelle de trois ans au moins dans cet
+Etat ; 
+
+2° Ou d'un diplôme, certification ou titre et de l'exercice à plein temps d'activités professionnelles similaires pendant
+deux ans au moins au cours des dix années précédentes dans un Etat membre ou autre Etat partie d'origine ou de provenance qui
+ne réglemente pas l'accès ou l'exercice d'activités similaires. 
+
+Toutefois, cette condition d'une expérience professionnelle de deux ans n'est pas exigée lorsque le ou les titres de
+formation détenus par les demandeurs sanctionnent une formation réglementée par l'Etat membre d'origine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 28 () JORF 6 mars 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L461-1 (V)
+
+
+###### Article L461-3
+
+Lorsque la formation du demandeur est inférieure d'au moins un an à celle prévue par la convention collective ou lorsque
+cette formation porte sur des matières substantiellement différentes, en termes de durée ou de contenu, de celles qui
+figurent au programme du diplôme français et dont la connaissance est essentielle à l'exercice des activités professionnelles
+concernées, sauf notamment si les connaissances qu'il a acquises au cours de son expérience professionnelle sont de nature à
+rendre cette vérification inutile, le demandeur choisit soit de se soumettre à une épreuve d'aptitude, soit d'accomplir un
+stage d'adaptation dont la durée ne peut excéder trois ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 28 () JORF 6 mars 2007
+
+
+###### Article L461-4
+
+La décision de reconnaissance des qualifications professionnelles du demandeur est motivée. Elle doit intervenir au plus tard
+dans un délai de quatre mois à compter de la date du récépissé, qui est délivré à réception du dossier complet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 28 () JORF 6 mars 2007
 
 
 ## Livre V : Dispositions particulières applicables à certaines parties du territoire
