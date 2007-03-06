@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2007-03-06
+Version Consolidée au 2007-03-07
 
 # Partie législative
 
@@ -1363,20 +1363,11 @@ secours, à l'exception des prestations énumérées à l'article L. 121-7.
 	  - Code de l'action sociale et des familles - art. L121-7 (V)
 
 
-###### Article L121-2
+###### Article L121-1-1
 
-Dans les zones urbaines sensibles et dans les lieux où se manifestent des risques d'inadaptation sociale le département
-participe aux actions visant à prévenir la marginalisation et à faciliter l'insertion ou la promotion sociale des jeunes et
-des familles, qui peuvent prendre une ou plusieurs des formes suivantes :
-
-1° Actions tendant à permettre aux intéressés d'assurer leur propre prise en charge et leur insertion sociale ;
-
-2° Actions dites de prévention spécialisée auprès des jeunes et des familles en difficulté ou en rupture avec leur milieu ;
-
-3° Actions d'animation socio-éducatives.
-
-Pour la mise en oeuvre des actions mentionnées au 2° ci-dessus, le président du conseil général habilite des organismes
-publics ou privés dans les conditions prévues aux articles L. 313-8, L. 313-8-1 et L. 313-9.
+Une convention entre l'Etat, le département et, le cas échéant, la commune peut prévoir les conditions dans lesquelles un ou
+plusieurs travailleurs sociaux participent, au sein des commissariats de la police nationale et des groupements de la
+gendarmerie nationale, à une mission de prévention à l'attention des publics en détresse.
 
 **Liens relatifs à cet article**
 
@@ -1385,9 +1376,38 @@ publics ou privés dans les conditions prévues aux articles L. 313-8, L. 313-8-
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Loi n°2003-710 du 1 août 2003 - art. 57 () JORF 2 août 2003
+	  - Loi n°2007-297 du 5 mars 2007 - art. 2 () JORF 7 mars 2007
+
+
+###### Article L121-2
+
+Dans les zones urbaines sensibles et dans les lieux où se manifestent des risques d'inadaptation sociale le département
+participe aux actions visant à prévenir la marginalisation et à faciliter l'insertion ou la promotion sociale des jeunes et
+des familles, qui peuvent prendre une ou plusieurs des formes suivantes : 
+
+1° Actions tendant à permettre aux intéressés d'assurer leur propre prise en charge et leur insertion sociale ; 
+
+2° Actions dites de prévention spécialisée auprès des jeunes et des familles en difficulté ou en rupture avec leur milieu ; 
+
+3° Actions d'animation socio-éducatives ; 
+
+4° Actions de prévention de la délinquance. 
+
+Pour la mise en oeuvre des actions mentionnées au 2° ci-dessus, le président du conseil général habilite des organismes
+publics ou privés dans les conditions prévues aux articles L. 313-8, L. 313-8-1 et L. 313-9.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -1410,11 +1430,13 @@ publics ou privés dans les conditions prévues aux articles L. 313-8, L. 313-8-
 	  - Code général des collectivités territoriales - art. L5217-2 (V)
 	  - Code général des impôts, CGI. - art. 1067 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 3 () JORF 7 mars 2007
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L313-8 (M)
-	  - Code de l'action sociale et des familles - art. L313-8-1 (M)
-	  - Code de l'action sociale et des familles - art. L313-9 (M)
+	  - Code de l'action sociale et des familles - art. L313-8 (V)
 
 	**Anciens textes**:
 
@@ -1518,11 +1540,11 @@ L. 121-3, L. 121-4 et L. 123-1 ont un caractère obligatoire.
 
 ###### Article L121-6
 
-Par convention passée avec le département, une commune peut exercer directement les compétences qui, dans le domaine de
-l'action sociale, sont attribuées au département en vertu de l'article L. 121-1.
+Par convention passée avec le département, une commune peut exercer directement tout ou partie des compétences qui, dans le
+domaine de l'action sociale, sont attribuées au département en vertu des articles L. 121-1 et L. 121-2.
 
-Les services départementaux correspondants sont mis à la disposition de la commune. La convention précise les conditions
-financières du transfert.
+La convention précise l'étendue et les conditions financières de la délégation de compétence, ainsi que les conditions dans
+lesquelles les services départementaux correspondants sont mis à la disposition de la commune.
 
 **Liens relatifs à cet article**
 
@@ -1535,9 +1557,13 @@ financières du transfert.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
+	**Modifié par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 3 () JORF 7 mars 2007
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L121-1 (M)
+	  - Code de l'action sociale et des familles - art. L121-1 (V)
 
 	**Cité par**:
 
@@ -1588,6 +1614,69 @@ modalités fixées par décret en Conseil d'Etat pris après avis de la Commissi
 	  - Décret n°2005-1135 du 7 septembre 2005 - art. 6 (V)
 	  - Code de l'action sociale et des familles - art. R121-2 (V)
 	  - Code de la sécurité intérieure - art. R741-48 (VD)
+
+
+###### Article L121-6-2
+
+Lorsqu'un professionnel de l'action sociale, définie à l'article L. 116-1, constate que l'aggravation des difficultés
+sociales, éducatives ou matérielles d'une personne ou d'une famille appelle l'intervention de plusieurs professionnels, il en
+informe le maire de la commune de résidence et le président du conseil général. L'article 226-13 du code pénal n'est pas
+applicable aux personnes qui transmettent des informations confidentielles dans les conditions et aux fins prévues au présent
+alinéa. 
+
+Lorsque l'efficacité et la continuité de l'action sociale le rendent nécessaire, le maire, saisi dans les conditions prévues
+au premier alinéa ou par le président du conseil général, ou de sa propre initiative, désigne parmi les professionnels qui
+interviennent auprès d'une même personne ou d'une même famille un coordonnateur, après accord de l'autorité dont il relève et
+consultation du président du conseil général. 
+
+Lorsque les professionnels concernés relèvent tous de l'autorité du président du conseil général, le maire désigne le
+coordonnateur parmi eux, sur la proposition du président du conseil général. 
+
+Le coordonnateur est soumis au secret professionnel dans les conditions prévues aux articles 226-13 et 226-14 du code pénal. 
+
+Par exception à l'article 226-13 du même code, les professionnels qui interviennent auprès d'une même personne ou d'une même
+famille sont autorisés à partager entre eux des informations à caractère secret, afin d'évaluer leur situation, de déterminer
+les mesures d'action sociale nécessaires et de les mettre en oeuvre. Le coordonnateur a connaissance des informations ainsi
+transmises. Le partage de ces informations est limité à ce qui est strictement nécessaire à l'accomplissement de la mission
+d'action sociale. 
+
+Le professionnel intervenant seul dans les conditions prévues au premier alinéa ou le coordonnateur sont autorisés à révéler
+au maire et au président du conseil général, ou à leur représentant au sens des articles L. 2122-18 et L. 3221-3 du code
+général des collectivités territoriales, les informations confidentielles qui sont strictement nécessaires à l'exercice de
+leurs compétences. Les informations ainsi transmises ne peuvent être communiquées à des tiers sous peine des sanctions
+prévues à l'article 226-13 du code pénal. 
+
+Lorsqu'il apparaît qu'un mineur est susceptible d'être en danger au sens de l'article 375 du code civil, le coordonnateur ou
+le professionnel intervenant seul dans les conditions prévues au premier alinéa du présent article en informe sans délai le
+président du conseil général ; le maire est informé de cette transmission.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 8 () JORF 7 mars 2007
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2122-18 (V)
+	  - Code général des collectivités territoriales - art. L3221-3 (VT)
+	  - Code pénal - art. 226-13 (V)
+	  - Code pénal - art. 226-14 (V)
+	  - Code de l'action sociale et des familles - art. L116-1 (V)
+
+	**Cité par**:
+
+	  - Code civil - art. 375-9-2 (V)
+	  - Code de l'éducation - art. R131-10-5 (VD)
 
 
 ##### Section 3 : Etat.
@@ -2057,6 +2146,37 @@ conditions de prise en charge financière des jeunes volontaires.
 
 	  - Loi n°2010-241 du 10 mars 2010 - art. 21 (V)
 	  - Code de l'action sociale et des familles - art. R121-17 (V)
+
+
+###### Article L121-20
+
+Pour l'accès à un emploi de l'Etat, des collectivités territoriales, des établissements publics et des entreprises publiques
+dont le personnel est soumis à un statut défini par la loi ou le règlement, la limite d'âge est reculée d'un temps égal au
+temps effectif de volontariat au titre du service civil volontaire.
+
+Ce temps effectif est également pris en compte dans le calcul de l'ancienneté dans les fonctions publiques de l'Etat, des
+collectivités territoriales et des établissements publics hospitaliers et de la durée d'expérience professionnelle requise
+pour le bénéfice de la validation des acquis professionnels en vue de la délivrance d'un diplôme de l'enseignement supérieur
+ou technologique ou d'un titre professionnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 32 () JORF 7 mars 2007
+
+	**Abrogé par**:
+
+	  - Loi n°2010-241 du 10 mars 2010 - art. 18
+
+	**Cité par**:
+
+	  - Loi n°2010-241 du 10 mars 2010 - art. 21 (V)
 
 
 #### Chapitre II : Domicile de secours.
@@ -3239,13 +3359,17 @@ effet délégation du ministre chargé de l'action sociale ou du représentant d
 
 Les agents départementaux habilités par le président du conseil général ont compétence pour contrôler le respect, par les
 bénéficiaires et les institutions intéressées, des règles applicables aux formes d'aide sociale relevant de la compétence du
-département.
+département. 
 
-Sans préjudice des dispositions figurant aux articles L. 322-6, L. 322-8, L. 331-1, L. 331-3 à L. 331-6, L. 331-8 et L.
-331-9, ces mêmes agents exercent un pouvoir de contrôle technique sur les institutions qui relèvent d'une autorisation de
-création délivrée par le président du conseil général.
+Sans préjudice des dispositions figurant à la section 4 du chapitre III du titre Ier du livre III et aux articles L. 322-6,
+L. 322-8, L. 331-1, L. 331-3 à L. 331-6, L. 331-8 et L. 331-9, ces mêmes agents exercent un pouvoir de contrôle technique sur
+les institutions qui relèvent d'une autorisation de création délivrée par le président du conseil général. 
 
 Le règlement départemental arrête les modalités de ce contrôle.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -3253,6 +3377,10 @@ Le règlement départemental arrête les modalités de ce contrôle.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 25 () JORF 7 mars 2007
 
 	**Anciens textes**:
 
@@ -3269,12 +3397,11 @@ Le règlement départemental arrête les modalités de ce contrôle.
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L322-6 (M)
-	  - Code de l'action sociale et des familles - art. L322-8 (M)
-	  - Code de l'action sociale et des familles - art. L331-1 (M)
-	  - Code de l'action sociale et des familles - art. L331-8 (M)
-	  - Code de l'action sociale et des familles - art. L331-9 (M)
-	  - Code de l'action sociale et des familles L322-6, L322-8, L331-1, L331-3 à L331-6, L331-8, L331-9
+	  - Code de l'action sociale et des familles - art. L322-6 (V)
+	  - Code de l'action sociale et des familles - art. L322-8 (V)
+	  - Code de l'action sociale et des familles - art. L331-1 (V)
+	  - Code de l'action sociale et des familles - art. L331-3 (V)
+	  - Code de l'action sociale et des familles - art. L331-8 (V)
 
 
 ###### Article L133-3
@@ -3982,6 +4109,112 @@ visées à l'article L. 133-6 malgré les incapacités résultant d'une des cond
 
 
 ### Titre IV : Institutions
+
+#### Chapitre Ier : Conseil pour les droits et devoirs des familles et accompagnement parental
+
+###### Article L141-1
+
+Le conseil pour les droits et devoirs des familles est créé par délibération du conseil municipal. Il est présidé par le
+maire ou son représentant au sens de l'article L. 2122-18 du code général des collectivités territoriales. Il peut comprendre
+des représentants de l'Etat dont la liste est fixée par décret, des représentants des collectivités territoriales et des
+personnes oeuvrant dans les domaines de l'action sociale, sanitaire et éducative, de l'insertion et de la prévention de la
+délinquance. Les informations communiquées, le cas échéant, à ses membres ne peuvent être divulguées à des tiers sous peine
+des sanctions prévues à l'article 226-13 du code pénal.
+
+Le président du conseil pour les droits et devoirs des familles le réunit afin :
+
+- d'entendre une famille, de l'informer de ses droits et devoirs envers l'enfant et de lui adresser des recommandations
+destinées à prévenir des comportements susceptibles de mettre l'enfant en danger ou de causer des troubles pour autrui ;
+
+- d'examiner avec la famille les mesures d'aide à l'exercice de la fonction parentale susceptibles de lui être proposées et
+l'opportunité d'informer les professionnels de l'action sociale et les tiers intéressés des recommandations qui lui sont
+faites et, le cas échéant, des engagements qu'elle a pris dans le cadre d'un contrat de responsabilité parentale prévu à
+l'article L. 222-4-1.
+
+Le conseil pour les droits et devoirs des familles est informé de la conclusion d'un contrat de responsabilité parentale dans
+les conditions fixées par l'article L. 222-4-1 du présent code ou d'une mesure d'assistance éducative ordonnée dans les
+conditions fixées à l'article 375 du code civil.
+
+Il est consulté par le maire lorsque celui-ci envisage de proposer un accompagnement parental prévu à l'article L. 141-2 du
+présent code.
+
+Il peut, sans préjudice des dispositions prévues à l'article 375-9-1 du code civil, lorsque le suivi social ou les
+informations portées à sa connaissance font apparaître que la situation d'une famille ou d'un foyer est de nature à
+compromettre l'éducation des enfants, la stabilité familiale et qu'elle a des conséquences pour la tranquillité ou la
+sécurité publiques, proposer au maire de saisir le président du conseil général en vue de la mise en oeuvre d'une mesure
+d'accompagnement en économie sociale et familiale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 9 () JORF 7 mars 2007
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2122-18 (M)
+	  - Code pénal - art. 226-13 (M)
+	  - Code civil - art. 375 (M)
+	  - Code civil - art. 375-9-1 (M)
+	  - Code de l'action sociale et des familles - art. L141-2 (V)
+	  - Code de l'action sociale et des familles - art. L222-4-1 (M)
+
+	**Cité par**:
+
+	  - Code pénal - art. R131-49 (V)
+
+
+###### Article L141-2
+
+Lorsqu'il ressort de ses constatations ou d'informations portées à sa connaissance que l'ordre, la sécurité ou la
+tranquillité publics sont menacés à raison du défaut de surveillance ou d'assiduité scolaire d'un mineur, le maire peut
+proposer aux parents ou au représentant légal du mineur concerné un accompagnement parental. Il vérifie qu'il n'a pas été
+conclu avec eux un contrat de responsabilité parentale dans les conditions fixées à l'article L. 222-4-1 du présent code et
+qu'aucune mesure d'assistance éducative n'a été ordonnée dans les conditions fixées à l'article 375 du code civil.
+
+Cet accompagnement parental consiste en un suivi individualisé au travers d'actions de conseil et de soutien à la fonction
+éducative.
+
+L'accompagnement parental peut aussi être mis en place à l'initiative des parents ou du représentant légal du mineur.
+
+Lorsqu'un accompagnement parental est mis en place, le maire sollicite l'avis du président du conseil général. Il en informe
+l'inspecteur d'académie, le chef d'établissement d'enseignement, le directeur de l'organisme débiteur des prestations
+familiales et le préfet.
+
+Au terme de l'accompagnement, il est délivré aux parents ou au représentant légal du mineur une attestation comportant leur
+engagement solennel à se conformer aux obligations liées à l'exercice de l'autorité parentale.
+
+Lorsque les parents ou le représentant légal du mineur refusent sans motif légitime l'accompagnement parental ou
+l'accomplissent de manière partielle, le maire saisit le président du conseil général en vue de la conclusion éventuelle du
+contrat de responsabilité parentale mentionné à l'article L. 222-4-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 9 () JORF 7 mars 2007
+
+	**Cite**:
+
+	  - Code civil - art. 375 (M)
+	  - Code de l'action sociale et des familles - art. L222-4-1 (M)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L141-1 (VD)
+	  - Code de l'éducation - art. R131-10-1 (V)
+	  - Code de l'éducation - art. R222-24-1 (V)
+
 
 #### Chapitre III : Conseil national des politiques de lutte contre la pauvreté et l'exclusion sociale.
 
@@ -22588,20 +22821,26 @@ compte de ses adhérents.
 
 ###### Article L313-13
 
-Le contrôle de l'activité des établissements et services sociaux et médico-sociaux est exercé, notamment dans l'intérêt des
-usagers, par l'autorité qui a délivré l'autorisation.
+Le contrôle des établissements et services sociaux et médico-sociaux et des lieux de vie et d'accueil est exercé par
+l'autorité qui a délivré l'autorisation. 
 
-Lorsque le contrôle a pour objet d'apprécier l'état de santé, de sécurité, d'intégrité ou de bien-être physique ou moral des
-bénéficiaires, il est procédé, dans le respect de l'article L. 331-3, à des visites d'inspection conduites conjointement par
-un médecin inspecteur de santé publique et un inspecteur des affaires sanitaires et sociales. Le médecin inspecteur veille à
-entendre les usagers et leurs familles et à recueillir leurs témoignages. L'inspecteur ou le médecin inspecteur recueille
-également les témoignages des personnels de l'établissement ou du service.
+Lorsque le contrôle a pour objet d'apprécier l'état de santé, la sécurité, l'intégrité ou le bien-être physique ou moral des
+bénéficiaires, il est procédé, dans le respect de l'article L. 331-3, à des visites d'inspection conduites, en fonction de la
+nature du contrôle, par un médecin inspecteur de santé publique ou par un inspecteur de l'action sanitaire et sociale. Le
+médecin inspecteur ou l'inspecteur veille à entendre les usagers et leurs familles et à recueillir leurs témoignages. Il
+recueille également les témoignages des personnels de l'établissement ou du service. 
 
-Les inspecteurs des affaires sanitaires et sociales dûment assermentés à cet effet dans des conditions fixées par décret en
-Conseil d'Etat constatent les infractions par des procès-verbaux qui font foi jusqu'à preuve du contraire.
+Les inspecteurs de l'action sanitaire et sociale, dûment assermentés à cet effet dans des conditions fixées par décret en
+Conseil d'Etat, recherchent et constatent les infractions définies au présent code par des procès-verbaux transmis au
+procureur de la République, qui font foi jusqu'à preuve du contraire. 
 
-Au titre des contrôles mentionnés aux articles L. 313-16, L. 331-3, L. 331-5 et L. 331-7, les personnels mentionnés à
-l'alinéa précédent peuvent effectuer des saisies dans des conditions fixées par décret en Conseil d'Etat.
+Ils peuvent, au titre des contrôles mentionnés aux articles L. 313-16, L. 331-3, L. 331-5 et L. 331-7, effectuer des saisies
+dans des conditions fixées par décret en Conseil d'Etat. 
+
+Dans les établissements et services autorisés par le président du conseil général, les contrôles prévus à l'alinéa précédent
+sont effectués par les agents départementaux mentionnés à l'article L. 133-2 et dans les conditions définies audit article.
+Toutefois, ces contrôles peuvent être également exercés, de façon séparée ou conjointe avec ces agents, par les agents de
+l'Etat mentionnés au présent article.
 
 **Liens relatifs à cet article**
 
@@ -22609,13 +22848,6 @@ l'alinéa précédent peuvent effectuer des saisies dans des conditions fixées 
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Modifié par**:
-
-	  - Loi n°2002-2 2002-01-02 art. 4 I, art. 24 I, V, art. 38 JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 24 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 38 () JORF 3 janvier 2002
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -22633,12 +22865,16 @@ l'alinéa précédent peuvent effectuer des saisies dans des conditions fixées 
 	  - Code de la santé publique - art. L1435-7 (VD)
 	  - Code de la santé publique - art. R1435-10 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 26 () JORF 7 mars 2007
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L313-16 (M)
-	  - Code de l'action sociale et des familles - art. L331-3 (M)
-	  - Code de l'action sociale et des familles - art. L331-5 (M)
-	  - Code de l'action sociale et des familles - art. L331-7 (M)
+	  - Code de l'action sociale et des familles - art. L313-16 (V)
+	  - Code de l'action sociale et des familles - art. L331-3 (V)
+	  - Code de l'action sociale et des familles - art. L331-5 (V)
+	  - Code de l'action sociale et des familles - art. L331-7 (V)
 
 
 ###### Article L313-14
@@ -22806,11 +23042,13 @@ Elle peut mettre en oeuvre la procédure prévue aux deuxième et troisième ali
 
 ###### Article L313-18
 
-La fermeture définitive du service ou de l'établissement vaut retrait de l'autorisation prévue à l'article L. 313-1.
+La fermeture définitive du service, de l'établissement ou du lieu de vie et d'accueil vaut retrait de l'autorisation prévue à
+l'article L. 313-1.
 
 Cette autorisation peut être transférée par l'autorité qui l'a délivrée à une collectivité publique ou un établissement privé
-poursuivant un but similaire, lorsque la fermeture définitive a été prononcée sur l'un des motifs énumérés à l'article L.
-313-16. Le comité régional de l'organisation sociale et médico-sociale compétent est informé de ce transfert.
+poursuivant un but similaire, lorsque la fermeture définitive a été prononcée sur l'un des motifs énumérés aux articles L.
+313-16, L. 331-5 et L. 331-7. Le comité régional de l'organisation sociale et médico-sociale compétent est informé de ce
+transfert.
 
 **Liens relatifs à cet article**
 
@@ -22821,7 +23059,7 @@ poursuivant un but similaire, lorsque la fermeture définitive a été prononcé
 
 	**Modifié par**:
 
-	  - Loi n°2005-102 du 11 février 2005 - art. 84 () JORF 12 février 2005
+	  - Loi n°2007-308 du 5 mars 2007 - art. 26 () JORF 7 mars 2007
 
 	**Cité par**:
 
@@ -22840,6 +23078,8 @@ poursuivant un but similaire, lorsque la fermeture définitive a été prononcé
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L313-1 (M)
+	  - Code de l'action sociale et des familles - art. L331-5 (M)
+	  - Code de l'action sociale et des familles - art. L331-7 (M)
 
 
 ###### Article L313-19
@@ -25362,7 +25602,7 @@ d'ouvrir à nouveau l'établissement, après fermeture administrative, sans soll
 l'article L. 322-6 ;
 
 4° Le fait de ne pas tenir le registre prévu à l'article L. 331-2 ou de faire obstacle aux demandes de renseignements et au
-droit d'entrée des agents chargés de la surveillance prévus aux articles L. 331-1 et L. 331-3.
+droit d'entrée des agents chargés du contrôle prévus aux articles L. 331-1 et L. 331-3.
 
 Les personnes physiques coupables des infractions définies au présent article encourent également la peine complémentaire
 d'interdiction, suivant les modalités de l'article 131-27 du code pénal, d'exploiter ou de diriger un établissement soumis
@@ -25379,7 +25619,7 @@ En cas de récidive, les peines prévues au présent article peuvent être port�
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 15 () JORF 2 décembre 2005
+	  - Loi n°2007-308 du 5 mars 2007 - art. 27 () JORF 7 mars 2007
 
 	**Cite**:
 
@@ -25626,8 +25866,8 @@ prévue à l'article L. 322-6 ;
 
 5° Le fait de ne pas tenir le registre prévu à l'article L. 331-2 ;
 
-6° Le fait de faire obstacle aux demandes de renseignements et au droit d'entrée des agents chargés de la surveillance prévus
-aux articles L. 331-1 et L. 331-3.
+6° Le fait de faire obstacle aux demandes de renseignements et au droit d'entrée des agents chargés du contrôle prévus aux
+articles L. 331-1 et L. 331-3.
 
 Les personnes physiques coupables des infractions définies au présent article encourent également la peine complémentaire
 d'interdiction, suivant les modalités de l'article 131-27 du code pénal, d'exploiter ou de diriger un établissement soumis
@@ -25644,7 +25884,7 @@ En cas de récidive, les peines prévues au présent article peuvent être port�
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 15 () JORF 2 décembre 2005
+	  - Loi n°2007-308 du 5 mars 2007 - art. 27 () JORF 7 mars 2007
 
 	**Cite**:
 
@@ -25711,9 +25951,11 @@ pris après avis du Conseil supérieur de l'aide social, et notamment :
 
 ###### Article L331-1
 
-La surveillance des établissements est exercée, sous l'autorité du ministre chargé de l'action sociale et du représentant de
-l'Etat dans le département, par les agents de l'inspection générale des affaires sociales et des directions des affaires
-sanitaires et sociales, sans préjudice des contrôles prévus et organisés par les lois et règlements en vigueur.
+Le contrôle des établissements, services, lieux de vie ou d'accueil, autorisés, agréés ou déclarés dans les conditions du
+présent code, est exercé, sous l'autorité du ministre chargé de l'action sociale et du représentant de l'Etat dans le
+département, par les agents qualifiés statutairement des directions des affaires sanitaires et sociales dans les conditions
+précisées à l'article L. 313-13 ainsi que par les membres de l'inspection générale des affaires sociales. Ce contrôle tend,
+notamment, à s'assurer de la sécurité des personnes accueillies.
 
 **Liens relatifs à cet article**
 
@@ -25724,7 +25966,7 @@ sanitaires et sociales, sans préjudice des contrôles prévus et organisés par
 
 	**Modifié par**:
 
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2007-308 du 5 mars 2007 - art. 28 () JORF 7 mars 2007
 
 	**Cité par**:
 
@@ -25735,6 +25977,10 @@ sanitaires et sociales, sans préjudice des contrôles prévus et organisés par
 	  - Code de l'action sociale et des familles - art. L322-8 (V)
 	  - Code de l'action sociale et des familles - art. L543-3 (V)
 	  - Code de l'action sociale et des familles - art. L546-5 (Ab)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L313-13 (M)
 
 	**Anciens textes**:
 
@@ -25783,27 +26029,27 @@ conditions et sous les peines fixées par l'article 226-13 du code pénal.
 
 ###### Article L331-3
 
-Les personnes responsables d'un établissement sont tenues de fournir aux autorités et agents chargés de la surveillance tous
+Les personnes responsables d'un établissement sont tenues de fournir aux autorités et agents chargés du contrôle tous
 renseignements qui leur sont demandés relatifs aux points mentionnés dans la déclaration d'ouverture et à l'identité des
-personnes hébergées.
+personnes hébergées. 
 
 Elles sont également tenues de laisser pénétrer dans l'établissement, à toute heure du jour et de la nuit, les autorités et
-agents chargés de la surveillance. Ceux-ci peuvent visiter tous les locaux, se faire présenter toute personne hébergée et
-demander tous renseignements nécessaires pour apprécier les conditions matérielles et morales de fonctionnement de
-l'établissement. Ils peuvent se faire accompagner, le cas échéant, par l'homme de l'art compétent en la matière. Ils signent
-le registre mentionné à l'article L. 331-2 et y consignent leurs constatations et observations.
+agents chargés du contrôle. Ceux-ci peuvent visiter tous les locaux, se faire présenter toute personne hébergée et demander
+tous renseignements nécessaires pour apprécier les conditions matérielles et morales de fonctionnement de l'établissement.
+Ils peuvent se faire accompagner, le cas échéant, par l'homme de l'art compétent en la matière. Ils signent le registre
+mentionné à l'article L. 331-2 et y consignent leurs constatations et observations. 
 
 Toutefois, sans préjudice des dispositions du titre II du livre Ier du code de procédure pénale, et sauf exceptions prévues
 par la loi, il ne pourra être procédé aux visites de nuit prévues à l'alinéa précédent, si elles doivent commencer après
 vingt et une heures et avant six heures, qu'en cas d'appel provenant de l'intérieur de l'établissement, ou sur plainte ou
 réclamation, ou sur autorisation du procureur de la République. En cas de visite de nuit, les motifs de l'inspection doivent
-être portés par écrit à la connaissance du directeur de l'établissement.
+être portés par écrit à la connaissance du directeur de l'établissement. 
 
 Les contrôles s'effectuent dans les conditions prévues à l'article L. 1421-3 du code de la santé publique avec le concours
-des professionnels mentionnés à l'article L. 1421-1 du même code.
+des professionnels mentionnés à l'article L. 1421-1 du même code. 
 
-Les personnes chargées de la surveillance sont tenues au secret professionnel dans les conditions et sous les peines fixées
-par l'article 226-13 du code pénal.
+Les personnes chargées du contrôle sont tenues au secret professionnel dans les conditions et sous les peines fixées par
+l'article 226-13 du code pénal.
 
 **Liens relatifs à cet article**
 
@@ -25814,14 +26060,14 @@ par l'article 226-13 du code pénal.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 10 () JORF 2 décembre 2005
+	  - Loi n°2007-308 du 5 mars 2007 - art. 28 () JORF 7 mars 2007
 
 	**Cite**:
 
-	  - Code pénal - art. 226-13 (M)
-	  - Code de la santé publique - art. L1421-1 (M)
+	  - Code pénal - art. 226-13 (V)
+	  - Code de la santé publique - art. L1421-1 (V)
 	  - Code de la santé publique - art. L1421-3 (V)
-	  - Code de l'action sociale et des familles - art. L331-2 (M)
+	  - Code de l'action sociale et des familles - art. L322-2 (V)
 
 	**Cité par**:
 
@@ -25840,9 +26086,10 @@ par l'article 226-13 du code pénal.
 
 ###### Article L331-4
 
-Les personnes physiques propriétaires, administrateurs ou employés des établissements ne peuvent profiter des dispositions
-entre vifs ou testamentaires faites en leur faveur par des personnes hébergées dans le ou les établissements qu'elles
-exploitent ou dans lesquels elles sont employées que dans les conditions fixées à l'article 909 du code civil.
+Les personnes physiques ou morales propriétaires, administrateurs ou employés des établissements, les bénévoles qui
+interviennent en leur sein et les associations auxquelles ces derniers adhèrent ne peuvent profiter des dispositions entre
+vifs ou testamentaires faites en leur faveur par des personnes hébergées dans le ou les établissements qu'elles exploitent ou
+dans lesquels elles sont employées que dans les conditions fixées à l'article 909 du code civil. 
 
 L'article 911 dudit code est, en outre, applicable aux libéralités en cause.
 
@@ -25855,12 +26102,15 @@ L'article 911 dudit code est, en outre, applicable aux libéralités en cause.
 
 	**Modifié par**:
 
-	  - Loi n°2002-2 du 2 janvier 2002 - art. 4 () JORF 3 janvier 2002
+	  - Loi n°2007-308 du 5 mars 2007 - art. 28 () JORF 7 mars 2007
+
+	**Abrogé par**:
+
+	  - Loi n°2015-1776 du 28 décembre 2015 - art. 28
 
 	**Cite**:
 
-	  - Code civil - art. 909 (M)
-	  - Code civil - art. 911 (M)
+	  - Code civil - art. 909
 
 	**Anciens textes**:
 
@@ -25877,16 +26127,12 @@ insuffisances, inconvénients ou abus dans le délai qu'il leur fixe à cet effe
 S'il n'a pas été satisfait à l'injonction dans ce délai, le représentant de l'Etat ordonne la fermeture totale ou partielle,
 définitive ou provisoire, de l'établissement.
 
-En cas d'urgence ou lorsque le responsable de l'établissement refuse de se soumettre à la surveillance prévue à l'article L.
-331-3, le représentant de l'Etat peut, sans injonction préalable, prononcer par arrêté motivé et à titre provisoire une
-mesure de fermeture immédiate, à charge pour lui d'en saisir pour avis ladite commission, dans le délai d'un mois.
+En cas d'urgence ou lorsque le responsable de l'établissement refuse de se soumettre au contrôle prévu à l'article L. 331-3,
+le représentant de l'Etat peut, sans injonction préalable, prononcer par arrêté motivé et à titre provisoire une mesure de
+fermeture immédiate.
 
 En cas de décision de fermeture prise par le président du conseil général, le représentant de l'Etat dans le département
 exécute cette décision en appliquant, avec le concours de celui-ci, les dispositions prévues à l'article L. 331-6.
-
-**Nota:**
-
-La date d'entrée en vigueur de l'ordonnance 2004-637 2004-07-01 a été modifiée par l'ordonnance 2005-727 2005-06-30 art. 3.
 
 **Liens relatifs à cet article**
 
@@ -25897,7 +26143,7 @@ La date d'entrée en vigueur de l'ordonnance 2004-637 2004-07-01 a été modifi�
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 23 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
+	  - Loi n°2007-308 du 5 mars 2007 - art. 28 () JORF 7 mars 2007
 
 	**Cité par**:
 
@@ -25951,6 +26197,31 @@ hébergées.
 	**Anciens textes**:
 
 	  - Code de la famille et de l'aide sociale. - art. 212 (Ab)
+
+
+###### Article L331-6-1
+
+Les établissements et les services relevant du présent titre sont également soumis aux dispositions de la section 4 du
+chapitre III du titre Ier du livre III du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 28 () JORF 7 mars 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L313-13 (V)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L543-3 (V)
 
 
 ###### Article L331-7
