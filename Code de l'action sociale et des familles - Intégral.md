@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2007-03-24
+Version Consolidée au 2007-03-27
 
 # Partie législative
 
@@ -69952,6 +69952,26 @@ restent la propriété de ce membre.
 ##### Sous-section 1 : Evaluation et qualité des établissements et services sociaux et médico-sociaux
 
 ##### Paragraphe 1 : Agence nationale de l'évaluation et de la qualité des établissements et services sociaux et médico-sociaux
+
+###### Article D312-195
+
+Le conseil scientifique de l'Agence nationale de l'évaluation et de la qualité des établissements et services sociaux et
+médico-sociaux comprend quinze personnes choisies en raison de leurs compétences scientifiques dans le domaine des sciences
+sociales, de l'évaluation, de la qualité et de l'action sociale et médico-sociale.
+
+Le président et les membres du conseil scientifique sont nommés par arrêté du ministre chargé de l'action sociale pour une
+durée de trois ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-442 du 25 mars 2007 - art. 1 () JORF 27 mars 2007
+
 
 ###### Article R312-196
 
