@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2007-03-27
+Version Consolidée au 2007-04-13
 
 # Partie législative
 
@@ -67160,15 +67160,27 @@ coordonnateur.
 Tout établissement hébergeant des personnes âgées dépendantes relevant du I de l'article L. 313-12 doit se doter d'un médecin
 coordonnateur.
 
+Pour les établissements renouvelant la convention pluriannuelle mentionnée au I de l'article L. 313-12 et ceux dont la valeur
+du groupe iso-ressources moyen pondéré est égale ou supérieure à 800 points, le temps de présence du médecin coordonnateur,
+pour sa fonction de coordination, ne peut être inférieur à :
+
+- un équivalent temps plein de 0,20 pour un établissement dont la capacité autorisée est comprise entre 25 et 44 places ;
+
+- un équivalent temps plein de 0,30 pour un établissement dont la capacité autorisée est comprise entre 45 et 59 places ;
+
+- un équivalent temps plein de 0,40 pour un établissement dont la capacité autorisée est comprise entre 60 et 99 places ;
+
+- un équivalent temps plein de 0,50 pour un établissement dont la capacité autorisée est égale ou supérieure à 100 places.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+	  - Décret n°2007-547 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
 
 	**Cité par**:
 
@@ -67257,7 +67269,10 @@ les établissements de santé au titre de la continuité des soins ainsi que sur
 l'établissement, d'une organisation adaptée en cas de risques exceptionnels ;
 
 11° Collabore à la mise en oeuvre de réseaux gérontologiques coordonnés, d'autres formes de coordination prévues à l'article
-L. 312-7 du présent code et de réseaux de santé mentionnés à l'article L. 6321-1 du code de la santé publique.
+L. 312-7 du présent code et de réseaux de santé mentionnés à l'article L. 6321-1 du code de la santé publique ;
+
+12° Identifie les risques éventuels pour la santé publique dans les établissements et veille à la mise en oeuvre de toutes
+mesures utiles à la prévention, la surveillance et la prise en charge de ces risques.
 
 Le médecin coordonnateur ne peut pas exercer la fonction de directeur de l'établissement.
 
@@ -67267,9 +67282,9 @@ Le médecin coordonnateur ne peut pas exercer la fonction de directeur de l'éta
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
+	  - Décret n°2007-547 du 11 avril 2007 - art. 2 () JORF 13 avril 2007
 
 	**Cité par**:
 
