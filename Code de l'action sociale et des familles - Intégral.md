@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2007-04-13
+Version Consolidée au 2007-04-21
 
 # Partie législative
 
@@ -89026,126 +89026,231 @@ l'étudiant sont définis à l'annexe 4-1. Ils font l'objet d'un réexamen annue
 
 ##### Paragraphe 1 : Certificat d'aptitude aux fonctions de directeur d'établissement ou de service d'intervention sociale.
 
-###### Article R451-11
+###### Article D451-11
 
-Le certificat d'aptitude aux fonctions de directeur d'établissement ou de service d'intervention sociale est délivré au nom
-de l'Etat par le directeur de l'Ecole nationale de la santé publique.
-
-Les épreuves sanctionnant le certificat d'aptitude aux fonctions de directeur d'établissement ou de service d'intervention
-sociale sont organisées par l'Ecole nationale de la santé publique, à l'exception du contrôle continu qui relève de
-l'établissement de formation.
-
-Le directeur de l'Ecole nationale de la santé publique désigne le jury de validation dont la composition est fixée par arrêté
-du ministre chargé des affaires sociales.
-
-Le contenu des épreuves, leur déroulement ainsi que les conditions de validation sont définis par arrêté du ministre chargé
-des affaires sociales.
+Le certificat d'aptitude aux fonctions de directeur d'établissement ou de service d'intervention sociale atteste des
+compétences nécessaires pour conduire l'action d'un ou plusieurs établissements ou services du champ de l'action sociale,
+médico-sociale ou sanitaire.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-401 du 25 mars 2002 - art. 5, v. init.
-	  - Décret n°2002-401 du 25 mars 2002 - art. 5 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Créé par**:
 
-###### Article R451-12
+	  - Décret n°2007-577 du 19 avril 2007 - art. 1 () JORF 21 avril 2007
 
-L'admission en formation préparatoire au certificat d'aptitude aux fonctions de directeur d'établissement ou de service
-d'intervention sociale est prononcée au terme d'une procédure de sélection organisée par le directeur régional des affaires
-sanitaires et sociales.
+	**Cité par**:
 
-Les conditions pour se présenter aux sélections pour entrer en formation préparant au certificat d'aptitude aux fonctions de
-directeur d'établissement ou de service d'intervention sociale sont définies par arrêté du ministre chargé des affaires
-sociales.
+	  - Code de l'action sociale et des familles - art. D451-16 (V)
+	  - Code de l'action sociale et des familles - art. R451-2 (V)
+	  - Code de l'éducation - art. D676-1 (V)
 
-Le directeur régional des affaires sanitaires et sociales désigne le jury de sélection dont la composition est fixée par
-arrêté du ministre chargé des affaires sociales. Les épreuves ainsi que le déroulement des sélections sont définis par arrêté
-du ministre chargé des affaires sociales. La durée de validité de la sélection est fixée à cinq ans.
+
+###### Article D451-12
+
+Le certificat d'aptitude aux fonctions de directeur d'établissement ou de service d'intervention sociale est structuré en
+domaines de compétences et peut être obtenu par la voie de la formation ou, en tout ou partie, par la validation des acquis
+de l'expérience.
+
+Il est délivré par le directeur de l'Ecole des hautes études en santé publique au nom de l'Etat.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-401 du 25 mars 2002 - art. 2, v. init.
-	  - Décret n°2002-401 du 25 mars 2002 - art. 2 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Créé par**:
 
-###### Article R451-13
+	  - Décret n°2007-577 du 19 avril 2007 - art. 1 () JORF 21 avril 2007
 
-La formation préparatoire au certificat d'aptitude aux fonctions de directeur d'établissement ou de service d'intervention
-sociale est une formation en alternance. Elle est composée d'une partie théorique et de stages. La durée et le contenu de la
-formation sont définis par arrêté du ministre chargé des affaires sociales.
+
+###### Article D451-13
+
+La formation préparant au certificat d'aptitude aux fonctions de directeur d'établissement ou de service d'intervention
+sociale comprend un enseignement théorique et une formation pratique dispensée au cours de stages. 
+
+Cette formation est dispensée par les établissements publics ou privés ayant satisfait à l'obligation de déclaration
+préalable mentionnée à l'article L. 451-1. 
+
+La durée et le contenu de leur formation peuvent varier en fonction de l'expérience professionnelle et des diplômes possédés
+par les candidats. 
+
+Les candidats sont soumis à des épreuves d'admission, organisées par les établissements de formation selon les modalités
+figurant dans leur règlement d'admission.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-401 du 25 mars 2002 - art. 4, v. init.
-	  - Décret n°2002-401 du 25 mars 2002 - art. 4 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Créé par**:
 
-###### Article R451-14
+	  - Décret n°2007-577 du 19 avril 2007 - art. 1 () JORF 21 avril 2007
 
-Les titulaires du certificat d'aptitude aux fonctions de directeur d'établissement social sont titulaires de droit du
-certificat d'aptitude aux fonctions de directeur d'établissement ou de service d'intervention sociale.
+	**Cité par**:
+
+	  - Arrêté du 5 juin 2007 - art. 2 (V)
+	  - Arrêté du 5 juin 2007 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L451-1 (V)
+
+
+###### Article D451-14
+
+Les épreuves du diplôme comprennent les épreuves organisées en cours de formation conformément au dossier de déclaration
+préalable défini à l'article R. 451-2 en détaillant les modalités et des épreuves organisées par l'Ecole des hautes études en
+santé publique.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-401 du 25 mars 2002 - art. 7, v. init.
-	  - Décret n°2002-401 du 25 mars 2002 - art. 7 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Créé par**:
 
-###### Article R451-15
+	  - Décret n°2007-577 du 19 avril 2007 - art. 1 () JORF 21 avril 2007
 
-L'Ecole nationale de la santé publique est chargée d'une mission générale de garantie de la qualité pédagogique de la
-formation préparant au certificat d'aptitude aux fonctions de directeur d'établissement ou de service d'intervention sociale.
-Elle assure le contrôle pédagogique des établissements dispensant cette formation.
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. R451-2 (V)
+
+
+###### Article D451-14-1
+
+Le directeur de l'Ecole des hautes études en santé publique nomme le jury du diplôme, qui comprend :
+
+1° Le directeur de l'Ecole des hautes études en santé publique ou son représentant, président ;
+
+2° Des formateurs issus des établissements de formation, publics ou privés, préparant au certificat d'aptitude aux fonctions
+de directeur d'établissement ou de service d'intervention sociale ou des enseignants de l'Ecole des hautes études en santé
+publique ;
+
+3° Des représentants de l'Etat désignés par le directeur général de l'action sociale ou des représentants des collectivités
+territoriales ;
+
+4° Des personnes qualifiées ;
+
+5° Pour un quart au moins de ses membres, des représentants qualifiés du secteur professionnel pour moitié employeurs et pour
+moitié salariés.
+
+Ce jury peut, en tant que de besoin, se subdiviser en groupes d'examinateurs.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-401 du 25 mars 2002 - art. 8, v. init.
-	  - Décret n°2002-401 du 25 mars 2002 - art. 8 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Créé par**:
 
-###### Article R451-16
+	  - Décret n°2007-577 du 19 avril 2007 - art. 1 () JORF 21 avril 2007
 
-A titre transitoire, les formations engagées avant le 27 mars 2002 demeurent régies par les dispositions antérieures.
+
+###### Article D451-14-2
+
+Les titulaires du certificat d'aptitude aux fonctions de directeur d'établissement social délivré avant le 31 décembre 2005
+par l'Ecole nationale de la santé publique sont titulaires de droit du certificat d'aptitude aux fonctions de directeur
+d'établissement ou de service d'intervention sociale.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-401 du 25 mars 2002 - art. 6, v. init.
-	  - Décret n°2002-401 du 25 mars 2002 - art. 6 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-577 du 19 avril 2007 - art. 1 () JORF 21 avril 2007
+
+
+###### Article D451-15
+
+L'Ecole des hautes études en santé publique apporte son concours au représentant de l'Etat, à la demande de celui-ci, dans
+l'exercice du contrôle prévu à l'article R. 451-4-2 sur les établissements de formation préparant au certificat d'aptitude
+aux fonctions de directeur d'établissement ou de service d'intervention sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-577 du 19 avril 2007 - art. 1 () JORF 21 avril 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. R451-4-2 (V)
+
+
+###### Article D451-15-1
+
+L'Ecole des hautes études en santé publique anime le réseau des établissements de formation préparant au certificat
+d'aptitude aux fonctions de directeur d'établissement ou de service d'intervention sociale selon des modalités définies par
+convention avec ces établissements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-577 du 19 avril 2007 - art. 1 () JORF 21 avril 2007
+
+	**Cité par**:
+
+	  - Arrêté du 5 juin 2007 - art. 12 (V)
+	  - Arrêté du 5 juin 2007 - art. 9 (V)
+
+
+###### Article D451-15-2
+
+Les établissements de formation préparant au certificat d'aptitude aux fonctions de directeur d'établissement ou de service
+d'intervention sociale s'engagent dans une démarche d'évaluation externe et d'amélioration de la qualité des formations
+qu'ils dispensent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-577 du 19 avril 2007 - art. 1 () JORF 21 avril 2007
+
+
+###### Article D451-16
+
+Un arrêté du ministre chargé des affaires sociales précise les compétences professionnelles mentionnées à l'article D.
+451-11, les modalités d'accès à la formation, le contenu et l'organisation de cette formation ainsi que les modalités de
+certification et de validation des acquis de l'expérience du certificat d'aptitude aux fonctions de directeur d'établissement
+ou de service d'intervention sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-577 du 19 avril 2007 - art. 1 () JORF 21 avril 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D451-11 (V)
 
 
 ##### Paragraphe 2 : Diplôme d'Etat d'ingénierie sociale.
