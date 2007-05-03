@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2007-05-03
+Version Consolidée au 2007-05-04
 
 # Partie législative
 
@@ -39224,6 +39224,38 @@ Le Haut Conseil dispose d'un budget dont les crédits sont inscrits au budget du
 	**Abrogé par**:
 
 	  - Décret n°2008-1112 du 30 octobre 2008 - art. 1
+
+
+#### Chapitre Ier bis : Conseil pour les droits et devoirs des familles
+
+###### Article D141-8
+
+La représentation de l'Etat au conseil pour les droits et devoirs des familles peut être assurée par :
+
+- le préfet ou son représentant ;
+
+- le directeur départemental des affaires sanitaires et sociales ou son représentant ;
+
+- l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, ou son représentant ;
+
+- le directeur départemental de la jeunesse et des sports ou son représentant.
+
+Les représentants des services de l'Etat appelés à participer au conseil pour les droits et devoirs des familles sont
+désignés par le préfet de département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-667 du 2 mai 2007 - art. 1 () JORF 4 mai 2007
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R541-4 (V)
 
 
 #### Chapitre II : Conseil supérieur du travail social
