@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2007-05-04
+Version Consolidée au 2007-05-11
 
 # Partie législative
 
@@ -51064,10 +51064,10 @@ conditions fixées aux articles R. 232-5 et R. 232-6, divisé par 2.
 
 ###### Article D232-20
 
-Le plan d'aide destiné à la personne âgée dépendante qui réside dans un établissement relevant de l'article R. 313-16 est
+Le plan d'aide destiné à la personne âgée dépendante qui réside dans un établissement relevant de l'article D. 313-16 est
 élaboré par l'équipe médico-sociale mentionnée à l'article L. 232-3.
 
-Ce plan d'aide prend en compte les charges afférentes à la dépendance de l'établissement telles que définies à l'article R.
+Ce plan d'aide prend en compte les charges afférentes à la dépendance de l'établissement telles que définies à l'article D.
 232-21 ainsi que les interventions supplémentaires, extérieures à l'établissement, qui sont nécessaires au résident concerné
 et qui ne sont pas assurées par l'établissement.
 
@@ -51077,21 +51077,22 @@ et qui ne sont pas assurées par l'établissement.
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-118 du 10 février 2005 - art. 1 () JORF 13 février 2005
+	  - Décret n°2007-793 2007-05-09 art. 4 I, II JORF 11 mai 2007
+	  - Décret n°2007-793 du 9 mai 2007 - art. 4 () JORF 11 mai 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D232-21 (M)
+	  - Code de l'action sociale et des familles - art. D313-16 (V)
+	  - Code de l'action sociale et des familles - art. L232-3 (M)
 
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. D232-22 (VD)
 	  - Code de l'action sociale et des familles - art. D313-17 (V)
 	  - Code de l'action sociale et des familles - art. D313-22 (V)
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L232-3 (M)
-	  - Code de l'action sociale et des familles - art. R232-21 (T)
-	  - Code de l'action sociale et des familles - art. R313-16 (T)
 
 	**Anciens textes**:
 
@@ -51100,32 +51101,32 @@ et qui ne sont pas assurées par l'établissement.
 
 ###### Article D232-21
 
-I. - Les charges afférentes à la dépendance dans les établissements relevant de l'article R. 313-16 sont :
+I.-Les charges afférentes à la dépendance dans les établissements relevant de l'article D. 313-16 sont : 
 
 1° a) La rémunération et les charges sociales et fiscales y afférentes des auxiliaires de vie et des auxiliaires de
-gériatrie, des psychologues, des maîtresses de maison ainsi que des aides-soignants et des aides médico-psychologiques ;
+gériatrie, des psychologues, des maîtresses de maison ainsi que des aides-soignants et des aides médico-psychologiques ; 
 
 b) Par dérogation au a ci-dessus, dans les structures mentionnées à l'article D. 313-20, la rémunération et les charges
 sociales et fiscales y afférentes des auxiliaires de vie et des auxiliaires de gériatrie, des psychologues, des maîtresses de
 maison, 30 % du forfait journalier de frais de transport fixé par décision des ministres chargés des personnes âgées et de la
 sécurité sociale ainsi que 30 % de la rémunération et des charges sociales et fiscales y afférentes des aides-soignants et
-des aides médico-psychologiques ;
+des aides médico-psychologiques ; 
 
-2° 30 % des rémunérations et les charges sociales et fiscales y afférentes des agents de service et des veilleurs de nuit ;
+2° 30 % des rémunérations et les charges sociales et fiscales y afférentes des agents de service et des veilleurs de nuit ; 
 
-3° Les couches, alèses et produits absorbants.
+3° Les couches, alèses et produits absorbants. 
 
 Les tarifs afférents à la dépendance sont calculés, d'une part, en prenant en compte le niveau de dépendance de chaque
-résident de l'établissement, et, d'autre part, en appliquant aux charges définies aux 1° , 2° et 3° les formules de calcul
-précisées au b et au c de l'annexe 3-1.
+résident de l'établissement, et, d'autre part, en appliquant aux charges définies aux 1°, 2° et 3° les formules de calcul
+précisées au b et au c de l'annexe 3-1. 
 
 Le tarif journalier afférent à la dépendance applicable au résident est pris en compte dans le cadre du plan d'aide défini au
-deuxième alinéa de l'article R. 232-20. Le résident s'en acquitte auprès de l'établissement.
+deuxième alinéa de l'article D. 232-20. Le résident s'en acquitte auprès de l'établissement. 
 
-II. - Dans les établissements habilités au titre de l'aide sociale, le tarif journalier afférent à l'hébergement est calculé
-en prenant en compte l'ensemble des charges nettes de l'établissement, d'une part, minorées ou majorées, le cas échéant, par
+II.-Dans les établissements habilités au titre de l'aide sociale, le tarif journalier afférent à l'hébergement est calculé en
+prenant en compte l'ensemble des charges nettes de l'établissement, d'une part, minorées ou majorées, le cas échéant, par
 l'incorporation des résultats des exercices antérieurs et, d'autre part, minorées des tarifs journaliers afférents à la
-dépendance définis au I.
+dépendance définis au I. 
 
 Le tarif journalier afférent à l'hébergement peut être modulé en application de l'article R. 314-183.
 
@@ -51135,22 +51136,22 @@ Le tarif journalier afférent à l'hébergement peut être modulé en applicatio
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-661 du 30 avril 2007 - art. 1 () JORF 3 mai 2007
+	  - Décret n°2007-793 2007-05-09 art. 4 III, IV JORF 11 mai 2007
+	  - Décret n°2007-793 du 9 mai 2007 - art. 4 () JORF 11 mai 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. Annexe 3-1 (V)
+	  - Code de l'action sociale et des familles - art. D313-16 (V)
+	  - Code de l'action sociale et des familles - art. D313-20 (V)
+	  - Code de l'action sociale et des familles - art. R314-183 (V)
 
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. D232-20 (V)
 	  - Code de l'action sociale et des familles - art. D232-22 (V)
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. D313-20 (M)
-	  - Code de l'action sociale et des familles - art. R232-20 (T)
-	  - Code de l'action sociale et des familles - art. R313-16 (T)
-	  - Code de l'action sociale et des familles - art. R314-183 (M)
-	  - Code de l'action sociale et des familles R313-16, D313-20, annexe 3-1, R232-20, R314-183
 
 	**Anciens textes**:
 
@@ -51159,7 +51160,7 @@ Le tarif journalier afférent à l'hébergement peut être modulé en applicatio
 
 ###### Article D232-22
 
-Les dispositions des articles R. 232-20 et R. 232-21 sont applicables aux établissements dont la valeur correspondant à la
+Les dispositions des articles D. 232-20 et D. 232-21 sont applicables aux établissements dont la valeur correspondant à la
 dépendance moyenne des personnes accueillies en établissement dont le groupe " iso-ressources " (GIR moyen pondéré), tel que
 défini à l'article susvisé R. 314-171, est inférieur à 300. Les modalités de la prise en charge médicale des résidents
 doivent être précisées dans le règlement de fonctionnement mentionné à l'article L. 311-7.
@@ -51170,15 +51171,15 @@ doivent être précisées dans le règlement de fonctionnement mentionné à l'a
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-118 du 10 février 2005 - art. 1 () JORF 13 février 2005
+	  - Décret n°2007-793 du 9 mai 2007 - art. 4 () JORF 11 mai 2007
 
 	**Cite**:
 
+	  - Code de l'action sociale et des familles - art. D232-20 (M)
+	  - Code de l'action sociale et des familles - art. D232-21 (M)
 	  - Code de l'action sociale et des familles - art. L311-7 (V)
-	  - Code de l'action sociale et des familles - art. R232-20 (T)
-	  - Code de l'action sociale et des familles - art. R232-21 (T)
 
 	**Anciens textes**:
 
@@ -61946,8 +61947,8 @@ relationnels, auprès :
 312-1 ou présentant une affection mentionnée aux 3° et 4° de l'article L. 322-3 du code de la sécurité sociale.
 
 Ces services interviennent à domicile ou dans les établissements non médicalisés pour personnes âgées et pour personnes
-adultes handicapées mentionnés aux 6° et 7° du I de l'article L. 312-1 et dans les établissements mentionnés aux II et III de
-l'article L. 313-12.
+adultes handicapées mentionnés aux 6° et 7° du I de l'article L. 312-1 et dans les établissements mentionnés aux I bis, II et
+III de l'article L. 313-12.
 
 **Liens relatifs à cet article**
 
@@ -61957,7 +61958,7 @@ l'article L. 313-12.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 3 () JORF 10 septembre 2005
+	  - Décret n°2007-793 du 9 mai 2007 - art. 4 () JORF 11 mai 2007
 
 	**Cité par**:
 
@@ -70711,6 +70712,138 @@ président du conseil général et l'autorité compétente de l'Etat.
 	**Anciens textes**:
 
 	  - Code de l'action sociale et des familles - art. R313-15 (T)
+
+
+##### Sous-section 1 bis : Modalités de tarification des établissements mentionnés au I bis de l'article L. 313-12.
+
+###### Article D313-15-1
+
+Les établissements mentionnés au premier alinéa du I bis de l'article L. 313-12 dont le nombre de résidents classés, en
+application de l'article R. 314-171 et de l'annexe 3-6, dans les groupes GIR 1 et 2 ne dépasse pas 10 % de la capacité
+autorisée de l'établissement peuvent déroger à l'obligation de passer convention avec le président du conseil général et
+l'autorité compétente de l'Etat mentionnée au I de l'article L. 313-12.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-793 du 9 mai 2007 - art. 1 () JORF 11 mai 2007
+
+	**Cité par**:
+
+	  - Décret n°2007-793 du 9 mai 2007 - art. 2 (VD)
+	  - Code de l'action sociale et des familles - art. D313-15-2 (V)
+	  - Code de l'action sociale et des familles - art. D313-15-4 (V)
+	  - Code de l'action sociale et des familles - art. R543-1 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2016-696 du 27 mai 2016 - art. 6
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. Annexe 3-6 (V)
+	  - Code de l'action sociale et des familles - art. L313-12 (V)
+	  - Code de l'action sociale et des familles - art. R314-171 (V)
+
+
+###### Article D313-15-2
+
+Les établissements mentionnés à l'article D. 313-15-1 peuvent opter pour que la convention pluriannuelle mentionnée au I de
+l'article L. 313-12 ne porte que sur la capacité d'accueil correspondant à l'hébergement des résidents dont le niveau de
+dépendance emporte classement dans les groupes GIR 1 à 4.
+
+La capacité d'accueil soumise à la convention pluriannuelle mentionnée au I de l'article L. 313-12 doit être installée dans
+un bâtiment distinct ou dans un corps de bâtiment de l'immeuble ou dans des locaux constitués en unités de vie autonomes.
+
+Dans le cas où un établissement choisit le conventionnement partiel, il doit fournir chaque année à la caisse pivot et, sur
+leur demande, aux autres organismes d'assurance maladie la liste des personnes âgées dont le niveau de dépendance emporte
+classement dans les groupes GIR 1 à 4 ainsi que leurs nom et prénom, leur numéro d'inscription au répertoire national
+d'identification des personnes physiques et le nom de l'organisme de prise en charge, assorti du numéro du centre de
+paiement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-793 du 9 mai 2007 - art. 1 () JORF 11 mai 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D313-15-1 (V)
+	  - Code de l'action sociale et des familles - art. L313-12 (M)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D313-15-4 (V)
+
+
+###### Article D313-15-3
+
+Les établissements mentionnés au troisième alinéa du I bis de l'article L. 313-12 ne peuvent admettre de nouveaux résidents
+dont le niveau de dépendance emporte un classement dans les groupes GIR 1 à 4 au-delà de la capacité d'accueil soumise à la
+convention pluriannuelle mentionnée au I de l'article L. 313-12.
+
+Sous réserve de la capacité d'accueil soumise à la convention pluriannuelle, l'établissement propose à ceux des résidents
+admis postérieurement à la date de publication du présent décret dont l'évolution du niveau de dépendance entraîne un
+classement dans les groupes GIR 1 à 3 un relogement dans un établissement mentionné aux I et II de l'article L. 313-12 dans
+un délai d'un an.
+
+Les modalités et conditions du relogement mentionné au précédent alinéa sont précisées dans les contrats, titres d'occupation
+et contrats de séjour conclus en application des articles L. 311-4 du code de l'action sociale et des familles et L. 633-2 du
+code de la construction et de l'habitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-793 du 9 mai 2007 - art. 1 () JORF 11 mai 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L311-4 (M)
+	  - Code de l'action sociale et des familles - art. L313-12 (M)
+
+
+###### Article D313-15-4
+
+Les dispositions de l'article R. 314-170 relatives au classement des résidents selon leur niveau de dépendance s'appliquent
+aux établissements mentionnés aux articles D. 313-15-1 et D. 313-15-2 selon les modalités suivantes :
+
+1° Ce classement est réalisé par l'équipe médico-sociale mentionnée à l'article R. 232-7. Il est communiqué, à leur demande,
+au préfet et au président du conseil général.
+
+2° Sa révision est opérée tous les ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-793 du 9 mai 2007 - art. 1 () JORF 11 mai 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D313-15-1 (V)
+	  - Code de l'action sociale et des familles - art. D313-15-2 (V)
+	  - Code de l'action sociale et des familles - art. L313-12 (M)
+	  - Code de l'action sociale et des familles - art. R232-7 (V)
+	  - Code de l'action sociale et des familles - art. R314-170 (V)
 
 
 ##### Sous-section 2 : Modalités de tarification des établissements mentionnés au II de l'article L. 313-12.
