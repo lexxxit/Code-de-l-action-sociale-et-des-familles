@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2007-05-11
+Version Consolidée au 2007-05-12
 
 # Partie législative
 
@@ -43443,20 +43443,23 @@ personnes handicapées, des collectivités territoriales et du budget. Il ne peu
 ###### Article R14-10-34
 
 Le concours mentionné au III de l'article L. 14-10-5 versé pour l'installation ou le fonctionnement des maisons
-départementales des personnes handicapées est réparti entre les départements selon la formule suivante :
+départementales des personnes handicapées est réparti entre les départements selon la formule suivante : 
 
-Fd = (PAAd/ PAAd) x 120 % - (PFd/ PFd) x 20 %,
+Formule non reproduite (consulter le fac-similé) 
 
-dans laquelle :
+dans laquelle : 
 
-a) Fd représente la fraction attribuée à un département ;
+a) Fd représente la fraction attribuée à un département ; 
 
-b) PAAd représente le nombre de personnes adultes du département dont l'âge est inférieur à la limite fixée en application du
+b) Fx représente une dotation dont le montant, identique pour chaque département, est fixé par le conseil de la Caisse
+nationale de solidarité pour l'autonomie ; 
+
+c) PAAd représente le nombre de personnes adultes du département dont l'âge est inférieur à la limite fixée en application du
 I de l'article L. 245-1 tel qu'il figure dans les statistiques démographiques annuelles départementales produites par
 l'Institut national de la statistique et des études économiques disponibles au 31 décembre de l'année au titre de laquelle la
-répartition est effectuée ;
+répartition est effectuée ; 
 
-c) PFd représente, pour ce département, le potentiel fiscal de l'année au titre de laquelle la répartition est effectuée, tel
+d) PFd représente, pour ce département, le potentiel fiscal de l'année au titre de laquelle la répartition est effectuée, tel
 que défini à l'article L. 3334-6 du code général des collectivités territoriales.
 
 **Liens relatifs à cet article**
@@ -43467,13 +43470,13 @@ que défini à l'article L. 3334-6 du code général des collectivités territor
 
 	**Modifié par**:
 
-	  - Décret n°2006-1816 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+	  - Décret n°2007-828 du 11 mai 2007 - art. 1 () JORF 12 mai 2007
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L3334-6 (M)
-	  - Code de l'action sociale et des familles - art. L14-10-5 (M)
-	  - Code de l'action sociale et des familles - art. L245-1 (M)
+	  - Code général des collectivités territoriales - art. L3334-6 (V)
+	  - Code de l'action sociale et des familles - art. L14-10-5 (V)
+	  - Code de l'action sociale et des familles - art. L245-1 (V)
 
 	**Cité par**:
 
@@ -43522,11 +43525,11 @@ utilisant les données départementales disponibles au 31 décembre de l'année 
 A l'issue de l'exercice, chaque département communique à la Caisse nationale de solidarité pour l'autonomie, au plus tard le
 15 février, les documents suivants :
 
-pour la prestation de compensation, un état récapitulatif visé par le comptable du département du chapitre individualisé
-relatif à la dépense de prestation de compensation ; cet état fait apparaître, par article budgétaire, pour l'exercice clos,
-les montants des mandats et des titres émis, diminués des mandats et titres d'annulation, ainsi que le nombre de
-bénéficiaires de la prestation de compensation et le nombre de bénéficiaires de l'allocation compensatrice arrêtés au 31
-décembre de l'année au titre de laquelle la répartition est effectuée ;
+pour la prestation de compensation, un état récapitulatif visé par le comptable du département des comptes relatifs aux
+dépenses de prestation de compensation d'une part, et de l'allocation compensatrice d'autre part ; cet état fait apparaître,
+par article budgétaire, pour l'exercice clos, les montants des mandats et des titres émis, diminués des mandats et titres
+d'annulation, ainsi que le nombre de bénéficiaires de la prestation de compensation et le nombre de bénéficiaires de
+l'allocation compensatrice arrêtés au 31 décembre de l'année au titre de laquelle la répartition est effectuée ;
 
 pour les sommes destinées à l'installation ou au fonctionnement des maisons départementales, les éléments sont définis dans
 les conventions conclues en application du dernier alinéa du I de l'article L. 14-10-7.
@@ -43542,7 +43545,7 @@ de sa mission de versement des concours.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1816 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+	  - Décret n°2007-828 du 11 mai 2007 - art. 1 () JORF 12 mai 2007
 
 	**Cité par**:
 
@@ -43941,19 +43944,19 @@ le cadre de conventions conclues avec un établissement public ou la Caisse des 
 	  - Code de l'action sociale et des familles - art. R14-10-22 (VD)
 
 
-##### Sous-section 2 : Modernisation des services d'aide à domicile, promotion des actions innovantes et professionnalisation des métiers de service concernant les personnes âgées.
+##### Sous-section 2 : Modernisation des services d'aide à domicile, promotion des actions innovantes et professionnalisation des métiers de service concernant les personnes âgées et les personnes handicapées
 
 ###### Article R14-10-49
 
-Les dépenses mentionnées au b du IV de l'article L. 14-10-5 sont :
+I. - Les dépenses mentionnées au b du 1 du IV de l'article L. 14-10-5 sont :
 
 1° Les dépenses de modernisation des services gérés par :
 
 a) Les associations d'aide à domicile ou les entreprises ayant obtenu l'autorisation prévue à l'article L. 313-1 ou
-l'agrément prévu au premier alinéa du I de l'article L. 129-1 du code du travail ;
+l'agrément prévu au premier alinéa de l'article L. 129-1 du code du travail ;
 
-b) Les centres communaux ou intercommunaux d'action sociale, les communes ou les établissements publics de coopération
-intercommunale ;
+b) Les personnes morales mentionnées au troisième alinéa de l'article L. 129-1 du code du travail, qui ont obtenu l'agrément
+prévu au premier alinéa du même article ;
 
 2° Les dépenses assurant la promotion d'actions innovantes permettant de faciliter le maintien à domicile des personnes âgées
 dépendantes, notamment par la création de structures d'accueil à temps partiel ;
@@ -43977,6 +43980,37 @@ diplôme d'Etat d'aide médico-psychologique des personnels des établissements 
 aux I, I bis et II de l'article L. 313-12, des services de soins infirmiers à domicile et des services polyvalents d'aide et
 de soins à domicile.
 
+II. - Les dépenses mentionnées au b du 2 du IV de l'article L. 14-10-5 sont :
+
+1° Les dépenses de modernisation des services gérés par :
+
+a) Les associations d'aide à domicile ou les entreprises ayant obtenu l'autorisation prévue à l'article L. 313-1 ou
+l'agrément prévu au premier alinéa de l'article L. 129-1 du code du travail ;
+
+b) Les personnes morales mentionnées au troisième alinéa de l'article L. 129-1 du code du travail qui ont obtenu l'agrément
+prévu au premier alinéa du même article ;
+
+2° Les dépenses assurant la promotion d'actions innovantes permettant de faciliter le maintien à domicile des personnes
+handicapées ;
+
+3° Les dépenses relatives aux formations d'adaptation à l'emploi et de mise à jour des connaissances professionnelles :
+
+a) Des personnels de l'aide à domicile des organismes mentionnés au 1° ;
+
+b) Résultant d'actions mises en oeuvre par les organisations professionnelles des particuliers qui emploient sans but
+lucratif des salariés à domicile ;
+
+4° Les dépenses relatives à la qualification :
+
+a) Des personnels de l'aide à domicile des organismes mentionnés au 1° ;
+
+b)  Résultant d'actions mises en oeuvre par des organisations professionnelles des particuliers qui emploient sans but
+lucratif des salariés à domicile ;
+
+5° Les dépenses de qualification des personnels des établissements et services qui accueillent des personnes handicapées,
+préparant notamment au diplôme d'Etat d'infirmier, au diplôme professionnel d'aide-soignant et au diplôme d'Etat d'aide
+médico-psychologique.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -43985,7 +44019,7 @@ de soins à domicile.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1816 du 23 décembre 2006 - art. 3 () JORF 31 décembre 2006
+	  - Décret n°2007-828 du 11 mai 2007 - art. 1 () JORF 12 mai 2007
 
 	**Cite**:
 
@@ -44003,9 +44037,9 @@ de soins à domicile.
 
 ###### Article R14-10-50
 
-Les dépenses mentionnées au b du IV de l'article L. 14-10-5 sont des dépenses à caractère non permanent. Elles peuvent faire
-l'objet d'une programmation pluriannuelle. En matière de formation professionnelle, elles ne peuvent se substituer aux
-dépenses que les employeurs sont tenus d'engager au titre de leurs obligations légales et conventionnelles.
+Les dépenses mentionnées au b du 1 et du 2 du IV de l'article L. 14-10-5 sont des dépenses à caractère non permanent. Elles
+peuvent faire l'objet d'une programmation pluriannuelle. En matière de formation professionnelle, elles ne peuvent se
+substituer aux dépenses que les employeurs sont tenus d'engager au titre de leurs obligations légales et conventionnelles.
 
 **Liens relatifs à cet article**
 
@@ -44015,7 +44049,7 @@ dépenses que les employeurs sont tenus d'engager au titre de leurs obligations 
 
 	**Modifié par**:
 
-	  - Décret n°2006-1816 du 23 décembre 2006 - art. 3 () JORF 31 décembre 2006
+	  - Décret n°2007-828 du 11 mai 2007 - art. 1 () JORF 12 mai 2007
 
 	**Cite**:
 
@@ -44029,18 +44063,20 @@ dépenses que les employeurs sont tenus d'engager au titre de leurs obligations 
 
 ###### Article R14-10-51
 
-I. - Les projets relatifs aux actions mentionnées aux 1°, 2° et 3° de l'article R. 14-10-49 sont agréés par le ministre
-chargé des personnes âgées ou par le préfet de département du lieu d'implantation de l'organisme.
+I. - Les projets relatifs aux actions mentionnées aux 1°, 2° et 3° du I et du II de l'article R. 14-10-49 sont agréés par les
+ministres chargés des personnes âgées et des personnes handicapées ou par le préfet de département du lieu d'implantation de
+l'organisme.
 
-II. - Les projets relatifs aux actions mentionnées au 4° et au 5° de l'article R. 14-10-49 sont agréés par le ministre chargé
-des personnes âgées ou par le préfet de région du lieu d'implantation de l'organisme.
+II. - Les projets relatifs aux actions mentionnées au 4° et au 5° du I et du II de l'article R. 14-10-49 sont agréés par les
+ministres chargés des personnes âgées ou des personnes handicapées ou par le préfet de région du lieu d'implantation de
+l'organisme.
 
 III. - Les projets mentionnés au I et au II sont transmis par l'autorité administrative qui les a agréés à la Caisse
 nationale de solidarité pour l'autonomie. Cette dernière assure leur financement dans la limite des crédits disponibles.
 
 IV. - Les projets qui engagent une subvention de la Caisse nationale de solidarité pour l'autonomie d'un montant au moins
-égal à 5 % du montant des ressources annuelles mentionnées au a du IV de l'article L. 14-10-5 font l'objet, avant leur
-agrément, dans un délai d'un mois, d'un avis de la Caisse nationale de solidarité pour l'autonomie.
+égal à 5 % du montant des ressources annuelles mentionnées aux a du 1 et du 2 du IV de l'article L. 14-10-5 font l'objet,
+avant leur agrément, dans un délai d'un mois, d'un avis de la Caisse nationale de solidarité pour l'autonomie.
 
 **Liens relatifs à cet article**
 
@@ -44050,7 +44086,7 @@ agrément, dans un délai d'un mois, d'un avis de la Caisse nationale de solidar
 
 	**Modifié par**:
 
-	  - Décret n°2006-1816 du 23 décembre 2006 - art. 3 () JORF 31 décembre 2006
+	  - Décret n°2007-828 du 11 mai 2007 - art. 1 () JORF 12 mai 2007
 
 	**Cite**:
 
@@ -44065,12 +44101,12 @@ agrément, dans un délai d'un mois, d'un avis de la Caisse nationale de solidar
 ###### Article R14-10-52
 
 La demande d'agrément des projets mentionnés aux I et II de l'article R. 14-10-51 est établie sur un formulaire dont le
-modèle est fixé par le ministre chargé des personnes âgées.
+modèle est fixé par les ministres chargés des personnes âgées et des personnes handicapées.
 
 La demande est adressée, pour les actions à caractère local, soit au préfet du département du lieu d'implantation de
 l'organisme demandeur pour les actions mentionnées au I de l'article R. 14-10-51, soit au préfet de la région du lieu
 d'implantation de l'organisme demandeur pour les actions mentionnées au II de l'article R. 14-10-51. Pour les actions à
-caractère national, la demande est adressée au ministre chargé des personnes âgées.
+caractère national, la demande est adressée aux ministres chargés des personnes âgées et des personnes handicapées.
 
 Ces autorités disposent d'un délai de trois semaines pour en accuser réception ou, si la demande est incomplète, pour
 indiquer, dans les conditions prévues par le décret n° 2001-492 du 6 juin 2001 pris pour l'application du chapitre II du
@@ -44098,7 +44134,7 @@ subvention à verser par la Caisse nationale de solidarité pour l'autonomie.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1816 du 23 décembre 2006 - art. 3 () JORF 31 décembre 2006
+	  - Décret n°2007-828 du 11 mai 2007 - art. 1 () JORF 12 mai 2007
 
 
 ##### Section 7 : Conventions entre la Caisse nationale de solidarité pour l'autonomie et les organismes d'assurance maladie vieillesse
@@ -50866,17 +50902,7 @@ non géré par un centre communal ou intercommunal d'action sociale, soit à une
 qui ne justifie pas d'une expérience acquise ou d'un niveau de qualification définis par arrêté du ministre chargé des
 personnes âgées.
 
-Cet arrêté prévoit les conditions particulières applicables pendant une période transitoire de cinq ans à compter de l'entrée
-en vigueur de la loi n° 2001-647 du 20 juillet 2001 relative à la prise en charge de la perte d'autonomie des personnes âgées
-et à l'allocation personnalisée d'autonomie, notamment en ce qui concerne, d'une part, les modalités de validation de
-l'expérience acquise, d'autre part, les règles d'équivalence retenues en matière de diplôme.
-
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°2001-647 2001-07-20
-	  - Code du travail - art. L129-1 (M)
 
 	**Anciens textes**:
 
@@ -50884,7 +50910,19 @@ l'expérience acquise, d'autre part, les règles d'équivalence retenues en mati
 
 	**Codifié par**:
 
-	  - Décret n°2004-1136 2004-10-21
+	  - Décret n°2004-1136 du 21 octobre 2004
+
+	**Modifié par**:
+
+	  - Décret n°2007-828 du 11 mai 2007 - art. 3 () JORF 12 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2016-210 du 26 février 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du travail - art. L129-1
 
 
 ##### Paragraphe 4 : Contrôle d'effectivité et suspension de l'aide
@@ -51601,89 +51639,20 @@ centième du montant annuel des prestations minimales de vieillesse, arrondi à 
 
 ##### Sous-section 4 : Dispositions diverses
 
-##### Paragraphe 1 : Le comité scientifique.
-
-###### Article D232-36
-
-Le comité scientifique mentionné à l'article 17 de la loi n° 2001-647 du 20 juillet 2001 relative à la prise en charge de la
-perte d'autonomie des personnes âgées et à l'allocation personnalisée d'autonomie a pour mission d'adapter des outils
-d'évaluation de l'autonomie :
-
-1° En dressant un bilan de l'utilisation de la grille nationale mentionnée à l'article L. 232-2 ;
-
-2° En proposant des adaptations à la grille précitée pour la compléter par des données sur l'environnement physique et social
-des personnes en perte d'autonomie, de manière à définir les mesures d'accompagnement et les aides techniques nécessaires aux
-personnes présentant une détérioration intellectuelle ou des troubles psychiques ou des déficiences sensorielles ;
-
-3° En conduisant une réflexion pour harmoniser les modalités d'évaluation de la perte d'autonomie et les modalités de sa
-compensation pour les personnes âgées de plus de soixante ans et pour les personnes handicapées.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°2001-647 du 20 juillet 2001 - art. 17 (V)
-	  - Code de l'action sociale et des familles - art. L232-2 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°2001-1087 du 20 novembre 2001 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
-
-	  - Décret n°2007-828 du 11 mai 2007 - art. 3 () JORF 12 mai 2007
-
-
-###### Article D232-37
-
-Le comité scientifique précité comprend quinze membres choisis en raison de leur connaissance des outils et des procédures
-d'évaluation de la perte d'autonomie et du handicap, dont trois personnes appartenant aux équipes médico-sociales
-départementales désignées sur proposition de l'Assemblée des départements de France.
-
-Les membres du comité scientifique sont nommés pour une durée de deux ans par arrêté du ministre chargé des affaires sociales
-et du ministre chargé des personnes âgées. Son président est choisi parmi les membres dudit comité.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2001-1087 du 20 novembre 2001 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
-
-	  - Décret n°2007-828 du 11 mai 2007 - art. 3 () JORF 12 mai 2007
-
-
 ##### Paragraphe 2 : Système d'information
 
 ###### Article R232-38
 
-Un arrêté ministériel fixe la liste et la périodicité de transmission des données statistiques relatives aux demandeurs, aux
-bénéficiaires et aux montants mensuels moyens d'allocation personnalisée d'autonomie, aux équipes médico-sociales et aux
-dispositifs conventionnels mentionnés à l'article L. 232-13.
+Un arrêté des ministres chargés des personnes âgées et des collectivités territoriales fixe la liste et les modalités de
+transmission par chaque département au service statistique du ministère chargé de l'action sociale des données statistiques
+agrégées mentionnées au troisième alinéa de l'article L. 232-17 et relatives aux demandes, à leur instruction, aux décisions,
+aux recours, aux bénéficiaires, aux montants d'allocation personnalisée d'autonomie versés, aux équipes médico-sociales
+mentionnées à l'article L. 232-3 et aux dispositifs conventionnels mentionnés à l'article L. 232-13. 
 
-Ces données sont communiquées au ministère chargé de l'action sociale pour le compte du fonds de financement de l'allocation
-personnalisée d'autonomie par les départements, sous forme de statistiques agrégées conformément aux dispositions de
-l'article 40-12 de la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés.
-
-Elles alimentent le système d'information mentionné à l'article L. 232-17. Une convention entre l'Etat et le fonds de
-financement précise les modalités de leur diffusion, notamment auprès des départements.
+Les résultats de l'exploitation des informations recueillies sont transmis aux départements et font l'objet de publications
+régulières.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°78-17 du 6 janvier 1978 - art. 40-12 (T)
-	  - Code de l'action sociale et des familles - art. L232-13 (M)
-	  - Code de l'action sociale et des familles - art. L232-17 (M)
 
 	**Anciens textes**:
 
@@ -51691,7 +51660,20 @@ financement précise les modalités de leur diffusion, notamment auprès des dé
 
 	**Codifié par**:
 
-	  - Décret n°2004-1136 2004-10-21
+	  - Décret n°2004-1136 du 21 octobre 2004
+
+	**Modifié par**:
+
+	  - Décret n°2007-828 du 11 mai 2007 - art. 3 () JORF 12 mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2017-344 du 16 mars 2017 - art. 2
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L232-17
+	  - Code de l'action sociale et des familles - art. L232-3
 
 
 ##### Paragraphe 3 : Agrément des organismes pour l'élection de domicile.
@@ -51726,423 +51708,6 @@ Un organisme au moins doit être agréé dans chaque département.
 
 
 ##### Section 3 : Financement de l'allocation personnalisée d'autonomie
-
-##### Sous-section 1 : Organisation et gestion du fonds de financement de l'allocation personnalisée d'autonomie.
-
-###### Article R232-40
-
-Le fonds de financement de l'allocation personnalisée d'autonomie mentionné à l'article L. 232-21 est placé sous la tutelle
-du ministre chargé de la sécurité sociale, du ministre chargé des personnes âgées, du ministre chargé des collectivités
-territoriales et du ministre chargé du budget.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2001-1084 2001-11-20 art. 11, I
-	  - Décret n°2001-1084 du 20 novembre 2001 - art. 11 (M)
-	  - Décret n°2001-1084 du 20 novembre 2001 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
-
-	  - Décret n°2007-828 du 11 mai 2007 - art. 3 () JORF 12 mai 2007
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L232-21 (M)
-
-
-###### Article R232-41
-
-Le conseil d'administration du fonds de financement de l'allocation personnalisée d'autonomie comprend sept membres :
-
-1° Un président nommé par décret pour une durée de trois ans renouvelable ;
-
-2° Le directeur général des collectivités locales, le directeur de la sécurité sociale, le directeur du budget, le directeur
-général de la comptabilité publique, le directeur général de l'action sociale et le sous-directeur compétent à la direction
-générale de l'action sociale, ou leur représentant.
-
-Les fonctions de membre du conseil d'administration sont exercées à titre gratuit. Elles ouvrent droit aux indemnités et
-frais de déplacement et de séjour dans les conditions prévues par le décret n° 90-437 du 28 mai 1990 modifié fixant les
-conditions et les modalités de règlement des frais occasionnés par les déplacements des personnels civils sur le territoire
-métropolitain de la France lorsqu'ils sont à la charge des budgets de l'Etat, des établissements publics nationaux à
-caractère administratif et certains organismes subventionnés.
-
-**Nota:**
-
-Décret 2006-781 2006-07-03 art. 12 X : Dans tous les textes où il est fait mention, pour les déplacements temporaires, des
-décrets des 12 mars 1986,12 avril 1989,28 mai 1990 et 22 septembre 1998, ces références sont remplacées par celle du présent
-décret à compter du 1er novembre 2006.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°90-437 1990-05-28
-
-	**Anciens textes**:
-
-	  - Décret n°2001-1084 2001-11-20 art. 11, II
-	  - Décret n°2001-1084 du 20 novembre 2001 - art. 11 (M)
-	  - Décret n°2001-1084 du 20 novembre 2001 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
-
-	  - Décret n°2007-828 du 11 mai 2007 - art. 3 () JORF 12 mai 2007
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. R232-46 (Ab)
-
-
-###### Article R232-42
-
-Le conseil d'administration se réunit au moins deux fois par an sur convocation de son président. La convocation est de droit
-lorsqu'elle est demandée par l'un des ministres chargés de la tutelle de l'établissement.
-
-Les délibérations du conseil d'administration sont adoptées à la majorité simple des membres présents.
-
-En cas de partage égal des voix au sein du conseil d'administration, la voix du président est prépondérante.
-
-Le directeur, le membre du corps du contrôle général économique et financier et l'agent comptable assistent avec voix
-consultative aux délibérations du conseil.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2001-1084 2001-11-20 art. 11, III
-	  - Décret n°2001-1084 du 20 novembre 2001 - art. 11 (M)
-	  - Décret n°2001-1084 du 20 novembre 2001 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Modifié par**:
-
-	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2007-828 du 11 mai 2007 - art. 3 () JORF 12 mai 2007
-
-
-###### Article R232-43
-
-Le conseil d'administration a pour rôle :
-
-1° D'adopter le budget du fonds de financement de l'allocation personnalisée d'autonomie ;
-
-2° D'approuver le compte financier et le rapport annuel d'activité ;
-
-3° D'établir et de transmettre au Parlement et au Gouvernement, au plus tard le 15 octobre, le rapport présentant les comptes
-prévisionnels pour l'année en cours et l'année suivante prévu à l'article L. 232-21 ;
-
-4° D'accepter les dons et legs ;
-
-5° D'autoriser le directeur à passer les conventions prévues à l'article R. 232-55, qui lui sont soumises par celui-ci.
-
-6° D'autoriser le directeur à souscrire l'emprunt mentionné au III de l'article L. 232-21.
-
-Le conseil d'administration est destinataire du rapport du conseil de surveillance mentionné au troisième alinéa de l'article
-R. 232-47. Il peut consulter le conseil de surveillance sur toute question.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2001-1084 2001-11-20 art. 11, IV
-	  - Décret n°2001-1084 du 20 novembre 2001 - art. 11 (M)
-	  - Décret n°2001-1084 du 20 novembre 2001 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
-
-	  - Décret n°2007-828 du 11 mai 2007 - art. 3 () JORF 12 mai 2007
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L232-21 (M)
-	  - Code de l'action sociale et des familles - art. R232-55 (V)
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. R232-47 (Ab)
-
-
-###### Article R232-44
-
-Les décisions du conseil d'administration sont exécutoires dans les conditions prévues par le décret n° 99-575 du 8 juillet
-1999 relatif aux modalités d'approbation de certaines décisions financières.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°99-575 1999-07-08
-
-	**Anciens textes**:
-
-	  - Décret n°2001-1084 2001-11-20 art. 11, V
-	  - Décret n°2001-1084 du 20 novembre 2001 - art. 11 (M)
-	  - Décret n°2001-1084 du 20 novembre 2001 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
-
-	  - Décret n°2007-828 du 11 mai 2007 - art. 3 () JORF 12 mai 2007
-
-
-###### Article R232-45
-
-Le conseil de surveillance est composé de quinze membres. Il comprend :
-
-1° Deux membres de l'Assemblée nationale désignés par son président pour trois ans ;
-
-2° Deux membres du Sénat désignés par son président pour trois ans ;
-
-3° Quatre représentants de l'Assemblée des départements de France désignés par son président pour trois ans ;
-
-4° Deux représentants des régimes obligatoires de base d'assurance vieillesse :
-
-a) Le président du conseil d'administration de la Caisse nationale d'assurance vieillesse des travailleurs salariés ou son
-représentant ;
-
-b) Le président du conseil d'administration de la Caisse centrale de mutualité sociale agricole ou son représentant ;
-
-5° Quatre représentants des organisations représentatives des personnes âgées désignés pour trois ans :
-
-a) Deux représentants d'associations désignés par le ministre chargé des personnes âgées ;
-
-b) Deux représentants du Comité national des retraités et personnes âgées ;
-
-6° Une personne qualifiée dans les domaines relevant des missions du fonds, désignée par le ministre chargé des personnes
-âgées pour trois ans.
-
-Un représentant du ministre chargé de la sécurité sociale, un représentant du ministre chargé des personnes âgées, un
-représentant du ministre chargé des collectivités territoriales et un représentant du ministre chargé du budget assistent
-avec voix consultative aux réunions du conseil de surveillance.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2001-1084 2001-11-20 art. 11, VI
-	  - Décret n°2001-1084 du 20 novembre 2001 - art. 11 (M)
-	  - Décret n°2001-1084 du 20 novembre 2001 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
-
-	  - Décret n°2007-828 du 11 mai 2007 - art. 3 () JORF 12 mai 2007
-
-
-###### Article R232-46
-
-Le président du conseil de surveillance est nommé par décret parmi les parlementaires qui en sont membres.
-
-Les fonctions de membre du conseil de surveillance sont exercées à titre gratuit. Les frais de déplacement sont remboursés
-dans les conditions prévues par le décret n° 90-437 du 28 mai 1990 cité à l'article R. 232-41.
-
-**Nota:**
-
-Décret 2006-781 2006-07-03 art. 12 X : Dans tous les textes où il est fait mention, pour les déplacements temporaires, des
-décrets des 12 mars 1986,12 avril 1989,28 mai 1990 et 22 septembre 1998, ces références sont remplacées par celle du présent
-décret à compter du 1er novembre 2006.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°90-437 1990-05-28
-	  - Code de l'action sociale et des familles - art. R232-41 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°2001-1084 2001-11-20 art. 11, VII
-	  - Décret n°2001-1084 du 20 novembre 2001 - art. 11 (M)
-	  - Décret n°2001-1084 du 20 novembre 2001 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
-
-	  - Décret n°2007-828 du 11 mai 2007 - art. 3 () JORF 12 mai 2007
-
-
-###### Article R232-47
-
-Le conseil de surveillance se réunit au moins une fois par an sur convocation de son président. La convocation est de droit
-lorsqu'elle est demandée par l'un des ministres chargés de la tutelle de l'établissement ou par la majorité des membres du
-conseil.
-
-Le conseil de surveillance est destinataire du rapport annuel d'activité du fonds et du rapport prévu au 3° de l'article R.
-232-43.
-
-Il établit le rapport rendant compte de la mise en oeuvre du dispositif d'allocation personnalisée d'autonomie prévu à
-l'article L. 232-21 et le transmet au Parlement et au Gouvernement au plus tard le 15 octobre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2001-1084 2001-11-20 art. 11, VIII
-	  - Décret n°2001-1084 du 20 novembre 2001 - art. 11 (M)
-	  - Décret n°2001-1084 du 20 novembre 2001 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
-
-	  - Décret n°2007-828 du 11 mai 2007 - art. 3 () JORF 12 mai 2007
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L232-21 (M)
-	  - Code de l'action sociale et des familles - art. R232-43 (Ab)
-
-
-###### Article R232-48
-
-Le fonds de financement de l'allocation personnalisée d'autonomie est dirigé par un directeur, nommé par arrêté des ministres
-chargés de la sécurité sociale, des personnes âgées, des collectivités territoriales et du budget.
-
-En cas de vacance de l'emploi de directeur ou d'empêchement de celui-ci, ses fonctions sont exercées par un agent du fonds
-nommé par arrêté des ministres chargés de la sécurité sociale, des personnes âgées, des collectivités territoriales et du
-budget.
-
-Le directeur dirige l'établissement et est responsable de son bon fonctionnement. Il exerce toutes les compétences qui ne
-sont pas attribuées à une autre autorité, et notamment :
-
-1° Il prépare et exécute les délibérations du conseil d'administration, auquel il rend compte de sa gestion ;
-
-2° Il représente l'établissement en justice et dans tous les actes de la vie civile ;
-
-3° Il prépare le budget et l'exécute ;
-
-4° Il exerce l'autorité hiérarchique sur le personnel ;
-
-5° Il est ordonnateur des dépenses et des recettes du fonds ;
-
-6° Il prépare les conventions prévues à l'article R. 232-55 et les signe après y avoir été autorisé par le conseil
-d'administration ;
-
-7° Il assure le secrétariat du conseil d'administration et du conseil de surveillance.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2001-1084 2001-11-20 art. 11, IX
-	  - Décret n°2001-1084 du 20 novembre 2001 - art. 11 (M)
-	  - Décret n°2001-1084 du 20 novembre 2001 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
-
-	  - Décret n°2007-828 du 11 mai 2007 - art. 3 () JORF 12 mai 2007
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. R232-55 (V)
-
-
-###### Article R232-49
-
-Les opérations financières et comptables de l'établissement sont effectuées conformément aux dispositions des décrets n°
-53-1227 du 10 décembre 1953 modifié relatif à la réglementation comptable applicable aux établissements publics nationaux à
-caractère administratif et n° 62-1587 du 29 décembre 1962 modifié portant règlement général sur la comptabilité publique. Les
-disponibilités de l'établissement sont déposées auprès d'un comptable du Trésor.
-
-L'agent comptable du fonds est nommé par arrêté des ministres chargés de la sécurité sociale, des personnes âgées, des
-collectivités territoriales et du budget.
-
-Des régies de recettes et d'avances peuvent être instituées conformément aux dispositions du décret n° 92-681 du 20 juillet
-1992 modifié relatif aux régies de recettes et aux régies d'avances des organismes publics.
-
-Le fonds est soumis au contrôle financier de l'Etat dans les conditions prévues par le décret du 25 octobre 1935 organisant
-le contrôle financier des offices et des établissements publics autonomes de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°1935-10-25
-	  - Décret n°53-1227 1953-12-10
-	  - Décret n°92-681 1992-07-20
-
-	**Anciens textes**:
-
-	  - Décret n°2001-1084 2001-11-20 art. 11, X
-	  - Décret n°2001-1084 du 20 novembre 2001 - art. 11 (M)
-	  - Décret n°2001-1084 du 20 novembre 2001 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
-
-	  - Décret n°2007-828 du 11 mai 2007 - art. 3 () JORF 12 mai 2007
-
-
-###### Article R232-50
-
-Les services mentionnés au 2° du II de l'article L. 232-21 sont les associations d'aide à domicile et les entreprises
-mentionnées respectivement aux 1° et 2° du I et au II de l'article L. 129-1 du code du travail ainsi que les centres
-communaux ou intercommunaux d'action sociale.
-
-Pour l'application du troisième alinéa du 2° du II de l'article L. 232-21, un comité d'orientation ayant pour mission de
-proposer les orientations et les actions prioritaires en matière de modernisation de la branche de l'aide à domicile est
-placé auprès du ministre chargé de l'action sociale. Il est composé de douze membres désignés en raison de leur compétence en
-matière de formation professionnelle et de leur connaissance des structures de maintien à domicile et des pratiques
-professionnelles. Les membres de ce comité sont nommés par arrêté du ministre chargé de l'action sociale pour une durée de
-trois ans renouvelable.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2001-1084 du 20 novembre 2001 - art. 12 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
-
-	  - Décret n°2007-828 du 11 mai 2007 - art. 3 () JORF 12 mai 2007
-
-	**Cite**:
-
-	  - Code du travail - art. L129-1 (M)
-	  - Code de l'action sociale et des familles - art. L232-21 (M)
-
 
 ##### Sous-section 2 : Dispositions financières relatives à l'allocation personnalisée d'autonomie
 
@@ -52530,33 +52095,6 @@ de l'allocation différentielle qui résulte de ce calcul ne donne pas lieu à r
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
-
-
-###### Article R232-60
-
-Les dépenses relatives à l'allocation différentielle sont assimilées à des dépenses d'allocation personnalisée d'autonomie
-pour le calcul du concours particulier du fonds mentionné au deuxième alinéa du 1° du II de l'article L. 232-21. A ce titre,
-elles sont retracées au chapitre budgétaire prévu à l'article L. 3321-2 du code général des collectivités territoriales.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2001-1084 2001-11-20 art. 20, IV
-	  - Décret n°2001-1084 du 20 novembre 2001 - art. 20 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
-
-	  - Décret n°2007-828 du 11 mai 2007 - art. 3 () JORF 12 mai 2007
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L3321-2 (M)
-	  - Code de l'action sociale et des familles - art. L232-21 (M)
 
 
 ###### Article R232-61
@@ -56520,6 +56058,47 @@ de l'hébergement.
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L245-3 (V)
+
+
+#### Chapitre VII : Gestion et suivi statistique
+
+###### Article R247-7
+
+Un arrêté des ministres chargés des personnes handicapées et des collectivités territoriales fixe la liste et les modalités
+de transmission par chaque département au service statistique du ministère chargé des personnes handicapées des données
+statistiques agrégées mentionnées à l'article L. 247-3 et relatives aux bénéficiaires de la prestation de compensation, aux
+décisions mentionnées à l'article R. 245-69, aux montants versés et au nombre d'heures d'aide humaine payées par le
+département. 
+
+Les résultats de l'exploitation des informations recueillies sont transmis aux départements et font l'objet de publications
+régulières.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-828 du 11 mai 2007 - art. 3 () JORF 12 mai 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-879 du 9 mai 2017 - art. 3
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L247-3
+	  - Code de l'action sociale et des familles - art. R245-69
+
+	**Nouveaux textes**:
+
+	  - Code de l'action sociale et des familles - art. R146-44 (V)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R542-4 (M)
 
 
 ### Titre VI : Lutte contre la pauvreté et les exclusions
@@ -73477,7 +73056,7 @@ et un état des échéances des dettes et des créances ;
 4° L'état réalisé de la section d'investissement ;
 
 5° Les documents mentionnés aux 2° et 3° du I de l'article R. 314-17, ainsi que, le cas échéant, les documents mentionnés au
-3° et 4° du II (1) du même article, actualisés au 31 décembre de l'exercice ;
+1° et 2° du II du même article, actualisés au 31 décembre de l'exercice ;
 
 6° Les données de ce dernier exercice clos nécessaires au calcul des indicateurs applicables à l'établissement et au service
 mentionnés à l'article R. 314-28.
@@ -73490,10 +73069,6 @@ maladie, à la caisse régionale d'assurance maladie qui le tient à la disposit
 
 III. - Le modèle de présentation du compte administratif et des documents qui le composent est fixé par arrêté du ministre
 chargé de l'action sociale.
-
-**Nota:**
-
-(1) Décret 2006-422 du 7 avril 2006 art. 2 : les 3° et 4° du II de l'article R314-17 sont devenus les 1° et 2°.
 
 **Liens relatifs à cet article**
 
@@ -73529,7 +73104,7 @@ chargé de l'action sociale.
 
 	**Modifié par**:
 
-	  - Décret n°2006-422 du 7 avril 2006 - art. 12 () JORF 9 avril 2006
+	  - Décret n°2007-828 du 11 mai 2007 - art. 4 () JORF 12 mai 2007
 
 	**Cite**:
 
@@ -73865,23 +73440,63 @@ transmis dès son établissement à l'autorité de tarification.
 	  - Code de l'action sociale et des familles - art. R314-61 (V)
 
 
+###### Article R314-60
+
+Lorsque le directeur de la caisse régionale d'assurance maladie du lieu d'implantation des établissements et services
+financés en totalité ou en partie par l'assurance maladie en fait la demande, les établissements et services transmettent les
+données nécessaires au calcul des indicateurs et mentionnées aux articles R. 314-28 à R. 314-33-1 ainsi que les documents
+mentionnés aux articles R. 314-49, R. 314-50, R. 314-56 à R. 314-59, R. 314-86 et R. 314-100.
+
+Cette transmission s'effectue, le cas échéant, dans les conditions fixées par l'arrêté pris en application du I de l'article
+R. 314-13.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2003-1010 du 22 octobre 2003 - art. 59 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-828 du 11 mai 2007 - art. 4 () JORF 12 mai 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. R314-100 (V)
+	  - Code de l'action sociale et des familles - art. R314-13 (M)
+	  - Code de l'action sociale et des familles - art. R314-49 (M)
+	  - Code de l'action sociale et des familles - art. R314-50 (V)
+	  - Code de l'action sociale et des familles - art. R314-86 (M)
+	  - Code de l'action sociale et des familles R314-28 à R314-33-1, R314-49, R314-50, R314-56 à R314-59, R314-86, R314-100, R314-13
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R314-61 (M)
+	  - Code de l'action sociale et des familles - art. R543-1 (V)
+
+
 ##### Sous-paragraphe 2 : Opérations d'évaluation et de contrôle
 
 ###### Article R314-61
 
 Afin de disposer d'éléments d'analyse permettant d'améliorer l'efficacité du fonctionnement d'un établissement ou d'un
 service, l'autorité de tarification peut lui demander ou demander à la personne morale qui en assure la gestion, de réaliser
-ou faire réaliser une étude dont elle précise le thème, l'objectif et les méthodes. Cette étude peut porter notamment sur :
+ou faire réaliser une étude dont elle précise le thème, l'objectif et les méthodes. Cette étude peut porter notamment sur : 
 
-1° Les conditions de la gestion de l'établissement ou du service, et les formes alternatives qui sont envisageables ;
+1° Les conditions de la gestion de l'établissement ou du service, et les formes alternatives qui sont envisageables ; 
 
-2° L'intérêt qu'aurait la mise en oeuvre d'actions de coopération ou de coordination sur le fondement de l'article L. 312-7 ;
+2° L'intérêt qu'aurait la mise en oeuvre d'actions de coopération ou de coordination sur le fondement de l'article L.
+312-7 ; 
 
-3° L'intérêt et le coût des conventions mentionnés à l'article R. 314-59 ou des subventions mentionnées à l'article R.
-314-60 ;
+3° L'intérêt et le coût des conventions mentionnés à l'article R. 314-59 ou des subventions mentionnées à l'article L.
+313-25 ; 
 
 4° L'intérêt et le coût des conventions signées entre plusieurs organismes gestionnaires d'établissements ou services ayant
-des dirigeants communs, lorsque ces conventions ont une incidence sur les tarifs.
+des dirigeants communs, lorsque ces conventions ont une incidence sur les tarifs. 
 
 Les dépenses afférentes à cette étude sont à la charge du budget de l'établissement ou du service, et font, si nécessaire,
 l'objet d'une décision budgétaire modificative permettant d'en couvrir le montant.
@@ -73897,11 +73512,15 @@ l'objet d'une décision budgétaire modificative permettant d'en couvrir le mont
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2007-828 du 11 mai 2007 - art. 4 () JORF 12 mai 2007
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L312-7 (M)
-	  - Code de l'action sociale et des familles - art. R314-59 (M)
-	  - Code de l'action sociale et des familles - art. R314-60 (Ab)
+	  - Code de l'action sociale et des familles - art. L312-7 (VT)
+	  - Code de l'action sociale et des familles - art. L313-25 (V)
+	  - Code de l'action sociale et des familles - art. R314-59 (V)
 
 	**Cité par**:
 
@@ -75400,8 +75019,8 @@ section.
 
 ###### Article R314-102
 
-Les dispositions des articles R. 314-9, R. 314-11, R. 314-15, des 1° à 3° et du 5° du II de l'article R. 314-17, des articles
-R. 314-20, R. 314-27, R. 314-48 et R. 314-49 ne sont pas applicables aux établissements relevant de l'article L. 342-1.
+Les dispositions des articles R. 314-9, R. 314-11, R. 314-15, du 1° du II de l'article R. 314-17, des articles R. 314-20, R.
+314-27, R. 314-48 et R. 314-49 ne sont pas applicables aux établissements relevant de l'article L. 342-1.
 
 **Liens relatifs à cet article**
 
@@ -75416,18 +75035,17 @@ R. 314-20, R. 314-27, R. 314-48 et R. 314-49 ne sont pas applicables aux établi
 
 	**Modifié par**:
 
-	  - Décret n°2006-422 du 7 avril 2006 - art. 21 () JORF 9 avril 2006
+	  - Décret n°2007-828 du 11 mai 2007 - art. 4 () JORF 12 mai 2007
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L342-1 (M)
+	  - Code de l'action sociale et des familles - art. L342-1 (V)
 	  - Code de l'action sociale et des familles - art. R314-11 (V)
 	  - Code de l'action sociale et des familles - art. R314-15 (V)
-	  - Code de l'action sociale et des familles - art. R314-17 (M)
+	  - Code de l'action sociale et des familles - art. R314-17 (V)
 	  - Code de l'action sociale et des familles - art. R314-20 (V)
 	  - Code de l'action sociale et des familles - art. R314-27 (V)
 	  - Code de l'action sociale et des familles - art. R314-48 (V)
-	  - Code de l'action sociale et des familles - art. R314-49 (M)
 	  - Code de l'action sociale et des familles - art. R314-9 (V)
 
 	**Cité par**:
@@ -77604,7 +77222,8 @@ dépendance.
 
 Le tarif afférent aux soins recouvre les prestations médicales et paramédicales nécessaires à la prise en charge des
 affections somatiques et psychiques des personnes résidant dans l'établissement ainsi que les prestations paramédicales
-correspondant aux soins liées à l'état de dépendance des personnes accueillies.
+correspondant aux soins liées à l'état de dépendance des personnes accueillies. En ce qui concerne l'accueil de jour, il
+comprend en outre le forfait journalier mentionné à l'article R. 314-207.
 
 **Liens relatifs à cet article**
 
@@ -77616,10 +77235,18 @@ correspondant aux soins liées à l'état de dépendance des personnes accueilli
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2007-827 du 11 mai 2007 - art. 1 () JORF 12 mai 2007
+
 	**Cité par**:
 
 	  - Arrêté du 14 avril 2008 - art. 3 (V)
 	  - Décret n°2016-1814 du 21 décembre 2016 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. R314-207 (V)
 
 
 ##### Sous-paragraphe 2 : Modalités de détermination et de calcul des tarifs
@@ -77630,49 +77257,51 @@ correspondant aux soins liées à l'état de dépendance des personnes accueilli
 
 Le budget des établissements est présenté par section d'imputation tarifaire correspondant à chacun des trois tarifs
 journaliers des prestations mentionnés à l'article R. 314-158. Les charges et les produits de chaque section d'imputation
-sont arrêtés séparément et comprennent :
+sont arrêtés séparément et comprennent : 
 
-I. - Pour la section d'imputation tarifaire afférente à l'hébergement :
+I.-Pour la section d'imputation tarifaire afférente à l'hébergement : 
 
-1° En charges :
+1° En charges : 
 
-a) Les charges d'exploitation à caractère hôtelier et d'administration générale ;
+a) Les charges d'exploitation à caractère hôtelier et d'administration générale ; 
 
 b) Les charges relatives à l'emploi de personnel assurant l'accueil, l'animation de la vie sociale, l'entretien, la
-restauration et l'administration générale ;
+restauration et l'administration générale ; 
 
-c) Les amortissements des biens meubles et immeubles autres que le matériel médical ;
+c) Les amortissements des biens meubles et immeubles autres que le matériel médical ; 
 
-d) Les dotations aux provisions, les charges financières et exceptionnelles ;
+d) Les dotations aux provisions, les charges financières et exceptionnelles ; 
 
 2° En produits, ceux mentionnés à l'article R. 314-106 et au II de l'article R. 314-12 lorsqu'ils relèvent de la présente
-section d'imputation tarifaire.
+section d'imputation tarifaire ainsi que les forfaits journaliers mentionnés à l'article R. 314-207. 
 
-II. - Pour la section d'imputation tarifaire afférente à la dépendance :
+II.-Pour la section d'imputation tarifaire afférente à la dépendance : 
 
-1° En charges :
+1° En charges : 
 
-a) Les fournitures et prestations de services hôtelières liées à la prise en charge de la dépendance ;
+a) Les fournitures et prestations de services hôtelières liées à la prise en charge de la dépendance ; 
 
-b) Les charges relatives à l'emploi de personnel assurant l'aide et le soutien aux personnes hébergées dépendantes ;
+b) Les charges relatives à l'emploi de personnel assurant l'aide et le soutien aux personnes hébergées dépendantes ; 
 
 c) Les amortissements du matériel et du mobilier, permettant la prise en charge de la dépendance et la prévention de son
-aggravation ;
+aggravation ; 
 
 2° En produits, ceux mentionnés à l'article R. 314-106 et au II de l'article R. 314-12 lorsqu'ils relèvent de la présente
-section d'imputation tarifaire.
+section d'imputation tarifaire. 
 
-III. - Pour la section d'imputation tarifaire afférente aux soins, nonobstant l'application des dispositions prévues à
-l'article R. 314-168, en fonction de l'option tarifaire prévue à l'article R. 314-167 :
+III.-Pour la section d'imputation tarifaire afférente aux soins, nonobstant l'application des dispositions prévues à
+l'article R. 314-168, en fonction de l'option tarifaire prévue à l'article R. 314-167 : 
 
-1° En charges :
+1° En charges : 
 
 a) Les charges relatives aux prestations de services à caractère médical, au petit matériel médical, dont la liste est fixée
-par arrêté du ministre chargé des personnes âgées et aux fournitures médicales ;
+par arrêté du ministre chargé des personnes âgées et aux fournitures médicales ; 
 
-b) Les charges relatives à l'emploi de personnel assurant les soins y compris celles prévues à l'article R. 314-164 ;
+b) Les charges relatives à l'emploi de personnel assurant les soins y compris celles prévues à l'article R. 314-164 ; 
 
-c) L'amortissement du matériel médical dont la liste est fixée par arrêté du ministre chargé des affaires sociales ;
+c) L'amortissement du matériel médical dont la liste est fixée par arrêté du ministre chargé des affaires sociales ; 
+
+d) Les forfaits journaliers mentionnés à l'article R. 314-207.
 
 2° En produits, ceux mentionnés à l'article R. 314-106 et au II de l'article R. 314-12 lorsqu'ils relèvent de la présente
 section d'imputation tarifaire.
@@ -77701,6 +77330,10 @@ section d'imputation tarifaire.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2007-827 du 11 mai 2007 - art. 2 () JORF 12 mai 2007
+
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. R314-106 (V)
@@ -77708,6 +77341,7 @@ section d'imputation tarifaire.
 	  - Code de l'action sociale et des familles - art. R314-158 (V)
 	  - Code de l'action sociale et des familles - art. R314-164 (V)
 	  - Code de l'action sociale et des familles - art. R314-167 (V)
+	  - Code de l'action sociale et des familles - art. R314-207 (V)
 
 
 ###### Article R314-163
@@ -79430,6 +79064,42 @@ compte du montant du forfait hospitalier.
 
 	  - Code de la santé publique - art. L6111-2 (V)
 	  - Code de l'action sociale et des familles - art. L312-1 (M)
+
+
+###### Article R314-207
+
+I.-Dans les établissements mentionnés au I de l'article L. 313-12, les frais de transport entre le domicile et
+l'établissement des personnes bénéficiant d'un accueil de jour sont pris en charge par l'assurance maladie sous forme d'un
+forfait journalier applicable au nombre de places autorisées. Ce forfait est fixé dans la limite d'un plafond déterminé
+chaque année par arrêté des ministres chargés de la sécurité sociale et des personnes âgées. 
+
+II.-Pour bénéficier de la prise en charge, le gestionnaire de l'établissement doit justifier de modalités d'organisation des
+transports adaptées aux besoins des personnes accueillies et aux conditions prévues au I.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-827 du 11 mai 2007 - art. 3 () JORF 12 mai 2007
+
+	**Cité par**:
+
+	  - Arrêté du 23 juillet 2010 - art. 2 (V)
+	  - Arrêté du 7 octobre 2013 - art. 2 (V)
+	  - Arrêté du 10 juillet 2014 - art. 2 (V)
+	  - Arrêté du 28 juillet 2015 - art. 2 (V)
+	  - Code de l'action sociale et des familles - art. R314-161 (M)
+	  - Code de l'action sociale et des familles - art. R314-162 (M)
+	  - Code de l'action sociale et des familles - art. R314-163 (V)
+	  - Code de l'action sociale et des familles - art. R314-167 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L313-12 (V)
 
 
 #### Chapitre V : Dispositions propres aux établissements et services sociaux et médico-sociaux relevant de personnes morales de droit public
@@ -81943,13 +81613,18 @@ article du code de l'action sociale et des familles.
 
 I. - Lorsque le projet prévu à l'article L. 311-8 repose sur des modes d'organisation particuliers ou fait appel à des
 supports spécifiques entraînant pour le lieu de vie et d'accueil des charges supplémentaires dont le montant ne peut être
-couvert par le prix de journée fixé selon les dispositions du II, la ou les autorités compétentes pour délivrer
-l'autorisation de création prévue à l'article L. 313-1 peuvent fixer, après concertation avec la personne ayant qualité pour
-représenter le lieu de vie et d'accueil, un forfait journalier complémentaire destiné à prendre en charge tout ou partie des
-charges supplémentaires.
+couvert par le prix de journée fixé selon les dispositions du II de l'article R. 316-5, la ou les autorités compétentes pour
+délivrer l'autorisation de création prévue à l'article L. 313-1 peuvent fixer, après concertation avec la personne ayant
+qualité pour représenter le lieu de vie et d'accueil, un forfait journalier complémentaire destiné à prendre en charge tout
+ou partie des charges supplémentaires.
 
 II. - Le montant du forfait journalier complémentaire est exprimé en multiples de la valeur horaire du salaire minimum de
 croissance déterminé dans les conditions prévues aux articles L. 141-2 à L. 141-7 du code du travail.
+
+**Nota:**
+
+Le Conseil d'Etat du 21 novembre 2008 (arrêt N° 293960) a annulé l'article 29 du décret n° 2006-422 qui créait le présent
+article du code de l'action sociale et des familles.
 
 **Liens relatifs à cet article**
 
@@ -81957,19 +81632,24 @@ croissance déterminé dans les conditions prévues aux articles L. 141-2 à L. 
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-422 du 7 avril 2006 - art. 29 () JORF 9 avril 2006
+	  - Décret n°2007-828 du 11 mai 2007 - art. 4 () JORF 12 mai 2007
 
 	**Cite**:
 
 	  - Code du travail L141-2 à L141-7
 	  - Code de l'action sociale et des familles - art. L311-8 (M)
 	  - Code de l'action sociale et des familles - art. L313-1 (M)
+	  - Code de l'action sociale et des familles - art. R316-5 (V)
 
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. R316-7 (V)
+
+	**Annulé par**:
+
+	  - Conseil d'Etat n°293960 2008-11-21
 
 
 ###### Article R316-7
@@ -82002,17 +81682,26 @@ V. - Tout changement important dans l'activité, l'installation, l'organisation 
 d'accueil donne lieu à une information de la ou des autorités compétentes mentionnées au I par la personne ayant qualité pour
 représenter le lieu de vie et d'accueil.
 
-VI. - Les articles R. 314-55 à R. 314-60, R. 314-62, R. 314-99 et R. 314-100 sont applicables aux lieux de vie et d'accueil.
+VI. - Les articles R. 314-55 à R. 314-59, R. 314-62, R. 314-99 et R. 314-100 sont applicables aux lieux de vie et d'accueil.
+
+**Nota:**
+
+Le Conseil d'Etat du 21 novembre 2008 (arrêt N° 293960) a annulé l'article 29 du décret n° 2006-422 qui créait le présent
+article du code de l'action sociale et des familles.
 
 **Liens relatifs à cet article**
+
+	**Annulé par**:
+
+	  - Conseil d'Etat n°293960 2008-11-21
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-422 du 7 avril 2006 - art. 29 () JORF 9 avril 2006
+	  - Décret n°2007-828 du 11 mai 2007 - art. 4 () JORF 12 mai 2007
 
 	**Cite**:
 
@@ -82025,7 +81714,7 @@ VI. - Les articles R. 314-55 à R. 314-60, R. 314-62, R. 314-99 et R. 314-100 so
 	  - Code de l'action sociale et des familles - art. R314-99 (V)
 	  - Code de l'action sociale et des familles - art. R316-5 (V)
 	  - Code de l'action sociale et des familles - art. R316-6 (M)
-	  - Code de l'action sociale et des familles R316-5, R316-6, L351-1, R313-3, L311-8, R314-85, R314-55 à R314-60, R314-62, R314-99, R314-100
+	  - Code de l'action sociale et des familles R316-5, R316-6, L351-1, R313-3, L311-8, R314-85, R314-55 à R314-59, R314-62, R314-99, R314-100
 
 
 ### Titre II : Etablissements soumis à déclaration
@@ -100712,6 +100401,1800 @@ Ressources 5 et 6
 
 	  - Code de l'action sociale et des familles - art. L232-8 (V)
 	  - Code de l'action sociale et des familles - art. R314-188 (V)
+
+
+###### Article Annexe 3-2
+
+TABLEAU DE CALCUL DES TARIFS JOURNALIERS D'UN ÉTABLISSEMENT HÉBERGEANT DES PERSONNES ÂGÉES DÉPENDANTES
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+      </td><td>
+      </td><td colspan="3">
+
+SECTIONS
+
+D'IMPUTATION 
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+Rappel
+
+N° de 
+
+Compte 
+
+</td>
+      <td align="center">INTITULE </td>
+      <td align="center">Hébergement</td>
+      <td align="center">dépendance </td>
+      <td align="center">soins </td>
+      <td align="center">TOTAL </td>
+    </tr>
+    <tr>
+      <td align="center">602
+
+</td>
+      <td>ACHATS STOCKES ; AUTRES APPROVISIONNEMENTS 
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+      </td><td align="center">sauf 6021 et 60226
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center">6021
+
+</td>
+      <td align="center">Produits pharmaceutiques et produits à usage médical
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center">60226
+
+</td>
+      <td>
+
+Fournitures hôtelières sauf 602261 "couches, alèses et
+
+produits absorbants" 
+
+</td>
+      <td align="center">70 %
+
+</td>
+      <td align="center">30 %
+
+</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center">602261
+
+</td>
+      <td align="center">couches, alèses et produits absorbants
+
+</td>
+      <td>
+      </td><td align="center">100 %
+
+</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center">603
+
+</td>
+      <td align="center">VARIATION DES STOCKS
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+      </td><td align="center">sauf 60321 et 603226
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center">60321 </td>
+      <td align="center">Produits pharmaceutiques et produits à usage médical
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center">603226
+
+</td>
+      <td>
+
+Fournitures hôtelières sauf 6032261 "couches, alèses et
+
+produits absorbants" 
+
+</td>
+      <td align="center">70 %
+
+</td>
+      <td align="center">30 %
+
+</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center">6032261
+
+</td>
+      <td align="center">couches, alèses et produits absorbants</td>
+      <td>
+      </td><td align="center">100 %
+
+</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center">606
+
+</td>
+      <td>
+
+ACHATS NON STOCKES DE MATIERES ET 
+
+FOURNITURES
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+      </td><td align="center">sauf 60622, 60626 et 6066
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center">60622
+
+</td>
+      <td align="center">Produits d'entretien
+
+</td>
+      <td align="center">70 %
+
+</td>
+      <td align="center">30 %
+
+</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center">60626
+
+</td>
+      <td>
+
+Fournitures hôtelières sauf compte 606261 "couches, alèses
+
+et produits absorbants" 
+
+</td>
+      <td align="center">70 %
+
+</td>
+      <td align="center">30 %
+
+</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center">606261
+
+</td>
+      <td align="center">couches, alèses et produits absorbants</td>
+      <td>
+      </td><td align="center">100 %
+
+</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center">6066
+
+</td>
+      <td align="center">Fournitures médicales
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center">61
+
+</td>
+      <td align="center">SERVICES EXTERIEURS
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+      </td><td align="center">sauf 6111, 61121, 61551, 61562 et 61681
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center">6111
+
+</td>
+      <td align="center">Prestations à caractère médical
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center">61121
+
+</td>
+      <td align="center">Ergothérapie
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center">61551
+
+</td>
+      <td>
+
+Entretien et réparation sur biens mobiliers : matériel et
+
+outillage médicaux 
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center">61562 
+
+</td>
+      <td align="center">Maintenance du matériel médical
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center">61681</td>
+      <td align="center">Primes d'assurance maladie, maternité, accident du travail</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+  </tbody>
+</table>
+
+.
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+      </td><td>
+      </td><td colspan="3">
+
+SECTIONS 
+
+D'IMPUTATION 
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+Rappel
+
+N° de 
+
+Compte 
+
+</td>
+      <td align="center">INTITULE 
+
+</td>
+      <td>Hébergement</td>
+      <td>dépendance </td>
+      <td>soins 
+
+</td>
+      <td>TOTAL 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">62</td>
+      <td>
+
+AUTRES SERVICES EXTERIEURS
+
+sauf 621, 62113, 6223, 6281 et 6283 
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center">621</td>
+      <td align="center">PERSONNEL EXTERIEUR A L'ETABLISSEMENT
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center">62113</td>
+      <td align="center">Personnel intérimaire : personnel médical et para-médical 
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center">6223</td>
+      <td align="left">Médecins</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">628 sauf 6281 et 6283
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center">6281</td>
+      <td align="left">Blanchissage à l'extérieur
+
+</td>
+      <td align="center">70 %
+
+</td>
+      <td align="center">30 %
+
+</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center">6283</td>
+      <td align="left">Nettoyage à l'extérieur
+
+</td>
+      <td align="center">70 %
+
+</td>
+      <td align="center">30 %
+
+</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center">631</td>
+      <td align="center">IMPOTS, TAXES ET VERSEMENTS ASSIMILES SUR
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+      </td><td align="center">REMUNERATIONS (administrations des impôts)
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center">633</td>
+      <td align="center">IMPOTS, TAXES ET VERSEMENTS ASSIMILES SUR </td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+      </td><td align="center">REMUNERATIONS (autres organismes)
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center">635
+
+</td>
+      <td align="center">AUTRES IMPOTS, TAXES ET VERSEMENTS ASSIMILES
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+      </td><td align="center">(administrations des impôts)</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center">637
+
+</td>
+      <td>autres impôts, taxes et versements assimilés (autres organismes) 
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center">64
+
+</td>
+      <td align="center">CHARGES DE PERSONNEL</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center">65
+
+</td>
+      <td align="center">AUTRES CHARGES DE GESTION COURANTE
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center">66
+
+</td>
+      <td align="center">CHARGES FINANCIERES
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">
+
+68 : Dotations aux amortissements et aux provisions sauf matériel
+
+médical 
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+      </td><td>Dotations aux amortissements du matériel médical
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">
+
+681518 : Dotations aux provisions : autres provisions pour 
+
+risques (pathologies lourdes) 
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center" colspan="2">TOTAL DES CHARGES D'EXPLOITATION :
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center" colspan="2">"hébergement" = A 1, "dépendance" = A 2, "soins" = A 3
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2" align="center">PRODUITS AUTRES QUE CEUX RELATIFS A LA TARIFICATION </td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center" colspan="2">"hébergement" = B 1, "dépendance" = B 2, "soins" = B 3 
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">
+
+734-3 : Contribution de l'assurance maladie au titre de l'article
+
+R. 314-188 = B 4 
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+  </tbody>
+</table>
+
+.
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+      </td><td>
+      </td><td colspan="3">
+
+SECTIONS 
+
+D'IMPUTATION 
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+Rappel
+
+N° de 
+
+Compte 
+
+</td>
+      <td align="center">INTITULE </td>
+      <td align="center">Hébergement</td>
+      <td align="center">dépendance 
+
+</td>
+      <td align="center">soins 
+
+</td>
+      <td>TOTAL </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+
+INCORPORATION DES RESULTATS des EXERCICES
+
+ANTERIEURS 
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">"hébergement" = C 1, "dépendance"= C 2, "soins" = C 3
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">BASE DE CALCUL DES TARIFS JOURNALIERS
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">Tarif moyen journalier "hébergement" = D 1 soit A 1 - B 1 + C 1
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">"dépendance" = D 2 soit [A 2 - (B 2 + B 4)] + C 2
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">"soins" = D 3 soit A 3 - B 3 + C 3
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">
+
+QUOTE PART DES CHARGES NETTES RELATIVES AUX 
+
+AIDES-SOIGNANTES ET 
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">AUX AMP IMPUTEE SUR LA SECTION TARIFAIRE "SOINS" =E</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">PRODUCTION TOTALE DE POINTS GIR DE L'ETABLISSEMENT = F</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">
+
+VALEUR NETTE DU POINT GIR "Aides soignantes et AMP" = E /
+
+(GMP multiplié par la capacité occupée) 
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">VALEUR NETTE DU POINT GIR "Dépendance" = (A 2 - B 2) / F
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">
+
+PRODUCTION DE POINTS GIR DANS LES GROUPES ISO-
+
+RESSOURCES 1 ET 2 = G 1 
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">
+
+PRODUCTION DE POINTS GIR DANS LES GROUPES ISO-
+
+RESSOURCES 3 ET 4 = G 2 
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">
+
+PRODUCTION DE POINTS GIR DANS LES GROUPES ISO-
+
+RESSOURCES 5 ET 6 = G 3 
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">PROPORTION DE LA PRODUCTION EN POINTS GIR
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">DANS LES GROUPES ISO-RESSOURCES 1 ET 2 = G 1 / F = H 1
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">PROPORTION DE LA PRODUCTION EN POINTS GIR
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">DANS LES GROUPES ISO-RESSOURCES 3 ET 4 = G 2 / F = H 2
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">PROPORTION DE LA PRODUCTION EN POINTS GIR</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">DANS LES GROUPES ISO-RESSOURCES 5 ET 6 = IG 3 / F = H 3</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">
+
+NOMBRE DE JOURNEES PREVISIONNELLES "HEBERGEMENT" 
+
+POUR LES 
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">
+
+PERSONNES CLASSEES DANS LES GROUPES ISO-
+
+RESSOURCES 1 à 6 = I 
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">
+
+NOMBRE DE JOURNEES PREVISIONNELLES "dépendance" et 
+
+"soins" pour les
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">
+
+PERSONNES CLASSEES DANS LES GROUPES ISO-
+
+RESSOURCES 1 à 6 = J 
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+  </tbody>
+</table>
+
+.
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+      </td><td>
+      </td><td colspan="3">
+
+SECTIONS 
+
+D'IMPUTATION 
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+Rappel
+
+N° de 
+
+Compte 
+
+</td>
+      <td align="center">INTITULE 
+
+</td>
+      <td align="center">Hébergement</td>
+      <td align="center">dépendance 
+
+</td>
+      <td align="center">soins 
+
+</td>
+      <td align="center">TOTAL 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2">
+
+NOMBRE DE JOURNEES PREVISIONNELLES "dépendance" et
+
+"soins" pour les 
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">
+
+PERSONNES CLASSEES DANS LES GROUPES ISO-RESSOURCES
+
+1 ET 2 = K 1 
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">NOMBRE DE JOURNEES PREVISIONNELLES "dépendance" et 
+
+"soins" pour les 
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">PERSONNES CLASSEES DANS LES GROUPES ISO-RESSOURCES 
+
+3 ET 4 = K 2 
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">NOMBRE DE JOURNEES PREVISIONNELLES "dépendance" et 
+
+"soins" pour les 
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">PERSONNES CLASSEES DANS LES GROUPES ISO-RESSOURCES 
+
+5 ET 6 = K 3
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">
+
+Pourcentage du nombre de journées prévisionnelles 
+
+"dépendance" et "soins"
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">
+
+des personnes classées dans les groupes iso-ressources 1 et 2 : 
+
+K 1/J = L 1 
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">
+
+Pourcentage du nombre de journées prévisionnelles 
+
+"dépendance" et "soins"
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">des personnes classées dans les groupes iso-ressources 3 et 4 : 
+
+K 2/J = L 2 
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">Pourcentage du nombre de journées prévisionnelles 
+
+"dépendance" et "soins"
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">des personnes classées dans les groupes iso-ressources 5 et 6 : 
+
+K 3/J = L 3
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">
+
+CALCUL DU TARIF JOURNALIER NET MOYEN "HEBERGEMENT" 
+
+= D 1/I 
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">
+
+CALCUL DU TARIF JOURNALIER "DEPENDANCE" POUR LES 
+
+GIR 1 et 2
+
+D 2 X H 1 / K 1
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">
+
+CALCUL DU TARIF JOURNALIER "DEPENDANCE" POUR LES 
+
+GIR 3 et 4
+
+D 2 X H 2 / K 2
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">
+
+CALCUL DU TARIF JOURNALIER "DEPENDANCE" POUR LES 
+
+GIR 5 et 6
+
+D 2 X H 3 / K 3
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">
+
+CALCUL DU TARIF JOURNALIER "SOINS" POUR LES 
+
+GIR 1 et 2
+
+(E X H1) + [(D3 - E) X L1] / K1
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">
+
+CALCUL DU TARIF JOURNALIER "SOINS" POUR LES 
+
+GIR 3 et 4
+
+(E X H2) + [(D3 - E) X L2] / K2
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">
+
+CALCUL DU TARIF JOURNALIER "SOINS" POUR LES 
+
+GIR 5 et 6
+
+(E X H3) + [(D3 - E) X L3] / K3
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td colspan="2">DOTATION GLOBALE DE FINANCEMENT "SOINS" = D3 + B4 </td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+  </tbody>
+</table>
+
+RÉPARTITION DES CHARGES RELATIVES AU PERSONNELS SALARIE DANS UN EHPAD
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center">PERSONNEL </td>
+      <td>
+
+nombre
+
+d'ETP 
+
+</td>
+      <td>
+
+hébergement
+
+en ETP 
+
+</td>
+      <td>
+
+dépendance 
+
+en ETP 
+
+</td>
+      <td>
+
+soins
+
+en ETP 
+
+</td>
+      <td>
+
+VALORISATION SALAIRES 
+
+ET
+
+CHARGES SOCIALES ET 
+
+FISCALES 
+
+</td>
+      <td>
+
+IMPUTATION 
+
+à la section 
+
+hébergement 
+
+</td>
+      <td>
+
+IMPUTATION 
+
+à la section 
+
+dépendance
+      </td>
+      <td>
+
+IMPUTATION 
+
+à la section 
+
+soins
+      </td>
+    </tr>
+    <tr>
+      <td>
+
+DIRECTION 
+
+ADMINISTRATION 
+
+</td>
+      <td>
+      </td><td align="center">100 %
+
+</td>
+      <td colspan="2">
+      </td><td>
+      </td><td>
+      </td><td colspan="2">
+    </td></tr>
+    <tr>
+      <td>
+
+CUISINE -
+
+SERVICES 
+
+GENERAUX 
+
+Diététicien 
+
+</td>
+      <td>
+      </td><td align="center">100 %</td>
+      <td colspan="2">
+      </td><td>
+      </td><td>
+      </td><td colspan="2">
+    </td></tr>
+    <tr>
+      <td>
+
+ANIMATION- 
+
+SERVICE 
+
+SOCIAL 
+
+</td>
+      <td>
+      </td><td align="center">100 %</td>
+      <td colspan="2">
+      </td><td>
+      </td><td>
+      </td><td colspan="2">
+    </td></tr>
+    <tr>
+      <td>
+
+ASH-agent de 
+
+service
+
+affectés aux fonctions de 
+
+blanchissage, 
+
+nettoyage 
+
+et service des repas 
+
+</td>
+      <td>
+      </td><td align="center">70 %
+
+</td>
+      <td align="center">30 %
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+AIDE 
+
+SOIGNANTE-AMP 
+
+</td>
+      <td>
+      </td><td>
+      </td><td align="center">30 %
+
+</td>
+      <td align="center">70 %
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center">PSYCHOLOGUE</td>
+      <td>
+      </td><td>
+      </td><td align="center">100 %
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center">INFIRMIERE</td>
+      <td>
+      </td><td colspan="2">
+      </td><td align="center">100 %
+
+</td>
+      <td>
+      </td><td colspan="2">
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+AUTRES 
+
+AUXILIAIRES 
+
+MEDICAUX 
+
+</td>
+      <td>
+      </td><td colspan="2">
+      </td><td align="center">100 %
+
+</td>
+      <td>
+      </td><td colspan="2">
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+PHARMACIEN 
+
+préparateur en 
+
+pharmacie 
+
+</td>
+      <td>
+      </td><td colspan="2">
+      </td><td align="center">100 %
+
+</td>
+      <td>
+      </td><td colspan="2">
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center">MEDECIN</td>
+      <td>
+      </td><td colspan="2">
+      </td><td align="center">100 %
+
+</td>
+      <td>
+      </td><td colspan="2">
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center">TOTAL</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+  </tbody>
+</table>
+
+TABLEAU DE RÉPARTITION DES CHARGES RELATIVES AU PERSONNEL EXTÉRIEUR A L'ÉTABLISSEMENT
+
+(personnel intérimaire, détaché, prêté ou détaché)
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center">PERSONNEL </td>
+      <td>
+
+nombre 
+
+d'ETP 
+
+</td>
+      <td>
+
+hébergement 
+
+en ETP 
+
+</td>
+      <td>
+
+dépendance 
+
+en ETP 
+
+</td>
+      <td>
+
+soins 
+
+en ETP 
+
+</td>
+      <td>
+
+Charges relatives au personnel 
+
+extérieur à l'établissement (compte 621) : 
+
+personnel intérimaire, détaché ou affecté 
+
+</td>
+      <td>
+
+IMPUTATION 
+
+à la section 
+
+hébergement 
+
+</td>
+      <td>
+
+IMPUTATION 
+
+à la section 
+
+dépendance 
+
+</td>
+      <td>
+
+IMPUTATION 
+
+à la section 
+
+soins
+      </td>
+    </tr>
+    <tr>
+      <td>
+
+DIRECTION 
+
+ADMINISTRATION 
+
+</td>
+      <td>
+      </td><td align="center">100 %
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+CUISINE -
+
+SERVICES 
+
+GENERAUX 
+
+Diététicien 
+
+</td>
+      <td>
+      </td><td align="center">100 %
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+ANIMATION- 
+
+SERVICE SOCIAL 
+
+</td>
+      <td>
+      </td><td align="center">100 %
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+ASH-agent de 
+
+service 
+
+affectés aux 
+
+fonctions de 
+
+blanchissage, 
+
+nettoyage 
+
+et service des 
+
+repas 
+
+</td>
+      <td>
+      </td><td align="center">70 %
+
+</td>
+      <td align="center">30 %
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+AIDE 
+
+SOIGNANTE- 
+
+AMP 
+
+</td>
+      <td>
+      </td><td>
+      </td><td align="center">30 %
+
+</td>
+      <td align="center">70 %
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center">PSYCHOLOGUE
+
+</td>
+      <td>
+      </td><td>
+      </td><td align="center">100 %
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center">INFIRMIERE
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td align="center">100 %
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+AUTRES 
+
+AUXILIAIRES 
+
+MEDICAUX 
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td align="center">100 %
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+PHARMACIEN 
+
+préparateur en 
+
+pharmacie 
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td align="center">100 %
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center">MEDECIN
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td align="center">100 %
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center">TOTAL
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2007-828 du 11 mai 2007 - art. 5
+
+	**Abrogé par**:
+
+	  - Décret n°2016-1814 du 21 décembre 2016 - art. 4
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R314-163 (M)
 
 
 ###### Article Annexe 3-3
