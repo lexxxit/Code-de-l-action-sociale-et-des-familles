@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2007-05-13
+Version Consolidée au 2007-05-15
 
 # Partie législative
 
@@ -58948,6 +58948,52 @@ l'administration pénitentiaire.
 	  - Code de l'action sociale et des familles - art. R262-2 (V)
 
 
+###### Article R262-47-1
+
+I. - La personne à qui est ouvert un droit à l'allocation de revenu minimum d'insertion dispose d'un délai de deux mois à
+compter du dépôt de sa demande pour faire valoir ses droits aux prestations sociales mentionnées au premier alinéa de
+l'article L. 262-35.
+
+Quand il n'a pas fait de demande d'allocation de soutien familial, mais qu'il a acquis des droits à des créances d'aliments,
+l'intéressé dispose d'un délai de quatre mois à compter de sa demande d'allocation de parent isolé pour faire valoir ces
+droits. Quand il a présenté une demande d'allocation de soutien familial, ce même délai court à compter du dépôt de cette
+dernière demande.
+
+II. - L'allocataire qui acquiert des droits aux prestations sociales ou aux créances d'aliments mentionnées à l'article L.
+262-35 dont il ne disposait pas lors de l'ouverture de droit à l'allocation est tenu de faire valoir ces droits et d'informer
+le président du conseil général, ainsi que l'organisme payeur de l'allocation, du changement de sa situation. Le président du
+conseil général enjoint si nécessaire l'allocataire de procéder aux démarches correspondantes. Les délais mentionnés au I du
+présent article courent à compter de cette notification.
+
+III. - Si à l'issue des délais mentionnés au I et au II, l'intéressé n'a pas fait valoir ses droits aux prestations ou aux
+créances d'aliments mentionnés à l'article L. 262-35 ou n'a pas demandé à être dispensé de cette obligation et que le
+président du conseil général a l'intention de procéder à une réduction de l'allocation, ce dernier l'en informe par écrit,
+lui indique le montant de cette réduction et lui fait connaître qu'il dispose d'un délai d'un mois pour présenter des
+observations écrites ou demander à être entendu, assisté, le cas échéant, de la personne de son choix.
+
+Les dispositions de l'alinéa précédent sont également applicables lorsque le président du conseil général envisage de refuser
+la dispense demandée.
+
+Les informations prévues aux alinéas précédents et la décision de réduction de l'allocation prise par le président du conseil
+général sont notifiées à l'intéressé par lettre recommandée avec avis de réception. Cette réduction prend fin, par décision
+du président du conseil général, le premier jour du mois suivant celui au cours duquel l'allocataire a fourni des éléments
+justifiant qu'il a fait valoir ses droits.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-876 du 14 mai 2007 - art. 2
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L262-35 (M)
+
+
 ##### Sous-section 5 : Contrôle.
 
 ###### Article D262-49
@@ -66671,12 +66717,13 @@ l'élaboration de statistiques ou enquêtes de mortalité et de morbidité infan
 	  - Décret n°2004-1136 2004-10-21
 
 
-##### Paragraphe 7 : Centres spécialisés de soins aux toxicomanes.
+##### Paragraphe 7 : Centres de soins d'accompagnement et de prévention en addictologie
 
 ###### Article D312-153
 
-Les centres spécialisés de soins aux toxicomanes relevant des catégories d'établissement mentionnées au 9° du I de l'article
-L. 312-1 sont régis par les dispositions des articles D. 3411-1 à D. 3411-9 du code de la santé publique.
+Les centres de soins, d'accompagnement et de prévention en addictologie relevant des catégories d'établissement mentionnées
+au 9° du I de l'article L. 312-1 sont régis par les dispositions des articles D. 3411-1 à D. 3411-9 du code de la santé
+publique.
 
 **Liens relatifs à cet article**
 
@@ -66684,14 +66731,18 @@ L. 312-1 sont régis par les dispositions des articles D. 3411-1 à D. 3411-9 du
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2007-877 du 14 mai 2007 - art. 2 () JORF 15 mai 2007
+
 	**Cité par**:
 
 	  - Décret n°2007-877 du 14 mai 2007 - art. 4 (V)
 
 	**Cite**:
 
-	  - Code de la santé publique D3411-1 à D3411-9
-	  - Code de l'action sociale et des familles - art. L312-1 (M)
+	  - Code de la santé publique - art. D3411-1 (V)
+	  - Code de l'action sociale et des familles - art. L312-1 (V)
 
 
 ##### Paragraphe 8 : Appartements de coordination thérapeutique.
