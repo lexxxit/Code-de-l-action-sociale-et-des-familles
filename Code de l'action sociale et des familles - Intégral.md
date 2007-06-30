@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2007-05-16
+Version Consolidée au 2007-07-01
 
 # Partie législative
 
@@ -11510,10 +11510,6 @@ limites de tarifs fixés par voie réglementaire, à toute personne attestant d'
 les conditions d'âge et de perte d'autonomie, évaluée à l'aide d'une grille nationale, également définies par voie
 réglementaire.
 
-Les personnes sans résidence stable doivent, pour prétendre au bénéfice de l'allocation personnalisée d'autonomie, élire
-domicile auprès de l'un des organismes mentionnés à l'article L. 232-13, agréé à cette fin conjointement par le représentant
-de l'Etat dans le département et par le président du conseil général.
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -11524,10 +11520,6 @@ de l'Etat dans le département et par le président du conseil général.
 
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Modifié par**:
-
-	  - Loi n°2001-647 du 20 juillet 2001 - art. 1 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -11601,6 +11593,10 @@ de l'Etat dans le département et par le président du conseil général.
 	  - Code du travail - art. D3142-12 (VD)
 	  - Code du travail - art. D3142-8 (V)
 	  - Code général des impôts, CGI. - art. 199 sexdecies (V)
+
+	**Modifié par**:
+
+	  - Loi n°2007-290 du 5 mars 2007 - art. 51 (V)
 
 
 ##### Sous-section 1 : Prise en charge et allocation personnalisée d'autonomie à domicile
@@ -12114,8 +12110,12 @@ En cas d'urgence attestée, d'ordre médical ou social, le président du conseil
 d'autonomie à titre provisoire, et pour un montant forfaitaire fixé par décret, à dater du dépôt de la demande et jusqu'à
 l'expiration du délai de deux mois prévu au troisième alinéa de l'article L. 232-14.
 
-L'allocation personnalisée d'autonomie est servie aux personnes sans résidence stable par le département où elles sont
-domiciliées en application du dernier alinéa de l'article L. 232-2.
+L'allocation personnalisée d'autonomie est servie aux personnes sans domicile stable dans les conditions prévues au chapitre
+IV du titre VI du livre II.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -12128,10 +12128,6 @@ domiciliées en application du dernier alinéa de l'article L. 232-2.
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Modifié par**:
-
-	  - Loi n°2001-647 du 20 juillet 2001 - art. 1 () JORF 21 juillet 2001 en vigueur le 1er janvier 2002
-
 	**Cité par**:
 
 	  - Décret n°2001-1084 du 20 novembre 2001 - art. 5 (M)
@@ -12141,6 +12137,11 @@ domiciliées en application du dernier alinéa de l'article L. 232-2.
 	  - Code de l'action sociale et des familles - art. L232-18 (Ab)
 	  - Code de l'action sociale et des familles - art. L232-21-3 (V)
 	  - Code de l'action sociale et des familles - art. R232-29 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2007-290 du 5 mars 2007 - art. 51 (V) JORF 6 mars 2007 en vigueur le 1er juillet 2007
+	  - Loi n°2007-290 du 5 mars 2007 - art. 51 (V)
 
 	**Cite**:
 
@@ -16926,22 +16927,10 @@ l'entrée en vigueur à cette date des dispositions de la loi de finances mentio
 ###### Article L262-18
 
 Par dérogation aux dispositions du chapitre II du titre II du livre Ier, l'allocation est attribuée par le département de
-résidence du demandeur. A défaut de résidence, le département compétent est celui dans lequel le demandeur a élu domicile.
-L'élection de domicile est réalisée auprès d'un organisme agréé à cette fin par le président du conseil général ou auprès
-d'un centre communal ou intercommunal d'action sociale.
+résidence du demandeur.
 
-Les personnes relevant de la loi n° 69-3 du 3 janvier 1969 relative à l'exercice des activités ambulantes et au régime
-applicable aux personnes circulant en France sans domicile ni résidence fixe élisent domicile auprès d'un organisme agréé ou
-d'un centre communal ou intercommunal d'action sociale, situé ou non dans leur commune de rattachement.
-
-L'agrément précise les conditions dans lesquelles les organismes peuvent, le cas échéant, refuser de recevoir la déclaration
-d'élection de domicile.
-
-Un organisme au moins dans le ressort de chaque commission locale d'insertion, désigné par le président du conseil général
-ou, au cas où celui-ci n'y aurait pas pourvu et après une mise en demeure restée sans résultat, par le représentant de l'Etat
-dans le département, est tenu de recevoir toute déclaration.
-
-La demande d'allocation qui y est déposée est réputée valoir élection de domicile auprès de cet organisme.
+Les personnes sans domicile stable doivent élire domicile dans les conditions prévues au chapitre IV du titre VI du présent
+livre.
 
 **Liens relatifs à cet article**
 
@@ -16968,7 +16957,7 @@ La demande d'allocation qui y est déposée est réputée valoir élection de do
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1477 du 1 décembre 2005 - art. 2 () JORF 2 décembre 2005
+	  - Loi n°2007-290 du 5 mars 2007 - art. 51 (V)
 
 
 ###### Article L262-19
@@ -19341,6 +19330,351 @@ Sauf disposition contraire, les mesures d'application du présent chapitre sont 
 	**Nouveaux textes**:
 
 	  - Code de l'action sociale et des familles - art. L263-5 (VD)
+
+
+#### Chapitre IV : Domiciliation
+
+##### Section 1 : Droit à la domiciliation
+
+###### Article L264-1
+
+Pour prétendre au service des prestations sociales légales, réglementaires et conventionnelles, à l'exception de l'aide
+médicale de l'Etat mentionnée à l'article L. 251-1, ainsi qu'à la délivrance d'un titre national d'identité, à l'inscription
+sur les listes électorales ou à l'aide juridique, les personnes sans domicile stable doivent élire domicile soit auprès d'un
+centre communal ou intercommunal d'action sociale, soit auprès d'un organisme agréé à cet effet.
+
+L'organisme compétent pour attribuer une prestation sociale légale, réglementaire ou conventionnelle est celui dans le
+ressort duquel la personne a élu domicile.
+
+Le département débiteur de l'allocation personnalisée d'autonomie, de la prestation de compensation du handicap et du revenu
+minimum d'insertion mentionnés respectivement aux articles L. 232-1, L. 245-1 et L. 262-1 est celui dans le ressort duquel
+l'intéressé a élu domicile.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°98-247 du 2 avril 1998 - art. 10 bis (VD)
+	  - Décret n°98-247 du 2 avril 1998 - art. 9 (VD)
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 79 (Ab)
+	  - Décret n°2007-1433 du 5 octobre 2007 - art. 1 (VT)
+	  - Loi n°2009-1436 du 24 novembre 2009 - art. 30 (V)
+	  - Décret n°2015-1461 du 10 novembre 2015 - art. (V)
+	  - Décret n°2017-861 du 9 mai 2017 - art. 10
+	  - Décret n°2017-861 du 9 mai 2017 - art. 11
+	  - Décret n°2017-861 du 9 mai 2017 - art. 25
+	  - Code civil - art. 102 (V)
+	  - Code de l'action sociale et des familles - art. D264-1 (V)
+	  - Code de l'action sociale et des familles - art. D264-2 (V)
+	  - Code de l'action sociale et des familles - art. D264-6 (V)
+	  - Code de l'action sociale et des familles - art. D264-7 (V)
+	  - Code de l'action sociale et des familles - art. D264-8 (V)
+	  - Code de l'action sociale et des familles - art. L264-3 (V)
+	  - Code de l'action sociale et des familles - art. L264-4 (V)
+	  - Code de l'action sociale et des familles - art. L264-6 (V)
+	  - Code de l'action sociale et des familles - art. L264-8 (V)
+	  - Code de l'action sociale et des familles - art. L264-9 (Ab)
+	  - Code de l'action sociale et des familles - art. L542-6 (V)
+	  - Code électoral - art. L15-1 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2007-290 du 5 mars 2007 - art. 51 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L232-1 (M)
+	  - Code de l'action sociale et des familles - art. L245-1 (M)
+	  - Code de l'action sociale et des familles - art. L251-1 (M)
+	  - Code de l'action sociale et des familles - art. L262-1 (V)
+
+
+##### Section 2 : Election de domicile
+
+###### Article L264-2
+
+L'élection de domicile est accordée pour une durée limitée. Elle est renouvelable de droit et ne peut prendre fin que dans
+les conditions mentionnées à l'article L. 264-5.
+
+Les centres communaux ou intercommunaux d'action sociale ainsi que les organismes agréés remettent aux intéressés une
+attestation d'élection de domicile mentionnant la date d'expiration de celle-ci.
+
+L'attestation d'élection de domicile ne peut être délivrée à la personne non ressortissante d'un Etat membre de l'Union
+européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse, qui n'est pas
+en possession d'un des titres de séjour prévus au titre Ier du livre III du code de l'entrée et du séjour des étrangers et du
+droit d'asile.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°55-1397 du 22 octobre 1955 - art. 2 (V)
+	  - Décret n°2005-1726 du 30 décembre 2005 - art. 6 (V)
+	  - Arrêté du 19 décembre 2007 - art. 6 (Ab)
+	  - Arrêté du 12 décembre 2013 - art. 6 (V)
+	  - Arrêté du 30 mai 2014 - art. 1 (VT)
+	  - Décret n°2015-1437 du 5 novembre 2015 - art. Annexe I (V)
+	  - Décret n°2016-1460 du 28 octobre 2016 - art. 18
+	  - Arrêté du 23 décembre 2016 - art. 4 (V)
+	  - Décret n°2017-890 du 6 mai 2017 - art. 57
+	  - Code de l'action sociale et des familles - art. D264-1 (V)
+	  - Code de l'action sociale et des familles - art. L542-6 (V)
+	  - Code de l'action sociale et des familles - art. R123-21 (VD)
+	  - Code monétaire et financier - art. R312-2 (V)
+	  - Code électoral - art. L15-1 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2007-290 du 5 mars 2007 - art. 51 (V) JORF 6 mars 2007 en vigueur le 1er juillet 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L264-5 (V)
+
+
+###### Article L264-3
+
+L'absence d'une adresse stable ne peut être opposée à une personne pour lui refuser l'exercice d'un droit, d'une prestation
+sociale ou l'accès à un service essentiel garanti par la loi, notamment en matière bancaire et postale, dès lors qu'elle
+dispose d'une attestation en cours de validité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2007-290 du 5 mars 2007 - art. 51 (V) JORF 6 mars 2007 en vigueur le 1er juillet 2007
+
+
+###### Article L264-4
+
+Lorsque les centres communaux ou intercommunaux d'action sociale refusent l'élection de domicile des personnes sans domicile
+stable qui en font la demande, parce qu'elles ne présentent aucun lien avec la commune ou le groupement de communes, ils
+doivent motiver leur décision. 
+
+Le représentant de l'Etat dans le département peut conclure une convention de prise en charge des activités de domiciliation
+avec un organisme agréé. 
+
+Les organismes agréés ne peuvent refuser l'élection de domicile que dans les cas prévus par leur agrément. 
+
+Lorsqu'un des organismes mentionnés à l'article L. 264-1 refuse une élection de domicile, il doit orienter l'intéressé vers
+un organisme en mesure d'assurer sa domiciliation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2007-290 du 5 mars 2007 - art. 51 (V) JORF 6 mars 2007 en vigueur le 1er juillet 2007
+
+	**Cité par**:
+
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 194 (V)
+	  - Code de l'action sociale et des familles - art. L123-4 (V)
+	  - Code de l'action sociale et des familles - art. L264-10 (VT)
+	  - Code de l'action sociale et des familles - art. R264-4 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L264-1 (V)
+
+
+###### Article L264-5
+
+L'organisme qui assure la domiciliation y met fin lorsque l'intéressé le demande, lorsqu'il acquiert un domicile stable ou
+lorsqu'il ne se manifeste plus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2007-290 du 5 mars 2007 - art. 51 (V) JORF 6 mars 2007 en vigueur le 1er juillet 2007
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L264-2 (V)
+
+
+##### Section 3 : Agrément des organismes procédant à l'élection de domicile
+
+###### Article L264-6
+
+L'agrément délivré aux organismes mentionnés à l'article L. 264-1 est attribué par le représentant de l'Etat dans le
+département. Chaque commune du département met à disposition du public la liste des organismes agréés dans le département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2007-290 du 5 mars 2007 - art. 51 (V) JORF 6 mars 2007 en vigueur le 1er juillet 2007
+
+	**Cité par**:
+
+	  - Décret n°2014-1286 du 23 octobre 2014 - art. (VD)
+	  - Code de l'action sociale et des familles - art. D264-15 (V)
+	  - Code électoral - art. L15-1 (M)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L264-1 (V)
+
+
+###### Article L264-7
+
+L'agrément a une durée limitée.
+
+Il est attribué à tout organisme qui s'engage à respecter un cahier des charges arrêté par le représentant de l'Etat dans le
+département, après avis du président du conseil général, dans des conditions définies par décret, précisant notamment la
+durée d'existence de l'organisme et son objet.
+
+Ce cahier des charges détermine notamment les obligations d'information, d'évaluation et de contrôle auxquelles est tenu
+l'organisme, en particulier à l'égard de l'Etat, du département et des organismes chargés du versement des prestations
+sociales.
+
+Avant tout renouvellement de l'agrément, une évaluation de l'activité de l'organisme agréé au regard des engagements pris
+dans le cahier des charges doit être effectuée.
+
+L'agrément peut déterminer un nombre d'élections de domicile au-delà duquel l'organisme n'est plus tenu d'accepter de
+nouvelles élections. Il peut autoriser l'organisme à restreindre son activité de domiciliation à certaines catégories de
+personnes ou à certaines prestations sociales. Dans ce dernier cas, les attestations d'élection de domicile délivrées par
+l'organisme ne sont opposables que pour l'accès aux prestations sociales mentionnées par l'agrément.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2007-290 du 5 mars 2007 - art. 51 (V) JORF 6 mars 2007 en vigueur le 1er juillet 2007
+
+	**Cité par**:
+
+	  - Décret n°2007-1124 du 20 juillet 2007 - art. 3 (V)
+	  - Décret n°2016-633 du 19 mai 2016 - art. 6 (V)
+	  - Décret n°2016-641 du 19 mai 2016 - art. 11 (V)
+	  - Code de l'action sociale et des familles - art. D264-10 (V)
+	  - Code de l'action sociale et des familles - art. D264-12 (V)
+	  - Code de l'action sociale et des familles - art. D264-13 (V)
+	  - Code de l'action sociale et des familles - art. D264-5 (V)
+	  - Code électoral - art. L15-1 (M)
+
+
+##### Section 4 : Contrôle et évaluation
+
+###### Article L264-8
+
+Les organismes mentionnés à l'article L. 264-1 s'assurent que la personne qui élit domicile est bien sans domicile stable.
+Ils rendent régulièrement compte de leur activité de domiciliation au représentant de l'Etat dans le département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2007-290 du 5 mars 2007 - art. 51 (V) JORF 6 mars 2007 en vigueur le 1er juillet 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L264-1 (V)
+
+
+###### Article L264-9
+
+Le rapport mentionné à l'article L. 115-4 évalue les conditions de mise en oeuvre du présent chapitre et l'effectivité de
+l'accès aux droits mentionnés à l'article L. 264-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2007-290 du 5 mars 2007 - art. 51 (V) JORF 6 mars 2007 en vigueur le 1er juillet 2007
+
+	**Abrogé par**:
+
+	  - Loi n°2011-525 du 17 mai 2011 - art. 69 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L115-4
+	  - Code de l'action sociale et des familles - art. L264-1
+
+
+##### Section 5 : Dispositions d'application
+
+###### Article L264-10
+
+Le présent chapitre n'est pas applicable aux procédures de domiciliation des étrangers qui sollicitent leur admission au
+séjour au titre de l'asile en application de l'article L. 741-1 du code de l'entrée et du séjour des étrangers et du droit
+d'asile. 
+
+Les conditions d'application du présent chapitre sont déterminées par décret, à l'exception de celles de l'article L. 264-4
+qui sont déterminées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Loi n°2007-290 du 5 mars 2007 - art. 51 (V) JORF 6 mars 2007 en vigueur le 1er juillet 2007
+
+	**Cité par**:
+
+	  - Loi n°2015-925 du 29 juillet 2015 - art. 35 (V)
+	  - Décret n°2015-1166 du 21 septembre 2015 - art. 30 (VD)
+	  - Code de l'action sociale et des familles - art. L542-6 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L741-1 (VT)
+	  - Code de l'action sociale et des familles - art. L264-4 (V)
 
 
 ## Livre III : Action sociale et médico-sociale mise en oeuvre par des établissements et des services
@@ -38189,6 +38523,10 @@ Lorsque les décisions administratives d'admission ont été prises sur la base 
 être procédé à leur révision, avec répétition de l'indu. Dans ce cas, la révision est poursuivie devant l'autorité qui a pris
 la décision.
 
+Toutefois, les allocations d'aide sociale servies aux personnes résidant dans un établissement comportant un hébergement
+permanent et relevant des 6° et 7° du I de l'article L. 312-1 du présent code et du 2° de l'article L. 6111-2 du code de la
+santé publique sont versées à terme à échoir.
+
 Dans les cas prévus à l'article R. 131-3 et au premier alinéa du présent article, la procédure de révision est engagée par le
 président du conseil général ou le préfet et l'intéressé est mis en mesure de présenter ses observations.
 
@@ -38205,11 +38543,12 @@ président du conseil général ou le préfet et l'intéressé est mis en mesure
 
 	**Modifié par**:
 
-	  - Décret n°2007-198 2007-02-13 art. 1 I, III JORF 15 février 2007
-	  - Décret n°2007-198 du 13 février 2007 - art. 1 () JORF 15 février 2007
+	  - Décret n°2007-828 du 11 mai 2007 - art. 2 () JORF 12 mai 2007 en vigueur le 1er juillet 2007
 
 	**Cite**:
 
+	  - Code de la santé publique - art. L6111-2 (V)
+	  - Code de l'action sociale et des familles - art. L312-1 (M)
 	  - Code de l'action sociale et des familles - art. R131-3 (T)
 
 	**Nouveaux textes**:
@@ -52200,37 +52539,6 @@ régulières.
 	  - Code de l'action sociale et des familles - art. L232-3
 
 
-##### Paragraphe 3 : Agrément des organismes pour l'élection de domicile.
-
-###### Article R232-39
-
-L'agrément prévu au dernier alinéa de l'article L. 232-2 est accordé, sur leur demande, aux organismes mentionnés à l'article
-L. 232-13 pour une durée de trois ans renouvelable.
-
-L'agrément précise les modalités d'enregistrement des déclarations d'élection de domicile.
-
-Un organisme au moins doit être agréé dans chaque département.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2001-1085 du 20 novembre 2001 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Abrogé par**:
-
-	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 15 mai 2007 en vigueur le 1er juillet 2007
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L232-13 (M)
-	  - Code de l'action sociale et des familles - art. L232-2 (M)
-
-
 ##### Section 3 : Financement de l'allocation personnalisée d'autonomie
 
 ##### Sous-section 2 : Dispositions financières relatives à l'allocation personnalisée d'autonomie
@@ -54551,26 +54859,6 @@ conditions d'entrée et de séjour des étrangers en France ou en application de
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. R542-4 (V)
-
-
-###### Article R245-2
-
-Pour prétendre à la prestation de compensation, les personnes ne pouvant pas justifier d'un domicile peuvent élire domicile
-auprès d'une association ou d'un organisme à but non lucratif agréés à cette fin par le président du conseil général.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Créé par**:
-
-	  - Décret n°2005-1588 du 19 décembre 2005 - art. 1 () JORF 20 décembre 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 15 mai 2007 en vigueur le 1er juillet 2007
 
 
 ##### Sous-section 2 : Conditions d'âge
@@ -59080,7 +59368,7 @@ quelque nature que ce soit, notamment sur le montant des allocations de revenu m
 	  - Code de l'action sociale et des familles - art. R262-40 (VD)
 
 
-##### Sous-section 3 : Liquidation, versement et révision.
+##### Sous-section 2 : Liquidation, versement et révision.
 
 ###### Article D262-40
 
@@ -59099,8 +59387,7 @@ Le montant mentionné au 1° de l'article L. 262-22, au-dessous duquel l'allocat
 
 	**Modifié par**:
 
-	  - Décret n°2006-1197 2006-09-29 art. 10 I, II JORF 30 septembre 2006 en vigueur le 1er octobre 2006
-	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
 
 	**Cite**:
 
@@ -59139,8 +59426,7 @@ une caisse d'allocations familiales.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1197 2006-09-29 art. 10 I, II JORF 30 septembre 2006 en vigueur le 1er octobre 2006
-	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
 
 
 ###### Article R262-37
@@ -59162,13 +59448,44 @@ respectivement par les caisses d'allocations familiales et les caisses de mutual
 
 	**Modifié par**:
 
-	  - Décret n°2006-1197 2006-09-29 art. 10 I, II JORF 30 septembre 2006 en vigueur le 1er octobre 2006
-	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
 
 
 ###### Article R262-38
 
 L'allocation est liquidée par l'organisme payeur pour des périodes successives de trois mois.
+
+**Nota:**
+
+Il a été dérogé aux dispositions du présent article par la délibération du 15 octobre 2007 du conseil général de la Vienne
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769621X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 7 décembre 2007 du conseil général du Gers publiée
+au Journal officiel du 1er janvier 2008 (NOR : CTRX0703373X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 14 décembre 2007 du conseil général de l'Allier
+publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703369X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 14 décembre 2007 du conseil général de la
+Charente-Maritime publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703372X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 10 décembre 2007 du conseil général de l'Eure
+publiée au Journal officiel du 6 janvier 2008 (NOR : CTRX0800134X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 14 janvier 2008 du conseil général du Calvados
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800290X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 23 janvier 2008 du conseil général du Gard publiée
+au Journal officiel du 1er février 2008 (NOR : CTRX0800289X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 23 janvier 2008 du conseil général du Morbihan
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800292X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 25 janvier 2008 du conseil général de la Mayenne
+publiée au Journal officiel du 1er mars 2008 (NOR : CTRX0800006X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 28 janvier 2008 du conseil général de la Seine
+Maritime publiée au Journal officiel du 1er mars 2008 (NOR : CTRX0800002X).
 
 **Liens relatifs à cet article**
 
@@ -59182,8 +59499,7 @@ L'allocation est liquidée par l'organisme payeur pour des périodes successives
 
 	**Modifié par**:
 
-	  - Décret n°2006-1197 2006-09-29 art. 10 I, II JORF 30 septembre 2006 en vigueur le 1er octobre 2006
-	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
 
 	**Cité par**:
 
@@ -59215,8 +59531,7 @@ Dans le cas où le président du conseil général décide d'accorder un acompte
 
 	**Modifié par**:
 
-	  - Décret n°2006-1197 2006-09-29 art. 10 I, II JORF 30 septembre 2006 en vigueur le 1er octobre 2006
-	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
 
 	**Cite**:
 
@@ -59250,8 +59565,7 @@ bénéficiaire sont d'un montant supérieur à celui du revenu minimum d'inserti
 
 	**Modifié par**:
 
-	  - Décret n°2006-1197 2006-09-29 art. 10 I, II JORF 30 septembre 2006 en vigueur le 1er octobre 2006
-	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
 
 	**Cite**:
 
@@ -59284,8 +59598,7 @@ articles L. 262-19, L. 262-20 et L. 262-21.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1197 2006-09-29 art. 10 I, II JORF 30 septembre 2006 en vigueur le 1er octobre 2006
-	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
 
 	**Cite**:
 
@@ -59321,8 +59634,7 @@ d'ouverture du droit ; dans ce cas, l'autre membre du couple est allocataire.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1197 2006-09-29 art. 10 I, II JORF 30 septembre 2006 en vigueur le 1er octobre 2006
-	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
 
 	**Cité par**:
 
@@ -59353,21 +59665,20 @@ sera versée.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1197 2006-09-29 art. 10 I, II JORF 30 septembre 2006 en vigueur le 1er octobre 2006
-	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
 
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. R262-1 (V)
 
 
-##### Sous-section 4 : Suspension ou réduction.
+##### Sous-section 3 : Suspension ou réduction.
 
 ###### Article R262-45
 
 Si un allocataire qui n'a ni conjoint, ni partenaire lié par un pacte civil de solidarité, ni concubin, ni personne à charge
 est hospitalisé dans un établissement de santé pendant plus de soixante jours, en bénéficiant d'une prise en charge par
-l'assurance maladie, le montant de son allocation est réduit de 50 %.
+l'assurance maladie, le montant de son allocation est réduit de 50 %. 
 
 La réduction de l'allocation n'est opérée que pendant les périodes où l'allocataire est effectivement accueilli dans un
 établissement de santé, à l'exclusion des périodes de suspension de prise en charge par l'assurance maladie.
@@ -59387,15 +59698,11 @@ L'article R. 262-11-6 n'est pas applicable.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1197 2006-09-29 art. 10 I, III JORF 30 septembre 2006 en vigueur le 1er octobre 2006
-	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. R262-11-6 (V)
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
 
 	**Cité par**:
 
+	  - Code de l'action sociale et des familles - art. R262-11-6 (VT)
 	  - Code de l'action sociale et des familles - art. R262-46 (V)
 	  - Code de l'action sociale et des familles - art. R541-1 (T)
 	  - Code de l'action sociale et des familles - art. R542-6 (VD)
@@ -59423,8 +59730,7 @@ duquel l'intéressé n'est plus hospitalisé dans un établissement de santé.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1197 2006-09-29 art. 10 I, III JORF 30 septembre 2006 en vigueur le 1er octobre 2006
-	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
 
 	**Cite**:
 
@@ -59464,8 +59770,7 @@ l'administration pénitentiaire.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1197 2006-09-29 art. 10 I, III JORF 30 septembre 2006 en vigueur le 1er octobre 2006
-	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
 
 	**Cite**:
 
@@ -59509,16 +59814,20 @@ justifiant qu'il a fait valoir ses droits.
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-876 du 14 mai 2007 - art. 2
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2009-404 du 15 avril 2009 - art. 2
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L262-35 (M)
+	  - Code de l'action sociale et des familles - art. L262-35
 
 
-##### Sous-section 5 : Contrôle.
+##### Sous-section 4 : Contrôle.
 
 ###### Article D262-49
 
@@ -59538,7 +59847,7 @@ des bénéficiaires prévues à l'article L. 262-33.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1198 du 29 septembre 2006 - art. 1 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
 
 	**Cite**:
 
@@ -59570,8 +59879,7 @@ d'insertion.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1197 2006-09-29 art. 10 I, IV JORF 30 septembre 2006 en vigueur le 1er octobre 2006
-	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
 
 	**Cite**:
 
@@ -59598,17 +59906,21 @@ commission ou de l'expiration du délai mentionné à l'alinéa précédent.
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2009-404 du 15 avril 2009 - art. 2
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L262-47-1 (V)
-	  - Code de l'action sociale et des familles - art. L263-10 (M)
+	  - Code de l'action sociale et des familles - art. L262-47-1
+	  - Code de l'action sociale et des familles - art. L263-10
 
 
-##### Sous-section 6 : Réception et reversement par des organismes agréés.
+##### Sous-section 5 : Réception et reversement par des organismes agréés.
 
 ###### Article R262-50
 
@@ -59628,8 +59940,7 @@ bénéficiaires les allocations de revenu minimum d'insertion et les primes forf
 
 	**Modifié par**:
 
-	  - Décret n°2006-1197 2006-09-29 art. 10 I, V JORF 30 septembre 2006 en vigueur le 1er octobre 2006
-	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
 
 	**Cité par**:
 
@@ -59656,8 +59967,7 @@ Il précise les modalités de contrôle auquel l'organisme agréé est soumis.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1197 2006-09-29 art. 10 I, V JORF 30 septembre 2006 en vigueur le 1er octobre 2006
-	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
 
 
 ###### Article R262-52
@@ -59683,8 +59993,7 @@ Il est communiqué au président du conseil général sur sa demande.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1197 2006-09-29 art. 10 I, V JORF 30 septembre 2006 en vigueur le 1er octobre 2006
-	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
 
 
 ###### Article R262-53
@@ -59704,8 +60013,7 @@ minimum le quart des sommes encaissées en moyenne chaque année.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1197 2006-09-29 art. 10 I, V JORF 30 septembre 2006 en vigueur le 1er octobre 2006
-	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
 
 
 ###### Article R262-54
@@ -59729,8 +60037,7 @@ forfaitaires à leurs bénéficiaires.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1197 2006-09-29 art. 10 I, V JORF 30 septembre 2006 en vigueur le 1er octobre 2006
-	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
 
 
 ###### Article R262-55
@@ -59757,8 +60064,7 @@ bénéficiaire en sont également informés.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1197 2006-09-29 art. 10 I, V JORF 30 septembre 2006 en vigueur le 1er octobre 2006
-	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
 
 	**Cité par**:
 
@@ -59787,8 +60093,7 @@ l'organisme payeur.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1197 2006-09-29 art. 10 I, V JORF 30 septembre 2006 en vigueur le 1er octobre 2006
-	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
 
 	**Cité par**:
 
@@ -59814,8 +60119,7 @@ de celui-ci dans le délai d'un mois, la mesure est réputée caduque et les som
 
 	**Modifié par**:
 
-	  - Décret n°2006-1197 2006-09-29 art. 10 I, V JORF 30 septembre 2006 en vigueur le 1er octobre 2006
-	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
 
 	**Cité par**:
 
@@ -59840,15 +60144,14 @@ reçues.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1197 2006-09-29 art. 10 I, V JORF 30 septembre 2006 en vigueur le 1er octobre 2006
-	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
 
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. R262-50 (M)
 
 
-##### Sous-section 7 : Conventions conclues entre le département et les organismes payeurs
+##### Sous-section 6 : Conventions conclues entre le département et les organismes payeurs
 
 ##### Paragraphe 1 : Missions exercées par les organismes payeurs à titre gratuit.
 
@@ -59880,7 +60183,7 @@ Le service de la prime forfaitaire est exercé à titre gratuit par les organism
 
 	**Modifié par**:
 
-	  - Décret n°2006-1198 du 29 septembre 2006 - art. 1 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
 
 	**Cité par**:
 
@@ -59905,7 +60208,7 @@ décisions relevant de leurs compétences respectives et conditionnant la liquid
 
 	**Modifié par**:
 
-	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
 
 
 ###### Article D262-61
@@ -59927,7 +60230,7 @@ d'information respectifs des gestionnaires.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1198 du 29 septembre 2006 - art. 1 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
 
 
 ###### Article D262-62
@@ -59947,7 +60250,7 @@ Les conventions précisent les modalités pratiques de la transmission d'informa
 
 	**Modifié par**:
 
-	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
 
 	**Cite**:
 
@@ -59979,7 +60282,7 @@ d'insertion et de la prime forfaitaire mentionnée à l'article L. 262-11 exerc�
 
 	**Modifié par**:
 
-	  - Décret n°2006-1198 du 29 septembre 2006 - art. 1 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
 
 	**Cite**:
 
@@ -60010,7 +60313,7 @@ titre du service de l'allocation de revenu minimum d'insertion et de la prime fo
 
 	**Modifié par**:
 
-	  - Décret n°2006-1198 du 29 septembre 2006 - art. 1 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
 
 
 ###### Article D262-65
@@ -60032,7 +60335,7 @@ des organismes payeurs. Cette rémunération est, le cas échéant, fixée dans 
 
 	**Modifié par**:
 
-	  - Décret n°2006-1198 du 29 septembre 2006 - art. 1 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
 
 	**Cité par**:
 
@@ -60058,7 +60361,7 @@ confiées par le département.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
 
 	**Cité par**:
 
@@ -60094,7 +60397,7 @@ acomptes mensuels par le département. Cette opération s'effectue au moins une 
 
 	**Modifié par**:
 
-	  - Décret n°2006-1198 du 29 septembre 2006 - art. 1 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
 
 	**Cité par**:
 
@@ -60133,7 +60436,7 @@ relations avec l'ensemble de leurs usagers ;
 
 	**Modifié par**:
 
-	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
 
 	**Cité par**:
 
@@ -60157,7 +60460,7 @@ Les conventions précisent les modalités de règlement amiable des litiges entr
 
 	**Modifié par**:
 
-	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
 
 
 ###### Article D262-70
@@ -60187,7 +60490,7 @@ Les conventions précisent :
 
 	**Modifié par**:
 
-	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
 
 
 ###### Article D262-71
@@ -60218,7 +60521,7 @@ ces charges est effectué dans le mois qui suit la fin de chaque trimestre civil
 
 	**Modifié par**:
 
-	  - Décret n°2006-1198 du 29 septembre 2006 - art. 1 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
 
 	**Cite**:
 
@@ -60798,6 +61101,34 @@ Les dispositions relatives à l'allocation de parent isolé sont fixées à l'ar
 
 	  - Code de l'action sociale et des familles - art. R263-8 (Ab)
 	  - Code de l'action sociale et des familles - art. R263-9 (Ab)
+
+
+#### Chapitre IV : Domiciliation
+
+###### Article R264-4
+
+Sont considérées comme ayant un lien avec la commune ou le groupement de communes au sens de l'article L. 264-4 les personnes
+qui sont installées sur son territoire.
+
+Les personnes qui ne remplissent pas cette condition et qui ne sont pas installées sur le territoire d'une autre commune sont
+également considérées comme ayant un lien avec la commune ou le groupement de communes, au sens de l'article L. 264-4, dès
+lors qu'elles y exercent une activité professionnelle, y bénéficient d'actions d'insertion ou exercent l'autorité parentale
+sur un enfant qui y est scolarisé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Décret n°2007-893 du 15 mai 2007 - art. 1 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L264-4 (V)
 
 
 ## Livre III : Action sociale et médico-sociale mise en oeuvre par des établissements et des services
