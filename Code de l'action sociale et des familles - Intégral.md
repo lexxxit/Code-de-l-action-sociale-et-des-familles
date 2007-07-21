@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2007-07-01
+Version Consolidée au 2007-07-22
 
 # Partie législative
 
@@ -59130,244 +59130,6 @@ l'occasion de l'exercice de ses fonctions.
 	  - Code de l'action sociale et des familles - art. R542-6 (VD)
 
 
-##### Sous-section 2 : Agrément pour la réception des déclarations d'élection de domicile.
-
-###### Article R262-28
-
-Peuvent recevoir les déclarations d'élection de domicile des personnes sans résidence stable et des personnes circulant en
-France sans domicile ni résidence fixe au sens de la loi n° 69-3 du 3 janvier 1969 qui demandent à bénéficier de l'allocation
-de revenu minimum d'insertion les organismes à but non lucratif agréés à cette fin par le président du conseil général.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°69-3 1969-01-03
-
-	**Anciens textes**:
-
-	  - Décret n°88-1114 du 12 décembre 1988 - art. 1 (M)
-	  - Décret n°88-1114 du 12 décembre 1988 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Modifié par**:
-
-	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 15 mai 2007 en vigueur le 1er juillet 2007
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. R262-35 (VD)
-
-
-###### Article R262-29
-
-La demande d'agrément est adressée au président du conseil général.
-
-L'agrément est accordé par décision du président du conseil général pour une durée fixée dans l'agrément, dans la limite de
-cinq ans. Cet agrément peut être renouvelé sur demande de l'organisme.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°88-1114 du 12 décembre 1988 - art. 2 (M)
-	  - Décret n°88-1114 du 12 décembre 1988 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Modifié par**:
-
-	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 15 mai 2007 en vigueur le 1er juillet 2007
-
-
-###### Article R262-30
-
-L'agrément précise les modalités d'enregistrement des déclarations d'élection de domicile ainsi que les modalités du contrôle
-auquel l'organisme agréé est soumis.
-
-Il précise, le cas échéant, si l'organisme est tenu de recevoir toute déclaration.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°88-1114 du 12 décembre 1988 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Modifié par**:
-
-	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 15 mai 2007 en vigueur le 1er juillet 2007
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. R541-1 (T)
-	  - Code de l'action sociale et des familles - art. R542-6 (VD)
-
-
-###### Article R262-31
-
-Lorsqu'il reçoit la déclaration d'élection de domicile, l'organisme agréé délivre au déclarant une attestation conforme au
-modèle annexé à l'agrément.
-
-Il communique au président du conseil général, sur sa demande, la liste des personnes qui ont élu domicile auprès de lui.
-Cette liste est établie suivant le modèle annexé à l'agrément.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°88-1114 du 12 décembre 1988 - art. 4 (M)
-	  - Décret n°88-1114 du 12 décembre 1988 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Modifié par**:
-
-	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 15 mai 2007 en vigueur le 1er juillet 2007
-
-
-###### Article R262-32
-
-L'élection de domicile prend fin lorsque le déclarant le demande, lorsqu'il dispose d'une résidence stable ou lorsqu'il
-dépose une nouvelle déclaration auprès d'un autre organisme agréé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°88-1114 du 12 décembre 1988 - art. 6 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Modifié par**:
-
-	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 15 mai 2007 en vigueur le 1er juillet 2007
-
-
-###### Article R262-33
-
-En cas de manquements graves de l'organisme agréé à ses obligations, et après que celui-ci a été mis en mesure de présenter
-ses observations, le retrait de l'agrément peut être prononcé par le président du conseil général.
-
-En cas d'urgence, le président du conseil général suspend l'agrément.
-
-Il prend les dispositions nécessaires pour assurer la continuité du versement des allocations aux personnes qui avaient fait
-élection de domicile auprès de l'organisme dont l'agrément a été retiré ou suspendu.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°88-1114 du 12 décembre 1988 - art. 7 (M)
-	  - Décret n°88-1114 du 12 décembre 1988 - art. 7 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Modifié par**:
-
-	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 15 mai 2007 en vigueur le 1er juillet 2007
-
-
-###### Article R262-34
-
-Lorsque le président du conseil général n'a pas, dans le ressort d'une commission locale d'insertion, agréé d'organisme tenu
-de recevoir toute déclaration d'élection de domicile, le représentant de l'État dans le département le met en demeure de
-procéder à un agrément dans un délai qui ne peut être inférieur à trois mois ni supérieur à six mois. Si cette mise en
-demeure reste sans résultat dans le délai fixé, le représentant de l'État dans le département procède à cet agrément.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°88-1114 du 12 décembre 1988 - art. 7-1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Modifié par**:
-
-	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 15 mai 2007 en vigueur le 1er juillet 2007
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. R262-76 (VD)
-
-
-###### Article R262-35
-
-Les fonctions prévues à l'article R. 262-28 sont exercées à titre gratuit. Elles ne peuvent donner lieu à aucune retenue, de
-quelque nature que ce soit, notamment sur le montant des allocations de revenu minimum d'insertion.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°88-1114 du 12 décembre 1988 - art. 8 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Modifié par**:
-
-	  - Décret n°2006-1197 du 29 septembre 2006 - art. 10 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2007-893 du 15 mai 2007 - art. 2 () JORF 15 mai 2007 en vigueur le 1er juillet 2007
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. R262-28 (M)
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. R262-40 (VD)
-
-
 ##### Sous-section 2 : Liquidation, versement et révision.
 
 ###### Article D262-40
@@ -61104,6 +60866,349 @@ Les dispositions relatives à l'allocation de parent isolé sont fixées à l'ar
 
 
 #### Chapitre IV : Domiciliation
+
+###### Article D264-1
+
+L'élection de domicile mentionnée à l'article L. 264-2 est accordée pour une durée d'un an.
+
+Les organismes mentionnés à l'article L. 264-1 remettent aux intéressés une attestation d'élection de domicile dont le modèle
+est fixé par arrêté conjoint des ministres chargés de l'action sociale, de la sécurité sociale et du ministre de l'intérieur.
+
+Cette attestation précise notamment le nom et l'adresse de l'organisme, la date de l'élection de domicile, sa durée de
+validité et, le cas échéant, l'énumération des prestations sociales pour lesquelles cette attestation peut être utilisée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-1124 du 20 juillet 2007 - art. 1 () JORF 22 juillet 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L264-1 (V)
+	  - Code de l'action sociale et des familles - art. L264-2 (V)
+
+
+###### Article D264-2
+
+Toute demande d'élection de domicile ou de renouvellement doit être suivie d'un entretien avec l'intéressé. Il reçoit alors
+une information sur ses droits et obligations en matière de domiciliation en application des lois, des règlements et, le cas
+échéant, du règlement intérieur de l'organisme. Il est invité à faire connaître à l'organisme s'il est déjà en possession
+d'une attestation délivrée par un organisme mentionné à l'article L. 264-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-1124 du 20 juillet 2007 - art. 1 () JORF 22 juillet 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L264-1 (V)
+
+
+###### Article D264-3
+
+L'organisme qui assure la domiciliation y met fin lorsque l'intéressé ne s'est pas présenté pendant plus de trois mois
+consécutifs, sauf si cette absence est justifiée par des raisons professionnelles ou de santé. A cette fin, l'organisme tient
+à jour un enregistrement des visites.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-1124 du 20 juillet 2007 - art. 1 () JORF 22 juillet 2007
+
+
+###### Article D264-5
+
+Le cahier des charges mentionné à l'article L. 264-7 fixe les obligations auxquelles doivent satisfaire les organismes qui
+sollicitent un agrément pour procéder à l'élection de domicile, en particulier celles :
+
+1° D'adresser chaque année au préfet de département le rapport mentionné à l'article D. 264-8 ;
+
+2° D'informer une fois par mois les départements et les organismes de sécurité sociale concernés des décisions d'attribution
+et de retrait d'élection de domicile ;
+
+3° De délivrer des attestations d'élection de domicile conformes au modèle défini par arrêté ;
+
+4° De procéder au retrait de l'attestation lorsqu'ils ont connaissance du fait que la personne dispose d'un domicile stable ;
+
+5° D'adresser au plus tard trois mois avant l'expiration de l'agrément une demande de renouvellement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-1124 du 20 juillet 2007 - art. 1 () JORF 22 juillet 2007
+
+	**Cité par**:
+
+	  - Décret n°2016-641 du 19 mai 2016 - art. 11 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D264-8 (V)
+	  - Code de l'action sociale et des familles - art. L264-7 (V)
+
+
+###### Article D264-6
+
+Les organismes mentionnés à l'article L. 264-1 sont tenus de recevoir la correspondance destinée aux personnes domiciliées et
+de la mettre à leur disposition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-1124 du 20 juillet 2007 - art. 1 () JORF 22 juillet 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L264-1 (V)
+
+
+###### Article D264-7
+
+Pour l'exercice de leur mission, les organismes payeurs des prestations sociales mentionnées aux deuxième et dernier alinéa
+de l'article L. 264-1 peuvent s'assurer auprès de l'organisme indiqué par l'attestation qu'une personne est bien domiciliée
+chez lui. L'organisme est tenu de lui communiquer cette information.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-1124 du 20 juillet 2007 - art. 1 () JORF 22 juillet 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L264-1 (V)
+
+
+###### Article D264-8
+
+Les organismes mentionnés à l'article L. 264-1 transmettent chaque année au préfet de département un bilan de leur activité
+de domiciliation comportant notamment :
+
+1° Le nombre de domiciliations en cours ;
+
+2° Le nombre d'élections de domicile reçues dans l'année et le nombre de radiations ;
+
+3° Les moyens matériels et humains dont dispose l'organisme ou le centre d'action sociale pour assurer son activité de
+domiciliation ;
+
+4° Pour les seuls organismes agréés, les conditions de mise en oeuvre du cahier des charges.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-1124 du 20 juillet 2007 - art. 1 () JORF 22 juillet 2007
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D264-5 (M)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L264-1 (V)
+
+
+###### Article D264-9
+
+Peuvent être agréés aux fins de recevoir les déclarations d'élection de domicile les organismes à but non lucratif qui mènent
+des actions contre l'exclusion ou pour l'accès aux soins, les établissements et services sociaux et médico-sociaux mentionnés
+au 8° de l'article L. 312-1, les organismes d'aide aux personnes âgées mentionnés à l'article L. 232-13 ainsi que les centres
+d'accueil des demandeurs d'asile.
+
+Lorsque ces organismes sont des associations, ils doivent à la date de la demande d'agrément justifier depuis un an au moins
+d'activités dans les domaines mentionnés à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-1124 du 20 juillet 2007 - art. 1 () JORF 22 juillet 2007
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D264-12 (M)
+	  - Code de l'action sociale et des familles - art. R542-6 (VD)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L232-13 (M)
+	  - Code de l'action sociale et des familles - art. L312-1 (M)
+
+
+###### Article D264-10
+
+La demande d'agrément comporte :
+
+1° La raison sociale de l'organisme ;
+
+2° L'adresse de l'organisme demandeur ;
+
+3° La nature des activités exercées depuis au moins un an et les publics concernés ;
+
+4° Les statuts de l'organisme ;
+
+5° Les éléments permettant d'apprécier l'aptitude de l'organisme à assurer effectivement sa mission de domiciliation ;
+
+6° L'indication du cadre géographique pour lequel l'agrément est sollicité ;
+
+7° Un projet de règlement intérieur décrivant l'organisation de sa mission de domiciliation et précisant les procédures
+retenues pour la gestion du courrier.
+
+Le préfet de département peut mentionner dans le cahier des charges prévu à l'article L. 264-7 d'autres éléments constitutifs
+de la demande d'agrément.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-1124 du 20 juillet 2007 - art. 1 () JORF 22 juillet 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L264-7 (V)
+
+
+###### Article D264-11
+
+L'agrément est délivré pour une durée maximale de trois ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-1124 du 20 juillet 2007 - art. 1 () JORF 22 juillet 2007
+
+
+###### Article D264-12
+
+L'agrément peut être retiré, après que l'organisme a été mis en mesure de présenter ses observations, lorsqu'il ne respecte
+pas le cahier des charges mentionné à l'article L. 264-7 ou lorsqu'il cesse de remplir les conditions mentionnées à l'article
+D. 264-9.
+
+Le préfet de département désigne les organismes chargés d'assurer la domiciliation des personnes qui avaient élu domicile
+dans l'organisme auquel il a retiré l'agrément.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-1124 du 20 juillet 2007 - art. 1 () JORF 22 juillet 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D264-9 (V)
+	  - Code de l'action sociale et des familles - art. L264-7 (V)
+
+
+###### Article D264-13
+
+Les décisions d'agrément et de retrait d'agrément, ainsi que le cahier des charges mentionné à l'article L. 264-7, sont
+publiés au recueil des actes administratifs de la préfecture.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-1124 du 20 juillet 2007 - art. 1 () JORF 22 juillet 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L264-7 (V)
+
+
+###### Article D264-14
+
+Dans le cadre du dispositif de veille sociale mentionné à l'article L. 345-2, le préfet de département s'assure de la
+couverture des besoins sur l'ensemble du territoire et du bon fonctionnement du service en matière de domiciliation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-1124 du 20 juillet 2007 - art. 1 () JORF 22 juillet 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L345-2 (M)
+
+
+###### Article D264-15
+
+Pour l'application de l'article L. 264-6, le préfet de département transmet aux maires la liste des organismes agréés dans le
+département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-1124 du 20 juillet 2007 - art. 1 () JORF 22 juillet 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L264-6 (V)
+
 
 ###### Article R264-4
 
