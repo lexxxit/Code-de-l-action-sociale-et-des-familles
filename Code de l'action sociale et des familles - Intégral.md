@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2007-07-22
+Version Consolidée au 2007-08-22
 
 # Partie législative
 
@@ -81272,67 +81272,48 @@ d'administration.
 
 ###### Article R315-27
 
-Le comité technique d'établissement institué, en application de l'article L. 315-13, dans les établissements mentionnés aux
-3° à 6° de l'article 2 la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique
-hospitalière, comprend, outre le directeur de l'établissement ou son représentant, président, des représentants du personnel
-dont le nombre est fixé comme suit :
+I. - Le comité technique d'établissement institué en application de l'article L. 315-13, dans les établissements mentionnés
+aux 3° à 6° de l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction
+publique hospitalière, comprend, outre le directeur de l'établissement ou son représentant, président, les représentants du
+personnel dont le nombre est fixé comme suit :
 
-1° Dans les établissements de moins de cent agents :
+1° Dans les établissements de moins de cinquante agents : trois membres titulaires et trois membres suppléants ;
 
-a) Un membre titulaire et un membre suppléant représentant les personnels composant le collège des agents de la catégorie A ;
+2° Dans les établissements de cinquante à quatre-vingt-dix-neuf agents : six membres titulaires et six membres suppléants ;
 
-b) Deux membres titulaires et deux membres suppléants représentant les personnels composant le collège des agents de la
-catégorie B ;
+3° Dans les établissements de cent agents au moins et cinq cents agents au plus : dix membres titulaires et dix membres
+suppléants ;
 
-c) Trois membres titulaires et trois membres suppléants représentant les personnels composant le collège des agents de la
-catégorie C ;
+4° Dans les établissements comptant plus de cinq cents agents :
 
-2° Dans les établissements de cent agents au moins et cinq cents agents au plus :
-
-a) Un membre titulaire et un membre suppléant représentant les personnels composant le collège des agents de la catégorie A ;
-
-b) Quatre membres titulaires et quatre membres suppléants représentant les personnels composant le collège des agents de la
-catégorie B ;
-
-c) Cinq membres titulaires et cinq membres suppléants représentant les personnels composant le collège des agents de la
-catégorie C ;
-
-3° Dans les établissements comptant plus de cinq cents agents :
-
-a) Deux membres titulaires et deux membres suppléants représentant les personnels composant le collège des agents de la
-catégorie A ;
-
-b) Six membres titulaires et six membres suppléants représentant les personnels composant le collège des agents de la
-catégorie B ;
-
-c) Huit membres titulaires et huit membres suppléants représentant les personnels composant le collège des agents de la
-catégorie C.
+seize membres titulaires et seize membres suppléants.
 
 Pour l'application de ces dispositions, l'effectif à prendre en considération est celui de l'ensemble des fonctionnaires
 titulaires et stagiaires et des agents contractuels mentionnés au premier alinéa de l'article 1er du décret n° 91-155 du 6
 février 1991 relatif aux dispositions générales applicables aux agents contractuels des établissements mentionnés à l'article
 2 de la loi n° 86-33 du 9 janvier 1986 modifiée portant dispositions statutaires relatives à la fonction publique
-hospitalière ainsi que les contractuels de droit public n'occupant pas un emploi permanent et les contractuels de droit
-privé, à l'exception des personnels mentionnés au dernier alinéa de l'article 2 de la même loi. Cet effectif est apprécié au
-31 décembre de l'année qui précède celle au cours de laquelle le comité est constitué ou renouvelé.
+hospitalière, ainsi que les contractuels de droit public n'occupant pas un emploi permanent et les contractuels de droit
+privé, à l'exception des personnels mentionnés au dernier alinéa de l'article 2 du titre IV du statut général des
+fonctionnaires. Cet effectif est apprécié au 31 décembre de l'année qui précède celle au cours de laquelle le comité est
+constitué ou renouvelé.
 
-La durée du mandat des représentants du personnel est fixée à quatre ans. Ce mandat est renouvelable.
+II. - Le nombre des représentants à élire pour chaque collège est proportionnel à l'effectif des agents qui en relèvent.
 
-La durée du mandat peut être exceptionnellement réduite ou prorogée, dans un intérêt de service, par arrêté du ministre
-chargé de la santé après avis du Conseil supérieur de la fonction publique hospitalière. Cette réduction ou prorogation ne
-peut excéder une durée d'un an.
+Les sièges sont attribués selon la règle suivante :
 
-Lors du renouvellement d'un comité technique d'établissement, les nouveaux membres entrent en fonctions à la date à laquelle
-prend fin le mandat des membres auxquels ils succèdent.
+1° Il est attribué à chaque collège le nombre de sièges correspondant à la partie entière de la proportion ;
+
+2° Les sièges restant à attribuer le sont par ordre décroissant de la décimale jusqu'à atteindre le nombre total prévu aux
+1°, 2°, 3° et 4° du présent article.
+
+Toutefois, cette règle ne doit pas conduire à ce que :
+
+a) Sous réserve de l'application des dispositions de l'article R. 315-28 du présent code, une catégorie n'ait aucun siège ;
+
+b) Le nombre de sièges des représentants de la catégorie A soit inférieur à deux dans les établissements comptant plus de
+cinq cents agents au moins et deux mille agents au plus, et à trois dans les établissements de plus de deux mille agents.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°86-33 1986-01-09 art. 2
-	  - Décret n°91-155 1991-02-06 art. 1
-	  - Code de l'action sociale et des familles - art. L315-13 (M)
-	  - Code de l'action sociale et des familles L315-13, 2
 
 	**Cité par**:
 
@@ -81340,6 +81321,13 @@ prend fin le mandat des membres auxquels ils succèdent.
 	  - Décret n°2011-585 du 26 mai 2011 - art. 26 (V)
 	  - Décret n°2016-1205 du 7 septembre 2016 - art. 1
 	  - Code de l'action sociale et des familles - art. R315-33 (V)
+
+	**Cite**:
+
+	  - Décret n°91-155 1991-02-06 art. 1
+	  - Code de l'action sociale et des familles - art. L315-13 (M)
+	  - Loi n°86-33 1986-01-09 art. 2
+	  - Code de l'action sociale et des familles - art. R315-28 (M)
 
 	**Anciens textes**:
 
@@ -81350,12 +81338,19 @@ prend fin le mandat des membres auxquels ils succèdent.
 
 	  - Décret n°2004-1136 2004-10-21
 
+	**Modifié par**:
+
+	  - Décret n°2007-1242 2007-08-20 art. 1 JORF 22 août 2007
+
 
 ###### Article R315-28
 
-Lorsque le nombre d'électeurs dans un collège est inférieur à cinq, ceux-ci sont rattachés au collège de la catégorie
-hiérarchique immédiatement inférieure. Le nombre de représentants du collège ainsi constitué est celui du collège avec lequel
-le regroupement a été opéré.
+Lorsque le nombre des électeurs d'un collège est inférieur à cinq, ceux-ci sont rattachés au collège de la catégorie
+hiérarchique immédiatement inférieure. Si l'effectif total de ces deux collèges est lui-même inférieur à cinq, les trois
+collèges sont alors fusionnés. Si l'effectif du collège de la catégorie C est inférieur à cinq, celui-ci est alors fusionné
+avec le collège de la catégorie B.
+
+Dans tous les cas, le nombre de représentants à élire pour le collège ainsi constitué est proportionnel à son effectif total.
 
 **Liens relatifs à cet article**
 
@@ -81372,18 +81367,22 @@ le regroupement a été opéré.
 
 	  - Code de l'action sociale et des familles - art. R315-27 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2007-1242 2007-08-20 art. 2 JORF 22 août 2007
+
 
 ###### Article R315-29
 
-Lorsqu'un représentant titulaire du personnel cesse en cours de mandat d'exercer ses fonctions dans l'établissement pour
-cause de décès, de démission ou de changement d'établissement, ou est frappé d'une des causes d'inéligibilité prévues à
-l'article R. 315-36, il est remplacé par un suppléant pris dans l'ordre de la liste au titre de laquelle il a été élu.
+Lorsqu'un représentant titulaire du personnel cesse en cours de mandat d'exercer ses fonctions pour cause de décès, de
+démission de ses fonctions dans l'établissement ou de son mandat, de changement d'établissement, ou parce qu'il est frappé de
+l'une des causes d'inéligibilité prévues à l'article R. 315-36 du présent code, il est remplacé par un suppléant pris dans
+l'ordre de la liste au titre de laquelle il a été élu.
 
 Le suppléant est lui-même remplacé par le candidat suivant figurant sur la même liste.
 
-Lorsqu'un représentant suppléant du personnel cesse en cours de mandat d'exercer ses fonctions dans l'établissement pour
-l'une des causes énumérées au premier alinéa du présent article, il est remplacé dans les conditions prévues à l'alinéa ci-
-dessus.
+Lorsqu'un représentant suppléant du personnel cesse en cours de mandat d'exercer ses fonctions pour l'une des causes
+énumérées au premier alinéa du présent article, il est remplacé dans les conditions prévues à  cet alinéa.
 
 Le mandat des représentants titulaires ou suppléants désignés dans les conditions prévues par le présent article prend fin à
 la date à laquelle aurait normalement pris fin le mandat des titulaires ou des suppléants qu'ils remplacent.
@@ -81402,6 +81401,10 @@ la date à laquelle aurait normalement pris fin le mandat des titulaires ou des 
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. R315-36 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2007-1242 2007-08-20 art. 3 JORF 22 août 2007
 
 
 ###### Article R315-30
@@ -82317,16 +82320,20 @@ d'administration détermine annuellement les moyens mis à la disposition du com
 ###### Article R315-66
 
 Un congé de formation avec traitement est attribué aux représentants titulaires du personnel au comité technique
-d'établissement. La durée maximale de ce congé est de cinq jours. Tout nouveau mandat ouvre droit au renouvellement de ce
-congé. Les organismes chargés d'assurer la formation sont soit les organismes figurant sur la liste établie en application de
-l'article 1er du décret n° 88-676 du 6 mai 1988 relatif à l'attribution du congé pour formation syndicale dans la fonction
-publique hospitalière, soit les organismes figurant sur la liste mentionnée à l'article R. 236-18 du code du travail.
+d'établissement. La durée maximale de ce congé est de cinq jours. Dans les établissements de moins de cinquante agents dans
+lesquels les représentants du personnel au comité technique d'établissement exercent les missions dévolues aux membres du
+comité d'hygiène, de sécurité et des conditions de travail, un congé de formation avec traitement lié à l'exercice de ces
+deux mandats est attribué aux représentants titulaires du comité technique d'établissement. La durée maximale de ce congé est
+de sept jours. Tout nouveau mandat ouvre droit au renouvellement de ce congé. Les organismes chargés d'assurer la formation
+sont soit les organismes figurant sur la liste établie en application de l'article 1er du décret n° 88-676 du 6 mai 1988
+relatif à l'attribution du congé pour formation syndicale dans la fonction publique hospitalière, soit les organismes
+figurant sur la liste mentionnée à l'article R. 236-18 du code du travail. 
 
-Le congé de formation est pris en une ou deux fois à la demande du bénéficiaire.
+Le congé de formation est pris en une ou deux fois à la demande du bénéficiaire. 
 
 Les dépenses afférentes au congé de formation susvisé comprennent notamment les dépenses d'enseignement et d'organisation
 matérielle des stages ainsi que les frais de déplacement et de séjour des stagiaires. Le montant journalier est fixé par
-référence au montant fixé à l'arrêté mentionné à l'article D. 514-3 du code du travail.
+référence au montant fixé à l'arrêté mentionné à l'article D. 514-3 du code du travail. 
 
 Les dépenses prises en charge par l'établissement au titre de cette formation ne s'imputent pas sur le financement des
 actions de formation prévues par le décret n° 90-319 du 5 avril 1990 relatif à la formation professionnelle continue des
@@ -82336,10 +82343,7 @@ agents de la fonction publique hospitalière.
 
 	**Cite**:
 
-	  - Décret n°88-676 du 6 mai 1988 - art. 1 (V)
-	  - Décret n°90-319 1990-04-05
-	  - Code du travail - art. D514-3 (M)
-	  - Code du travail - art. R236-18 (M)
+	  - Décret n°88-676 du 6 mai 1988 (V)
 
 	**Anciens textes**:
 
@@ -82349,6 +82353,10 @@ agents de la fonction publique hospitalière.
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
+
+	**Modifié par**:
+
+	  - Décret n°2007-1242 2007-08-20 art. 4 JORF 22 août 2007
 
 
 ##### Sous-section 4 : Délégations.
