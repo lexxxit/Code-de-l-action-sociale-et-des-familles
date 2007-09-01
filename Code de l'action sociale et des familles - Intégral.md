@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2007-08-22
+Version Consolidée au 2007-09-02
 
 # Partie législative
 
@@ -44838,10 +44838,10 @@ a) Des personnels de l'aide à domicile des organismes mentionnés au 1° ;
 b) Résultant d'actions mises en oeuvre par des organisations professionnelles des particuliers qui emploient sans but
 lucratif des salariés à domicile ;
 
-5° Les dépenses de qualification préparant au diplôme d'Etat d'infirmier, au diplôme professionnel d'aide-soignant et au
-diplôme d'Etat d'aide médico-psychologique des personnels des établissements d'hébergement pour personnes âgées mentionnés
-aux I, I bis et II de l'article L. 313-12, des services de soins infirmiers à domicile et des services polyvalents d'aide et
-de soins à domicile.
+5° Les dépenses de qualification préparant au diplôme d'Etat d'infirmier, au diplôme d'Etat d'aide-soignant et au diplôme
+d'Etat d'aide médico-psychologique des personnels des établissements d'hébergement pour personnes âgées mentionnés aux I, I
+bis et II de l'article L. 313-12, des services de soins infirmiers à domicile et des services polyvalents d'aide et de soins
+à domicile.
 
 II. - Les dépenses mentionnées au b du 2 du IV de l'article L. 14-10-5 sont :
 
@@ -44871,8 +44871,8 @@ b)  Résultant d'actions mises en oeuvre par des organisations professionnelles 
 lucratif des salariés à domicile ;
 
 5° Les dépenses de qualification des personnels des établissements et services qui accueillent des personnes handicapées,
-préparant notamment au diplôme d'Etat d'infirmier, au diplôme professionnel d'aide-soignant et au diplôme d'Etat d'aide
-médico-psychologique.
+préparant notamment au diplôme d'Etat d'infirmier, au diplôme d'Etat d'aide-soignant et au diplôme d'Etat d'aide médico-
+psychologique.
 
 **Liens relatifs à cet article**
 
@@ -44882,7 +44882,7 @@ médico-psychologique.
 
 	**Modifié par**:
 
-	  - Décret n°2007-828 du 11 mai 2007 - art. 1 () JORF 12 mai 2007
+	  - Décret n°2007-1301 du 31 août 2007 - art. 4 () JORF 2 septembre 2007
 
 	**Cite**:
 
@@ -61247,8 +61247,8 @@ sur un enfant qui y est scolarisé.
 ###### Article D311
 
 I. - Le contrat de séjour mentionné à l'article L. 311-4 est conclu dans les établissements et services mentionnés aux 1°,
-2°, 5°, 6°, 7°, 8°, 9°, 10°, 12° du I et au III de l'article L. 312-1, dans le cas d'un séjour continu ou discontinu d'une
-durée prévisionnelle supérieure à deux mois.
+2°, 5°, 6°, 7°, 8°, 9°, 10°, 12°, 13° du I et au III de l'article L. 312-1, dans le cas d'un séjour continu ou discontinu
+d'une durée prévisionnelle supérieure à deux mois.
 
 Ce contrat est conclu entre la personne accueillie ou son représentant légal et le représentant de l'établissement, de
 l'organisme gestionnaire de l'établissement ou du service, du lieu de vie et d'accueil. Lorsque la personne accueillie ou son
@@ -61303,7 +61303,8 @@ l'avenant mentionné au septième alinéa du présent article ;
 4° Selon la catégorie de prise en charge concernée, les conditions de la participation financière du bénéficiaire ou de
 facturation, y compris en cas d'absence ou d'hospitalisation ;
 
-5° Pour l'admission en centre d'hébergement et de réinsertion, les conditions de l'application de l'article L. 111-3-1.
+5° Pour l'admission en centre d'hébergement et de réinsertion et en centre d'accueil pour demandeurs d'asile, les conditions
+de l'application de l'article L. 111-3-1.
 
 Un avenant précise dans le délai maximum de six mois les objectifs et les prestations adaptées à la personne. Chaque année,
 la définition des objectifs et des prestations est réactualisée.
@@ -61341,9 +61342,9 @@ afin de pouvoir le cas échéant les produire pour l'application des articles L.
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-1274 du 26 novembre 2004 - art. 1
+	  - Décret n°2007-1300 du 31 août 2007 - art. 1 () JORF 2 septembre 2007
 
 	**Cité par**:
 
@@ -61482,11 +61483,11 @@ Lorsque plusieurs établissements ou services sociaux ou médico-sociaux sont g�
 une instance commune de participation peut être instituée pour une même catégorie d'établissements ou de services, au sens de
 l'article L. 312-1.
 
-Dans les établissements et services relevant des 8° et 9° de l'article L. 312-1, lorsque les durées de la prise en charge
-sont inférieures à la durée minimum du mandat telle que prévue à l'article D. 311-8, il peut être procédé à la mise en oeuvre
-de l'une des autres formes de participation prévues aux articles D. 311-21 et suivants. Il peut également être procédé à la
-mise en oeuvre de ces autres formes de participation lorsque ces établissements et services accueillent majoritairement des
-personnes pouvant recourir à l'organisme mentionné à l'article D. 311-32.
+Dans les établissements et services relevant des 8°, 9° et 13° de l'article L. 312-1, lorsque les durées de la prise en
+charge sont inférieures à la durée minimum du mandat telle que prévue à l'article D. 311-8, il peut être procédé à la mise en
+oeuvre de l'une des autres formes de participation prévues aux articles D. 311-21 et suivants. Il peut également être procédé
+à la mise en oeuvre de ces autres formes de participation lorsque ces établissements et services accueillent majoritairement
+des personnes pouvant recourir à l'organisme mentionné à l'article D. 311-32.
 
 **Liens relatifs à cet article**
 
@@ -61501,7 +61502,7 @@ personnes pouvant recourir à l'organisme mentionné à l'article D. 311-32.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1367 du 2 novembre 2005 - art. 1 () JORF 4 novembre 2005
+	  - Décret n°2007-1300 du 31 août 2007 - art. 2 () JORF 2 septembre 2007
 
 	**Cité par**:
 
@@ -61637,7 +61638,7 @@ Lorsqu'un membre cesse sa fonction en cours de mandat, notamment en raison de la
 bénéficiaire, il est remplacé par son suppléant ou un autre bénéficiaire élu ou désigné dans les mêmes formes qui devient
 titulaire du mandat. Il est ensuite procédé à la désignation d'un autre suppléant pour la durée restante du mandat.
 
-Dans les établissements et services relevant des 8° et 9° de l'article L. 312-1, le remplacement pour la durée du mandat
+Dans les établissements et services relevant des 8°, 9° et 13° de l'article L. 312-1, le remplacement pour la durée du mandat
 restante des membres représentant les personnes accueillies peut être assuré par une procédure de désignation. L'accord des
 personnes désignées est requis. Les modalités de désignation sont précisées par l'instance ou la personne mentionnée à
 l'article D. 311-27.
@@ -61655,7 +61656,7 @@ l'article D. 311-27.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1367 du 2 novembre 2005 - art. 4 () JORF 4 novembre 2005
+	  - Décret n°2007-1300 du 31 août 2007 - art. 2 () JORF 2 septembre 2007
 
 	**Cite**:
 
@@ -61713,9 +61714,9 @@ du 2° de l'article D. 311-11. Des suppléants sont élus dans les mêmes condit
 Sont élus le ou les candidats ayant obtenu le plus grand nombre de voix. A égalité de voix, il est procédé par tirage au sort
 entre les intéressés.
 
-Dans les établissements et services relevant des 8° et 9° de l'article L. 312-1, les représentants des personnes accueillies
-peuvent être désignés avec leur accord sans qu'il y ait lieu de procéder à des élections. Les modalités de désignation sont
-précisées par le règlement de fonctionnement.
+Dans les établissements et services relevant des 8°, 9° et 13° de l'article L. 312-1, les représentants des personnes
+accueillies peuvent être désignés avec leur accord sans qu'il y ait lieu de procéder à des élections. Les modalités de
+désignation sont précisées par le règlement de fonctionnement.
 
 **Liens relatifs à cet article**
 
@@ -61730,7 +61731,7 @@ précisées par le règlement de fonctionnement.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1367 du 2 novembre 2005 - art. 6 () JORF 4 novembre 2005
+	  - Décret n°2007-1300 du 31 août 2007 - art. 2 () JORF 2 septembre 2007
 
 	**Cite**:
 
@@ -85065,6 +85066,55 @@ européennes de la série 45000 ;
 
 
 #### Chapitre VIII : Centres d'accueil pour demandeurs d'asile
+
+###### Article D348-6
+
+I. - Sans préjudice de l'application des dispositions prévues par l'article L. 313-8-1, la convention prévue par l'article L.
+348-4 précise la nature et les conditions de mise en oeuvre des missions assurées par le centre d'accueil pour demandeurs
+d'asile en application du I de l'article L. 348-2. A ce titre, elle mentionne obligatoirement :
+
+- les capacités d'accueil de l'établissement ;
+
+- les modalités d'admission ;
+
+- les conditions et durées de séjour ;
+
+- l'activité de l'établissement, les objectifs poursuivis et les moyens mis en oeuvre ;
+
+- les échanges d'informations entre le gestionnaire de l'établissement et les services de l'Etat ;
+
+- les modalités de financement de l'établissement et de son contrôle, les modalités d'évaluation de son action ;
+
+- la durée d'application de la convention et les modalités du suivi de sa mise en oeuvre ;
+
+- les conditions, les délais et les formes dans lesquelles la convention peut être renouvelée ou dénoncée.
+
+II. - La convention type prévue par l'article L. 384-4 (1) du code de l'action sociale et des familles est annexée au décret
+n° 2007-1300 du 31 août 2007 relatif aux conventions conclues entre les centres d'accueil pour demandeurs d'asile et l'Etat
+et aux relations entre les usagers, modifiant le code de l'action sociale et des familles.
+
+**Nota:**
+
+(1) : Lire L348-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Cite**:
+
+	  - Décret n°2007-1300 2007-08-31 annexe
+	  - Code de l'action sociale et des familles - art. L313-8-1 (M)
+	  - Code de l'action sociale et des familles - art. L348-2 (M)
+	  - Code de l'action sociale et des familles - art. L348-4 (V)
+	  - Code de l'action sociale et des familles L313-8-1, L348-4, L348-2, L384-4
+
+	**Créé par**:
+
+	  - Décret n°2007-1300 du 31 août 2007 - art. 3 () JORF 2 septembre 2007
+
 
 ###### Article R348-1
 
