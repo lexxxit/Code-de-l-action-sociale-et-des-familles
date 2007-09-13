@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2007-09-02
+Version Consolidée au 2007-09-14
 
 # Partie législative
 
@@ -72052,6 +72052,81 @@ l'exception de ceux qui tiennent lieu, en totalité ou en partie, de domicile au
 	**Cite**:
 
 	  - Code de l'action sociale et des familles - art. L331-3 (V)
+
+
+##### Section 5 : Sécurité des personnes hébergées dans des établissements médico-sociaux en cas de défaillance du réseau d'énergie.
+
+###### Article R313-31
+
+Sont tenus de garantir la sécurité de leurs conditions d'exploitation en cas de défaillance des réseaux de distribution
+d'énergie électrique lorsqu'ils assurent un hébergement collectif à titre permanent et des soins pris en charge en tout ou
+partie par l'assurance maladie au titre de l'article L. 162-24-1 du code de la sécurité sociale les établissements médico-
+sociaux mentionnés aux 2°, 6° et 7° du I de l'article L. 312-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-1344 du 12 septembre 2007 - art. 1 () JORF 14 septembre 2007
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L162-24-1 (M)
+	  - Code de l'action sociale et des familles - art. L312-1 (M)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R543-1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R732-15 (VD)
+
+
+###### Article R313-32
+
+Ces établissements doivent être en mesure d'assurer la continuité de la prise en charge rendue nécessaire par la nature des
+pathologies ou les besoins des personnes accueillies en répondant à l'une des deux obligations suivantes :
+
+1° S'assurer de la disponibilité de moyens d'alimentation autonomes en énergie pour les installations utilisées afin de
+garantir la sécurité des personnes hébergées pendant quarante-huit heures au moins ;
+
+2° Prévoir les mesures permettant d'assurer, par eux-mêmes, la sécurité des personnes hébergées en cas de défaillance du
+réseau d'énergie ; ces mesures doivent être prévues par le représentant légal de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-1344 du 12 septembre 2007 - art. 1 () JORF 14 septembre 2007
+
+	**Cité par**:
+
+	  - Décret n°2009-597 du 26 mai 2009 - art. 3 (V)
+
+
+###### Article R313-33
+
+Le représentant légal de l'établissement annexe au registre de sécurité de l'établissement un document décrivant les mesures
+prévues en cas de défaillance des réseaux d'énergie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1136 2004-10-21
+
+	**Créé par**:
+
+	  - Décret n°2007-1344 du 12 septembre 2007 - art. 1 () JORF 14 septembre 2007
 
 
 #### Chapitre IV : Dispositions financières
