@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2007-09-14
+Version Consolidée au 2007-10-06
 
 # Partie législative
 
@@ -39999,86 +39999,6 @@ affaires sociales. Il peut également être réuni sur demande du tiers de ses m
 
 #### Chapitre V : Coordination des interventions
 
-##### Section 1 : Conventions entre les acteurs engagés dans la prévention et la lutte contre les exclusions.
-
-###### Article R145-1
-
-La coordination entre les acteurs chargés de la prévention et de la lutte contre les exclusions est assurée par la conclusion
-de conventions entre l'Etat, les collectivités territoriales et les organismes intervenant en cette matière.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Créé par**:
-
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2007-1436 du 4 octobre 2007 - art. 7 (V) JORF 6 octobre 2007
-
-	**Anciens textes**:
-
-	  - Code de l'action sociale et des familles - art. R145-8 (T)
-
-
-###### Article R145-2
-
-Les conventions peuvent être conclues en application des contrats de ville mentionnés à l'article 27 de la loi n° 99-533 du
-25 juin 1999 d'orientation pour l'aménagement et le développement durable du territoire et portant modification de la loi n°
-95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°95-115 1995-02-04
-	  - Loi n°99-533 du 25 juin 1999 - art. 27 (V)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Créé par**:
-
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2007-1436 du 4 octobre 2007 - art. 7 (V) JORF 6 octobre 2007
-
-	**Anciens textes**:
-
-	  - Code de l'action sociale et des familles - art. R145-9 (T)
-
-
-###### Article R145-3
-
-Les conventions prévoient les modalités d'adhésion de nouvelles parties signataires, postérieurement à leur entrée en
-vigueur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Créé par**:
-
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 1 () JORF 10 septembre 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2007-1436 du 4 octobre 2007 - art. 7 (V) JORF 6 octobre 2007
-
-	**Anciens textes**:
-
-	  - Code de l'action sociale et des familles - art. R145-10 (T)
-
-
 ##### Section 2 : Commission départementale de la cohésion sociale
 
 ###### Article R145-4
@@ -58263,11 +58183,15 @@ Atlantique publiée au Journal officiel du 26 avril 2008 (NOR : CTRX0801250X).
 
 ###### Article R262-11-5
 
-La prime forfaitaire et les mesures d'abattement prévues aux articles R. 262-10 à R. 262-11-4 sont dues à compter du premier
-jour du mois au cours duquel les conditions de droit sont réunies.
+La prime forfaitaire et les mesures d'abattement prévues aux articles R. 262-10, R. 262-11-1, R. 262-11-3 et R. 262-11-5 sont
+dues à compter du premier jour du mois au cours duquel les conditions de droit sont réunies.
 
 Elles cessent d'être dues à compter du premier jour du mois qui suit celui au cours duquel les conditions cessent d'être
 réunies.
+
+L'abattement prévu à l'article R. 262-11-2 prend effet à compter du premier jour du mois au cours duquel les conditions de
+droit sont réunies. Il cesse d'être dû à compter du premier jour du mois au cours duquel les conditions de droit cessent
+d'être réunies.
 
 Lorsque au cours d'un même mois interviennent successivement la cessation d'une activité ou d'une formation, puis la reprise
 d'une activité ou d'une formation, il est fait application des dispositions mentionnées au premier alinéa, à l'exclusion de
@@ -58282,21 +58206,117 @@ mois de cessation d'activité ou de formation.
 Il a été dérogé aux dispositions du présent article par la délibération du 20 juin 2007 du conseil général de l'Eure publiée
 au Journal officiel du 19 septembre 2007 (NOR : CTRD0765597X).
 
+Il a été dérogé aux dispositions du présent article par la délibération du 28 juin 2007 du conseil général de Loir-et-Cher
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769620X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 1er octobre 2007 du conseil général de la Côte-
+d'Or publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769632X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 5 octobre 2007 du conseil général des Charentes
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769622X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 15 octobre 2007 du conseil général de la Vienne
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769621X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 19 octobre 2007 du conseil général du Val-d'Oise
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769635X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 22 octobre 2007 du conseil général de la Loire-
+Atlantique publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769619X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 25 octobre 2007 du conseil général de l'Oise
+publiée au Journal officiel du 4 novembre 2007 (NOR : CTRD0769633X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 8 novembre 2007 du conseil général d'Ille-et-
+Vilaine publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703345X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 15 novembre 2007 du conseil général de la Haute-
+Corse publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703371X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 19 novembre 2007 du conseil général de l'Hérault
+publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703347X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 7 décembre 2007 du conseil général du Gers publiée
+au Journal officiel du 1er janvier 2008 (NOR : CTRX0703373X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 10 décembre 2007 du conseil général du Nord
+publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703344).
+
+_Conseil général du Nord : arret de l'expérimentation du RSA : Délibération  n° DLES/2008/1968 du 3 décembre 2008 (NOR :
+CTRD0830824X)._
+
+Il a été dérogé aux dispositions du présent article par la délibération du 11 décembre 2007 du conseil général de la Seine-
+Maritime publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703376X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 13 décembre 2007 du conseil général du Doub
+publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703379X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 14 décembre 2007 du conseil général de l'Allier
+publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703369X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 17 décembre 2007 du conseil général du Pas-de-
+Calais publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703375X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 20 décembre 2007 du conseil général des Deux-
+Sèvres publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703377X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 21 décembre 2007 du conseil général des Alpes-
+Maritimes publiée au Journal officiel du 1er janvier 2008 (NOR : CTRX0703370X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 12 novembre 2007 du conseil général des Côtes-
+d'Armor publiée au Journal officiel du 6 janvier 2008 (NOR : CTRX0800014X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 12 novembre 2007 du conseil général de la Haute-
+Saône publiée au Journal officiel du 6 janvier 2008 (NOR : CTRX0800015X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 10 décembre 2007 du conseil général de l'Eure
+publiée au Journal officiel du 6 janvier 2008 (NOR : CTRX0800134X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 14 janvier 2008 du conseil général du Calvados
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800290X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 18 janvier 2008 du conseil général de la Creuse
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800291X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 18 janvier 2008 du conseil général de la Dordogne
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800288X). 
+
+Il a été dérogé aux dispositions du présent article par la délibération du 23 janvier 2008 du conseil général du Morbihan
+publiée au Journal officiel du 1er février 2008 (NOR : CTRX0800292X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 6 janvier 2008 du conseil général de la Seine-
+Saint-Denis publiée au Journal officiel du 1er mars 2008 (NOR : CTRX0800008X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 25 janvier 2008 du conseil général de la Mayenne
+publiée au Journal officiel du 1er mars 2008 (NOR : CTRX0800006X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 1er février 2008 du conseil général du Rhône
+publiée au Journal officiel du 1er mars 2008 (NOR : CTRX0800005X).
+
+Il a été dérogé aux dispositions du présent article par la délibération du 7 avril 2008 du conseil général de la Loire-
+Atlantique publiée au Journal officiel du 26 avril 2008 (NOR : CTRX0801250X).
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2004-1136 2004-10-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1197 du 29 septembre 2006 - art. 9 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2007-1433 du 5 octobre 2007 - art. 17 () JORF 6 octobre 2007
 
 	**Cite**:
 
 	  - Délibération 2007-06-20 conseil général de l'Eure (NOR:
-	  - Code de l'action sociale et des familles - art. R262-11-2 (V)
-	  - Code de l'action sociale et des familles R262-10 à R262-11-4, R262-11-2
+	  - Code de l'action sociale et des familles - art. R262-10
+	  - Code de l'action sociale et des familles - art. R262-11-1
+	  - Code de l'action sociale et des familles - art. R262-11-2
+	  - Code de l'action sociale et des familles - art. R262-11-3
+
+	**Abrogé par**:
+
+	  - Décret n°2009-404 du 15 avril 2009 - art. 2
 
 	**Cité par**:
 
