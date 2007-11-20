@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2007-11-09
+Version Consolidée au 2007-11-21
 
 # Partie législative
 
@@ -27960,19 +27960,19 @@ Bénéficient, sur leur demande, de l'aide sociale pour être accueillis dans le
 
 ###### Article L348-2
 
-I. - Les centres d'accueil pour demandeurs d'asile ont pour mission d'assurer l'accueil, l'hébergement ainsi que
+I.-Les centres d'accueil pour demandeurs d'asile ont pour mission d'assurer l'accueil, l'hébergement ainsi que
 l'accompagnement social et administratif des demandeurs d'asile en possession de l'un des documents de séjour mentionnés à
 l'article L. 742-1 du code de l'entrée et du séjour des étrangers et du droit d'asile, pendant la durée d'instruction de leur
-demande d'asile.
+demande d'asile. 
 
 Cette mission prend fin à l'expiration du délai de recours contre la décision de l'Office français de protection des réfugiés
-et apatrides ou à la date de la notification de la décision de la Commission des recours des réfugiés.
+et apatrides ou à la date de la notification de la décision de la Cour nationale du droit d'asile. 
 
 Un décret en Conseil d'Etat détermine les conditions dans lesquelles les personnes s'étant vu reconnaître la qualité de
 réfugié ou accorder le bénéfice de la protection subsidiaire et les personnes ayant fait l'objet d'une décision de rejet
-définitive peuvent être maintenues dans un centre d'accueil pour demandeurs d'asile à titre exceptionnel et temporaire.
+définitive peuvent être maintenues dans un centre d'accueil pour demandeurs d'asile à titre exceptionnel et temporaire. 
 
-II. - Les conditions de fonctionnement et de financement des centres d'accueil pour demandeurs d'asile sont fixées par décret
+II.-Les conditions de fonctionnement et de financement des centres d'accueil pour demandeurs d'asile sont fixées par décret
 en Conseil d'Etat. Ce décret précise notamment les modalités selon lesquelles les personnes accueillies participent à
 proportion de leurs ressources à leurs frais d'hébergement, de restauration et d'entretien.
 
@@ -27983,9 +27983,9 @@ proportion de leurs ressources à leurs frais d'hébergement, de restauration et
 	  - Ordonnance 2000-1249 2000-12-21
 	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 95 () JORF 25 juillet 2006
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 29 () JORF 21 novembre 2007
 
 	**Cité par**:
 
@@ -27994,6 +27994,10 @@ proportion de leurs ressources à leurs frais d'hébergement, de restauration et
 	  - Arrêté du 29 octobre 2015 - art. (V)
 	  - Code de l'action sociale et des familles - art. D348-6 (V)
 	  - Code de l'action sociale et des familles - art. L313-9 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L742-1 (V)
 
 
 ###### Article L348-3
