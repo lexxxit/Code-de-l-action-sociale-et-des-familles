@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2007-11-21
+Version Consolidée au 2007-12-22
 
 # Partie législative
 
@@ -5660,7 +5660,11 @@ personnes âgées et handicapées ;
 8° De participer, avec les autres institutions et administrations compétentes, à la définition et au lancement d'actions de
 recherche dans le domaine de la prévention et de la compensation de la perte d'autonomie ;
 
-9° D'assurer une coopération avec les institutions étrangères ayant le même objet.
+9° D'assurer une coopération avec les institutions étrangères ayant le même objet ;
+
+10° De contribuer au financement de l'investissement destiné à la mise aux normes techniques et de sécurité, à la
+modernisation des locaux en fonctionnement ainsi qu'à la création de places nouvelles en établissements et services sociaux
+et médico-sociaux. 
 
 II. - L'autorité compétente de l'Etat conclut avec la Caisse nationale de solidarité pour l'autonomie une convention
 d'objectifs et de gestion comportant des engagements réciproques des signataires. Elle précise notamment, pour la durée de
@@ -5688,15 +5692,6 @@ solidarité pour l'autonomie et les organismes nationaux d'assurance maladie et 
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Créé par**:
-
-	  - Loi n°2005-102 du 11 février 2005 - art. 56 () JORF 12 février 2005
-
 	**Cité par**:
 
 	  - Loi n°2006-1640 du 21 décembre 2006 - art. 20 (V)
@@ -5722,12 +5717,16 @@ solidarité pour l'autonomie et les organismes nationaux d'assurance maladie et 
 	  - Code de la sécurité sociale. - art. L162-17-3 (V)
 	  - Code général des collectivités territoriales - art. L3332-2 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2007-1786 du 19 décembre 2007 - art. 69
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L146-3 (V)
-	  - Code de l'action sociale et des familles - art. L312-5 (M)
-	  - Code de l'action sociale et des familles - art. L312-5-1 (V)
-	  - Code de l'action sociale et des familles - art. L314-3 (M)
+	  - Code de l'action sociale et des familles - art. L146-3
+	  - Code de l'action sociale et des familles - art. L312-5
+	  - Code de l'action sociale et des familles - art. L312-5-1
+	  - Code de l'action sociale et des familles - art. L314-3
 
 
 ###### Article L14-10-2
@@ -6370,6 +6369,59 @@ l'article L. 14-10-5.
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. L14-10-5 (V)
+
+
+###### Article L14-10-9
+
+Une part des crédits reportés sur l'exercice en cours au titre des excédents de l'exercice précédent est affectée, selon les
+modalités prévues au dernier alinéa de l'article L. 14-10-5, dans les deux sous-sections mentionnées au V de ce même
+article. 
+
+Ces crédits peuvent être utilisés au financement d'opérations d'investissement immobilier portant sur la création de places,
+la mise aux normes techniques et de sécurité et la modernisation des locaux des établissements et des services mentionnés à
+l'article L. 314-3-1, ainsi que des établissements mentionnés au 2° de l'article L. 6111-2 du code de la santé publique. 
+
+En vue de faciliter des investissements immobiliers dans les établissements relevant des 2°,3° et 4° de l'article L. 342-1 du
+présent code et les établissements habilités à l'aide sociale pour la totalité de leurs places relevant du 6° du I de
+l'article L. 312-1 ayant conclu la convention prévue au I de l'article L. 313-12, les crédits mentionnés au premier alinéa
+peuvent être utilisés pour prendre en charge les intérêts des emprunts contractés à cet effet. 
+
+Ils peuvent également être utilisés au financement d'actions ponctuelles de formation et de qualification des personnels
+soignants des établissements et services médico-sociaux mentionnés à l'article L. 314-3-1, à l'exception des établissements
+sociaux et médico-sociaux accueillant des personnes âgées qui n'ont pas conclu la convention prévue au I de l'article L.
+313-12 ou ont opté pour la dérogation à l'obligation de passer cette convention en application des dispositions du premier
+alinéa du I bis de cet article. 
+
+Un arrêté des ministres chargés des personnes âgées, des personnes handicapées et de la sécurité sociale, pris après avis de
+la Caisse nationale de solidarité pour l'autonomie, détermine les conditions d'utilisation, l'affectation et le montant des
+crédits visés par le présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-1786 du 19 décembre 2007 - art. 69
+
+	**Cité par**:
+
+	  - Arrêté du 28 novembre 2008 (V)
+	  - Arrêté du 28 novembre 2008 - art. 1 (V)
+	  - Arrêté du 28 novembre 2008 - art. 2 (V)
+	  - Arrêté du 27 mai 2010 - art. 5 (V)
+	  - Arrêté du 24 juin 2011 - art. 5 (V)
+	  - Arrêté du 4 mai 2012 - art. 5 (V)
+	  - Arrêté du 24 juin 2014 - art. 3 (V)
+	  - Arrêté du 24 juin 2014 - art. 6 (V)
+	  - Code de l'action sociale et des familles - art. L14-10-5 (V)
+	  - Code de l'action sociale et des familles - art. R14-10-49 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L6111-2
+	  - Code de l'action sociale et des familles - art. L312-1
+	  - Code de l'action sociale et des familles - art. L313-12
+	  - Code de l'action sociale et des familles - art. L314-3-1
+	  - Code de l'action sociale et des familles - art. L342-1
 
 
 ## Livre II : Différentes formes d'aide et d'action sociales
@@ -20228,91 +20280,92 @@ VI du code de la construction et de l'habitation.
 
 ###### Article L312-1
 
-I. - Sont des établissements et services sociaux et médico-sociaux, au sens du présent code, les établissements et les
-services, dotés ou non d'une personnalité morale propre, énumérés ci-après :
+I.-Sont des établissements et services sociaux et médico-sociaux, au sens du présent code, les établissements et les
+services, dotés ou non d'une personnalité morale propre, énumérés ci-après : 
 
 1° Les établissements ou services prenant en charge habituellement, y compris au titre de la prévention, des mineurs et des
-majeurs de moins de vingt et un ans relevant des articles L. 221-1, L. 222-3 et L. 222-5 ;
+majeurs de moins de vingt et un ans relevant des articles L. 221-1, L. 222-3 et L. 222-5 ; 
 
 2° Les établissements ou services d'enseignement qui assurent, à titre principal, une éducation adaptée et un accompagnement
-social ou médico-social aux mineurs ou jeunes adultes handicapés ou présentant des difficultés d'adaptation ;
+social ou médico-social aux mineurs ou jeunes adultes handicapés ou présentant des difficultés d'adaptation ; 
 
-3° Les centres d'action médico-sociale précoce mentionnés à l'article L. 2132-4 du code de la santé publique ;
+3° Les centres d'action médico-sociale précoce mentionnés à l'article L. 2132-4 du code de la santé publique ; 
 
 4° Les établissements ou services mettant en oeuvre les mesures éducatives ordonnées par l'autorité judiciaire en application
 de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante ou des articles 375 à 375-8 du code civil ou
 concernant des majeurs de moins de vingt et un ans ou les mesures d'investigation préalables aux mesures d'assistance
-éducative prévues au nouveau code de procédure civile et par l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance
-délinquante ;
+éducative prévues au    code de procédure civile et par l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance
+délinquante ; 
 
-5° Les établissements ou services :
+5° Les établissements ou services : 
 
 a) D'aide par le travail, à l'exception des structures conventionnées pour les activités visées à l'article L. 322-4-16 du
-code du travail et des entreprises adaptées définies aux articles L. 323-30 et suivants du même code ;
+code du travail et des entreprises adaptées définies aux articles L. 323-30 et suivants du même code ; 
 
-b) De réadaptation, de préorientation et de rééducation professionnelle mentionnés à l'article L. 323-15 du code du travail ;
+b) De réadaptation, de préorientation et de rééducation professionnelle mentionnés à l'article L. 323-15 du code du
+travail ; 
 
 6° Les établissements et les services qui accueillent des personnes âgées ou qui leur apportent à domicile une assistance
-dans les actes quotidiens de la vie, des prestations de soins ou une aide à l'insertion sociale ;
+dans les actes quotidiens de la vie, des prestations de soins ou une aide à l'insertion sociale ; 
 
 7° Les établissements et les services, y compris les foyers d'accueil médicalisé, qui accueillent des personnes adultes
 handicapées, quel que soit leur degré de handicap ou leur âge, ou des personnes atteintes de pathologies chroniques, qui leur
 apportent à domicile une assistance dans les actes quotidiens de la vie, des prestations de soins ou une aide à l'insertion
-sociale ou bien qui leur assurent un accompagnement médico-social en milieu ouvert ;
+sociale ou bien qui leur assurent un accompagnement médico-social en milieu ouvert ; 
 
 8° Les établissements ou services comportant ou non un hébergement, assurant l'accueil, notamment dans les situations
 d'urgence, le soutien ou l'accompagnement social, l'adaptation à la vie active ou l'insertion sociale et professionnelle des
-personnes ou des familles en difficulté ou en situation de détresse ;
+personnes ou des familles en difficulté ou en situation de détresse ; 
 
 9° Les établissements ou services qui assurent l'accueil et l'accompagnement de personnes confrontées à des difficultés
 spécifiques en vue de favoriser l'adaptation à la vie active et l'aide à l'insertion sociale et professionnelle ou d'assurer
 des prestations de soins et de suivi médical, dont les centres de soins, d'accompagnement et de prévention en addictologie,
-les centres d'accueil et d'accompagnement à la réduction des risques pour usagers de drogue, les structures dénommées "lits
-halte soins santé" et les appartements de coordination thérapeutique ;
+les centres d'accueil et d'accompagnement à la réduction des risques pour usagers de drogue, les structures dénommées " lits
+halte soins santé " et les appartements de coordination thérapeutique ; 
 
 10° Les foyers de jeunes travailleurs qui relèvent des dispositions des articles L. 351-2 et L. 353-2 du code de la
-construction et de l'habitation ;
+construction et de l'habitation ; 
 
 11° Les établissements ou services, dénommés selon les cas centres de ressources, centres d'information et de coordination ou
 centres prestataires de services de proximité, mettant en oeuvre des actions de dépistage, d'aide, de soutien, de formation
-ou d'information, de conseil, d'expertise ou de coordination au bénéfice d'usagers, ou d'autres établissements et services ;
+ou d'information, de conseil, d'expertise ou de coordination au bénéfice d'usagers, ou d'autres établissements et services ; 
 
-12° Les établissements ou services à caractère expérimental ;
+12° Les établissements ou services à caractère expérimental ; 
 
-13° Les centres d'accueil pour demandeurs d'asile mentionnés à l'article L. 348-1.
+13° Les centres d'accueil pour demandeurs d'asile mentionnés à l'article L. 348-1. 
 
 Les établissements et services sociaux et médico-sociaux délivrent des prestations à domicile, en milieu de vie ordinaire, en
 accueil familial ou dans une structure de prise en charge. Ils assurent l'accueil à titre permanent, temporaire ou selon un
-mode séquentiel, à temps complet ou partiel, avec ou sans hébergement, en internat, semi-internat ou externat.
+mode séquentiel, à temps complet ou partiel, avec ou sans hébergement, en internat, semi-internat ou externat. 
 
-II. - Les conditions techniques minimales d'organisation et de fonctionnement des établissements et services relevant des
+II.-Les conditions techniques minimales d'organisation et de fonctionnement des établissements et services relevant des
 catégories mentionnées au présent article, à l'exception du 12° du I, sont définies par décret après avis de la section
-sociale du Comité national de l'organisation sanitaire et sociale.
+sociale du Comité national de l'organisation sanitaire et sociale. 
 
-Les établissements mentionnés aux 1°, 2°, 6° et 7° du I s'organisent en unités de vie favorisant le confort et la qualité de
-séjour des personnes accueillies, dans des conditions et des délais fixés par décret.
+Les établissements mentionnés aux 1°,2°,6° et 7° du I s'organisent en unités de vie favorisant le confort et la qualité de
+séjour des personnes accueillies, dans des conditions et des délais fixés par décret. 
 
 Les établissements et services mentionnés au 1° du même I s'organisent de manière à garantir la sécurité de chacun des
-mineurs ou des majeurs de moins de vingt et un ans qui y sont accueillis.
+mineurs ou des majeurs de moins de vingt et un ans qui y sont accueillis. 
 
 Les prestations délivrées par les établissements et services mentionnés aux 1° à 13° du I sont réalisées par des équipes
 pluridisciplinaires qualifiées. Ces établissements et services sont dirigés par des professionnels dont le niveau de
 qualification est fixé par décret et après consultation de la branche professionnelle ou, à défaut, des fédérations ou
-organismes représentatifs des organismes gestionnaires d'établissements et services sociaux et médico-sociaux concernés.
+organismes représentatifs des organismes gestionnaires d'établissements et services sociaux et médico-sociaux concernés. 
 
 Les associations qui organisent l'intervention des bénévoles dans les établissements sociaux et médico-sociaux publics ou
-privés doivent conclure avec ces établissements une convention qui détermine les modalités de cette intervention.
+privés doivent conclure avec ces établissements une convention qui détermine les modalités de cette intervention. 
 
-III. - Les lieux de vie et d'accueil qui ne constituent pas des établissements et services sociaux ou médico-sociaux au sens
-du I doivent faire application des articles L. 311-4 à L. 311-8. Ils sont également soumis à l'autorisation mentionnée à
+III.-Les lieux de vie et d'accueil qui ne constituent pas des établissements et services sociaux ou médico-sociaux au sens du
+I doivent faire application des articles L. 311-4 à L. 311-8. Ils sont également soumis à l'autorisation mentionnée à
 l'article L. 313-1 et aux dispositions des articles L. 313-13 à L. 313-25, dès lors qu'ils ne relèvent ni des dispositions
 prévues au titre II du livre IV relatives aux assistants maternels, ni de celles relatives aux particuliers accueillant des
 personnes âgées ou handicapées prévues au titre IV dudit livre. Un décret fixe le nombre minimal et maximal des personnes que
-ces structures peuvent accueillir.
+ces structures peuvent accueillir. 
 
-IV. - Les équipes de prévention spécialisée relevant du 1° du I ne sont pas soumises aux dispositions des articles L. 311-4 à
+IV.-Les équipes de prévention spécialisée relevant du 1° du I ne sont pas soumises aux dispositions des articles L. 311-4 à
 L. 311-7. Ces dispositions ne s'appliquent pas non plus aux mesures d'investigation préalables aux mesures d'assistance
-éducative prévues au nouveau code de procédure civile et par l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance
+éducative prévues au    code de procédure civile et par l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance
 délinquante.
 
 **Nota:**
@@ -20323,17 +20376,17 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 	**Cite**:
 
-	  - Ordonnance 45-174 1945-02-02
-	  - Code civil 375 à 375-8
-	  - Code du travail - art. L322-4-16 (M)
-	  - Code du travail - art. L323-15 (M)
-	  - Code de la santé publique - art. L2132-4 (V)
-	  - Code de l'action sociale et des familles - art. L221-1 (M)
-	  - Code de l'action sociale et des familles - art. L222-3 (M)
-	  - Code de l'action sociale et des familles - art. L348-1 (V)
-	  - Code de l'action sociale et des familles L221-1, L222-3, L222-5, L348-1, L311-4 à L311-8, L313-1, L313-13 à L313-25, L311-4 à L311-7
-	  - Code de la construction et de l'habitation. - art. L351-2 (M)
-	  - Code de la construction et de l'habitation. - art. L353-2 (M)
+	  - Ordonnance n°45-174 du 2 février 1945
+	  - Code civil
+	  - Code du travail - art. L322-4-16
+	  - Code du travail - art. L323-15
+	  - Code de la santé publique - art. L2132-4
+	  - Code de l'action sociale et des familles
+	  - Code de l'action sociale et des familles - art. L221-1
+	  - Code de l'action sociale et des familles - art. L222-3
+	  - Code de l'action sociale et des familles - art. L348-1
+	  - Code de la construction et de l'habitation. - art. L351-2
+	  - Code de la construction et de l'habitation. - art. L353-2
 
 	**Cité par**:
 
@@ -20978,11 +21031,6 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 	  - Loi n°75-535 du 30 juin 1975 - art. 3 (Ab)
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°2003-1010 du 22 octobre 2003
@@ -21152,7 +21200,7 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 	**Modifié par**:
 
-	  - Loi n°2007-293 du 5 mars 2007 - art. 23 () JORF 6 mars 2007
+	  - Loi n°2007-1787 du 20 décembre 2007 - art. 26 (V)
 
 
 ##### Section 2 : Organismes consultatifs
@@ -21452,42 +21500,46 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 Pour les établissements et services mentionnés aux 2°, 3°, 5°, 6° et 7° du I de l'article L. 312-1, ainsi que pour ceux
 mentionnés aux 11° et 12 dudit I qui accueillent des personnes âgées ou des personnes handicapées, le représentant de l'Etat
 dans la région établit, en liaison avec les préfets de département concernés, et actualise annuellement un programme
-interdépartemental d'accompagnement des handicaps et de la perte d'autonomie.
+interdépartemental d'accompagnement des handicaps et de la perte d'autonomie. 
 
 Ce programme dresse, pour la part des prestations financée sur décision tarifaire de l'autorité compétente de l'Etat, les
-priorités de financement des créations, extensions ou transformations d'établissements ou de services au niveau régional.
+priorités de financement des créations, extensions ou transformations d'établissements ou de services au niveau régional. 
 
 Ces priorités sont établies et actualisées sur la base des schémas nationaux, régionaux et départementaux d'organisation
-sociale et médico-sociale mentionnés à l'article L. 312-5. Elles veillent en outre à garantir :
+sociale et médico-sociale mentionnés à l'article L. 312-5. Elles veillent en outre à garantir : 
 
 1° La prise en compte des orientations fixées par le représentant de l'Etat en application du sixième alinéa du même
-article ;
+article ; 
 
-2° Un niveau d'accompagnement géographiquement équitable des différentes formes de handicap et de dépendance ;
+2° Un niveau d'accompagnement géographiquement équitable des différentes formes de handicap et de dépendance ; 
 
 3° L'accompagnement des handicaps de faible prévalence, au regard notamment des dispositions des schémas nationaux
-d'organisation sociale et médico-sociale ;
+d'organisation sociale et médico-sociale ; 
 
 4° L'articulation de l'offre sanitaire et de l'offre médico-sociale au niveau régional, pour tenir compte notamment des
-établissements mentionnés au 2° de l'article L. 6111-2 du code de la santé publique.
+établissements mentionnés au 2° de l'article L. 6111-2 du code de la santé publique et également de la densité en infirmiers
+dans les zones mentionnées à l'article L. 162-47 du code de la sécurité sociale. 
 
 Le programme interdépartemental est actualisé en tenant compte des évolutions des schémas départementaux d'organisation
-sociale et médico-sociale.
+sociale et médico-sociale. 
 
 Le programme interdépartemental est établi et actualisé par le représentant de l'Etat dans la région après avis de la section
 compétente du comité régional de l'organisation sociale et médico-sociale. Il est transmis pour information aux présidents de
 conseil général.
 
+**Nota:**
+
+Loi n° 2007-1786 du 19 décembre 2007, article 46 II : Le présent II entre en vigueur à la même date que les dispositions
+conventionnelles prises en application du 
+
+<span>8° de l'article L. 162-12-2 du code de la sécurité sociale</span>
+.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Créé par**:
-
-	  - Loi n°2005-102 du 11 février 2005 - art. 58 () JORF 12 février 2005
+	  - Loi n°2007-1786 du 19 décembre 2007 - art. 46
 
 	**Cité par**:
 
@@ -21507,8 +21559,8 @@ conseil général.
 	**Cite**:
 
 	  - Code de la santé publique - art. L6111-2 (V)
-	  - Code de l'action sociale et des familles - art. L312-1 (M)
-	  - Code de l'action sociale et des familles - art. L312-5 (M)
+	  - Code de la sécurité sociale. - art. L162-47 (VT)
+	  - Code de l'action sociale et des familles - art. L312-1 (V)
 
 
 ###### Article L312-5-2
@@ -21601,9 +21653,10 @@ mentionnées au 2°, le groupement de coopération peut :
 a) Permettre les interventions communes des professionnels des secteurs sociaux, médico-sociaux et sanitaires, des
 professionnels salariés du groupement ainsi que des professionnels associés par convention ;
 
-b) Etre autorisé, à la demande des membres, à exercer directement les missions et prestations des établissements et services
-énoncés à l'article L. 312-1 et à assurer directement, à la demande de l'un ou plusieurs de ses membres, l'exploitation de
-l'autorisation après accord de l'autorité l'ayant délivrée ;
+b) Etre autorisé ou agréé au titre de l' article L. 129-1 du code du travail, à la demande des membres, à exercer directement
+les missions et prestations des établissements et services énoncés à l'article L. 312-1 et à assurer directement, à la
+demande de l'un ou plusieurs de ses membres, l'exploitation de l'autorisation ou de l'agrément au titre de l'article L. 129-1
+précité après accord de l'autorité l'ayant délivrée ;
 
 c) Etre chargé de procéder aux fusions et regroupements mentionnés au 4° du présent article.
 
@@ -21621,7 +21674,8 @@ correspondant.
 
 4° Procéder à des regroupements ou à des fusions.
 
-Les établissements de santé publics et privés peuvent adhérer à l'une des formules de coopération mentionnées au présent
+Les établissements de santé publics et privés et, dans les conditions prévues par le présent article, les organismes agréés
+au titre de l'article L. 129-1 du code du travail peuvent adhérer à l'une des formules de coopération mentionnées au présent
 article.
 
 Les établissements et services sociaux et médico-sociaux mentionnés à l'article L. 312-1 peuvent conclure avec des
@@ -21640,11 +21694,6 @@ Les mesures d'application du présent article sont, en tant que de besoin, déte
 	**Anciens textes**:
 
 	  - Loi n°75-535 du 30 juin 1975 - art. 4-1 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -21692,15 +21741,15 @@ Les mesures d'application du présent article sont, en tant que de besoin, déte
 
 	**Modifié par**:
 
-	  - Loi n°2005-706 du 27 juin 2005 - art. 50 () JORF 28 juin 2005
+	  - Loi n°2007-1786 du 19 décembre 2007 - art. 70
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L6122-15 (M)
-	  - Code de la santé publique - art. L6133-1 (M)
-	  - Code de la santé publique - art. L6133-3 (T)
-	  - Code de l'action sociale et des familles - art. L311-1 (M)
-	  - Code de l'action sociale et des familles - art. L312-1 (M)
+	  - Code de la santé publique - art. L6122-15
+	  - Code de la santé publique - art. L6133-1
+	  - Code de la santé publique - art. L6133-3
+	  - Code de l'action sociale et des familles - art. L311-1
+	  - Code de l'action sociale et des familles - art. L312-1
 
 
 ##### Section 5 : Evaluation et systèmes d'information
@@ -22292,32 +22341,32 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 ###### Article L313-4
 
-L'autorisation initiale est accordée si le projet :
+L'autorisation initiale est accordée si le projet : 
 
 1° Est compatible avec les objectifs et répond aux besoins sociaux et médico-sociaux fixés par le schéma d'organisation
 sociale et médico-sociale dont il relève et, pour les établissements visés au b du 5° du I de l'article L. 312-1, aux besoins
-et débouchés recensés en matière de formation professionnelle ;
+et débouchés recensés en matière de formation professionnelle ; 
 
 2° Satisfait aux règles d'organisation et de fonctionnement prévues par le présent code et prévoit les démarches d'évaluation
-et les systèmes d'information respectivement prévus aux articles L. 312-8 et L. 312-9 ;
+et les systèmes d'information respectivement prévus aux articles L. 312-8 et L. 312-9 ; 
 
 3° Présente un coût de fonctionnement qui n'est pas hors de proportion avec le service rendu ou les coûts des établissements
-et services fournissant des prestations comparables ;
+et services fournissant des prestations comparables ; 
 
 4° Est compatible, lorsqu'il en relève, avec le programme interdépartemental mentionné à l'article L. 312-5-1, et présente un
 coût de fonctionnement en année pleine compatible avec le montant des dotations mentionnées, selon le cas, aux articles L.
-313-8, L. 314-3, L. 314-3-2 et L. 314-4, au titre de l'exercice au cours duquel prend effet cette autorisation.
+312-5-2, L. 313-8, L. 314-3, L. 314-3-2 et L. 314-4, au titre de l'exercice au cours duquel prend effet cette autorisation.
 
 L'autorisation fixe l'exercice au cours de laquelle elle prend effet.
 
 L'autorisation, ou son renouvellement, peuvent être assortis de conditions particulières imposées dans l'intérêt des
-personnes accueillies.
+personnes accueillies. 
 
 Lorsque l'autorisation a été refusée en raison de son incompatibilité avec les dispositions de l'un des articles L. 313-8, L.
 314-3, L. 314-3-2 et L. 314-4 et lorsque le coût prévisionnel de fonctionnement du projet se révèle, dans un délai de trois
 ans, en tout ou partie compatible avec le montant des dotations mentionnées audit article, l'autorisation peut être accordée
 en tout ou partie au cours de ce même délai sans qu'il soit à nouveau procédé aux consultations mentionnées à l'article L.
-313-1.
+313-1. 
 
 Lorsque les dotations mentionnées aux articles L. 313-8, L. 314-3, L. 314-3-2 et L. 314-4 ne permettent pas le financement de
 tous les projets présentés dans le cadre du premier alinéa de l'article L. 313-2 ou lorsqu'elles n'en permettent qu'une
@@ -22352,25 +22401,21 @@ des conditions déterminées par décret en Conseil d'Etat.
 
 	  - Loi n°75-535 du 30 juin 1975 - art. 11 (Ab)
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
 	**Modifié par**:
 
-	  - Loi n°2005-1579 du 19 décembre 2005 - art. 50 (V) JORF 20 décembre 2005
+	  - Loi n°2007-1786 du 19 décembre 2007 - art. 69
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L312-5-1 (V)
-	  - Code de l'action sociale et des familles - art. L312-8 (M)
-	  - Code de l'action sociale et des familles - art. L312-9 (M)
-	  - Code de l'action sociale et des familles - art. L313-1 (M)
-	  - Code de l'action sociale et des familles - art. L313-8 (M)
-	  - Code de l'action sociale et des familles - art. L314-3 (M)
-	  - Code de l'action sociale et des familles - art. L314-3-2 (M)
-	  - Code de l'action sociale et des familles - art. L314-4 (M)
+	  - Code de l'action sociale et des familles - art. L312-5-1
+	  - Code de l'action sociale et des familles - art. L312-5-2
+	  - Code de l'action sociale et des familles - art. L312-8
+	  - Code de l'action sociale et des familles - art. L312-9
+	  - Code de l'action sociale et des familles - art. L313-1
+	  - Code de l'action sociale et des familles - art. L313-8
+	  - Code de l'action sociale et des familles - art. L314-3
+	  - Code de l'action sociale et des familles - art. L314-3-2
+	  - Code de l'action sociale et des familles - art. L314-4
 
 
 ###### Article L313-5
@@ -22850,6 +22895,26 @@ pluriannuelle identifie, le cas échéant, les services au sein desquels sont di
 chacun d'entre eux, le nombre de référents en soins palliatifs qu'il convient de former ainsi que le nombre de lits qui
 doivent être identifiés comme des lits de soins palliatifs.
 
+Si la convention pluriannuelle n'est pas conclue avant la date prévue au précédent alinéa, les autorités de tarification
+compétentes procèdent, chacune en ce qui la concerne, à la tarification des établissements retardataires et leur fixent par
+voie d'arrêté les objectifs à atteindre. 
+
+A compter du 1er janvier 2008, les établissements mentionnés à l'alinéa précédent perçoivent, jusqu'à la date de prise
+d'effet de la convention pluriannuelle mentionnée à l'alinéa précédent :
+
+1° Un forfait global de soins, correspondant au montant du forfait de soins attribué par l'autorité compétente de l'Etat au
+titre de l'exercice 2007 lorsqu'ils ont été autorisés à dispenser des soins aux assurés sociaux ;
+
+2° Un forfait global de soins dont le montant maximum est déterminé sur la base du groupe iso-ressources moyen pondéré de
+l'établissement, de sa capacité et d'un tarif soins à la place fixé par arrêté ministériel lorsqu'ils ne sont pas autorisés à
+dispenser des soins aux assurés sociaux ;
+
+3° Des tarifs journaliers afférents à la dépendance dont les montants sont fixés par le président du conseil général en
+application du 2° de l'article L. 314-2 du présent code ;
+
+4° Des tarifs journaliers afférents à l'hébergement, fixés par le président du conseil général dans les établissements
+habilités à l'aide sociale, calculés en prenant en compte les produits mentionnés aux 1° et 2° du présent I. 
+
 I. bis. - Les établissements relevant de façon combinée du 6° du I de l'article L. 312-1 du présent code et de l'article L.
 633-1 du code de la construction et de l'habitation qui, d'une part, ne bénéficient pas au 31 décembre 2005 d'une
 autorisation de dispenser des soins aux assurés sociaux et, d'autre part, accueillent un nombre de personnes âgées
@@ -22866,9 +22931,8 @@ résidents concernés ainsi que les conditions architecturales requises.
 
 Pour les établissements qui n'ont pas été autorisés à dispenser des soins et ayant opté pour la dérogation mentionnée au
 premier alinéa, ainsi que pour la partie de la capacité d'accueil non couverte par la convention en application du troisième
-alinéa, un décret précise, le cas échéant, les modalités de prise en compte des financements de l'assurance maladie attribués
-conformément aux dispositions de l'article 5 de la loi n° 2001-647 du 20 juillet 2001 relative à la prise en charge de la
-perte d'autonomie des personnes âgées et à l'allocation personnalisée d'autonomie.
+alinéa, le cas échéant, les modalités de prise en compte et de maintien des financements de l'assurance maladie sont fixées
+par décret. 
 
 Les établissements mentionnés au premier alinéa, ayant opté pour la dérogation, doivent répondre à des critères de
 fonctionnement, notamment de qualité, définis par un cahier des charges fixé par arrêté du ministre chargé des personnes
@@ -22876,6 +22940,25 @@ fonctionnement, notamment de qualité, définis par un cahier des charges fixé 
 
 Les établissements mentionnés au premier alinéa exercent leur droit d'option dans des conditions et à une date fixées par
 décret.
+
+I ter. - Les établissements relevant de façon combinée du 6° du I de l'article L. 312-1 du présent code et de l'article L.
+633-1 du code de la construction et de l'habitation qui, d'une part, bénéficient au 31 décembre 2007 d'une autorisation de
+dispenser des soins aux assurés sociaux et, d'autre part, accueillent des personnes âgées dépendantes dans une proportion
+inférieure au deuxième seuil mentionné au premier alinéa du I bis sont autorisés à passer la convention pluriannuelle prévue
+au I pour une partie seulement de leur capacité d'accueil correspondant à l'hébergement de personnes âgées dépendantes. Les
+résidents hébergés dans la capacité d'accueil non couverte par la convention bénéficient, le cas échéant, de l'allocation
+personnalisée d'autonomie selon les modalités prévues aux articles L. 232-3 à L. 232-7.
+
+Les établissements relevant de façon combinée du 6° du I de l'article L. 312-1 du présent code et de l'article L. 633-1 du
+code de la construction et de l'habitation qui, d'une part, ne bénéficient pas au 31 décembre 2007 d'une autorisation de
+dispenser des soins aux assurés sociaux et, d'autre part, accueillent un nombre de personnes âgées dans une proportion
+inférieure au seuil mentionné au I conservent, au-delà du 31 décembre 2007, dans la limite du financement des dépenses
+relatives à la rémunération des personnels de soins salariés par les établissements et aux charges sociales et fiscales y
+afférentes, le montant des forfaits de soins attribués par l'autorité compétente de l'Etat au titre de l'exercice 2007. Ces
+forfaits sont revalorisés annuellement dans la limite du taux de reconduction des moyens retenu au titre de l'objectif
+national de dépenses d'assurance maladie applicable aux établissements mentionnés au 3° de l'article L. 314-3-1 du code de
+l'action sociale et des familles. Les résidents hébergés dans ces établissements bénéficient, le cas échéant, de l'allocation
+personnalisée d'autonomie selon les modalités prévues aux articles L. 232-3 à L. 232-7. 
 
 II. - Les établissements mentionnés au I dont la capacité est inférieure à un seuil fixé par décret ont la possibilité de
 déroger aux règles mentionnées au 1° de l'article L. 314-2. Dans ces établissements, les modalités de tarification des
@@ -22894,7 +22977,7 @@ chargé des personnes âgées fixe les conditions dans lesquelles sera recueilli
 l'organisation sanitaire ou celui du comité régional de l'organisation sociale et médico-sociale nécessaire à la délivrance
 de l'autorisation de dispenser des soins.
 
-V. -  Le personnel des établissements mentionnés au I comprend un médecin coordonnateur dont les missions sont définies par
+V. - Le personnel des établissements mentionnés au I comprend un médecin coordonnateur dont les missions sont définies par
 décret. Le médecin coordonnateur de l'établissement est associé à l'élaboration et à la mise en oeuvre des contrats prévus à
 l'article L. 183-1-1 du code de la sécurité sociale. Le personnel des établissements publics mentionnés au I peut comprendre
 des médecins, des biologistes, des odontologistes et des pharmaciens visés par l'article L. 6152-1 du code de la santé
@@ -23103,24 +23186,19 @@ statuts de ces derniers.
 	  - Code du travail - art. L212-4-4 (VD)
 	  - Code du travail - art. L3123-16 (VD)
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
 	**Modifié par**:
 
-	  - Loi n°2006-1640 du 21 décembre 2006 - art. 88 () JORF 22 décembre 2006
+	  - Loi n°2007-1786 du 19 décembre 2007 - art. 69
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L6111-2 (V)
-	  - Code de la santé publique - art. L6152-1 (M)
-	  - Code de la sécurité sociale. - art. L183-1-1 (M)
-	  - Code de l'action sociale et des familles - art. L232-2 (M)
-	  - Code de l'action sociale et des familles - art. L312-1 (M)
-	  - Code de l'action sociale et des familles L312-1, L232-2, L314-2, L232-3 à L232-7
-	  - Code de la construction et de l'habitation. - art. L633-1 (M)
+	  - Code de la santé publique - art. L6111-2
+	  - Code de la santé publique - art. L6152-1
+	  - Code de la sécurité sociale. - art. L183-1-1
+	  - Code de l'action sociale et des familles
+	  - Code de l'action sociale et des familles - art. L232-2
+	  - Code de l'action sociale et des familles - art. L312-1
+	  - Code de la construction et de l'habitation. - art. L633-1
 
 
 ###### Article L313-12-1
@@ -24021,14 +24099,18 @@ Sur la base de cet objectif, les mêmes ministres arrêtent, dans les quinze jou
 financement de la sécurité sociale, le montant total annuel des dépenses prises en compte pour le calcul des dotations
 globales, forfaits, prix de journée et tarifs afférents aux prestations mentionnées au premier alinéa.
 
-II. - Le montant total annuel mentionné au dernier alinéa du I est réparti par la Caisse nationale de solidarité pour
-l'autonomie en dotations régionales limitatives.
+II. -Le montant annuel mentionné au dernier alinéa du I ainsi que le montant des dotations prévues au troisième alinéa de
+l'article L. 312-5-2 sont répartis par la Caisse nationale de solidarité pour l'autonomie en dotations régionales
+limitatives. 
 
 Les montants de ces dotations sont fixés en fonction des besoins des personnes handicapées et âgées dépendantes, tels qu'ils
 résultent des programmes interdépartementaux mentionnés à l'article L. 312-5-1, et des priorités définies au niveau national
 en matière d'accompagnement des personnes handicapées et des personnes âgées. Ils intègrent l'objectif de réduction
-progressive des inégalités dans l'allocation des ressources entre régions, et peuvent à ce titre prendre en compte l'activité
-et le coût moyen des établissements et services.
+progressive des inégalités dans l'allocation des ressources entre régions et l'objectif de réduction des inégalités dans
+l'allocation de ressources entre établissements et services relevant de mêmes catégories, et peuvent à ce titre prendre en
+compte l'activité et le coût moyen des établissements et services. Dans ce cadre, le ministre chargé de la sécurité sociale
+peut fixer, par arrêtés annuels, les tarifs plafonds ou les règles de calcul desdits tarifs plafonds pour les différentes
+catégories d'établissements sociaux et médico-sociaux.  
 
 III. - Pour ceux des établissements et services mentionnés à l'article L. 314-3-1 dont le tarif des prestations est fixé par
 le représentant de l'Etat dans le département, conformément aux priorités du programme interdépartemental et dans un souci
@@ -24047,11 +24129,6 @@ de bénéficiaires ou à certaines prestations.
 	**Anciens textes**:
 
 	  - Loi n°75-535 du 30 juin 1975 - art. 18 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -24103,12 +24180,11 @@ de bénéficiaires ou à certaines prestations.
 
 	**Modifié par**:
 
-	  - Loi n°2006-1640 du 21 décembre 2006 - art. 89 () JORF 22 décembre 2006
-	  - Loi n°2006-1640 du 21 décembre 2006 - art. 94 (V) JORF 22 décembre 2006
+	  - Loi n°2007-1786 du 19 décembre 2007 - art. 69
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L312-5-1 (V)
+	  - Code de l'action sociale et des familles - art. L312-5-1
 
 
 ###### Article L314-3-1
