@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2007-12-22
+Version Consolidée au 2007-12-28
 
 # Partie législative
 
@@ -13906,7 +13906,24 @@ présent titre, une allocation aux adultes handicapés.
 Les personnes de nationalité étrangère, hors les ressortissants des Etats membres de l'Union européenne ou parties à l'accord
 sur l'Espace économique européen, ne peuvent bénéficier de l'allocation aux adultes handicapés que si elles sont en situation
 régulière au regard de la législation sur le séjour ou si elles sont titulaires d'un récépissé de demande de renouvellement
-de titre de séjour. Un décret fixe la liste des titres ou documents attestant la régularité de leur situation. 
+de titre de séjour. Un décret fixe la liste des titres ou documents attestant la régularité de leur situation.
+
+L'allocation mentionnée au premier alinéa bénéficie aux ressortissants des Etats membres de la Communauté européenne et des
+autres Etats parties à l'accord sur l'Espace économique européen qui en font la demande et qui résident en France depuis plus
+de trois mois, dans les conditions prévues aux articles L. 121-1 et L. 121-2 du code de l'entrée et du séjour des étrangers
+et du droit d'asile. Cette condition de séjour de trois mois n'est toutefois pas opposable :
+
+- aux personnes qui exercent une activité professionnelle déclarée conformément à la législation en vigueur ;
+
+- aux personnes qui ont exercé une telle activité en France et soit sont en incapacité permanente de travailler pour raisons
+médicales, soit suivent une formation professionnelle au sens des articles L. 900-2 et L. 900-3 du code du travail, soit sont
+inscrites sur la liste visée à l'article L. 311-5 du même code ;
+
+- aux ascendants, descendants et conjoints des personnes mentionnées aux deux alinéas précédents. 
+
+Les ressortissants des Etats membres de la Communauté européenne et des autres Etats parties à l'accord sur l'Espace
+économique européen entrés en France pour y chercher un emploi et qui s'y maintiennent à ce titre ne peuvent bénéficier de
+l'allocation aux adultes handicapés. 
 
 Le droit à l'allocation aux adultes handicapés est ouvert lorsque la personne ne peut prétendre, au titre d'un régime de
 sécurité sociale, d'un régime de pension de retraite ou d'une législation particulière, à un avantage de vieillesse ou
@@ -13954,9 +13971,9 @@ décret mentionné au premier alinéa de l'article L. 821-1 et qui satisfont aux
 cinquième alinéas du présent article. 
 
 Le versement du complément de ressources pour les personnes handicapées prend fin à l'âge auquel le bénéficiaire est réputé
-inapte au travail dans les conditions prévues au cinquième alinéa de l'article L. 821-1. Il prend fin pour les bénéficiaires
-de l'allocation supplémentaire du fonds spécial d'invalidité mentionnée à l'article L. 815-24 à l'âge minimum auquel s'ouvre
-le droit à pension de vieillesse. 
+inapte au travail dans les conditions prévues au dixième alinéa de l'article L. 821-1. Il prend fin pour les bénéficiaires de
+l'allocation supplémentaire du fonds spécial d'invalidité mentionnée à l'article L. 815-24 à l'âge minimum auquel s'ouvre le
+droit à pension de vieillesse. 
 
 Toute reprise d'activité professionnelle entraîne la fin du versement du complément de ressources. 
 
@@ -13972,9 +13989,7 @@ conditions suivantes :
 1° Son incapacité permanente, sans atteindre le pourcentage fixé par le décret prévu au premier alinéa de l'article L. 821-1,
 est supérieure ou égale à un pourcentage fixé par décret ; 
 
-2° Elle n'a pas occupé d'emploi depuis une durée fixée par décret ; 
-
-3° La commission mentionnée à l'article L. 146-9 du code de l'action sociale et des familles lui reconnaît, compte tenu de
+2° La commission mentionnée à l'article L. 146-9 du code de l'action sociale et des familles lui reconnaît, compte tenu de
 son handicap, une restriction substantielle et durable pour l'accès à l'emploi, précisée par décret. 
 
 Le versement de l'allocation aux adultes handicapés au titre du présent article prend fin à l'âge auquel le bénéficiaire est
@@ -14006,9 +14021,6 @@ L'action de l'allocataire pour le paiement de l'allocation se prescrit par deux 
 
 Cette prescription est également applicable à l'action intentée par un organisme payeur en recouvrement d'allocations
 indûment payées, sauf en cas de fraude ou de fausse déclaration. 
-
-La tutelle aux prestations sociales, prévue au chapitre 7 du titre VI du livre I, s'applique à l'allocation aux adultes
-handicapés. 
 
 Les dispositions des articles L. 114-13, L. 377-2 et L. 377-4 sont applicables à l'allocation aux adultes handicapés. 
 
@@ -14042,25 +14054,9 @@ titre. Sauf disposition contraire, elles sont prises par décret en Conseil d'Et
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
-	**Cite**:
-
-	  - Ordonnance 2002-411 2002-03-27 art. 35
-	  - Code du travail - art. L141-4 (M)
-	  - Code de la sécurité sociale. - art. L821-8 (M)
-	  - Code de l'action sociale et des familles - art. L146-9 (V)
-	  - Code de l'action sociale et des familles - art. L243-4 (M)
-	  - Code de l'action sociale et des familles - art. L541-1 (T)
-	  - Code de l'action sociale et des familles L751-1, L541-1, L355-1, L434-2, L821-7, L243-4, L821-1, L146-9, L815-24, L821-5, L821-2, L821-1-1, L114-13, L377-2, L377-4, L174-4, L381-28
-
 	**Modifié par**:
 
-	  - Loi n°2006-1666 du 21 décembre 2006 - art. 131 () JORF 27 décembre 2006
-	  - Loi n°2006-1666 du 21 décembre 2006 - art. 132 () JORF 27 décembre 2006
+	  - Loi n°2007-1822 du 24 décembre 2007 - art. 122
 
 	**Liens**:
 
@@ -14072,6 +14068,7 @@ titre. Sauf disposition contraire, elles sont prises par décret en Conseil d'Et
 	  - PILOTE_SUIVEUR: Code de la sécurité sociale. - art. L821-5 (VT)
 	  - PILOTE_SUIVEUR: Code de la sécurité sociale. - art. L821-6 (V)
 	  - PILOTE_SUIVEUR: Code de la sécurité sociale. - art. L821-7 (V)
+	  - PILOTE_SUIVEUR: Code de la sécurité sociale. - art. L821-8 (V)
 
 	**Cité par**:
 
@@ -15090,26 +15087,32 @@ le justifie, bénéficier de l'aide médicale de l'Etat, dans des conditions dé
 ###### Article L251-2
 
 La prise en charge, assortie de la dispense d'avance des frais pour la part ne relevant pas de la participation du
-bénéficiaire, concerne :
+bénéficiaire, concerne : 
 
-1° Les frais définis aux 1° , 2° , 4° , 6° , de l'article L. 321-1 et à l'article L. 331-2 du code de la sécurité sociale par
-application des tarifs servant de base au calcul des prestations de l'assurance maladie ;
+1° Les frais définis aux 1°,2°,4°,6°, de l'article L. 321-1 et à l'article L. 331-2 du code de la sécurité sociale par
+application des tarifs servant de base au calcul des prestations de l'assurance maladie ; 
 
 2° Le forfait journalier, institué par l'article L. 174-4 du même code pour les mineurs et, pour les autres bénéficiaires,
-dans les conditions fixées au dernier alinéa du présent article.
+dans les conditions fixées au dernier alinéa du présent article. 
 
-Sauf lorsque les frais sont engagés au profit d'un mineur ou dans l'un des cas mentionnés aux 1° à 4°, 10°, 11°, 15° et 16°
-de l'article L. 322-3 du code de la sécurité sociale, une participation des bénéficiaires de l'aide médicale de l'Etat est
-fixée dans les conditions énoncées à l'article L. 322-2 et à la section 2 du chapitre II du titre II du livre III du même
-code.
+Sauf lorsque les frais sont engagés au profit d'un mineur ou dans l'un des cas mentionnés aux 1° à 4°,10°,11°,15° et 16° de
+l'article L. 322-3 du code de la sécurité sociale, une participation des bénéficiaires de l'aide médicale de l'Etat est fixée
+dans les conditions énoncées à l'article L. 322-2 et à la section 2 du chapitre II du titre II du livre III du même code. 
 
 Les dépenses restant à la charge du bénéficiaire en application du présent article sont limitées dans des conditions fixées
-par décret.
+par décret. 
 
-**Nota:**
+La prise en charge mentionnée au premier alinéa est subordonnée, lors de la délivrance de médicaments appartenant à un groupe
+générique tel que défini à l'article L. 5121-1 du code de la santé publique, à l'acceptation par les personnes mentionnées à
+l'article L. 251-1 d'un médicament générique, sauf : 
 
-Loi 2002-1576 2002-12-30 finances rectificative pour 2002 art. 57 IV : les dispositions du présent article sont applicables à
-compter de la date d'entrée en vigueur du décret d'application.
+1° Dans les groupes génériques soumis au tarif forfaitaire de responsabilité défini à l'article L. 162-16 du code de la
+sécurité sociale ; 
+
+2° Lorsqu'il existe des médicaments génériques commercialisés dans le groupe dont le prix est supérieur ou égal à celui du
+princeps ; 
+
+3° Dans le cas prévu au troisième alinéa de l'article L. 5125-23 du code de la santé publique.
 
 **Liens relatifs à cet article**
 
@@ -15127,22 +15130,17 @@ compter de la date d'entrée en vigueur du décret d'application.
 	  - Code de la sécurité sociale. - art. L315-2 (VD)
 	  - Code général des impôts, CGI. - art. 968 E (Ab)
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
 	**Modifié par**:
 
-	  - Loi - art. 57 (V) JORF 31 décembre 2002
+	  - Loi n°2007-1822 du 24 décembre 2007 - art. 121
 
 	**Cite**:
 
-	  - Code de la sécurité sociale. - art. L174-4 (M)
-	  - Code de la sécurité sociale. - art. L322-3 (M)
-	  - Code de la sécurité sociale. - art. L331-2 (M)
-	  - Code de l'action sociale et des familles - art. L321-1 (M)
-	  - Code de l'action sociale et des familles - art. L322-2 (M)
+	  - Code de la sécurité sociale. - art. L174-4
+	  - Code de la sécurité sociale. - art. L322-3
+	  - Code de la sécurité sociale. - art. L331-2
+	  - Code de l'action sociale et des familles - art. L321-1
+	  - Code de l'action sociale et des familles - art. L322-2
 
 	**Anciens textes**:
 
