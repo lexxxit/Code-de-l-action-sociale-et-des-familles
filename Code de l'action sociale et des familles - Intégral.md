@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2007-12-28
+Version Consolidée au 2007-12-29
 
 # Partie législative
 
@@ -203,8 +203,12 @@ Sauf disposition contraire, les modalités d'application du présent chapitre so
 
 ###### Article L112-1
 
-Le Gouvernement présente chaque année au Parlement un rapport relatif à l'évolution d'indicateurs figurant sur une liste
-établie par décret afin d'évaluer les résultats de la politique familiale.
+Le Gouvernement présente chaque année au Parlement un rapport récapitulant les dépenses de l'Etat, des collectivités
+territoriales, de la branche Famille de la sécurité sociale et d'assurance maternité, ainsi que les dépenses fiscales et les
+allègements de cotisations et de contributions, concourant à la politique de la famille. Ce rapport comporte également une
+présentation consolidée de ces dépenses par catégories d'objectifs. Il évalue l'impact et la cohérence d'ensemble des
+financements apportés par les différents contributeurs. Il est annexé au projet de loi de finances et au projet de loi de
+financement de la sécurité sociale de l'année.
 
 Le Gouvernement présente tous les trois ans au Parlement le rapport prévu à l'article 44 (b) de la convention relative aux
 droits de l'enfant signée à New York le 26 janvier 1990.
@@ -215,14 +219,9 @@ droits de l'enfant signée à New York le 26 janvier 1990.
 
 	  - Loi n°94-629 du 25 juillet 1994 - art. 42 (Ab)
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
 	**Modifié par**:
 
-	  - Loi n°2007-293 du 5 mars 2007 - art. 26 () JORF 6 mars 2007
+	  - Loi n°2007-1824 du 25 décembre 2007 - art. 106
 
 
 ###### Article L112-2
