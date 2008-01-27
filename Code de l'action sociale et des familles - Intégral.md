@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2008-01-01
+Version Consolidée au 2008-01-28
 
 # Partie législative
 
@@ -73070,22 +73070,23 @@ sont transmises à l'autorité de tarification dans les conditions prévues à l
 ###### Article R314-22
 
 En réponse aux propositions budgétaires, l'autorité de tarification fait connaître à l'établissement ou au service les
-modifications qu'elle propose. Celles-ci peuvent porter sur :
+modifications qu'elle propose. Celles-ci peuvent porter sur : 
 
-1° Les recettes autres que les produits de la tarification qui paraissent sous-évaluées ;
+1° Les recettes autres que les produits de la tarification qui paraissent sous-évaluées ; 
 
-2° Les dépenses qui paraissent insuffisantes au regard notamment de leur caractère obligatoire ;
+2° Les dépenses qui paraissent insuffisantes au regard notamment de leur caractère obligatoire ; 
 
 3° Les dépenses qui paraissent manifestement hors de proportion avec le service rendu ou avec le coût des établissements et
-services fournissant des prestations comparables ;
+services fournissant des prestations comparables ; 
 
 4° Pour les dépenses prises en charge par l'aide sociale de l'Etat ou par l'assurance maladie, celles qui paraissent
 injustifiées ou dont le niveau paraît excessif, compte tenu des conditions de satisfaction des besoins de la population, ou
-de l'activité et des coûts des établissements et services fournissant des prestations comparables ;
+de l'activité et des coûts des établissements et services fournissant des prestations comparables ; 
 
 5° Les dépenses dont la prise en compte paraît incompatible avec les dotations limitatives de crédit mentionnées aux articles
-L. 313-8, L. 314-3 et L. 314-4, au regard des orientations retenues par l'autorité de tarification, pour l'ensemble des
-établissements et services dont elle fixe le tarif ou pour certaines catégories d'entre eux ;
+L. 313-8, 
+L. 314-3 à L. 314-5, au regard des orientations retenues par l'autorité de tarification, pour l'ensemble des établissements
+et services dont elle fixe le tarif ou pour certaines catégories d'entre eux ; 
 
 6° Les modifications qui découlent de l'affectation du résultat d'exercices antérieurs, conformément aux dispositions des
 articles R. 314-51 à R. 314-53.
@@ -73094,19 +73095,17 @@ articles R. 314-51 à R. 314-53.
 
 	**Anciens textes**:
 
-	  - Décret n°2003-1010 2003-10-22 art. 21
 	  - Décret n°2003-1010 du 22 octobre 2003 - art. 21 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2004-1136 2004-10-21
+	  - Décret n°2008-87 du 24 janvier 2008 - art. 2
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L313-8 (M)
-	  - Code de l'action sociale et des familles - art. L314-3 (M)
-	  - Code de l'action sociale et des familles - art. L314-4 (M)
-	  - Code de l'action sociale et des familles L313-8, L314-3, L314-4, R314-51 à R314-53
+	  - Code de l'action sociale et des familles - art. L313-8 (V)
+	  - Code de l'action sociale et des familles - art. L314-3 (V)
+	  - Code de l'action sociale et des familles - art. R314-51
 
 	**Cité par**:
 
@@ -73237,10 +73236,10 @@ avoir approuvé la modification proposée par l'autorité de tarification.
 Avant le dépôt des propositions budgétaires, ou en cours de procédure contradictoire, l'autorité de tarification peut faire
 connaître à l'établissement ou au service un montant indicatif des dépenses globales qui pourraient lui être autorisées,
 compte tenu des hypothèses retenues, selon le cas, par le projet de loi de finances de l'Etat, le projet de loi de
-financement de la sécurité sociale ou le projet de budget du département concerné.
+financement de la sécurité sociale ou le projet de budget du département concerné. 
 
 Ce montant indicatif peut être confirmé ou réajusté après l'adoption des montants limitatifs mentionnés aux articles L.
-313-8, L. 314-3 et L. 314-4.
+313-8, L. 314-3 à L. 314-5. 
 
 Ces informations ne lient pas l'autorité de tarification. L'absence de réponse de l'établissement ou du service ne vaut pas
 acquiescement.
@@ -73249,18 +73248,16 @@ acquiescement.
 
 	**Anciens textes**:
 
-	  - Décret n°2003-1010 2003-10-22 art. 24
 	  - Décret n°2003-1010 du 22 octobre 2003 - art. 24 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2004-1136 2004-10-21
+	  - Décret n°2008-87 du 24 janvier 2008 - art. 2
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L313-8 (M)
-	  - Code de l'action sociale et des familles - art. L314-3 (M)
-	  - Code de l'action sociale et des familles - art. L314-4 (M)
+	  - Code de l'action sociale et des familles - art. L313-8 (V)
+	  - Code de l'action sociale et des familles - art. L314-3 (V)
 
 
 ##### Sous-paragraphe 3 : Dépenses pouvant être prises en charge
@@ -76442,157 +76439,153 @@ des III et IV de l'article R. 314-51.
 ###### Article R314-105
 
 Les dépenses liées à l'activité sociale et médico-sociale des établissements et services régis par le présent chapitre sont,
-sous réserve de l'habilitation mentionnée à l'article L. 313-6, prises en charge :
+sous réserve de l'habilitation mentionnée à l'article L. 313-6, prises en charge : 
 
-I. - Pour les établissements et services mentionnés au 1° de l'article L. 312-1 :
+I.-Pour les établissements et services mentionnés au 1° de l'article L. 312-1 : 
 
 1° Pour ceux des services d'aide à domicile qui relèvent également des 6° et 7° du même article, par le département, sous la
 forme de tarifs horaires établis et versés conformément aux dispositions du paragraphe 5 de la sous-section 4 de la section
-2 ;
+2 ; 
 
 2° Pour les autres établissements et services, par le département, sous la forme d'un prix de journée éventuellement
 globalisé, établi et versé dans les conditions prévues aux sous-paragraphes 3 et 4 du paragraphe 2 de la sous-section 3 de la
-présente section ;
+présente section ; 
 
 3° Pour les équipes de prévention spécialisée relevant du 1° du I de l'article L. 312-1 et du 2° de l'article L. 221-1, sous
 la forme d'une dotation globale versée par le département dans les conditions précisées aux articles R. 314-106 à R.
-314-109 ;
+314-109 ; 
 
 4° Pour les services assurant une action d'aide à domicile prévue au deuxième alinéa de l'article L. 222-3, par le
 département sous forme d'une dotation globale de financement versée dans les conditions précisées aux articles R. 314-106 à
-R. 314-109.
+R. 314-109. 
 
-II. - Pour les établissements et services mentionnés au 2° de l'article L. 312-1 :
+II.-Pour les établissements et services mentionnés au 2° de l'article L. 312-1 : 
 
 1° Pour les services d'éducation et de soins à domicile qui prennent en charge de jeunes handicapés sur décision de la
 commission des droits et de l'autonomie des personnes handicapées ou dans le cadre de l'intégration scolaire, par l'assurance
 maladie en application du 3° de l'article L. 321-1 du code de la sécurité sociale, sous la forme d'une dotation globale
-établie et versée dans les conditions fixée par les articles R. 174-16-1 à R. 174-16-5 du code de la sécurité sociale ;
+établie et versée dans les conditions fixée par les articles R. 174-16-1 à R. 174-16-5 du code de la sécurité sociale ; 
 
 2° Pour les autres établissements et services, par l'assurance maladie en application du 3° de l'article L. 321-1 du code de
 la sécurité sociale, sous la forme d'un prix de journée établi et versé conformément aux dispositions du sous-paragraphe 3 du
-paragraphe 2 de la sous-section 3 de la présente section.
+paragraphe 2 de la sous-section 3 de la présente section. 
 
-III. - Pour les centres d'action médico-sociale mentionnés au 3° de l'article L. 312-1 :
+III.-Pour les centres d'action médico-sociale mentionnés au 3° de l'article L. 312-1 : 
 
 Par l'assurance maladie et le département d'implantation, en application de l'article L. 2112-8 du code de la santé publique,
-sous la forme d'une dotation globale établie et versée dans les conditions fixées à l'article R. 314-123.
+sous la forme d'une dotation globale établie et versée dans les conditions fixées à l'article R. 314-123. 
 
-IV. - Pour les établissements et services mentionnés au 4° de l'article L. 312-1 :
+IV.-Pour les établissements et services mentionnés au 4° de l'article L. 312-1 : 
 
 1° Pour les établissements et services mentionnés au a) du III de l'article L. 314-1, par le département en vertu de
-l'article L. 228-3, et le cas échéant par l'Etat, dans les conditions et sous les formes fixées à l'article R. 314-125 ;
+l'article L. 228-3, et le cas échéant par l'Etat, dans les conditions et sous les formes fixées à l'article R. 314-125 ; 
 
 2° Pour les établissements et services mentionnés au b) du III de l'article L. 314-1, par l'Etat dans les conditions et sous
-les formes fixées à l'article R. 314-126 ;
+les formes fixées à l'article R. 314-126 ; 
 
 3° Pour les services d'enquêtes sociales et les services d'investigation et d'orientation éducative relevant des articles 375
 à 375-8 du code civil et des articles 1181 à 1200 du nouveau code de procédure civile, de l'ordonnance n° 45-174 du 2 février
 1945 relative à l'enfance délinquante, par l'Etat, sous les formes et dans les conditions fixées aux articles R. 314-125 et
-R. 314-126 du code de l'action sociale et des familles.
+R. 314-126 du code de l'action sociale et des familles. 
 
-V. - Pour les établissements et services mentionnés au a) du 5° de l'article L. 312-1 :
+V.-Pour les établissements et services mentionnés au a) du 5° de l'article L. 312-1 : 
 
 Par l'Etat, sous la forme d'une dotation globale établie et versée dans les conditions fixées au sous-paragraphe 1 du
-paragraphe 2 de la sous-section 3 de la présente section.
+paragraphe 2 de la sous-section 3 de la présente section. 
 
-VI. - Pour les établissements et services mentionnés au b) du 5° de l'article L. 312-1 :
+VI.-Pour les établissements et services mentionnés au b) du 5° de l'article L. 312-1 : 
 
 Par l'assurance maladie, en vertu des dispositions de l'article L. 344-4 pour les frais directement entraînés par la
 formation professionnelle, et en vertu des dispositions du 1° de l'article L. 321-1 du code de la sécurité sociale pour les
 frais de traitement, sous la forme d'un prix de journée établi et versé conformément aux dispositions du sous-paragraphe 3 du
-paragraphe 2 de la section 2.
+paragraphe 2 de la section 2. 
 
-VII. - Pour les établissements et services mentionnés au 6° de l'article L. 312-1 :
+VII.-Pour les établissements et services mentionnés au 6° de l'article L. 312-1 : 
 
 1° Pour les établissements relevant du I de l'article L. 313-12, par le département dans les conditions fixées par les
 dispositions du paragraphe 10 de la sous-section 4, de la présente section, et par l'assurance maladie, sous la forme d'une
-dotation globale, versée dans les conditions fixées par les articles R. 174-9 à R. 174-16 du code de la sécurité sociale ;
+dotation globale, versée dans les conditions fixées par les articles R. 174-9 à R. 174-16 du code de la sécurité sociale ; 
 
 2° Pour les services d'aide à domicile ne dispensant pas de soins, par le département, sous la forme de tarifs horaires
-établis et versés dans les conditions fixées au paragraphe 5 de la sous-section 4 de la présente section ;
+établis et versés dans les conditions fixées au paragraphe 5 de la sous-section 4 de la présente section ; 
 
 3° Pour les services de soins infirmiers à domicile, par l'assurance maladie, sous la forme d'une dotation globale établie
 dans les conditions fixées au paragraphe 6 de la sous-section 4 de la présente section et versée dans les conditions fixées
-aux articles R. 174-16-1 à R. 174-16-5 du code de la sécurité sociale.
+aux articles R. 174-16-1 à R. 174-16-5 du code de la sécurité sociale. 
 
 4° Pour les établissements relevant de l'article 5 de la loi n° 2001-647 du 20 juillet 2001 relative à la prise en charge de
 la perte d'autonomie et à l'allocation personnalisée d'autonomie, par l'assurance maladie sous la forme d'un forfait global
 de soins établi dans les conditions prévues à cet article, et par le département sous la forme de tarifs journaliers établis
-dans les conditions prévues à l'article R. 314-192 ;
+dans les conditions prévues à l'article R. 314-192 ; 
 
 5° Pour les établissements qui relèvent du II de l'article L. 313-12, par le département sous forme de tarifs journaliers,
-dans les conditions fixées par l'article R. 232-21 ;
+dans les conditions fixées par l'article R. 232-21 ; 
 
-VIII. - Pour les établissements et services mentionnés au 7° de l'article L. 312-1 :
+VIII.-Pour les établissements et services mentionnés au 7° de l'article L. 312-1 : 
 
 1° Pour les établissements mentionnés à l'article L. 344-1, par l'assurance maladie sous la forme d'un prix de journée,
-établi et versé conformément aux dispositions du paragraphe 3 de la sous-section 2 de la présente section  ;
+établi et versé conformément aux dispositions du paragraphe 3 de la sous-section 2 de la présente section ; 
 
 2° Pour les foyers d'accueil médicalisés et les services d'accompagnement médico-social pour adultes handicapés, par le
 département pour les frais d'accompagnement à la vie sociale et, le cas échéant, d'hébergement, sous la forme d'un tarif
 journalier établi et versé dans les conditions fixées par les articles R. 314-145 et R. 314-146, et par l'assurance maladie
 pour les dépenses afférentes aux soins médicaux, en vertu des articles L. 174-7 et L. 162-24-1 du code de la sécurité
 sociale, sous la forme d'un forfait journalier établi et versé dans les conditions fixées aux articles R. 314-142 et R.
-314-143 ;
+314-143 ; 
 
 3° Pour les services d'aide à domicile ne dispensant pas de soins, par le département, sous la forme de tarifs horaires
-établis et versés dans les conditions fixées au paragraphe 5 de la sous-section 4 de la présente section ;
+établis et versés dans les conditions fixées au paragraphe 5 de la sous-section 4 de la présente section ; 
 
 4° Pour les services de soins infirmiers à domicile, par l'assurance maladie, sous la forme d'une dotation globale établie
 dans les conditions fixées au paragraphe 6 de la sous-section 4 de la présente section et versée dans les conditions fixées
-aux articles R. 174-16-1 à R. 174-16-5 du code de la sécurité sociale.
+aux articles R. 174-16-1 à R. 174-16-5 du code de la sécurité sociale. 
 
 5° Pour les autres établissements et services, par le département sous la forme d'un prix de journée établi et versé
-conformément aux dispositions du sous-paragraphe 3 du paragraphe 2 de la sous-section 3 de la présente section.
+conformément aux dispositions du sous-paragraphe 3 du paragraphe 2 de la sous-section 3 de la présente section. 
 
-IX. - Pour les établissements et services mentionnés au 8° et au 13° de l'article L. 312-1 :
+IX.-Pour les établissements et services mentionnés au 8° et au 13° de l'article L. 312-1 : 
 
 1° Pour les centres d'hébergement et de réinsertion sociale mentionnés à l'article L. 345-1 et les centres d'accueil pour
 demandeurs d'asile mentionnés à l'article L. 348-1, par l'Etat sous la forme d'une dotation globale de financement établie et
 versée dans les conditions fixées au sous-paragraphe 1 du paragraphe 2 de la présente sous-section et au paragraphe 9 de la
-sous-section 4 de la présente section ;
+sous-section 4 de la présente section ; 
 
 2° Pour les services d'aide à domicile qui relèvent simultanément du 1° du I de l'article L. 312-1, par le département sous
-forme d'une dotation globale de financement versée dans les conditions précisées aux articles R. 314-106 à R. 314-109 ;
+forme d'une dotation globale de financement versée dans les conditions précisées aux articles R. 314-106 à R. 314-109 ; 
 
 3° Pour les centres maternels et hôtels maternels qui accueillent des femmes isolées, enceintes ou accompagnées d'enfants de
 moins de trois ans, par le département sous la forme de prix de journées éventuellement globalisés, dans les conditions
-fixées par les sous-paragraphes 3 et 4 du paragraphe 2 de la sous-section 3 de la présente section ;
+fixées par les sous-paragraphes 3 et 4 du paragraphe 2 de la sous-section 3 de la présente section ; 
 
 4° Pour les autres établissements et services, par l'Etat sous la forme d'une dotation globale établie et versée conformément
-au sous-paragraphe 1 du paragraphe 2 de la sous-section 3 de la présente section.
+au sous-paragraphe 1 du paragraphe 2 de la sous-section 3 de la présente section. 
 
-X. - Pour les établissements et services mentionnés au 9° de l'article L. 312-1 :
+X.-Pour les établissements et services mentionnés au 9° de l'article L. 312-1 : 
 
-1° Pour les centres de cure ambulatoire en alcoologie, par l'assurance maladie, en vertu des dispositions de l'article L.
-3311-1 du code de la santé publique, sous la forme d'une dotation globale établie et versée dans les conditions fixée par les
-articles R. 174-16-1 à R. 174-16-5 du code de la sécurité sociale ;
+1° Pour les centres de soins d'accompagnement et de prévention en addictologie, les centres d'accueil et d'accompagnement à
+la réduction des risques pour usagers de drogues, et les structures dénommées " lits halte soins santé ", par l'assurance
+maladie, en vertu des dispositions de l'article L. 314-8 du présent code et de l'article L. 3121-5 du code de la santé
+publique, sous la forme d'une dotation globale établie et versée dans les conditions fixées par les articles R. 174-7 et R.
+174-8 du code de la sécurité sociale ; 
 
-2° Pour les centres spécialisés de soins aux toxicomanes, les centres d'accueil et d'accompagnement à la réduction des
-risques pour usagers de drogues, et les structures dénommées "lits halte soins santé" par l'assurance maladie, en vertu des
-dispositions de l'article L. 314-8 du présent code et de l'article L. 3121-5 du code de la santé publique, sous la forme
-d'une dotation globale établie et versée dans les conditions fixée par les articles R. 174-7 et R. 174-8 du code de la
-sécurité sociale ;
+2° Pour les appartements de coordination thérapeutique, par l'assurance maladie, en vertu des dispositions de l'article L.
+314-8 du présent code, sous la forme d'une dotation globale établie et versée dans les conditions fixées par les articles R.
+174-16-1 à R. 174-16-5 du code de la sécurité sociale. 
 
-3° Pour les appartements de coordination thérapeutique, par l'assurance maladie, en vertu des dispositions de l'article L.
-314-8, sous la forme d'une dotation globale établie et versée dans les conditions fixée par les articles R. 174-16-1 à R.
-174-16-5 du code de la sécurité sociale.
-
-XI. - Pour les établissements et services mentionnés au 11° de l'article L. 312-1 :
+XI.-Pour les établissements et services mentionnés au 11° de l'article L. 312-1 : 
 
 Pour les dépenses afférentes aux soins dans les centres de ressources pour personnes autistes, les centres de ressources pour
 personnes atteintes de handicaps rares ou les unités d'évaluation, de ré-entraînement et d'orientation sociale et socio-
 professionnelle pour personnes cérébro-lésées, par l'assurance maladie en vertu des dispositions combinées des articles L.
 162-24-1, L. 174-7 et L. 321-1 du code de la sécurité sociale, sous la forme d'une dotation globale établie et versée dans
-les conditions fixée par les articles R. 174-16-1 à R. 174-16-5 du code de la sécurité sociale.
+les conditions fixée par les articles R. 174-16-1 à R. 174-16-5 du code de la sécurité sociale. 
 
-XII. - Pour les établissements mentionnés au 2° de l'article L. 6111-2 du code de la santé publique :
+XII.-Pour les établissements mentionnés au 2° de l'article L. 6111-2 du code de la santé publique : 
 
 1° Pour ceux d'entre eux qui sont signataires de la convention mentionnée au I de l'article L. 313-12, par le département
 dans les conditions fixées par les dispositions du paragraphe 10 de la sous-section 4 de la présente section, et par
 l'assurance maladie, sous la forme d'une dotation globale, versée dans les conditions fixées par les articles R. 174-9 à R.
-174-16 du code de la sécurité sociale ;
+174-16 du code de la sécurité sociale ; 
 
 2° Pour ceux d'entre eux qui ne sont pas signataires de cette convention, par l'assurance maladie sous la forme d'un forfait
 global de soins établi dans les conditions prévues à l'article 5 de la loi n° 2001-647 du 20 juillet 2001 relative à la prise
@@ -76601,57 +76594,13 @@ sous la forme de tarifs journaliers établis dans les conditions prévues à l'a
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Ordonnance 45-174 1945-02-02
-	  - Loi n°2001-647 du 20 juillet 2001 - art. 5 (MMN)
-	  - Code civil 375 à 375-8
-	  - Code de la santé publique - art. L2112-8 (V)
-	  - Code de la santé publique - art. L3121-5 (M)
-	  - Code de la santé publique - art. L3311-1 (V)
-	  - Code de la santé publique - art. L6111-2 (V)
-	  - Code de la sécurité sociale L321-1, R174-16-1 à R174-16-5, R174-9 à R174-16, L174-7, L162-24-1, R174-7, R174-8
-	  - Code de la sécurité sociale. - art. L162-24-1 (M)
-	  - Code de la sécurité sociale. - art. L174-7 (M)
-	  - Code de la sécurité sociale. - art. L321-1 (M)
-	  - Code de la sécurité sociale. - art. R174-7 (Ab)
-	  - Code de la sécurité sociale. - art. R174-8 (Ab)
-	  - Code de l'action sociale et des familles - art. L221-1 (M)
-	  - Code de l'action sociale et des familles - art. L222-3 (M)
-	  - Code de l'action sociale et des familles - art. L228-3 (V)
-	  - Code de l'action sociale et des familles - art. L312-1 (M)
-	  - Code de l'action sociale et des familles - art. L313-12 (M)
-	  - Code de l'action sociale et des familles - art. L313-6 (M)
-	  - Code de l'action sociale et des familles - art. L314-1 (M)
-	  - Code de l'action sociale et des familles - art. L314-8 (M)
-	  - Code de l'action sociale et des familles - art. L344-1 (M)
-	  - Code de l'action sociale et des familles - art. L344-4 (M)
-	  - Code de l'action sociale et des familles - art. L345-1 (M)
-	  - Code de l'action sociale et des familles - art. L348-1 (V)
-	  - Code de l'action sociale et des familles - art. R232-21 (T)
-	  - Code de l'action sociale et des familles - art. R314-123 (V)
-	  - Code de l'action sociale et des familles - art. R314-125 (V)
-	  - Code de l'action sociale et des familles - art. R314-126 (V)
-	  - Code de l'action sociale et des familles - art. R314-142 (V)
-	  - Code de l'action sociale et des familles - art. R314-143 (V)
-	  - Code de l'action sociale et des familles - art. R314-145 (V)
-	  - Code de l'action sociale et des familles - art. R314-146 (V)
-	  - Code de l'action sociale et des familles - art. R314-192 (M)
-	  - Code de l'action sociale et des familles L313-6, L312-1, L221-1, R314-106 à R314-109, L222-3, R314-123, L314-1, L228-3, R314-125, R314-126, L344-4, L313-12, R314-192, R232-21, L344-1, R314-145, R314-146, R314-142, R314-143, L345-1, L348-1, L314-8
-	  - Nouveau code de procédure civile 1181 à 1200
-
 	**Anciens textes**:
 
-	  - Décret n°2003-1010 2003-10-22 art. 106
 	  - Décret n°2003-1010 du 22 octobre 2003 - art. 106 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
 
 	**Modifié par**:
 
-	  - Décret n°2007-399 du 23 mars 2007 - art. 2 () JORF 24 mars 2007
+	  - Décret n°2008-87 du 24 janvier 2008 - art. 2
 
 	**Cité par**:
 
@@ -76802,15 +76751,15 @@ d'implantation de l'établissement ou du service bénéficiaire.
 
 ###### Article R314-111
 
-Les dotations globales ou les forfaits globaux de soins relevant de l'assurance maladie sont versés :
+Les dotations globales ou les forfaits globaux de soins relevant de l'assurance maladie sont versés : 
 
-1° Pour les dotations globales afférentes aux soins dispensés dans les centres spécialisés de soins aux toxicomanes
-mentionnés à l'article L. 314-8, dans les conditions prévues par les articles R. 174-7 et R. 174-8 du code de la sécurité
-sociale ;
+1° Pour les dotations globales afférentes aux soins dispensés dans les centres de soins, d'accompagnement et de prévention en
+addictologie mentionnés à l'article L. 314-8, dans les conditions prévues par les articles R. 174-7 et R. 174-8 du code de la
+sécurité sociale ; 
 
 2° Pour dotations globales afférentes aux soins dispensés dans les établissements hébergeant des personnes âgées dépendantes
 mentionnés au I de l'article L. 313-12, dans les conditions prévues par les articles R. 174-9 à R. 174-16 du code de la
-sécurité sociale ;
+sécurité sociale ; 
 
 3° Pour les dotations globales ou les forfaits globaux de soins versés aux autres établissements ou services relevant du I de
 l'article L. 312-1, dans les conditions prévues par les articles R. 174-16-1 à R. 174-16-5 du code de la sécurité sociale.
@@ -76819,12 +76768,11 @@ l'article L. 312-1, dans les conditions prévues par les articles R. 174-16-1 à
 
 	**Anciens textes**:
 
-	  - Décret n°2003-1010 2003-10-22 art. 112
 	  - Décret n°2003-1010 du 22 octobre 2003 - art. 112 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2004-1136 2004-10-21
+	  - Décret n°2008-87 du 24 janvier 2008 - art. 2
 
 	**Cité par**:
 
@@ -76835,12 +76783,12 @@ l'article L. 312-1, dans les conditions prévues par les articles R. 174-16-1 à
 
 	**Cite**:
 
-	  - Code de la sécurité sociale R174-7, R174-8, R174-9 à R174-16, R174-16-1 à R174-16-5
-	  - Code de la sécurité sociale. - art. R174-7 (Ab)
-	  - Code de la sécurité sociale. - art. R174-8 (Ab)
-	  - Code de l'action sociale et des familles - art. L312-1 (M)
-	  - Code de l'action sociale et des familles - art. L313-12 (M)
-	  - Code de l'action sociale et des familles - art. L314-8 (M)
+	  - Code de la sécurité sociale. - art. R174-16-1
+	  - Code de la sécurité sociale. - art. R174-7 (V)
+	  - Code de la sécurité sociale. - art. R174-9 (V)
+	  - Code de l'action sociale et des familles - art. L312-1 (VT)
+	  - Code de l'action sociale et des familles - art. L313-12 (V)
+	  - Code de l'action sociale et des familles - art. L314-8 (V)
 
 
 ###### Article R314-112
@@ -80030,6 +79978,26 @@ de la santé publique.
 
 	  - Code de la santé publique - art. L6111-2 (V)
 	  - Code de l'action sociale et des familles - art. R314-149 (V)
+
+
+###### Article R314-196-1
+
+Les activités, notamment de prévention et d'éducation pour la santé, qui ne sont pas financées par les régimes obligatoires
+d'assurance maladie en application des articles L. 314-3-2 et L. 314-3-3 font l'objet, dès lors que les produits qui leur
+sont affectés dépassent le montant fixé par l'arrêté des ministres chargés de l'action sociale et du logement pris en
+application de l'article R. 314-152, d'un budget propre lorsque le gestionnaire est un organisme de droit privé et d'un
+budget annexe, pour les établissements publics.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-87 du 24 janvier 2008 - art. 2
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L314-3-2
+	  - Code de l'action sociale et des familles - art. R314-152
 
 
 ##### Sous-section 5 : Dispositions relatives à la réglementation du travail
