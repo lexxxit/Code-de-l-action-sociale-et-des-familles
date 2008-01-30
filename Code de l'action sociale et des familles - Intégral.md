@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2008-01-28
+Version Consolidée au 2008-01-31
 
 # Partie législative
 
@@ -59049,6 +59049,216 @@ de prétendre du fait de cette activité.
 
 	  - Décret n°2006-1197 2006-09-29 art. 9 I, III JORF 30 septembre 2006 en vigueur le 1er octobre 2006
 	  - Décret n°2006-1197 du 29 septembre 2006 - art. 9 () JORF 30 septembre 2006 en vigueur le 1er octobre 2006
+
+
+##### Sous-section 5 : Evaluation des éléments de train de vie.
+
+###### Article R262-22-1
+
+I.-L'évaluation forfaitaire du train de vie prévue à l'article L. 262-10-1 prend en compte les éléments et barèmes
+suivants : 
+
+1° Propriétés bâties détenues ou occupées par le demandeur ou le bénéficiaire : un quart de la valeur locative annuelle
+définie aux articles 1494 à 1508 et 1516 à 1518 B du code général des impôts. Pour les propriétés situées sur un territoire
+dans lequel aucune valeur locative n'est applicable ou ne peut être connue, la valeur locative est celle du logement occupé
+par le demandeur ou le bénéficiaire ; 
+
+2° Propriétés non bâties détenues ou occupées par le demandeur ou le bénéficiaire : un quart de la valeur locative annuelle
+définie aux articles 1509 à 1518 A du code général des impôts. Pour les propriétés situées sur un territoire dans lequel
+aucune valeur locative n'est applicable ou ne peut être connue, la valeur locative est celle du logement occupé par le
+demandeur ou le bénéficiaire ; 
+
+3° Travaux, charges et frais d'entretien des immeubles : 80 % du montant des dépenses ; 
+
+4° Personnels et services domestiques : 80 % du montant des dépenses ; 
+
+5° Automobiles, bateaux de plaisance, motocyclettes : 6,25 % de la valeur vénale de chaque bien lorsque celle-ci est
+supérieure à 10 000 euros ; 
+
+6° Appareils électroménagers, équipements son-hifi-vidéo, matériels informatiques : 80 % du montant des dépenses lorsque
+celles-ci sont supérieures à 1 000 euros ; 
+
+7° Objets d'art ou de collection, articles de joaillerie et métaux précieux : 0,75 % de leur valeur vénale ; 
+
+8° Voyages, séjours en hôtels et locations saisonnières, restaurants, frais de réception, biens et services culturels,
+éducatifs, de communication ou de loisirs : 80 % du montant des dépenses ; 
+
+9° Clubs de sports et de loisirs, droits de chasse : 80 % du montant des dépenses ; 
+
+10° Capitaux : 2,5 % du montant à la fin de la période de référence. 
+
+II.-Pour l'application du présent article : 
+
+1° Les dépenses sont celles réglées au bénéfice du foyer du demandeur ou du bénéficiaire pendant la période de référence ; 
+
+2° La valeur vénale des biens est la valeur réelle à la date de la disposition. Sont retenus notamment à fin d'évaluation,
+lorsqu'ils existent : 
+
+a) Le montant garanti par le contrat d'assurance ; 
+
+b) L'estimation particulière effectuée par un professionnel ; 
+
+c) La référence issue d'une publication professionnelle faisant autorité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-88 du 28 janvier 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2009-404 du 15 avril 2009 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1494
+	  - Code général des impôts, CGI. - art. 1509
+	  - Code général des impôts, CGI. - art. 1516
+	  - Code de l'action sociale et des familles - art. L262-10-1
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R262-22-3 (VT)
+	  - Code de l'action sociale et des familles - art. R262-22-5 (VT)
+
+
+###### Article R262-22-2
+
+La période de référence est celle mentionnée à l'article R. 262-9.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-88 du 28 janvier 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2009-404 du 15 avril 2009 - art. 2
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. R262-9
+
+
+###### Article R262-22-3
+
+Les biens et services énumérés à l'article R. 262-22-1 ne sont pas pris en compte lorsqu'ils ont été détenus ou utilisés à
+usage professionnel. En cas d'usage mixte, l'évaluation est effectuée au prorata de l'utilisation à usage privé ou personnel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-88 du 28 janvier 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2009-404 du 15 avril 2009 - art. 2
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. R262-22-1
+
+
+###### Article R262-22-4
+
+Lorsqu'il est envisagé de faire usage de la procédure prévue à l'article L. 262-10-1, le président du conseil général, sur
+demande ou après consultation de l'organisme payeur, en informe le demandeur ou le bénéficiaire de la prestation, par lettre
+recommandée avec accusé de réception. Cette lettre a pour objet : 
+
+1° De l'informer de l'objet de la procédure engagée, de son déroulement, de ses conséquences, de sa possibilité de demander à
+être entendu et à être assisté, lors de cet entretien, du conseil de son choix, des sanctions applicables en cas de
+déclarations fausses ou incomplètes et de ce que le résultat de cette évaluation sera transmis aux autres organismes de
+sécurité sociale qui lui attribuent, le cas échéant, des prestations sous conditions de ressources ; 
+
+2° De l'inviter à renvoyer, dans un délai de trente jours, le questionnaire adressé par l'organisme visant à évaluer les
+différents éléments de son train de vie accompagné de toutes les pièces justificatives, en précisant qu'à défaut de réponse
+complète dans ce délai les dispositions du troisième alinéa de l'article L. 161-1-4 du code de la sécurité sociale seront
+appliquées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-88 du 28 janvier 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2009-404 du 15 avril 2009 - art. 2
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L161-1-4
+	  - Code de l'action sociale et des familles - art. L262-10-1
+
+
+###### Article R262-22-5
+
+Si le montant du train de vie évalué forfaitairement en application de l'article R. 262-22-1 est supérieur ou égal à une
+somme correspondant à la moitié du montant annuel du revenu minimum prévu à l'article L. 262-2, augmentée des revenus perçus,
+pour la période de référence, au titre, d'une part, des prestations et aides mentionnées aux articles R. 262-6 et R. 262-7,
+d'autre part, des rémunérations mentionnées à l'article L. 262-11, la disproportion marquée entre le train de vie et les
+ressources déclarées est constatée. Dans ce cas, l'évaluation forfaitaire des éléments du train de vie est prise en compte
+pour la détermination du droit à la prestation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-88 du 28 janvier 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2009-404 du 15 avril 2009 - art. 2
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L262-11
+	  - Code de l'action sociale et des familles - art. L262-2
+	  - Code de l'action sociale et des familles - art. R262-22-1
+	  - Code de l'action sociale et des familles - art. R262-6
+
+
+###### Article R262-22-6
+
+Lorsque les ressources prises en compte selon l'évaluation forfaitaire du train de vie ne donnent pas droit à la prestation,
+l'attribution, la prorogation ou le renouvellement de la prestation n'est pas refusé en cas de circonstances exceptionnelles
+liées notamment à la situation économique et sociale du foyer, ou s'il est établi que la disproportion marquée a cessé. En
+cas de refus, la décision est notifiée au demandeur ou au bénéficiaire, par lettre recommandée avec accusé de réception. Elle
+est motivée et indique les voies de recours dont dispose l'intéressé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-88 du 28 janvier 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2009-404 du 15 avril 2009 - art. 2
+
+
+###### Article R262-22-7
+
+L'information transmise au ministre chargé de l'action sociale par la Caisse nationale des allocations familiales et la
+Caisse centrale de la mutualité sociale agricole, en vertu de l'article L. 262-49, comprend, à la fin de chaque trimestre, un
+bilan de l'application des dispositions prévues à la présente sous-section.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-88 du 28 janvier 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2009-404 du 15 avril 2009 - art. 2
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L262-49
 
 
 ##### Section 3 : Attribution de l'allocation et de la prime forfaitaire
