@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2008-02-09
+Version Consolidée au 2008-02-16
 
 # Partie législative
 
@@ -46665,7 +46665,8 @@ le contrat de responsabilité parentale.
 Le contrat de responsabilité parentale peut être proposé aux parents ou au représentant légal du mineur par le président du
 conseil général de sa propre initiative ou sur saisine :
 
-1° De l'inspecteur d'académie en cas d'absentéisme scolaire tel que défini à l'article L. 131-8 du code de l'éducation ;
+1° De l'inspecteur d'académie ou du maire de la commune où réside le mineur en cas d'absentéisme scolaire tel que défini à
+l'article L. 131-8 du code de l'éducation ;
 
 2° Du chef d'établissement en cas de trouble porté au fonctionnement d'un établissement scolaire ;
 
@@ -46675,21 +46676,18 @@ parentale.
 
 Les autorités qui saisissent le président du conseil général lui indiquent les motifs et circonstances de fait qui les
 conduisent à lui proposer de conclure avec les parents ou le représentant légal du mineur un contrat de responsabilité
-parentale.
+parentale. Lorsque le maire décide de saisir le président du conseil général sur le fondement du 1°, il en informe
+l'inspecteur d'académie.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2004-1136 2004-10-21
-
-	**Créé par**:
-
-	  - Décret n°2006-1104 du 1 septembre 2006 - art. 1 () JORF 2 septembre 2006
+	  - Décret n°2008-139 du 14 février 2008 - art. 3
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L131-8 (M)
+	  - Code de l'éducation - art. L131-8
 
 	**Cité par**:
 
