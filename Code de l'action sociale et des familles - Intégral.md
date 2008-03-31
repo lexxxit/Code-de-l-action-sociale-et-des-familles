@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2008-03-01
+Version Consolidée au 2008-04-01
 
 # Partie législative
 
@@ -14082,31 +14082,40 @@ titre. Sauf disposition contraire, elles sont prises par décret en Conseil d'Et
 
 ###### Article L245-1
 
-I. - Toute personne handicapée résidant de façon stable et régulière en France métropolitaine, dans les départements
-mentionnés à l'article L. 751-1 du code de la sécurité sociale ou à Saint-Pierre-et-Miquelon, ayant dépassé l'âge d'ouverture
-du droit à l'allocation d'éducation de l'enfant handicapé prévue à l'article L. 541-1 du même code, dont l'âge est inférieur
-à une limite fixée par décret et dont le handicap répond à des critères définis par décret prenant notamment en compte la
-nature et l'importance des besoins de compensation au regard de son projet de vie, a droit à une prestation de compensation
-qui a le caractère d'une prestation en nature qui peut être versée, selon le choix du bénéficiaire, en nature ou en espèces.
+I. ― Toute personne handicapée résidant de façon stable et régulière en France métropolitaine, dans les départements
+mentionnés à l'article L. 751-1 du code de la sécurité sociale ou à Saint-Pierre-et-Miquelon, dont l'âge est inférieur à une
+limite fixée par décret et dont le handicap répond à des critères définis par décret prenant notamment en compte la nature et
+l'importance des besoins de compensation au regard de son projet de vie, a droit à une prestation de compensation qui a le
+caractère d'une prestation en nature qui peut être versée, selon le choix du bénéficiaire, en nature ou en espèces. 
+
+Lorsque la personne remplit les conditions d' âge permettant l'ouverture du droit à l'allocation prévue à l'article L. 541-1
+du code de la sécurité sociale, l'accès à la prestation de compensation se fait dans les conditions prévues au III du présent
+article. 
 
 Lorsque le bénéficiaire de la prestation de compensation dispose d'un droit ouvert de même nature au titre d'un régime de
 sécurité sociale, les sommes versées à ce titre viennent en déduction du montant de la prestation de compensation dans des
-conditions fixées par décret.
+conditions fixées par décret. 
 
-Un décret en Conseil d'Etat précise la condition de résidence mentionnée au premier alinéa.
+Un décret en Conseil d' Etat précise la condition de résidence mentionnée au premier alinéa. 
 
-II. - Peuvent également prétendre au bénéfice de cette prestation :
+II. ― Peuvent également prétendre au bénéfice de cette prestation : 
 
 1° Les personnes d'un âge supérieur à la limite mentionnée au I mais dont le handicap répondait, avant cet âge limite, aux
-critères mentionnés audit I, sous réserve de solliciter cette prestation avant un âge fixé par décret ;
+critères mentionnés audit I, sous réserve de solliciter cette prestation avant un âge fixé par décret ; 
 
 2° Les personnes d'un âge supérieur à la limite mentionnée au I mais qui exercent une activité professionnelle au-delà de cet
-âge et dont le handicap répond aux critères mentionnés audit I.
+âge et dont le handicap répond aux critères mentionnés audit I. 
 
-III. - Peuvent également prétendre au bénéfice de l'élément de la prestation mentionné au 3° de l'article L. 245-3, dans des
-conditions fixées par décret, les bénéficiaires de l'allocation prévue à l'article L. 541-1 du code de la sécurité sociale,
+III. ― Les bénéficiaires de l' allocation prévue à l' article L. 541-1 du code de la sécurité sociale peuvent la cumuler : 
+
+1° Soit avec la prestation de compensation prévue dans le présent article, dans des conditions fixées par décret, lorsque les
+conditions d' ouverture du droit au complément de l' allocation d' éducation de l' enfant handicapé sont réunies et lorsqu'
+ils sont exposés, du fait du handicap de leur enfant, à des charges relevant de l'article L. 245-3 du présent code. Dans ce
+cas, le cumul s' effectue à l'exclusion du complément de l'allocation d' éducation de l'enfant handicapé ; 
+
+2° Soit avec le seul élément de la prestation mentionné au 3° de l' article L. 245-3, dans des conditions fixées par décret,
 lorsqu'ils sont exposés, du fait du handicap de leur enfant, à des charges relevant dudit 3°. Ces charges ne peuvent alors
-être prises en compte pour l'attribution du complément de l'allocation susmentionnée.
+être prises en compte pour l' attribution du complément de l' allocation d' éducation de l' enfant handicapé.
 
 **Liens relatifs à cet article**
 
@@ -14188,18 +14197,13 @@ lorsqu'ils sont exposés, du fait du handicap de leur enfant, à des charges rel
 	  - Code du travail - art. R6341-31 (V)
 	  - Code général des impôts, CGI. - art. 81 (VT)
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
 	**Modifié par**:
 
-	  - Loi n°2005-102 du 11 février 2005 - art. 12 () JORF 12 février 2005
+	  - Loi n°2007-1786 du 19 décembre 2007 - art. 94
 
 	**Cite**:
 
-	  - Code de la sécurité sociale. - art. L541-1 (M)
+	  - Code de la sécurité sociale. - art. L541-1 (V)
 	  - Code de la sécurité sociale. - art. L751-1 (V)
 
 
