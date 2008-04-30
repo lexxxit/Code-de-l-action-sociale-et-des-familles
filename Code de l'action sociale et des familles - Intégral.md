@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2008-04-21
+Version Consolidée au 2008-05-01
 
 # Partie législative
 
@@ -28752,11 +28752,11 @@ mineurs à son domicile.
 L'assistant maternel accueille des mineurs confiés par leurs parents, directement ou par l'intermédiaire d'un service
 d'accueil mentionné à l'article L. 2324-1 du code de la santé publique. Il exerce sa profession comme salarié de particuliers
 employeurs ou de personnes morales de droit public ou de personnes morales de droit privé dans les conditions prévues au
-chapitre III du titre VII du livre VII du code du travail, après avoir été agréé à cet effet.
+chapitre III du présent livre, après avoir été agréé à cet effet.
 
 **Nota:**
 
-
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -28802,8 +28802,7 @@ chapitre III du titre VII du livre VII du code du travail, après avoir été ag
 
 	**Modifié par**:
 
-	  - Loi n°2005-706 du 27 juin 2005 - art. 5 () JORF 28 juin 2005
-	  - Loi n°2005-706 du 27 juin 2005 - art. 6 () JORF 28 juin 2005
+	  - Ordonnance 2007-329 2007-03-12 art. 5 1° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
 
 	**Anciens textes**:
 
@@ -28821,16 +28820,19 @@ L'assistant familial est la personne qui, moyennant rémunération, accueille ha
 et des jeunes majeurs de moins de vingt et un ans à son domicile. Son activité s'insère dans un dispositif de protection de
 l'enfance, un dispositif médico-social ou un service d'accueil familial thérapeutique. Il exerce sa profession comme salarié
 de personnes morales de droit public ou de personnes morales de droit privé dans les conditions prévues par les dispositions
-du présent titre ainsi que par celles du chapitre III du titre VII du livre VII du code du travail, après avoir été agréé à
-cet effet.
+du présent titre ainsi que par celles du chapitre III du présent livre, après avoir été agréé à cet effet.
 
 L'assistant familial constitue, avec l'ensemble des personnes résidant à son domicile, une famille d'accueil.
 
 **Nota:**
 
-
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: )
 
 	**Codifié par**:
 
@@ -28839,8 +28841,7 @@ L'assistant familial constitue, avec l'ensemble des personnes résidant à son d
 
 	**Modifié par**:
 
-	  - Loi n°2005-706 du 27 juin 2005 - art. 5 () JORF 28 juin 2005
-	  - Loi n°2005-706 du 27 juin 2005 - art. 7 () JORF 28 juin 2005
+	  - Ordonnance 2007-329 2007-03-12 art. 5 2° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
 
 	**Cité par**:
 
@@ -29959,6 +29960,1638 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	  - Loi n°2005-706 2005-06-27 art. 5 I, art. 11 IV, VI, IX JORF 28 juin 2005
 	  - Loi n°2005-706 du 27 juin 2005 - art. 11 () JORF 28 juin 2005
 	  - Loi n°2005-706 du 27 juin 2005 - art. 5 () JORF 28 juin 2005
+
+
+#### Chapitre III : Assistants maternels et assistants familiaux employés par des personnes de droit privé
+
+##### Section 1 : Dispositions communes à tous les assistants maternels et familiaux
+
+##### Sous-section 1 : Champ d'application.
+
+###### Article L423-1
+
+Relèvent des dispositions du présent chapitre, sous réserve qu'elles soient titulaires de l'agrément prévu à l'article L.
+421-3, les personnes qui accueillent habituellement à leur domicile, moyennant rémunération, des mineurs et, en application
+des dispositions de l'article L. 421-17, des majeurs de moins de vingt et un ans qui leur sont confiés par des particuliers
+ou par des personnes morales de droit privé.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la présente ordonnance au 1er
+mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 6° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L421-17 (V)
+	  - Code de l'action sociale et des familles - art. L421-3 (VT)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L544-2 (VD)
+	  - Code du travail - art. L5522-10 (VT)
+	  - Code général des impôts, CGI. - art. 80 sexies (V)
+	  - Code général des impôts, CGI. - art. 81 quater (Ab)
+
+
+###### Article L423-2
+
+Sont applicables aux assistants maternels et assistants familiaux employés par des personnes de droit privé les dispositions
+du code du travail relatives : 
+
+1° Aux discriminations et harcèlements, prévues par les titres III et V du livre Ier de la première partie ; 
+
+2° A l'égalité professionnelle entre les femmes et les hommes, prévues par le deuxième alinéa de l'article L. 1142-2 ; 
+
+3° A la maternité, à la paternité, à l'adoption et à l'éducation des enfants, prévues par le chapitre V du titre II du livre
+II de la première partie ; 
+
+4° Au contrat de travail à durée déterminée, prévues par le titre IV du livre II de la première partie ; 
+
+5° A la résolution des différends qui peuvent s'élever à l'occasion d'un contrat de travail entre les assistants maternels ou
+familiaux et les particuliers ou les personnes morales de droit privé mentionnés à l'article L. 773-1 du présent code ainsi
+qu'au conseil de prud'hommes, prévues par le livre IV de la première partie du code du travail. La section des activités
+diverses des conseils de prud'hommes est compétente pour connaître de ces différends ; 
+
+6° A la négociation collective et aux conventions et accords collectifs de travail, prévues par le livre II de la deuxième
+partie ; 
+
+7° Aux syndicats professionnels, prévues par le livre Ier de la deuxième partie ; 
+
+8° Aux délégués du personnel et au comité d'entreprise, prévues par les titres Ier et II du livre II de la deuxième partie ; 
+
+9° Aux conflits collectifs, prévues par le livre V de la deuxième partie ; 
+
+10° A la journée du 1er mai, prévues par la section 2 du chapitre III du titre III du livre Ier de la troisième partie ; 
+
+11° A la durée du congé payé, prévues par la section 2 du chapitre Ier du titre IV du livre Ier de la troisième partie ; 
+
+12° Au congé pour événements familiaux, prévues par la sous-section 1 de la section 1 du chapitre II du titre IV du livre Ier
+de la troisième partie ; 
+
+13° A l'égalité de rémunération entre les femmes et les hommes, prévues par le titre II du livre II de la troisième partie ; 
+
+14° Au paiement du salaire, prévues par le titre IV du livre II de la troisième partie ; 
+
+15° Aux saisies et cessions de rémunérations, prévues par le chapitre II du titre V du livre II de la troisième partie ; 
+
+16° Au régime d'assurance des travailleurs involontairement privés d'emploi, prévues par le chapitre II du titre II du livre
+IV de la cinquième partie ; 
+
+17° A la formation professionnelle continue, prévues aux livres Ier, III et IV de la sixième partie.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la présente ordonnance au 1er
+mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 6° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cite**:
+
+	  - Code du travail - art. L1142-2 (V)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L544-2 (V)
+
+
+##### Sous-section 2 : Contrat de travail.
+
+###### Article L423-3
+
+Le contrat de travail des assistants maternels et des assistants familiaux est un contrat écrit.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la présente ordonnance au 1er
+mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 6° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L422-1 (V)
+
+
+##### Sous-section 3 : Rémunération, indemnités et fournitures
+
+###### Article L423-4
+
+Les éléments et le montant minimal des indemnités et fournitures destinées à l'entretien de l'enfant sont déterminés par
+décret.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la présente ordonnance au 1er
+mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 6° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. D531-18 (V)
+	  - Code de la sécurité sociale. - art. L531-5 (VD)
+
+
+###### Article L423-5
+
+La rémunération de l'assistant maternel ou de l'assistant familial reste due par l'employeur : 
+
+1° Pendant les périodes de formation des assistants maternels mentionnées à l'article L. 421-14. La rémunération intervient
+après l'embauche ; 
+
+2° Pendant les périodes de formation des assistants familiaux mentionnées à l'article L. 421-15.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la présente ordonnance au 1er
+mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 6° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L421-14 (V)
+	  - Code de l'action sociale et des familles - art. L421-15 (V)
+
+
+##### Sous-section 4 : Congés.
+
+###### Article L423-6
+
+Les assistants maternels et les assistants familiaux perçoivent une indemnité représentative du congé annuel payé qui est
+égale au dixième du total formé par la rémunération reçue en application des articles L. 423-13, L. 423-19, L. 423-20 et L.
+423-30 et par l'indemnité de congé payé de l'année précédente.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la présente ordonnance au 1er
+mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 6° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L423-13 (V)
+	  - Code de l'action sociale et des familles - art. L423-19 (V)
+	  - Code de l'action sociale et des familles - art. L423-30 (V)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L423-7 (V)
+
+
+###### Article L423-7
+
+Lorsque le contrat de travail de l'assistant maternel ou de l'assistant familial est rompu avant que le salarié ait pu
+bénéficier de la totalité du congé auquel il avait droit, il reçoit, pour la fraction de congé dont il n'a pas bénéficié, une
+indemnité compensatrice déterminée d'après les dispositions de l'article L. 423-6. 
+
+L'indemnité compensatrice est due dès lors que la rupture du contrat de travail n'a pas été provoquée par la faute lourde du
+salarié et sans qu'il y ait lieu de distinguer suivant que cette rupture résulte du fait du salarié ou du fait de
+l'employeur.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la présente ordonnance au 1er
+mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 6° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L423-6 (V)
+
+
+##### Section 2 : Dispositions particulières aux assistants maternels et assistants familiaux employés par des personnes morales de droit privé
+
+##### Sous-section 1 : Contrat de travail.
+
+###### Article L423-8
+
+En cas de suspension de l'agrément, l'assistant maternel ou l'assistant familial relevant de la présente section est suspendu
+de ses fonctions par l'employeur pendant une période qui ne peut excéder quatre mois. Durant cette période, l'assistant
+maternel ou l'assistant familial bénéficie d'une indemnité compensatrice qui ne peut être inférieure à un montant minimal
+fixé par décret.
+
+En cas de retrait d'agrément, l'employeur est tenu de procéder au licenciement par lettre recommandée avec demande d'avis de
+réception.
+
+L'assistant maternel ou l'assistant familial suspendu de ses fonctions bénéficie, à sa demande, d'un accompagnement
+psychologique mis à sa disposition par son employeur pendant le temps de la suspension de ses fonctions.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la présente ordonnance au 1er
+mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 6° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D423-3 (VD)
+	  - Code de l'action sociale et des familles - art. L423-28 (V)
+	  - Code de l'action sociale et des familles - art. L423-29 (VD)
+	  - Code de l'action sociale et des familles - art. L544-2 (VD)
+
+
+###### Article L423-9
+
+Après l'expiration de la période d'essai de trois mois d'accueil de l'enfant, la rupture du contrat à l'initiative de
+l'assistant maternel ou de l'assistant familial relevant de la présente section est subordonnée à un préavis de quinze jours,
+à moins que l'employeur n'accepte d'abréger cette durée. A partir d'une ancienneté de six mois, ce délai est porté à un mois,
+à moins que l'employeur n'accepte d'abréger cette durée.
+
+La décision, par l'intéressé, de ne plus garder un enfant qui lui était confié est soumise aux mêmes conditions.
+
+L'inobservation de celles-ci constitue une rupture abusive qui ouvre droit, au profit de l'organisme employeur, à des
+dommages et intérêts.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la présente ordonnance au 1er
+mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 6° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+
+###### Article L423-10
+
+L'employeur qui envisage, pour un motif réel et sérieux, de licencier un assistant maternel ou un assistant familial qu'il
+emploie depuis trois mois au moins convoque celui-ci et le reçoit en entretien dans les conditions prévues aux articles L.
+1232-2 à L. 1232-4 du code du travail. Au cours de l'entretien, l'employeur est tenu d'indiquer le ou les motifs de la
+décision envisagée et de recueillir les explications du salarié. 
+
+L'employeur qui décide de licencier un assistant maternel ou un assistant familial relevant de la présente section doit
+notifier et motiver sa décision dans les conditions prévues à l'article L. 1232-6 du code du travail. La date de présentation
+de la lettre recommandée fixe le point de départ du préavis éventuellement dû en vertu de l'article L. 773-21.
+L'inobservation du préavis donne lieu au versement d'une indemnité compensatrice.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la présente ordonnance au 1er
+mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 6° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cite**:
+
+	  - Code du travail - art. L1232-2 (V)
+	  - Code du travail - art. L1232-6 (V)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L423-12 (V)
+	  - Code de l'action sociale et des familles - art. L544-2 (VD)
+
+
+###### Article L423-11
+
+En cas de licenciement pour un motif autre qu'une faute grave, l'assistant maternel ou l'assistant familial relevant de la
+présente section a droit : 
+
+1° A un préavis de quinze jours s'il justifie, au service du même employeur, d'une ancienneté comprise entre trois et six
+mois ; 
+
+2° A un préavis d'un mois s'il justifie d'une ancienneté comprise entre  six mois et deux ans et à un préavis de deux mois
+s'il justifie d'une ancienneté d'au moins deux ans.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2008-67 du 21 janvier 2008 - art. 2
+
+
+###### Article L423-12
+
+En cas de licenciement pour un motif autre qu'une faute grave, l'assistant maternel ou l'assistant familial relevant de la
+présente section justifiant d'une ancienneté d'au moins deux ans au service du même employeur a droit à une indemnité qui ne
+se confond pas avec l'indemnité compensatrice prévue à l'article L. 423-10.
+
+Le montant minimal de cette indemnité de licenciement est fixé par décret d'après la moyenne mensuelle des sommes perçues par
+l'intéressé au titre des six meilleurs mois consécutifs de salaire versés par l'employeur qui le licencie.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la présente ordonnance au 1er
+mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 6° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D423-4 (VD)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L423-10 (VD)
+
+
+##### Sous-section 2 : Rémunération.
+
+###### Article L423-13
+
+Le décret prévu aux articles L. 423-19 et L. 423-30 précise les cas dans lesquels la rémunération de l'assistant maternel ou
+de l'assistant familial relevant de la présente section est majorée pour tenir compte de sujétions exceptionnelles entraînées
+éventuellement par des handicaps, maladies ou inadaptations, ainsi que le montant minimum de cette majoration.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la présente ordonnance au 1er
+mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 6° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D423-1 (VD)
+	  - Code de l'action sociale et des familles - art. L423-6 (V)
+	  - Code général des impôts, CGI. - art. 80 sexies (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L423-19 (V)
+	  - Code de l'action sociale et des familles - art. L423-30 (V)
+
+
+##### Sous-section 3 : Congés.
+
+###### Article L423-14
+
+Les dispositions des articles L. 3142-68 à L. 3142-97 du code du travail, relatives au congé et période de travail à temps
+partiel pour la création ou la reprise d'entreprise et au congé sabbatique, sont applicables aux personnes relevant de la
+présente section.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la présente ordonnance au 1er
+mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 6° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cite**:
+
+	  - Code du travail - art. L3142-68 (V)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L544-2 (VD)
+
+
+##### Sous-section 4 : Exercice d'un mandat et droit d'expression
+
+###### Article L423-15
+
+Lorsque l'assistant maternel ou l'assistant familial relevant de la présente section exerce un mandat de délégué syndical, de
+représentant syndical ou de représentant du personnel, l'employeur organise et finance, le cas échéant, l'accueil des enfants
+qui lui sont habituellement confiés pendant les temps correspondant à l'exercice de cette fonction.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la présente ordonnance au 1er
+mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 6° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L422-1 (V)
+	  - Code de l'action sociale et des familles - art. L544-2 (VD)
+
+
+###### Article L423-16
+
+Les dispositions des articles L. 2281-1 à L. 2281-12 du code du travail, relatives au droit d'expression directe et
+collective des salariés, sont applicables aux personnes relevant de la présente section.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la présente ordonnance au 1er
+mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 6° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cite**:
+
+	  - Code du travail - art. L2281-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L544-2 (V)
+
+
+##### Section 3 : Assistants maternels
+
+##### Sous-section 1 : Dispositions communes à tous les assistants maternels
+
+###### Article L423-17
+
+Les mentions du contrat de travail des assistants maternels sont définies par décret. Elles font référence en particulier à
+la décision d'agrément délivrée par le président du conseil général ainsi qu'à la garantie d'assurance souscrite par les
+intéressés ou le cas échéant par leur employeur. 
+
+Une convention ou un accord collectif de travail étendu applicable aux assistants maternels peut notamment compléter ou
+adapter les dispositions du présent article ainsi que des articles L. 423-21 à L. 423-23.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 6° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L422-1 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L423-21 (V)
+
+
+###### Article L423-18
+
+Les éléments et le montant minimal des indemnités et fournitures des assistants maternels destinées à l'entretien de l'enfant
+sont fixés en fonction de la durée d'accueil effective de l'enfant.
+
+Les indemnités et fournitures ne sont pas remises en cas d'absence de l'enfant.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la présente ordonnance au 1er
+mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 6° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D423-6 (VD)
+
+
+###### Article L423-19
+
+Sans préjudice des indemnités et fournitures qui leur sont remises pour l'entretien des enfants, les assistants maternels
+perçoivent une rémunération dont le montant minimal, par enfant présent et par heure, est déterminé par décret en référence
+au salaire minimum de croissance. Cette rémunération est versée au moins une fois par mois.
+
+Une convention ou un accord collectif de travail étendu ou une convention ou un accord collectif d'entreprise ou
+d'établissement peut prévoir que, dans le cas d'une répartition inégale des heures d'accueil entre les mois de l'année de
+référence, la rémunération mensuelle est indépendante des heures d'accueil réelles et est calculée dans les conditions
+prévues par la convention ou l'accord. A défaut de convention ou d'accord, le contrat de travail peut prévoir ce dispositif
+et en fixer les modalités.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la présente ordonnance au 1er
+mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 6° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L423-13 (V)
+	  - Code de l'action sociale et des familles - art. L423-6 (V)
+	  - Code de l'action sociale et des familles - art. L544-2 (VD)
+
+
+###### Article L423-20
+
+En cas d'absence d'un enfant pendant une période d'accueil prévue par le contrat, l'assistant maternel bénéficie, dans les
+conditions et limites de la convention collective nationale des assistants maternels, du maintien de sa rémunération, sauf si
+l'enfant ne peut être accueilli du seul fait de l'assistant maternel ou lorsque l'absence est due à une maladie de l'enfant
+attestée par un certificat médical.
+
+Dans ce dernier cas, l'assistant maternel a droit à une indemnité compensatrice dont le montant minimal est fixé par décret.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la présente ordonnance au 1er
+mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 6° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D423-17 (VD)
+	  - Code de l'action sociale et des familles - art. L422-4 (V)
+	  - Code de l'action sociale et des familles - art. L544-2 (VD)
+
+
+###### Article L423-21
+
+L'assistant maternel bénéficie d'un repos quotidien d'une durée minimale de onze heures consécutives.
+
+Un décret, une convention ou un accord collectif étendu peut, dans des conditions prévues par décret et sous réserve de
+respecter le droit à un repos compensateur ou à une indemnité, déroger aux dispositions du premier alinéa.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la présente ordonnance au 1er
+mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 6° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D423-11 (VD)
+	  - Code de l'action sociale et des familles - art. L423-17 (V)
+	  - Code de l'action sociale et des familles - art. L423-22 (V)
+
+
+###### Article L423-22
+
+L'assistant maternel ne peut être employé plus de six jours consécutifs. Le repos hebdomadaire de l'assistant maternel a une
+durée minimale de vingt-quatre heures auxquelles s'ajoutent les heures consécutives de repos quotidien prévues à l'article L.
+423-21. 
+
+L'employeur ne peut demander à un assistant maternel de travailler plus de quarante-huit heures par semaine, cette durée
+étant calculée comme une moyenne sur une période de quatre mois, sans avoir obtenu l'accord de celui-ci et sans respecter des
+conditions définies par décret. Avec l'accord du salarié, cette durée peut être calculée comme une moyenne sur une période de
+douze mois, dans le respect d'un plafond annuel de 2 250 heures.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la présente ordonnance au 1er
+mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 6° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D423-12 (VD)
+	  - Code de l'action sociale et des familles - art. D423-13 (VD)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L423-21 (V)
+
+
+##### Sous-section 2 : Dispositions applicables aux seuls assistants maternels employés par des particuliers
+
+###### Article L423-23
+
+L'assistant maternel relevant de la présente sous-section et son ou ses employeurs fixent d'un commun accord, au plus tard le
+1er mars de chaque année, les dates de congés de l'assistant maternel de manière à lui permettre de bénéficier de congés
+effectifs sans aucun accueil d'enfant.
+
+A défaut d'accord à cette date, l'assistant maternel qui a plusieurs employeurs fixe lui-même les dates de ses congés pour
+une durée et dans des conditions définies par décret.
+
+Dans le cas où l'assistant maternel n'a qu'un seul employeur, les dates de congés sont fixées par ce dernier.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la présente ordonnance au 1er
+mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 6° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D423-16 (VD)
+	  - Code de l'action sociale et des familles - art. D423-5 (VD)
+
+
+###### Article L423-24
+
+Le particulier employeur qui décide de ne plus confier d'enfant à un assistant maternel qu'il employait depuis trois mois
+doit notifier à l'intéressé sa décision de rompre le contrat par lettre recommandée avec demande d'avis de réception. La date
+de présentation de la lettre recommandée fixe le point de départ du préavis éventuellement dû en vertu de l'article L.
+423-25. L'inobservation de ce préavis donne lieu au versement d'une indemnité compensatrice du congé dû. 
+
+Le particulier employeur qui ne peut plus confier d'enfant à un assistant maternel qu'il employait depuis trois mois au
+moins, en raison de la suspension ou du retrait de l'agrément de celui-ci, tels qu'ils sont prévus par les dispositions de
+l'article L. 421-6, doit notifier à l'intéressé la rupture du contrat de travail par lettre recommandée avec demande d'avis
+de réception. Les charges liées à la rupture du contrat de travail consécutives à la suspension ou au retrait de l'agrément
+ne peuvent être supportées par le particulier employeur.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la présente ordonnance au 1er
+mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 6° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L421-6 (VT)
+	  - Code de l'action sociale et des familles - art. L423-25 (V)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L544-2 (VD)
+
+
+###### Article L423-25
+
+L'assistant maternel qui justifie auprès du même employeur d'une ancienneté d'au moins trois mois a droit, en cas de rupture
+du contrat de travail par son employeur, sauf en cas de faute grave et sous réserve des dispositions de l'article L. 423-27,
+à un préavis de quinze jours avant le retrait de l'enfant qui lui était confié. 
+
+La durée du préavis est portée à un mois lorsque l'enfant est accueilli depuis un an ou plus.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la présente ordonnance au 1er
+mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 6° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L423-24 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L423-27 (V)
+
+
+###### Article L423-26
+
+La décision de l'assistant maternel de ne plus garder un enfant qui lui était confié depuis au moins trois mois est
+subordonnée, sous réserve des dispositions de l'article L. 423-27, à un préavis d'un mois, à moins que l'employeur n'accepte
+d'abréger cette durée. L'inobservation de ce préavis constitue une rupture abusive qui ouvre droit, au profit de l'employeur,
+au versement de dommages et intérêts.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la présente ordonnance au 1er
+mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 6° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L423-27 (V)
+
+
+###### Article L423-27
+
+Le préavis n'est pas requis dans le cas où la rupture est liée à l'impossibilité de confier ou d'accueillir un enfant compte
+tenu de la suspension ou du retrait de l'agrément de l'assistant maternel relevant de la présente section, tels qu'ils sont
+prévus par les dispositions de l'article L. 421-6.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la présente ordonnance au 1er
+mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 6° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L421-6 (VT)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L422-1 (V)
+	  - Code de l'action sociale et des familles - art. L423-25 (V)
+	  - Code de l'action sociale et des familles - art. L423-26 (V)
+
+
+##### Sous-section 3 : Dispositions applicables aux seuls assistants maternels employés par des personnes morales de droit privé
+
+###### Article L423-28
+
+Après le départ d'un enfant, l'assistant maternel relevant de la présente sous-section a droit, jusqu'à ce que son employeur
+lui confie un ou plusieurs enfants conformément à son contrat de travail, à une indemnité, pendant une durée maximum de
+quatre mois, dont le montant et les conditions de versement sont définis par décret. 
+
+L'assistant maternel a de même droit à une indemnité, pendant une durée maximum de quatre mois, dans les conditions prévues
+au premier alinéa, lorsque son contrat de travail est maintenu à l'issue de la période de suspension de fonction prévue à
+l'article L. 423-8.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la présente ordonnance au 1er
+mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 6° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D423-20 (VD)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L423-8 (V)
+
+
+##### Section 4 : Assistants familiaux
+
+##### Sous-section 1 : Dispositions communes à tous les assistants familiaux.
+
+###### Article L423-29
+
+Les indemnités et fournitures des assistants familiaux sont dues pour toute journée d'accueil commencée.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la présente ordonnance au 1er
+mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 6° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L423-8 (VD)
+
+
+##### Sous-section 2 : Dispositions applicables aux seuls assistants familiaux employés par des personnes morales de droit privé
+
+###### Article L423-30
+
+Sans préjudice des indemnités et fournitures qui leur sont remises pour l'entretien des enfants, les assistants familiaux
+relevant de la présente sous-section bénéficient d'une rémunération garantie correspondant à la durée mentionnée dans le
+contrat d'accueil. Les éléments de cette rémunération et son montant minimal sont déterminés par décret en référence au
+salaire minimum de croissance. 
+
+Ce montant varie selon que l'accueil est continu ou intermittent au sens de l'article L. 421-16 et en fonction du nombre
+d'enfants accueillis. 
+
+La rémunération cesse d'être versée lorsque l'enfant accueilli quitte définitivement le domicile de l'assistant familial.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la présente ordonnance au 1er
+mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 6° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L421-16 (V)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L422-1 (V)
+	  - Code de l'action sociale et des familles - art. L423-13 (V)
+	  - Code de l'action sociale et des familles - art. L423-6 (V)
+	  - Code de l'action sociale et des familles - art. L544-2 (VD)
+
+
+###### Article L423-31
+
+Lorsque l'employeur n'a plus d'enfant à confier à un assistant familial ayant accueilli des mineurs, celui-ci a droit à une
+indemnité dont le montant minimal est déterminé par décret en référence au salaire minimum de croissance, sous réserve de
+l'engagement d'accueillir dans les meilleurs délais les mineurs préalablement présentés par l'employeur, dans la limite d'un
+nombre maximal convenu avec lui et conformément à son agrément.
+
+Cette disposition n'est applicable qu'aux personnes qui justifient d'une ancienneté de trois mois au moins au service de
+l'employeur.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la présente ordonnance au 1er
+mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 6° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D423-25 (VD)
+
+
+###### Article L423-32
+
+L'employeur qui n'a pas d'enfant à confier à un assistant familial pendant une durée de quatre mois consécutifs est tenu de
+recommencer à verser la totalité du salaire à l'issue de cette période s'il ne procède pas au licenciement de l'assistant
+familial fondé sur cette absence d'enfants à lui confier.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la présente ordonnance au 1er
+mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 6° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D423-25 (VD)
+	  - Code de l'action sociale et des familles - art. L423-35 (V)
+
+
+###### Article L423-33
+
+Les assistants familiaux ne peuvent se séparer des mineurs qui leur sont confiés pendant les repos hebdomadaires, jours
+fériés, congés annuels, congés d'adoption ou congés de formation ou congés pour événements familiaux sans l'accord préalable
+de leur employeur. 
+
+La décision de celui-ci est fondée sur la situation de chaque enfant, en fonction, notamment, de ses besoins psychologiques
+et affectifs et des possibilités de remise à sa famille naturelle. Elle tient compte aussi des souhaits de la famille
+d'accueil. 
+
+Toutefois, sous réserve de l'intérêt de l'enfant, l'employeur doit autoriser l'assistant familial qui en a effectué la
+demande écrite à se séparer simultanément de tous les enfants accueillis pendant une durée minimale de jours de congés
+annuels et une durée minimale de jours à répartir sur l'année, définies par décret.
+
+L'employeur qui a autorisé l'assistant familial à se séparer de tous les enfants accueillis pour la durée de ses congés payés
+organise les modalités de placement de ces enfants en leur garantissant un accueil temporaire de qualité pour permettre à
+l'assistant familial chez qui ils sont habituellement placés de faire valoir ses droits à congés. 
+
+Lorsque l'enfant est maintenu chez l'assistant familial pendant la période de congés annuels de ce dernier, la rémunération
+de celui-ci est maintenue et s'ajoute aux indemnités prévues à l'article L. 773-4.
+
+Si, à l'occasion d'une maternité, l'assistant familial relevant de la présente sous-section désire qu'un enfant qui lui a été
+confié lui soit momentanément retiré, il fixe la date de départ et la durée du retrait dans les limites prévues pour le repos
+des femmes en couches. Il fait connaître cette date et cette durée à l'employeur avant la fin du septième mois de sa
+grossesse. 
+
+Avec leur accord écrit, il est institué un report de congés au bénéfice des assistants familiaux qui n'ont pas utilisé la
+totalité des droits ouverts au cinquième alinéa. Ce compte permet à son titulaire d'accumuler des droits à congés rémunérés,
+par report des congés annuels.
+
+L'assistant familial voit alors sa rémunération maintenue pendant la période de congés annuels, sans que s'ajoutent à celle-
+ci les indemnités prévues à l'article L. 773-4. Les droits à congés acquis au titre du report de congés doivent être exercés
+au plus tard à la date à laquelle l'assistant familial cesse définitivement ses fonctions ou liquide sa pension de retraite.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2008-67 du 21 janvier 2008 - art. 2
+
+	**Cite**:
+
+	  - Code du travail - art. L773-4
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D423-26 (VD)
+	  - Code de l'action sociale et des familles - art. L544-2 (VD)
+
+
+###### Article L423-34
+
+Le contrat passé entre la personne morale de droit privé et l'assistant familial peut prévoir que l'exercice d'une autre
+activité professionnelle ne sera possible qu'avec l'accord de l'employeur. L'employeur ne peut refuser son autorisation que
+lorsque l'activité envisagée est incompatible avec l'accueil du ou des enfants déjà confiés. Ce refus doit être motivé.
+
+Les modalités d'application de cette disposition sont fixées par décret.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la présente ordonnance au 1er
+mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 6° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D423-27 (VD)
+
+
+###### Article L423-35
+
+Dans le cas prévu à l'article L. 423-32, si l'employeur décide de procéder au licenciement, il convoque l'assistant familial
+par lettre recommandée avec demande d'avis de réception et le reçoit en entretien dans les conditions prévues aux articles L.
+1232-2 à L. 1232-4 du code du travail. La lettre de licenciement ne peut être expédiée moins d'un jour franc après la date
+pour laquelle le salarié a été convoqué à l'entretien. L'employeur doit indiquer à l'assistant familial, au cours de
+l'entretien et dans la lettre recommandée, le motif pour lequel il ne lui confie plus d'enfants.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la présente ordonnance au 1er
+mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 6° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cite**:
+
+	  - Code du travail - art. L1232-2 (V)
+	  - Code de l'action sociale et des familles - art. L423-32 (V)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L422-1 (V)
+	  - Code de l'action sociale et des familles - art. L544-2 (VD)
+
+
+### Titre III : Educateurs et aides familiaux, personnels pédagogiques occasionnels des accueils collectifs de mineurs
+
+#### Chapitre Ier : Educateurs et aides familiaux
+
+###### Article L431-1
+
+Les éducateurs familiaux employés par des associations gestionnaires de villages d'enfants autorisés en application de
+l'article L. 313-1 exercent, dans un logement mis à disposition à cet effet par l'association, une responsabilité permanente
+auprès de fratries d'enfants. 
+
+Les aides familiaux employés par des associations gestionnaires de villages d'enfants autorisés en application du même
+article L. 313-1 exercent, dans un logement mis à disposition à cet effet par l'association, la responsabilité de remplacer
+ou de suppléer les éducateurs familiaux auprès de fratries d'enfants.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la présente ordonnance au 1er
+mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 7° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L313-1 (V)
+
+
+###### Article L431-2
+
+Les éducateurs et les aides familiaux ne sont pas soumis aux dispositions relatives à la durée du travail, la répartition et
+l'aménagement des horaires prévues par le titre II du livre Ier de la troisième partie du code du travail et celles relatives
+aux repos quotidien et hebdomadaire prévues par les chapitre Ier et II du titre III du même livre.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la présente ordonnance au 1er
+mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 7° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L544-3 (V)
+
+
+###### Article L431-3
+
+La durée de travail des éducateurs et aides familiaux est fixée par convention collective ou accord d'entreprise, en nombre
+de journées sur une base annuelle. 
+
+La convention ou l'accord collectif doit fixer le nombre de journées travaillées, qui ne peut dépasser un plafond annuel de
+deux cent cinquante-huit jours, et déterminer les modalités de suivi de l'organisation du travail des salariés concernés. 
+
+Lorsque le nombre de jours travaillés dépasse le plafond annuel fixé par la convention ou l'accord, après déduction, le cas
+échéant, du nombre de jours affectés sur un compte épargne-temps et des congés payés reportés dans les conditions prévues à
+l'article L. 3141-21 du code du travail, le salarié doit bénéficier, au cours des trois premiers mois de l'année suivante,
+d'un nombre de jours égal à ce dépassement. Ce nombre de jours réduit le plafond annuel de l'année durant laquelle ils sont
+pris.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la présente ordonnance au 1er
+mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 7° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cite**:
+
+	  - Code du travail - art. L3141-21 (V)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L544-3 (V)
+
+
+###### Article L431-4
+
+L'employeur doit tenir à la disposition de l'inspecteur du travail, pendant une durée de trois ans, le ou les documents
+existant dans l'association permettant de comptabiliser le nombre de jours de travail effectués par les salariés.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la présente ordonnance au 1er
+mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 7° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+
+#### Chapitre II : Personnels pédagogiques occasionnels des accueils collectifs de mineurs
+
+###### Article L432-1
+
+La participation occasionnelle, dans les conditions fixées au présent article, d'une personne physique à des fonctions
+d'animation ou de direction d'un accueil collectif de mineurs à caractère éducatif organisé à l'occasion de vacances
+scolaires, de congés professionnels ou de loisirs, dans les conditions prévues aux articles L. 227-4 et suivants, est
+qualifiée d'engagement éducatif. 
+
+Sont également qualifiées d'engagement éducatif :
+
+- la participation occasionnelle, pour le compte d'une personne physique ou morale bénéficiant de l'agrément " Vacances
+adaptées organisées " prévu à l'article 48 de la loi n° 2005-102 du 11 février 2005 pour l'égalité des droits et des chances,
+la participation et la citoyenneté des personnes handicapées, d'une personne physique à des fonctions d'animation ou de
+direction ;
+
+- la participation occasionnelle d'une personne physique, pour le compte d'une personne morale agréée au titre de l'article
+L. 312-1, à l'accompagnement exclusif des activités de loisirs et des activités sportives, dans des établissements et
+services pour enfants, adolescents ou adultes handicapés, ou lors de séjours d'accueil temporaire pour des activités liées
+aux vacances. 
+
+Est qualifiée de la même manière la participation occasionnelle, pour le compte d'une association bénéficiant d'une
+habilitation de l'autorité administrative et dans les mêmes limites, d'une personne physique à l'encadrement de stages
+destinés aux personnes engagées dans un cursus de formation leur permettant d'exercer les fonctions mentionnées au premier
+alinéa.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la présente ordonnance au 1er
+mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Cite**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 48 (Ab)
+	  - Code de l'action sociale et des familles - art. L227-4 (V)
+	  - Code de l'action sociale et des familles - art. L312-1 (V)
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 7° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D432-1 (VD)
+
+
+###### Article L432-2
+
+Les personnes titulaires d'un contrat d'engagement éducatif ne sont pas soumises aux dispositions relatives à la durée du
+travail, à la répartition et à l'aménagement des horaires prévues par le titre II du livre Ier de la troisième partie du code
+du travail, à celles relatives aux repos quotidien et hebdomadaire prévues par les chapitres Ier et II du titre III du livre
+Ier de la troisième partie et à celles relatives au salaire minimum interprofessionnel de croissance et à la rémunération
+mensuelle minimale prévues par les chapitres Ier et II du titre III du livre II de la troisième partie.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la présente ordonnance au 1er
+mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 7° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L544-3 (V)
+
+
+###### Article L432-3
+
+Sans préjudice des indemnités et avantages en nature dont elles peuvent bénéficier, les personnes titulaires d'un contrat
+d'engagement éducatif perçoivent une rémunération dont le montant minimum journalier est fixé par décret par référence au
+salaire minimum de croissance. Cette rémunération est versée au moins une fois par mois.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la présente ordonnance au 1er
+mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 7° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L544-3 (V)
+
+
+###### Article L432-4
+
+La durée du travail des personnes titulaires d'un contrat d'engagement éducatif est fixée par une convention ou un accord de
+branche étendu ou, à défaut, par décret. Le nombre de journées travaillées ne peut excéder pour chaque personne un plafond
+annuel de quatre-vingts. L'intéressé bénéficie d'un repos hebdomadaire minimum de vingt-quatre heures consécutives. Les
+modalités de décompte du temps de travail et de vérification de l'application de ces dispositions par l'inspection du travail
+sont fixées par décret.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la présente ordonnance au 1er
+mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1249 2000-12-21
+	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
+
+	**Créé par**:
+
+	  - Ordonnance 2007-329 2007-03-12 art. 5 7° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+
+### Titre III : Educateurs et aides familiaux, personnels pédagogiques occasionnels des accueils collectifs de mineurs, permanents des lieux de vie
+
+#### Chapitre Ier : Educateurs et aides familiaux
+
+#### Chapitre II : Personnels pédagogiques occasionnels des accueils collectifs de mineurs
+
+#### Chapitre III : Permanents des lieux de vie
+
+###### Article L433-1
+
+Les lieux de vie et d'accueil, autorisés en application de l'article L. 313-1, sont gérés par des personnes physiques ou
+morales. 
+
+Dans le cadre de leur mission, les permanents responsables de la prise en charge exercent, sur le site du lieu de vie, un
+accompagnement continu et quotidien des personnes accueillies. 
+
+Les assistants permanents, qui peuvent être employés par la personne physique ou morale gestionnaire du lieu de vie,
+suppléent ou remplacent les permanents responsables. 
+
+Les permanents responsables et les assistants permanents ne sont pas soumis aux dispositions relatives à la durée du travail,
+à la répartition et à l'aménagement des horaires des titres Ier et II du livre Ier de la troisième partie du code du travail
+ni aux dispositions relatives aux repos et jours fériés des chapitres Ier et II ainsi que de la section 3 du chapitre III du
+titre III de ce même livre. 
+
+Leur durée de travail est de deux cent cinquante-huit jours par an. 
+
+Les modalités de suivi de l'organisation du travail des salariés concernés sont définies par décret.
+
+L'employeur doit tenir à la disposition de l'inspecteur du travail, pendant une durée de trois ans, le ou les documents
+existants permettant de comptabiliser le nombre de jours de travail effectués par les permanents responsables et les
+assistants permanents. Lorsque le nombre de jours travaillés dépasse deux cent cinquante-huit jours après déduction, le cas
+échéant, du nombre de jours affectés sur un compte épargne-temps et des congés reportés dans les conditions prévues à
+l'article L. 3141-21 du code du travail, le salarié doit bénéficier, au cours des trois premiers mois de l'année suivante,
+d'un nombre de jours égal à ce dépassement. Ce nombre de jours réduit le plafond annuel légal de l'année durant laquelle ils
+sont pris.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-67 du 21 janvier 2008 - art. 2
+
+	**Cite**:
+
+	  - Code du travail - art. L3141-21
+	  - Code de l'action sociale et des familles - art. L313-1
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L544-3 (V)
+	  - Code du service national - art. L120-8 (V)
 
 
 ### Titre IV : Particuliers accueillant des personnes âgées ou handicapées
@@ -84761,30 +86394,26 @@ ou du service d'aide par le travail.
 
 Les dispositions concernant l'hygiène et la sécurité auxquelles est assujettie la personne physique ou morale qui a passé
 contrat avec l'établissement ou le service d'aide par le travail sont applicables aux travailleurs handicapés qui sont mis à
-sa disposition.
+sa disposition. 
 
 Lorsque l'activité exercée par le travailleur handicapé nécessite une surveillance médicale renforcée ou particulière au sens
-de l'article R. 241-50 du code du travail ou de l'article R. 717-16 du code rural, les obligations correspondantes sont à la
-charge de l'utilisateur.
+des articles R. 4624-19 et R. 4624-20 du code du travail ou de l'article R. 717-16 du code rural, les obligations
+correspondantes sont à la charge de l'utilisateur.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural R717-16
-	  - Code du travail - art. R241-50 (M)
 
 	**Anciens textes**:
 
 	  - Loi n°75-534 du 30 juin 1975 - art. 31 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2004-1136 2004-10-21
+	  - Décret n°2008-244 du 7 mars 2008 - art. 3 (V)
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2007-874 du 14 mai 2007 - art. 5 () JORF 15 mai 2007 en vigueur le 1er janvier 2007
+	  - Code du travail - art. R4624-19 (V)
+	  - Code du travail - art. R4624-20 (V)
 
 	**Cité par**:
 
@@ -89436,82 +91065,768 @@ pour faute grave ou lourde.
 	  - Code de l'action sociale et des familles - art. R544-2 (V)
 
 
-### Titre III : Autres professions
+#### Chapitre III : Assistants maternels et assistants familiaux employés par des personnes de droit privé.
 
-#### Chapitre unique : Techniciens de l'intervention sociale et familiale
+##### Section 1 : Dispositions particulières aux assistants maternels et aux assistants familiaux employés par des personnes morales de droit privé.
 
-##### Section unique : Exercice de la profession.
+###### Article D423-1
 
-###### Article D431-1
-
-Les services et les organismes qui emploient les techniciens de l'intervention sociale et familiale ne peuvent recevoir
-aucune aide financière des collectivités publiques ou des institutions gérant un service public s'ils emploient en cette
-qualité des personnes qui n'ont pas satisfait aux dispositions de l'article D. 451-81.
+La rémunération de l'assistant maternel et de l'assistant familial relevant de la présente section est majorée, conformément
+à l'article L. 423-13, dans les cas où des contraintes réelles, dues aux soins particuliers ou à l'éducation spéciale
+entraînés par l'état de santé de l'enfant, pèsent sur eux.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Créé par**:
 
-	  - Décret n°74-146 1974-02-15 art. 6 al. 2
+	  - Décret n°2008-244 du 7 mars 2008 - art. 5
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2004-1136 2004-10-21
+	  - Code de l'action sociale et des familles - art. L423-13
 
-	**Modifié par**:
 
-	  - Décret n°2005-1135 du 7 septembre 2005 - art. 5 (V) JORF 10 septembre 2005
+###### Article D423-2
 
-	**Abrogé par**:
+La majoration de la rémunération est révisée compte tenu de l'évolution de l'état de santé de l'enfant. 
+
+Elle ne peut être inférieure à 0,14 fois le salaire minimum de croissance par enfant et par heure d'accueil pour les
+assistants maternels. 
+
+Pour les assistants familiaux, elle ne peut être inférieure à 15,5 fois le salaire minimum de croissance par mois pour un
+enfant accueilli de façon continue. 
+
+Cette majoration ne peut être inférieure à la moitié du salaire minimum de croissance par jour pour un enfant accueilli de
+façon intermittente.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
 
 	  - Décret n°2008-244 du 7 mars 2008 - art. 5
 
 	**Cité par**:
 
-	  - Code de l'action sociale et des familles - art. D461-2 (VD)
+	  - Code de l'action sociale et des familles - art. R544-2 (V)
 
 
-###### Article D431-2
+###### Article D423-3
 
-Les organismes de techniciens de l'intervention sociale et familiale mentionnés à l'article D. 431-1 doivent être agréés par
-le préfet du département dans les conditions fixées par arrêté des ministres chargés des affaires sociales et de la sécurité
-sociale.
+En cas de suspension de leur fonction en application de l'article L. 423-8 : 
+
+1° L'assistant maternel perçoit une indemnité dont le montant mensuel ne peut être inférieur à 33 fois le montant du salaire
+minimum de croissance par mois ; 
+
+2° L'assistant familial perçoit une indemnité compensatrice qui ne peut être inférieure, par mois, au montant minimum de la
+part correspondant à la fonction globale d'accueil définie au 1° de l'article D. 423-23.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Créé par**:
 
-	  - Décret n°74-146 1974-02-15 art. 7
+	  - Décret n°2008-244 du 7 mars 2008 - art. 5
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2004-1136 2004-10-21
+	  - Code de l'action sociale et des familles - art. D423-23 (V)
+	  - Code de l'action sociale et des familles - art. L423-8
 
-	**Abrogé par**:
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R544-2 (V)
+
+
+###### Article D423-4
+
+Le montant minimum de l'indemnité de licenciement prévue à l'article L. 423-12 est égal, par année d'ancienneté, à deux
+dixièmes de la moyenne mensuelle des sommes perçues par l'intéressé au titre des six meilleurs mois consécutifs de salaire
+versés par l'employeur qui le licencie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 5
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L423-12
+
+
+##### Section 2 : Assistants maternels.
+
+##### Sous-section 1 : Dispositions communes à tous les assistants maternels.
+
+###### Article D423-5
+
+Le contrat de travail de l'assistant maternel mentionne, notamment, dans le respect de l'agrément qui lui a été délivré : 
+
+1° Le nom des parties au contrat ; 
+
+2° La qualité d'assistant maternel du salarié ; 
+
+3° La décision d'agrément délivrée par le président du conseil général ; 
+
+4° Le lieu de travail (adresse du domicile de l'assistant maternel) ; 
+
+5° La garantie d'assurance souscrite par le salarié ou la personne morale employeur, selon le cas ; 
+
+6° La date du début du contrat ; 
+
+7° La durée de la période d'essai ; 
+
+8° Le type de contrat de travail et, s'il s'agit d'un contrat à durée déterminée, sa durée ; 
+
+9° La convention collective applicable le cas échéant ; 
+
+10° Les horaires habituels de l'accueil du ou des enfants qui lui sont confiés ; 
+
+11° La durée de travail hebdomadaire ou, le cas échéant, mensuelle prévue et la répartition de la durée du travail entre les
+jours de la semaine ou les semaines du mois ; 
+
+12° Les cas et les modalités de modification, de manière occasionnelle, des horaires d'accueil, de la durée de travail
+hebdomadaire ou mensuelle et de la répartition de cette durée ; 
+
+13° Le jour de repos hebdomadaire ; 
+
+14° La rémunération et son mode de calcul, dans le respect de l'article L. 3242-1 du code du travail ; 
+
+15° Les éléments relatifs aux fournitures et à l'indemnité d'entretien, ainsi qu'à la fourniture des repas et à l'indemnité
+de nourriture ; 
+
+16° Les modalités de détermination des périodes de congés, dans le respect, s'agissant des assistants maternels employés par
+des particuliers, des dispositions de l'article L. 423-23 ; 
+
+17° La durée du préavis en cas de rupture du contrat de travail à l'initiative de l'une ou l'autre des parties.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 5
+
+	**Cite**:
+
+	  - Code du travail - art. L3242-1
+	  - Code de l'action sociale et des familles - art. L423-23
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D423-14 (VD)
+	  - Code de l'action sociale et des familles - art. R544-2 (V)
+
+
+###### Article D423-6
+
+Les indemnités et fournitures destinées à l'entretien de l'enfant accueilli par un assistant maternel, mentionnées à
+l'article L. 423-18, couvrent et comprennent : 
+
+1° Les matériels et les produits de couchage, de puériculture, de jeux et d'activités destinés à l'enfant, à l'exception des
+couches, qui sont fournies par les parents de l'enfant, ou les frais engagés par l'assistant maternel à ce titre ; 
+
+2° La part afférente aux frais généraux du logement de l'assistant maternel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 5
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L423-18
+
+
+###### Article D423-7
+
+Lorsque aucune fourniture n'est apportée par les parents de l'enfant ou par l'employeur, le montant de l'indemnité
+d'entretien ne peut être inférieur à 85 % du minimum garanti mentionné à l'article L. 3231-12 du code du travail par enfant
+et pour une journée de neuf heures. Ce montant est calculé en fonction de la durée effective d'accueil quotidien. 
+
+Le montant de l'indemnité d'entretien peut être réexaminé afin de tenir compte de l'évolution des besoins de l'enfant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 5
+
+	**Cite**:
+
+	  - Code du travail - art. L3231-12
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R544-2 (V)
+
+
+###### Article D423-8
+
+Les repas sont fournis soit par les parents, soit par l'assistant maternel moyennant une indemnité de nourriture versée par
+l'employeur d'un montant convenu avec ce dernier.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 5
+
+
+###### Article D423-9
+
+Sans préjudice des indemnités et des fournitures destinées à l'entretien des enfants, la rémunération des assistants
+maternels ne peut être inférieure à 0,281 fois le montant du salaire minimum de croissance par enfant et par heure d'accueil.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
 
 	  - Décret n°2008-244 du 7 mars 2008 - art. 5
 
 	**Cité par**:
 
-	  - Code de l'action sociale et des familles - art. D432-8 (VD)
+	  - Code de l'action sociale et des familles - art. D423-18 (VD)
+	  - Code de l'action sociale et des familles - art. D423-20 (VD)
+	  - Code de l'action sociale et des familles - art. R544-2 (V)
 
 
-###### Article D431-3
+###### Article D423-10
 
-Les techniciens de l'intervention sociale et familiale sont soumis à un contrôle médical périodique dont les modalités sont
-fixées par arrêté des ministres chargés de la santé et de la sécurité sociale.
+Les heures travaillées au-delà de 45 heures hebdomadaires donnent lieu à une majoration de rémunération dont le taux est fixé
+par une convention ou un accord de branche étendu, une convention ou un accord d'entreprise ou d'établissement, ou, à défaut,
+par accord entre l'assistant maternel et son ou ses employeurs.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Créé par**:
 
-	  - Décret n°74-146 1974-02-15 art. 9
+	  - Décret n°2008-244 du 7 mars 2008 - art. 5
 
-	**Codifié par**:
 
-	  - Décret n°2004-1136 2004-10-21
+###### Article D423-11
 
-	**Abrogé par**:
+Il peut être dérogé aux dispositions de l'article L. 423-21 afin d'assurer l'accueil d'un mineur sans interruption pendant
+deux ou plusieurs jours consécutifs, pour des motifs liés à l'indisponibilité du ou des parents du fait de leur travail ou de
+leur état de santé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 5
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L423-21
+
+
+###### Article D423-12
+
+L'accord de l'assistant maternel pour travailler pendant une durée supérieure à celle définie au second alinéa de l'article
+L. 423-22 est écrit. L'assistant maternel ne peut subir aucun préjudice du fait d'un éventuel refus.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 5
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D423-19 (VD)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L423-22
+
+
+###### Article D423-13
+
+L'inspecteur du travail peut interdire ou restreindre, pour des raisons de sécurité ou de santé des assistants maternels, le
+dépassement de la durée définie au second alinéa de l'article L. 423-22.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 5
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L423-22
+
+
+##### Sous-section 2 :  Dispositions applicables aux seuls assistants maternels employés par des particuliers. 
+
+
+
+
+###### Article D423-14
+
+Le contrat de travail de l'assistant maternel relevant de la présente sous-section comporte les mentions prévues à l'article
+D. 432-5 ainsi que le nom et la date de naissance du ou des enfants accueillis.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 5
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D423-5
+
+
+###### Article D423-15
+
+Par dérogation aux dispositions prévues à l'article R. 3243-1 du code du travail, le bulletin de paie des assistants
+maternels agréés peut ne pas comporter les mentions suivantes : 
+
+1° La position du salarié dans la classification conventionnelle qui lui est applicable ; 
+
+2° Le montant de la rémunération brute du salarié ; 
+
+3° La nature et le montant des cotisations patronales de sécurité sociale assises sur cette rémunération brute.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 5
+
+	**Cite**:
+
+	  - Code du travail - art. R3243-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R544-2 (V)
+
+
+###### Article D423-16
+
+En l'absence de l'accord prévu à l'article L. 423-23, l'assistant maternel qui a plusieurs employeurs peut fixer lui-même
+quatre semaines de ses congés pendant la période du 1er mai au 31 octobre de l'année, et une semaine en hiver à condition
+d'en prévenir ses employeurs au plus tard le 1er mars de l'année considérée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 5
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L423-23
+
+
+##### Sous-section 3 :  Dispositions applicables aux seuls assistants maternels employés par des personnes morales. 
+
+
+
+
+###### Article D423-17
+
+Le contrat de travail des assistants maternels relevant de la présente sous-section comporte les mentions prévues à l'article
+D. 432-5 ainsi que le nombre de places d'accueil de l'assistant maternel et les modalités de leur utilisation, ainsi que le
+montant de l'indemnité compensatrice d'absence due en application de l'article L. 423-20.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 5
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D432-5
+	  - Code de l'action sociale et des familles - art. L423-20
+
+
+###### Article D423-18
+
+L'indemnité compensatrice due à l'assistant maternel ne peut être inférieure à la moitié du salaire minimum fixé à l'article
+D. 423-9.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 5
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D423-9
+
+
+###### Article D423-19
+
+Les personnes morales qui emploient des assistants maternels tiennent à la disposition de l'inspection du travail, pendant
+une durée de trois ans, les documents permettant de comptabiliser le nombre d'heures de travail réalisées par les salariés,
+ainsi que les accords mentionnés à l'article D. 423-12.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 5
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D423-12 (VD)
+
+
+##### Sous-section 4 : Dispositions applicables aux seuls assistants maternels employés par des personnes morales de droit privé.
+
+###### Article D423-20
+
+Le montant de l'indemnité prévue au premier alinéa de l'article L. 423-28 ne peut être inférieur à 70 % de la rémunération
+antérieure au départ de l'enfant calculée sur la base du montant du salaire minimum prévu à l'article D. 423-9. La
+rémunération antérieure est calculée sur la base de la durée moyenne d'accueil de l'enfant au cours des six mois précédant
+son départ. 
+
+Le montant de l'indemnité prévue au second alinéa de l'article L. 423-28 ne peut être inférieur à 70 % de la rémunération
+antérieure à la suspension de fonction calculée sur la base du montant du salaire minimum prévu à l'article D. 423-9. La
+rémunération antérieure est calculée sur la base de la durée moyenne d'accueil du ou des enfants accueillis au cours des six
+mois précédant la suspension de fonction.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 5
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D423-9
+	  - Code de l'action sociale et des familles - art. L423-28
+
+
+##### Section 3 : Assistants familiaux. 
+
+
+
+
+##### Sous-section 1 : Dispositions applicables à tous les assistants familiaux. 
+
+
+
+
+###### Article D423-21
+
+Les indemnités et fournitures destinées à l'entretien de l'enfant confié à un assistant familial couvrent les frais engagés
+par l'assistant familial pour la nourriture, l'hébergement, l'hygiène corporelle, les loisirs familiaux et les déplacements
+de proximité liés à la vie quotidienne de l'enfant, à l'exception des frais d'habillement, d'argent de poche, d'activités
+culturelles ou sportives spécifiques, de vacances ainsi que les fournitures scolaires, pris en charge au titre du projet
+individualisé pour l'enfant, mentionné au deuxième alinéa de l'article L. 421-16.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 5
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L421-16
+
+
+###### Article D423-22
+
+Le montant des indemnités et fournitures ne peut être inférieur à 3,5 fois le minimum garanti mentionné à l'article L.
+3231-12 du code du travail. Il peut être modulé en fonction de l'âge de l'enfant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 5
+
+	**Cite**:
+
+	  - Code du travail - art. L3231-12
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R544-2 (V)
+
+
+##### Sous-section 2 : Dispositions applicables aux seuls assistants familiaux employés par des personnes morales de droit privé. 
+
+
+
+
+###### Article D423-23
+
+La rémunération d'un assistant familial accueillant un enfant de façon continue est constituée de deux parts : 
+
+1° Une part correspondant à la fonction globale d'accueil qui ne peut être inférieure à 50 fois le salaire minimum de
+croissance par mois ; 
+
+2° Une part correspondant à l'accueil de chaque enfant qui ne peut être inférieure à 70 fois le salaire minimum de croissance
+par mois et par enfant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 5
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D423-3 (V)
+	  - Code de l'action sociale et des familles - art. R544-2 (V)
+
+
+###### Article D423-24
+
+Lorsque l'enfant est accueilli de façon intermittente, la rémunération de l'assistant familial ne peut être inférieure, par
+enfant et par jour, à quatre fois le salaire minimum de croissance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 5
+
+
+###### Article D423-25
+
+Le montant de l'indemnité d'attente prévue à l'article L. 423-31 ne peut être inférieur, par jour, à 2,8 fois le salaire
+minimum de croissance. 
+
+Lorsqu'un assistant familial accueille un enfant de façon intermittente pendant la période de quatre mois prévue à l'article
+L. 423-32, celle-ci est prolongée du nombre de jours d'accueil effectués.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 5
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L423-31
+	  - Code de l'action sociale et des familles - art. L423-32
+
+
+###### Article D423-26
+
+La durée minimale prévue au troisième alinéa de l'article L. 423-33 est de 21 jours calendaires dont au minimum 12 jours
+consécutifs. La demande de l'assistant familial doit parvenir à son employeur au plus tard trois mois avant le premier jour
+de congé sollicité. 
+
+Le nombre de jours de congés pouvant être reportés conformément à l'avant-dernier alinéa de l'article L. 423-33 est de 14 par
+an au maximum.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 5
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L423-33
+
+
+###### Article D423-27
+
+Lorsque, dans le cas prévu à l'article L. 423-34, un assistant familial envisage l'exercice d'une autre activité, il doit
+adresser sa demande à son employeur par lettre recommandée avec avis de réception. La réponse de l'employeur doit être
+communiquée à l'assistant familial dans un délai d'un mois à compter de la date de réception de l'avis de réception de la
+demande écrite de l'assistant familial. Le refus de l'employeur doit être motivé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 5
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L423-34
+
+
+### Titre III : Educateurs et aides familiaux, personnels pédagogiques occasionnels des accueils collectifs de mineurs.
+
+#### Chapitre II : Personnels pédagogiques occasionnels des accueils collectifs de mineurs.
+
+###### Article D432-1
+
+Le contrat d'engagement éducatif est conclu entre une personne physique et une personne physique ou morale telle que définie
+dans l'article L. 432-1. 
+
+Un contrat d'engagement éducatif ne peut être conclu : 
+
+1° Avec une personne physique qui anime ou gère à temps plein ou à temps partiel une structure définie dans l'article précité
+et qui peut être amenée au titre de ses fonctions à assurer l'encadrement d'un accueil ou d'un stage destiné aux personnes
+engagées dans un cursus de formation défini au cinquième alinéa de ce même article ; 
+
+2° Avec les personnes physiques qui animent quotidiennement les accueils en période scolaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 5
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L432-1
+
+
+###### Article D432-2
+
+La durée cumulée des contrats conclus par un même titulaire ne peut excéder quatre-vingts jours sur une période de douze mois
+consécutifs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 5
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R544-2 (V)
+	  - Code de l'action sociale et des familles - art. R544-3 (V)
+
+
+###### Article D432-3
+
+La rémunération des personnes titulaires d'un contrat d'engagement éducatif ne peut être inférieure à 2,20 fois le montant du
+salaire minimum de croissance par jour. 
+
+Lorsque les fonctions exercées supposent une présence continue auprès des publics accueillis, la nourriture et l'hébergement
+sont intégralement à la charge de l'organisateur de l'accueil et ne peuvent en aucun cas être considérés comme des avantages
+en nature.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 5
+
+
+###### Article D432-4
+
+Dans tous les cas, le titulaire du contrat bénéficie chaque semaine d'un repos dont la durée ne peut être inférieure à vingt-
+quatre heures consécutives.
+
+**Nota:**
+
+Conseil d'Etat, décision n° 301014 du 10 octobre 2011, article 1er : Le décret n° 2006-950 du 28 juillet 2006 et la décision
+par laquelle le Premier ministre a implicitement rejeté le recours gracieux formé contre ce décret sont annulés en tant que
+l'article D. 773-2-3 inséré dans le code du travail, désormais repris à l'article D. 432-4 du code de l'action sociale et des
+familles, met en oeuvre les dispositions de la loi du 23 mai 2006 qui ne prévoient, en ce qui concerne le régime du repos
+accordé aux titulaires d'un contrat d'engagement éducatif, ni repos quotidien ni protection équivalente au sens de la
+directive 2003/88/CE du 4 novembre 2003.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 5
+
+
+###### Article D432-5
+
+Le contrat d'engagement éducatif précise : 
+
+1° L'identité des parties et leur domicile ; 
+
+2° La durée du contrat et les conditions de rupture anticipée du contrat ; 
+
+3° Le montant de la rémunération ; 
+
+4° Le nombre de jours travaillés prévus au contrat ; 
+
+5° Le programme indicatif des jours travaillés pendant la période du contrat, ce programme contenant la répartition du nombre
+de jours entre les jours de la semaine ou les semaines du mois ; 
+
+6° Les cas dans lesquels une modification éventuelle du programme indicatif peut intervenir ainsi que la nature de cette
+modification, toute modification devant être notifiée au salarié sept jours au moins avant la date à laquelle elle doit avoir
+lieu, sauf pour les cas d'urgence ; 
+
+7° Les jours de repos ; 
+
+8° Le cas échéant, les avantages en nature et le montant des indemnités dont il bénéficie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 5
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D423-17 (VD)
+
+
+###### Article D432-6
+
+En l'absence d'accord entre parties, le contrat d'engagement éducatif ne peut être rompu à l'initiative de l'organisme avant
+l'échéance du terme que pour force majeure, faute grave du cocontractant ou impossibilité pour celui-ci de continuer à
+exercer ses fonctions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 5
+
+
+###### Article D432-7
+
+Lorsqu'il est passé entre une personne physique et un organisateur d'accueil collectif de mineurs déclaré et défini à
+l'article R. 227-1, le titulaire du contrat d'engagement éducatif doit satisfaire aux dispositions des articles R. 227-3 et
+R. 227-8 ainsi qu'aux dispositions de ses articles R. 227-12 à R. 227-22 en matière de qualification. 
+
+Lorsqu'il est passé entre une personne physique et un organisme de formation habilité mentionné dans l'article précédent, le
+titulaire du contrat d'engagement éducatif doit satisfaire aux dispositions prévues aux articles 2 ou 6 du décret n° 87-716
+du 28 août 1987 relatif aux brevets d'aptitude aux fonctions d'animateur et de directeur de centres de vacances et de
+loisirs.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°87-716 du 28 août 1987 - art. 2
+	  - Code de l'action sociale et des familles - art. R227-1
+	  - Code de l'action sociale et des familles - art. R227-12
+	  - Code de l'action sociale et des familles - art. R227-3
+	  - Code de l'action sociale et des familles - art. R227-8
+
+	**Créé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 5
+
+
+###### Article D432-8
+
+Dans le contrat d'engagement éducatif, le titulaire certifie sur l'honneur respecter les dispositions de l'article D. 431-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 5
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D431-2 (VT)
+
+
+###### Article D432-9
+
+L'employeur tient à la disposition de l'inspection du travail, pendant une durée de trois ans, le ou les documents permettant
+de comptabiliser le nombre de jours de travail accomplis par les personnes avec lesquelles il aura souscrit un contrat
+d'engagement éducatif.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
 
 	  - Décret n°2008-244 du 7 mars 2008 - art. 5
 
@@ -93637,6 +95952,65 @@ certification du diplôme d'Etat d'assistant familial.
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. R451-2 (V)
+
+
+### Titre VI : Autres professions.
+
+#### Chapitre unique : Techniciens de l'intervention sociale et familiale.
+
+##### Section unique :  Exercice de la profession. 
+
+
+
+
+###### Article D461-1
+
+Les services et les organismes qui emploient les techniciens de l'intervention sociale et familiale ne peuvent recevoir
+aucune aide financière des collectivités publiques ou des institutions gérant un service public s'ils emploient en cette
+qualité des personnes qui n'ont pas satisfait aux dispositions de l'article D. 451-81.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 5
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D451-81
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D461-2 (V)
+
+
+###### Article D461-2
+
+Les organismes de techniciens de l'intervention sociale et familiale mentionnés à l'article D. 431-1 doivent être agréés par
+le préfet du département dans les conditions fixées par arrêté des ministres chargés des affaires sociales et de la sécurité
+sociale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 5
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. D431-1
+
+
+###### Article D461-3
+
+Les techniciens de l'intervention sociale et familiale sont soumis à un contrôle médical périodique dont les modalités sont
+fixées par arrêté des ministres chargés de la santé et de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 5
 
 
 ## Livre V : Dispositions particulières applicables à certaines parties du territoire
