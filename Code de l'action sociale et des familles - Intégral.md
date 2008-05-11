@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2008-05-01
+Version Consolidée au 2008-05-12
 
 # Partie législative
 
@@ -31260,7 +31260,7 @@ mai 2008.
 	  - Code de l'action sociale et des familles - art. L544-2 (VD)
 
 
-### Titre III : Educateurs et aides familiaux, personnels pédagogiques occasionnels des accueils collectifs de mineurs
+### Titre III : Educateurs et aides familiaux, personnels pédagogiques occasionnels des accueils collectifs de mineurs, permanents des lieux de vie
 
 #### Chapitre Ier : Educateurs et aides familiaux
 
@@ -31540,12 +31540,6 @@ mai 2008.
 
 	  - Ordonnance 2007-329 2007-03-12 art. 5 7° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
 
-
-### Titre III : Educateurs et aides familiaux, personnels pédagogiques occasionnels des accueils collectifs de mineurs, permanents des lieux de vie
-
-#### Chapitre Ier : Educateurs et aides familiaux
-
-#### Chapitre II : Personnels pédagogiques occasionnels des accueils collectifs de mineurs
 
 #### Chapitre III : Permanents des lieux de vie
 
@@ -56520,21 +56514,22 @@ chances, la participation et la citoyenneté des personnes handicapées.
 
 ###### Article D245-4
 
-A le droit à la prestation de compensation, dans les conditions prévues au présent chapitre pour chacun des éléments prévus à
-l'article L. 245-3, la personne qui présente une difficulté absolue pour la réalisation d'une activité ou une difficulté
-grave pour la réalisation d'au moins deux activités telles que définies dans le référentiel figurant à l'annexe 2-5 et dans
-des conditions précisées dans ce référentiel. Les difficultés dans la réalisation de cette ou de ces activités doivent être
-définitives, ou d'une durée prévisible d'au moins un an.
+A le droit ou ouvre le droit, à la prestation de compensation, dans les conditions prévues au présent chapitre pour chacun
+des éléments prévus à l'article L. 245-3, la personne qui présente une difficulté absolue pour la réalisation d'une activité
+ou une difficulté grave pour la réalisation d'au moins deux activités telles que définies dans le référentiel figurant à
+l'annexe 2-5 et dans des conditions précisées dans ce référentiel. Les difficultés dans la réalisation de cette ou de ces
+activités doivent être définitives, ou d'une durée prévisible d'au moins un an.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2004-1136 2004-10-21
+	  - Décret n°2008-451 du 7 mai 2008 - art. 1
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2005-1591 du 19 décembre 2005 - art. 1 () JORF 20 décembre 2005
+	  - Code de l'action sociale et des familles - art. Annexe 2-5 (V)
+	  - Code de l'action sociale et des familles - art. L245-3
 
 	**Cité par**:
 
@@ -56567,15 +56562,16 @@ La prestation de compensation prend en charge le besoin d'aides humaines appréc
 
 ###### Article D245-8
 
-En application du deuxième alinéa de l'article L. 245-12, la personne handicapée peut utiliser les sommes attribuées au titre
-de l'élément lié à un besoin d'aide humaine de la prestation de compensation pour salarier un membre de sa famille autre que
-son conjoint, son concubin ou la personne avec laquelle elle a conclu un pacte civil de solidarité ou autre qu'un obligé
-alimentaire du premier degré, à condition que ce dernier n'ait pas fait valoir ses droits à la retraite et qu'il ait cessé ou
-renoncé totalement ou partiellement à une activité professionnelle pour être employé par la personne handicapée. Toutefois,
-lorsque son état nécessite à la fois une aide totale pour la plupart des actes essentiels et une présence constante ou quasi
-constante due à un besoin de soins ou d'aide pour les gestes de la vie quotidienne, la personne handicapée peut utiliser ces
-sommes pour salarier son conjoint, son concubin, la personne avec laquelle elle a conclu un pacte civil de solidarité ou un
-obligé alimentaire du premier degré.
+En application du deuxième alinéa de l'article L. 245-12, la personne handicapée ou, si elle est mineure, la personne qui en
+a la charge peut utiliser les sommes attribuées au titre de l'élément lié à un besoin d'aide humaine de la prestation de
+compensation pour salarier un membre de la famille de la personne handicapée autre que le conjoint, le concubin ou la
+personne avec laquelle elle a conclu un pacte civil de solidarité ou autre qu'un obligé alimentaire du premier degré, à
+condition que ce dernier n'ait pas fait valoir ses droits à la retraite et qu'il ait cessé ou renoncé totalement ou
+partiellement à une activité professionnelle pour être employé par la personne handicapée ou, si elle est mineure, la
+personne qui en a la charge. Toutefois, lorsque son état nécessite à la fois une aide totale pour la plupart des actes
+essentiels et une présence constante ou quasi-constante due à un besoin de soins ou d'aide pour les gestes de la vie
+quotidienne, la personne handicapée majeure ou émancipée peut utiliser ces sommes pour salarier son conjoint, son concubin,
+la personne avec laquelle elle a conclu un pacte civil de solidarité ou un obligé alimentaire du premier degré. 
 
 Dans le cas où le membre de la famille salarié par la personne handicapée est son tuteur, le contrat de travail est conclu
 par le subrogé tuteur ou, à défaut de subrogé tuteur, par un tuteur ad hoc nommé par le juge des tutelles. Le contrat de
@@ -56585,13 +56581,13 @@ contrat de travail avec son tuteur ou lorsque le membre de la famille salarié p
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
 	**Modifié par**:
 
-	  - Décret n°2006-1311 du 25 octobre 2006 - art. 1 () JORF 27 octobre 2006
+	  - Décret n°2008-451 du 7 mai 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L245-12
 
 
 ###### Article D245-9
@@ -56683,31 +56679,36 @@ pôle emploi est effective depuis le 1er janvier 2009.
 ###### Article R245-7
 
 Est considéré comme un aidant familial, pour l'application de l'article L. 245-12, le conjoint, le concubin, la personne avec
-laquelle le bénéficiaire a conclu un pacte civil de solidarité, l'ascendant, le descendant ou le collatéral jusqu'au
-quatrième degré du bénéficiaire, ou l'ascendant, le descendant ou le collatéral jusqu'au quatrième degré de l'autre membre du
-couple qui apporte l'aide humaine définie en application des dispositions de l'article L. 245-3 du présent code et qui n'est
-pas salarié pour cette aide.
+laquelle la personne handicapée a conclu un pacte civil de solidarité, l'ascendant, le descendant ou le collatéral jusqu'au
+quatrième degré de la personne handicapée, ou l'ascendant, le descendant ou le collatéral jusqu'au quatrième degré de l'autre
+membre du couple qui apporte l'aide humaine définie en application des dispositions de l'article L. 245-3 du présent code et
+qui n'est pas salarié pour cette aide. 
+
+Lorsque la prestation est accordée au titre du 1° du III de l'article L. 245-1, est également considéré comme aidant
+familial, dès lors qu'il remplit les conditions mentionnées à l'alinéa précédent, le conjoint, le concubin ou la personne
+avec laquelle un parent de l'enfant handicapé a conclu un pacte civil de solidarité ainsi que toute personne qui réside avec
+la personne handicapée et qui entretient des liens étroits et stables avec elle.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°77-1549 1977-12-31 art. 5, IV, V et VI
-	  - Décret n°77-1549 du 31 décembre 1977 - art. 5 (M)
 	  - Décret n°77-1549 du 31 décembre 1977 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
 
 	**Modifié par**:
 
-	  - Décret n°2005-1588 du 19 décembre 2005 - art. 1 () JORF 20 décembre 2005
+	  - Décret n°2008-450 du 7 mai 2008 - art. 1
 
 	**Cité par**:
 
 	  - Décret n°2015-1709 du 21 décembre 2015 - art. 1
 	  - Code de la sécurité sociale. - art. R844-1 (VD)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L245-1
+	  - Code de l'action sociale et des familles - art. L245-12
+	  - Code de l'action sociale et des familles - art. L245-3
 
 
 ##### Sous-section 2 : Besoin d'aides techniques
@@ -56789,25 +56790,20 @@ L. 165-1 du code de la sécurité sociale.
 
 ###### Article D245-13
 
-Tout bénéficiaire de l'allocation d'éducation de l'enfant handicapé peut prétendre au bénéfice de l'élément de la prestation
-de compensation lié à un aménagement du logement, du véhicule ou aux surcoûts résultant du transport dès lors que l'enfant
-remplit les critères de handicap définis à l'article D. 245-4.
-
-En cas de séparation des parents, la prestation de compensation peut prendre en charge l'aménagement du logement ou du
-véhicule du parent n'ayant pas la charge de l'enfant sous condition de l'établissement préalable d'un compromis écrit entre
-les deux parents. Ce compromis comporte, de la part du parent n'ayant pas la charge de l'enfant, l'engagement d'effectuer les
-aménagements et, de la part du parent ayant la charge de l'enfant, l'engagement de reverser à l'autre parent la partie de la
-prestation correspondant à ces aménagements.
+Tout bénéficiaire de l'allocation d'éducation de l'enfant handicapé peut prétendre en application du 2° du III de l'article
+L. 245-1 au bénéfice de l'élément de la prestation de compensation lié à un aménagement du logement, du véhicule ou aux
+surcoûts résultant du transport dès lors que l'enfant remplit les critères de handicap définis à l'article D. 245-4.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2004-1136 2004-10-21
+	  - Décret n°2008-451 du 7 mai 2008 - art. 1
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2005-1591 du 19 décembre 2005 - art. 1 () JORF 20 décembre 2005
+	  - Code de l'action sociale et des familles - art. D245-4
+	  - Code de l'action sociale et des familles - art. L245-1
 
 
 ##### Paragraphe 2 : Critères et conditions d'affectation
@@ -57200,21 +57196,28 @@ titulaire d'une prestation en espèces de sécurité sociale au titre de l'aide 
 ###### Article D245-26
 
 Dans le cadre de l'instruction de la demande, la maison départementale des personnes handicapées demande les pièces
-justificatives complémentaires nécessaires à l'établissement des droits du demandeur et à la liquidation de la prestation.
+justificatives complémentaires nécessaires à l'établissement des droits du demandeur et à la liquidation de la prestation. 
+
+En cas de séparation des parents, la prestation de compensation peut être affectée à la couverture des charges du parent
+n'ayant pas la charge de l'enfant, sous condition de l'établissement préalable d'un compromis écrit entre les deux parents.
+Le compromis précise les modalités d'aides incombant à chacun des parents. Il comporte, de la part du parent ayant la charge
+de l'enfant, l'engagement de reverser à l'autre parent la partie correspondant à la compensation des charges prévues à
+l'article L. 245-3 qu'il a exposée, et de la part du parent n'ayant pas la charge de l'enfant, l'engagement à fournir à
+l'autre parent les pièces justifiant l'effectivité de ces charges.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2004-1136 2004-10-21
-
-	**Créé par**:
-
-	  - Décret n°2005-1591 du 19 décembre 2005 - art. 1 () JORF 20 décembre 2005
+	  - Décret n°2008-451 du 7 mai 2008 - art. 1
 
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. D245-51 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L245-3
 
 
 ###### Article D245-27
@@ -57271,20 +57274,17 @@ descriptif sur la base des propositions de l'équipe pluridisciplinaire.
 
 ###### Article D245-29
 
-En cas d'évolution du handicap de la personne ou des facteurs ayant déterminé les charges prises en compte, celle-ci peut
-déposer une nouvelle demande avant la fin de la période d'attribution en cours. La commission des droits et de l'autonomie
-des personnes handicapées réexamine les droits à la prestation de compensation si elle estime, au vu des éléments nouveaux,
-que le plan de compensation de la personne handicapée est substantiellement modifié.
+En cas d'évolution du handicap de la personne ou des facteurs ayant déterminé les charges prises en compte, le bénéficiaire
+peut déposer une nouvelle demande avant la fin de la période d'attribution en cours. La commission des droits et de
+l'autonomie des personnes handicapées réexamine les droits à la prestation de compensation si elle estime, au vu des éléments
+nouveaux, que le plan de compensation de la personne handicapée est substantiellement modifié. Elle fixe le montant de la
+prestation sans tenir compte des montants déjà attribués pour les éléments concernés.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2004-1136 2004-10-21
-
-	**Créé par**:
-
-	  - Décret n°2005-1591 du 19 décembre 2005 - art. 1 () JORF 20 décembre 2005
+	  - Décret n°2008-451 du 7 mai 2008 - art. 1
 
 	**Cité par**:
 
@@ -57319,35 +57319,88 @@ handicapée en mesure de faire connaître ses observations dans le cadre des pro
 
 ###### Article D245-31
 
-Les décisions de la commission des droits et de l'autonomie des personnes handicapées mentionnée à l'article L. 241-5
-indiquent pour chacun des éléments de la prestation de compensation attribués :
+Les décisions de la commission des droits et de l' autonomie des personnes handicapées mentionnée à l' article L. 241-5
+indiquent pour chacun des éléments de la prestation de compensation attribués : 
 
-1° La nature des dépenses pour lesquelles chaque élément est affecté, en précisant, pour l'élément lié à un besoin d'aides
-humaines, la répartition des heures selon le statut de l'aidant ;
+1° La nature des dépenses pour lesquelles chaque élément est affecté, en précisant, pour l' élément lié à un besoin d' aides
+humaines, la répartition des heures selon le statut de l' aidant ; 
 
-2° La durée d'attribution ;
+2° La durée d' attribution ; 
 
-3° Le montant total attribué, sauf pour l'élément mentionné au 1° de l'article L. 245-3 ;
+3° Le montant total attribué, sauf pour l' élément mentionné au 1° de l' article L. 245-3 ; 
 
-4° Le montant mensuel attribué ;
+4° Le montant mensuel attribué ; 
 
-5° Les modalités de versement choisies par le bénéficiaire.
+5° Les modalités de versement choisies par le bénéficiaire. 
 
-Lorsqu'une décision ne mentionne pas un élément déjà attribué par une décision précédente en cours de validité, le droit à
+Lorsque la prestation de compensation est attribuée en application du 1° du III de l' article L. 245-1, les décisions font
+mention du choix effectué en application du I de l' article D. 245-32-1. 
+
+Lorsqu' une décision ne mentionne pas un élément déjà attribué par une décision précédente en cours de validité, le droit à
 cet élément est maintenu.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2004-1136 2004-10-21
+	  - Décret n°2008-451 du 7 mai 2008 - art. 1
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2005-1591 du 19 décembre 2005 - art. 1 () JORF 20 décembre 2005
+	  - Code de l'action sociale et des familles - art. D245-32-1 (V)
+	  - Code de l'action sociale et des familles - art. L241-5 (V)
+	  - Code de l'action sociale et des familles - art. L245-1
+	  - Code de l'action sociale et des familles - art. L245-3
 
 
 ##### Paragraphe 2 : Droit d'option
+
+###### Article D245-32-1
+
+Le choix prévu au III de l' article L. 245- 1 est exercé sur la base des propositions figurant dans le plan personnalisé de
+compensation, lesquelles précisent les montants respectifs de l' allocation d' éducation de l' enfant handicapé, de son
+complément et de la prestation de compensation. Il est exprimé en même temps que d' éventuelles observations, dans les délais
+prévus à l' article R. 146- 29. La commission des droits et de l' autonomie des personnes handicapées en est informée. 
+
+Lorsque la personne n' exprime aucun choix, si elle perçoit une prestation, il est présumé qu' elle souhaite continuer à la
+percevoir ou, si elle ne perçoit aucune des deux prestations, il est présumé qu' elle souhaite percevoir le complément de l'
+allocation d' éducation de l' enfant handicapé. 
+
+Lorsque la décision de la commission des droits et de l' autonomie des personnes handicapées diffère des propositions qui
+figurent dans le plan personnalisé de compensation, en ce qui concerne l' allocation d' éducation de l' enfant handicapé ou
+la prestation de compensation, le bénéficiaire dispose d' un délai d' un mois après notification de la décision pour modifier
+son choix auprès de la maison départementale des personnes handicapées. 
+
+La maison départementale des personnes handicapées transmet sans délai la décision aux organismes payeurs, lorsque le choix
+de la personne est définitif. 
+
+II.- Toute demande par un bénéficiaire au titre du 1° du III de l' article L. 245- 1 de renouvellement ou de révision de la
+prestation de compensation au titre de l' article D. 245- 29 entraîne un réexamen des conditions pour bénéficier du
+complément de l' allocation d' éducation de l' enfant handicapé. 
+
+Le bénéficiaire des éléments mentionnés aux 2°, 4° et 5° de l' article L. 245- 3 ne peut opter pour le complément de l'
+allocation prévue à l' article L. 541- 1 du code de la sécurité sociale qu' à la date d' échéance de l' attribution de ces
+éléments, dès lors qu' ils ont donné lieu à versement ponctuel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-451 du 7 mai 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L541-1
+	  - Code de l'action sociale et des familles - art. D245-29
+	  - Code de l'action sociale et des familles - art. L245-1 (V)
+	  - Code de l'action sociale et des familles - art. L245-3
+	  - Code de l'action sociale et des familles - art. R146-29
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D245-31 (V)
+	  - Code de l'action sociale et des familles - art. R542-4 (V)
+
 
 ###### Article R245-32
 
@@ -57431,26 +57484,43 @@ peut dépasser le montant maximum prévu à l'article R. 245-37 sur une période
 La date d'ouverture des droits est le premier jour du mois du dépôt de la demande. A titre transitoire, cette date
 d'ouverture peut être fixée dès le 1er janvier 2006 pour les personnes remplissant les conditions d'attribution de la
 prestation de compensation et déposant leur demande entre le 1er janvier 2006 et le 1er juillet 2006, à condition qu'ils
-justifient les charges exposées sur cette période.
+justifient les charges exposées sur cette période. 
+
+Pour les demandes faites en application du 1° du III de l'article L. 245-1 par le bénéficiaire d'un complément de
+l'allocation prévue à l'article L. 541-1 du code de la sécurité sociale, la date d'attribution de la prestation de
+compensation est fixée par la commission des droits et de l'autonomie : 
+
+1° Au premier jour qui suit la date d'échéance du droit de cette allocation ; 
+
+2° Lorsque la demande est faite en cas d'évolution du handicap de la personne ou des facteurs ayant déterminé les charges
+prises en compte : 
+
+a) Au premier jour du mois de la décision de la commission ; 
+
+b) A une date comprise entre le premier jour du mois du dépôt de la demande et la date de la décision de la commission,
+lorsque le bénéficiaire justifie avoir été exposé à des charges supplémentaires prises en compte au titre de la prestation de
+compensation. 
 
 En cas d'interruption de l'aide décidée en application de l'article R. 245-71, celle-ci prend effet à compter de la date à
 laquelle la commission des droits et de l'autonomie des personnes handicapées a statué.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2004-1136 2004-10-21
-
-	**Créé par**:
-
-	  - Décret n°2005-1591 du 19 décembre 2005 - art. 1 () JORF 20 décembre 2005
-
 	**Cité par**:
 
 	  - Décret n°2007-158 du 5 février 2007 - art. 2 (V)
 	  - Décret n°2008-451 du 7 mai 2008 - art. 2 (V)
 	  - Code de l'action sociale et des familles - art. R542-4 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2008-451 du 7 mai 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L541-1
+	  - Code de l'action sociale et des familles - art. L245-1
+	  - Code de l'action sociale et des familles - art. R245-71
 
 
 ###### Article D245-35
@@ -57482,17 +57552,20 @@ renouvellement.
 En cas d'urgence attestée, l'intéressé peut, à tout moment de l'instruction de sa demande de prestation de compensation,
 joindre une demande particulière sur laquelle le président du conseil général statue en urgence dans un délai de quinze jours
 ouvrés en arrêtant le montant provisoire de la prestation de compensation. Le ministre chargé des personnes handicapées peut
-fixer par arrêté les conditions particulières dans lesquelles l'urgence est attestée.
+fixer par arrêté les conditions particulières dans lesquelles l'urgence est attestée. 
+
+Le président du conseil général informe l'organisme débiteur des prestations familiales de l'attribution provisoire de la
+prestation lorsque le bénéficiaire perçoit l'allocation prévue à l'article L. 541-1 du code de la sécurité sociale.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2004-1136 2004-10-21
+	  - Décret n°2008-450 du 7 mai 2008 - art. 2
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2005-1588 du 19 décembre 2005 - art. 1 () JORF 20 décembre 2005
+	  - Code de la sécurité sociale. - art. L541-1
 
 	**Cité par**:
 
@@ -57870,23 +57943,31 @@ conseil général l'identité et le statut du ou des salariés à la rémunérat
 parenté éventuel avec le ou les salariés, le montant des sommes versées à chaque salarié ainsi que, le cas échéant,
 l'organisme mandataire auquel il fait appel. Lorsqu'il choisit de faire appel, comme mandataire de l'élément mentionné au 1°
 de l'article L. 245-3, à un organisme mandataire agréé ou à un centre communal d'action sociale, il le déclare au président
-du conseil général.
+du conseil général. 
 
 Lorsque le bénéficiaire fait appel à un aidant familial qu'il dédommage, il déclare au président du conseil général
-l'identité et le lien de parenté de celui-ci.
+l'identité et le lien de parenté de celui-ci. 
 
 Lorsque le bénéficiaire fait appel à un service prestataire d'aide à domicile, il déclare au président du conseil général le
-service prestataire qui intervient auprès de lui ainsi que le montant des sommes qu'il lui verse.
+service prestataire qui intervient auprès de lui ainsi que le montant des sommes qu'il lui verse. 
+
+Dans le cas où la prestation de compensation est attribuée en application du 1° du III de l'article L. 245-1, le bénéficiaire
+informe le président du conseil général des modalités du droit de visite ou de la résidence en alternance et transmet le
+compromis mentionné à l'article D. 245-26, lorsqu'il y a séparation des parents. Il l'informe également de la date à laquelle
+l'enfant est admis dans un établissement mentionné au 2° du I de l'article L. 312-1.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2004-1136 2004-10-21
+	  - Décret n°2008-451 du 7 mai 2008 - art. 1
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2005-1591 du 19 décembre 2005 - art. 1 () JORF 20 décembre 2005
+	  - Code de l'action sociale et des familles - art. D245-26
+	  - Code de l'action sociale et des familles - art. L245-1
+	  - Code de l'action sociale et des familles - art. L245-3
+	  - Code de l'action sociale et des familles - art. L312-1
 
 
 ###### Article D245-52
@@ -103222,9 +103303,7 @@ Exemple :
 
 Référentiel pour l'accès à la prestation de compensation
 
-Chapitre 1er
-
-Conditions générales d'accès à la prestation de compensation
+Chapitre 1er : Conditions générales d'accès à la prestation de compensation
 
 1. Les critères de handicap pour l'accès à la prestation de compensation
 
@@ -103243,14 +103322,16 @@ réalisée ;
 b) Les difficultés doivent être définitives ou d'une durée prévisible d'au moins un an. Il n'est cependant pas nécessaire que
 l'état de la personne soit stabilisé.
 
-<notes>
-
 2. Détermination du niveau des difficultés
 
 La détermination du niveau de difficulté se fait en référence à la réalisation de l'activité par une personne du même âge qui
 n'a pas de problème de santé. Elle résulte de l'analyse de la capacité fonctionnelle de la personne, capacité déterminée sans
 tenir compte des aides apportées, quelle que soit la nature de ces aides. Elle prend en compte les symptômes (douleur,
 inconfort, fatigabilité, lenteur, etc.), qui peuvent aggraver les difficultés dès lors qu'ils évoluent au long cours.
+
+Concernant les enfants, il est nécessaire de faire référence aux étapes du développement habituel d'un enfant, définies par
+arrêté du ministre chargé des personnes handicapées. Lorsqu'une activité ne peut être réalisée compte tenu des étapes du
+développement habituel d'un enfant du même âge, celle-ci est sans objet.
 
 3. Détermination personnalisée du besoin de compensation
 
@@ -103261,13 +103342,11 @@ a) Les facteurs qui limitent l'activité ou la participation (déficiences, trou
 
 b) Les facteurs qui facilitent l'activité ou la participation : capacités de la personne (potentialités et aptitudes),
 compétences (expériences antérieures et connaissances acquises), environnement (y compris familial, social et culturel),
-aides de toute nature (humaines, techniques, aménagement du logement, etc.) déjà mises en œuvre ;
+aides de toute nature (humaines, techniques, aménagement du logement, etc.) déjà mises en oeuvre ;
 
 c) Le projet de vie exprimé par la personne.
 
-Chapitre 2
-
-Aides humaines
+Chapitre 2 : Aides humaines
 
 Les besoins d'aides humaines peuvent être reconnus dans les trois domaines suivants :
 
@@ -103284,6 +103363,9 @@ Les actes essentiels
 L'équipe pluridisciplinaire identifie les besoins d'aide humaine pour l'entretien personnel, les déplacements et la
 participation à la vie sociale. Elle procède à une quantification du temps d'aide humaine nécessaire pour compenser le
 handicap.
+
+Pour les enfants, ces besoins sont appréciés en tenant compte des activités habituellement réalisées par une personne du même
+âge, selon les indications mentionnées au second alinéa du 2 du chapitre Ier de la présente annexe.
 
 1. Les actes essentiels à prendre en compte
 
@@ -103305,8 +103387,6 @@ Elimination (5) : le temps d'aide quotidien pour aller aux toilettes comprend le
 compris les transferts entre les toilettes et le fauteuil. Il peut atteindre 50 minutes. Les actes concernant l'élimination
 qui relèvent d'actes infirmiers ne sont pas pris en compte.
 
-<notes>
-
 b) Les déplacements
 
 Le temps quotidien d'aide humaine pour les déplacements dans le logement peut atteindre 35 minutes. Il s'agit notamment d'une
@@ -103327,6 +103407,13 @@ Le temps d'aide humaine pour la participation à la vie sociale peut atteindre 3
 de crédit temps et peut être capitalisé sur une durée de 12 mois. Ce temps exclut les besoins d'aide humaine qui peuvent être
 pris en charge à un autre titre, notamment ceux liés à l'activité professionnelle, à des fonctions électives, à des activités
 ménagères, etc.
+
+d) Les besoins éducatifs :
+
+La prise en compte des besoins éducatifs des enfants et des adolescents soumis à l'obligation scolaire pendant la période
+nécessaire à la mise en œuvre d'une décision de la commission des droits et de l'autonomie d'orientation à temps plein ou à
+temps partiel vers un établissement mentionné au 2° du I de l'article L. 312-1 du présent code donne lieu à l'attribution
+d'un temps d'aide humaine de 30 heures par mois.
 
 2. Les modalités de l'aide humaine
 
@@ -103367,12 +103454,8 @@ réalisation des activités.
 
 4. Compensation et autres modes de prise en charge financière
 
-Lorsque l'aide apportée, pour tout ou partie des actes essentiels, est prise en charge financièrement à un autre titre
-(exemple : intervention d'un service de soins infirmiers à domicile, d'un infirmier libéral pour la toilette ou d'un service
-d'accompagnement dans la vie sociale pour certains aspects de la vie sociale), le temps d'aide correspondant est décompté du
-temps d'aide humaine pris en compte au titre de la prestation de compensation. Toutefois, c'est l'ensemble des réponses aux
-différents besoins d'aide humaine identifiés qui doivent être mentionnées dans le plan personnalisé de compensation, y
-compris celles qui ne relèvent pas de la prestation de compensation.
+L'ensemble des réponses aux différents besoins d'aide humaine identifiés qui doivent être mentionnées dans le plan
+personnalisé de compensation, y compris celles qui ne relèvent pas de la prestation de compensation.
 
 Section 2
 
@@ -103385,8 +103468,9 @@ surveillance doit être durable ou survenir fréquemment et concerne :
 - soit les personnes qui s'exposent à un danger du fait d'une altération substantielle, durable ou définitive d'une ou
 plusieurs fonctions mentales, cognitives ou psychiques ;
 
-- soit les personnes qui nécessitent à la fois une aide totale pour la plupart des actes essentiels et une présence due à un
-besoin de soins constants ou quasi constants.
+- soit les personnes qui nécessitent à la fois une aide totale pour la plupart des actes essentiels et une présence constante
+ou quasi constante due à un besoin de soins ou d'aide pour les gestes de la vie quotidienne. Il n'est pas nécessaire que
+l'aide mentionnée dans cette définition concerne la totalité des actes essentiels.
 
 1. Les personnes qui s'exposent à un danger du fait d'une altération d'une ou plusieurs fonctions mentales, cognitives ou
 psychiques
@@ -103427,21 +103511,22 @@ Toutefois, il faut considérer dans ce cas que le temps de présence d'un aidant
 répond pour partie au besoin de surveillance. Ainsi, le cumul des temps est autorisé à concurrence du temps maximum attribué
 au titre des actes essentiels.
 
-2. Les personnes qui nécessitent à la fois une aide totale pour la plupart des actes essentiels et une présence due à un
-besoin de soins constants ou quasi constants
+2. Les personnes qui nécessitent à la fois une aide totale pour la plupart des actes essentiels et une présence constante ou
+quasi constante due à un besoin de soins ou d'aide pour les gestes de la vie quotidienne
 
 La condition relative à l'aide totale pour la plupart des actes essentiels est remplie dès lors que la personne a besoin
 d'une aide totale pour les activités liées à l'entretien personnel définies au a du 1 de la section 1.
 
-La condition relative à la présence et aux soins constants ou quasi constants est remplie dès lors que des interventions
-itératives sont nécessaires dans la journée et que des interventions actives sont généralement nécessaires la nuit.
+La condition relative à la présence constante ou quasi constante due à un besoin de soins ou d'aide pour les gestes de la vie
+quotidienne est remplie dès lors que des interventions itératives sont nécessaires dans la journée et que des interventions
+actives sont généralement nécessaires la nuit.
 
-Les éléments relatifs aux soins et interventions dans la journée comme dans la nuit comprennent notamment des soins liés à la
-prévention d'escarres ou des aspirations endotrachéales, dès lors que ces aspirations sont réalisées en conformité avec les
-dispositions prévues dans le décret n° 99-426 du 27 mai 1999 habilitant certaines catégories de personnes à effectuer des
-aspirations endotrachéales.
+Les éléments relatifs aux soins dans la journée comme dans la nuit comprennent notamment des soins liés à la prévention
+d'escarres ou des aspirations endotrachéales, dès lors que ces aspirations sont réalisées en conformité avec les dispositions
+prévues dans le décret n° 99-426 du 27 mai 1999 habilitant certaines catégories de personnes à effectuer des aspirations
+endotrachéales.
 
-Dans ce cas, le cumul des temps d'aide humaine pour les actes essentiels et la surveillance peut atteindre 12 heures par
+Dans ce cas, le cumul des temps d'aide humaine pour les actes essentiels et la surveillance peut atteindre 24 heures par
 jour.
 
 Section 3
@@ -103456,9 +103541,6 @@ d'aides techniques ou d'aménagements organisationnels n'ont pas pu être mis en
 étant pris en charge au titre de l'aide pour les actes essentiels quel que soit le lieu où cette aide est apportée ;
 
 - d'autre part, les frais liés aux aides en lien direct avec le poste de travail.
-
-L'aide pour frais supplémentaires est attribuée en complément des aides apportées à ce titre, en particulier celles de
-l'AGEFIPH ou des structures équivalentes pour les fonctions publiques.
 
 Le nombre maximum d'heures est fixé à 156 heures pour 12 mois. Les heures peuvent être réparties dans l'année, en fonction
 des besoins. Dans ce cas, le programme prévisionnel doit figurer dans le plan de compensation.
@@ -103477,8 +103559,9 @@ réalisation de deux des actes figurant aux a et b du 1 de la section 1 ou, à d
 - à la constatation que le temps d'aide nécessaire apporté par un aidant familial pour des actes relatifs aux a et b du 1 de
 la section 1 ou au titre d'un besoin de surveillance atteint 45 minutes par jour.
 
-Dans des situations exceptionnelles, la commission des droits et de l'autonomie peut porter le temps d'aide attribué au titre
-des actes essentiels ou de la surveillance au-delà des temps plafonds.
+Dans des situations exceptionnelles, la commission des droits et de l'autonomie ou le président du conseil général statuant
+en urgence dans les conditions fixées par l'article R. 245-36 peut porter le temps d'aide attribué au titre des actes
+essentiels ou de la surveillance au-delà des temps plafonds.
 
 2. Quantification des temps d'aide
 
@@ -103498,9 +103581,7 @@ L'équipe pluridisciplinaire est tenue d'élaborer le plan personnalisé de comp
 nécessaires qui justifient la durée retenue, notamment en détaillant les facteurs qui facilitent ou au contraire compliquent
 la réalisation de l'activité concernée.
 
-Chapitre 3
-
-Aides techniques
+Chapitre 3 : Aides techniques
 
 1. Définition
 
@@ -103512,10 +103593,9 @@ Les équipements qui concourent à l'aménagement du logement ou du véhicule ai
 handicap sont pris en compte respectivement dans les 3e et 4e éléments de la prestation de compensation.
 
 Les dispositifs médicaux à caractère thérapeutique figurant dans la liste des produits et prestations remboursables (6)
-(LPPR) autres que ceux mentionnés à l'annexe 2-8 du code de l'action sociale et des familles ne sont pas des aides techniques
-prises en compte au titre de la prestation de compensation.
-
-<notes>
+(LPPR) autres que ceux mentionnés dans l'arrêté fixant les tarifs des éléments de la prestation de compensation mentionnés
+aux 2°, 3°, 4° et 5° de l'article L. 245-3 ne sont pas des aides techniques prises en compte au titre de la prestation de
+compensation.
 
 2. Préconisations
 
@@ -103527,7 +103607,8 @@ Les aides techniques inscrites dans le plan personnalisé de compensation doiven
 
 - à assurer la sécurité de la personne handicapée ;
 
-- à mettre en œuvre les moyens nécessaires pour faciliter l'intervention des aidants qui accompagnent la personne handicapée.
+- à mettre en oeuvre les moyens nécessaires pour faciliter l'intervention des aidants qui accompagnent la personne
+handicapée.
 
 L'aide attribuée doit être suffisante et appropriée aux besoins de la personne compte tenu de ses habitudes de vie et de son
 environnement ou, le cas échéant, de l'aidant lorsque l'aide est destinée à favoriser son intervention. Son usage doit être
@@ -103579,9 +103660,7 @@ Toutefois, la personne conserve la possibilité de choisir l'aide technique qu'e
 de celle-ci correspondent aux préconisations figurant dans le plan personnalisé de compensation et notamment que l'aide
 technique considérée apporte une réponse à ses besoins et ne met pas en danger sa sécurité.
 
-c) Dispositions concernant les équipements d'utilisation
-
-courante ou comportent des éléments d'utilisation courante
+c) Dispositions concernant les équipements d'utilisation courante ou comportent des éléments d'utilisation courante
 
 Les surcoûts des équipements d'utilisation courante sont pris en compte dès lors qu'ils apportent une facilité d'usage pour
 la personne handicapée. Ce surcoût s'apprécie par rapport au coût d'un équipement de base.
@@ -103592,9 +103671,7 @@ spécifique serait, à efficacité égale, moins onéreuse qu'un dispositif enti
 commission des droits et de l'autonomie des personnes handicapées peut prendre en compte l'ensemble de la combinaison, y
 compris l'élément d'utilisation courante.
 
-Chapitre 4
-
-Aménagement du logement
+Chapitre 4 : Aménagement du logement
 
 L'attribution du troisième élément de la prestation de compensation peut porter sur des charges de nature différente :
 aménagement du logement, du véhicule et surcoût résultant du transport. Ce chapitre porte exclusivement sur l'aménagement du
@@ -103604,9 +103681,6 @@ Les aménagements pris en compte sont destinés à maintenir ou améliorer l'aut
 permettre de circuler, d'utiliser les équipements indispensables à la vie courante, de se repérer et de communiquer, sans
 difficulté et en toute sécurité. Ils visent également à faciliter l'intervention des aidants qui accompagnent une personne
 handicapée à domicile pour la réalisation des actes essentiels de l'existence.
-
-La prise en charge de frais liés à l'aménagement du logement par la prestation de compensation doit se faire en
-complémentarité avec les autres aides financières pouvant être mobilisées pour des travaux d'adaptation et d'accessibilité.
 
 1. Facteurs en rapport avec le handicap de la personne
 
@@ -103619,8 +103693,6 @@ destinés à faciliter des aménagements ultérieurs. Dans le cas d'un handicap 
 du logement peuvent être anticipés dès lors qu'un médecin spécialiste ou un centre de référence lorsqu'il s'agit de cas de
 maladie rare atteste, en les précisant, que des limitations d'activité vont nécessiter, dans un délai inférieur à un an, de
 tels aménagements pour améliorer l'autonomie de la personne.
-
-<notes>
 
 2. Facteurs en rapport avec les aménagements du logement
 
@@ -103667,13 +103739,13 @@ l'accessibilité.
 
 Les frais relatifs à une extension sont pris en compte lorsque le logement ne peut être réaménagé de manière adaptée.
 
-Lorsqu'il s'agit de l'aménagement d'un logement existant, sont pris en compte le coût des équipements de second œuvre, dès
+Lorsqu'il s'agit de l'aménagement d'un logement existant, sont pris en compte le coût des équipements de second oeuvre, dès
 lors qu'ils apportent une facilité d'usage pour la personne handicapée ou celui des équipements spécifiques liés au handicap,
 ainsi que les frais liés à leur installation.
 
 Lorsqu'il s'agit d'une extension ou d'une construction neuve, sont pris en compte le coût des équipements spécifiques liés au
 handicap ou le surcoût des équipements de second oeuvre, dès lors qu'ils apportent une facilité d'usage pour la personne
-handicapée. Ce surcoût s'apprécie par rapport au coût d'un équipement de second œuvre de base.
+handicapée. Ce surcoût s'apprécie par rapport au coût d'un équipement de second oeuvre de base.
 
 L'équipe pluridisciplinaire fournit, en s'appuyant sur les compétences nécessaires, une description détaillée des adaptations
 qu'elle préconise, afin de permettre à la personne handicapée ou son représentant de faire établir des devis.
@@ -103682,13 +103754,59 @@ Lorsque la personne juge que l'adaptation du logement n'est pas techniquement ou
 choix d'un déménagement vers un logement répondant aux normes réglementaires d'accessibilité, elle peut bénéficier d'une aide
 à la prise en charge des frais de déménagement et des frais liés à l'installation des équipements nécessaires.
 
-</notes></notes></notes></notes>
+<font size="1" color="#999999">(1) Liste des activités à prendre en compte pour l'ouverture du droit à la prestation de
+compensation : (Concernant des informations complémentaires sur les activités, se reporter à la classification internationale
+du fonctionnement, du handicap et de la santé.) Domaine 1 : mobilité. Activités : se mettre debout ; faire ses transferts ;
+marcher ; se déplacer (dans le logement, à l'extérieur) ; avoir la préhension de la main dominante ; avoir la préhension de
+la main non dominante ; avoir des activités de motricité fine. Domaine 2 : entretien personnel. Activités : se laver ;
+assurer l'élimination et utiliser les toilettes ; s'habiller ; prendre ses repas. Domaine 3 : communication. Activités :
+parler ; entendre (percevoir les sons et comprendre) ; voir (distinguer et identifier) ; utiliser des appareils et techniques
+de communication. Domaine 4 : tâches et exigences générales, relations avec autrui. Activités : s'orienter dans le temps ;
+s'orienter dans l'espace ; gérer sa sécurité ; maîtriser son comportement dans ses relations avec autrui. </font>
+
+<font size="1" color="#999999">(2) Toilette : comprend les activités " se laver ", " prendre soin de son corps ". Le temps
+d'aide humaine pour la réalisation d'une toilette au lit, au lavabo, par douche ou bain, comprend le temps nécessaire pour
+l'installation dans la douche ou la baignoire (y compris les transferts entre la douche ou la baignoire et le fauteuil
+roulant). Il prend aussi en compte d'autres éléments contribuant à prendre soin de son corps, notamment l'hygiène buccale (le
+cas échéant l'entretien de prothèses dentaires), le rasage, le coiffage... Il convient, concernant la nature de l'aide, de
+tenir compte du fait qu'il peut s'agir d'une aide pour la toilette complète ou d'une aide pour la toilette pour une partie du
+corps. </font>
+
+<font size="1" color="#999999">(3) Habillage : comprend les activités " s'habiller " et " s'habiller selon les circonstances
+". " S'habiller " comprend l'habillage et le déshabillage et, le cas échéant, le temps pour installer ou retirer une
+prothèse. Il convient, concernant la nature de l'aide, de tenir compte du fait que l'aide peut porter sur la totalité de
+l'habillage ou seulement sur une partie (aide pour l'habillage du haut du corps ou au contraire du bas du corps). </font>
+
+<font size="1" color="#999999">(4) Alimentation : comprend les activités " manger " et " boire ". Le temps d'aide prend aussi
+en compte l'installation de la personne pour prendre le repas, y compris couper les aliments et/ ou les servir et assurer une
+prise régulière de boisson hors des repas. Des facteurs tels que l'existence de troubles de la déglutition, notamment s'ils
+nécessitent le recours à une alimentation spéciale, hachée ou mixée, peuvent être de nature à justifier un temps d'aide
+quotidien important. </font>
+
+<font color="#999999" size="1">(5) Elimination : comprend les activités suivantes : " assurer la continence " et " aller aux
+toilettes ". " Aller aux toilettes " comprend notamment le fait de se rendre dans un endroit approprié, de s'asseoir et de se
+relever des toilettes, le cas échéant de réaliser les transferts entre les toilettes et le fauteuil. Les actes concernant
+l'élimination qui relèvent d'actes infirmiers ne sont pas pris en compte. </font>
+
+<font color="#999999" size="1">(6) Prévue à l'article L. 165-1 du code de la sécurité sociale. </font>
+
+<font size="1" color="#999999">(7) Leur durabilité prévisible doit être d'au moins un an.</font>
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2005-1591 du 19 décembre 2005 (V)
+	  - Décret n°99-426 du 27 mai 1999 (V)
+	  - Code de la sécurité sociale. - art. L165-1 (V)
+	  - Code de l'action sociale et des familles - art. L245-3 (V)
+	  - Code de l'action sociale et des familles - art. L312-1 (V)
+	  - Code de l'action sociale et des familles - art. R245-36 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2006-669 du 7 juin 2006 - art. 1 (V)
+	  - Décret n°2006-1311 du 25 octobre 2006 - art. 2 (V)
+	  - Décret n°2008-451 du 7 mai 2008 - art. 3
 
 	**Cité par**:
 
