@@ -1,5 +1,5 @@
 # Code de l'action sociale et des familles  
-Version Consolidée au 2008-05-25
+Version Consolidée au 2008-06-01
 
 # Partie législative
 
@@ -28497,39 +28497,35 @@ modalités de désignation des membres des tribunaux interrégionaux.
 
 ###### Article L411-1
 
-Peuvent prendre le titre ou occuper un emploi d'assistant de service social les titulaires du diplôme d'Etat français
-d'assistant de service social.
+Peuvent porter le titre professionnel ou occuper un emploi d'assistant de service social les titulaires du diplôme d'Etat
+français d'assistant de service social. 
 
-Peuvent également prendre le titre ou occuper un emploi d'assistant de service social sans posséder le diplôme mentionné ci-
-dessus les ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace
-économique européen qui ont suivi avec succès une formation théorique et pratique post-secondaire d'une durée minimale de
-trois ans, ou d'une durée équivalente à temps partiel, dans une université ou un établissement du même niveau de formation
-d'un Etat membre ou autre Etat partie et qui justifient :
+Peuvent également être autorisés à porter le titre ou occuper un emploi d'assistant de service social les ressortissants d'un
+Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen qui ne
+possèdent pas le diplôme mentionné au premier alinéa mais qui, après avoir suivi avec succès un cycle d'études
+postsecondaires, sont titulaires : 
 
-1° D'un diplôme, certificat ou autre titre permettant l'exercice de la profession dans l'Etat membre ou autre Etat partie
-d'origine ou de provenance, délivré :
+1° D'un titre de formation délivré par l'autorité compétente d'un Etat, membre ou partie, et qui est requis pour accéder à la
+profession d'assistant de service social ou pour l'exercer dans cet Etat ; 
 
-a) Soit par l'autorité compétente de cet Etat et sanctionnant une formation acquise de façon prépondérante dans la Communauté
-européenne ou l'Espace économique européen ;
+2° Ou d'un titre de formation délivré par l'autorité compétente d'un Etat, membre ou partie, qui ne réglemente pas l'accès à
+la profession d'assistant de service social ou son exercice et attestant de la préparation du titulaire à l'exercice de cette
+profession, si l'intéressé justifie avoir exercé pendant deux ans à temps plein au cours des dix dernières années dans un
+Etat, membre ou partie ; 
 
-b) Soit par un pays tiers, à condition que soit fournie une attestation émanant de l'autorité compétente de l'Etat membre ou
-autre Etat partie qui a reconnu le diplôme, certificat ou autre titre, certifiant que son titulaire a une expérience
-professionnelle dans cet Etat de trois ans au moins ;
+3° Ou d'un titre de formation délivré par un Etat tiers, accompagné d'une attestation de l'autorité compétente de l'Etat
+membre ou partie qui a reconnu ce titre certifiant que l'intéressé a exercé légalement la profession d'assistant de service
+social dans cet Etat pendant au moins trois ans à temps plein ; 
 
-2° Ou de l'exercice à plein temps de la profession d'assistant de service social pendant deux ans au moins au cours des dix
-années précédentes dans un Etat membre ou autre Etat partie d'origine ou de provenance qui ne réglemente pas l'accès ou
-l'exercice de cette profession à condition que cet exercice soit attesté par l'autorité compétente de cet Etat membre ou
-autre Etat partie. Toutefois, cette condition d'une expérience professionnelle de deux ans n'est pas exigée lorsque le ou les
-titres de formation détenus par les demandeurs sanctionnent une formation réglementée directement orientée vers l'exercice de
-la profession d'assistant de service social.
+L'intéressé doit faire la preuve qu'il possède les connaissances linguistiques nécessaires à l'exercice de la profession. 
 
-Lorsque la formation des intéressés porte sur des matières substantiellement différentes de celles qui figurent au programme
-du diplôme d'Etat français ou lorsqu'une ou plusieurs des activités professionnelles dont l'exercice est subordonné à la
-possession dudit diplôme ne sont pas réglementées dans l'Etat membre ou autre Etat partie d'origine ou de provenance, ou sont
-réglementées d'une manière différente, sauf si les connaissances qu'ils ont acquises au cours de leur expérience
-professionnelle sont de nature à rendre cette vérification inutile, le ministre chargé de l'action sociale peut exiger que
-les intéressés choisissent soit de se soumettre à une épreuve d'aptitude, soit d'accomplir un stage d'adaptation dont la
-durée ne peut excéder trois ans.
+Dans le cas où l'examen des qualifications professionnelles attestées par le titre de formation et l'expérience
+professionnelle fait apparaître des différences substantielles au regard de celles requises pour l'accès et l'exercice de la
+profession en France, l'autorité compétente exige que l'intéressé se soumette à une mesure de compensation qui consiste, au
+choix de ce dernier, en une épreuve d'aptitude ou en un stage d'adaptation. 
+
+La délivrance de l'attestation de capacité à exercer permet au bénéficiaire d'exercer la profession dans les mêmes conditions
+que les titulaires du diplôme mentionné au premier alinéa.
 
 **Liens relatifs à cet article**
 
@@ -28568,19 +28564,53 @@ durée ne peut excéder trois ans.
 	  - Code du travail - art. R341-19 (VT)
 	  - Code du travail - art. R5223-1 (V)
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-1249 2000-12-21
-	  - Loi n°2002-2 2002-01-02 art. 87 JORF 3 janvier 2002
-
 	**Modifié par**:
 
-	  - Ordonnance n°2004-1174 du 4 novembre 2004 - art. 10 () JORF 5 novembre 2004
+	  - Ordonnance n°2008-507 du 30 mai 2008 - art. 4
 
 	**Anciens textes**:
 
-	  - Code de la famille et de l'aide sociale. - art. 218 (M)
 	  - Code de la famille et de l'aide sociale. - art. 218 (Ab)
+
+
+###### Article L411-1-1
+
+L'assistant de service social, ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à
+l'accord sur l'Espace économique européen qui est établi et exerce légalement les activités d'assistant de service social
+dans l'un de ces Etats, peut les exercer en France, de manière temporaire et occasionnelle, sans avoir à procéder aux
+formalités prévues à l'article L. 411-2. 
+
+Lorsque l'exercice ou la formation conduisant à la profession n'est pas réglementé dans l'Etat où il est établi, le
+prestataire de services doit justifier y avoir exercé pendant deux ans au moins au cours des dix années précédentes. 
+
+Le prestataire de services est soumis aux règles relatives aux conditions d'exercice de la profession et à l'usage du titre
+professionnel ainsi qu'aux principes éthiques et déontologiques de la profession.
+
+L'exercice temporaire et occasionnel de la profession est subordonné lors de la première prestation à une déclaration écrite
+préalable, auprès de l'autorité compétente, établie en français. 
+
+La prestation de services est réalisée sous le titre professionnel de l'Etat d'établissement rédigé dans l'une des langues
+officielles de cet Etat. 
+
+Le prestataire de services peut faire usage de son titre de formation dans la langue de l'Etat qui le lui a délivré. Il est
+tenu de faire figurer le lieu et l'établissement où il l'a obtenu.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-507 du 30 mai 2008 - art. 4
+
+	**Cité par**:
+
+	  - Arrêté du 31 mars 2009 - art. 8 (V)
+	  - Décret n°2017-1051 du 10 mai 2017 - art. 14 (VD)
+	  - Décret n°2017-1051 du 10 mai 2017 - art. 8 (VD)
+	  - Code de l'action sociale et des familles - art. R411-7 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L411-2
 
 
 ###### Article L411-2
