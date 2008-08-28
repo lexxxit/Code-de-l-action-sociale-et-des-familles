@@ -1,13 +1,13 @@
 # Article Annexe 4-1
 
-BARÈME DES BOURSES D'ÉTUDES PRÉVU À L'ARTICLE D. 451-7
+BARÈME DES BOURSES D'ÉTUDES PRÉVU À L'ARTICLE D. 451-7 
 
-I.-Taux minimaux 
+I. - Taux minimaux
 
 <table>
   <thead>
     <tr>
-      <td rowspan="2" width="227">
+      <td width="227" rowspan="2">
 
 ÉCHELONS DES BOURSES 
 
@@ -30,7 +30,7 @@ TAUX MINIMAUX ANNUELS
     <tr>
       <td valign="top">
 
-1 er échelon 
+1er échelon 
 
 </td>
       <td valign="top">
@@ -42,7 +42,7 @@ TAUX MINIMAUX ANNUELS
     <tr>
       <td valign="top">
 
-2 e échelon 
+2e échelon 
 
 </td>
       <td valign="top">
@@ -54,7 +54,7 @@ TAUX MINIMAUX ANNUELS
     <tr>
       <td valign="top">
 
-3 e échelon 
+3e échelon 
 
 </td>
       <td valign="top">
@@ -66,7 +66,7 @@ TAUX MINIMAUX ANNUELS
     <tr>
       <td valign="top">
 
-4 e échelon 
+4e échelon 
 
 </td>
       <td valign="top">
@@ -78,7 +78,7 @@ TAUX MINIMAUX ANNUELS
     <tr>
       <td valign="top">
 
-5 e échelon 
+5e échelon 
 
 </td>
       <td valign="top">
@@ -90,7 +90,7 @@ TAUX MINIMAUX ANNUELS
   </tbody>
 </table>
 
-II.-Plafonds minimaux de ressources 
+II. - Plafonds minimaux de ressources
 
 <table>
   <thead>
@@ -100,43 +100,45 @@ II.-Plafonds minimaux de ressources
 POINTS DE CHARGE 
 
 </td>
-      <td colspan="5" width="260">
+      <td width="260" colspan="5">
 
-MONTANTS MINIMAUX DES PLAFONDS DE RESSOURCES ANNUELLES (EN EUROS) 
+MONTANTS MINIMAUX DES PLAFONDS DE RESSOURCES ANNUELLES
+
+(EN EUROS) 
 
 </td>
     </tr>
     <tr>
       <td width="52">
 
-1 er échelon 
+1er échelon 
 
 </td>
       <td width="52">
 
-2 e échelon 
+2e échelon 
 
 </td>
       <td width="52">
 
-3 e échelon 
+3e échelon 
 
 </td>
       <td width="52">
 
-4 e échelon 
+4e échelon 
 
 </td>
       <td width="52">
 
-5 e échelon 
+5e échelon 
 
 </td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td valign="top">
+      <td align="center" valign="top">
 
 0 
 
@@ -168,7 +170,7 @@ MONTANTS MINIMAUX DES PLAFONDS DE RESSOURCES ANNUELLES (EN EUROS)
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td valign="top" align="center">
 
 1 
 
@@ -200,7 +202,7 @@ MONTANTS MINIMAUX DES PLAFONDS DE RESSOURCES ANNUELLES (EN EUROS)
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td align="center" valign="top">
 
 2 
 
@@ -232,7 +234,7 @@ MONTANTS MINIMAUX DES PLAFONDS DE RESSOURCES ANNUELLES (EN EUROS)
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td valign="top" align="center">
 
 3 
 
@@ -264,7 +266,7 @@ MONTANTS MINIMAUX DES PLAFONDS DE RESSOURCES ANNUELLES (EN EUROS)
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td valign="top" align="center">
 
 4 
 
@@ -296,7 +298,7 @@ MONTANTS MINIMAUX DES PLAFONDS DE RESSOURCES ANNUELLES (EN EUROS)
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td align="center" valign="top">
 
 5 
 
@@ -328,7 +330,7 @@ MONTANTS MINIMAUX DES PLAFONDS DE RESSOURCES ANNUELLES (EN EUROS)
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td valign="top" align="center">
 
 6 
 
@@ -360,7 +362,7 @@ MONTANTS MINIMAUX DES PLAFONDS DE RESSOURCES ANNUELLES (EN EUROS)
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td align="center" valign="top">
 
 7 
 
@@ -392,7 +394,7 @@ MONTANTS MINIMAUX DES PLAFONDS DE RESSOURCES ANNUELLES (EN EUROS)
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td align="center" valign="top">
 
 8 
 
@@ -424,7 +426,7 @@ MONTANTS MINIMAUX DES PLAFONDS DE RESSOURCES ANNUELLES (EN EUROS)
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td align="center" valign="top">
 
 9 
 
@@ -456,7 +458,7 @@ MONTANTS MINIMAUX DES PLAFONDS DE RESSOURCES ANNUELLES (EN EUROS)
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td valign="top" align="center">
 
 10 
 
@@ -488,7 +490,7 @@ MONTANTS MINIMAUX DES PLAFONDS DE RESSOURCES ANNUELLES (EN EUROS)
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td align="center" valign="top">
 
 11 
 
@@ -520,7 +522,7 @@ MONTANTS MINIMAUX DES PLAFONDS DE RESSOURCES ANNUELLES (EN EUROS)
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td valign="top" align="center">
 
 12 
 
@@ -552,7 +554,7 @@ MONTANTS MINIMAUX DES PLAFONDS DE RESSOURCES ANNUELLES (EN EUROS)
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td align="center" valign="top">
 
 13 
 
@@ -584,7 +586,7 @@ MONTANTS MINIMAUX DES PLAFONDS DE RESSOURCES ANNUELLES (EN EUROS)
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td align="center" valign="top">
 
 14 
 
@@ -616,7 +618,7 @@ MONTANTS MINIMAUX DES PLAFONDS DE RESSOURCES ANNUELLES (EN EUROS)
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td valign="top" align="center">
 
 15 
 
@@ -648,7 +650,7 @@ MONTANTS MINIMAUX DES PLAFONDS DE RESSOURCES ANNUELLES (EN EUROS)
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td align="center" valign="top">
 
 16 
 
@@ -680,7 +682,7 @@ MONTANTS MINIMAUX DES PLAFONDS DE RESSOURCES ANNUELLES (EN EUROS)
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td valign="top" align="center">
 
 17 
 
@@ -714,7 +716,7 @@ MONTANTS MINIMAUX DES PLAFONDS DE RESSOURCES ANNUELLES (EN EUROS)
   </tbody>
 </table>
 
-III.-Points de charges minimaux 
+III. - Points de charges minimaux 
 
 <table>
   <thead>
@@ -862,18 +864,35 @@ Le père ou la mère élève seul (e) son ou ses enfants
 </td>
       <td valign="top">
 
-1
+1 
 
 </td>
     </tr>
   </tbody>
 </table>
 
+IV. - Conditions d'indépendance de logement et de revenu 
+
+Les conditions d'indépendance de logement et de revenu mentionnées à l'article D. 451-7 sont :
+
+- justifier d'une déclaration fiscale différente de celle de ses parents ;
+
+- disposer d'un revenu personnel correspondant au minimum à 50 % du SMIC brut annuel, ou d'un revenu par couple au moins égal
+à 90 % du SMIC brut annuel si l'étudiant est marié ou a conclu un pacte civil de solidarité défini à l'article 515-1 du code
+civil, et ceci hors pensions alimentaires versées par les parents ;
+
+- apporter la preuve d'un domicile distinct de celui de ses parents, attesté au moins par un justificatif de domicile à son
+nom.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-426 du 4 mai 2005 - art. 4 (V)
+	  - Décret n°2008-854 du 27 août 2008 - art. 2
+
+	**Cite**:
+
+	  - Code civil - art. 515-1 (V)
 
 	**Cité par**:
 
