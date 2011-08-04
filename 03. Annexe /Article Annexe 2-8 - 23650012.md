@@ -4,1161 +4,829 @@ LISTE DES INFORMATIONS ANONYMISÉES
 
 I. - Informations préalables 
 
-I. 1. NUMDEP : numéro du département 
+I.-1. NUMDEP : numéro du département 
 
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
-    </tr>
-    <tr>
       <td align="center">
 
-1 
+CODE
 
 </td>
       <td align="center">
 
-AIN 
+LIBELLÉ
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-2 
-
-</td>
+1</td>
       <td align="center">
-
-AISNE 
 
-</td>
+AIN</td>
     </tr>
     <tr>
       <td align="center">
 
-3 
-
-</td>
+2</td>
       <td align="center">
 
-ALLIER 
-
-</td>
+AISNE</td>
     </tr>
     <tr>
       <td align="center">
-
-4 
 
-</td>
+3</td>
       <td align="center">
 
-ALPES-DE-HAUTE-PROVENCE 
-
-</td>
+ALLIER</td>
     </tr>
     <tr>
       <td align="center">
 
-5 
-
-</td>
+4</td>
       <td align="center">
-
-HAUTES-ALPES 
 
-</td>
+ALPES-DE-HAUTE-PROVENCE</td>
     </tr>
     <tr>
       <td align="center">
 
-6 
-
-</td>
+5</td>
       <td align="center">
 
-ALPES-MARITIMES 
-
-</td>
+HAUTES-ALPES</td>
     </tr>
     <tr>
       <td align="center">
-
-7 
 
-</td>
+6</td>
       <td align="center">
 
-ARDÈCHE 
-
-</td>
+ALPES-MARITIMES</td>
     </tr>
     <tr>
       <td align="center">
 
-8 
-
-</td>
+7</td>
       <td align="center">
-
-ARDENNES 
 
-</td>
+ARDÈCHE</td>
     </tr>
     <tr>
       <td align="center">
 
-9 
-
-</td>
+8</td>
       <td align="center">
 
-ARIÈGE 
-
-</td>
+ARDENNES</td>
     </tr>
     <tr>
       <td align="center">
-
-10 
 
-</td>
+9</td>
       <td align="center">
 
-AUBE 
-
-</td>
+ARIÈGE</td>
     </tr>
     <tr>
       <td align="center">
 
-11 
-
-</td>
+10</td>
       <td align="center">
-
-AUDE 
 
-</td>
+AUBE</td>
     </tr>
     <tr>
       <td align="center">
-
-12 
 
-</td>
+11</td>
       <td align="center">
-
-AVEYRON 
 
-</td>
+AUDE</td>
     </tr>
     <tr>
       <td align="center">
 
-13 
-
-</td>
+12</td>
       <td align="center">
 
-BOUCHES-DU-RHÔNE 
-
-</td>
+AVEYRON</td>
     </tr>
     <tr>
       <td align="center">
-
-14 
 
-</td>
+13</td>
       <td align="center">
 
-CALVADOS 
-
-</td>
+BOUCHES-DU-RHÔNE</td>
     </tr>
     <tr>
       <td align="center">
 
-15 
-
-</td>
+14</td>
       <td align="center">
-
-CANTAL 
 
-</td>
+CALVADOS</td>
     </tr>
     <tr>
       <td align="center">
 
-16 
-
-</td>
+15</td>
       <td align="center">
 
-CHARENTE 
-
-</td>
+CANTAL</td>
     </tr>
     <tr>
       <td align="center">
-
-17 
 
-</td>
+16</td>
       <td align="center">
 
-CHARENTE-MARITIME 
-
-</td>
+CHARENTE</td>
     </tr>
     <tr>
       <td align="center">
 
-18 
-
-</td>
+17</td>
       <td align="center">
 
-CHER 
-
-</td>
+CHARENTE-MARITIME</td>
     </tr>
     <tr>
       <td align="center">
 
-19 
-
-</td>
+18</td>
       <td align="center">
-
-CORRÈZE 
 
-</td>
+CHER</td>
     </tr>
     <tr>
       <td align="center">
 
-2A 
-
-</td>
+19</td>
       <td align="center">
 
-CORSE-DU-SUD 
-
-</td>
+CORRÈZE</td>
     </tr>
     <tr>
       <td align="center">
-
-2B 
 
-</td>
+2A</td>
       <td align="center">
 
-HAUTE-CORSE 
-
-</td>
+CORSE-DU-SUD</td>
     </tr>
     <tr>
       <td align="center">
 
-21 
-
-</td>
+2B</td>
       <td align="center">
-
-CÔTE-D'OR 
 
-</td>
+HAUTE-CORSE</td>
     </tr>
     <tr>
       <td align="center">
 
-22 
-
-</td>
+21</td>
       <td align="center">
 
-CÔTES-D'ARMOR 
-
-</td>
+CÔTE-D'OR</td>
     </tr>
     <tr>
       <td align="center">
-
-23 
 
-</td>
+22</td>
       <td align="center">
-
-CREUSE 
 
-</td>
+CÔTES-D'ARMOR</td>
     </tr>
     <tr>
       <td align="center">
-
-24 
 
-</td>
+23</td>
       <td align="center">
 
-DORDOGNE 
-
-</td>
+CREUSE</td>
     </tr>
     <tr>
       <td align="center">
 
-25 
-
-</td>
+24</td>
       <td align="center">
-
-DOUBS 
 
-</td>
+DORDOGNE</td>
     </tr>
     <tr>
       <td align="center">
 
-26 
-
-</td>
+25</td>
       <td align="center">
 
-DRÔME 
-
-</td>
+DOUBS</td>
     </tr>
     <tr>
       <td align="center">
-
-27 
 
-</td>
+26</td>
       <td align="center">
 
-EURE 
-
-</td>
+DRÔME</td>
     </tr>
     <tr>
       <td align="center">
 
-28 
-
-</td>
+27</td>
       <td align="center">
-
-EURE-ET-LOIRE 
 
-</td>
+EURE</td>
     </tr>
     <tr>
       <td align="center">
 
-29 
-
-</td>
+28</td>
       <td align="center">
 
-FINISTÈRE 
-
-</td>
+EURE-ET-LOIRE</td>
     </tr>
     <tr>
       <td align="center">
-
-30 
 
-</td>
+29</td>
       <td align="center">
 
-GARD 
-
-</td>
+FINISTÈRE</td>
     </tr>
     <tr>
       <td align="center">
 
-31 
-
-</td>
+30</td>
       <td align="center">
-
-HAUTE-GARONNE 
 
-</td>
+GARD</td>
     </tr>
     <tr>
       <td align="center">
 
-32 
-
-</td>
+31</td>
       <td align="center">
 
-GERS 
-
-</td>
+HAUTE-GARONNE</td>
     </tr>
     <tr>
       <td align="center">
-
-33 
 
-</td>
+32</td>
       <td align="center">
 
-GIRONDE 
-
-</td>
+GERS</td>
     </tr>
     <tr>
       <td align="center">
 
-34 
-
-</td>
+33</td>
       <td align="center">
-
-HÉRAULT 
 
-</td>
+GIRONDE</td>
     </tr>
     <tr>
       <td align="center">
 
-35 
-
-</td>
+34</td>
       <td align="center">
 
-ILLE-ET-VILAINE 
-
-</td>
+HÉRAULT</td>
     </tr>
     <tr>
       <td align="center">
 
-36 
-
-</td>
+35</td>
       <td align="center">
 
-INDRE 
-
-</td>
+ILLE-ET-VILAINE</td>
     </tr>
     <tr>
       <td align="center">
-
-37 
 
-</td>
+36</td>
       <td align="center">
 
-INDRE-ET-LOIRE 
-
-</td>
+INDRE</td>
     </tr>
     <tr>
       <td align="center">
 
-38 
-
-</td>
+37</td>
       <td align="center">
-
-ISÈRE 
 
-</td>
+INDRE-ET-LOIRE</td>
     </tr>
     <tr>
       <td align="center">
 
-39 
-
-</td>
+38</td>
       <td align="center">
 
-JURA 
-
-</td>
+ISÈRE</td>
     </tr>
     <tr>
       <td align="center">
-
-40 
 
-</td>
+39</td>
       <td align="center">
 
-LANDES 
-
-</td>
+JURA</td>
     </tr>
     <tr>
       <td align="center">
 
-41 
-
-</td>
+40</td>
       <td align="center">
-
-LOIR-ET-CHER 
 
-</td>
+LANDES</td>
     </tr>
     <tr>
       <td align="center">
-
-42 
 
-</td>
+41</td>
       <td align="center">
-
-LOIRE 
 
-</td>
+LOIR-ET-CHER</td>
     </tr>
     <tr>
       <td align="center">
 
-43 
-
-</td>
+42</td>
       <td align="center">
 
-HAUTE-LOIRE 
-
-</td>
+LOIRE</td>
     </tr>
     <tr>
       <td align="center">
-
-50 
 
-</td>
+43</td>
       <td align="center">
 
-MANCHE 
-
-</td>
+HAUTE-LOIRE</td>
     </tr>
     <tr>
       <td align="center">
 
-51 
-
-</td>
+44</td>
       <td align="center">
-
-MARNE 
 
-</td>
+LOIRE-ATLANTIQUE</td>
     </tr>
     <tr>
       <td align="center">
 
-52 
-
-</td>
+45 </td>
       <td align="center">
 
-HAUTE-MARNE 
-
-</td>
+LOIRET</td>
     </tr>
     <tr>
       <td align="center">
-
-53 
 
-</td>
+46</td>
       <td align="center">
 
-MAYENNE 
-
-</td>
+LOT</td>
     </tr>
     <tr>
       <td align="center">
 
-54 
-
-</td>
+47</td>
       <td align="center">
 
-MEURTHE-ET-MOSELLE 
-
-</td>
+LOT-ET-GARONNE</td>
     </tr>
     <tr>
       <td align="center">
 
-55 
-
-</td>
+48</td>
       <td align="center">
-
-MEUSE 
 
-</td>
+LOZÈRE</td>
     </tr>
     <tr>
       <td align="center">
 
-56 
-
-</td>
+49</td>
       <td align="center">
 
-MORBIHAN 
-
-</td>
+MAINE-ET-LOIRE</td>
     </tr>
     <tr>
       <td align="center">
-
-57 
 
-</td>
+50</td>
       <td align="center">
 
-MOSELLE 
-
-</td>
+MANCHE</td>
     </tr>
     <tr>
       <td align="center">
 
-58 
-
-</td>
+51</td>
       <td align="center">
-
-NIÈVRE 
 
-</td>
+MARNE</td>
     </tr>
     <tr>
       <td align="center">
 
-59 
-
-</td>
+52</td>
       <td align="center">
 
-NORD 
-
-</td>
+HAUTE-MARNE</td>
     </tr>
     <tr>
       <td align="center">
-
-60 
 
-</td>
+53</td>
       <td align="center">
 
-OISE 
-
-</td>
+MAYENNE</td>
     </tr>
     <tr>
       <td align="center">
 
-61 
-
-</td>
+54</td>
       <td align="center">
-
-ORNE 
 
-</td>
+MEURTHE-ET-MOSELLE</td>
     </tr>
     <tr>
       <td align="center">
 
-62 
-
-</td>
+55</td>
       <td align="center">
 
-PAS-DE-CALAIS 
-
-</td>
+MEUSE</td>
     </tr>
     <tr>
       <td align="center">
-
-63 
 
-</td>
+56</td>
       <td align="center">
 
-PUY-DE-DÔME 
-
-</td>
+MORBIHAN</td>
     </tr>
     <tr>
       <td align="center">
 
-64 
-
-</td>
+57</td>
       <td align="center">
-
-PYRÉNÉES-ATLANTIQUES 
 
-</td>
+MOSELLE</td>
     </tr>
     <tr>
       <td align="center">
 
-65 
-
-</td>
+58</td>
       <td align="center">
 
-HAUTES-PYRÉNÉES 
-
-</td>
+NIÈVRE</td>
     </tr>
     <tr>
       <td align="center">
-
-66 
 
-</td>
+59</td>
       <td align="center">
-
-PYRÉNÉES-ORIENTALES 
 
-</td>
+NORD</td>
     </tr>
     <tr>
       <td align="center">
-
-67 
 
-</td>
+60</td>
       <td align="center">
 
-BAS-RHIN 
-
-</td>
+OISE</td>
     </tr>
     <tr>
       <td align="center">
 
-68 
-
-</td>
+61</td>
       <td align="center">
-
-HAUT-RHIN 
 
-</td>
+ORNE</td>
     </tr>
     <tr>
       <td align="center">
 
-69 
-
-</td>
+62</td>
       <td align="center">
 
-RHÔNE 
-
-</td>
+PAS-DE-CALAIS</td>
     </tr>
     <tr>
       <td align="center">
-
-70 
 
-</td>
+63</td>
       <td align="center">
 
-HAUTE-SAÔNE 
-
-</td>
+PUY-DE-DÔME</td>
     </tr>
     <tr>
       <td align="center">
 
-71 
-
-</td>
+64</td>
       <td align="center">
-
-SAÔNE-ET-LOIRE 
 
-</td>
+PYRÉNÉES-ATLANTIQUES</td>
     </tr>
     <tr>
       <td align="center">
 
-72 
-
-</td>
+65</td>
       <td align="center">
 
-SARTHE 
-
-</td>
+HAUTES-PYRÉNÉES</td>
     </tr>
     <tr>
       <td align="center">
 
-73 
-
-</td>
+66</td>
       <td align="center">
 
-SAVOIE 
-
-</td>
+PYRÉNÉES-ORIENTALES</td>
     </tr>
     <tr>
       <td align="center">
-
-74 
 
-</td>
+67</td>
       <td align="center">
 
-HAUTE-SAVOIE 
-
-</td>
+BAS-RHIN</td>
     </tr>
     <tr>
       <td align="center">
 
-75 
-
-</td>
+68</td>
       <td align="center">
-
-PARIS 
 
-</td>
+HAUT-RHIN</td>
     </tr>
     <tr>
       <td align="center">
 
-76 
-
-</td>
+69</td>
       <td align="center">
 
-SEINE-MARITIME 
-
-</td>
+RHÔNE</td>
     </tr>
     <tr>
       <td align="center">
-
-77 
 
-</td>
+70</td>
       <td align="center">
 
-SEINE-ET-MARNE 
-
-</td>
+HAUTE-SAÔNE</td>
     </tr>
     <tr>
       <td align="center">
 
-78 
-
-</td>
+71</td>
       <td align="center">
-
-YVELINES 
 
-</td>
+SAÔNE-ET-LOIRE</td>
     </tr>
     <tr>
       <td align="center">
-
-79 
 
-</td>
+72</td>
       <td align="center">
-
-DEUX-SÈVRES 
 
-</td>
+SARTHE</td>
     </tr>
     <tr>
       <td align="center">
 
-80 
-
-</td>
+73</td>
       <td align="center">
 
-SOMME 
-
-</td>
+SAVOIE</td>
     </tr>
     <tr>
       <td align="center">
-
-81 
 
-</td>
+74</td>
       <td align="center">
 
-TARN 
-
-</td>
+HAUTE-SAVOIE</td>
     </tr>
     <tr>
       <td align="center">
 
-82 
-
-</td>
+75</td>
       <td align="center">
-
-TARN-ET-GARONNE 
 
-</td>
+PARIS</td>
     </tr>
     <tr>
       <td align="center">
 
-83 
-
-</td>
+76</td>
       <td align="center">
 
-VAR 
-
-</td>
+SEINE-MARITIME</td>
     </tr>
     <tr>
       <td align="center">
-
-84 
 
-</td>
+77</td>
       <td align="center">
 
-VAUCLUSE 
-
-</td>
+SEINE-ET-MARNE</td>
     </tr>
     <tr>
       <td align="center">
 
-85 
-
-</td>
+78</td>
       <td align="center">
-
-VENDÉE 
 
-</td>
+YVELINES</td>
     </tr>
     <tr>
       <td align="center">
 
-86 
-
-</td>
+79</td>
       <td align="center">
 
-VIENNE 
-
-</td>
+DEUX-SÈVRES</td>
     </tr>
     <tr>
       <td align="center">
-
-87 
 
-</td>
+80</td>
       <td align="center">
 
-HAUTE-VIENNE 
-
-</td>
+SOMME</td>
     </tr>
     <tr>
       <td align="center">
 
-88 
-
-</td>
+81</td>
       <td align="center">
-
-VOSGES 
 
-</td>
+TARN</td>
     </tr>
     <tr>
       <td align="center">
 
-89 
-
-</td>
+82</td>
       <td align="center">
 
-YONNE 
-
-</td>
+TARN-ET-GARONNE</td>
     </tr>
     <tr>
       <td align="center">
-
-90 
 
-</td>
+83</td>
       <td align="center">
 
-TERRITOIRE-DE-BELFORT 
-
-</td>
+VAR</td>
     </tr>
     <tr>
       <td align="center">
 
-91 
-
-</td>
+84</td>
       <td align="center">
 
-ESSONNE 
-
-</td>
+VAUCLUSE</td>
     </tr>
     <tr>
       <td align="center">
 
-92 
-
-</td>
+85</td>
       <td align="center">
-
-HAUTS-DE-SEINE 
 
-</td>
+VENDÉE</td>
     </tr>
     <tr>
       <td align="center">
 
-93 
-
-</td>
+86</td>
       <td align="center">
 
-SEINE-SAINT-DENIS 
-
-</td>
+VIENNE</td>
     </tr>
     <tr>
       <td align="center">
 
-94 
+87</td>
+      <td align="center">
 
-</td>
+HAUTE-VIENNE</td>
+    </tr>
+    <tr>
       <td align="center">
 
-VAL-DE-MARNE 
+88</td>
+      <td align="center">
 
-</td>
+VOSGES</td>
     </tr>
     <tr>
       <td align="center">
 
-95 
+89</td>
+      <td align="center">
 
-</td>
+YONNE</td>
+    </tr>
+    <tr>
       <td align="center">
 
-VAL-D'OISE 
+90</td>
+      <td align="center">
 
-</td>
+TERRITOIRE DE BELFORT</td>
     </tr>
     <tr>
       <td align="center">
 
-971 
+91</td>
+      <td align="center">
 
-</td>
+ESSONNE</td>
+    </tr>
+    <tr>
       <td align="center">
 
-GUADELOUPE 
+92</td>
+      <td align="center">
 
-</td>
+HAUTS-DE-SEINE</td>
     </tr>
     <tr>
       <td align="center">
 
-972 
+93</td>
+      <td align="center">
 
-</td>
+SEINE-SAINT-DENIS</td>
+    </tr>
+    <tr>
       <td align="center">
 
-MARTINIQUE 
+94</td>
+      <td align="center">
 
-</td>
+VAL-DE-MARNE</td>
     </tr>
     <tr>
       <td align="center">
 
-973 
+95</td>
+      <td align="center">
 
-</td>
+VAL-D'OISE</td>
+    </tr>
+    <tr>
       <td align="center">
 
-GUYANE 
+971</td>
+      <td align="center">
 
-</td>
+GUADELOUPE</td>
     </tr>
     <tr>
       <td align="center">
 
-974 
+972</td>
+      <td align="center">
 
-</td>
+MARTINIQUE</td>
+    </tr>
+    <tr>
       <td align="center">
 
-LA RÉUNION 
+973</td>
+      <td align="center">
 
-</td>
+GUYANE</td>
     </tr>
     <tr>
       <td align="center">
 
-976 
+974</td>
+      <td align="center">
 
-</td>
+LA RÉUNION</td>
+    </tr>
+    <tr>
       <td align="center">
 
-MAYOTTE 
+976</td>
+      <td align="center">
 
-</td>
+MAYOTTE</td>
     </tr>
   </tbody>
 </table>
@@ -1170,16 +838,12 @@ I. 3. - CODEV : codification du type d'événement
 <table>
   <tbody>
     <tr>
-      <th>
+      <td align="center">
 
 CODE 
 
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+</td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -1255,16 +919,12 @@ II. 1. - SEXE : sexe du mineur
 <table>
   <tbody>
     <tr>
-      <th>
+      <td align="center">
 
 CODE 
 
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+</td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -1310,16 +970,8 @@ II. 2. - MNAIS et ANAIS : mois et année de naissance du mineur
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -1353,16 +1005,12 @@ II. 3. - MODACC : mode d'accueil pour les mineurs de moins de 6 ans
 <table>
   <tbody>
     <tr>
-      <th>
+      <td align="center">
 
 CODE 
 
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+</td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -1458,23 +1106,15 @@ II. 4a. SCODTCOM : le mineur est scolarisé en droit commun
 <table>
   <tbody>
     <tr>
-      <th colspan="2">
+      <td colspan="2">
 
 SCOLARISÉ EN DROIT COMMUN 
 
-</th>
+</td>
     </tr>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -1484,7 +1124,7 @@ LIBELLÉ
 </td>
       <td align="center">
 
-Oui 
+Non 
 
 </td>
     </tr>
@@ -1496,7 +1136,7 @@ Oui
 </td>
       <td align="center">
 
-Non 
+Oui 
 
 </td>
     </tr>
@@ -1521,25 +1161,19 @@ nationale
 <table>
   <tbody>
     <tr>
-      <th colspan="2">
+      <td colspan="2">
 
-NIVEAU SCOLAIRE 
+NIVEAU SCOLAIRE (nomenclature de l'éducation nationale) 
 
-(nomenclature de l'éducation nationale) 
-
-</th>
+</td>
     </tr>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
+      <td align="center">CODE </td>
+      <td align="center">
 
 LIBELLÉ 
 
-</th>
+</td>
     </tr>
     <tr>
       <td align="center">
@@ -1969,23 +1603,23 @@ II. 4. c. - SCOCLASPE : le mineur est scolarisé en classe spécialisée
 <table>
   <tbody>
     <tr>
-      <th colspan="2">
+      <td colspan="2">
 
 SCOLARISÉ EN CLASSE SPÉCIALISÉE 
 
-</th>
+</td>
     </tr>
     <tr>
-      <th>
+      <td align="center">
 
 CODE 
 
-</th>
-      <th>
+</td>
+      <td align="center">
 
 LIBELLÉ 
 
-</th>
+</td>
     </tr>
     <tr>
       <td align="center">
@@ -1995,7 +1629,7 @@ LIBELLÉ
 </td>
       <td align="center">
 
-Oui 
+Non 
 
 </td>
     </tr>
@@ -2007,7 +1641,7 @@ Oui
 </td>
       <td align="center">
 
-Non 
+Oui 
 
 </td>
     </tr>
@@ -2031,16 +1665,16 @@ II. 4. d. - TYPCLASSPE : si le mineur est scolarisé en classe spécialisée, pr
 <table>
   <tbody>
     <tr>
-      <th>
+      <td align="center">
 
 CODE 
 
-</th>
-      <th>
+</td>
+      <td align="center">
 
 LIBELLÉ 
 
-</th>
+</td>
     </tr>
     <tr>
       <td align="center">
@@ -2134,23 +1768,11 @@ II. 4. e. - ETABSCOSPE : le mineur est scolarisé en établissement spécialisé
 <table>
   <tbody>
     <tr>
-      <th colspan="2">
-
-SCOLARISÉ EN ÉTABLISSEMENT SPÉCIALISÉ 
-
-</th>
+      <td colspan="2">SCOLARISÉ EN ÉTABLISSEMENT SPÉCIALISÉ </td>
     </tr>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -2160,7 +1782,7 @@ LIBELLÉ
 </td>
       <td align="center">
 
-Oui 
+Non 
 
 </td>
     </tr>
@@ -2172,7 +1794,7 @@ Oui
 </td>
       <td align="center">
 
-Non 
+Oui 
 
 </td>
     </tr>
@@ -2196,23 +1818,23 @@ II. 4. f. - TYPETABSPE : si le mineur est scolarisé en établissement spéciali
 <table>
   <tbody>
     <tr>
-      <th colspan="2">
+      <td colspan="2">
 
 TYPE D'ÉTABLISSEMENT SPÉCIALISÉ 
 
-</th>
+</td>
     </tr>
     <tr>
-      <th>
+      <td align="center">
 
 CODE 
 
-</th>
-      <th>
+</td>
+      <td align="center">
 
 LIBELLÉ 
 
-</th>
+</td>
     </tr>
     <tr>
       <td align="center">
@@ -2294,16 +1916,12 @@ II. 4. g. - NONSCO : si le mineur est non scolarisé, préciser la situation
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
+      <td align="center">CODE </td>
+      <td align="center">
 
 LIBELLÉ 
 
-</th>
+</td>
     </tr>
     <tr>
       <td align="center">
@@ -2363,16 +1981,8 @@ II. 5. - FREQSCO : fréquentation de l'établissement scolaire
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -2457,23 +2067,11 @@ au nom de la Maison départementale des personnes handicapées
 <table>
   <tbody>
     <tr>
-      <th colspan="2">
-
-PRISE EN CHARGE SPÉCIFIQUE 
-
-</th>
+      <td colspan="2">PRISE EN CHARGE SPÉCIFIQUE </td>
     </tr>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -2519,23 +2117,11 @@ II. 6. b. - DATDECMDPH : si prise en charge spécifique, date de la décision de
 <table>
   <tbody>
     <tr>
-      <th colspan="2">
-
-DATE DE LA DÉCISION 
-
-</th>
+      <td colspan="2">DATE DE LA DÉCISION</td>
     </tr>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -2582,23 +2168,11 @@ l'autonomie
 <table>
   <tbody>
     <tr>
-      <th colspan="2">
-
-EXÉCUTION DE LA DÉCISION 
-
-</th>
+      <td colspan="2">EXÉCUTION DE LA DÉCISION </td>
     </tr>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -2646,16 +2220,8 @@ III. 1. - DATIP : date de réception de l'information préoccupante
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -2701,16 +2267,8 @@ III. 2. - DATSIGN : date du signalement direct auprès du procureur de la Répub
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -2756,16 +2314,8 @@ III. 3. - DATJE : date de la saisine directe du juge des enfants
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -2811,16 +2361,8 @@ III. 4. - ORIGIP : qualité de la personne à l'origine de l'information préocc
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -2927,16 +2469,8 @@ saisi directement le procureur de la République ou le juge des enfants
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -3226,36 +2760,15 @@ type de suite donnée au signalement
 <table>
   <tbody>
     <tr>
-      <th colspan="3">
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td colspan="3" align="center">CODE </td>
+      <td rowspan="2" align="center">LIBELLÉ </td>
     </tr>
     <tr>
-      <th>
+      <td align="center">Non </td>
+      <td align="center">Oui </td>
+      <td align="center">Ne sait pas 
 
-Non 
-
-</th>
-      <th>
-
-Oui 
-
-</th>
-      <th>
-
-Ne sait pas 
-
-</th>
-      <th>
-
-</th>
+</td>
     </tr>
     <tr>
       <td align="center">
@@ -3354,16 +2867,8 @@ procédure
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -3409,16 +2914,8 @@ III. 6. c. - ENQPENAL : le cas échéant, préciser s'il y a une enquête pénal
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -3464,16 +2961,8 @@ III. 6. d. - SAISJUR : le cas échéant, préciser s'il y a une saisine de la ju
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -3523,16 +3012,8 @@ IV. 1. a. - COMPOMENAG : composition du ménage
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -3674,16 +3155,8 @@ IV. 1. b. - AUTREHEBER : autre hébergement régulier du mineur le cas échéant
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -3729,16 +3202,8 @@ IV. 1. c. - NBPER : nombre total de personnes dans le lieu de résidence
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -3760,16 +3225,8 @@ IV. 1. d. - NBFRAT : nombre total de frères et sœurs
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -3793,16 +3250,8 @@ IV. 1. e. - STATOCLOG : statut d'occupation du logement
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -3886,16 +3335,8 @@ IV. 2. a. - TITAP : titulaire de l'autorité parentale
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -4025,16 +3466,8 @@ IV. 2. b. - DECAP : décision relative à l'autorité parentale
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -4104,16 +3537,8 @@ IV. 2. c. - DATDECAP : date de la décision relative à l'autorité parentale
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -4159,36 +3584,13 @@ IV. 2. d. - CONTMERE/ CONTPERE : fréquence des contacts de la mère/ du père a
 <table>
   <tbody>
     <tr>
-      <th>
-
-</th>
-      <th>
-
-CONTMÈRE 
-
-</th>
-      <th>
-
-CONTPÈRE 
-
-</th>
+      <td rowspan="2" align="center">CODE </td>
+      <td align="center">CONTMÈRE </td>
+      <td align="center">CONTPÈRE </td>
     </tr>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">LIBELLÉ </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -4303,36 +3705,13 @@ IV. 3. a. - LIENA1/ LIENA2 : lien de l'adulte 1 et de l'adulte 2 avec le mineur
 <table>
   <tbody>
     <tr>
-      <th>
-
-</th>
-      <th>
-
-LIENA1 
-
-</th>
-      <th>
-
-LIENA2 
-
-</th>
+      <td rowspan="2" align="center">CODE </td>
+      <td align="center">LIENA1 </td>
+      <td align="center">LIENA2 </td>
     </tr>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">LIBELLÉ </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -4478,36 +3857,13 @@ IV. 3. b. - SEXA1/ SEXA2 : sexe de l'adulte 1 et de l'adulte 2
 <table>
   <tbody>
     <tr>
-      <th>
-
-</th>
-      <th>
-
-SEXA1 
-
-</th>
-      <th>
-
-SEXA2 
-
-</th>
+      <td align="center" rowspan="2">CODE </td>
+      <td align="center">SEXA1 </td>
+      <td align="center">SEXA2 </td>
     </tr>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">LIBELLÉ </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -4563,43 +3919,18 @@ Ne sait pas
   </tbody>
 </table>
 
-IV. 3. c. - ANSA1/ ANSA2 : 
-
-année de naissance de l'adulte 1 et de l'adulte 2 
+IV. 3. c. - ANSA1/ ANSA2 : année de naissance de l'adulte 1 et de l'adulte 2 
 
 <table>
   <tbody>
     <tr>
-      <th>
-
-</th>
-      <th>
-
-ANSA1 
-
-</th>
-      <th>
-
-ANSA2 
-
-</th>
+      <td rowspan="2" align="center">CODE </td>
+      <td align="center">ANSA1 </td>
+      <td align="center">ANSA2 </td>
     </tr>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">LIBELLÉ </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -4628,36 +3959,13 @@ IV. 3. d. - EMPLA1/ EMPLA2 : situation face à l'emploi de l'adulte 1 et de l'ad
 <table>
   <tbody>
     <tr>
-      <th>
-
-</th>
-      <th>
-
-EMPLA 1 
-
-</th>
-      <th>
-
-EMPLA 2 
-
-</th>
+      <td align="center" rowspan="2">CODE </td>
+      <td align="center">EMPLA 1 </td>
+      <td align="center">EMPLA 2 </td>
     </tr>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">LIBELLÉ </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -4822,36 +4130,13 @@ IV. 3. e. - CSPA1/ CSPA2 : catégorie socioprofessionnelle de l'adulte 1 et de l
 <table>
   <tbody>
     <tr>
-      <th>
-
-</th>
-      <th>
-
-CSPA1 
-
-</th>
-      <th>
-
-CSPA2 
-
-</th>
+      <td rowspan="2" align="center">CODE </td>
+      <td align="center">CSPA1 </td>
+      <td align="center">CSPA2 </td>
     </tr>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">LIBELLÉ </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -4997,16 +4282,8 @@ IV. 3. f. - RESMENAG : ressources mensuelles du ménage
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -5028,7 +4305,7 @@ LIBELLÉ
 </td>
       <td align="center">
 
-1   000-1   999 euros 
+1 000-1 999 euros 
 
 </td>
     </tr>
@@ -5040,7 +4317,7 @@ LIBELLÉ
 </td>
       <td align="center">
 
-2   000-2   999 euros 
+2 000-2 999 euros 
 
 </td>
     </tr>
@@ -5052,7 +4329,7 @@ LIBELLÉ
 </td>
       <td align="center">
 
-3   000 et plus 
+3 000 et plus 
 
 </td>
     </tr>
@@ -5076,33 +4353,13 @@ IV. 3. g. - REVTRAV/ MINIMA/ ALLOC/ AUTRE : nature des ressources du ménage
 <table>
   <tbody>
     <tr>
-      <th colspan="4">
-
-CODE 
-
-</th>
+      <td colspan="4">CODE </td>
     </tr>
     <tr>
-      <th>
-
-Non 
-
-</th>
-      <th>
-
-Oui 
-
-</th>
-      <th>
-
-Ne sait pas 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">Non </td>
+      <td align="center">Oui </td>
+      <td align="center">Ne sait pas </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -5188,7 +4445,7 @@ ALLOC Allocations ou pensions
 </td>
       <td align="center">
 
-AUTRE Autres ressources de revenus 
+AUTRE Autres sources de revenus 
 
 </td>
     </tr>
@@ -5202,34 +4459,17 @@ IV. 4. a. MEREINC/ PEREINC : mère/ père inconnu
 <table>
   <tbody>
     <tr>
-      <th>
+      <td rowspan="2">CODE 
 
-</th>
-      <th>
-
-MERINC 
-
-</th>
-      <th>
-
-PEREINC 
-
-</th>
+</td>
+      <td>MERINC </td>
+      <td>PEREINC </td>
     </tr>
     <tr>
-      <td align="center">
-
-CODE 
+      <td align="center">LIBELLÉ 
 
 </td>
-      <td align="center">
-
-LIBELLÉ 
-
-</td>
-      <td align="center">
-
-LIBELLÉ 
+      <td align="center">LIBELLÉ 
 
 </td>
     </tr>
@@ -5292,26 +4532,15 @@ IV. 4. b. - ANSMERE/ ANSPERE : année de naissance de la mère/ du père
 <table>
   <tbody>
     <tr>
-      <th>
-
-</th>
-      <th>
-
-ANSMERE 
-
-</th>
-      <th>
-
-ANSPERE 
-
-</th>
-    </tr>
-    <tr>
-      <td align="center">
+      <td rowspan="2">
 
 CODE 
 
 </td>
+      <td>ANSMERE </td>
+      <td>ANSPERE </td>
+    </tr>
+    <tr>
       <td align="center">
 
 LIBELLÉ 
@@ -5348,53 +4577,24 @@ IV. 4. c. - DCMERE/ DCPERE : mère décédée/ père décédé
 <table>
   <tbody>
     <tr>
-      <th>
+      <td align="center" rowspan="2">CODE 
 
-</th>
-      <th>
-
-DCMERE 
-
-</th>
-      <th>
-
-DCPERE 
-
-</th>
+</td>
+      <td align="center">DCMERE </td>
+      <td align="center">DCPERE</td>
     </tr>
     <tr>
       <td align="center">
 
-CODE 
+LIBELLÉ
 
 </td>
-      <td align="center">
-
-LIBELLÉ 
-
-</td>
-      <td align="center">
-
-LIBELLÉ 
-
-</td>
+      <td align="center">LIBELLÉ</td>
     </tr>
     <tr>
-      <td align="center">
-
-1 
-
-</td>
-      <td align="center">
-
-Non 
-
-</td>
-      <td align="center">
-
-Non 
-
-</td>
+      <td align="center">1 </td>
+      <td align="center">Non </td>
+      <td align="center">Non </td>
     </tr>
     <tr>
       <td align="center">
@@ -5438,34 +4638,17 @@ IV. 4. d. - DATDCMERE/ DATDCPERE : si décès de la mère/ du père, mois et ann
 <table>
   <tbody>
     <tr>
-      <th>
+      <td rowspan="2">CODE 
 
-</th>
-      <th>
-
-DATDCMERE 
-
-</th>
-      <th>
-
-DATCPERE 
-
-</th>
+</td>
+      <td>DATDCMERE </td>
+      <td>DATCPERE </td>
     </tr>
     <tr>
-      <td align="center">
-
-CODE 
+      <td align="center">LIBELLE 
 
 </td>
-      <td align="center">
-
-LIBELLE 
-
-</td>
-      <td align="center">
-
-LIBELLE 
+      <td align="center">LIBELLE 
 
 </td>
     </tr>
@@ -5516,16 +4699,8 @@ V. 1. a. - NOTIFEVAL : date de notification de la demande d'évaluation
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td>CODE </td>
+      <td>LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -5571,16 +4746,8 @@ V. 1. b. - FINEVAL : date de fin de l'évaluation
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -5627,16 +4794,8 @@ la fratrie
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -5682,16 +4841,8 @@ V. 1. d. - ACCFAM : accompagnement social ou médico-social en cours d'au moins 
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -5737,16 +4888,16 @@ V. 1. e. - SUITEVAL : suite donnée à l'évaluation
 <table>
   <tbody>
     <tr>
-      <th>
+      <td>
 
 CODE 
 
-</th>
-      <th>
+</td>
+      <td>
 
-LIBELLÉ 
+LIBELLÉ
 
-</th>
+</td>
     </tr>
     <tr>
       <td align="center">
@@ -5816,16 +4967,8 @@ V. 1. f. - MOTIFSIG : en cas de signalement judiciaire après l'évaluation, mot
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -5892,23 +5035,14 @@ Ne sait pas
 
 V. 2. - Problématiques familiales observées ou prises en compte dans le cadre de l'évaluation ou des bilans 
 
-V. 2. a. - CONDADD : conduite addictive (alcool ou drogue) 
-
-d'un ou des adultes ayant en charge le mineur dans le lieu de résidence principale 
+V. 2. a. - CONDADD : conduite addictive (alcool ou drogue) d'un ou des adultes ayant en charge le mineur dans le lieu de
+résidence principale 
 
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -5967,16 +5101,10 @@ d'un ou des adultes ayant en charge le mineur dans le lieu de sa résidence prin
 <table>
   <tbody>
     <tr>
-      <th>
+      <td align="center">CODE 
 
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+</td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -6022,16 +5150,10 @@ V. 2. c. - CONFL : exposition du mineur à un conflit de couple
 <table>
   <tbody>
     <tr>
-      <th>
+      <td align="center">CODE 
 
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+</td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -6077,16 +5199,8 @@ V. 2. d. - VIOLFAM : exposition du mineur à un climat de violence au sein de la
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -6132,16 +5246,8 @@ V. 2. e. - VIOLPERS : en cas de climat de violence au sein de la famille, person
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -6211,18 +5317,6 @@ V. 2. f. - VIOLFAMPHYS : en cas de climat de violence au sein de la famille, exi
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
-    </tr>
-    <tr>
       <td align="center">
 
 CODE 
@@ -6278,16 +5372,8 @@ V. 2. g. - SOUTSOC : manque de soutien social et/ ou familial, isolement
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -6335,33 +5421,15 @@ VI. 1. - SANTÉ/ SÉCURITÉ/ MORALITÉ/ CONDEDUC/ CONDEDEV : nature du danger ou
 <table>
   <tbody>
     <tr>
-      <th colspan="4">
-
-CODE 
-
-</th>
+      <td colspan="4">CODE </td>
     </tr>
     <tr>
-      <th>
+      <td align="center">Non </td>
+      <td align="center">Oui 
 
-Non 
-
-</th>
-      <th>
-
-Oui 
-
-</th>
-      <th>
-
-Ne sait pas 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+</td>
+      <td align="center">Ne sait pas </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -6484,16 +5552,8 @@ VI. 2. a. - VIOLSEX : violences sexuelles envers le mineur
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -6563,16 +5623,8 @@ VI. 2. b. - VIOLPHYS : violences physiques envers le mineur
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -6642,16 +5694,8 @@ VI. 2. c. - NEGLIG : négligences lourdes envers le mineur
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -6697,16 +5741,8 @@ VI. 2. d. - VIOLPSY : violences psychologiques envers le mineur
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -6756,36 +5792,13 @@ mineur
 <table>
   <tbody>
     <tr>
-      <th>
-
-</th>
-      <th>
-
-LIENAUT1 
-
-</th>
-      <th>
-
-LIENAUT2 
-
-</th>
+      <td rowspan="2">CODE </td>
+      <td align="center">LIENAUT1 </td>
+      <td align="center">LIENAUT2 </td>
     </tr>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">LIBELLÉ </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -6956,36 +5969,13 @@ VI. 3. b. - SEXAUT1/ SEXAUT2 : sexe de la ou des deux personnes principales à l
 <table>
   <tbody>
     <tr>
-      <th>
-
-</th>
-      <th>
-
-SEXAUT1 
-
-</th>
-      <th>
-
-SEXAUT2 
-
-</th>
+      <td rowspan="2" align="center">CODE </td>
+      <td>SEXAUT1 </td>
+      <td>SEXAUT2 </td>
     </tr>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td>LIBELLÉ </td>
+      <td>LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -7024,7 +6014,7 @@ Féminin
     <tr>
       <td align="center">
 
-3 
+9 
 
 </td>
       <td align="center">
@@ -7047,36 +6037,13 @@ traitement
 <table>
   <tbody>
     <tr>
-      <th>
-
-</th>
-      <th>
-
-SEXAUT1 
-
-</th>
-      <th>
-
-SEXAUT2 
-
-</th>
+      <td rowspan="2" align="center">CODE </td>
+      <td align="center">MINAUT1 </td>
+      <td align="center">MINAUT2 </td>
     </tr>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">LIBELLÉ </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -7115,7 +6082,7 @@ Majeur
     <tr>
       <td align="center">
 
-3 
+9 
 
 </td>
       <td align="center">
@@ -7139,16 +6106,8 @@ VII. 1. - DATDECPE : date de la décision de protection de l'enfance
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -7194,16 +6153,8 @@ VII. 2. - INTERANT : existence d'une intervention antérieure en protection de l
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -7251,16 +6202,8 @@ VII. 3. a. - PROJET : existence d'un projet pour l'enfant
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -7306,26 +6249,13 @@ VII. 3. b. - SIGNPAR/ SIGNMIN : signature du projet pour l'enfant par les parent
 <table>
   <tbody>
     <tr>
-      <th>
-
-</th>
-      <th>
-
-SIGNPAR 
-
-</th>
-      <th>
-
-SIGNMIN 
-
-</th>
-    </tr>
-    <tr>
-      <td align="center">
-
-CODE 
+      <td rowspan="2">CODE 
 
 </td>
+      <td>SIGNPAR </td>
+      <td>SIGNMIN </td>
+    </tr>
+    <tr>
       <td align="center">
 
 LIBELLÉ 
@@ -7374,7 +6304,7 @@ Oui
     <tr>
       <td align="center">
 
-3 
+9 
 
 </td>
       <td align="center">
@@ -7396,16 +6326,10 @@ VII. 3. c. - DATSIGNPROJ : date de la signature du projet pour l'enfant
 <table>
   <tbody>
     <tr>
-      <th>
+      <td align="center">CODE 
 
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+</td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -7453,16 +6377,8 @@ VII. 4. a. - DECISION : nature de la décision de protection de l'enfance
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -7496,16 +6412,10 @@ VII. 4. b. - NATPDECADM : si décision administrative de protection de l'enfance
 <table>
   <tbody>
     <tr>
-      <th>
+      <td align="center">CODE 
 
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+</td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -7637,16 +6547,8 @@ VII. 4. d. - NATDECASSED : si décision judiciaire en assistance éducative, pr�
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -7814,16 +6716,8 @@ VII. 4. f. - NATDECPLAC : si décision judiciaire de placement, nature de la dé
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -7869,16 +6763,10 @@ VII. 4. g. - INSTITPLAC : personne ou institution à qui le mineur est confié
 <table>
   <tbody>
     <tr>
-      <th>
+      <td align="center">CODE 
 
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+</td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -7978,16 +6866,8 @@ VII. 5. a. - TYPINTERDOM : type d'intervention mise en œuvre
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -8105,36 +6985,15 @@ VII. 5. b. - DATDEBAD/ DATFINAD : date de début et date de fin d'intervention
 <table>
   <tbody>
     <tr>
-      <th>
+      <td align="center" rowspan="2">CODE </td>
+      <td align="center">DATDEBAD </td>
+      <td align="center">DATFINAD 
 
-</th>
-      <th>
-
-DATDEBAD 
-
-</th>
-      <th>
-
-DATFINAD 
-
-</th>
+</td>
     </tr>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">LIBELLÉ </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -8197,16 +7056,8 @@ VII. 6. a. - LIEUACC : principal lieu d'accueil du mineur
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -8360,7 +7211,7 @@ Accueil avec hébergement chez les parents (service d'accueil progressif en mili
 </td>
       <td align="center">
 
-Accueil en internat  ordinaire  
+Accueil en internat ordinaire 
 
 </td>
     </tr>
@@ -8408,16 +7259,8 @@ VII. 6. b. - ACCMOD : caractère modulable de l'accueil
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -8463,16 +7306,8 @@ VII. 6. c. - AUTRLIEUACC : existence d'un autre lieu d'accueil régulier du mine
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -8518,34 +7353,17 @@ VII. 6. d. - DATDEBACC/ DATFINACC : date de début et de fin d'intervention
 <table>
   <tbody>
     <tr>
-      <th>
+      <td rowspan="2">CODE 
 
-</th>
-      <th>
-
-DATDEBACC 
-
-</th>
-      <th>
-
-DATEFINACC 
-
-</th>
+</td>
+      <td>DATDEBACC </td>
+      <td>DATEFINACC </td>
     </tr>
     <tr>
-      <td align="center">
-
-CODE 
+      <td align="center">LIBELLÉ 
 
 </td>
-      <td align="center">
-
-LIBELLÉ 
-
-</td>
-      <td align="center">
-
-LIBELLÉ 
+      <td align="center">LIBELLÉ 
 
 </td>
     </tr>
@@ -8610,16 +7428,8 @@ VII. 7. a. - TYPDECJUD : type d'intervention mise en œuvre
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -8773,36 +7583,13 @@ VII. 7. b. - DATDEBINTER/ DATFININTER : date de début et date de fin d'interven
 <table>
   <tbody>
     <tr>
-      <th>
-
-</th>
-      <th>
-
-DATBEBINTER 
-
-</th>
-      <th>
-
-DATFININTER 
-
-</th>
+      <td rowspan="2" align="center">CODE </td>
+      <td align="center">DATBEBINTER </td>
+      <td align="center">DATFININTER </td>
     </tr>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">LIBELLÉ </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -8865,16 +7652,8 @@ VII. 8. a. - LIEUPLAC : principal lieu de placement du mineur
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -9028,7 +7807,7 @@ Accueil avec hébergement chez les parents
 </td>
       <td align="center">
 
-Accueil en internat  ordinaire  (internat scolaire, foyer de jeunes travailleurs, centre de formation des apprentis, etc.) 
+Accueil en internat ordinaire (internat scolaire, foyer de jeunes travailleurs, centre de formation des apprentis, etc.) 
 
 </td>
     </tr>
@@ -9136,16 +7915,10 @@ VII. 8. b. - PLACMOD : caractère modulable de l'accueil
 <table>
   <tbody>
     <tr>
-      <th>
+      <td align="center">CODE 
 
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+</td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -9191,16 +7964,8 @@ VII. 8. c. - AUTRLIEUAR : existence d'un autre lieu d'accueil régulier du mineu
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -9246,36 +8011,13 @@ VII. 8. d. - DATDEBPLAC/ DATFINPLAC : date de début et date de fin d'interventi
 <table>
   <tbody>
     <tr>
-      <th>
-
-</th>
-      <th>
-
-DATDEBPLAC 
-
-</th>
-      <th>
-
-DATFINPLAC 
-
-</th>
+      <td rowspan="2" align="center">CODE </td>
+      <td align="center">DATDEBPLAC </td>
+      <td align="center">DATFINPLAC </td>
     </tr>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">LIBELLÉ </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -9338,16 +8080,8 @@ VII. 9. a. - MOTFININT : en cas de fin de l'intervention en protection de l'enfa
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -9405,16 +8139,8 @@ VII. 9. b. - NOUVDECPE : si mesure ou prestation arrivée à échéance, nouvell
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -9460,16 +8186,8 @@ VII. 9. c - NATNOUVDECPE : si nouvelle décision de protection de l'enfance, pr�
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -9539,16 +8257,8 @@ VII. 9. d. - MOTIFML : si mainlevée, motif de la mainlevée
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -9692,16 +8402,10 @@ VII. 9. e. - SITAPML : situation du mineur après la mainlevée
 <table>
   <tbody>
     <tr>
-      <th>
+      <td align="center">CODE 
 
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+</td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -9771,16 +8475,8 @@ VII. 9. f. - TYPINTERV : si autre type d'intervention après la mainlevée
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -9862,16 +8558,8 @@ VII. 9. g. - DATDECMIN : si décès du mineur, mois et année du décès
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -9905,16 +8593,8 @@ VII. 9. h. - DIPLOME : à la fin de l'intervention en protection de l'enfance, d
 <table>
   <tbody>
     <tr>
-      <th>
-
-CODE 
-
-</th>
-      <th>
-
-LIBELLÉ 
-
-</th>
+      <td align="center">CODE </td>
+      <td align="center">LIBELLÉ </td>
     </tr>
     <tr>
       <td align="center">
@@ -9993,13 +8673,13 @@ Ne sait pas
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2011-222 du 28 février 2011 - art.
-
 	**Cité par**:
 
 	  - Décret n°2011-937 du 1er août 2011 (V)
 	  - Décret n°2011-937 du 1er août 2011 - art. 1 (V)
 	  - Code de l'action sociale et des familles - art. D226-3-5 (M)
 	  - Code de l'action sociale et des familles - art. R542-2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2011-937 du 1er août 2011 - art.
