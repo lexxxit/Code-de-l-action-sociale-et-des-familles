@@ -2,848 +2,58 @@
 
 LISTE DES INFORMATIONS ANONYMISÉES 
 
-I. - Informations préalables 
+1. Informations préalables 
 
-I.-1. NUMDEP : numéro du département 
+NUMDEP : code du département ou de la collectivité territoriale (selon le code officiel géographique de l'INSEE)
 
 <table>
   <tbody>
     <tr>
-      <td align="center">
+      <th>
 
-CODE
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+
+XXX 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-LIBELLÉ
+Code du département ou de la collectivité territoriale (selon le code officiel géographique de l'INSEE) 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
-
-1</td>
-      <td align="center">
-
-AIN</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-2</td>
-      <td align="center">
-
-AISNE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-3</td>
-      <td align="center">
-
-ALLIER</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-4</td>
-      <td align="center">
-
-ALPES-DE-HAUTE-PROVENCE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-5</td>
-      <td align="center">
-
-HAUTES-ALPES</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-6</td>
-      <td align="center">
-
-ALPES-MARITIMES</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-7</td>
-      <td align="center">
-
-ARDÈCHE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-8</td>
-      <td align="center">
-
-ARDENNES</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-9</td>
-      <td align="center">
-
-ARIÈGE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-10</td>
-      <td align="center">
-
-AUBE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-11</td>
-      <td align="center">
-
-AUDE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-12</td>
-      <td align="center">
-
-AVEYRON</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-13</td>
-      <td align="center">
-
-BOUCHES-DU-RHÔNE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-14</td>
-      <td align="center">
-
-CALVADOS</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-15</td>
-      <td align="center">
-
-CANTAL</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-16</td>
-      <td align="center">
-
-CHARENTE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-17</td>
-      <td align="center">
-
-CHARENTE-MARITIME</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-18</td>
-      <td align="center">
-
-CHER</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-19</td>
-      <td align="center">
-
-CORRÈZE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-2A</td>
-      <td align="center">
-
-CORSE-DU-SUD</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-2B</td>
-      <td align="center">
-
-HAUTE-CORSE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-21</td>
-      <td align="center">
-
-CÔTE-D'OR</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-22</td>
-      <td align="center">
-
-CÔTES-D'ARMOR</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-23</td>
-      <td align="center">
-
-CREUSE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-24</td>
-      <td align="center">
-
-DORDOGNE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-25</td>
-      <td align="center">
-
-DOUBS</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-26</td>
-      <td align="center">
-
-DRÔME</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-27</td>
-      <td align="center">
-
-EURE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-28</td>
-      <td align="center">
-
-EURE-ET-LOIRE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-29</td>
-      <td align="center">
-
-FINISTÈRE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-30</td>
-      <td align="center">
-
-GARD</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-31</td>
-      <td align="center">
-
-HAUTE-GARONNE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-32</td>
-      <td align="center">
-
-GERS</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-33</td>
-      <td align="center">
-
-GIRONDE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-34</td>
-      <td align="center">
-
-HÉRAULT</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-35</td>
-      <td align="center">
-
-ILLE-ET-VILAINE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-36</td>
-      <td align="center">
-
-INDRE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-37</td>
-      <td align="center">
-
-INDRE-ET-LOIRE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-38</td>
-      <td align="center">
-
-ISÈRE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-39</td>
-      <td align="center">
-
-JURA</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-40</td>
-      <td align="center">
-
-LANDES</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-41</td>
-      <td align="center">
-
-LOIR-ET-CHER</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-42</td>
-      <td align="center">
-
-LOIRE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-43</td>
-      <td align="center">
-
-HAUTE-LOIRE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-44</td>
-      <td align="center">
-
-LOIRE-ATLANTIQUE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-45 </td>
-      <td align="center">
-
-LOIRET</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-46</td>
-      <td align="center">
-
-LOT</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-47</td>
-      <td align="center">
-
-LOT-ET-GARONNE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-48</td>
-      <td align="center">
-
-LOZÈRE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-49</td>
-      <td align="center">
-
-MAINE-ET-LOIRE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-50</td>
-      <td align="center">
-
-MANCHE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-51</td>
-      <td align="center">
-
-MARNE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-52</td>
-      <td align="center">
-
-HAUTE-MARNE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-53</td>
-      <td align="center">
-
-MAYENNE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-54</td>
-      <td align="center">
-
-MEURTHE-ET-MOSELLE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-55</td>
-      <td align="center">
-
-MEUSE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-56</td>
-      <td align="center">
-
-MORBIHAN</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-57</td>
-      <td align="center">
-
-MOSELLE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-58</td>
-      <td align="center">
-
-NIÈVRE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-59</td>
-      <td align="center">
-
-NORD</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-60</td>
-      <td align="center">
-
-OISE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-61</td>
-      <td align="center">
-
-ORNE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-62</td>
-      <td align="center">
-
-PAS-DE-CALAIS</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-63</td>
-      <td align="center">
-
-PUY-DE-DÔME</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-64</td>
-      <td align="center">
-
-PYRÉNÉES-ATLANTIQUES</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-65</td>
-      <td align="center">
-
-HAUTES-PYRÉNÉES</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-66</td>
-      <td align="center">
-
-PYRÉNÉES-ORIENTALES</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-67</td>
-      <td align="center">
-
-BAS-RHIN</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-68</td>
-      <td align="center">
-
-HAUT-RHIN</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-69</td>
-      <td align="center">
-
-RHÔNE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-70</td>
-      <td align="center">
-
-HAUTE-SAÔNE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-71</td>
-      <td align="center">
-
-SAÔNE-ET-LOIRE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-72</td>
-      <td align="center">
-
-SARTHE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-73</td>
-      <td align="center">
-
-SAVOIE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-74</td>
-      <td align="center">
-
-HAUTE-SAVOIE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-75</td>
-      <td align="center">
-
-PARIS</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-76</td>
-      <td align="center">
-
-SEINE-MARITIME</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-77</td>
-      <td align="center">
-
-SEINE-ET-MARNE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-78</td>
-      <td align="center">
-
-YVELINES</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-79</td>
-      <td align="center">
-
-DEUX-SÈVRES</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-80</td>
-      <td align="center">
-
-SOMME</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-81</td>
-      <td align="center">
-
-TARN</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-82</td>
-      <td align="center">
-
-TARN-ET-GARONNE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-83</td>
-      <td align="center">
-
-VAR</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-84</td>
-      <td align="center">
-
-VAUCLUSE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-85</td>
-      <td align="center">
-
-VENDÉE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-86</td>
-      <td align="center">
-
-VIENNE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-87</td>
-      <td align="center">
-
-HAUTE-VIENNE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-88</td>
-      <td align="center">
-
-VOSGES</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-89</td>
-      <td align="center">
-
-YONNE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-90</td>
-      <td align="center">
-
-TERRITOIRE DE BELFORT</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-91</td>
-      <td align="center">
-
-ESSONNE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-92</td>
-      <td align="center">
-
-HAUTS-DE-SEINE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-93</td>
-      <td align="center">
-
-SEINE-SAINT-DENIS</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-94</td>
-      <td align="center">
-
-VAL-DE-MARNE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-95</td>
-      <td align="center">
-
-VAL-D'OISE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-971</td>
-      <td align="center">
-
-GUADELOUPE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-972</td>
-      <td align="center">
-
-MARTINIQUE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-973</td>
-      <td align="center">
-
-GUYANE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-974</td>
-      <td align="center">
-
-LA RÉUNION</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-976</td>
-      <td align="center">
-
-MAYOTTE</td>
     </tr>
   </tbody>
 </table>
 
-I. 2. - NUMANONYM : numéro d'anonymat du mineur 
+NUMANONYM : numéro d'anonymat du mineur/ majeur 
 
-I. 3. - CODEV : codification du type d'événement 
+NUMANONYMANT : numéro d'anonymat antérieur du mineur/majeur lors de l'extraction précédente 
+
+TYPEV : codification du type d'événement 
 
 <table>
   <tbody>
     <tr>
-      <td align="center">
+      <th>
 
 CODE 
 
-</td>
-      <td align="center">LIBELLÉ </td>
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
     </tr>
     <tr>
       <td align="center">
@@ -853,9 +63,7 @@ CODE
 </td>
       <td align="center">
 
-Evaluation de l'information préoccupante donnant lieu à une entrée 
-
-ou à un maintien dans la protection de l'enfance 
+Mesure ou prestation en protection de l'enfance 
 
 </td>
     </tr>
@@ -867,9 +75,7 @@ ou à un maintien dans la protection de l'enfance
 </td>
       <td align="center">
 
-Signalement direct donnant lieu à une entrée 
-
-ou à un maintien dans la protection de l'enfance 
+Renouvellement d'une mesure ou d'une prestation en protection de l'enfance 
 
 </td>
     </tr>
@@ -881,50 +87,32 @@ ou à un maintien dans la protection de l'enfance
 </td>
       <td align="center">
 
-Saisine directe du juge des enfants 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-4 
-
-</td>
-      <td align="center">
-
-Mesure de protection de l'enfance 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-5 
-
-</td>
-      <td align="center">
-
-Renouvellement ou fin de l'intervention en protection de l'enfance 
+Fin d'une mesure ou d'une prestation en protection de l'enfance 
 
 </td>
     </tr>
   </tbody>
 </table>
 
-II. - Informations concernant le mineur 
+2. Informations concernant le mineur/majeur 
 
-II. 1. - SEXE : sexe du mineur 
+a) Caractéristiques du mineur/majeur 
+
+SEXE : sexe du mineur/majeur 
 
 <table>
   <tbody>
     <tr>
-      <td align="center">
+      <th>
 
 CODE 
 
-</td>
-      <td align="center">LIBELLÉ </td>
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
     </tr>
     <tr>
       <td align="center">
@@ -965,25 +153,21 @@ Non connu à ce jour
   </tbody>
 </table>
 
-II. 2. - MNAIS et ANAIS : mois et année de naissance du mineur 
+ANAIS : année de naissance du mineur/majeur 
 
 <table>
   <tbody>
     <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
+      <th>
 
-mm 
+CODE 
 
-</td>
-      <td align="center">
+</th>
+      <th>
 
-Mois de naissance 
+LIBELLÉ 
 
-</td>
+</th>
     </tr>
     <tr>
       <td align="center">
@@ -993,104 +177,145 @@ aaaa
 </td>
       <td align="center">
 
-Année de naissance 
+Année de naissance du mineur/majeur 
+
+9999 si valeur non connue 
 
 </td>
     </tr>
   </tbody>
 </table>
 
-II. 3. - MODACC : mode d'accueil pour les mineurs de moins de 6 ans 
+MNAIS : mois de naissance du mineur/majeur 
 
 <table>
   <tbody>
     <tr>
-      <td align="center">
+      <th>
 
 CODE 
 
-</td>
-      <td align="center">LIBELLÉ </td>
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
     </tr>
     <tr>
       <td align="center">
 
-1 
+mm 
 
 </td>
       <td align="center">
+
+Mois de naissance du mineur/majeur 
+
+99 si valeur non connue 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+b) Situation scolaire du mineur/majeur 
+
+MODACC : mode d'accueil pour les mineurs de moins de 6 ans non scolarisés
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
+    </tr>
+    <tr>
+      <td valign="middle" align="center">
+
+1 
+
+</td>
+      <td valign="middle" align="center">
 
 Gardé par un des parents au domicile 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="middle" align="center">
 
 2 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
 Gardé par un autre adulte au domicile 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 3 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-Accueilli en crèche 
+Accueilli en établissement d'accueil du jeune enfant 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 4 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
 Accueilli par une assistante maternelle 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="middle" align="center">
 
 5 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
 Accueilli par un membre de la famille 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 6 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
 Autre mode de garde 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="middle" align="center">
 
 9 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
 Ne sait pas 
 
@@ -1099,54 +324,54 @@ Ne sait pas
   </tbody>
 </table>
 
-II. 4. - Situation scolaire ou professionnelle du mineur 
-
-II. 4a. SCODTCOM : le mineur est scolarisé en droit commun 
+SCODTCOM : le mineur/majeur est scolarisé en milieu ordinaire (y compris scolarisation au sein d'un dispositif spécifique et
+scolarisation au CNED)
 
 <table>
   <tbody>
     <tr>
-      <td colspan="2">
+      <th>
 
-SCOLARISÉ EN DROIT COMMUN 
+CODE 
 
-</td>
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
     </tr>
     <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 1 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
 Non 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="middle" align="center">
 
 2 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
 Oui 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="middle" align="center">
 
 9 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
 Ne sait pas 
 
@@ -1155,441 +380,354 @@ Ne sait pas
   </tbody>
 </table>
 
-II. 4. b. NIVSCO : si le mineur est scolarisé en droit commun, préciser le niveau selon la nomenclature de l'éducation
-nationale 
+NIVSCO : si le mineur/majeur est scolarisé en milieu ordinaire ou dans le cadre d'une unité d'enseignement hors milieu
+ordinaire, préciser le niveau selon la nomenclature de l'éducation nationale 
 
 <table>
   <tbody>
     <tr>
-      <td colspan="2">
+      <th>
 
-NIVEAU SCOLAIRE (nomenclature de l'éducation nationale) 
+CODE 
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">CODE </td>
-      <td align="center">
+</th>
+      <th>
 
 LIBELLÉ 
 
-</td>
+</th>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 200 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
 Ecole maternelle 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 310 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
 CP 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 320 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
 CE1 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 330 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
 CE2 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="middle" align="center">
 
 340 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
 CM1 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="middle" align="center">
 
 350 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
 CM2 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
-
-360 
-
-</td>
-      <td align="center">
-
-Autre, dont scolarisation élémentaire spécifique 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 399 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
 Ecole élémentaire sans distinction supplémentaire 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 410 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-6e 
+6e (dont SEGPA) 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="middle" align="center">
 
 420 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-5e 
+5e (dont SEGPA) 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="middle" align="center">
 
 430 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-4e 
+4e (dont SEGPA) 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="middle" align="center">
 
 440 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-3e 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-450 
-
-</td>
-      <td align="center">
-
-Autre, dont scolarisation spécifique au collège 
+3e (dont 3e découverte professionnelle et SEGPA) 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 499 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
 Collège, sans distinction supplémentaire 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 510 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
 Seconde générale et technologique 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 520 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
 Première générale 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 530 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
 Première technologique 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
-
-540 
-
-</td>
-      <td align="center">
-
-Première d'adaptation 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 550 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
 Terminale générale 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 560 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
 Terminale technologique 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
-
-570 
-
-</td>
-      <td align="center">
-
-Autre, dont scolarisation spécifique au lycée 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 599 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
 Lycée d'enseignement général et technologique, sans distinction supplémentaire 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="middle" align="center">
 
 610 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
 CAP 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 620 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
 BEP 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 630 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
 Bac professionnel 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
-
-640 
-
-</td>
-      <td align="center">
-
-Autre, dont scolarisation spécifique au lycée professionnel 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+      <td valign="middle" align="center">
 
 699 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
 Lycée professionnel, sans distinction supplémentaire 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 710 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-CAP en apprentissage 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-720 
-
-</td>
-      <td align="center">
-
-BEP en apprentissage 
+CAP en alternance 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
-
-730 
-
-</td>
-      <td align="center">
-
-Brevet professionnel 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+      <td valign="middle" align="center">
 
 740 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-Bac professionnel en apprentissage 
+Bac professionnel en alternance 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 750 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-Autre, dont scolarisation spécifique 
+Autre 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 769 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-Apprentissage sans distinction supplémentaire 
+Formation en alternance sans distinction supplémentaire 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 770 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-Etudes supérieures 
+Post-bac 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 999 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
 Ne sait pas 
 
@@ -1598,60 +736,53 @@ Ne sait pas
   </tbody>
 </table>
 
-II. 4. c. - SCOCLASPE : le mineur est scolarisé en classe spécialisée 
+SCOCLASPE : le mineur/majeur est scolarisé en milieu ordinaire avec un dispositif spécifique
 
 <table>
   <tbody>
     <tr>
-      <td colspan="2">
-
-SCOLARISÉ EN CLASSE SPÉCIALISÉE 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+      <th>
 
 CODE 
 
-</td>
-      <td align="center">
+</th>
+      <th>
 
 LIBELLÉ 
 
-</td>
+</th>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="middle" align="center">
 
 1 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
 Non 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 2 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
 Oui 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 9 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
 Ne sait pas 
 
@@ -1660,101 +791,89 @@ Ne sait pas
   </tbody>
 </table>
 
-II. 4. d. - TYPCLASSPE : si le mineur est scolarisé en classe spécialisée, préciser le type de classe 
+TYPCLASSPE : si le mineur/majeur est scolarisé avec un dispositif spécifique, préciser le type de dispositif 
 
 <table>
   <tbody>
     <tr>
-      <td align="center">
+      <th>
 
 CODE 
 
-</td>
-      <td align="center">
+</th>
+      <th>
 
 LIBELLÉ 
 
-</td>
+</th>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="middle" align="center">
 
-1 
-
-</td>
-      <td align="center">
-
-Classe pour l'inclusion scolaire 
+11 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      <td valign="middle" align="center">
 
-2 
-
-</td>
-      <td align="center">
-
-Unité pédagogique d'intégration 
+Dispositif pour le handicap (ULIS ...) 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
-3 
-
-</td>
-      <td align="center">
-
-Section d'enseignement général et professionnel adapté 
+12 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
-4 
-
-</td>
-      <td align="center">
-
-Classe d'intégration 
+Dispositif pour l'adaptation scolaire (SEGPA, EREA ...) 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="middle" align="center">
 
-5 
-
-</td>
-      <td align="center">
-
-Autre classe spécialisée 
+13 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      <td valign="middle" align="center">
 
-6 
-
-</td>
-      <td align="center">
-
-Classe spécialisée sans distinction supplémentaire 
+Dispositif pour les élèves allophones nouvellement arrivés (UPE2A ...) 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="middle" align="center">
 
-9 
+14 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
+
+Dispositif relais de lutte contre le décrochage scolaire 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+
+15 
+
+</td>
+      <td valign="middle" align="center">
+
+Autre dispositif spécifique 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle" align="center">
+
+99 
+
+</td>
+      <td valign="middle" align="center">
 
 Ne sait pas 
 
@@ -1763,48 +882,53 @@ Ne sait pas
   </tbody>
 </table>
 
-II. 4. e. - ETABSCOSPE : le mineur est scolarisé en établissement spécialisé 
+ETABSCOSPE : le mineur/majeur est scolarisé dans le cadre d'une unité d'enseignement hors milieu ordinaire 
 
 <table>
   <tbody>
     <tr>
-      <td colspan="2">SCOLARISÉ EN ÉTABLISSEMENT SPÉCIALISÉ </td>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
     </tr>
     <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 1 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
 Non 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="middle" align="center">
 
 2 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
 Oui 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="middle" align="center">
 
 9 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
 Ne sait pas 
 
@@ -1813,74 +937,72 @@ Ne sait pas
   </tbody>
 </table>
 
-II. 4. f. - TYPETABSPE : si le mineur est scolarisé en établissement spécialisé, préciser le type d'établissement 
+TYPETABSPE : si le mineur/majeur est scolarisé dans le cadre d'une unité d'enseignement hors milieu ordinaire ou instruit à
+domicile, préciser l'établissement ou le service de rattachement de l'unité d'enseignement
 
 <table>
   <tbody>
     <tr>
-      <td colspan="2">
-
-TYPE D'ÉTABLISSEMENT SPÉCIALISÉ 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+      <th>
 
 CODE 
 
-</td>
-      <td align="center">
+</th>
+      <th>
 
 LIBELLÉ 
 
-</td>
+</th>
     </tr>
     <tr>
       <td align="center">
 
-810 
+850 
 
 </td>
       <td align="center">
 
-Institut médico-pédagogique 
+Etablissement ou service sanitaire et médico-social (ITEP, IME, SESSAD, 
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-820 
-
-</td>
-      <td align="center">
-
-Institut médico-professionnel 
+hôpital ...) en scolarité exclusive 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-830 
+860 
 
 </td>
       <td align="center">
 
-Institut médico-éducatif 
+Etablissement ou service sanitaire et médico-social (ITEP, IME, SESSAD, 
+
+hôpital ...) en scolarité partagée 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-840 
+870 
 
 </td>
       <td align="center">
 
-Etablissement spécialisé de l'éducation nationale 
+Etablissement pénitentiaire 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+880 
+
+</td>
+      <td align="center">
+
+Etablissement PJJ (CER, CEF ...) 
 
 </td>
     </tr>
@@ -1892,7 +1014,19 @@ Etablissement spécialisé de l'éducation nationale
 </td>
       <td align="center">
 
-Etablissement spécialisé sans distinction supplémentaire 
+Etablissement ou service sans distinction supplémentaire 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+900 
+
+</td>
+      <td align="center">
+
+Instruit à domicile hors CNED 
 
 </td>
     </tr>
@@ -1911,63 +1045,65 @@ Ne sait pas
   </tbody>
 </table>
 
-II. 4. g. - NONSCO : si le mineur est non scolarisé, préciser la situation 
+FREQSCO : fréquentation scolaire en milieu scolaire ordinaire ou dans le cadre d'un établissement ou d'un service 
 
 <table>
   <tbody>
     <tr>
-      <td align="center">CODE </td>
-      <td align="center">
+      <th>
+
+CODE 
+
+</th>
+      <th>
 
 LIBELLÉ 
 
-</td>
+</th>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
-981 
-
-</td>
-      <td align="center">
-
-Non scolarisé, sans formation, insertion ou activité professionnelle 
+6 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
-982 
-
-</td>
-      <td align="center">
-
-Non scolarisé et dispositif de formation ou d'insertion 
-
-ou activité professionnelle, dont stage 
+Scolarisé sans situation de décrochage ou d'exclusion 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
-990 
+7 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-Autre (instruit à domicile, CNED, etc.) 
+Scolarisé mais en situation d'exclusion 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
-999 
+8 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
+
+Scolarisé mais en situation de décrochage scolaire 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+
+9 
+
+</td>
+      <td align="center" valign="middle">
 
 Ne sait pas 
 
@@ -1976,13 +1112,194 @@ Ne sait pas
   </tbody>
 </table>
 
-II. 5. - FREQSCO : fréquentation de l'établissement scolaire 
+c) Situation de handicap du mineur/majeur 
+
+HANDICAP : le mineur/ majeur bénéficie d'une reconnaissance de handicap suite à une décision de la commission des droits et
+de l'autonomie des personnes handicapées (CDAPH) rendue au nom de la maison départementale des personnes handicapées (MDPH)
 
 <table>
   <tbody>
     <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+
+1 
+
+</td>
+      <td align="center" valign="middle">
+
+Non 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle" align="center">
+
+2 
+
+</td>
+      <td align="center" valign="middle">
+
+Oui 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle" align="center">
+
+9 
+
+</td>
+      <td align="center" valign="middle">
+
+Ne sait pas 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+ORIENTDEC : le mineur/majeur bénéficie d'une orientation vers un établissement ou un service suite à une décision de la
+commission des droits et de l'autonomie des personnes handicapées (CDAPH)
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
+    </tr>
+    <tr>
+      <td valign="middle" align="center">
+
+1 
+
+</td>
+      <td valign="middle" align="center">
+
+Non 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle" align="center">
+
+2 
+
+</td>
+      <td align="center" valign="middle">
+
+Oui 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+
+9 
+
+</td>
+      <td align="center" valign="middle">
+
+Ne sait pas 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+ORIENTEFF : si le mineur/majeur bénéficie d'une orientation vers un établissement ou un service suite à une décision de la
+commission des droits et de l'autonomie des personnes handicapées (CDAPH), l'orientation est effective
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+
+1 
+
+</td>
+      <td valign="middle" align="center">
+
+Non 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+
+2 
+
+</td>
+      <td align="center" valign="middle">
+
+Oui 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle" align="center">
+
+9 
+
+</td>
+      <td valign="middle" align="center">
+
+Ne sait pas 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+3. Information initiale sur la situation de danger ou de risque de danger du mineur/majeur 
+
+TRAITINFO : institution ou service ayant reçu et traité l'information initiale sur la situation de danger ou de risque de
+danger du mineur/majeur
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
     </tr>
     <tr>
       <td align="center">
@@ -1992,7 +1309,7 @@ II. 5. - FREQSCO : fréquentation de l'établissement scolaire
 </td>
       <td align="center">
 
-Non inscrit 
+Cellule de recueil des informations préoccupantes (CRIP) 
 
 </td>
     </tr>
@@ -2004,7 +1321,7 @@ Non inscrit
 </td>
       <td align="center">
 
-Inscrit et fréquentation régulière 
+Service du conseil départemental (hors CRIP) 
 
 </td>
     </tr>
@@ -2016,7 +1333,7 @@ Inscrit et fréquentation régulière
 </td>
       <td align="center">
 
-Inscrit et fréquentation irrégulière 
+Parquet 
 
 </td>
     </tr>
@@ -2028,7 +1345,7 @@ Inscrit et fréquentation irrégulière
 </td>
       <td align="center">
 
-Inscrit mais déscolarisé 
+Juge des enfants 
 
 </td>
     </tr>
@@ -2040,7 +1357,7 @@ Inscrit mais déscolarisé
 </td>
       <td align="center">
 
-Inscrit mais en situation d'exclusion temporaire 
+Autre 
 
 </td>
     </tr>
@@ -2059,310 +1376,124 @@ Ne sait pas
   </tbody>
 </table>
 
-II. 6. - Handicap 
-
-II. 6. a. - HANDICAP : prise en charge spécifique suite à une décision de la commission des droits et de l'autonomie rendue
-au nom de la Maison départementale des personnes handicapées 
+DATIP : date de réception de l'information initiale sur la situation de danger ou de risque de danger du mineur/majeur à la
+CRIP ou dans les services du conseil départemental 
 
 <table>
   <tbody>
     <tr>
-      <td colspan="2">PRISE EN CHARGE SPÉCIFIQUE </td>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
     </tr>
     <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
-1 
+aaaa-mm-jj 
 
 </td>
       <td align="center">
 
-Non 
+Date de réception de l'information initiale sur la situation de danger ou de risque de danger du mineur/majeur 
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+à la CRIP ou dans les services du conseil départemental 
 
-2 
-
-</td>
-      <td align="center">
-
-Oui 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-9 
-
-</td>
-      <td align="center">
-
-Ne sait pas 
+9999 si année inconnue, 99 si mois inconnu, 99 si jour inconnu 
 
 </td>
     </tr>
   </tbody>
 </table>
 
-II. 6. b. - DATDECMDPH : si prise en charge spécifique, date de la décision de la commission des droits et de l'autonomie 
+DATSIGN : date du signalement direct auprès du procureur de la République 
 
 <table>
   <tbody>
     <tr>
-      <td colspan="2">DATE DE LA DÉCISION</td>
-    </tr>
-    <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
+      <th>
 
-jj 
+CODE 
 
-</td>
-      <td align="center">
+</th>
+      <th>
 
-Jour de la décision 
+LIBELLÉ 
 
-</td>
+</th>
     </tr>
     <tr>
       <td align="center">
 
-mm 
+aaaa-mm-jj 
 
 </td>
       <td align="center">
 
-Mois de la décision 
+Date du signalement direct auprès du procureur de la République 
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-aaaa 
-
-</td>
-      <td align="center">
-
-Année de décision 
+9999 si année inconnue, 99 si mois inconnu, 99 si jour inconnu 
 
 </td>
     </tr>
   </tbody>
 </table>
 
-II. 6. c. - DATEXDECMDPH : si prise en charge spécifique, date d'exécution de la décision de la commission des droits et de
-l'autonomie 
+DATJE : date de la saisine du juge des enfants 
 
 <table>
   <tbody>
     <tr>
-      <td colspan="2">EXÉCUTION DE LA DÉCISION </td>
-    </tr>
-    <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
+      <th>
 
-jj 
+CODE 
 
-</td>
-      <td align="center">
+</th>
+      <th>
 
-Jour de la décision 
+LIBELLÉ 
 
-</td>
+</th>
     </tr>
     <tr>
       <td align="center">
 
-mm 
+aaaa-mm-jj 
 
 </td>
       <td align="center">
 
-Mois de la décision 
+Date de la saisine du juge des enfants 
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-aaaa 
-
-</td>
-      <td align="center">
-
-Année de décision 
+99 si jour inconnu, 99 si mois inconnu, 9999 si année inconnue 
 
 </td>
     </tr>
   </tbody>
 </table>
 
-III. - Information préoccupante ou signalement direct donnant lieu à une mesure de protection de l'enfance 
-
-III. 1. - DATIP : date de réception de l'information préoccupante 
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
-
-jj 
-
-</td>
-      <td align="center">
-
-Jour 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-mm 
-
-</td>
-      <td align="center">
-
-Mois 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-aaaa 
-
-</td>
-      <td align="center">
-
-Année 
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-III. 2. - DATSIGN : date du signalement direct auprès du procureur de la République 
+ORIGIP : qualité de la personne ayant révélé l'information initiale sur la situation de danger ou de risque de danger du
+mineur/majeur 
 
 <table>
   <tbody>
     <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
+      <th>
 
-jj 
+CODE 
 
-</td>
-      <td align="center">
+</th>
+      <th>
 
-Jour 
+LIBELLÉ 
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-mm 
-
-</td>
-      <td align="center">
-
-Mois 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-aaaa 
-
-</td>
-      <td align="center">
-
-Année 
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-III. 3. - DATJE : date de la saisine directe du juge des enfants 
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
-
-jj 
-
-</td>
-      <td align="center">
-
-Jour 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-mm 
-
-</td>
-      <td align="center">
-
-Mois 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-aaaa 
-
-</td>
-      <td align="center">
-
-Année 
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-III. 4. - ORIGIP : qualité de la personne à l'origine de l'information préoccupante ou du signalement direct 
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
+</th>
     </tr>
     <tr>
       <td align="center">
@@ -2377,12 +1508,12 @@ Le mineur lui-même
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="middle" align="center">
 
 20 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
 Parents du mineur 
 
@@ -2463,14 +1594,22 @@ Ne sait pas
   </tbody>
 </table>
 
-III. 5. - TRANSIP : institution ou qualité de la personne ayant transmis l'information préoccupante à la cellule ou ayant
-saisi directement le procureur de la République ou le juge des enfants 
+TRANSIP : institution ou qualité de la personne ayant transmis l'information initiale sur la situation de danger ou de risque
+de danger du mineur/majeur
 
 <table>
   <tbody>
     <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
     </tr>
     <tr>
       <td align="center">
@@ -2521,7 +1660,7 @@ Autre particulier
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="middle" align="center">
 
 510 
 
@@ -2540,7 +1679,7 @@ Service national d'accueil téléphonique de l'enfance en danger
 </td>
       <td align="center">
 
-Conseil général 
+Conseil départemental 
 
 </td>
     </tr>
@@ -2708,7 +1847,7 @@ Justice sans distinction supplémentaire
 </td>
       <td align="center">
 
-Mairie ou commune 
+Autre collectivité territoriale ou établissement public de coopération intercommunale 
 
 </td>
     </tr>
@@ -2751,171 +1890,113 @@ Ne sait pas
   </tbody>
 </table>
 
-III. 6. - Suite donnée au signalement direct auprès du procureur de la République 
-
-III. 6. a. - SUITSIGNCG/ SUITSIGOPP/ SUITSIGJE/ SUITSIGSS : 
-
-type de suite donnée au signalement 
+MOTIFSIG : en cas de signalement judiciaire après l'évaluation par un service du conseil départemental, motif du signalement
+judiciaire
 
 <table>
   <tbody>
     <tr>
-      <td colspan="3" align="center">CODE </td>
-      <td rowspan="2" align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">Non </td>
-      <td align="center">Oui </td>
-      <td align="center">Ne sait pas 
+      <th>
 
-</td>
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 1 
 
 </td>
       <td align="center">
 
-2 
-
-</td>
-      <td align="center">
-
-9 
-
-</td>
-      <td align="center">
-
-SUITSIGNCG Renvoi au conseil général pour compétence fondée sur l'article L. 226-4 du CASF 
+L'action ou les actions mises en œuvre précédemment n'ont pas permis de remédier à la situation 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
-
-1 
-
-</td>
-      <td align="center">
+      <td valign="middle" align="center">
 
 2 
 
 </td>
       <td align="center">
 
-9 
-
-</td>
-      <td align="center">
-
-SUITSIGOPP Ordonnance de placement provisoire 
+Refus explicite ou implicite de la famille d'accepter l'intervention proposée 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="middle" align="center">
 
-1 
-
-</td>
-      <td align="center">
-
-2 
+3 
 
 </td>
       <td align="center">
 
-9 
-
-</td>
-      <td align="center">
-
-SUITSIGJE Saisine du juge des enfants 
+Impossibilité de collaboration avec la famille 
 
 </td>
     </tr>
     <tr>
+      <td valign="middle" align="center">
+
+4 
+
+</td>
       <td align="center">
 
-1 
+Impossibilité d'évaluer cette situation 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle" align="center">
+
+5 
 
 </td>
       <td align="center">
 
-2 
+Danger grave et immédiat, notamment dans les situations de maltraitance 
 
 </td>
-      <td align="center">
+    </tr>
+    <tr>
+      <td valign="middle" align="center">
 
 9 
 
 </td>
       <td align="center">
 
-SUITSIGSS Sans suite du procureur de la République 
+Ne sait pas 
 
 </td>
     </tr>
   </tbody>
 </table>
 
-III. 6. b. - DATAVIS : en cas d'ouverture directe d'une procédure auprès du juge des enfants : date d'avis d'ouverture de la
-procédure 
+ENQPENAL : le cas échéant, préciser s'il y a une enquête pénale
 
 <table>
   <tbody>
     <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
+      <th>
 
-jj 
+CODE 
 
-</td>
-      <td align="center">
+</th>
+      <th>
 
-Jour 
+LIBELLÉ 
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-mm 
-
-</td>
-      <td align="center">
-
-Mois 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-aaaa 
-
-</td>
-      <td align="center">
-
-Année 
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-III. 6. c. - ENQPENAL : le cas échéant, préciser s'il y a une enquête pénale 
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
+</th>
     </tr>
     <tr>
       <td align="center">
@@ -2956,13 +2037,21 @@ Ne sait pas
   </tbody>
 </table>
 
-III. 6. d. - SAISJUR : le cas échéant, préciser s'il y a une saisine de la juridiction pénale 
+SAISJUR : le cas échéant, préciser s'il y a une saisine de la juridiction pénale
 
 <table>
   <tbody>
     <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
     </tr>
     <tr>
       <td align="center">
@@ -3003,17 +2092,25 @@ Ne sait pas
   </tbody>
 </table>
 
-IV. - Informations concernant le cadre de vie social et familial du mineur 
+4. Informations concernant le cadre de vie social et familial du mineur/majeur 
 
-IV. 1 - Caractéristiques du ménage au sein de la résidence principale du mineur 
+a) Caractéristiques du ménage au sein de la résidence principale du mineur/majeur 
 
-IV. 1. a. - COMPOMENAG : composition du ménage 
+COMPOMENAG : composition du ménage au sein du lieu de résidence principale du mineur
 
 <table>
   <tbody>
     <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
     </tr>
     <tr>
       <td align="center">
@@ -3150,13 +2247,21 @@ Ne sait pas
   </tbody>
 </table>
 
-IV. 1. b. - AUTREHEBER : autre hébergement régulier du mineur le cas échéant 
+AUTREHEBER : autre hébergement régulier du mineur le cas échéant
 
 <table>
   <tbody>
     <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
     </tr>
     <tr>
       <td align="center">
@@ -3197,129 +2302,124 @@ Ne sait pas
   </tbody>
 </table>
 
-IV. 1. c. - NBPER : nombre total de personnes dans le lieu de résidence 
+NBFRAT : nombre total de frères et sœurs dans le lieu de résidence principale du mineur (inclus demi-frères et demi-sœurs,
+quasi-frères et quasi-sœurs) 
 
 <table>
   <tbody>
     <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
     </tr>
     <tr>
       <td align="center">
 
-nn 
+n 
 
 </td>
       <td align="center">
 
-Nombre de personnes 
+Nombre total de frères et sœurs dans le lieu de résidence principale du mineur (inclus demi-frères et demi-sœurs, quasi-
+frères et quasi-sœurs) 
+
+99 si valeur non connue 
 
 </td>
     </tr>
   </tbody>
 </table>
 
-IV. 1. d. - NBFRAT : nombre total de frères et sœurs 
+MENAGEJM : Composition du ménage au sein du lieu de résidence principale du majeur
 
 <table>
   <tbody>
     <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
     </tr>
     <tr>
-      <td align="center">
-
-nn 
-
-</td>
-      <td align="center">
-
-Nombre de frères et sœurs (inclus demi-frères et demi-sœurs) 
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-IV. 1. e. - STATOCLOG : statut d'occupation du logement 
-
-(selon la nomenclature INSEE) 
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
+      <td valign="middle" align="center">
 
 1 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-Propriétaire 
+Majeur vivant seul 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="middle" align="center">
 
 2 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-Locataire, sous-locataire 
+Majeur vivant avec un (e) conjoint (e)/ petit (e) ami (e) 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="middle" align="center">
 
 3 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-Logé gratuitement 
+Majeur vivant en colocation 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 4 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-Fermier-métayer 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-5 
-
-</td>
-      <td align="center">
-
-Autre 
+Majeur vivant avec un ou des membres de sa famille de naissance ou d'adoption 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
+
+8 
+
+</td>
+      <td align="center" valign="middle">
+
+Autre situation 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle" align="center">
 
 9 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
 Ne sait pas 
 
@@ -3328,131 +2428,160 @@ Ne sait pas
   </tbody>
 </table>
 
-IV. 2. - Exercice de l'autorité parentale 
-
-IV. 2. a. - TITAP : titulaire de l'autorité parentale 
+NBENF : nombre total d'enfants du mineur/majeur 
 
 <table>
   <tbody>
     <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="middle" align="center">
 
-10 
-
-</td>
-      <td align="center">
-
-Exercice conjoint, par les parents vivant ensemble 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-20 
+n 
 
 </td>
       <td align="center">
 
-Exercice conjoint, par les parents vivant séparément 
+Nombre total d'enfants du mineur/majeur 
+
+99 si valeur non connue 
 
 </td>
     </tr>
+  </tbody>
+</table>
+
+b) Exercice de l'autorité parentale (concerne uniquement les mineurs) 
+
+TITAP : titulaire de l'autorité parentale du mineur 
+
+<table>
+  <tbody>
     <tr>
-      <td align="center">
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+
+11 
+
+</td>
+      <td align="center" valign="middle">
+
+Exercice conjoint par les parents vivant ensemble ou séparément 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
 
 30 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
 Exclusivement par le père 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 40 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
 Exclusivement par la mère 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 50 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
 Autre membre de la famille 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 60 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
 Autre particulier sans lien familial 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 70 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-Président du conseil général 
+Président du conseil départemental 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="middle" align="center">
 
 80 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
 Préfet 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="middle" align="center">
 
 90 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
 Etablissement 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 99 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
 Ne sait pas 
 
@@ -3461,234 +2590,101 @@ Ne sait pas
   </tbody>
 </table>
 
-IV. 2. b. - DECAP : décision relative à l'autorité parentale 
+DECAP : décision relative à l'autorité parentale 
 
 <table>
   <tbody>
     <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="middle" align="center">
 
 1 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
 Décision du juge aux affaires familiales sur l'exercice de l'autorité parentale 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 2 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
 Délégation de l'autorité parentale 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 3 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
 Retrait 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 4 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
 Tutelle 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
-
-9 
-
-</td>
-      <td align="center">
-
-Ne sait pas 
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-IV. 2. c. - DATDECAP : date de la décision relative à l'autorité parentale 
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
-
-jj 
-
-</td>
-      <td align="center">
-
-Jour 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-mm 
-
-</td>
-      <td align="center">
-
-Mois 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-aaaa 
-
-</td>
-      <td align="center">
-
-Année 
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-IV. 2. d. - CONTMERE/ CONTPERE : fréquence des contacts de la mère/ du père avec le mineur 
-
-<table>
-  <tbody>
-    <tr>
-      <td rowspan="2" align="center">CODE </td>
-      <td align="center">CONTMÈRE </td>
-      <td align="center">CONTPÈRE </td>
-    </tr>
-    <tr>
-      <td align="center">LIBELLÉ </td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
-
-1 
-
-</td>
-      <td align="center">
-
-Au moins une fois par semaine 
-
-</td>
-      <td align="center">
-
-Au moins une fois par semaine 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-2 
-
-</td>
-      <td align="center">
-
-Au moins une fois par mois 
-
-</td>
-      <td align="center">
-
-Au moins une fois par mois 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-3 
-
-</td>
-      <td align="center">
-
-Au moins une fois tous les 6 mois 
-
-</td>
-      <td align="center">
-
-Au moins une fois tous les 6 mois 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-4 
-
-</td>
-      <td align="center">
-
-Au moins une fois par an 
-
-</td>
-      <td align="center">
-
-Au moins une fois par an 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+      <td valign="middle" align="center">
 
 5 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-Aucun contact 
-
-</td>
-      <td align="center">
-
-Aucun contact 
+Déclaration judiciaire de délaissement parental 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
+
+6 
+
+</td>
+      <td align="center" valign="middle">
+
+Pas de décision relative à l'autorité parentale 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
 
 9 
 
 </td>
-      <td align="center">
-
-Ne sait pas 
-
-</td>
-      <td align="center">
+      <td align="center" valign="middle">
 
 Ne sait pas 
 
@@ -3697,31 +2693,62 @@ Ne sait pas
   </tbody>
 </table>
 
-IV. 3. - Situation sociodémographique des parents ou des adultes qui s'occupent principalement du mineur dans sa résidence
-principale 
-
-IV. 3. a. - LIENA1/ LIENA2 : lien de l'adulte 1 et de l'adulte 2 avec le mineur 
+DATDECAP : date de la décision relative à l'autorité parentale 
 
 <table>
   <tbody>
     <tr>
-      <td rowspan="2" align="center">CODE </td>
-      <td align="center">LIENA1 </td>
-      <td align="center">LIENA2 </td>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
     </tr>
     <tr>
-      <td align="center">LIBELLÉ </td>
-      <td align="center">LIBELLÉ </td>
+      <td valign="middle" align="center">
+
+aaaa-mm-jj 
+
+</td>
+      <td align="center">
+
+Date de la décision relative à l'autorité parentale 
+
+9999 si année inconnue, 99 si mois inconnu, 99 si jour inconnu 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+c) Situation sociodémographique des parents ou des adultes qui s'occupent principalement du mineur dans sa résidence
+principale (concerne uniquement les mineurs) 
+
+LIENA1 : lien de l'adulte 1 avec le mineur 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
     </tr>
     <tr>
       <td align="center">
 
 1 
-
-</td>
-      <td align="center">
-
-Père ou mère 
 
 </td>
       <td align="center">
@@ -3741,21 +2768,11 @@ Père ou mère
 Conjoint du père ou de la mère 
 
 </td>
-      <td align="center">
-
-Conjoint du père ou de la mère 
-
-</td>
     </tr>
     <tr>
       <td align="center">
 
 3 
-
-</td>
-      <td align="center">
-
-Grand-père ou grand-mère 
 
 </td>
       <td align="center">
@@ -3775,21 +2792,11 @@ Grand-père ou grand-mère
 Frère, demi-frère, sœur ou demi-sœur 
 
 </td>
-      <td align="center">
-
-Frère, demi-frère, sœur ou demi-sœur 
-
-</td>
     </tr>
     <tr>
       <td align="center">
 
 5 
-
-</td>
-      <td align="center">
-
-Oncle ou tante 
 
 </td>
       <td align="center">
@@ -3809,21 +2816,11 @@ Oncle ou tante
 Autre membre de la famille 
 
 </td>
-      <td align="center">
-
-Autre membre de la famille 
-
-</td>
     </tr>
     <tr>
       <td align="center">
 
 7 
-
-</td>
-      <td align="center">
-
-Autre particulier sans lien familial 
 
 </td>
       <td align="center">
@@ -3843,27 +2840,25 @@ Autre particulier sans lien familial
 Ne sait pas 
 
 </td>
-      <td align="center">
-
-Ne sait pas 
-
-</td>
     </tr>
   </tbody>
 </table>
 
-IV. 3. b. - SEXA1/ SEXA2 : sexe de l'adulte 1 et de l'adulte 2 
+LIENA2 : lien de l'adulte 2 avec le mineur 
 
 <table>
   <tbody>
     <tr>
-      <td align="center" rowspan="2">CODE </td>
-      <td align="center">SEXA1 </td>
-      <td align="center">SEXA2 </td>
-    </tr>
-    <tr>
-      <td align="center">LIBELLÉ </td>
-      <td align="center">LIBELLÉ </td>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
     </tr>
     <tr>
       <td align="center">
@@ -3873,7 +2868,117 @@ IV. 3. b. - SEXA1/ SEXA2 : sexe de l'adulte 1 et de l'adulte 2
 </td>
       <td align="center">
 
-Homme 
+Père ou mère 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2 
+
+</td>
+      <td align="center">
+
+Conjoint du père ou de la mère 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+3 
+
+</td>
+      <td align="center">
+
+Grand-père ou grand-mère 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+4 
+
+</td>
+      <td align="center">
+
+Frère, demi-frère, sœur ou demi-sœur 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+5 
+
+</td>
+      <td align="center">
+
+Oncle ou tante 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+6 
+
+</td>
+      <td align="center">
+
+Autre membre de la famille 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+7 
+
+</td>
+      <td align="center">
+
+Autre particulier sans lien familial 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+9 
+
+</td>
+      <td align="center">
+
+Ne sait pas 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+SEXA1 : sexe de l'adulte 1 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+1 
 
 </td>
       <td align="center">
@@ -3893,6 +2998,56 @@ Homme
 Femme 
 
 </td>
+    </tr>
+    <tr>
+      <td align="center">
+
+9 
+
+</td>
+      <td align="center">
+
+Ne sait pas 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+SEXA2 : sexe de l'adulte 2 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+1 
+
+</td>
+      <td align="center">
+
+Homme 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2 
+
+</td>
       <td align="center">
 
 Femme 
@@ -3910,27 +3065,25 @@ Femme
 Ne sait pas 
 
 </td>
-      <td align="center">
-
-Ne sait pas 
-
-</td>
     </tr>
   </tbody>
 </table>
 
-IV. 3. c. - ANSA1/ ANSA2 : année de naissance de l'adulte 1 et de l'adulte 2 
+ANSA1 : année de naissance de l'adulte 1 
 
 <table>
   <tbody>
     <tr>
-      <td rowspan="2" align="center">CODE </td>
-      <td align="center">ANSA1 </td>
-      <td align="center">ANSA2 </td>
-    </tr>
-    <tr>
-      <td align="center">LIBELLÉ </td>
-      <td align="center">LIBELLÉ </td>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
     </tr>
     <tr>
       <td align="center">
@@ -3940,98 +3093,157 @@ aaaa
 </td>
       <td align="center">
 
-Année de naissance 
+Année de naissance de l'adulte 1 
 
-</td>
-      <td align="center">
-
-Année de naissance 
+9999 si la valeur n'est pas connue 
 
 </td>
     </tr>
   </tbody>
 </table>
 
-IV. 3. d. - EMPLA1/ EMPLA2 : situation face à l'emploi de l'adulte 1 et de l'adulte 2 
-
-(selon la nomenclature INSEE) 
+ANSA2 : année de naissance de l'adulte 2 
 
 <table>
   <tbody>
     <tr>
-      <td align="center" rowspan="2">CODE </td>
-      <td align="center">EMPLA 1 </td>
-      <td align="center">EMPLA 2 </td>
-    </tr>
-    <tr>
-      <td align="center">LIBELLÉ </td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
+      <th>
 
-10 
+CODE 
 
-</td>
-      <td align="center">
+</th>
+      <th>
 
-Salarié contrat à durée indéterminée 
+LIBELLÉ 
 
-</td>
-      <td align="center">
-
-Salarié contrat à durée indéterminée 
-
-</td>
+</th>
     </tr>
     <tr>
       <td align="center">
 
-11 
+aaaa 
 
 </td>
       <td align="center">
 
-A son compte ou aidant un membre de sa famille dans son travail 
+Année de naissance de l'adulte 2 
+
+9999 si la valeur n'est pas connue 
 
 </td>
-      <td align="center">
+    </tr>
+  </tbody>
+</table>
 
-A son compte ou aidant un membre de sa famille dans son travail 
+EMPLA1 : situation face à l'emploi de l'adulte 1 (selon la nomenclature INSEE)
 
-</td>
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
     </tr>
     <tr>
       <td align="center">
 
-12 
+1 
 
 </td>
       <td align="center">
 
-Contrat à durée déterminée, mission d'intérim, apprentissage, travail saisonnier 
-
-</td>
-      <td align="center">
-
-Contrat à durée déterminée, mission d'intérim, apprentissage, travail saisonnier 
+En contrat d'apprentissage 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-13 
+2 
 
 </td>
       <td align="center">
 
-Stage de la formation professionnelle, ou contrat d'aide à l'emploi 
+Placé par une agence d'intérim 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+3 
 
 </td>
       <td align="center">
 
-Stage de la formation professionnelle, ou contrat d'aide à l'emploi 
+Emploi aidé 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+4 
+
+</td>
+      <td align="center">
+
+Stagiaire rémunéré 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+5 
+
+</td>
+      <td align="center">
+
+Emploi à durée limitée (CDD, contrat court, saisonnier, vacataire ...) 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+6 
+
+</td>
+      <td align="center">
+
+Emploi sans limite de durée (CDI, titulaire de la fonction publique ...) 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+7 
+
+</td>
+      <td align="center">
+
+Non salarié (indépendant, employeur, aidant un membre de sa famille) 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+8 
+
+</td>
+      <td align="center">
+
+Autre actif occupé sans précision 
 
 </td>
     </tr>
@@ -4039,11 +3251,6 @@ Stage de la formation professionnelle, ou contrat d'aide à l'emploi
       <td align="center">
 
 20 
-
-</td>
-      <td align="center">
-
-Au chômage 
 
 </td>
       <td align="center">
@@ -4060,29 +3267,7 @@ Au chômage
 </td>
       <td align="center">
 
-Elève, étudiant, stagiaire non rémunéré 
-
-</td>
-      <td align="center">
-
-Elève, étudiant, stagiaire non rémunéré 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-40 
-
-</td>
-      <td align="center">
-
-Militaire du contingent 
-
-</td>
-      <td align="center">
-
-Militaire du contingent 
+Elève, étudiant 
 
 </td>
     </tr>
@@ -4094,12 +3279,7 @@ Militaire du contingent
 </td>
       <td align="center">
 
-Autre situation : retraité, préretraité, femme au foyer, autre... 
-
-</td>
-      <td align="center">
-
-Autre situation : retraité, préretraité, femme au foyer, autre... 
+Inactif : retraité, préretraité, parent au foyer ... 
 
 </td>
     </tr>
@@ -4114,29 +3294,25 @@ Autre situation : retraité, préretraité, femme au foyer, autre...
 Ne sait pas 
 
 </td>
-      <td align="center">
-
-Ne sait pas 
-
-</td>
     </tr>
   </tbody>
 </table>
 
-IV. 3. e. - CSPA1/ CSPA2 : catégorie socioprofessionnelle de l'adulte 1 et de l'adulte 2 
-
-(selon la nomenclature INSEE) 
+EMPLA2 : situation face à l'emploi de l'adulte 2 (selon la nomenclature INSEE) 
 
 <table>
   <tbody>
     <tr>
-      <td rowspan="2" align="center">CODE </td>
-      <td align="center">CSPA1 </td>
-      <td align="center">CSPA2 </td>
-    </tr>
-    <tr>
-      <td align="center">LIBELLÉ </td>
-      <td align="center">LIBELLÉ </td>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
     </tr>
     <tr>
       <td align="center">
@@ -4146,7 +3322,165 @@ IV. 3. e. - CSPA1/ CSPA2 : catégorie socioprofessionnelle de l'adulte 1 et de l
 </td>
       <td align="center">
 
-Agriculteurs exploitants 
+En contrat d'apprentissage 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2 
+
+</td>
+      <td align="center">
+
+Placé par une agence d'intérim 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+3 
+
+</td>
+      <td align="center">
+
+Emploi aidé 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+4 
+
+</td>
+      <td align="center">
+
+Stagiaire rémunéré 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+5 
+
+</td>
+      <td align="center">
+
+Emploi à durée limitée (CDD, contrat court, saisonnier, vacataire ...) 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+6 
+
+</td>
+      <td align="center">
+
+Emploi sans limite de durée (CDI, titulaire de la fonction publique ...) 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+7 
+
+</td>
+      <td align="center">
+
+Non salarié (indépendant, employeur, aidant un membre de sa famille) 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+8 
+
+</td>
+      <td align="center">
+
+Autre actif occupé sans précision 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+20 
+
+</td>
+      <td align="center">
+
+Au chômage 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+30 
+
+</td>
+      <td align="center">
+
+Elève, étudiant 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+50 
+
+</td>
+      <td align="center">
+
+Inactif : retraité, préretraité, parent au foyer ... 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+99 
+
+</td>
+      <td align="center">
+
+Ne sait pas 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+CSPA1 : catégorie socioprofessionnelle de l'adulte 1 (selon la nomenclature INSEE)
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+1 
 
 </td>
       <td align="center">
@@ -4166,21 +3500,11 @@ Agriculteurs exploitants
 Artisans, commerçants et chefs d'entreprise 
 
 </td>
-      <td align="center">
-
-Artisans, commerçants et chefs d'entreprise 
-
-</td>
     </tr>
     <tr>
       <td align="center">
 
 3 
-
-</td>
-      <td align="center">
-
-Cadres et professions intellectuelles supérieures 
 
 </td>
       <td align="center">
@@ -4200,21 +3524,11 @@ Cadres et professions intellectuelles supérieures
 Professions Intermédiaires 
 
 </td>
-      <td align="center">
-
-Professions Intermédiaires 
-
-</td>
     </tr>
     <tr>
       <td align="center">
 
 5 
-
-</td>
-      <td align="center">
-
-Employés 
 
 </td>
       <td align="center">
@@ -4234,21 +3548,11 @@ Employés
 Ouvriers 
 
 </td>
-      <td align="center">
-
-Ouvriers 
-
-</td>
     </tr>
     <tr>
       <td align="center">
 
 7 
-
-</td>
-      <td align="center">
-
-Retraités 
 
 </td>
       <td align="center">
@@ -4268,71 +3572,134 @@ Retraités
 Autres personnes sans activité professionnelle 
 
 </td>
+    </tr>
+    <tr>
+      <td align="center">
+
+9 
+
+</td>
+      <td align="center">
+
+Ne sait pas 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+CSPA2 : catégorie socioprofessionnelle de l'adulte 2 (selon la nomenclature INSEE) 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+1 
+
+</td>
+      <td align="center">
+
+Agriculteurs exploitants 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2 
+
+</td>
+      <td align="center">
+
+Artisans, commerçants et chefs d'entreprise 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+3 
+
+</td>
+      <td align="center">
+
+Cadres et professions intellectuelles supérieures 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+4 
+
+</td>
+      <td align="center">
+
+Professions Intermédiaires 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+5 
+
+</td>
+      <td align="center">
+
+Employés 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+6 
+
+</td>
+      <td align="center">
+
+Ouvriers 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+7 
+
+</td>
+      <td align="center">
+
+Retraités 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+8 
+
+</td>
       <td align="center">
 
 Autres personnes sans activité professionnelle 
 
 </td>
     </tr>
-  </tbody>
-</table>
-
-IV. 3. f. - RESMENAG : ressources mensuelles du ménage 
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
-
-1 
-
-</td>
-      <td align="center">
-
-0-999 euros 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-2 
-
-</td>
-      <td align="center">
-
-1 000-1 999 euros 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-3 
-
-</td>
-      <td align="center">
-
-2 000-2 999 euros 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-4 
-
-</td>
-      <td align="center">
-
-3 000 et plus 
-
-</td>
-    </tr>
     <tr>
       <td align="center">
 
@@ -4348,486 +3715,163 @@ Ne sait pas
   </tbody>
 </table>
 
-IV. 3. g. - REVTRAV/ MINIMA/ ALLOC/ AUTRE : nature des ressources du ménage 
+d) Situation du majeur (concerne uniquement les majeurs) 
+
+EMPLJM : situation face à l'emploi du majeur (selon la nomenclature INSEE)
 
 <table>
   <tbody>
     <tr>
-      <td colspan="4">CODE </td>
-    </tr>
-    <tr>
-      <td align="center">Non </td>
-      <td align="center">Oui </td>
-      <td align="center">Ne sait pas </td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
-
-1 
-
-</td>
-      <td align="center">
-
-2 
-
-</td>
-      <td align="center">
-
-9 
-
-</td>
-      <td align="center">
-
-REVTRAV Revenus du travail 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-1 
-
-</td>
-      <td align="center">
-
-2 
-
-</td>
-      <td align="center">
-
-9 
-
-</td>
-      <td align="center">
-
-MINIMA Minimas sociaux 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-1 
-
-</td>
-      <td align="center">
-
-2 
-
-</td>
-      <td align="center">
-
-9 
-
-</td>
-      <td align="center">
-
-ALLOC Allocations ou pensions 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-1 
-
-</td>
-      <td align="center">
-
-2 
-
-</td>
-      <td align="center">
-
-9 
-
-</td>
-      <td align="center">
-
-AUTRE Autres sources de revenus 
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-IV. 4. - Caractéristiques sociodémographiques du père et/ ou de la mère si non cohabitant avec le mineur 
-
-IV. 4. a. MEREINC/ PEREINC : mère/ père inconnu 
-
-<table>
-  <tbody>
-    <tr>
-      <td rowspan="2">CODE 
-
-</td>
-      <td>MERINC </td>
-      <td>PEREINC </td>
-    </tr>
-    <tr>
-      <td align="center">LIBELLÉ 
-
-</td>
-      <td align="center">LIBELLÉ 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-1 
-
-</td>
-      <td align="center">
-
-Non 
-
-</td>
-      <td align="center">
-
-Non 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-2 
-
-</td>
-      <td align="center">
-
-Oui 
-
-</td>
-      <td align="center">
-
-Oui 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-9 
-
-</td>
-      <td align="center">
-
-Ne sait pas 
-
-</td>
-      <td align="center">
-
-Ne sait pas 
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-IV. 4. b. - ANSMERE/ ANSPERE : année de naissance de la mère/ du père 
-
-<table>
-  <tbody>
-    <tr>
-      <td rowspan="2">
+      <th>
 
 CODE 
 
-</td>
-      <td>ANSMERE </td>
-      <td>ANSPERE </td>
-    </tr>
-    <tr>
-      <td align="center">
+</th>
+      <th>
 
 LIBELLÉ 
 
-</td>
-      <td align="center">
-
-LIBELLÉ 
-
-</td>
+</th>
     </tr>
     <tr>
-      <td align="center">
-
-aaaa 
-
-</td>
-      <td align="center">
-
-Année 
-
-</td>
-      <td align="center">
-
-Année 
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-IV. 4. c. - DCMERE/ DCPERE : mère décédée/ père décédé 
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center" rowspan="2">CODE 
-
-</td>
-      <td align="center">DCMERE </td>
-      <td align="center">DCPERE</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-LIBELLÉ
-
-</td>
-      <td align="center">LIBELLÉ</td>
-    </tr>
-    <tr>
-      <td align="center">1 </td>
-      <td align="center">Non </td>
-      <td align="center">Non </td>
-    </tr>
-    <tr>
-      <td align="center">
-
-2 
-
-</td>
-      <td align="center">
-
-Oui 
-
-</td>
-      <td align="center">
-
-Oui 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-9 
-
-</td>
-      <td align="center">
-
-Ne sait pas 
-
-</td>
-      <td align="center">
-
-Ne sait pas 
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-IV. 4. d. - DATDCMERE/ DATDCPERE : si décès de la mère/ du père, mois et année du décès 
-
-<table>
-  <tbody>
-    <tr>
-      <td rowspan="2">CODE 
-
-</td>
-      <td>DATDCMERE </td>
-      <td>DATCPERE </td>
-    </tr>
-    <tr>
-      <td align="center">LIBELLE 
-
-</td>
-      <td align="center">LIBELLE 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Mm 
-
-</td>
-      <td align="center">
-
-Mois 
-
-</td>
-      <td align="center">
-
-Mois 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-aaaa 
-
-</td>
-      <td align="center">
-
-Année 
-
-</td>
-      <td align="center">
-
-Année 
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-V. - Informations relatives au mineur recueillies au titre de l'évaluation de sa situation, ou au titre du signalement
-direct 
-
-V. 1. - Evaluation 
-
-V. 1. a. - NOTIFEVAL : date de notification de la demande d'évaluation 
-
-<table>
-  <tbody>
-    <tr>
-      <td>CODE </td>
-      <td>LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
-
-jj 
-
-</td>
-      <td align="center">
-
-Jour 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-mm 
-
-</td>
-      <td align="center">
-
-Mois 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-aaaa 
-
-</td>
-      <td align="center">
-
-Année 
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-V. 1. b. - FINEVAL : date de fin de l'évaluation 
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
-
-jj 
-
-</td>
-      <td align="center">
-
-Jour 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-mm 
-
-</td>
-      <td align="center">
-
-Mois 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-aaaa 
-
-</td>
-      <td align="center">
-
-Année 
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-V. 1. c. - MESANT : existence d'une prestation ou mesure de protection de l'enfance en cours ou antérieure pour un membre de
-la fratrie 
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
+      <td valign="middle" align="center">
 
 1 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-Non 
+En contrat d'apprentissage 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 2 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-Oui 
+Placé par une agence d'intérim 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
-9 
+3 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
+
+Emploi aidé 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+
+4 
+
+</td>
+      <td valign="middle" align="center">
+
+Stagiaire rémunéré 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle" align="center">
+
+5 
+
+</td>
+      <td valign="middle" align="center">
+
+Emploi à durée limitée (CDD, contrat court, saisonnier, vacataire ...) 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+
+6 
+
+</td>
+      <td align="center" valign="middle">
+
+Emploi sans limite de durée (CDI, titulaire de la fonction publique ...) 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+
+7 
+
+</td>
+      <td align="center" valign="middle">
+
+Non salarié (indépendant, employeur, aidant un membre de sa famille) 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle" align="center">
+
+8 
+
+</td>
+      <td valign="middle" align="center">
+
+Autre actif occupé sans précision 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+
+20 
+
+</td>
+      <td valign="middle" align="center">
+
+Au chômage 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+
+30 
+
+</td>
+      <td valign="middle" align="center">
+
+Elève, étudiant 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+
+50 
+
+</td>
+      <td align="center" valign="middle">
+
+Inactif : retraité, préretraité, parent au foyer ... 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+
+99 
+
+</td>
+      <td align="center" valign="middle">
 
 Ne sait pas 
 
@@ -4836,68 +3880,21 @@ Ne sait pas
   </tbody>
 </table>
 
-V. 1. d. - ACCFAM : accompagnement social ou médico-social en cours d'au moins un membre de la famille 
+CSPJM : catégorie socioprofessionnelle du majeur (selon la nomenclature INSEE) 
 
 <table>
   <tbody>
     <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
-
-1 
-
-</td>
-      <td align="center">
-
-Non 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-2 
-
-</td>
-      <td align="center">
-
-Oui 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-9 
-
-</td>
-      <td align="center">
-
-Ne sait pas 
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-V. 1. e. - SUITEVAL : suite donnée à l'évaluation 
-
-<table>
-  <tbody>
-    <tr>
-      <td>
+      <th>
 
 CODE 
 
-</td>
-      <td>
+</th>
+      <th>
 
-LIBELLÉ
+LIBELLÉ 
 
-</td>
+</th>
     </tr>
     <tr>
       <td align="center">
@@ -4907,7 +3904,7 @@ LIBELLÉ
 </td>
       <td align="center">
 
-Mise en place d'une mesure administrative de protection de l'enfance 
+Agriculteurs exploitants 
 
 </td>
     </tr>
@@ -4919,7 +3916,7 @@ Mise en place d'une mesure administrative de protection de l'enfance
 </td>
       <td align="center">
 
-Signalement judiciaire 
+Artisans, commerçants et chefs d'entreprise 
 
 </td>
     </tr>
@@ -4931,7 +3928,7 @@ Signalement judiciaire
 </td>
       <td align="center">
 
-Poursuite de la prise en charge en protection de l'enfance (administrative ou judiciaire) 
+Cadres et professions intellectuelles supérieures 
 
 </td>
     </tr>
@@ -4943,7 +3940,55 @@ Poursuite de la prise en charge en protection de l'enfance (administrative ou ju
 </td>
       <td align="center">
 
-Nouvelle décision en protection de l'enfance 
+Professions Intermédiaires 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+5 
+
+</td>
+      <td align="center">
+
+Employés 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+6 
+
+</td>
+      <td align="center">
+
+Ouvriers 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+7 
+
+</td>
+      <td align="center">
+
+Retraités 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+8 
+
+</td>
+      <td align="center">
+
+Autres personnes sans activité professionnelle 
 
 </td>
     </tr>
@@ -4962,13 +4007,23 @@ Ne sait pas
   </tbody>
 </table>
 
-V. 1. f. - MOTIFSIG : en cas de signalement judiciaire après l'évaluation, motif du signalement judiciaire 
+e) Ressources du ménage au sein de la résidence principale du mineur/majeur 
+
+MINIMA : minima sociaux 
 
 <table>
   <tbody>
     <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
     </tr>
     <tr>
       <td align="center">
@@ -4978,7 +4033,7 @@ V. 1. f. - MOTIFSIG : en cas de signalement judiciaire après l'évaluation, mot
 </td>
       <td align="center">
 
-L'action ou les actions mises en œuvre précédemment n'ont pas permis de remédier à la situation 
+Non 
 
 </td>
     </tr>
@@ -4990,31 +4045,7 @@ L'action ou les actions mises en œuvre précédemment n'ont pas permis de remé
 </td>
       <td align="center">
 
-Refus explicite ou implicite de la famille d'accepter l'intervention proposée 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-3 
-
-</td>
-      <td align="center">
-
-Impossibilité de collaboration avec la famille 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-4 
-
-</td>
-      <td align="center">
-
-Impossibilité d'évaluer cette situation 
+Oui 
 
 </td>
     </tr>
@@ -5033,16 +4064,615 @@ Ne sait pas
   </tbody>
 </table>
 
-V. 2. - Problématiques familiales observées ou prises en compte dans le cadre de l'évaluation ou des bilans 
-
-V. 2. a. - CONDADD : conduite addictive (alcool ou drogue) d'un ou des adultes ayant en charge le mineur dans le lieu de
-résidence principale 
+ALLOC : allocations ou pensions liées à une situation d'invalidité ou de handicap
 
 <table>
   <tbody>
     <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+1 
+
+</td>
+      <td align="center">
+
+Non 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2 
+
+</td>
+      <td align="center">
+
+Oui 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+9 
+
+</td>
+      <td align="center">
+
+Ne sait pas 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+f) Caractéristiques sociodémographiques du père et/ou de la mère si non cohabitant avec le mineur (concerne uniquement les
+mineurs) 
+
+MEREINC : mère inconnue 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+1 
+
+</td>
+      <td align="center">
+
+Non 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2 
+
+</td>
+      <td align="center">
+
+Oui 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+9 
+
+</td>
+      <td align="center">
+
+Ne sait pas 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+PEREINC : père inconnu 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+1 
+
+</td>
+      <td align="center">
+
+Non 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2 
+
+</td>
+      <td align="center">
+
+Oui 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+9 
+
+</td>
+      <td align="center">
+
+Ne sait pas 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+ANSMERE : année de naissance de la mère
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+aaaa 
+
+</td>
+      <td align="center">
+
+Année de naissance de la mère 
+
+9999 si la valeur n'est pas connue 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+ANSPERE : année de naissance du père 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+aaaa 
+
+</td>
+      <td align="center">
+
+Année de naissance du père 
+
+9999 si la valeur n'est pas connue 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+DCMERE : mère décédée
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+1 
+
+</td>
+      <td align="center">
+
+Non 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2 
+
+</td>
+      <td align="center">
+
+Oui 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+9 
+
+</td>
+      <td align="center">
+
+Ne sait pas 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+DCPERE : père décédé
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+1 
+
+</td>
+      <td align="center">
+
+Non 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2 
+
+</td>
+      <td align="center">
+
+Oui 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+9 
+
+</td>
+      <td align="center">
+
+Ne sait pas 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+DATDCMERE : si décès de la mère, année et mois du décès 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+aaaa-mm 
+
+</td>
+      <td align="center">
+
+Si décès de la mère, mois et année du décès 
+
+9999 si année inconnue, 99 si mois inconnu 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+DATDCPERE : si décès du père, année et mois du décès
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+aaaa-mm 
+
+</td>
+      <td align="center">
+
+Si décès du père, mois et année du décès 
+
+9999 si année inconnue, 99 si mois inconnu 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+5. Informations recueillies au titre de l'évaluation de la situation du mineur/majeur 
+
+a) Evaluation 
+
+NOTIFEVAL : date de notification de la demande d'évaluation 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+aaaa-mm-jj 
+
+</td>
+      <td align="center">
+
+Date de notification de la demande d'évaluation 
+
+9999 si année inconnue, 99 si mois inconnu, 99 si jour inconnu 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+FINEVAL : date de fin de l'évaluation 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+aaaa-mm-jj 
+
+</td>
+      <td align="center">
+
+Date de fin de l'évaluation 
+
+9999 si année inconnue, 99 si mois inconnu, 99 si jour inconnu 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+MESANT : Existence d'une prestation ou mesure de protection de l'enfance en cours ou antérieure pour le mineur/majeur ou pour
+un autre enfant du ménage 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+1 
+
+</td>
+      <td align="center">
+
+Non 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2 
+
+</td>
+      <td align="center">
+
+Oui 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+9 
+
+</td>
+      <td align="center">
+
+Ne sait pas 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+ACCFAM : accompagnement social ou médico-social en cours d'au moins un membre du ménage
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+1 
+
+</td>
+      <td align="center">
+
+Non 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2 
+
+</td>
+      <td align="center">
+
+Oui 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+9 
+
+</td>
+      <td align="center">
+
+Ne sait pas 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+b) Problématiques familiales observées ou prises en compte dans le cadre de l'évaluation de la situation du mineur/majeur 
+
+CONDADD : conduite addictive (alcool ou drogue) d'un ou des adultes ayant en charge le mineur dans le lieu de résidence
+principale 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
     </tr>
     <tr>
       <td align="center">
@@ -5095,238 +4725,22 @@ Ne sait pas
   </tbody>
 </table>
 
-V. 2. b. - DEFINTEL : déficience intellectuelle ou mentale reconnue par la maison départementale des personnes handicapées
-d'un ou des adultes ayant en charge le mineur dans le lieu de sa résidence principale 
+DEFINTEL : situation de handicap psychique ou mental reconnue par la MDPH d'un ou des adultes ayant en charge le mineur dans
+le lieu de résidence principale 
 
 <table>
   <tbody>
     <tr>
-      <td align="center">CODE 
-
-</td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
-
-1 
-
-</td>
-      <td align="center">
-
-Non 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-2 
-
-</td>
-      <td align="center">
-
-Oui 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-9 
-
-</td>
-      <td align="center">
-
-Ne sait pas 
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-V. 2. c. - CONFL : exposition du mineur à un conflit de couple 
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center">CODE 
-
-</td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
-
-1 
-
-</td>
-      <td align="center">
-
-Non 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-2 
-
-</td>
-      <td align="center">
-
-Oui 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-9 
-
-</td>
-      <td align="center">
-
-Ne sait pas 
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-V. 2. d. - VIOLFAM : exposition du mineur à un climat de violence au sein de la famille 
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
-
-1 
-
-</td>
-      <td align="center">
-
-Non 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-2 
-
-</td>
-      <td align="center">
-
-Oui 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-9 
-
-</td>
-      <td align="center">
-
-Ne sait pas 
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-V. 2. e. - VIOLPERS : en cas de climat de violence au sein de la famille, personnes les plus concernées par ces violences 
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
-
-1 
-
-</td>
-      <td align="center">
-
-Violences entre conjoints ou ex-conjoints 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-2 
-
-</td>
-      <td align="center">
-
-Violences au sein de la fratrie 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-3 
-
-</td>
-      <td align="center">
-
-Violences intergénérationnelles 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-4 
-
-</td>
-      <td align="center">
-
-Violences concernant d'autres personnes 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-9 
-
-</td>
-      <td align="center">
-
-Ne sait pas 
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-V. 2. f. - VIOLFAMPHYS : en cas de climat de violence au sein de la famille, existence de violences physiques 
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center">
+      <th>
 
 CODE 
 
-</td>
-      <td align="center">
+</th>
+      <th>
 
-LIBELLE 
+LIBELLÉ 
 
-</td>
+</th>
     </tr>
     <tr>
       <td align="center">
@@ -5367,13 +4781,21 @@ Ne sait pas
   </tbody>
 </table>
 
-V. 2. g. - SOUTSOC : manque de soutien social et/ ou familial, isolement 
+CONFL : exposition du mineur à un conflit de couple 
 
 <table>
   <tbody>
     <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
     </tr>
     <tr>
       <td align="center">
@@ -5414,44 +4836,21 @@ Ne sait pas
   </tbody>
 </table>
 
-VI. - Informations sur la nature du danger ou du risque de danger justifiant une prise en charge en protection de l'enfance 
-
-VI. 1. - SANTÉ/ SÉCURITÉ/ MORALITÉ/ CONDEDUC/ CONDEDEV : nature du danger ou du risque de danger 
+VIOLFAM : exposition du mineur à un climat de violence au sein du ménage
 
 <table>
   <tbody>
     <tr>
-      <td colspan="4">CODE </td>
-    </tr>
-    <tr>
-      <td align="center">Non </td>
-      <td align="center">Oui 
+      <th>
 
-</td>
-      <td align="center">Ne sait pas </td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
+CODE 
 
-1 
+</th>
+      <th>
 
-</td>
-      <td align="center">
+LIBELLÉ 
 
-2 
-
-</td>
-      <td align="center">
-
-9 
-
-</td>
-      <td align="center">
-
-SANTÉ : santé du mineur en danger ou en risque de danger 
-
-</td>
+</th>
     </tr>
     <tr>
       <td align="center">
@@ -5461,9 +4860,23 @@ SANTÉ : santé du mineur en danger ou en risque de danger
 </td>
       <td align="center">
 
+Non 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
 2 
 
 </td>
+      <td align="center">
+
+Oui 
+
+</td>
+    </tr>
+    <tr>
       <td align="center">
 
 9 
@@ -5471,9 +4884,28 @@ SANTÉ : santé du mineur en danger ou en risque de danger
 </td>
       <td align="center">
 
-SECURITÉ : sécurité du mineur en danger ou en risque de danger 
+Ne sait pas 
 
 </td>
+    </tr>
+  </tbody>
+</table>
+
+SOUTSOC : manque de soutien social et/ou familial, isolement du mineur/majeur 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
     </tr>
     <tr>
       <td align="center">
@@ -5483,9 +4915,23 @@ SECURITÉ : sécurité du mineur en danger ou en risque de danger
 </td>
       <td align="center">
 
+Non 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
 2 
 
 </td>
+      <td align="center">
+
+Oui 
+
+</td>
+    </tr>
+    <tr>
       <td align="center">
 
 9 
@@ -5493,9 +4939,33 @@ SECURITÉ : sécurité du mineur en danger ou en risque de danger
 </td>
       <td align="center">
 
-MORALITÉ : moralité du mineur en danger ou en risque de danger 
+Ne sait pas 
 
 </td>
+    </tr>
+  </tbody>
+</table>
+
+6. Informations sur la nature du danger ou du risque de danger justifiant une prise en charge du mineur en protection de
+l'enfance (concerne uniquement les mineurs) 
+
+a) Nature du danger ou du risque de danger (concerne uniquement les mineurs) 
+
+SANTE : santé du mineur en danger ou en risque de danger
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
     </tr>
     <tr>
       <td align="center">
@@ -5505,9 +4975,23 @@ MORALITÉ : moralité du mineur en danger ou en risque de danger
 </td>
       <td align="center">
 
+Non 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
 2 
 
 </td>
+      <td align="center">
+
+Oui 
+
+</td>
+    </tr>
+    <tr>
       <td align="center">
 
 9 
@@ -5515,9 +4999,28 @@ MORALITÉ : moralité du mineur en danger ou en risque de danger
 </td>
       <td align="center">
 
-CONDEDUC : conditions d'éducations gravement compromises ou en risque de l'être 
+Ne sait pas 
 
 </td>
+    </tr>
+  </tbody>
+</table>
+
+SECURITE : sécurité du mineur en danger ou en risque de danger
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
     </tr>
     <tr>
       <td align="center">
@@ -5527,755 +5030,168 @@ CONDEDUC : conditions d'éducations gravement compromises ou en risque de l'êtr
 </td>
       <td align="center">
 
+Non 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
 2 
 
 </td>
+      <td align="center">
+
+Oui 
+
+</td>
+    </tr>
+    <tr>
       <td align="center">
 
 9 
 
 </td>
       <td align="center">
+
+Ne sait pas 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+MORALITE : moralité du mineur en danger ou en risque de danger 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+1 
+
+</td>
+      <td align="center">
+
+Non 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2 
+
+</td>
+      <td align="center">
+
+Oui 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+9 
+
+</td>
+      <td align="center">
+
+Ne sait pas 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+CONDEDUC : conditions d'éducation gravement compromises ou en risque de l'être 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+1 
+
+</td>
+      <td align="center">
+
+Non 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2 
+
+</td>
+      <td align="center">
+
+Oui 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+9 
+
+</td>
+      <td align="center">
+
+Ne sait pas 
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 CONDEDEV : conditions de développement physique, intellectuel, affectif ou social gravement compromises ou en risque de
-l'être 
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-VI. 2. - En cas de maltraitance associée, type de mauvais traitement 
-
-VI. 2. a. - VIOLSEX : violences sexuelles envers le mineur 
+l'être
 
 <table>
   <tbody>
     <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
+      <th>
 
-1 
+CODE 
 
-</td>
-      <td align="center">
-
-Non 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-2 
-
-</td>
-      <td align="center">
-
-Procédure, ou enquête en cours 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-3 
-
-</td>
-      <td align="center">
-
-Oui, avec allégations du mineur ou d'un tiers 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-4 
-
-</td>
-      <td align="center">
-
-Oui, avec décision de justice 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-9 
-
-</td>
-      <td align="center">
-
-Ne sait pas 
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-VI. 2. b. - VIOLPHYS : violences physiques envers le mineur 
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
-
-1 
-
-</td>
-      <td align="center">
-
-Non 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-2 
-
-</td>
-      <td align="center">
-
-Procédure, ou enquête en cours 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-3 
-
-</td>
-      <td align="center">
-
-Oui, avec allégations du mineur ou d'un tiers 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-4 
-
-</td>
-      <td align="center">
-
-Oui, avec décision de justice 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-9 
-
-</td>
-      <td align="center">
-
-Ne sait pas 
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-VI. 2. c. - NEGLIG : négligences lourdes envers le mineur 
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
-
-1 
-
-</td>
-      <td align="center">
-
-Non 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-2 
-
-</td>
-      <td align="center">
-
-Oui 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-9 
-
-</td>
-      <td align="center">
-
-Ne sait pas 
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-VI. 2. d. - VIOLPSY : violences psychologiques envers le mineur 
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
-
-1 
-
-</td>
-      <td align="center">
-
-Non 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-2 
-
-</td>
-      <td align="center">
-
-Oui 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-9 
-
-</td>
-      <td align="center">
-
-Ne sait pas 
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-VI. 3. - En cas de maltraitance associée, caractéristiques de la ou des deux personnes principales à l'origine du mauvais
-traitement 
-
-VI. 3. a. - LIENAUT1/ LIENAUT2 : lien de la ou des deux personnes principales à l'origine du mauvais traitement avec le
-mineur 
-
-<table>
-  <tbody>
-    <tr>
-      <td rowspan="2">CODE </td>
-      <td align="center">LIENAUT1 </td>
-      <td align="center">LIENAUT2 </td>
-    </tr>
-    <tr>
-      <td align="center">LIBELLÉ </td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
-
-10 
-
-</td>
-      <td align="center">
-
-Membre de la famille vivant avec le mineur 
-
-</td>
-      <td align="center">
-
-Membre de la famille vivant avec le mineur 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-20 
-
-</td>
-      <td align="center">
-
-Autre personne vivant avec le mineur 
-
-</td>
-      <td align="center">
-
-Autre personne vivant avec le mineur 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-30 
-
-</td>
-      <td align="center">
-
-Membre du lieu de prise en charge en hébergement 
-
-du mineur 
-
-</td>
-      <td align="center">
-
-Membre du lieu de prise en charge en hébergement 
-
-du mineur 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-40 
-
-</td>
-      <td align="center">
-
-Membre de la famille ne vivant pas avec le mineur 
-
-</td>
-      <td align="center">
-
-Membre de la famille ne vivant pas avec le mineur 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-50 
-
-</td>
-      <td align="center">
-
-Professionnel et assimilé ayant autorité sur le mineur 
-
-</td>
-      <td align="center">
-
-Professionnel et assimilé ayant autorité sur le mineur 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-60 
-
-</td>
-      <td align="center">
-
-Autre personne connue du mineur 
-
-</td>
-      <td align="center">
-
-Autre personne connue du mineur 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-70 
-
-</td>
-      <td align="center">
-
-Autre personne inconnue du mineur 
-
-</td>
-      <td align="center">
-
-Autre personne inconnue du mineur 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-80 
-
-</td>
-      <td align="center">
-
-Personne ne vivant pas avec le mineur sans distinction 
-
-supplémentaire 
-
-</td>
-      <td align="center">
-
-Personne ne vivant pas avec le mineur sans distinction 
-
-supplémentaire 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-99 
-
-</td>
-      <td align="center">
-
-Ne sait pas 
-
-</td>
-      <td align="center">
-
-Ne sait pas 
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-VI. 3. b. - SEXAUT1/ SEXAUT2 : sexe de la ou des deux personnes principales à l'origine du mauvais traitement 
-
-<table>
-  <tbody>
-    <tr>
-      <td rowspan="2" align="center">CODE </td>
-      <td>SEXAUT1 </td>
-      <td>SEXAUT2 </td>
-    </tr>
-    <tr>
-      <td>LIBELLÉ </td>
-      <td>LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
-
-1 
-
-</td>
-      <td align="center">
-
-Masculin 
-
-</td>
-      <td align="center">
-
-Masculin 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-2 
-
-</td>
-      <td align="center">
-
-Féminin 
-
-</td>
-      <td align="center">
-
-Féminin 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-9 
-
-</td>
-      <td align="center">
-
-Ne sait pas 
-
-</td>
-      <td align="center">
-
-Ne sait pas 
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-VI. 3. c. - MINAUT1/ MINAUT2 : statut de majorité ou minorité de la ou des deux personnes principales à l'origine du mauvais
-traitement 
-
-<table>
-  <tbody>
-    <tr>
-      <td rowspan="2" align="center">CODE </td>
-      <td align="center">MINAUT1 </td>
-      <td align="center">MINAUT2 </td>
-    </tr>
-    <tr>
-      <td align="center">LIBELLÉ </td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
-
-1 
-
-</td>
-      <td align="center">
-
-Mineur 
-
-</td>
-      <td align="center">
-
-Mineur 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-2 
-
-</td>
-      <td align="center">
-
-Majeur 
-
-</td>
-      <td align="center">
-
-Majeur 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-9 
-
-</td>
-      <td align="center">
-
-Ne sait pas 
-
-</td>
-      <td align="center">
-
-Ne sait pas 
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-VII. - Informations sur les décisions, mesures et interventions en protection de l'enfance 
-
-VII. 1. - DATDECPE : date de la décision de protection de l'enfance 
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
-
-jj 
-
-</td>
-      <td align="center">
-
-Jour 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-mm 
-
-</td>
-      <td align="center">
-
-Mois 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-aaaa 
-
-</td>
-      <td align="center">
-
-Année 
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-VII. 2. - INTERANT : existence d'une intervention antérieure en protection de l'enfance ou en assistance éducative 
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
-
-1 
-
-</td>
-      <td align="center">
-
-Non 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-2 
-
-</td>
-      <td align="center">
-
-Oui 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-9 
-
-</td>
-      <td align="center">
-
-Ne sait pas 
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-VII. 3. - Projet pour l'enfant 
-
-VII. 3. a. - PROJET : existence d'un projet pour l'enfant 
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
-
-1 
-
-</td>
-      <td align="center">
-
-Non 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-2 
-
-</td>
-      <td align="center">
-
-Oui 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-9 
-
-</td>
-      <td align="center">
-
-Ne sait pas 
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-VII. 3. b. - SIGNPAR/ SIGNMIN : signature du projet pour l'enfant par les parents et par le mineur 
-
-<table>
-  <tbody>
-    <tr>
-      <td rowspan="2">CODE 
-
-</td>
-      <td>SIGNPAR </td>
-      <td>SIGNMIN </td>
-    </tr>
-    <tr>
-      <td align="center">
+</th>
+      <th>
 
 LIBELLÉ 
 
-</td>
-      <td align="center">
-
-LIBELLÉ 
-
-</td>
+</th>
     </tr>
     <tr>
       <td align="center">
 
 1 
-
-</td>
-      <td align="center">
-
-Non 
 
 </td>
       <td align="center">
@@ -6295,6 +5211,59 @@ Non
 Oui 
 
 </td>
+    </tr>
+    <tr>
+      <td align="center">
+
+9 
+
+</td>
+      <td align="center">
+
+Ne sait pas 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+b) Situation du mineur qui a permis de considérer que, dans un cadre intrafamilial, il est en danger ou en risque de danger
+(concerne uniquement les mineurs) 
+
+VIOLSEX : violences sexuelles envers le mineur 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+1 
+
+</td>
+      <td align="center">
+
+Non 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2 
+
+</td>
       <td align="center">
 
 Oui 
@@ -6312,6 +5281,56 @@ Oui
 Ne sait pas 
 
 </td>
+    </tr>
+  </tbody>
+</table>
+
+VIOLPHYS : violences physiques envers le mineur
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+1 
+
+</td>
+      <td align="center">
+
+Non 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2 
+
+</td>
+      <td align="center">
+
+Oui 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+9 
+
+</td>
       <td align="center">
 
 Ne sait pas 
@@ -6321,64 +5340,474 @@ Ne sait pas
   </tbody>
 </table>
 
-VII. 3. c. - DATSIGNPROJ : date de la signature du projet pour l'enfant 
+NEGLIG : négligences envers le mineur 
 
 <table>
   <tbody>
     <tr>
-      <td align="center">CODE 
+      <th>
 
-</td>
-      <td align="center">LIBELLÉ </td>
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
     </tr>
     <tr>
       <td align="center">
 
-jj 
+1 
 
 </td>
       <td align="center">
 
-Jour 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-mm 
-
-</td>
-      <td align="center">
-
-Mois 
+Non 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-aaaa 
+2 
 
 </td>
       <td align="center">
 
-Année 
+Oui 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+9 
+
+</td>
+      <td align="center">
+
+Ne sait pas 
 
 </td>
     </tr>
   </tbody>
 </table>
 
-VII. 4. - Nature de la décision 
-
-VII. 4. a. - DECISION : nature de la décision de protection de l'enfance 
+VIOLPSY : violences psychologiques envers le mineur
 
 <table>
   <tbody>
     <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+1 
+
+</td>
+      <td align="center">
+
+Non 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2 
+
+</td>
+      <td align="center">
+
+Oui 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+9 
+
+</td>
+      <td align="center">
+
+Ne sait pas 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+VIOLCONJ : situation de violence conjugale dans le ménage au sein de la résidence principale du mineur
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+1 
+
+</td>
+      <td align="center">
+
+Non 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2 
+
+</td>
+      <td align="center">
+
+Oui 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+9 
+
+</td>
+      <td align="center">
+
+Ne sait pas 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+DANGER : mise en danger du mineur par lui-même 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+1 
+
+</td>
+      <td align="center">
+
+Non 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2 
+
+</td>
+      <td align="center">
+
+Oui 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+9 
+
+</td>
+      <td align="center">
+
+Ne sait pas 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+MINA : mineur privé temporairement ou définitivement de la protection de sa famille
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+1 
+
+</td>
+      <td align="center">
+
+Non 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2 
+
+</td>
+      <td align="center">
+
+Oui 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+9 
+
+</td>
+      <td align="center">
+
+Ne sait pas 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+7. Informations sur les décisions, mesures et interventions en protection de l'enfance 
+
+DATDECPE : date de la décision de protection de l'enfance
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+aaaa-mm-jj 
+
+</td>
+      <td align="center">
+
+Date de la décision de protection de l'enfance 
+
+9999 si année inconnue, 99 si mois inconnu, 99 si jour inconnu 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+INTERANT : existence d'une intervention antérieure en protection de l'enfance ou en assistance éducative 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+1 
+
+</td>
+      <td align="center">
+
+Non 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2 
+
+</td>
+      <td align="center">
+
+Oui 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+9 
+
+</td>
+      <td align="center">
+
+Ne sait pas 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+PROJET : existence d'un projet pour l'enfant (concerne uniquement les mineurs)
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+1 
+
+</td>
+      <td align="center">
+
+Non 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2 
+
+</td>
+      <td align="center">
+
+Oui 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+9 
+
+</td>
+      <td align="center">
+
+Ne sait pas 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+DATPPE : s'il existe un PPE, date d'établissement du PPE
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+aaaa-mm-jj 
+
+</td>
+      <td align="center">
+
+Date d'établissement du PPE 
+
+9999 si année inconnue, 99 si mois inconnu, 99 si jour inconnu 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+DECISION : nature de la décision de protection de l'enfance
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
     </tr>
     <tr>
       <td align="center">
@@ -6400,22 +5829,61 @@ Décision administrative en protection de l'enfance
 </td>
       <td align="center">
 
-Décision judiciaire en assistance éducative 
+Décision judiciaire en protection de l'enfance 
 
 </td>
     </tr>
   </tbody>
 </table>
 
-VII. 4. b. - NATPDECADM : si décision administrative de protection de l'enfance, préciser la nature de la décision 
+DATDEB : date de début effective de la prestation ou de la mesure de protection de l'enfance 
 
 <table>
   <tbody>
     <tr>
-      <td align="center">CODE 
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+aaaa-mm-jj 
 
 </td>
-      <td align="center">LIBELLÉ </td>
+      <td align="center">
+
+Date de début effective de la prestation ou de la mesure en protection de l'enfance 
+
+9999 si année inconnue, 99 si mois inconnu, 99 si jour inconnu 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+NATPDECADM : si décision administrative de protection de l'enfance, préciser la nature de la décision
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
     </tr>
     <tr>
       <td align="center">
@@ -6425,7 +5893,7 @@ VII. 4. b. - NATPDECADM : si décision administrative de protection de l'enfance
 </td>
       <td align="center">
 
-Aide à domicile, hors aides financières 
+Aide à domicile mineur , hors aides financières 
 
 </td>
     </tr>
@@ -6504,24 +5972,48 @@ Accueil parent-enfant (moins de 3 ans)
     <tr>
       <td align="center">
 
-17 
-
-</td>
-      <td align="center">
-
-Contrat responsabilité parentale 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
 18 
 
 </td>
       <td align="center">
 
 Autre décision administrative, à préciser 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+19 
+
+</td>
+      <td align="center">
+
+Accueil durable et bénévole chez un tiers 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+20 
+
+</td>
+      <td align="center">
+
+Aide éducative jeune majeur 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+21 
+
+</td>
+      <td align="center">
+
+Accueil provisoire du jeune majeur 
 
 </td>
     </tr>
@@ -6540,27 +6032,23 @@ Ne sait pas
   </tbody>
 </table>
 
-VII. 4. c. - AUTREDA : si autre décision administrative de protection de l'enfance, préciser la décision : champ ouvert 
+AUTREDA : si autre décision administrative de protection de l'enfance, préciser la décision (champ ouvert) 
 
-VII. 4. d. - NATDECASSED : si décision judiciaire en assistance éducative, préciser la nature de la décision 
+NATDECASSED : si décision judiciaire de protection de l'enfance, préciser la nature de la décision 
 
 <table>
   <tbody>
     <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
+      <th>
 
-10 
+CODE 
 
-</td>
-      <td align="center">
+</th>
+      <th>
 
-Non-lieu du juge des enfants 
+LIBELLÉ 
 
-</td>
+</th>
     </tr>
     <tr>
       <td align="center">
@@ -6577,36 +6065,12 @@ Mesure d'expertise
     <tr>
       <td align="center">
 
-12 
-
-</td>
-      <td align="center">
-
-Enquête sociale 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-13 
-
-</td>
-      <td align="center">
-
-Investigation d'orientation éducative 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
 14 
 
 </td>
       <td align="center">
 
-Mesure judiciaire d'investigation éducative 
+Mesure judiciaire d'investigation éducative ou investigation d'orientation éducative ou enquête sociale 
 
 </td>
     </tr>
@@ -6673,24 +6137,48 @@ Mesure judiciaire d'aide à la gestion du budget familial
     <tr>
       <td align="center">
 
-20 
+21 
 
 </td>
       <td align="center">
 
-Sursis à statuer 
+Autre mesure judiciaire, à préciser 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-21 
+22 
 
 </td>
       <td align="center">
 
-Autre mesure d'assistance éducative, à préciser 
+Délégation d'autorité parentale à l'aide sociale à l'enfance 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+23 
+
+</td>
+      <td align="center">
+
+Tutelle déférée à l'aide sociale à l'enfance 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+24 
+
+</td>
+      <td align="center">
+
+Protection jeune majeur 
 
 </td>
     </tr>
@@ -6709,47 +6197,67 @@ Ne sait pas
   </tbody>
 </table>
 
-VII. 4. e. - AUTREDJ : si autre décision judiciaire en assistance éducative, préciser la décision : champ ouvert 
+AUTREDJ : si autre décision judiciaire de protection de l'enfance, préciser la décision : (champ ouvert) 
 
-VII. 4. f. - NATDECPLAC : si décision judiciaire de placement, nature de la décision 
+NATDECPLAC : si décision judiciaire de placement, nature de la décision 
 
 <table>
   <tbody>
     <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 1 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
 Ordonnance de placement provisoire du juge des enfants 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="middle" align="center">
 
 2 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
 Jugement du juge des enfants 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
+
+3 
+
+</td>
+      <td valign="middle" align="center">
+
+Ordonnance de placement provisoire du parquet 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle" align="center">
 
 9 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
 Ne sait pas 
 
@@ -6758,99 +6266,102 @@ Ne sait pas
   </tbody>
 </table>
 
-VII. 4. g. - INSTITPLAC : personne ou institution à qui le mineur est confié 
+INSTITPLAC : si décision judiciaire de placement, personne ou institution à qui le mineur est confié 
 
 <table>
   <tbody>
     <tr>
-      <td align="center">CODE 
+      <th>
 
-</td>
-      <td align="center">LIBELLÉ </td>
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 1 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
 A l'autre parent 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="middle" align="center">
 
 2 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
 A un autre membre de la famille ou à un tiers digne de confiance 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 3 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
 A un service départemental d'aide sociale à l'enfance 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 4 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-A un service ou à un établissement habilité pour l'accueil de mineurs à la journée 
-
-ou suivant toute autre modalité de prise en charge 
+A un service ou à un établissement habilité pour l'accueil de mineurs à la journée ou suivant toute autre modalité de prise
+en charge 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="middle" align="center">
 
 5 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
 A un service ou à un établissement sanitaire ou d'éducation, ordinaire ou spécialisé 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="middle" align="center">
 
 6 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-Auprès d'un établissement recevant des personnes hospitalisées 
-
-en raison de troubles mentaux 
+Auprès d'un établissement recevant des personnes hospitalisées en raison de troubles mentaux 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 9 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
 Ne sait pas 
 
@@ -6859,15 +6370,23 @@ Ne sait pas
   </tbody>
 </table>
 
-VII. 5. - Si intervention administrative d'aide à domicile mise en œuvre 
+Si intervention administrative d'aide à domicile mise en œuvre 
 
-VII. 5. a. - TYPINTERDOM : type d'intervention mise en œuvre 
+TYPINTERDOM : type d'intervention mise en œuvre au titre de la décision administrative d'aide à domicile 
 
 <table>
   <tbody>
     <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
     </tr>
     <tr>
       <td align="center">
@@ -6877,7 +6396,7 @@ VII. 5. a. - TYPINTERDOM : type d'intervention mise en œuvre
 </td>
       <td align="center">
 
-Action d'un technicien de l'intervention sociale et familiale 
+Action d'un technicien de l'intervention sociale et familiale ou d'une aide ménagère 
 
 </td>
     </tr>
@@ -6889,7 +6408,7 @@ Action d'un technicien de l'intervention sociale et familiale
 </td>
       <td align="center">
 
-Mesure d'action éducative à domicile 
+Action éducative à domicile 
 
 </td>
     </tr>
@@ -6901,7 +6420,7 @@ Mesure d'action éducative à domicile
 </td>
       <td align="center">
 
-Mesure d'action éducative à domicile intensive ou renforcée 
+Action éducative à domicile intensive ou renforcée 
 
 </td>
     </tr>
@@ -6913,7 +6432,7 @@ Mesure d'action éducative à domicile intensive ou renforcée
 </td>
       <td align="center">
 
-Mesure d'action éducative à domicile avec hébergement périodique 
+Action éducative à domicile avec hébergement périodique 
 
 </td>
     </tr>
@@ -6925,7 +6444,7 @@ Mesure d'action éducative à domicile avec hébergement périodique
 </td>
       <td align="center">
 
-Mesure d'action éducative à domicile avec hébergement exceptionnel 
+Action éducative à domicile avec hébergement exceptionnel 
 
 </td>
     </tr>
@@ -6937,7 +6456,7 @@ Mesure d'action éducative à domicile avec hébergement exceptionnel
 </td>
       <td align="center">
 
-Mesure d'accompagnement en économie sociale et familiale 
+Accompagnement en économie sociale et familiale 
 
 </td>
     </tr>
@@ -6956,12 +6475,12 @@ Autre
     <tr>
       <td align="center">
 
-8 
+10 
 
 </td>
       <td align="center">
 
-Intervention décidée mais pas mise en œuvre 
+Aide éducative jeune majeur 
 
 </td>
     </tr>
@@ -6980,84 +6499,23 @@ Ne sait pas
   </tbody>
 </table>
 
-VII. 5. b. - DATDEBAD/ DATFINAD : date de début et date de fin d'intervention 
+Si décision administrative d'accueil provisoire 
+
+LIEUACC : principal lieu d'accueil du mineur/majeur dans le cadre de la décision administrative d'accueil provisoire
 
 <table>
   <tbody>
     <tr>
-      <td align="center" rowspan="2">CODE </td>
-      <td align="center">DATDEBAD </td>
-      <td align="center">DATFINAD 
+      <th>
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">LIBELLÉ </td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
+CODE 
 
-jj 
+</th>
+      <th>
 
-</td>
-      <td align="center">
+LIBELLÉ 
 
-Jour 
-
-</td>
-      <td align="center">
-
-Jour 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-mm 
-
-</td>
-      <td align="center">
-
-Mois 
-
-</td>
-      <td align="center">
-
-Mois 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-aaaa 
-
-</td>
-      <td align="center">
-
-Année 
-
-</td>
-      <td align="center">
-
-Année 
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-VII. 6. - Si décision administrative d'accueil provisoire 
-
-VII. 6. a. - LIEUACC : principal lieu d'accueil du mineur 
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
+</th>
     </tr>
     <tr>
       <td align="center">
@@ -7151,7 +6609,7 @@ Parrainage
 </td>
       <td align="center">
 
-Village d'enfant 
+Village d'enfants 
 
 </td>
     </tr>
@@ -7163,7 +6621,7 @@ Village d'enfant
 </td>
       <td align="center">
 
-Lieu de vie 
+Lieu de vie et d'accueil 
 
 </td>
     </tr>
@@ -7199,7 +6657,7 @@ Accueil de jour
 </td>
       <td align="center">
 
-Accueil avec hébergement chez les parents (service d'accueil progressif en milieu naturel) 
+Accueil avec hébergement chez les parents 
 
 </td>
     </tr>
@@ -7230,12 +6688,12 @@ Autre
     <tr>
       <td align="center">
 
-15 
+16 
 
 </td>
       <td align="center">
 
-Intervention décidée mais non mise en œuvre 
+Centre parental 
 
 </td>
     </tr>
@@ -7254,13 +6712,21 @@ Ne sait pas
   </tbody>
 </table>
 
-VII. 6. b. - ACCMOD : caractère modulable de l'accueil 
+ACCMOD : caractère modulable de l'accueil 
 
 <table>
   <tbody>
     <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
     </tr>
     <tr>
       <td align="center">
@@ -7301,13 +6767,21 @@ Ne sait pas
   </tbody>
 </table>
 
-VII. 6. c. - AUTRLIEUACC : existence d'un autre lieu d'accueil régulier du mineur 
+AUTRLIEUACC : existence d'un autre lieu d'accueil régulier du mineur/majeur
 
 <table>
   <tbody>
     <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
     </tr>
     <tr>
       <td align="center">
@@ -7348,112 +6822,24 @@ Ne sait pas
   </tbody>
 </table>
 
-VII. 6. d. - DATDEBACC/ DATFINACC : date de début et de fin d'intervention 
+Si décision judiciaire d'action éducative en milieu ouvert ou d'investigation 
+
+TYPDECJUD : type d'intervention mise en œuvre au titre de la décision judiciaire d'action éducative en milieu ouvert, ou
+d'investigation 
 
 <table>
   <tbody>
     <tr>
-      <td rowspan="2">CODE 
+      <th>
 
-</td>
-      <td>DATDEBACC </td>
-      <td>DATEFINACC </td>
-    </tr>
-    <tr>
-      <td align="center">LIBELLÉ 
+CODE 
 
-</td>
-      <td align="center">LIBELLÉ 
+</th>
+      <th>
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+LIBELLÉ 
 
-jj 
-
-</td>
-      <td align="center">
-
-Jour 
-
-</td>
-      <td align="center">
-
-Jour 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-mm 
-
-</td>
-      <td align="center">
-
-Mois 
-
-</td>
-      <td align="center">
-
-Mois 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-aaaa 
-
-</td>
-      <td align="center">
-
-Année 
-
-</td>
-      <td align="center">
-
-Année 
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-VII. 7. - Si décision judiciaire d'action éducative en milieu ouvert ou d'investigation 
-
-VII. 7. a. - TYPDECJUD : type d'intervention mise en œuvre 
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
-
-1 
-
-</td>
-      <td align="center">
-
-Enquête sociale 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-2 
-
-</td>
-      <td align="center">
-
-Investigation d'orientation éducative 
-
-</td>
+</th>
     </tr>
     <tr>
       <td align="center">
@@ -7463,7 +6849,7 @@ Investigation d'orientation éducative
 </td>
       <td align="center">
 
-Mesure judiciaire d'investigation éducative 
+Mesure judiciaire d'investigation éducative ou investigation d'orientation éducative ou enquête sociale 
 
 </td>
     </tr>
@@ -7554,18 +6940,6 @@ Autre
     <tr>
       <td align="center">
 
-11 
-
-</td>
-      <td align="center">
-
-Intervention décidée mais non mise en œuvre 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
 99 
 
 </td>
@@ -7578,82 +6952,23 @@ Ne sait pas
   </tbody>
 </table>
 
-VII. 7. b. - DATDEBINTER/ DATFININTER : date de début et date de fin d'intervention 
+Si décision judiciaire de placement ou décision relative à l'autorité parentale 
+
+LIEUPLAC : principal lieu d'accueil du mineur/majeur 
 
 <table>
   <tbody>
     <tr>
-      <td rowspan="2" align="center">CODE </td>
-      <td align="center">DATBEBINTER </td>
-      <td align="center">DATFININTER </td>
-    </tr>
-    <tr>
-      <td align="center">LIBELLÉ </td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
+      <th>
 
-jj 
+CODE 
 
-</td>
-      <td align="center">
+</th>
+      <th>
 
-Jour 
+LIBELLÉ 
 
-</td>
-      <td align="center">
-
-Jour 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-mm 
-
-</td>
-      <td align="center">
-
-Mois 
-
-</td>
-      <td align="center">
-
-Mois 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-aaaa 
-
-</td>
-      <td align="center">
-
-Année 
-
-</td>
-      <td align="center">
-
-Année 
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-VII. 8. - Si décision judiciaire de placement, personne ou structure à qui le mineur est confié 
-
-VII. 8. a. - LIEUPLAC : principal lieu de placement du mineur 
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
+</th>
     </tr>
     <tr>
       <td align="center">
@@ -7730,24 +7045,12 @@ Hébergement autonome
     <tr>
       <td align="center">
 
-7 
-
-</td>
-      <td align="center">
-
-Parrainage 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
 8 
 
 </td>
       <td align="center">
 
-Village d'enfant 
+Village d'enfants 
 
 </td>
     </tr>
@@ -7759,7 +7062,7 @@ Village d'enfant
 </td>
       <td align="center">
 
-Lieu de vie 
+Lieu de vie et d'accueil 
 
 </td>
     </tr>
@@ -7807,67 +7110,7 @@ Accueil avec hébergement chez les parents
 </td>
       <td align="center">
 
-Accueil en internat ordinaire (internat scolaire, foyer de jeunes travailleurs, centre de formation des apprentis, etc.) 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-14 
-
-</td>
-      <td align="center">
-
-Hébergement collectif traditionnel 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-15 
-
-</td>
-      <td align="center">
-
-Hébergement collectif en centre de placement immédiat 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-16 
-
-</td>
-      <td align="center">
-
-Hébergement collectif 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-17 
-
-</td>
-      <td align="center">
-
-Hébergement individualisé de la protection judiciaire de la jeunesse 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-18 
-
-</td>
-      <td align="center">
-
-Famille d'accueil de la protection judiciaire de la jeunesse 
+Accueil en internat ordinaire 
 
 </td>
     </tr>
@@ -7886,12 +7129,12 @@ Autre
     <tr>
       <td align="center">
 
-20 
+21 
 
 </td>
       <td align="center">
 
-Intervention décidée mais non mise en œuvre 
+Centre parental 
 
 </td>
     </tr>
@@ -7910,15 +7153,21 @@ Ne sait pas
   </tbody>
 </table>
 
-VII. 8. b. - PLACMOD : caractère modulable de l'accueil 
+PLACMOD : caractère modulable de l'accueil 
 
 <table>
   <tbody>
     <tr>
-      <td align="center">CODE 
+      <th>
 
-</td>
-      <td align="center">LIBELLÉ </td>
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
     </tr>
     <tr>
       <td align="center">
@@ -7959,13 +7208,21 @@ Ne sait pas
   </tbody>
 </table>
 
-VII. 8. c. - AUTRLIEUAR : existence d'un autre lieu d'accueil régulier du mineur 
+AUTRLIEUAR : existence d'un autre lieu d'accueil régulier du mineur/majeur 
 
 <table>
   <tbody>
     <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
     </tr>
     <tr>
       <td align="center">
@@ -8006,82 +7263,115 @@ Ne sait pas
   </tbody>
 </table>
 
-VII. 8. d. - DATDEBPLAC/ DATFINPLAC : date de début et date de fin d'intervention 
+8. Informations relatives au renouvellement de la mesure/prestation de protection de l'enfance 
+
+CHGLIEU : en cas de renouvellement d'une mesure de placement ou d'une prestation d'accueil du mineur, préciser si le mineur a
+changé de lieu principal d'accueil/placement lors de ce renouvellement (concerne uniquement les mineurs) 
 
 <table>
   <tbody>
     <tr>
-      <td rowspan="2" align="center">CODE </td>
-      <td align="center">DATDEBPLAC </td>
-      <td align="center">DATFINPLAC </td>
-    </tr>
-    <tr>
-      <td align="center">LIBELLÉ </td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
+      <th>
 
-jj 
+CODE 
 
-</td>
-      <td align="center">
+</th>
+      <th>
 
-Jour 
+LIBELLÉ 
 
-</td>
-      <td align="center">
-
-Jour 
-
-</td>
+</th>
     </tr>
     <tr>
       <td align="center">
 
-mm 
+1 
 
 </td>
       <td align="center">
 
-Mois 
-
-</td>
-      <td align="center">
-
-Mois 
+Non 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-aaaa 
+2 
 
 </td>
       <td align="center">
 
-Année 
+Oui 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+9 
 
 </td>
       <td align="center">
 
-Année 
+Ne sait pas 
 
 </td>
     </tr>
   </tbody>
 </table>
 
-VII. 9. - Renouvellement ou fin de l'intervention en protection de l'enfance 
+9. Informations relatives à la fin de la mesure/prestation de protection de l'enfance ou à la fin du renouvellement de la
+mesure/prestation de protection de l'enfance 
 
-VII. 9. a. - MOTFININT : en cas de fin de l'intervention en protection de l'enfance, préciser le motif 
+DATFIN : date de fin effective de la prestation ou de la mesure de protection de l'enfance 
 
 <table>
   <tbody>
     <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+aaaa-mm-jj 
+
+</td>
+      <td align="center">
+
+Date de début effective de la prestation ou de la mesure en protection de l'enfance 
+
+9999 si année inconnue, 99 si mois inconnu, 99 si jour inconnu 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+MOTFININT : en cas de fin de la mesure ou prestation de protection de l'enfance, préciser le motif 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
     </tr>
     <tr>
       <td align="center">
@@ -8103,19 +7393,19 @@ Mesure ou prestation arrivée à échéance
 </td>
       <td align="center">
 
-Mainlevée 
+Mainlevée ou fin anticipée 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
 3 
 
 </td>
       <td align="center">
 
-Transfert du dossier dans un autre département avec maintien de la mesure 
+Transfert du dossier dans un autre département avec maintien de la mesure/ prestation 
 
 </td>
     </tr>
@@ -8134,131 +7424,21 @@ Motif non connu
   </tbody>
 </table>
 
-VII. 9. b. - NOUVDECPE : si mesure ou prestation arrivée à échéance, nouvelle décision de protection de l'enfance 
+MOTIFML : si mainlevée ou fin anticipée, motif 
 
 <table>
   <tbody>
     <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
+      <th>
 
-1 
+CODE 
 
-</td>
-      <td align="center">
+</th>
+      <th>
 
-Non 
+LIBELLÉ 
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-2 
-
-</td>
-      <td align="center">
-
-Oui 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-9 
-
-</td>
-      <td align="center">
-
-Ne sait pas 
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-VII. 9. c - NATNOUVDECPE : si nouvelle décision de protection de l'enfance, préciser la nature de la décision 
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
-
-1 
-
-</td>
-      <td align="center">
-
-Décision administrative et prise en charge par l'aide sociale à l'enfance 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-2 
-
-</td>
-      <td align="center">
-
-Décision judiciaire et prise en charge par l'aide sociale à l'enfance 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-3 
-
-</td>
-      <td align="center">
-
-Décision judiciaire et prise en charge par la protection judiciaire de la jeunesse 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-4 
-
-</td>
-      <td align="center">
-
-Nouvelle mesure de protection sans distinction supplémentaire 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-9 
-
-</td>
-      <td align="center">
-
-Ne sait pas 
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-VII. 9. d. - MOTIFML : si mainlevée, motif de la mainlevée 
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
+</th>
     </tr>
     <tr>
       <td align="center">
@@ -8268,9 +7448,7 @@ VII. 9. d. - MOTIFML : si mainlevée, motif de la mainlevée
 </td>
       <td align="center">
 
-Absence de motif de protection de l'enfance justifiant la mesure, ou absence de danger 
-
-ou risque de danger 
+Absence de motif de protection de l'enfance justifiant la mesure, ou absence de danger ou risque de danger 
 
 </td>
     </tr>
@@ -8349,18 +7527,6 @@ Emancipation
     <tr>
       <td align="center">
 
-17 
-
-</td>
-      <td align="center">
-
-Mesure jeune majeur 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
 18 
 
 </td>
@@ -8397,204 +7563,54 @@ Ne sait pas
   </tbody>
 </table>
 
-VII. 9. e. - SITAPML : situation du mineur après la mainlevée 
+DATDECMIN : si décès du mineur/majeur, année et mois du décès
 
 <table>
   <tbody>
     <tr>
-      <td align="center">CODE 
+      <th>
 
-</td>
-      <td align="center">LIBELLÉ </td>
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
     </tr>
     <tr>
       <td align="center">
 
-1 
+aaaa-mm 
 
 </td>
       <td align="center">
 
-Retour en milieu familial 
+si décès du mineur/majeur, mois et année du décès 
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-2 
-
-</td>
-      <td align="center">
-
-Autonomie 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-3 
-
-</td>
-      <td align="center">
-
-Incarcération 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-4 
-
-</td>
-      <td align="center">
-
-Autre type d'intervention 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-9 
-
-</td>
-      <td align="center">
-
-Ne sait pas 
+9999 si année inconnue, 99 si mois inconnu 
 
 </td>
     </tr>
   </tbody>
 </table>
 
-VII. 9. f. - TYPINTERV : si autre type d'intervention après la mainlevée 
+DIPLOME : à la fin de la mesure ou prestation de protection de l'enfance, dernier diplôme obtenu par le mineur/majeur 
 
 <table>
   <tbody>
     <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
+      <th>
 
-1 
+CODE 
 
-</td>
-      <td align="center">
+</th>
+      <th>
 
-Prise en charge médicale ou médico-sociale avec orientation de la commission des droits et de l'autonomie 
+LIBELLÉ 
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-2 
-
-</td>
-      <td align="center">
-
-Prise en charge médicale ou médico-sociale sans orientation de la commission des droits et de l'autonomie 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-3 
-
-</td>
-      <td align="center">
-
-Mesure pénale de placement 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-4 
-
-</td>
-      <td align="center">
-
-Mesure pénale en milieu ouvert 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-5 
-
-</td>
-      <td align="center">
-
-Autre 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-9 
-
-</td>
-      <td align="center">
-
-Ne sait pas 
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-VII. 9. g. - DATDECMIN : si décès du mineur, mois et année du décès 
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
-    </tr>
-    <tr>
-      <td align="center">
-
-mm 
-
-</td>
-      <td align="center">
-
-Mois 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-aaaa 
-
-</td>
-      <td align="center">
-
-Année 
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-VII. 9. h. - DIPLOME : à la fin de l'intervention en protection de l'enfance, dernier diplôme obtenu par le mineur 
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center">CODE </td>
-      <td align="center">LIBELLÉ </td>
+</th>
     </tr>
     <tr>
       <td align="center">
@@ -8664,7 +7680,42 @@ Diplôme du supérieur
 </td>
       <td align="center">
 
-Ne sait pas
+Ne sait pas 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+NBCHGLIEU : à la fin de la mesure de placement ou de la prestation d'accueil, préciser le nombre de changements de lieu
+principal d'accueil/placement du mineur au cours de la mesure/prestation (concerne uniquement les mineurs)
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+CODE 
+
+</th>
+      <th>
+
+LIBELLÉ 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+n 
+
+</td>
+      <td align="center">
+
+A la fin de la mesure de placement ou de la prestation d'accueil, préciser le nombre de changements de lieu principal
+d'accueil/placement du mineur au cours de la mesure/prestation 
+
+99 si valeur non connue
 
 </td>
     </tr>
@@ -8677,9 +7728,9 @@ Ne sait pas
 
 	  - Décret n°2011-937 du 1er août 2011 (V)
 	  - Décret n°2011-937 du 1er août 2011 - art. 1 (V)
-	  - Code de l'action sociale et des familles - art. D226-3-5 (M)
+	  - Code de l'action sociale et des familles - art. D226-3-5 (V)
 	  - Code de l'action sociale et des familles - art. R542-2 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2011-937 du 1er août 2011 - art.
+	  - Décret n°2016-1966 du 28 décembre 2016 - art.
